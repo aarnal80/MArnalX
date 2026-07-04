@@ -1,8 +1,10 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado:** planificación. La implementación la hará Sonnet en un mensaje posterior.
-> **Autor del plan:** Opus (2026-07-04).
-> **Prueba de concepto ya entregada:** [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas reales convertidas de cloze → test.
+> **Estado:** v1 en marcha. App migrada, traducida al inglés y funcionando en local con **19 temas / 320 preguntas** (2026-07-05).
+> **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
+> **Datos en producción (`app/data/db.js`):** [`data/anking/step1_dataset_320q.json`](data/anking/step1_dataset_320q.json) — 19 temas (los 16 sistemas de First Aid + los 3 de la POC inicial), 320 preguntas generadas por un workflow de 16 agentes en paralelo (uno por sistema) a partir de tarjetas cloze de AnKing. 0 preguntas descartadas por malformadas.
+> Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
+> Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset de 320).
 
 ---
 
