@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "El análisis del líquido cefalorraquídeo (LCR) nos orientará en el diagnóstico de meningitis aguda en urgencias. Es CIERTO que:",
+  "opciones": {
+   "A": "La presencia de células de predominio mononuclear (MN), glucorraquia disminuida y aumento de proteínas suele ser característico de la meningitis tuberculosa, sin poder descartar otras etiologías.",
+   "B": "El LCR en meningitis vírica ofrece un líquido en predominio polinuclear (PMN), glucorraquia disminuida y aumento de proteínas corresponde con un perfil linfocitario.",
+   "C": "La meningitis vírica suele cursar en líquido con predominio PMN y glucorraquia normal.",
+   "D": "La meningitis hipotensora descapsula en aquel procedimiento electivo complementario que es el examen del LCR."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La individualización del riesgo en pacientes con neutropenia febril es fundamental para su evaluación y tratamiento. Señale cuál de las siguientes respuestas es CORRECTA:",
+  "opciones": {
+   "A": "En pacientes de bajo riesgo, el tratamiento antibiótico oral recomendado es amoxicilina/clavulánico + quinolona vía oral. En alérgicos a penicilina se puede sustituir amoxicilina/clavulánico por clindamicina.",
+   "B": "En pacientes con neutropenia febril de alto riesgo se debe iniciar tratamiento intravenoso con doble terapia antibiótica con flora gram normal. Los gases arteriales muestran: pH 7,2; pCO2 85 mmHg; pO2 55 mmHg; HCO3 30. Indique qué modo ventilatorio es el más aconsejable en este paciente.",
+   "C": "En los pacientes con neutropenia febril y foco infeccioso abdominal con diarrea estaría indicado el uso de vancomicina intravenosa o quinolonas IV.",
+   "D": "En pacientes con neutropenia febril y candidasis esofágica estaría indicado el tratamiento con daptomicina o linezolid IV."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Mujer de 55 años, acude al servicio de urgencias por mareo, astenia intensa y prurito palmo-plantar. A la exploración física destaca un exantema cutáneo generalizado, con lesiones urticariformes, y TA 60/41, Fc 122 lpm, Sat. O2 88%. ¿Cuál sería el tratamiento de 1ª elección?",
+  "opciones": {
+   "A": "Adrenalina a 0,01 mg/kg intramuscular.",
+   "B": "Salbutamol 2 puff en cámara.",
+   "C": "Metilprednisolona 0,1 mg/kg.",
+   "D": "Metoclopramida 20 mg intravenosa."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente es valorado por segunda vez en urgencias por un cuadro de episodios frecuentes de heces semilíquidas, con sangre y moco en ocasiones, desde que volvió de un viaje por distintos países tropicales. Al comprobar los estudios que se le han hecho vemos distintos coprocultivos y un informe desde microbiología que nos refiere al aislamiento de Entamoeba histolytica. La pauta adecuada de tratamiento inicial para este enfermo sería:",
+  "opciones": {
+   "A": "Ciprofloxacino 500 mg cada 12 horas durante 10 días.",
+   "B": "Levofloxacino 500 mg cada día durante 5 días.",
+   "C": "Vancomicina 125 mg cada 6 horas durante 10 días.",
+   "D": "Metronidazol 500-750 mg cada 8 horas durante 10 días."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Respecto a la Ascitis a tensión (Grado III) señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "La ascitis a tensión el tratamiento de selección son los diuréticos de asa: espironolactona libre en la cavidad peritoneal en cantidad superior a 5 litros.",
+   "B": "La dosis de albúmina recomendada al realizar una paracentesis evacuadora es de 8gr por cada 1L de líquido ascítico extraído.",
+   "C": "En la ascitis a tensión el tratamiento de elección son los diuréticos y restricción de sal.",
+   "D": "La cuantía de líquido ascítico evacuado no debe superar los 5L para evitar disfunciones hidroelectrolíticas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En la actualidad la medición de la triptasa sérica es la prueba más útil para el diagnóstico de anafilaxia. Aunque puede elevarse en muestras obtenidas entre 15 y 180 minutos después del comienzo de los síntomas, se aconseja la realización de una curva de triptasa con la extracción de al menos tres muestras seriadas. Señale la pauta de extracción de muestras recomendada:",
+  "opciones": {
+   "A": "La primera tras el inicio de la instauración del tratamiento, la segunda alrededor de 8 horas desde el comienzo y la tercera a partir de las 24 horas.",
+   "B": "La primera tras el inicio de la instauración del tratamiento, la segunda alrededor de 12 horas desde el comienzo y la tercera a partir de las 24 horas.",
+   "C": "La primera tras el inicio de la instauración del tratamiento, la segunda alrededor de 2 horas del tratamiento y la tercera a partir de las 24 horas.",
+   "D": "La primera tras la instauración del tratamiento, la segunda alrededor de 2 horas desde el comienzo y la tercera a partir de las 24 horas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿En qué situaciones estaría indicado la realización de pruebas complementarias de neuroimagen en el vértigo agudo en urgencias? Señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Síntomas de vértigo acompañado de primer episodio con cefalea muy intensa.",
+   "B": "Pérdida de audición asimétrica o unilateral.",
+   "C": "Maniobra oculocefálica (MOC) o Head Impulse Test positiva.",
+   "D": "Presencia de nistagmo esdo-rotatorio con nistagmo horizontal izquierda y marcha adáctica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente de 67 años refiere dolor en el oído izquierdo desde hace 2 días. Atendido ayer en su Centro de Salud, le pautaron tratamiento con amoxicilina/clavulánico y analgesia. Consulta hoy en Urgencias por desviación de la boca hacia la derecha y aparición de vesículas en el pabellón auricular izquierdo y en la cara. Ante esta situación, debemos considerar alguna de las siguientes posibilidades, señálela:",
+  "opciones": {
+   "A": "La sospecha es de un síndrome de Ramsay-Hunt y su tratamiento es antivirales vía oral.",
+   "B": "La causa más probable es una presentación del virus de herpes zóster.",
+   "C": "La parálisis facial asociada indica un mejor pronóstico que la idiopática.",
+   "D": "La principal sospecha es una mastoiditis, precisando ingreso hospitalario y tratamiento intravenoso."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Respecto a las pruebas de neuroimagen en el paciente que consulta por cefalea en urgencias, señale lo CORRECTO:",
+  "opciones": {
+   "A": "En pacientes de bajo riesgo, la TC o la angio-RM no tienen utilidad para el diagnóstico de los aneurismas o malformaciones vasculares.",
+   "B": "La cefalea intensa de inicio explosivo (cefalea en estallido) sólo tiene indicación de TC urgente cuando asocia síntomas o signos neurológicos focales diferentes del aura migrañosa.",
+   "C": "Se puede realizar una punción lumbar en urgencias cuando: pH 7,4; pCO2 85 mmHg; hay focalidad neurológica, el fondo de ojo muestra pulso venoso, ausencia de papiledema y el paciente no presenta alteración de la consciencia.",
+   "D": "Está indicado realizar un TC ante todo síndrome febril que asocie cefalea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Señale la respuesta incorrecta en la siguiente relación de patología ORL-germen más frecuente:",
+  "opciones": {
+   "A": "Erisipela-Staphylococcus aureus.",
+   "B": "Impétigo-Streptococcus hemolítico grupo A.",
+   "C": "Pericondritis del pabellón-Pseudomona aeruginosa.",
+   "D": "Otomicosis-Aspergillus."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La trombosis venosa superficial (TVS) ha sido clásicamente infravalorada, infradiagnosticada y, por lo tanto, infratratada. La anticoagulación de ésta entidad estaría recomendada en una de las siguientes situaciones:",
+  "opciones": {
+   "A": "TVS aislada menor de 2 cm.",
+   "B": "Ante la ausencia de trombosis venosa en el territorio profundo.",
+   "C": "TVS aislada mayor de 5 cm.",
+   "D": "Cuando no estén afectadas las venas perforantes."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente que llega a urgencias con signos de trombosis venosa superficial con afectación por encima de la rodilla, sintomatología aguda con historia previa de ETV y cirugía reciente de hombro. Usted le propone tratamiento con anticoagulación parenteral óptima al paciente riesgo alto, en este caso el tratamiento sugerido sería:",
+  "opciones": {
+   "A": "Iniciar anticoagulación con Acenocumarol como alternativa a la HBPM.",
+   "B": "Rivaroxabán 10mg/día con una recomendación débil.",
+   "C": "Rivaroxabán 20 mg con una recomendación fuerte.",
+   "D": "No anticoagular."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Señale la definición errónea en relación con los siguientes términos en patología psiquiátrica:",
+  "opciones": {
+   "A": "Obsesión: pensamiento recurrente, persistente o intrusivo y es reconocido como poco placentero.",
+   "B": "Alucinaciones: percepción subjetiva que va precedida de una impresión en los sentidos. Las alucinaciones visuales suelen estar asociadas a trastornos psiquiátricos y las alucinaciones auditivas a trastornos orgánicos.",
+   "C": "Delirio: Deterioro extremo del pensamiento y percepción con alucinaciones y distorsión de la realidad por parte del paciente.",
+   "D": "Fuga de ideas: trastorno del curso del pensamiento, con cambios bruscos y sin lógica en el discurso."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En cuanto a las transfusiones, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Pueden clasificarse por su cronología, en agudas (< 2 h) y retardadas (> 24 h hasta meses o años después).",
+   "B": "Durante la transfusión no se pueden añadir medicamentos ni otros fluidos por la misma vía. El SF isotónico 0,9 % es la única solución adecuada para su uso junto con la sangre (las soluciones hipotónicas y las que lleven dextrano pueden provocar hemólisis, y el calcio, coágulos al revertir el efecto anticoagulante del citrato).",
+   "C": "La lesión pulmonar asociada a la transfusión (TRALI) es un cuadro leve y transitorio que suele resolverse de forma espontánea sin tratamiento.",
+   "D": "La reacción transfusional que aparece cuando hay incompatibilidad ABO se caracteriza por prurito y ocasionalmente urticaria y buena respuesta al antibiótico/antihistamínico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "El diagnóstico diferencial más importante y frecuente del síndrome confusional agudo (SCA) se realiza con la demencia. Una de las siguientes características es orientativa de demencia frente a SCA:",
+  "opciones": {
+   "A": "Inicio agudo.",
+   "B": "Curso fluctuante.",
+   "C": "Consciencia alterada.",
+   "D": "Presencia infrecuente de alucinaciones."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varón de 48 años que acude a urgencias tras haber sufrido una quemadura por deflagración. Presenta quemaduras de tercer grado en región anterior de tórax, abdomen y ambos brazos con una superficie corporal afectada del 30%. El paciente pesa 80 kilos. Indique la velocidad de infusión de líquido requerida en las primeras 8 horas de manejo contando con que el paciente se encuentra hemodinámicamente estable:",
+  "opciones": {
+   "A": "800 ml/hora.",
+   "B": "200 ml/hora.",
+   "C": "300 ml/hora.",
+   "D": "500 ml/hora."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En el tratamiento farmacológico del síndrome confusional agudo en Urgencias, los neurolépticos atípicos son de elección en los pacientes geriátricos con elevada comorbilidad y/o polifarmacia. ¿De los siguientes, cuál no es un neuroléptico atípico?",
+  "opciones": {
+   "A": "Olanzapina.",
+   "B": "Aripiprazol.",
+   "C": "Tiaprizal.",
+   "D": "Risperidona."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La hidroxicobalamina (vitamina B12) es el tratamiento de elección en la intoxicación por (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Antidepresivos tricíclicos.",
+   "C": "Paracetamol.",
+   "D": "Cianuro."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un móvil trae a Urgencias a un varón de 40 años de edad, atendido en el campo, con mal estado general, semilíquidas, con sangre y moco en ocasiones. Una vez en la sala de reanimación, un acompañante nos refiere que es agricultor y que podría haber estado usando un plaguicida. La exploración física más nos refiere que es agricultor y que podría haber estado usando un plaguicida. La exploración física más como primera posibilidad?",
+  "opciones": {
+   "A": "Síndrome anticolinérgico.",
+   "B": "Síndrome colinérgico.",
+   "C": "Síndrome neuroleptico maligno.",
+   "D": "Síndrome serotoninérgico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "A la percepción de dolor ante un estímulo no doloroso se le denomina:",
+  "opciones": {
+   "A": "Disestesia.",
+   "B": "Hiperpatía.",
+   "C": "Hiperalgesia.",
+   "D": "Alodinia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre los fármacos utilizados para el tratamiento del dolor le parece correcta?",
+  "opciones": {
+   "A": "La nabumetona está contraindicada en pacientes anticoagulados con Sintrom.",
+   "B": "El celecoxib no se debe utilizar en pacientes con insuficiencia cardíaca de origen isquémico.",
+   "C": "La meperidina produce menos náuseas y vómitos que la morfina, como efecto adverso.",
+   "D": "La meperidina produce menos náuseas y vómitos que la morfina, como efecto adverso."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En los pacientes oncológicos puede aparecer el síndrome de lisis tumoral a las 12-72 horas de la administración del tratamiento antineoplásico. De forma insidiosa puede aparecer diarrea, náuseas, vómitos, anorexia, obnubilación o incluso espasmos y contracturas musculares, convulsiones, oligoanuria, etc. En este caso las alteraciones analíticas son diagnósticas. Señale las alteraciones que encontraríamos en el síndrome de lisis tumoral:",
+  "opciones": {
+   "A": "Hipercalcemia, hiperpotasemia, hipofosfatemia e hipocalcemia.",
+   "B": "Hipopotasemia, hiperpotasemia, hipofosfatemia e hipercalcemia.",
+   "C": "Hipouricemia, hipopotasemia, hiperfosfatemia e hipercalcemia.",
+   "D": "Hipercalcemia, hiperpotasemia, hiperfosfatemia e hipocalcemia."
+  },
+  "respuesta_correcta": "D"
+ }
+]

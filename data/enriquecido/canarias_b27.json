@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 573,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En los niños mayores de 5 años de edad, el lugar de acceso intraóseo más recomendable seria:",
+    "opciones": {
+      "A": "Porción distal de la tibia",
+      "B": "Porción proximal de la tibia",
+      "C": "Porción distal del fémur",
+      "D": "Porción proximal del fémur"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 103,
+      "tema": "Técnicas diagnóstico-terapéuticas: Cateterización de vías venosas centrales (yugular, subclavia, femoral) y periféricas. Vía intraósea."
+    },
+    "explicacion": {
+      "correcta": "En niños mayores de 5 años, la porción proximal de la tibia (cara anteromedial, 2-3 cm por debajo de la tuberosidad tibial) es el sitio de acceso intraóseo de primera elección porque presenta una cortical accesible, es fácilmente palpable y se aleja de la fisis de crecimiento proximal lo suficiente para minimizar complicaciones. Esta localización permite una infusión rápida y eficaz de fármacos y fluidos cuando el acceso venoso es imposible en situaciones de emergencia pediátrica.",
+      "incorrectas": {
+        "A": "La porción distal de la tibia puede utilizarse como sitio alternativo, pero no es la primera elección en mayores de 5 años debido a mayor riesgo de complicaciones locales y menor caudal de infusión.",
+        "C": "La porción distal del fémur se usa preferentemente en lactantes y recién nacidos, no en niños mayores de 5 años, donde la cortical es más gruesa y dificulta la inserción.",
+        "D": "La porción proximal del fémur no es un sitio estándar para el acceso intraóseo en ningún grupo de edad pediátrica; su profundidad y la proximidad a estructuras vasculares importantes lo hacen poco seguro."
+      }
+    }
+  },
+  {
+    "id_examen": 574,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál es el sistema de monitorización que ofrece la información más precoz de que un paciente se ha extubado accidentalmente?",
+    "opciones": {
+      "A": "EKG",
+      "B": "Pletismografia",
+      "C": "Pulsiosimetria",
+      "D": "Capnografia"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La capnografía mide el CO2 al final de la espiración (EtCO2) de forma continua y en tiempo real. Ante una extubación accidental, la curva de CO2 desaparece de inmediato o muestra valores cercanos a cero en el siguiente ciclo respiratorio, lo que permite detectar el evento de forma casi instantánea, antes de que aparezcan cambios en la saturación de oxígeno u otras variables. Es el estándar de oro para confirmar y monitorizar la posición del tubo endotraqueal.",
+      "incorrectas": {
+        "A": "El EKG monitoriza el ritmo cardiaco; una extubación accidental puede provocar cambios secundarios (taquicardia, bradicardia por hipoxia), pero estos son tardíos y no específicos del desplazamiento del tubo.",
+        "B": "La pletismografía valora la onda de pulso y la perfusión periférica; no detecta directamente la pérdida de ventilación y sus cambios son consecuencia tardía de la hipoxemia.",
+        "C": "La pulsioximetría detecta la caída de la saturación de oxígeno, pero esta puede tardar entre 30 segundos y varios minutos en aparecer tras la extubación, dependiendo de la preoxigenación previa del paciente."
+      }
+    }
+  },
+  {
+    "id_examen": 575,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Entre los efectos de la administración de presión positiva en la vía aérea se encuentra:",
+    "opciones": {
+      "A": "Disminución presión intracraneal",
+      "B": "Disminución de la producción de péptido natriurtético (BNP)",
+      "C": "Aumento precarga ventricular",
+      "D": "Aumento perfusión coronaria"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La presión positiva en la vía aérea (CPAP/BiPAP) reduce la precarga y la postcarga del ventrículo izquierdo, mejorando la función cardiaca en la insuficiencia cardiaca aguda. Como consecuencia de esta mejoría hemodinámica, disminuye el estrés de la pared miocárdica y la liberación de BNP. Este efecto beneficioso es una de las razones principales para usar la ventilación no invasiva en el edema agudo de pulmón.",
+      "incorrectas": {
+        "A": "La presión positiva puede aumentar la presión intracraneal al dificultar el retorno venoso cerebral e incrementar la presión venosa yugular; su uso debe ser cauteloso en pacientes con hipertensión intracraneal.",
+        "C": "La presión positiva disminuye la precarga ventricular (no la aumenta), ya que dificulta el retorno venoso sistémico al aumentar la presión intratorácica.",
+        "D": "La presión positiva puede disminuir la perfusión coronaria en algunos contextos al reducir el gasto cardiaco; no es un efecto beneficioso directo sobre la perfusión coronaria."
+      }
+    }
+  },
+  {
+    "id_examen": 576,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La dosis inicial recomendada de rocuronio para intubación orotraqual es de :",
+    "opciones": {
+      "A": "0,15mg/Kg",
+      "B": "0,20mg/Kg",
+      "C": "0,30mg/Kg",
+      "D": "0,6mg/Kg"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "La dosis estándar de rocuronio para la intubación de secuencia rápida es de 0,6 mg/kg IV, que proporciona condiciones de intubación adecuadas en aproximadamente 60-90 segundos. Cuando se requiere una parálisis más rápida comparable a la succinilcolina (intubación de secuencia rápida), puede aumentarse a 1,2 mg/kg. La dosis de 0,6 mg/kg es la recomendada internacionalmente como dosis inicial de intubación.",
+      "incorrectas": {
+        "A": "0,15 mg/kg es una dosis claramente insuficiente; solo produce bloqueo neuromuscular parcial y no genera condiciones adecuadas para la intubación.",
+        "B": "0,20 mg/kg también es subterapéutica para la intubación y no alcanza el bloqueo neuromuscular completo necesario.",
+        "C": "0,30 mg/kg sigue siendo una dosis sub-óptima que no garantiza las condiciones de intubación necesarias en el tiempo requerido para una secuencia rápida de intubación."
+      }
+    }
+  },
+  {
+    "id_examen": 577,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de estos fármacos no puede usarse en personas alérgicas al huevo?:",
+    "opciones": {
+      "A": "Propofol",
+      "B": "Ketamina",
+      "C": "Cisatracurio",
+      "D": "Todos ellos"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "El propofol está formulado en una emulsión lipídica que contiene lecitina de huevo (fosfatida de huevo) como emulsionante. Esta sustancia puede desencadenar reacciones alérgicas en pacientes con alergia al huevo, especialmente a la yema, por lo que está contraindicado o debe usarse con extrema precaución en estos pacientes.",
+      "incorrectas": {
+        "B": "La ketamina no contiene derivados del huevo en su formulación; es un anestésico disociativo que puede usarse de forma segura en alérgicos al huevo.",
+        "C": "El cisatracurio es un bloqueante neuromuscular no despolarizante cuya formulación no incluye componentes derivados del huevo y puede administrarse sin problema en estos pacientes.",
+        "D": "No todos los fármacos mencionados están contraindicados; solo el propofol tiene relación con la lecitina de huevo en su composición."
+      }
+    }
+  },
+  {
+    "id_examen": 578,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La ventilación asistida-controlada, señale la respuesta ERRONEA:",
+    "opciones": {
+      "A": "Evita la asincronia respiratoria",
+      "B": "Puede empeorar el atrapamiento aéreo",
+      "C": "Se puede aplicar con controlo de volumen o presión",
+      "D": "Permite al paciente varias la frecuencia respiratoria pero no el tipo de ventilación"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La afirmación errónea es que la ventilación asistida-controlada evita la asincronía respiratoria. En realidad, esta modalidad es una de las que más frecuentemente genera asincronías paciente-ventilador, como el auto-ciclado, el doble disparo o el esfuerzo ineficaz, especialmente cuando la frecuencia del paciente supera la programada o cuando existe atrapamiento aéreo.",
+      "incorrectas": {
+        "B": "Es cierto que puede empeorar el atrapamiento aéreo, especialmente en pacientes con obstrucción al flujo (EPOC, asma), al no permitir una espiración completa si la frecuencia es alta.",
+        "C": "Es correcto que puede aplicarse tanto con control de volumen (volumetría) como de presión (presométrica), siendo ambas variantes disponibles en la mayoría de ventiladores modernos.",
+        "D": "Es correcto que en esta modalidad el paciente puede iniciar respiraciones (variar la frecuencia), pero el tipo de ciclo ventilatorio (volumen o presión y parámetros) lo controla el ventilador."
+      }
+    }
+  },
+  {
+    "id_examen": 579,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes se considera que la administración de la ventilación mecánica no invasiva es exitosa o cumple sus objetivos terapéuticos?",
+    "opciones": {
+      "A": "Ausencia de disnea",
+      "B": "Frecuencia respiratoria del paciente >25rpm",
+      "C": "pH menor de 7,35",
+      "D": "Mantenimiento de una Saturación de oxigeno entre el 75-80%"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La ausencia o mejoría significativa de la disnea es uno de los criterios clínicos de éxito de la VMNI, junto con la reducción de la frecuencia respiratoria por debajo de 25 rpm, la mejoría del pH (>7,35), la normalización de la saturación de oxígeno (>90-92%) y la reducción del trabajo respiratorio. La mejoría subjetiva del paciente es un indicador precoz y fiable de respuesta positiva al tratamiento.",
+      "incorrectas": {
+        "B": "Una frecuencia respiratoria mayor de 25 rpm indica fracaso o respuesta insuficiente a la VMNI; el objetivo es reducir la frecuencia por debajo de 25 rpm.",
+        "C": "Un pH menor de 7,35 refleja acidosis persistente y es un criterio de fracaso de la VMNI; el éxito se asocia a normalización del pH por encima de 7,35.",
+        "D": "Una saturación entre 75-80% es gravemente insuficiente e indica fracaso del tratamiento; el objetivo es mantener saturaciones por encima del 90-92% según la patología de base."
+      }
+    }
+  },
+  {
+    "id_examen": 580,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El propofol:",
+    "opciones": {
+      "A": "Está especialmente indicado para la sedación de pacientes hemodinamicamente inestables",
+      "B": "Puede usarse en asmáticos",
+      "C": "La dosis de inducción es de 5mg",
+      "D": "Es seguro en el embarazo"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "El propofol puede usarse con seguridad en pacientes asmáticos; de hecho, tiene propiedades broncodilatadoras y es preferible a otros agentes como el tiopental sódico o la ketamina en determinados contextos. No libera histamina significativa y reduce las resistencias de la vía aérea, lo que lo hace adecuado para la inducción en pacientes con hiperreactividad bronquial.",
+      "incorrectas": {
+        "A": "El propofol está contraindicado o debe usarse con extrema precaución en pacientes hemodinámicamente inestables, ya que produce vasodilatación e hipotensión significativa; en estos casos se prefiere la ketamina o el etomidato.",
+        "C": "La dosis de inducción del propofol es de 1,5-2,5 mg/kg IV (reducida a 1-1,5 mg/kg en ancianos o pacientes debilitados); 5 mg es una dosis absolutamente insuficiente para la inducción anestésica.",
+        "D": "El propofol no está clasificado como seguro en el embarazo; atraviesa la barrera placentaria y no tiene suficiente evidencia de seguridad fetal, por lo que no se recomienda su uso sistemático en gestantes."
+      }
+    }
+  },
+  {
+    "id_examen": 581,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale cuál de los siguientes no es un dispositivo supraglótico:",
+    "opciones": {
+      "A": "Mascarilla laríngea",
+      "B": "Combitube",
+      "C": "Mascarilla I-gel",
+      "D": "Bujia de Boussignac"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "La bujía de Boussignac no es un dispositivo supraglótico sino un sistema de CPAP no invasiva por válvula; se trata de un pequeño cilindro que genera presión positiva continua en la vía aérea utilizando el flujo de oxígeno a alta presión, y se usa aplicado sobre una mascarilla facial convencional para tratar el edema agudo de pulmón u otras situaciones de insuficiencia respiratoria aguda.",
+      "incorrectas": {
+        "A": "La mascarilla laríngea (LMA) es el dispositivo supraglótico de referencia; se sitúa por encima de la glotis sellando la entrada laríngea sin necesidad de laringoscopia.",
+        "B": "El Combitube es un dispositivo supraglótico de doble lumen que puede funcionar tanto en posición esofágica como traqueal, usado en el manejo de la vía aérea difícil.",
+        "C": "La mascarilla I-gel es un dispositivo supraglótico de segunda generación sin manguito hinchable, fabricada en un material termoelástico que sella el complejo laringofaríngeo."
+      }
+    }
+  },
+  {
+    "id_examen": 582,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Respecto a la ventilación mecánica no invasiva, señale la afirmación CORRECTA:",
+    "opciones": {
+      "A": "Este tipo de ventilación es una modalidad de apoyo a la ventilación espontánea del paciente",
+      "B": "Permite que el paciente pueda toser de forma espontánea, eliminando sus secreciones",
+      "C": "Disminuye la aparición de complicaciones asociadas a la ventilación mecánica",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Todas las afirmaciones son correctas. La VMNI apoya la ventilación espontánea del paciente sin intubación, preserva los mecanismos de defensa de la vía aérea (incluyendo la tos y el aclaramiento mucociliar), y al evitar la intubación reduce significativamente las complicaciones asociadas a la ventilación mecánica invasiva como la neumonía asociada al ventilador, el barotrauma y el daño laringotraqueal.",
+      "incorrectas": {
+        "A": "Esta afirmación por sí sola es correcta, pero no es la respuesta más completa dado que todas las opciones son verdaderas.",
+        "B": "Esta afirmación también es correcta individualmente; al no tener un tubo endotraqueal, el paciente mantiene intacto el reflejo de la tos.",
+        "C": "Esta afirmación es igualmente correcta de forma independiente; la VMNI reduce la incidencia de neumonía nosocomial y otras complicaciones de la ventilación invasiva."
+      }
+    }
+  },
+  {
+    "id_examen": 583,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes NO es un criterio para definir al paciente geriatrico?",
+    "opciones": {
+      "A": "Edad mayor de 75 años",
+      "B": "Pluripatológico",
+      "C": "Ausencia de patología mental",
+      "D": "La enfermedad principal es incapacitante"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "La ausencia de patología mental no es un criterio para definir al paciente geriátrico; al contrario, la presencia de deterioro cognitivo, demencia u otras patologías mentales es uno de los elementos que con frecuencia caracterizan al paciente geriátrico típico. Los criterios clásicos incluyen edad avanzada (generalmente ≥75 años), pluripatología, enfermedad principal incapacitante, patología mental asociada y problemas sociales.",
+      "incorrectas": {
+        "A": "La edad mayor de 75 años sí es un criterio clásico para definir al paciente geriátrico, aunque algunos autores establecen el umbral en 65 años.",
+        "B": "La pluripatología (presencia de múltiples enfermedades crónicas simultáneas) es uno de los criterios definitorios del paciente geriátrico.",
+        "D": "Que la enfermedad principal sea incapacitante (produzca discapacidad funcional) es también un criterio clásico del paciente geriátrico según los criterios de Sociedad Española de Geriatría."
+      }
+    }
+  },
+  {
+    "id_examen": 584,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes NO es un objetivo de la valoración geriátrica integral?",
+    "opciones": {
+      "A": "Descubrir problemas tratables no diagnosticados",
+      "B": "Mejorar la calidad de vida",
+      "C": "Establecer un diagnostico sindrómico del paciente",
+      "D": "Establecer el tratamiento adecuado"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "Establecer un diagnóstico sindrómico no es el objetivo de la valoración geriátrica integral (VGI). La VGI tiene como objetivos identificar problemas no diagnosticados, mejorar la calidad de vida, establecer un plan de tratamiento y cuidados individualizado, optimizar la utilización de recursos sanitarios y sociales, y predecir el pronóstico funcional. El diagnóstico sindrómico corresponde más bien a la valoración clínica convencional, mientras que la VGI integra las dimensiones funcional, cognitiva, afectiva y social.",
+      "incorrectas": {
+        "A": "Descubrir problemas tratables no diagnosticados (como caídas, deterioro cognitivo incipiente, malnutrición) es uno de los objetivos fundamentales de la VGI.",
+        "B": "Mejorar la calidad de vida del paciente anciano es uno de los objetivos centrales de la VGI, orientando las intervenciones hacia los problemas con mayor impacto en el bienestar.",
+        "D": "Establecer el tratamiento adecuado y un plan de cuidados personalizado es otro de los objetivos esenciales de la VGI, adaptando las intervenciones a las necesidades globales del paciente."
+      }
+    }
+  },
+  {
+    "id_examen": 585,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes interacciones de fármacos en el anciano provoca como efecto secundario un incremento de las caídas?",
+    "opciones": {
+      "A": "Antihipertensivo y AINES",
+      "B": "Diurético ahorrador de potasio e IECA",
+      "C": "Diureticos de ASA y Digoxina",
+      "D": "Antihipertensivo vasodilatador y neurolépticos"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "La combinación de antihipertensivos vasodilatadores (como los calcioantagonistas o los alfa-bloqueantes) con neurolépticos (antipsicóticos) potencia el efecto hipotensor y produce hipotensión ortostática severa en el anciano. Este efecto provoca mareos y pérdida de equilibrio al levantarse, incrementando significativamente el riesgo de caídas. Además, los neurolépticos producen sedación y alteran los reflejos posturales, agravando aún más la inestabilidad.",
+      "incorrectas": {
+        "A": "La combinación de antihipertensivos con AINEs reduce el efecto antihipertensivo (los AINEs antagonizan el efecto de los antihipertensivos) y puede causar daño renal, pero no es la interacción más relacionada con el incremento de caídas.",
+        "B": "Los diuréticos ahorradores de potasio con IECAs pueden provocar hiperpotasemia grave, lo que es una interacción muy peligrosa, pero no se relaciona directamente con el incremento de caídas.",
+        "C": "Los diuréticos de asa con digoxina pueden provocar hipopotasemia que aumenta la toxicidad digitálica, con riesgo de arritmias, pero no es la combinación más directamente relacionada con las caídas."
+      }
+    }
+  },
+  {
+    "id_examen": 586,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes fármacos se relaciona con la aparición de síntomas depresivos en el anciano?",
+    "opciones": {
+      "A": "Corticoides",
+      "B": "Benzodiacepinas",
+      "C": "Neurolépticos",
+      "D": "Antidepresivos"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "Los corticoides son uno de los grupos farmacológicos más claramente relacionados con la aparición de alteraciones del estado de ánimo, incluyendo depresión, en el paciente anciano. Actúan sobre el eje hipotálamo-hipófisis-adrenal y producen disregulación del sistema serotoninérgico y dopaminérgico. Otros síntomas neuropsiquiátricos incluyen euforia, manía, insomnio y psicosis, pero la depresión es especialmente frecuente en tratamientos prolongados o tras la retirada brusca.",
+      "incorrectas": {
+        "B": "Las benzodiacepinas pueden causar sedación, deterioro cognitivo, depresión del sistema nervioso central y dependencia, pero no son el fármaco más reconocido por provocar síntomas depresivos de nova en el anciano.",
+        "C": "Los neurolépticos pueden causar síntomas extrapiramidales, sedación y akathisia, pero también pueden tener efectos antidepresivos en algunas indicaciones; no son los más relacionados con la inducción de depresión.",
+        "D": "Los antidepresivos, por definición, se usan para tratar la depresión; aunque pueden tener efectos paradójicos en algunos casos, no son el grupo de fármacos relacionado con la aparición de síntomas depresivos de forma típica."
+      }
+    }
+  },
+  {
+    "id_examen": 587,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes NO es una medida para el tratamiento del síndrome confusional agudo?",
+    "opciones": {
+      "A": "Cuidados del hábito intestinal",
+      "B": "Control analgésico optimo con opiáceos",
+      "C": "Evitar cambios de habitación",
+      "D": "Minimizar los cambios de personal responsable de la atención"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "El control analgésico con opiáceos no es una medida recomendada para el tratamiento del síndrome confusional agudo (delirium); de hecho, los opiáceos son uno de los principales desencadenantes de delirium en el anciano por sus efectos sobre el sistema nervioso central. El manejo del delirium se basa en medidas no farmacológicas (reorientación, ambiente estable, presencia de familiares) y en la identificación y tratamiento de la causa subyacente. Si hay que usar analgesia, se prefieren pautas escalonadas evitando en lo posible los opiáceos.",
+      "incorrectas": {
+        "A": "Los cuidados del hábito intestinal (prevención del estreñimiento) sí son una medida preventiva y terapéutica del delirium, ya que el estreñimiento puede actuar como desencadenante.",
+        "C": "Evitar cambios de habitación es una medida no farmacológica fundamental en el manejo del delirium; los cambios de entorno aumentan la desorientación y empeoran el cuadro.",
+        "D": "Minimizar los cambios de personal es también una medida orientada a proporcionar un entorno estable y familiar al paciente con delirium, facilitando su reorientación."
+      }
+    }
+  },
+  {
+    "id_examen": 588,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál es la forma de manifestación más habitual en el anciano de una reacción adversa a medicamentos?",
+    "opciones": {
+      "A": "Erupción cutánea",
+      "B": "Delirio",
+      "C": "Deterioro cognitivo",
+      "D": "Inestabilidad"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "Las erupciones cutáneas (exantemas) son la forma de presentación más frecuente de las reacciones adversas a medicamentos en la población general y también en el anciano. Aunque en el anciano las reacciones neuropsiquiátricas son más relevantes clínicamente, epidemiológicamente la erupción cutánea continúa siendo la manifestación más habitual de reacción adversa medicamentosa documentada en estudios de farmacovigilancia.",
+      "incorrectas": {
+        "B": "El delirio es una manifestación importante de reacción adversa a fármacos en el anciano (especialmente con anticolinérgicos, opiáceos o benzodiacepinas), pero no es la más habitual en términos de frecuencia global.",
+        "C": "El deterioro cognitivo puede ser consecuencia de ciertos fármacos en el anciano, pero su instauración suele ser más gradual y se confunde con patología de base, no siendo la presentación más habitual de reacción adversa aguda.",
+        "D": "La inestabilidad y las caídas son consecuencia frecuente de reacciones adversas (hipotensión, sedación), especialmente importantes por sus consecuencias, pero no son la manifestación más habitual en términos de frecuencia."
+      }
+    }
+  },
+  {
+    "id_examen": 589,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Los ancianos son mas susceptibles para sufrir un golpe de calor, si están tomando determinados medicamentos. Señale el fármaco que NO suele estar implicado",
+    "opciones": {
+      "A": "Diuréticos",
+      "B": "Anticolinégicos",
+      "C": "Antagonistas de leucotrienos",
+      "D": "Antiparkinsonianos"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "Los antagonistas de leucotrienos (montelukast, zafirlukast) no están relacionados con el golpe de calor; son fármacos antiinflamatorios usados en el asma y la rinitis alérgica que no afectan a los mecanismos termorreguladores ni a la sudoración. Su perfil de efectos adversos no incluye la inhibición de la disipación de calor.",
+      "incorrectas": {
+        "A": "Los diuréticos predisponen al golpe de calor al provocar deshidratación e hipovolemia, dificultando la sudoración y la termorregulación en situaciones de calor extremo.",
+        "B": "Los anticolinérgicos están claramente implicados en el golpe de calor porque bloquean la sudoración (efecto antisudorífico), impidiendo la principal vía de disipación de calor del organismo.",
+        "D": "Los antiparkinsonianos (especialmente los anticolinérgicos como el biperideno, y la levodopa en determinadas circunstancias) pueden alterar la termorregulación, reduciendo la sudoración y aumentando el riesgo de golpe de calor en el anciano."
+      }
+    }
+  },
+  {
+    "id_examen": 590,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes ítems NO se encuadra dentro de la valoración clínica y nutricional, dentro de la valoración geriátrica abreviada adaptada a los servicios de urgencias?",
+    "opciones": {
+      "A": "Detectar probable demencia",
+      "B": "Comorbilidad",
+      "C": "Polifarmacia",
+      "D": "Malnutrición"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "La detección de probable demencia pertenece al dominio de la valoración cognitiva y mental, no a la valoración clínica y nutricional de la valoración geriátrica abreviada adaptada a urgencias. En la valoración clínica y nutricional se evalúan parámetros como comorbilidad, polifarmacia, estado nutricional y presencia de síndromes geriátricos de tipo orgánico.",
+      "incorrectas": {
+        "B": "La comorbilidad (presencia de múltiples enfermedades crónicas) sí forma parte del apartado de valoración clínica de la VGA en urgencias.",
+        "C": "La polifarmacia (uso de 5 o más fármacos de forma crónica) es un ítem importante de la valoración clínica en urgencias por su impacto en las interacciones y reacciones adversas.",
+        "D": "La malnutrición y el estado nutricional son parte integrante de la valoración clínica y nutricional en la VGA adaptada a los servicios de urgencias."
+      }
+    }
+  },
+  {
+    "id_examen": 591,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes procesos NO predispone a una intoxicación digitálica en el anciano?",
+    "opciones": {
+      "A": "Deshidratación",
+      "B": "Insuficiencia hepática",
+      "C": "Hipopotasemia",
+      "D": "Insuficiencia renal"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "La insuficiencia hepática no predispone a la intoxicación digitálica, ya que la digoxina se elimina fundamentalmente por vía renal (excreción renal del 60-80%), no hepática. Por tanto, el deterioro de la función hepática no aumenta de forma significativa las concentraciones plasmáticas de digoxina ni su toxicidad. La insuficiencia renal sí es el principal factor de riesgo de toxicidad digitálica.",
+      "incorrectas": {
+        "A": "La deshidratación reduce el volumen de distribución y disminuye la excreción renal de digoxina, aumentando sus niveles plasmáticos y el riesgo de toxicidad.",
+        "C": "La hipopotasemia es un factor fundamental de predisposición a la toxicidad digitálica, ya que el potasio y la digoxina compiten por el mismo receptor (bomba Na/K-ATPasa) en las células miocárdicas; con niveles bajos de potasio, la digoxina ejerce un efecto mucho mayor.",
+        "D": "La insuficiencia renal es el principal factor de riesgo de toxicidad digitálica en el anciano, al reducir la eliminación de la digoxina y elevar sus concentraciones plasmáticas."
+      }
+    }
+  },
+  {
+    "id_examen": 592,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Desde el Servicio de Urgencias se puede iniciar un enfoque paliativo de los pacientes. ¿En cuál de los casos descritos a continuación NO estaría indicado?",
+    "opciones": {
+      "A": "Insuficiencia cardíaca NYHA IV con FEVI <30% y 3 ingresos en último año por síntomas secundarios a la misma",
+      "B": "EPOC con disnea de reposo FEV1 <30% y 3 ingresos en los últimos 6 meses por descompensación",
+      "C": "Insuficiencia renal crónica grave (FG<15), candidato a trasplante",
+      "D": "Cirrosis hepática avanzada (Child C) con ascitis refractaria"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 96,
+      "tema": "Cuidados paliativos en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Un paciente con insuficiencia renal crónica grave (FG<15) candidato a trasplante tiene una expectativa de tratamiento curativo o al menos modificador de la enfermedad (el trasplante renal). En este caso, el enfoque debe ser activo e intensivo, orientado a mantener al paciente en condiciones óptimas para el trasplante. El inicio de cuidados paliativos estaría contraindicado porque desplazaría el objetivo terapéutico hacia el confort cuando existe una opción potencialmente curativa disponible.",
+      "incorrectas": {
+        "A": "La IC avanzada NYHA IV con FEVI muy deprimida y múltiples ingresos hospitalarios cumple criterios de enfermedad avanzada con pronóstico limitado, siendo adecuado iniciar un enfoque paliativo desde urgencias.",
+        "B": "El EPOC con disnea de reposo, FEV1 muy reducido y descompensaciones frecuentes es un paciente en fase avanzada de su enfermedad con alta mortalidad a corto plazo, por lo que el enfoque paliativo está indicado.",
+        "D": "La cirrosis hepática avanzada (Child C) con ascitis refractaria tiene muy mal pronóstico a corto plazo (supervivencia inferior a un año) sin trasplante, y si no es candidato al mismo, el enfoque paliativo desde urgencias está claramente indicado."
+      }
+    }
+  },
+  {
+    "id_examen": 593,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En las fases finales del paciente paliativo, en ocasiones se originan abundantes ruidos asociados a los movimientos respiratorios producidos por la oscilación de las secreciones acumuladas (estertores premortem). Con frecuencia causan gran angustia en los familiares. Todas las siguiente, menos una, son medidas para paliarlos.",
+    "opciones": {
+      "A": "Poner en decúbito lateral, si es posible, con la cabeza elevada",
+      "B": "Disminuir la hidratación",
+      "C": "Butilescopolamina 20-40mg/8 horas vía subcutánea",
+      "D": "Baclofeno 5mg/8 horas vía subcutánea"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 96,
+      "tema": "Cuidados paliativos en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El baclofeno es un relajante muscular de acción central (agonista GABA-B) indicado para el tratamiento de la espasticidad; no tiene efecto sobre la secreción de moco ni sobre los estertores premortem y no se usa en el manejo de este síntoma. Incluirlo como medida para los estertores es incorrecto.",
+      "incorrectas": {
+        "A": "El decúbito lateral con la cabeza elevada favorece el drenaje de las secreciones por gravedad y disminuye los estertores; es una medida postural eficaz y recomendada.",
+        "B": "Disminuir la hidratación reduce la producción de secreciones y es una medida adecuada en la fase agónica para disminuir los estertores premortem, dado que la hidratación excesiva puede empeorarlos.",
+        "C": "La butilescopolamina (N-butilbromuro de hioscina) es el tratamiento farmacológico de elección para los estertores premortem; su efecto anticolinérgico reduce la producción de secreciones bronquiales y salivares. La dosis de 20-40 mg/8 horas subcutánea es la recomendada en guías de cuidados paliativos."
+      }
+    }
+  },
+  {
+    "id_examen": 594,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes fármacos administraría para el tratamiento de los espasmos musculares?",
+    "opciones": {
+      "A": "Fluoxetina",
+      "B": "Metilprednisolona",
+      "C": "Midazolam",
+      "D": "Baclofeno"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 96,
+      "tema": "Cuidados paliativos en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El baclofeno es el fármaco de elección para el tratamiento de los espasmos musculares y la espasticidad, tanto en el contexto de cuidados paliativos como en otras situaciones clínicas. Actúa como agonista de los receptores GABA-B en la médula espinal, inhibiendo la transmisión de los reflejos monosinápticos y polisinápticos responsables de los espasmos. Es especialmente útil en pacientes con patología neurológica como esclerosis múltiple, lesión medular o enfermedad de motoneurona.",
+      "incorrectas": {
+        "A": "La fluoxetina es un inhibidor selectivo de la recaptación de serotonina (ISRS) utilizado como antidepresivo; no tiene indicación en el tratamiento de los espasmos musculares.",
+        "B": "La metilprednisolona es un corticoide con acción antiinflamatoria e inmunosupresora; aunque puede usarse en situaciones de inflamación que causan dolor muscular, no es el tratamiento específico de los espasmos musculares.",
+        "C": "El midazolam es una benzodiacepina con efecto ansiolítico, sedante y anticonvulsivante; aunque tiene cierto efecto relajante muscular, no es el fármaco de primera elección para los espasmos musculares y se reserva para la sedación o el control de convulsiones."
+      }
+    }
+  }
+]

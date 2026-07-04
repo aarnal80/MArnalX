@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Los datos personales deben ser:",
+  "opciones": {
+   "A": "Tratados de manera lícita, leal y transparente en relación con el interesado.",
+   "B": "Recogidos con fines determinados, explícitos y legítimos, y no serán tratados ulteriormente de manera incompatible con dichos fines.",
+   "C": "Tratados de tal manera que se garantice una seguridad adecuada de los datos personales, incluida la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental, mediante la aplicación de medidas técnicas u organizativas apropiadas.",
+   "D": "Todas las afirmaciones anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la principal recomendación para el manejo de la trombosis coronaria durante la reanimación cardiopulmonar (RCP)?",
+  "opciones": {
+   "A": "Realizar fibrinolisis inmediata",
+   "B": "Realizar angioplastia coronaria percutánea",
+   "C": "No realizar ninguna intervención durante la RCP",
+   "D": "Administrar anticoagulantes parenterales"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la maniobra inicial recomendada para tratar la obstrucción de la vía aérea por cuerpo extraño en un adulto consciente?",
+  "opciones": {
+   "A": "Compresiones abdominales",
+   "B": "Maniobra de Heimlich",
+   "C": "Ventilación con bolsa-mascarilla",
+   "D": "Realizar intubación endotraqueal"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el enfoque recomendado para la reanimación cardiopulmonar (RCP) en una mujer embarazada que sufre un paro cardíaco?",
+  "opciones": {
+   "A": "Realizar RCP con las mismas técnicas que en una persona no embarazada",
+   "B": "Realizar únicamente compresiones torácicas sin ventilación",
+   "C": "Realizar únicamente ventilación sin compresiones torácicas",
+   "D": "Realizar cesárea de emergencia inmediata"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el enfoque recomendado para el manejo de la vía aérea después del retorno de la circulación espontánea durante la reanimación cardiopulmonar (RCP)?",
+  "opciones": {
+   "A": "Realizar intubación endotraqueal en todos los casos",
+   "B": "Usar una mascarilla con reservorio de oxígeno",
+   "C": "Realizar ventilación con bolsa-mascarilla eficaz",
+   "D": "No realizar ninguna intervención en la vía aérea"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes opciones es un criterio clave para la donación de órganos después de una parada cardíaca?",
+  "opciones": {
+   "A": "Edad del donante menor de 50 años",
+   "B": "Ausencia de enfermedades crónicas en el donante",
+   "C": "Tiempo de parada cardíaca inferior a 20 minutos",
+   "D": "Evaluación adecuada y descarte de contraindicaciones para la donación"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal para el manejo de la vía aérea en un paciente embarazado después del retorno de la circulación espontánea durante la reanimación cardiopulmonar (RCP)?",
+  "opciones": {
+   "A": "Realizar intubación endotraqueal de forma inmediata",
+   "B": "Usar una mascarilla con reservorio de oxígeno",
+   "C": "Realizar ventilación con bolsa-mascarilla con maniobras de hiperinsuflación",
+   "D": "No realizar ninguna intervención en la vía aérea y observar al paciente"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la principal recomendación para el manejo de la obstrucción de la vía aérea por cuerpo extraño en un adulto inconsciente durante la reanimación cardiopulmonar (RCP)?",
+  "opciones": {
+   "A": "Realizar compresiones abdominales de forma inmediata",
+   "B": "Realizar intubación endotraqueal sin demora",
+   "C": "Realizar ventilación con bolsa-mascarilla con maniobras de hiperinsuflación",
+   "D": "Realizar compresiones torácicas y, si es visible, extraer el cuerpo extraño con pinzas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal para la secuencia de pasos en la reanimación neonatal según las Directrices del Consejo Europeo de Reanimación 2021 Resumen ejecutivo?",
+  "opciones": {
+   "A": "Ventilación, masaje cardíaco, administración de adrenalina",
+   "B": "Masaje cardíaco, administración de adrenalina, ventilación",
+   "C": "Ventilación, administración de adrenalina, masaje cardíaco eficaz",
+   "D": "Masaje cardíaco, ventilación, administración de adrenalina"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación del Consejo Europeo de Reanimación 2021 en cuanto a la donación de órganos en el contexto de la reanimación?",
+  "opciones": {
+   "A": "Priorizar la donación de órganos sobre la reanimación del paciente",
+   "B": "Realizar pruebas de compatibilidad inmediatas en todos los pacientes en paro cardiorrespiratorio.",
+   "C": "Considerar la posibilidad de donación de órganos en casos seleccionados y en coordinación con los equipos especializados.",
+   "D": "Suspender la reanimación en pacientes potenciales para donación de órganos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal para el tratamiento europeo de las heridas torácicas abiertas según las Directrices del Consejo de Reanimación 2021 Resumen ejecutivo?",
+  "opciones": {
+   "A": "Realizar una sutura inmediata de la herida",
+   "B": "Aplicar una venda compresiva sobre la herida",
+   "C": "Usar un apósito estéril y sellar la herida herméticamente",
+   "D": "No realizar ninguna intervención directa en la herida, solo cubrirla con un apósito"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal sobre el uso de torniquetes para hemorragias externas mortales según las Directrices del Consejo Europeo de Reanimación 2021 Resumen ejecutivo?",
+  "opciones": {
+   "A": "Utilizar un torniquete solo como último recurso",
+   "B": "Aplicar un torniquete de forma inmediata en todas las hemorragias",
+   "C": "No utilizar torniquetes, sino aplicar presión directa en la herida",
+   "D": "Utilizar un torniquete solo en casos de hemorragias arteriales severas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal para el enderezamiento de una fractura angulada según las Directrices del Consejo Europeo de Reanimación 2021 Resumen ejecutivo?",
+  "opciones": {
+   "A": "Realizar una reducción cerrada de la fractura utilizando técnicas manuales",
+   "B": "Aplicar tracción continua sobre la extremidad afectada para alinear la fractura",
+   "C": "Inmovilizar la extremidad en la posición en la que se encuentra sin intentar enderezar la fractura",
+   "D": "Realizar una reducción abierta de la fractura utilizando dispositivos ortopédicos"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal para el transporte de un diente avulsionado según las Directrices del Consejo Europeo de Reanimación 2021 Resumen ejecutivo?",
+  "opciones": {
+   "A": "Colocar el diente en un vaso de agua hasta llegar al dentista",
+   "B": "Envolver el diente en un pañuelo de papel húmedo y llevar al dentista",
+   "C": "Colocar el diente nuevamente en su lugar y mantenerlo en posición durante el transporte",
+   "D": "No realizar ninguna acción en el diente y llevar al dentista de inmediato"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal para el manejo inicial de una fractura de pelvis?",
+  "opciones": {
+   "A": "Inmovilizar la pelvis con una férula rígida de inmediato",
+   "B": "Realizar tracción contínua para alinear la fractura de pelvis",
+   "C": "Evaluar y controlar las hemorragias externas de forma prioritaria",
+   "D": "Administrar analgésicos intravenosos para aliviar el dolor"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la recomendación principal del paciente para el transporte de un con fractura de pelvis?",
+  "opciones": {
+   "A": "Transportar al paciente en posición supina con las piernas extendidas",
+   "B": "Usar una tabla espinal para inmovilizar la columna y la pelvis",
+   "C": "Colocar almohadas debajo de las caderas para elevar la pelvis durante el transporte",
+   "D": "Realizar la movilización lo más pronto posible sin tener en cuenta la estabilidad de la fractura"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es una complicación potencial de una fractura de pelvis?",
+  "opciones": {
+   "A": "Lesión de órganos abdominales",
+   "B": "Fractura de huesos de las extremidades superiores",
+   "C": "Hernia inguinal",
+   "D": "Luxación de cadera"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la primera acción en el manejo de una víctima traumática con una posible lesión de la columna cervical?",
+  "opciones": {
+   "A": "Administrar oxígeno suplementario",
+   "B": "Inmovilizar la columna cervical",
+   "C": "Evaluar la permeabilidad de la vía aérea",
+   "D": "Realizar una evaluación neurológica"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el Servicio de Urgencias hay que tener presente que \"todo paciente con posibilidad de desarrollar una muerte encefálica es un potencial donante de órganos\". ¿En un paciente con coma estructural irreversible y evidenciado por neuroimagen, de entre los siguientes procesos concomitantes cuál NO es excluyente para la donación de órganos?",
+  "opciones": {
+   "A": "Hipertensión de larga evolución para la donación de riñón.",
+   "B": "Antecedentes de melanoma.",
+   "C": "Síndrome de disfunción multiorgánica para la donación de órganos sólidos.",
+   "D": "Tuberculosis no tratada correctamente"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Algunos problemas de seguridad del paciente en el Servicio de Urgencias Hospitalario (SUH) derivan de factores asociados a una evaluación inicial pobre o inaceptable, a la falta de reconocimiento de deterioro en la condición clínica del paciente y la inadecuada comunicación en el traspaso de la información clínica. Este tipo de riesgo se concentra en la fase de triaje y en los cambios de turno del personal. ¿Cuál de las siguientes NO es una medida recomendada de valoración del sistema de triaje en el SUH?",
+  "opciones": {
+   "A": "Nivel de triaje y tiempo de atención médica recomendada",
+   "B": "Nivel de triaje y número de recursos clínicos recomendados",
+   "C": "El sistema de triaje, validado, debe estar integrado en el sistema informático del hospital.",
+   "D": "Tiempo medio entre la llegada al SUH (momento de registro en Admisión) y realización del triaje (registro en el sistema informático)."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes sistemas estructurados de triaje NO tiene establecido un objetivo de tiempo máximo para el primer contacto o la primera valoración por el médico de urgencias?",
+  "opciones": {
+   "A": "Manchester triage Scale (MTS)",
+   "B": "Canadian triage and acuity scale (CTAS)",
+   "C": "Sistema español de triaje (SET)",
+   "D": "Emergency Severity Index 5 level triage (ESI)"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre los sistemas de triaje en los hospitales del SNS ¿qué afirmación NO es correcta?",
+  "opciones": {
+   "A": "El personal de Enfermería no utiliza ningún sistema estructurado de triaje cuando está implantado el sistema de triaje avanzado (en los que se usan protocolos específicos para solicitar pruebas básicas y administrar algunos tratamientos básicos antes de la entrada en la consulta médica).",
+   "B": "Los sistemas estructurados de triaje más usados en los hospitales del SNS son el Manchester triage Scale (MTS) y el sistema español de triaje (SET).",
+   "C": "En el triaje multidisciplinar está formado por personal de enfermería entrenado, se incluye siempre a un médico de urgencias y, además, puede incluirse a auxiliares de Enfermería, celador informador o administrativo.",
+   "D": "Actualmente es el personal de enfermería el que con más frecuencia realiza el triaje, con o sin ayuda del facultativo. En este sentido algunos estudios concluyen que el triaje de enfermería con apoyo médico es más eficiente que el triaje de enfermería aislado, sobre todo, para los casos de alta urgencia y complejidad."
+  },
+  "respuesta_correcta": "A"
+ }
+]

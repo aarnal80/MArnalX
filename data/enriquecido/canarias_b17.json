@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 353,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Un paciente presenta dolor de cabeza y náuseas tras permanecer una tarde en una casa rural con un brasero encendido. La sospecha es de intoxicación por monóxido de carbono (CO). Al administrar tratamiento con oxígeno normobárico debemos saber que:",
+    "opciones": {
+      "A": "La FiO2 debe ser 0,21",
+      "B": "La FiO2 debe ser 0.5",
+      "C": "La FiO2 debe ser 1",
+      "D": "La FiO2 dependerá de los niveles de carboxihemoglobina"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "C es correcta. En la intoxicación por CO, el objetivo es desplazar el CO de la hemoglobina lo antes posible. Para ello se administra oxígeno al 100% (FiO2 = 1) mediante mascarilla con reservorio, independientemente de los niveles de carboxihemoglobina. El oxígeno normobárico al 100% reduce la vida media de la carboxihemoglobina de aproximadamente 4-5 horas (respirando aire ambiente) a unos 60-90 minutos.",
+      "incorrectas": {
+        "A": "FiO2 de 0,21 corresponde al aire ambiente, que es exactamente la situación de partida que perpetúa la intoxicación. No aporta beneficio terapéutico alguno.",
+        "B": "FiO2 de 0,5 es insuficiente. El tratamiento exige la mayor concentración posible de oxígeno (100%) para competir eficazmente con el CO por los sitios de unión de la hemoglobina y reducir al máximo la vida media de la carboxihemoglobina.",
+        "D": "La dosis de oxígeno no varía según los niveles de carboxihemoglobina: siempre se administra al 100% (FiO2 = 1). Los niveles sirven para estratificar la gravedad y valorar indicación de cámara hiperbárica, pero no modifican la FiO2 del oxígeno normobárico."
+      }
+    }
+  },
+  {
+    "id_examen": 354,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿En que se fundamenta el uso de la cámara hiperbárica en la intoxicación por monóxido de carbono?:",
+    "opciones": {
+      "A": "El aumento de la supervivencia de las víctimas de la intoxicación",
+      "B": "La mejora selectiva de la perfusión a nivel miocárdico",
+      "C": "La disminución del efecto de la carboxihemoglobina sobre el feto",
+      "D": "La disminución de la vida media de la carboxihemoglobina a tan solo 30 minutos"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "D es correcta. El principal fundamento farmacológico de la oxigenoterapia hiperbárica (OHB) es la reducción drástica de la vida media de la carboxihemoglobina: con aire ambiente es de ~4-5 h, con O2 al 100% normobárico ~60-90 min, y con OHB a 2,5-3 atmósferas desciende a aproximadamente 20-30 minutos. Además, el O2 hiperbárico disuelto en plasma oxigena directamente los tejidos sin depender de la hemoglobina.",
+      "incorrectas": {
+        "A": "El beneficio sobre la supervivencia global de la OHB es controvertido en los estudios y no es el mecanismo principal que justifica su uso; los ensayos clínicos (p. ej., Weaver 2002) muestran sobre todo reducción de secuelas neurológicas, no reducción clara de mortalidad.",
+        "B": "La OHB no tiene un efecto selectivo sobre la perfusión miocárdica. El beneficio cardíaco deriva de la mayor disponibilidad de O2 disuelto en plasma, que es un efecto sistémico, no específico del miocardio.",
+        "C": "La protección fetal es una indicación clínica de la OHB (el feto es especialmente vulnerable), pero no el fundamento fisiopatológico principal de su uso. Es una consecuencia beneficiosa, no el mecanismo de acción que lo justifica."
+      }
+    }
+  },
+  {
+    "id_examen": 355,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Respecto al síndrome neurológico tardío por monóxido de carbono, señale la correcta:",
+    "opciones": {
+      "A": "Produce una disfunción neurológica y conductual",
+      "B": "Suele aparecer durante los 8 meses siguientes y principalmente en los primeros 21 días tras la intoxicación",
+      "C": "Reversible en el 50-75 % de los casos tras 1 año",
+      "D": "Todas las anteriores son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "D es correcta porque las tres afirmaciones (A, B y C) son correctas. El síndrome neurológico tardío (SNT) por CO: (A) se caracteriza por disfunción neurológica (parkinsonismo, deterioro cognitivo, alteraciones de la marcha) y conductual (cambios de personalidad, psicosis); (B) aparece tras un intervalo lúcido de días a semanas, principalmente en los primeros 21 días, aunque puede presentarse hasta 8 meses después; (C) es reversible en el 50-75% de los pacientes en el plazo de un año, aunque algunos quedan con secuelas permanentes.",
+      "incorrectas": {
+        "A": "Correcta en sí misma pero incompleta como respuesta única, ya que B y C también son verdaderas, por lo que la opción D es la respuesta más completa.",
+        "B": "Correcta en sí misma pero incompleta como respuesta única, por el mismo motivo que A.",
+        "C": "Correcta en sí misma pero incompleta como respuesta única; al ser A y B también verdaderas, D recoge toda la información."
+      }
+    }
+  },
+  {
+    "id_examen": 356,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Respecto a la intoxicación por cianhídrico (CNH), indique la Respuesta Correcta:",
+    "opciones": {
+      "A": "El cianhídrico (CNH) junto al monóxido de carbono (CO) son los gases asfixiantes más peligrosos de todos los presentes en el humo",
+      "B": "La oxigenoterapia hiperbárica sólo estaría indicada en el caso de coexistir una intoxicación por monóxido de carbono",
+      "C": "La hidroxicobalamina es el único antídoto seguro y eficaz que se puede usar en la sospecha de intoxicación por cianhídrico o cuando ésta está comprobada",
+      "D": "Todas las anteriores son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "D es correcta porque las tres afirmaciones son verdaderas. (A) El HCN y el CO son los principales gases asfixiantes del humo de incendio; (B) la OHB en intoxicación por cianuro solo está indicada si coexiste intoxicación por CO, ya que el cianuro no se une a la hemoglobina y la OHB no actúa sobre él directamente; (C) la hidroxicobalamina (Cyanokit) es el antídoto de elección, seguro incluso ante sospecha, ya que secuestra el cianuro formando cianocobalamina de eliminación renal, sin los efectos adversos de los nitritos (metahemoglobinemia).",
+      "incorrectas": {
+        "A": "Correcta en sí misma pero no recoge la totalidad de las afirmaciones verdaderas; D es más completa.",
+        "B": "Correcta en sí misma pero incompleta como respuesta única.",
+        "C": "Correcta en sí misma pero incompleta como respuesta única; D engloba las tres verdades."
+      }
+    }
+  },
+  {
+    "id_examen": 357,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En la intoxicación por monóxido de carbono, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "El síntoma más frecuente es la cefalea",
+      "B": "Debe sospecharse en todo paciente víctima de un incendio, inhalación de humo de aparatos de combustión",
+      "C": "Es fundamental en el tratamiento la oxigenoterapia a alta concentración (100%)",
+      "D": "La oxigenoterapia hiperbárica no está indicada en el tratamiento de la intoxicación por monóxido de carbono"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "D es la incorrecta (que es lo que pide la pregunta). La oxigenoterapia hiperbárica SÍ está indicada en la intoxicación por CO en determinadas situaciones: pérdida de conciencia, COHb > 25% (o > 20% en embarazadas), síntomas neurológicos graves, afectación cardiaca o embarazo. Afirmar que no está indicada es falso.",
+      "incorrectas": {
+        "A": "Afirmación verdadera: la cefalea es el síntoma más frecuente de la intoxicación por CO, presente en más del 90% de los casos; no se trata de una respuesta incorrecta.",
+        "B": "Afirmación verdadera: la sospecha clínica ante exposición a humo de incendio o aparatos de combustión (braseros, estufas de gas, calderas) es la clave diagnóstica, ya que la oximetría de pulso convencional no detecta la carboxihemoglobina.",
+        "C": "Afirmación verdadera: el O2 al 100% mediante mascarilla con reservorio es el pilar fundamental del tratamiento normobárico y debe instaurarse de inmediato."
+      }
+    }
+  },
+  {
+    "id_examen": 358,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Acuden 3 pacientes procedentes de un incendio en una fábrica de plásticos ¿A qué sustancias sospecha que pudieran estar expuestos?:",
+    "opciones": {
+      "A": "Monóxido de carbono y ácido cianhídrico",
+      "B": "Metano y cianuro",
+      "C": "Metano y monóxido de carbono",
+      "D": "Cianuro, monóxido de carbono y ácido sulfhídrico"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "A es correcta. La combustión incompleta de materiales plásticos (poliuretano, nailon, lana, seda, materiales nitrogenados) libera principalmente monóxido de carbono (CO) y ácido cianhídrico (HCN). Estos dos gases son los asfixiantes más peligrosos del humo de incendio en entornos industriales con plásticos, y su intoxicación combinada es especialmente letal.",
+      "incorrectas": {
+        "B": "El metano no es un producto típico de la combustión de plásticos en un incendio; además, el cianuro sin mencionar el CO es una respuesta incompleta. El metano se asocia más a fugas de gas natural.",
+        "C": "El metano no es el gas tóxico predominante en incendios de plásticos. La combinación clásica en este contexto es CO + HCN, no metano + CO.",
+        "D": "El ácido sulfhídrico (H2S) no es un producto habitual de la combustión de plásticos convencionales; se genera principalmente en la descomposición de materiales azufrados orgánicos, pozos de aguas residuales o industria petroquímica."
+      }
+    }
+  },
+  {
+    "id_examen": 359,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale la Respuesta Correcta en relación a la neuritis óptica:",
+    "opciones": {
+      "A": "Es típica la mácula de color rojo cereza",
+      "B": "Hay que descartar esclerosis múltiple y arteritis de la temporal",
+      "C": "No ocasiona pérdida de visión",
+      "D": "La papila óptica no se encuentra afectada"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es correcta. La neuritis óptica (NO) obliga a descartar esclerosis múltiple (la causa más frecuente en adultos jóvenes; hasta el 50% de los casos son el primer brote de EM) y arteritis de células gigantes (arteritis de la temporal) en pacientes mayores de 50 años, donde puede provocar ceguera bilateral irreversible si no se trata con corticoides.",
+      "incorrectas": {
+        "A": "La mácula en 'rojo cereza' es característica de la oclusión de la arteria central de la retina (OACR), no de la neuritis óptica. En la NO el fondo de ojo puede ser normal (forma retrobulbar) o mostrar edema de papila.",
+        "C": "La neuritis óptica SÍ ocasiona pérdida de visión, típicamente rápida (días), con afectación de la agudeza visual, visión cromática (discromatopsia) y defecto pupilar aferente relativo (pupila de Marcus Gunn).",
+        "D": "La papila óptica puede estar afectada en la forma anterior (papilitis), con edema de papila visible en el fondo de ojo. En la forma retrobulbar la papila es normal inicialmente, pero ello no significa que 'no esté afectada' en la totalidad de los casos."
+      }
+    }
+  },
+  {
+    "id_examen": 360,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Si un paciente consulta por pérdida brusca de la visión y dolor en un ojo, su primera sospecha diagnóstica será:",
+    "opciones": {
+      "A": "Oclusión de la arteria central de la retina",
+      "B": "Neuritis óptica",
+      "C": "Hemorragia vítrea",
+      "D": "Desprendimiento de retina"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es correcta. La combinación de pérdida brusca de visión con dolor ocular (especialmente con los movimientos oculares) es la presentación clásica de la neuritis óptica. El dolor con los movimientos del ojo es un signo muy característico y diferenciador respecto a otras causas de pérdida visual brusca.",
+      "incorrectas": {
+        "A": "La oclusión de la arteria central de la retina produce pérdida visual brusca e indolora ('como una persiana que cae'). La ausencia de dolor es un rasgo definitorio que la distingue de la neuritis óptica.",
+        "C": "La hemorragia vítrea produce pérdida visual brusca generalmente indolora, a menudo precedida de miodesopsias ('moscas volantes'). El dolor no es una característica habitual.",
+        "D": "El desprendimiento de retina cursa con pérdida visual progresiva (como una 'cortina' que avanza), precedida de fotopsias y miodesopsias, y habitualmente sin dolor."
+      }
+    }
+  },
+  {
+    "id_examen": 361,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En relación con la conjuntivitis bacteriana aguda, que afirmación no es correcta:",
+    "opciones": {
+      "A": "La conjuntivitis bacteriana se diagnostica a partir de los síntomas clínicos",
+      "B": "Los folículos son típicos de la conjuntivitis bacteriana",
+      "C": "Se caracteriza por una secreción mucopurulenta",
+      "D": "El comienzo es inicialmente unilateral con posible afectación del segundo ojo en unos días"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es la afirmación incorrecta. Los folículos (pequeñas elevaciones redondeadas en la conjuntiva con vaso central) son característicos de la conjuntivitis VÍRICA y por Chlamydia, NO de la bacteriana. La conjuntivitis bacteriana se caracteriza por papilas (no folículos) y por abundante secreción mucopurulenta.",
+      "incorrectas": {
+        "A": "Afirmación correcta: el diagnóstico de la conjuntivitis bacteriana es fundamentalmente clínico, basado en la secreción purulenta, la adherencia de párpados por la mañana ('ojo pegado') y la ausencia de fotofobia intensa. El cultivo no es necesario de rutina.",
+        "C": "Afirmación correcta: la secreción mucopurulenta (amarillenta o verdosa, espesa) es el signo más característico y diferenciador de la conjuntivitis bacteriana frente a la vírica (secreción acuosa) o alérgica (secreción filante).",
+        "D": "Afirmación correcta: la conjuntivitis bacteriana suele comenzar de forma unilateral y se puede extender al segundo ojo en 1-3 días por autoinoculación mediante las manos."
+      }
+    }
+  },
+  {
+    "id_examen": 362,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "No es típico de uveítis anterior aguda:",
+    "opciones": {
+      "A": "Dolor",
+      "B": "Inyección ciliar",
+      "C": "Fotofobia",
+      "D": "Midriasis"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "D es correcta (lo que no es típico). La uveítis anterior aguda (iritis/iridociclitis) produce MIOSIS, no midriasis, debido al espasmo del esfínter del iris secundario a la inflamación. Además, pueden formarse sinequias posteriores (adherencias del iris al cristalino) que también pueden deformar la pupila, pero la midriasis no es característica.",
+      "incorrectas": {
+        "A": "El dolor es un síntoma cardinal de la uveítis anterior aguda, de tipo profundo, sordo, que aumenta con la acomodación y la exposición a la luz.",
+        "B": "La inyección ciliar (enrojecimiento periquerático, más intenso alrededor del limbo esclerocorneal) es el signo oftalmológico más característico de la uveítis anterior, a diferencia de la inyección conjuntival difusa de las conjuntivitis.",
+        "C": "La fotofobia intensa es un síntoma típico de la uveítis anterior, consecuencia del espasmo del esfínter ciliar y de la inflamación intraocular. Es uno de los síntomas más incapacitantes para el paciente."
+      }
+    }
+  },
+  {
+    "id_examen": 363,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Paciente que acude al servicio de urgencias por presentar fiebre, dolor intenso con la movilidad ocular y sensación de calor periorbitario, señale la actitud más correcta:",
+    "opciones": {
+      "A": "Se prescribirán AINES y antibióticos tópicos además de colirio antibiótico",
+      "B": "Se prescribirán AINES y antibióticos sistémicos con tratamiento mantenido durante 14 días",
+      "C": "Se canaliza vía con hemocultivos seriados y antibióticos sistémicos agresivos y en terapia combinada",
+      "D": "Dosis iv/im de cefalosporina de tercera generación y consulta con oftalmología en 24 horas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "C es correcta. El cuadro descrito (fiebre, dolor intenso con la movilidad ocular, calor periorbitario) es compatible con celulitis orbitaria, una urgencia oftalmológica grave con riesgo vital (extensión al SNC: meningitis, trombosis del seno cavernoso, absceso cerebral). El manejo requiere: hospitalización, hemocultivos (antes de iniciar antibióticos), antibioterapia sistémica agresiva de amplio espectro en pauta combinada iv, TC orbitario urgente y valoración urgente por oftalmología y ORL.",
+      "incorrectas": {
+        "A": "El tratamiento tópico es claramente insuficiente en una celulitis orbitaria. Los antibióticos tópicos no alcanzan concentraciones terapéuticas en el tejido orbitario y los AINES solos no controlan la infección. Esta actitud retrasaría el tratamiento adecuado con riesgo de complicaciones graves.",
+        "B": "El tratamiento oral puede ser suficiente en la celulitis preseptal leve, pero no en la celulitis orbitaria. La gravedad del cuadro (fiebre, dolor con movilidad ocular, calor) exige vía iv, hemocultivos y antibioterapia combinada, no solo sistémica oral durante 14 días.",
+        "D": "Una sola dosis de cefalosporina y consulta diferida en 24 horas es insuficiente y peligrosa ante una probable celulitis orbitaria. El retraso de 24 horas sin ingreso ni antibioterapia continua puede permitir la extensión de la infección al seno cavernoso o al SNC."
+      }
+    }
+  },
+  {
+    "id_examen": 364,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La neuritis del nervio óptico se caracteriza por, señale la falsa:",
+    "opciones": {
+      "A": "Pérdida rápida de la visión en unos días",
+      "B": "Presencia de ojo rojo",
+      "C": "Pérdida de visión cromática",
+      "D": "Suele ser monocular"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es la afirmación falsa. La neuritis óptica NO cursa con ojo rojo. Es una patología del nervio óptico (no de la conjuntiva ni de los vasos superficiales), por lo que el ojo tiene aspecto externo normal. El ojo rojo es propio de patologías de segmento anterior (conjuntivitis, uveítis, glaucoma agudo, queratitis).",
+      "incorrectas": {
+        "A": "Afirmación verdadera: la pérdida de visión en la neuritis óptica es típicamente subaguda, progresando en horas o días (habitualmente en 1-2 semanas), hasta alcanzar el nadir de pérdida visual.",
+        "C": "Afirmación verdadera: la discromatopsia (pérdida de la visión cromática, especialmente para el rojo) es uno de los hallazgos más precoces y característicos de la neuritis óptica, a veces más llamativa que la pérdida de agudeza visual.",
+        "D": "Afirmación verdadera: la neuritis óptica es habitualmente monocular (unilateral), especialmente en el contexto de esclerosis múltiple. La afectación bilateral simultánea obliga a descartar otras etiologías (neuromielitis óptica, tóxica, nutricional)."
+      }
+    }
+  },
+  {
+    "id_examen": 365,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El glaucoma NO se caracteriza por uno de los siguientes signos y/o síntomas:",
+    "opciones": {
+      "A": "Dolor grave y profundo",
+      "B": "Miosis",
+      "C": "Agudeza visual muy disminuida",
+      "D": "Aspecto de la córnea turbia por edema"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es correcta (lo que NO caracteriza al glaucoma agudo). El glaucoma agudo de ángulo cerrado produce MIDRIASIS media arreactiva (pupila en posición intermedia, no reactiva a la luz), no miosis. La midriasis es un desencadenante clásico del ataque agudo (ambientes oscuros, fármacos midriáticos) y también un signo del mismo.",
+      "incorrectas": {
+        "A": "El dolor grave y profundo es un síntoma cardinal del glaucoma agudo de ángulo cerrado; puede irradiarse a la frente y región periorbitaria, y a veces se acompaña de náuseas y vómitos que pueden confundirse con un cuadro abdominal.",
+        "C": "La agudeza visual muy disminuida es característica del glaucoma agudo, secundaria al edema corneal por el aumento brusco de la presión intraocular (PIO > 40-50 mmHg habitualmente).",
+        "D": "La córnea turbia o empañada por edema estromal es un signo clásico del glaucoma agudo, visible a la inspección. El edema corneal se produce porque la hipertensión intraocular supera la capacidad de las bombas endoteliales para mantener la córnea deshidratada."
+      }
+    }
+  },
+  {
+    "id_examen": 366,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Siempre es motivo de derivación urgente a oftalmología si en un ojo rojo sospechamos:",
+    "opciones": {
+      "A": "Conjuntivitis",
+      "B": "Uveítis",
+      "C": "Queratitis actínica",
+      "D": "Queratitis traumática"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es correcta. La uveítis anterior aguda SIEMPRE requiere derivación urgente al oftalmólogo, ya que su diagnóstico diferencial es amplio (espondiloartropatías, sarcoidosis, infecciones), puede producir complicaciones graves (sinequias, glaucoma secundario, cataratas, pérdida visual permanente) y precisa tratamiento específico con corticoides y ciclopléjicos que deben ser supervisados por el especialista.",
+      "incorrectas": {
+        "A": "La conjuntivitis (especialmente la bacteriana leve y la alérgica) puede manejarse desde urgencias con tratamiento empírico tópico sin derivación urgente al oftalmólogo en la mayoría de los casos, salvo que sea hiperaguada (gonocócica) o no responda al tratamiento.",
+        "C": "La queratitis actínica (por radiación UV, p. ej. en soldadores) puede manejarse en urgencias con colirio ciclopléjico, pomada antibiótica y oclusión ocular, con revisión diferida en 24-48 horas. No precisa derivación urgente inmediata al especialista.",
+        "D": "La queratitis traumática (abrasión corneal) leve-moderada se maneja en urgencias con ciclopléjicos, antibiótico tópico y oclusión, con revisión en 24 horas. Solo requiere derivación urgente si existe sospecha de cuerpo extraño profundo o perforación."
+      }
+    }
+  },
+  {
+    "id_examen": 367,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes es falso en relación con una epiescleritis?:",
+    "opciones": {
+      "A": "El tratamiento es con antibióticos tópicos",
+      "B": "Ojo rojo",
+      "C": "Puede asociarse con artritis reumatoide",
+      "D": "Hiperemia aguda sectorial y dolor leve/ moderado"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "A es la afirmación falsa. La epiescleritis es una inflamación de la epiesclera (tejido entre la conjuntiva y la esclera) de etiología autoinmune o idiopática, NO infecciosa. Por tanto, los antibióticos tópicos no están indicados. El tratamiento consiste en AINES tópicos (colirio de diclofenaco, ketorolaco) o sistémicos en casos moderados, y corticoides tópicos en casos rebeldes.",
+      "incorrectas": {
+        "B": "Afirmación verdadera: la epiescleritis cursa con ojo rojo, típicamente de distribución sectorial (zona roja localizada, no difusa), de color rojo-salmón o rosado.",
+        "C": "Afirmación verdadera: la epiescleritis puede asociarse a enfermedades sistémicas autoinmunes como artritis reumatoide, lupus eritematoso sistémico, enfermedad inflamatoria intestinal o espondiloartropatías, aunque en muchos casos es idiopática.",
+        "D": "Afirmación verdadera: la hiperemia aguda sectorial (enrojecimiento localizado de la epiesclera) acompañada de dolor leve a moderado (a diferencia de la escleritis, que es muy dolorosa) es la presentación clásica de la epiescleritis."
+      }
+    }
+  },
+  {
+    "id_examen": 368,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Ante un paciente con miodesopsias o fotopsias previas y aparece disminución de la visión y amputación del campo visual como 'una cortina', pensaremos en:",
+    "opciones": {
+      "A": "Una uveítis posterior",
+      "B": "Una hemorragia vítrea",
+      "C": "Un desprendimiento de retina",
+      "D": "Una neuritis óptica"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "C es correcta. La secuencia clásica del desprendimiento de retina (DR) regmatógeno es: (1) miodesopsias (moscas volantes, por condensaciones vítreas o sangre) y fotopsias (destellos luminosos, por tracción vítreo-retiniana), seguidas de (2) amputación del campo visual periférico progresiva que avanza como 'una cortina' o 'sombra' hacia el centro de la visión. Esta tríada es prácticamente patognomónica del DR y requiere valoración oftalmológica urgente.",
+      "incorrectas": {
+        "A": "La uveítis posterior (coriorretinitis) puede producir pérdida visual y fotopsias, pero el defecto de campo visual en 'cortina' progresiva no es su forma de presentación típica. Además, suele acompañarse de inflamación ocular (células en vítreo) y se asocia a enfermedades sistémicas infecciosas o autoinmunes.",
+        "B": "La hemorragia vítrea produce pérdida visual brusca (a veces precedida de miodesopsias súbitas en 'lluvia de puntos negros'), pero la amputación del campo visual como 'cortina' progresiva no es su característica; más bien produce una 'nube' o pérdida visual global difusa.",
+        "D": "La neuritis óptica se presenta con pérdida de agudeza visual subaguda y dolor con los movimientos oculares, no con la clínica prodrómica de miodesopsias/fotopsias seguida de defecto de campo en cortina que es característica del desprendimiento de retina."
+      }
+    }
+  },
+  {
+    "id_examen": 369,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Si ante una exploración ocular encontramos importante disminución de la agudeza visual, descenso de la PIO, alteración de la forma de la pupila, edema conjuntival y aplanamiento de la cámara anterior, pensaremos en:",
+    "opciones": {
+      "A": "Una abrasión ocular",
+      "B": "Una perforación del globo ocular",
+      "C": "Una queratoconjuntivitis actínica",
+      "D": "Una laceración conjuntival"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "B es correcta. La perforación del globo ocular produce una constelación de signos que reflejan la pérdida de integridad de la pared ocular y el escape del humor acuoso: (1) disminución grave de la agudeza visual, (2) descenso de la PIO (hipotonía ocular, signo muy específico), (3) pupila en forma irregular o 'en lágrima' (por prolapso del iris hacia la herida), (4) quemosis (edema conjuntival) y (5) aplanamiento de la cámara anterior (por salida del humor acuoso). Es una urgencia oftalmológica que requiere cobertura ocular sin presión y cirugía urgente.",
+      "incorrectas": {
+        "A": "La abrasión corneal produce dolor intenso, fotofobia y lagrimeo, con defecto epitelial visible con fluoresceína, pero la PIO es normal o ligeramente elevada, la cámara anterior es normal y la pupila conserva su forma circular. No hay hipotonía ni aplanamiento de la cámara.",
+        "C": "La queratoconjuntivitis actínica (por radiación UV) produce dolor, fotofobia, hiperemia conjuntival y lesiones puntiformes corneales, pero sin alteración de la PIO, sin deformidad pupilar y sin aplanamiento de la cámara anterior.",
+        "D": "Una laceración conjuntival aislada puede producir hemorragia subconjuntival y dolor, pero no causa hipotonía, no deforma la pupila ni aplana la cámara anterior, ya que la integridad del globo se mantiene."
+      }
+    }
+  },
+  {
+    "id_examen": 370,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Mujer con erosión corneal por uña de su hijo, dolor intenso y fotofobia sin disminución de agudeza visual. ¿Cuál de las siguientes actuaciones no se recomienda?:",
+    "opciones": {
+      "A": "Antibiótico oral",
+      "B": "Colirio y/o pomada antibiótica tópica",
+      "C": "Colirio ciclopléjico",
+      "D": "Colirio de anestésico para realizar la exploración oftalmológica"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "A es la actuación no recomendada. Los antibióticos sistémicos (orales o parenterales) no están indicados en la erosión corneal simple sin signos de infección establecida ni perforación. La profilaxis antibiótica de las abrasiones corneales se realiza por vía TÓPICA (colirio o pomada), que logra concentraciones locales adecuadas sin necesidad de vía sistémica.",
+      "incorrectas": {
+        "B": "Recomendada: la antibiótica tópica (colirio de tobramicina, ciprofloxacino o pomada de cloranfenicol) está indicada en la erosión corneal para prevenir la sobreinfección bacteriana, especialmente en lesiones por materia vegetal u orgánica.",
+        "C": "Recomendado: el colirio ciclopléjico (ciclopentolato, tropicamida) reduce el espasmo del músculo ciliar y el iris, aliviando el dolor y la fotofobia. Es una medida analgésica fundamental en el manejo de la erosión corneal.",
+        "D": "Recomendado para la exploración: el anestésico tópico (oxibuprocaína, proximetacaína) se usa de forma puntual para poder realizar la exploración y retirar cuerpos extraños con el mínimo dolor. Sin embargo, NO debe prescribirse para uso domiciliario por el paciente, ya que enmascara el dolor y puede producir toxicidad corneal."
+      }
+    }
+  },
+  {
+    "id_examen": 371,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En las heridas palpebrales es cierto que:",
+    "opciones": {
+      "A": "Las heridas palpebrales superficiales menores de 1cm y/o bordes aproximados no precisan generalmente sutura",
+      "B": "Hay que valorar las heridas muy abigarradas y la posible lesión de las vías y saco lagrimal",
+      "C": "La reparación de las laceraciones palpebrales puede demorarse hasta 24/48 horas si es necesario",
+      "D": "Todas las anteriores son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "D es correcta porque las tres afirmaciones son verdaderas. (A) Las heridas palpebrales pequeñas con bordes bien aproximados pueden manejarse con cierre adhesivo sin sutura formal; (B) las heridas complejas requieren valorar la integridad del sistema de drenaje lagrimal (canalículos, saco lagrimal), especialmente en el canto medial; (C) a diferencia de otras heridas, la vascularización palpebral es excelente y permite demorar la reparación hasta 24-48 horas sin aumentar el riesgo de infección ni comprometer el resultado estético.",
+      "incorrectas": {
+        "A": "Verdadera en sí misma pero incompleta como respuesta única; D recoge las tres verdades.",
+        "B": "Verdadera en sí misma pero incompleta como respuesta única.",
+        "C": "Verdadera en sí misma pero incompleta como respuesta única; la gran vascularización palpebral permite esta demora."
+      }
+    }
+  },
+  {
+    "id_examen": 372,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Los cuerpos extraños córneoconjuntivales, ¿cuál es la afirmación falsa?:",
+    "opciones": {
+      "A": "Nunca se alojan a nivel del párpado superior por lo que no hay que revisarlo",
+      "B": "Con frecuencia son metálicos",
+      "C": "Provocan dolor ocular, lagrimeo intenso y fotofobia",
+      "D": "El tratamiento consiste en extracción del cuerpo extraño, colirio ciclopléjico y pomada oftálmica antibiótica"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "A es la afirmación falsa. Los cuerpos extraños córneoconjuntivales SÍ pueden alojarse bajo el párpado superior (en el fórnix conjuntival superior), siendo una localización muy frecuente. Por ello, la exploración sistemática SIEMPRE debe incluir la eversión del párpado superior para revisar la conjuntiva tarsal. No evertir el párpado es un error de exploración clásico que lleva a pasar por alto cuerpos extraños ocultos.",
+      "incorrectas": {
+        "B": "Afirmación verdadera: los cuerpos extraños metálicos (limaduras, virutas metálicas) son los más frecuentes, especialmente en trabajadores de la metalurgia o bricolaje sin protección ocular. Pueden oxidarse y formar un anillo de óxido (halo ferruginoso) que requiere desbridamiento especializado.",
+        "C": "Afirmación verdadera: dolor ocular (sensación de cuerpo extraño, escozor), lagrimeo reflejo intenso y fotofobia son los síntomas típicos de los cuerpos extraños córneoconjuntivales, producidos por la estimulación mecánica de las terminaciones nerviosas corneales.",
+        "D": "Afirmación verdadera: el tratamiento estándar incluye extracción del cuerpo extraño (bajo anestesia tópica), colirio ciclopléjico (para aliviar el espasmo ciliar), pomada antibiótica tópica (profilaxis de infección) y revisión en 24 horas para confirmar la cicatrización corneal."
+      }
+    }
+  },
+  {
+    "id_examen": 373,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En la queratoconjuntivitis actínica es falso que:",
+    "opciones": {
+      "A": "Son lesiones producidas por la radiación ultravioleta, en los soldadores y en los que practican deportes de invierno",
+      "B": "Hay edema palpebral, hiperemia conjuntival y lesiones corneales puntiformes superficiales a la tinción con fluoresceína",
+      "C": "Nunca se debe ocluir el ojo afecto",
+      "D": "El tratamiento consiste en colirio ciclopléjico, pomada oftálmica antibiótica y oclusión ocular"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "C es la afirmación falsa. La oclusión ocular SÍ está indicada en la queratoconjuntivitis actínica. Junto con el colirio ciclopléjico y la pomada antibiótica, la oclusión ocular (con parche) forma parte del tratamiento estándar: reduce el parpadeo (que fricciona la córnea lesionada), disminuye el dolor y favorece la cicatrización epitelial. Afirmar que 'nunca se debe ocluir' es incorrecto.",
+      "incorrectas": {
+        "A": "Afirmación verdadera: la queratoconjuntivitis actínica (o 'oftalmía eléctrica' o 'ceguera de las nieves') es producida por exposición excesiva a la radiación UV, siendo clásica en soldadores sin protección adecuada y en personas que practican deportes de montaña/esquí en nieve (que refleja el 80% de la UV).",
+        "B": "Afirmación verdadera: el cuadro clínico característico incluye edema palpebral, hiperemia conjuntival intensa, blefaroespasmo, fotofobia y queratitis puntiforme superficial (erosiones epiteliales múltiples) que se tiñen con fluoresceína y son visibles con luz de Wood o lámpara de hendidura.",
+        "D": "Afirmación verdadera: el tratamiento estándar de la queratoconjuntivitis actínica consiste en ciclopléjico tópico (para reducir el espasmo ciliar y el dolor), pomada antibiótica (profilaxis de infección) y oclusión ocular (para favorecer la cicatrización). Generalmente se recupera en 24-48 horas."
+      }
+    }
+  },
+  {
+    "id_examen": 374,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Referente a las prioridades terapéuticas en oftalmología, es falso que:",
+    "opciones": {
+      "A": "Las causticaciones oculares necesitan tratamiento inmediato",
+      "B": "El desprendimiento de retina necesita tratamiento urgente (en horas)",
+      "C": "Las heridas palpebrales necesitan tratamiento inmediato",
+      "D": "Los cuerpos extraños corneales necesitan tratamiento urgente (en horas)"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Oftalmología"
+    },
+    "explicacion": {
+      "correcta": "C es la afirmación falsa. Las heridas palpebrales NO requieren tratamiento INMEDIATO, sino urgente en horas o incluso pueden demorarse hasta 24-48 horas si es necesario, gracias a la excelente vascularización palpebral que permite diferir la reparación sin comprometer el resultado ni aumentar el riesgo de infección. El tratamiento inmediato (en minutos) se reserva para las causticaciones oculares.",
+      "incorrectas": {
+        "A": "Afirmación verdadera: las causticaciones oculares (por álcalis o ácidos) requieren tratamiento INMEDIATO (irrigación copiosa y prolongada con suero fisiológico o agua, sin demora diagnóstica). Son la única urgencia oftalmológica en la que el tiempo de irrigación desde el accidente es un determinante crítico del pronóstico visual.",
+        "B": "Afirmación verdadera: el desprendimiento de retina es urgente (en horas), especialmente si la mácula aún no está desprendida (DR pre-macular), ya que la cirugía precoz preserva la visión central. Una vez la mácula se desprende el pronóstico visual empeora significativamente.",
+        "D": "Afirmación verdadera: los cuerpos extraños corneales requieren tratamiento urgente en horas, ya que pueden causar ulceración corneal progresiva, infección o formación de halo ferruginoso (si son metálicos), pero no son tan perentorios como las causticaciones."
+      }
+    }
+  }
+]

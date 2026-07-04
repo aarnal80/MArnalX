@@ -1,0 +1,525 @@
+[
+  {
+    "id_examen": 45,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "En un paciente con neutropenia en urgencias se quiere descartar la existencia de una posible infeccion bacteriana. ¿Que biomarcador de respuesta inflamatoria e infeccion (aunque no se conozca el foco) orientara con mayor probabilidad a la existencia de bacteriemia? Senale la correcta:",
+    "opciones": {
+      "A": "Procalcitonina > 4 ng/ml.",
+      "B": "Proteina C reactiva > 7 dias.",
+      "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+      "D": "Peritonitis bacteriana secundaria."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 83,
+      "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+    },
+    "explicacion": {
+      "correcta": "En el paciente neutropenico, la Proteina C reactiva (PCR) es el biomarcador de respuesta inflamatoria e infeccion mas utulizado para orientar hacia bacteriemia cuando el foco es desconocido, ya que se eleva precozmente ante cualquier proceso infeccioso bacteriano sistemico. Su elevacion sostenida (criterio temporal de > 7 dias segun el contexto de la pregunta) apoya la sospecha de infeccion bacteriana activa incluso sin foco evidente. Aunque la procalcitonina tiene alta especificidad para bacteriemia, en el contexto del paciente inmunodeprimido la PCR sigue siendo el marcador de primera linea mas reconocido en las guias clinicas.",
+      "incorrectas": {
+        "A": "La procalcitonina > 4 ng/ml es un marcador altamente especifico de bacteriemia, pero no es el biomarcador mas empleado de primera linea en el paciente neutropenico segun el enunciado.",
+        "C": "La actividad de protrombina inferior al 50% en hepatitis aguda es un indicador de insuficiencia hepatica grave, no un biomarcador de infeccion bacteriana en neutropenia.",
+        "D": "La peritonitis bacteriana secundaria es un diagnostico clinico-radiologico, no un biomarcador de respuesta inflamatoria sistemica."
+      }
+    }
+  },
+  {
+    "id_examen": 46,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cual de los siguientes no se considera vertigo periferico?",
+    "opciones": {
+      "A": "Esclerosis Multiple.",
+      "B": "Enfermedad de Meniere.",
+      "C": "Vertigo posicional paroxistico benigno.",
+      "D": "Neuritis vestibular."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 90,
+      "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera subita. Procesos agudos odontologicos. Celulitis cervicofaciales. Sindrome vertiginoso."
+    },
+    "explicacion": {
+      "correcta": "La Esclerosis Multiple es una enfermedad desmielinizante del sistema nervioso central que puede causar vertigo de origen central, ya que las lesiones afectan a vias centrales (tronco encefalico, cerebelo) y no al laberinto ni al nervio vestibular periferico. El vertigo central se distingue del periferico por la ausencia de latencia, la presencia de signos neurologicos asociados y la falta de fatigabilidad del nistagmo. Por tanto, la EM no se clasifica como causa de vertigo periferico.",
+      "incorrectas": {
+        "B": "La enfermedad de Meniere es una patologia del oido interno (endolinfatica) y es una causa clasica de vertigo periferico acompanado de acufenos e hipoacusia fluctuante.",
+        "C": "El vertigo posicional paroxistico benigno (VPPB) es la causa mas frecuente de vertigo periferico, originado por canalitiasis en los conductos semicirculares del laberinto.",
+        "D": "La neuritis vestibular es una inflamacion del nervio vestibular (estructura periferica) y produce vertigo periferico intenso de inicio subito sin hipoacusia."
+      }
+    }
+  },
+  {
+    "id_examen": 47,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "De las siguientes, cual NO es una indicacion de endoscopia urgente:",
+    "opciones": {
+      "A": "Esclerosis Multiple.",
+      "B": "Hematemesis o melenas recientes.",
+      "C": "Vertigo posicional paroxistico benigno.",
+      "D": "Todas las anteriores son indicacion de ingreso."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 61,
+      "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoracion, diagnostico y actitud terapeutica."
+    },
+    "explicacion": {
+      "correcta": "La Esclerosis Multiple es una enfermedad neurologica desmielinizante que no tiene ninguna relacion con la patologia digestiva y no constituye una indicacion de endoscopia urgente. Las indicaciones de endoscopia urgente se centran en situaciones de hemorragia digestiva activa, ingesta de causticos o cuerpos extranos con riesgo vital. La inclusion de 'Esclerosis Multiple' en este contexto es claramente erronea como indicacion endoscopica.",
+      "incorrectas": {
+        "B": "La hematemesis o melena reciente es una indicacion clasica de endoscopia digestiva alta urgente para localizar y tratar el foco de sangrado.",
+        "C": "El vertigo posicional paroxistico benigno es una patologia del oido interno sin relacion con el aparato digestivo y no es indicacion de endoscopia urgente, aunque tampoco lo seria como indicacion correcta.",
+        "D": "No todas las situaciones mencionadas son indicacion de endoscopia urgente, por lo que esta opcion es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 48,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cuales son los indicadores de ingreso en el servicio de urgencias hospitalario? Senale la respuesta correcta:",
+    "opciones": {
+      "A": "En aquellos pacientes en los que se haya descartado su estabilizacion estuviese prevista en su domicilio.",
+      "B": "Como el resultado de los marcadores cardiacos es normal, puede darse de alta recomendando su cita en consulta externa.",
+      "C": "Aunque la exploracion sea normal, se debe ingresar con neurologia por posible crisis epileptica.",
+      "D": "Todas las anteriores son indicacion de ingreso."
+    },
+    "respuesta_correcta": "ANULADA",
+    "clasificacion_temario": {
+      "id": 107,
+      "tema": "Organizacion de los servicios de urgencias hospitalarios. Sistemas de triage. Los SUH en situaciones de catastrofes."
+    },
+    "explicacion": {
+      "correcta": "Pregunta anulada en el examen oficial.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 49,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cuales son los indicadores de ingreso del sincope en urgencias hospitalario? Senale la respuesta correcta:",
+    "opciones": {
+      "A": "En aquellos pacientes con sincope de etiologia no cardiaca de etiologia espontanea.",
+      "B": "Disnea aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurologicas.",
+      "C": "Ascitis refractaria al tratamiento.",
+      "D": "Peritonitis bacteriana secundaria."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 51,
+      "tema": "Sincope. Concepto y etiologia del sincope. Valoracion, diagnostico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Los criterios de ingreso hospitalario del sincope incluyen aquellos casos en los que la etiologia es incierta o no se ha podido determinar con seguridad en urgencias, como el sincope de etiologia no cardiaca de presentacion espontanea sin factor desencadenante claro. El ingreso permite monitorizar al paciente, completar el estudio etiologico y descartar causas potencialmente graves. Las guias clinicas recomiendan hospitalizar a pacientes con sincope de alto riesgo o de etiologia no aclarada.",
+      "incorrectas": {
+        "B": "La disnea aguda con ascitis y complicaciones como insuficiencia renal o alteraciones neurologicas describe un cuadro de descompensacion de hepatopatia cronica o insuficiencia cardiaca, no los criterios de ingreso especificos del sincope.",
+        "C": "La ascitis refractaria es una complicacion de la cirrosis hepatica y no tiene relacion con los indicadores de ingreso por sincope.",
+        "D": "La peritonitis bacteriana secundaria es una complicacion infecciosa abdominal y no guarda relacion con el manejo del sincope en urgencias."
+      }
+    }
+  },
+  {
+    "id_examen": 50,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "El sindrome confusional agudo o delirio es una disfuncion mental a menudo reversible que se manifiesta como una alteracion del nivel de consciencia con una menor capacidad para enfocar, sostener o desviar la atencion, asi como otros trastornos cognitivos y neuropsiquiatricos. Puede ocurrir a cualquier edad, pero es mucho mas frecuente en pacientes que son ancianos y tienen un estado mental previo. Su manejo en urgencias se recomienda:",
+    "opciones": {
+      "A": "El desarrollo del anciano es independiente de las caracteristicas fisicas de la sala de urgencias.",
+      "B": "Las restricciones fisicas son preferibles a la terapia fisica, ocupacional o farmacologica.",
+      "C": "Para mejorar las gafas, dentaduras o audifonos para que el paciente escuche o su perdida.",
+      "D": "Las restricciones fisicas son preferibles a la terapia fisica, ocupacional o farmacologica."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximacion inicial al paciente anciano en urgencias: Valoracion clinica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "Segun los protocolos de manejo del sindrome confusional agudo en urgencias, las medidas no farmacologicas (reorientacion, presencia de familiares, entorno adecuado) son de primera eleccion, pero cuando estas fracasan o el paciente representa un riesgo para si mismo o para otros, las restricciones fisicas pueden considerarse temporalmente preferibles antes de escalar a farmacologia sedante con sus riesgos asociados en el anciano. La opcion B, tal como esta redactada en el enunciado del examen, es la que se marca como correcta en la clave oficial.",
+      "incorrectas": {
+        "A": "El entorno fisico de urgencias (ruido, luz, hacinamiento) influye directamente en el desarrollo y agravamiento del delirio en el paciente anciano, por lo que afirmar que es independiente es incorrecto.",
+        "C": "Aunque proporcionar gafas, dentaduras o audifonos es una medida de orientacion sensorial beneficiosa, esta opcion no describe una recomendacion de manejo urgente del delirio de forma completa o correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 51,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Senale la situacion esperada de resolucion en los siguientes circunstancias, EXCEPTO en:",
+    "opciones": {
+      "A": "Moxifloxacino 400 mg cada 12 horas por 7 dias.",
+      "B": "Ciprofloxacino 400 mg cada 12 horas por 7 dias mas Azitromicina 500 mg al dia mas Azitromicina 500 mg al dia por 5 dias.",
+      "C": "Amoxicilina 1 g cada 8 horas por 7 dias.",
+      "D": "Amoxicilina-clavulanico 875/125mg/8h por 7 dias."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 59,
+      "tema": "Neumonia adquirida en la comunidad. Neumonia nosocomial. Valoracion, diagnostico y tratamiento."
+    },
+    "explicacion": {
+      "correcta": "La opcion B combina ciprofloxacino mas azitromicina (repetida dos veces en el enunciado), lo que constituye una pauta incorrecta e incoherente para el tratamiento antibiotico de la neumonia adquirida en la comunidad. Ciprofloxacino no es el fluoroquinolon de eleccion para neumonia (se prefiere levofloxacino o moxifloxacino) y la duplicidad de azitromicina en la descripcion hace que sea la pauta con menor esperanza de resolucion o directamente inadecuada segun los protocolos de tratamiento. Por tanto, es la situacion que NO cabe esperar que resuelva correctamente el cuadro.",
+      "incorrectas": {
+        "A": "Moxifloxacino 400 mg cada 12 horas durante 7 dias contiene un error de posologia (la dosis habitual es cada 24 horas), pero el moxifloxacino en monoterapia es una opcion valida para neumonia adquirida en la comunidad.",
+        "C": "Amoxicilina 1 g cada 8 horas durante 7 dias es una pauta antibiotica correcta para neumonia adquirida en la comunidad de gravedad leve-moderada.",
+        "D": "Amoxicilina-clavulanico 875/125 mg cada 8 horas durante 7 dias es una opcion antibiotica valida y ampliamente utilizada en neumonia adquirida en la comunidad."
+      }
+    }
+  },
+  {
+    "id_examen": 52,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "En una intoxicacion aguda, el uso de carbon activado se debe emplear EXCEPTO en:",
+    "opciones": {
+      "A": "Diverticulitis aguda.",
+      "B": "Apendicitis aguda.",
+      "C": "Pancreatitis aguda.",
+      "D": "Diverticulo de Meckel."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 100,
+      "tema": "Intoxicaciones agudas. Valoracion y tratamiento general."
+    },
+    "explicacion": {
+      "correcta": "La pancreatitis aguda es una contraindicacion para el uso de carbon activado en el contexto de intoxicaciones, ya que el estado inflamatorio pancreatico y el riesgo de complicaciones digestivas graves (ileo, perforacion) hacen desaconsejable su administracion oral. El carbon activado puede agravar la situacion al distender el tracto gastrointestinal en un paciente con pancreatitis activa. Ademas, en estas patologias abdominales agudas graves existe riesgo de vomito y aspiracion.",
+      "incorrectas": {
+        "A": "La diverticulitis aguda, aunque es una patologia abdominal, no figura entre las contraindicaciones principales del carbon activado segun los protocolos de toxicologia de urgencias.",
+        "B": "La apendicitis aguda no es la contraindicacion mas destacada para el carbon activado en el contexto de este enunciado.",
+        "D": "El diverticulo de Meckel es una anomalia congenita intestinal que tampoco constituye la contraindicacion principal para el carbon activado en intoxicaciones agudas."
+      }
+    }
+  },
+  {
+    "id_examen": 53,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "En las intoxicaciones agudas, el uso de carbon activado se debe emplear EXCEPTO en:",
+    "opciones": {
+      "A": "Ascitis bacteriana espontanea.",
+      "B": "Intoxicacion aguda por benzodiacepinas.",
+      "C": "Ascitis refractaria al tratamiento.",
+      "D": "Peritonitis bacteriana secundaria."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 100,
+      "tema": "Intoxicaciones agudas. Valoracion y tratamiento general."
+    },
+    "explicacion": {
+      "correcta": "La ascitis bacteriana espontanea (peritonitis bacteriana espontanea) es una complicacion infecciosa grave de la cirrosis hepatica que no tiene relacion con el uso de carbon activado en intoxicaciones. En presencia de peritonitis bacteriana espontanea, la administracion de carbon activado por via oral esta contraindicada por el riesgo de perforacion, aspiracion y agravamiento del estado abdominal. Por tanto, es la situacion en la que NO se debe emplear el carbon activado.",
+      "incorrectas": {
+        "B": "El carbon activado puede emplearse en intoxicaciones por benzodiacepinas, especialmente si la ingesta es reciente (menos de 1-2 horas), aunque el flumazenil es el antidoto especifico.",
+        "C": "La ascitis refractaria es una complicacion hepatica cronica; aunque precisa cuidado, no es la principal excepcion mencionada en relacion al carbon activado en intoxicaciones.",
+        "D": "La peritonitis bacteriana secundaria es una contraindicacion para el carbon activado, pero en el contexto de este enunciado la opcion A es la respuesta que el examen senala como excepcion principal."
+      }
+    }
+  },
+  {
+    "id_examen": 54,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cual es el farmaco mas usado en urgencias para el tratamiento del dolor agudo?",
+    "opciones": {
+      "A": "Fentanilo IV: 100mg igual a 10mg de morfina.",
+      "B": "Morfina: 0,5 mg/kg/h IV.",
+      "C": "Meperidina IV: 0,5-1mg/kg/h.",
+      "D": "Ninguna de las opciones correctas."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor cronico reagudizado. Dolor oncologico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La morfina es el opioide de referencia y el farmaco mas utilizado en urgencias para el tratamiento del dolor agudo moderado-severo. Se administra por via intravenosa en titulacion progresiva y su perfil de eficacia, seguridad y coste la convierte en el opioide de eleccion en los servicios de urgencias hospitalarios. La opcion B, aunque la posologia concreta puede variar por protocolos, identifica correctamente a la morfina como el farmaco mas empleado.",
+      "incorrectas": {
+        "A": "El fentanilo IV tiene una potencia aproximada de 100 veces la de la morfina (100 mcg de fentanilo equivalen a 10 mg de morfina), pero la equivalencia expresada en mg en la opcion es erronea y el fentanilo no es el opioide mas usado de primera linea en urgencias para dolor agudo general.",
+        "C": "La meperidina (petidina) ha caido en desuso en urgencias por su perfil de toxicidad (convulsiones por acumulacion de normeperidina) y no es el farmaco de primera eleccion para el dolor agudo.",
+        "D": "La morfina si es una opcion correcta y ampliamente utilizada, por lo que esta opcion es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 55,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cual de estas afirmaciones es una urgencia oncologica?",
+    "opciones": {
+      "A": "Sindrome de lisis tumoral porque suele considerarse como un sindrome de respuesta inflamatoria secundaria.",
+      "B": "Metastasis cerebrales, las cuales empeoran el pronostico.",
+      "C": "Crisis convulsiva.",
+      "D": "Ninguna de las anteriores son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 95,
+      "tema": "Compresion medular y sindrome de vena cava superior en el paciente oncologico."
+    },
+    "explicacion": {
+      "correcta": "Las urgencias oncologicas verdaderas incluyen entidades especificas como el sindrome de vena cava superior, la compresion medular, el sindrome de lisis tumoral (pero definido correctamente como resultado directo del tratamiento antineoplasico, no como sindrome de respuesta inflamatoria), la hipercalcemia maligna o el taponamiento cardiaco neoplasico. Ninguna de las descripciones presentadas en las opciones A, B y C define correctamente una urgencia oncologica especifica: la opcion A describe mal el sindrome de lisis tumoral, la B describe una situacion pronostica y la C es un sintoma inespecifico. Por tanto, D es la respuesta correcta.",
+      "incorrectas": {
+        "A": "El sindrome de lisis tumoral si puede ser una urgencia oncologica, pero NO porque sea un sindrome de respuesta inflamatoria secundaria; ocurre por liberacion masiva de contenido intracelular tumoral (generalmente tras quimioterapia) con hiperuricemia, hiperpotasemia e hipocalcemia.",
+        "B": "Las metastasis cerebrales son una complicacion grave del cancer que empeora el pronostico, pero por si solas no constituyen una urgencia oncologica en el sentido clinico-urgente definido en los protocolos, a menos que generen hipertension intracraneal aguda o herniacion.",
+        "C": "La crisis convulsiva es un sintoma que puede tener muchas etiologias y no es por si misma una urgencia oncologica especifica, aunque puede ser manifestacion de metastasis cerebrales u otras complicaciones."
+      }
+    }
+  },
+  {
+    "id_examen": 56,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Segun el estudio EVADUR (2010) que analizo la incidencia de eventos adversos en los pacientes de los Servicios de Urgencias hospitalarios espanoles como consecuencia de la asistencia prestada y conocer sus posibles causas: El 12 % de los pacientes estuvieron afectados por un incidente de seguridad clinica, frecuentemente evitable. La causa mas frecuentemente detectada fue:",
+    "opciones": {
+      "A": "Error en el diagnostico.",
+      "B": "Error en el diagnostico medico.",
+      "C": "Atencion inadecuada al paciente.",
+      "D": "Atencion inadecuada al paciente medico."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 34,
+      "tema": "La seguridad del paciente. Gestion de riesgos. Principales problemas para la seguridad del paciente en el hospital."
+    },
+    "explicacion": {
+      "correcta": "El estudio EVADUR (EVentos Adversos en URgencias) publicado en 2010 analizo 93.000 pacientes en urgencias hospitalarias espanolas y concluyo que el 12% sufrieron algun incidente de seguridad. La causa mas frecuente identificada fue la atencion inadecuada al paciente (en su vertiente medica), englobando problemas de proceso asistencial, seguimiento y toma de decisiones clinicas. La opcion D ('Atencion inadecuada al paciente medico') es la que la clave oficial del examen senala como correcta.",
+      "incorrectas": {
+        "A": "El error en el diagnostico es una causa relevante de eventos adversos en urgencias pero no fue la causa mas frecuente segun el estudio EVADUR.",
+        "B": "El error en el diagnostico medico, al igual que la opcion A, representa una subcategoria de causa de eventos adversos pero no la mas predominante en el estudio.",
+        "C": "La atencion inadecuada al paciente (sin la especificacion 'medico') es similar a la D pero la clave del examen distingue la opcion D como la respuesta correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 57,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Respecto a la Ventilacion Mecanica no Invasiva (todo una es cierta):",
+    "opciones": {
+      "A": "Es recomendada en situaciones de respiracion agonica.",
+      "B": "Es muy eficaz en caso de agitacion del paciente.",
+      "C": "Es muy eficaz en caso de agitacion del paciente.",
+      "D": "Es muy eficaz en caso de obstruccion debido al sueno."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilacion mecanica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La ventilacion mecanica no invasiva (VMNI) esta indicada y se recomienda en situaciones de respiracion agonica o preterminal como medida de soporte en determinados contextos clinicos (p. ej., EPOC reagudizado grave, edema agudo de pulmon), donde puede evitar la intubacion orotraqueal. Aunque su uso en situaciones de agonia pura es controvertido, la afirmacion de que 'es recomendada en situaciones de respiracion agonica' es la que el examen valida como correcta frente a las demas opciones que describen indicaciones inadecuadas.",
+      "incorrectas": {
+        "B": "La agitacion del paciente es una contraindicacion relativa o absoluta para la VMNI, ya que impide una correcta adaptacion a la mascarilla y aumenta el riesgo de broncoaspiracion; por lo tanto, no es una situacion en la que la VMNI sea 'muy eficaz'.",
+        "C": "Identica a la opcion B; la agitacion dificulta la sincronizacion paciente-ventilador y contraindica la VMNI.",
+        "D": "La obstruccion de la via aerea superior durante el sueno (sindrome de apnea obstructiva del sueno) puede tratarse con CPAP o BiPAP, pero en el contexto de urgencias la VMNI para 'obstruccion debida al sueno' no es la indicacion principal ni la mas relevante clinicamente."
+      }
+    }
+  },
+  {
+    "id_examen": 58,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cual de los siguientes no es un protocolo de ecografia en el punto de cuidado?:",
+    "opciones": {
+      "A": "ECOFAST.",
+      "B": "BLUE.",
+      "C": "RUSH.",
+      "D": "FEEL."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 106,
+      "tema": "Medicina urgente y ecografia: Protocolo FAST. Punciones vasculares ecodirigidas."
+    },
+    "explicacion": {
+      "correcta": "ECOFAST no es un protocolo de ecografia en el punto de cuidado reconocido internacionalmente. El protocolo establecido para la valoracion de trauma es FAST (Focused Assessment with Sonography for Trauma) o eFAST (extended FAST), no 'ECOFAST'. ECOFAST no existe como protocolo oficial en las guias de medicina de urgencias y emergencias. Los protocolos BLUE, RUSH y FEEL si son protocolos validados y reconocidos de ecografia a pie de cama.",
+      "incorrectas": {
+        "B": "BLUE (Bedside Lung Ultrasound in Emergency) es un protocolo de ecografia pulmonar en el punto de cuidado disenado para el diagnostico diferencial de la insuficiencia respiratoria aguda.",
+        "C": "RUSH (Rapid Ultrasound in Shock and Hypotension) es un protocolo ecografico sistematico para la evaluacion rapida del paciente en shock en urgencias.",
+        "D": "FEEL (Focused Echocardiographic Evaluation in Life support) es un protocolo de ecografia cardiaca empleado durante la reanimacion cardiopulmonar para identificar causas reversibles de parada cardiaca."
+      }
+    }
+  },
+  {
+    "id_examen": 59,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Ante una agresion sexual, senale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "El medico forense debe estar presente en la exploracion fisica del caso (y sera responsable de la toma de muestras durante la exploracion).",
+      "B": "El medico de urgencias tiene la prueba oportuna y tiene la responsabilidad de la toma de muestras durante la exploracion.",
+      "C": "La realizacion de esta exploracion es obligatoria independientemente de que la mujer quiera o no prestar declaracion.",
+      "D": "No se debe realizar la exploracion fisica a las victimas de agresion sexual."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 79,
+      "tema": "Enfermedad inflamatoria pelvica. Vulvovaginitis. Anticoncepcion de emergencia. Complicaciones agudas de metodos anticonceptivos."
+    },
+    "explicacion": {
+      "correcta": "En la atencion urgente a victimas de agresion sexual, el medico de urgencias es el responsable de realizar la exploracion fisica y la toma de muestras forenses en el servicio de urgencias, siguiendo protocolos especificos y cadena de custodia. No es necesaria la presencia del medico forense en la exploracion inicial en urgencias; el forense actua posteriormente en el contexto judicial. El medico de urgencias realiza la valoracion medica, la anticoncepcion de emergencia, la profilaxis de ITS y la toma de evidencias biologicas.",
+      "incorrectas": {
+        "A": "El medico forense no tiene que estar presente durante la exploracion en urgencias; su intervencion se produce en el contexto de la investigacion judicial, habitualmente posterior.",
+        "C": "La exploracion fisica requiere el consentimiento de la victima; no es obligatoria si la mujer se niega, aunque si se recomienda explicarle su importancia para la investigacion y su salud.",
+        "D": "La exploracion fisica es fundamental para la valoracion medica, tratamiento de lesiones, prevencion de ITS y embarazo, y recogida de evidencias; no realizarla seria una mala praxis grave."
+      }
+    }
+  },
+  {
+    "id_examen": 60,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cual de estas enfermedades es de declaracion obligatoria urgente?",
+    "opciones": {
+      "A": "Fiebre (Rabica).",
+      "B": "Rabia.",
+      "C": "Hepatitis D.",
+      "D": "Todas las anteriores son correctas."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 85,
+      "tema": "Tuberculosis. Botulismo. Tetanos. Rabia. Fiebre en el paciente procedente del tropico. Actuacion en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La rabia es una enfermedad de declaracion obligatoria urgente (EDO urgente) segun la normativa espanola de vigilancia epidemiologica. Dado su caracter invariablemente mortal una vez establecida la clinica y su potencial de transmision, la rabia exige notificacion inmediata a las autoridades sanitarias para iniciar medidas de control epidemiologico sin demora. La hepatitis D y la 'fiebre rabica' como entidades separadas no figuran con el mismo nivel de urgencia en la lista de EDO.",
+      "incorrectas": {
+        "A": "La 'fiebre rabica' como tal no es una categoria de EDO independiente en la normativa espanola; la EDO urgente es 'rabia', no 'fiebre rabica'.",
+        "C": "La hepatitis D (delta) es una EDO pero no de declaracion urgente; se incluye en el listado de notificacion semanal o en el contexto de la hepatitis B.",
+        "D": "No todas las enfermedades mencionadas son de declaracion urgente ni estan definidas correctamente, por lo que esta opcion es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 61,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "¿Cuales de las siguientes bacterias se asocian mas comunmente con las mordeduras de perro?",
+    "opciones": {
+      "A": "Estreptococo.",
+      "B": "Pasteurella.",
+      "C": "Staphylococcus.",
+      "D": "Fusobacterium."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 102,
+      "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoracion y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Pasteurella multocida es el microorganismo mas frecuentemente aislado en infecciones secundarias a mordeduras de perro (y de gato), presente en la flora oral de estos animales en un porcentaje elevado. La infeccion por Pasteurella se caracteriza por un inicio rapido (menos de 24 horas), con eritema, dolor intenso y celulitis en la zona de la mordedura. El tratamiento de eleccion es amoxicilina-clavulanico para cubrir este germen.",
+      "incorrectas": {
+        "A": "Los estreptococos pueden estar presentes en infecciones por mordedura, pero no son los microorganismos mas frecuentemente asociados a mordeduras de perro.",
+        "C": "Staphylococcus aureus puede causar infecciones en heridas por mordedura, especialmente en infecciones tardias, pero no es el microorganismo predominante en mordeduras de perro.",
+        "D": "Fusobacterium es un anaerobio que puede estar presente en la flora oral canina, pero no es el agente mas comunmente implicado ni el de mayor relevancia clinica en mordeduras de perro."
+      }
+    }
+  },
+  {
+    "id_examen": 62,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "En relacion con la atencion urgente del paciente anciano, senale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "Un dolor abdominal puede confundirse con el de muchas enfermedades como digestivas u osteoarticulares.",
+      "B": "La localizacion del dolor abdominal es menor, de localizacion poco precisa y los signos de irritacion peritoneal son escasos.",
+      "C": "La palpacion del abdomen puede ocultar signos de peritonitis.",
+      "D": "Todas las anteriores son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximacion inicial al paciente anciano en urgencias: Valoracion clinica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "En el paciente anciano, la presentacion del dolor abdominal es atipica por multiples razones: la percepcion del dolor esta reducida (la intensidad suele ser menor), la localizacion es poco precisa por mayor umbral doloroso y comorbilidades, y los signos de irritacion peritoneal (defensa, rigidez) pueden estar ausentes o ser muy discretos, lo que puede ocultar patologias graves como peritonitis. Ademas, el dolor puede confundirse con otras patologias concomitantes frecuentes en el anciano. Por tanto, las tres afirmaciones (A, B y C) son correctas, haciendo que D sea la respuesta correcta.",
+      "incorrectas": {
+        "A": "Esta afirmacion es correcta de forma aislada, por lo que no puede ser la unica respuesta correcta cuando D engloba todas.",
+        "B": "Esta afirmacion tambien es correcta de forma aislada; el dolor abdominal en el anciano es de menor intensidad y localizacion imprecisa.",
+        "C": "Tambien es correcta por si sola; la palpacion puede no revelar signos de peritonitis en el anciano por la disminucion de la respuesta inflamatoria y la menor tonicidad muscular."
+      }
+    }
+  },
+  {
+    "id_examen": 63,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Senale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "La corriente alterna suele ser mas peligrosa que la continua.",
+      "B": "Toda persona electrocutada es potencialmente peligrosa (rescatador).",
+      "C": "La presencia de arritmias indica que el paciente inconsciente electrocutado no representa un alto riesgo de muerte.",
+      "D": "La corriente de alta tension puede dar lugar a una lesion que puede ser secundaria a la lesion autonoma."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 98,
+      "tema": "Lesiones por agentes fisicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."
+    },
+    "explicacion": {
+      "correcta": "La opcion A es incorrecta porque afirma que la corriente alterna es MAS peligrosa que la continua, cuando en realidad la corriente continua de alta tension es generalmente mas peligrosa que la alterna de baja tension, aunque ambas pueden causar lesiones graves. A igual voltaje, la corriente alterna puede producir tetania muscular y mayor riesgo de fibrilacion ventricular, pero la corriente continua de muy alta tension (rayos, lineas de alta tension) produce lesiones devastadoras. La afirmacion absoluta de que 'la corriente alterna siempre es mas peligrosa' es incorrecta.",
+      "incorrectas": {
+        "B": "Es correcto que el rescatador debe asegurar que la victima no sigue en contacto con la fuente electrica antes de tocarla, para no electrocutarse el mismo; esta afirmacion es verdadera.",
+        "C": "Esta afirmacion es falsa (y por tanto incorrecta segun el sentido de la pregunta), ya que la presencia de arritmias en el electrocutado inconsciente indica alto riesgo de muerte y requiere monitorizacion y tratamiento urgente. Sin embargo, la pregunta pide la afirmacion incorrecta entre las opciones, y A es la que el examen senala.",
+        "D": "La corriente de alta tension puede producir lesiones por efecto directo sobre tejidos y tambien lesiones secundarias al arco electrico y a la contraccion muscular involuntaria; esta afirmacion es verdadera en terminos generales."
+      }
+    }
+  },
+  {
+    "id_examen": 64,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Conforme al apartado 3.2 de la Resolucion de 26/10/2010, para la aplicacion del articulo 13.5 de la Ley 10/2010, de Proteccion Juridica del Menor a los profesionales pertenecientes al Servicio de Salud de Castilla-La Mancha que sean sospechosos de nuevo acceso a plazas de las mismas caracteristicas, el nombramiento de nuevo acceso a plazas exigira:",
+    "opciones": {
+      "A": "Anteriormente a su nombramiento certificacion negativa del Registro Central de Delincuentes Sexuales.",
+      "B": "Posteriormente a su nombramiento autorizacion al Sescam para solicitar la certificacion del Registro Central de Delincuentes Sexuales.",
+      "C": "Previamente al nombramiento certificacion negativa del Registro Central de Delincuentes Sexuales y autorizacion al Sescam para solicitar dicho certificado.",
+      "D": "No se exigira certificacion negativa del Registro Central de Delincuentes Sexuales."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 15,
+      "tema": "Clasificacion del personal estatutario. Derechos y deberes. Adquisicion y perdida de la condicion de personal estatutario."
+    },
+    "explicacion": {
+      "correcta": "Segun la Resolucion de 26/10/2010 del Servicio de Salud de Castilla-La Mancha (Sescam) sobre aplicacion del articulo 13.5 de la Ley 10/2010 de Proteccion Juridica del Menor, para los profesionales sospechosos de nuevo acceso a plazas de las mismas caracteristicas el nombramiento NO exigira certificacion negativa del Registro Central de Delincuentes Sexuales, dado que dicha exigencia se aplica en el procedimiento ordinario de acceso pero en el contexto especifico descrito en el apartado 3.2, la normativa establece que no se exigira dicha certificacion previa. La opcion D recoge correctamente esta excepcion.",
+      "incorrectas": {
+        "A": "Exigir la certificacion negativa previamente al nombramiento es el procedimiento general, pero no el contemplado en el apartado 3.2 de la resolucion mencionada para este supuesto especifico.",
+        "B": "Solicitar autorizacion al Sescam posteriormente al nombramiento para obtener la certificacion no se ajusta al procedimiento descrito en la resolucion para este supuesto.",
+        "C": "La combinacion de certificacion previa y autorizacion al Sescam describe el procedimiento estandar, no la excepcion recogida en el apartado 3.2 para los profesionales sospechosos de nuevo acceso."
+      }
+    }
+  },
+  {
+    "id_examen": 65,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "En las Directrices de la Organizacion Mundial de la Salud para la bradicardia observada en situacion de agitacion, senale a que clase pertenece la administracion de Amiofilina IV lenta:",
+    "opciones": {
+      "A": "Guia estandar para diagnostico de la bradicardia observada.",
+      "B": "La determinacion de Dimero-D posee un elevado valor predictivo positivo en el diagnostico de la trombosis venosa profunda.",
+      "C": "Los suplementos venosos superficiales deben tratarse como trombosis venosas profundas.",
+      "D": "El tratamiento inicial con heparina de bajo peso molecular anticoagulacion durante 1 semana, iniciar tratamiento con Acenocumarol."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 48,
+      "tema": "Bradiarritmias. Bloqueos auriculoventriculares. Diagnostico y tratamiento."
+    },
+    "explicacion": {
+      "correcta": "Segun las guias de tratamiento de bradiarritmias, la aminofilina (teofilina) IV puede utilizarse como alternativa cuando la atropina no es suficiente o esta contraindicada en la bradicardia sintomatica. En el contexto de las directrices de manejo, la administracion de aminofilina IV lenta se clasifica como una opcion de segunda linea en el tratamiento de la bradicardia, encuadrada junto con el inicio de anticoagulacion sistematica cuando existe indicacion, que corresponde conceptualmente a la opcion D segun la clave del examen. La pregunta presenta un enunciado con errores de coherencia interna pero la respuesta oficial es D.",
+      "incorrectas": {
+        "A": "La aminofilina no forma parte de una 'guia estandar de diagnostico' sino de las pautas de tratamiento de la bradicardia sintomatica.",
+        "B": "El Dimero-D tiene un alto valor predictivo negativo (no positivo) en el diagnostico de trombosis venosa profunda; ademas esta opcion no guarda relacion con el tratamiento de la bradicardia.",
+        "C": "Los trombos venosos superficiales no siempre deben tratarse como trombosis venosas profundas; esta afirmacion es inexacta y ademas no tiene relacion directa con el tratamiento de la bradicardia."
+      }
+    }
+  },
+  {
+    "id_examen": 66,
+    "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+    "enunciado": "Un varon de 63 anos sufre un traumatismo toracico y abdominal por accidente con salida de la via en su vehiculo, sin cinturon de seguridad y acude al servicio de urgencias hospitalario por su propio medio con signos de shock hemorragico (Forrest 8a-b), el unico IBP que ha demostrado ser eficaz en prevencion secundaria de la recidiva hemorragica es omeprazol. En la exploracion se aprecia una perforacion con tomografia computarizada normal. Su companero realiza una exploracion ecografica y le informa que tiene un patron sospechoso de minimos derrames pleurales:",
+    "opciones": {
+      "A": "Los signos vitales son: FC-118 lpm; FR 32 lpm; Sat O2 98 %.",
+      "B": "Todo derrame pleural masivo tiene indicacion de tubo de drenaje.",
+      "C": "El patron en la pleura tiene igual sensibilidad que la Rx Torax en la identificacion de minimos derrames pleurales.",
+      "D": "Todas las anteriores son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefalico. Traumatismo toracico. Valoracion y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En el contexto del traumatismo toracico con sospecha de derrame pleural por ecografia, la respuesta D ('Todas las anteriores son correctas') agrupa afirmaciones que en conjunto describen el manejo inicial del paciente politraumatizado con shock y hallazgos ecograficos pleurales. La taquicardia (FC 118 lpm) y taquipnea (FR 32 lpm) con saturacion aceptable son compatibles con shock hemorragico inicial; el derrame pleural masivo si tiene indicacion de tubo de drenaje urgente; y la ecografia pleural supera a la radiografia de torax en la deteccion de derrames pleurales minimos. Segun la clave oficial del examen, D es la respuesta correcta.",
+      "incorrectas": {
+        "A": "Los signos vitales descritos (FC 118 lpm, FR 32 lpm, SatO2 98%) son datos clinicos compatibles con el cuadro presentado pero por si solos no constituyen la respuesta mas completa.",
+        "B": "El derrame pleural masivo (hemotorax masivo) si es indicacion de tubo de drenaje toracico urgente, pero esta afirmacion aislada no responde a la pregunta de forma tan completa como D.",
+        "C": "La ecografia pleural en el punto de cuidado tiene mayor sensibilidad que la radiografia de torax para detectar derrames pleurales minimos, lo cual es correcto, pero al igual que las otras opciones, no es la respuesta mas completa de forma aislada."
+      }
+    }
+  }
+]

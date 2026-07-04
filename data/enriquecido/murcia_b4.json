@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En relación con la embriaguez patológica (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Aparece tras la ingesta de una escasa cantidad de alcohol.",
+   "B": "Se desarrolla de forma brusca.",
+   "C": "Cursa con alteraciones conductuales.",
+   "D": "Se da en pacientes con consumo crónico de alcohol."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA porque la embriaguez patológica no se da en pacientes con consumo crónico de alcohol; al contrario, suele presentarse en personas con baja tolerancia al alcohol o con predisposición constitucional, incluyendo abstemios o bebedores ocasionales. El consumo crónico genera tolerancia, lo que hace menos probable este cuadro. La embriaguez patológica es una reacción idiosincrásica a pequeñas cantidades de alcohol.",
+   "incorrectas": {
+    "A": "La opción A es correcta (no es la respuesta falsa): la embriaguez patológica se caracteriza precisamente por aparecer con dosis bajas de alcohol, diferenciándose así de la intoxicación etílica ordinaria. Esta baja tolerancia es uno de sus criterios diagnósticos fundamentales.",
+    "B": "La opción B es correcta (no es la respuesta falsa): el inicio brusco es una característica definitoria de la embriaguez patológica, con aparición repentina de excitación psicomotriz intensa. Este comienzo abrupto la distingue de la embriaguez común, que sigue una progresión gradual.",
+    "C": "La opción C es correcta (no es la respuesta falsa): la embriaguez patológica cursa con marcadas alteraciones conductuales como agitación, agresividad, desorientación y conductas violentas. Estas alteraciones son desproporcionadas a la cantidad de alcohol ingerida y representan una disfunción neurológica aguda."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el tratamiento de la preeclampsia grave la paciente precisa tratamiento y entre ellos podemos encontrar:",
+  "opciones": {
+   "A": "Prevención de convulsiones con sulfato magnesio en dosis de 4 g por vía intravenosa.",
+   "B": "Finalización del embarazo independientemente de la edad gestacional en todas las situaciones, aunque no existan complicaciones.",
+   "C": "El objetivo del tratamiento es conseguir PAS por debajo de 120.",
+   "D": "El tratamiento puede ser ambulatorio."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "El sulfato de magnesio es el fármaco de elección para la prevención y tratamiento de las convulsiones eclámpticas en la preeclampsia grave. La dosis de carga estándar es de 4-6 g intravenosos administrados en 15-20 minutos, seguida de perfusión de mantenimiento. Su mecanismo anticonvulsivante se basa en el bloqueo de receptores NMDA y la vasodilatación cerebral.",
+   "incorrectas": {
+    "B": "La finalización del embarazo no se indica de forma universal independientemente de la edad gestacional en ausencia de complicaciones. En gestaciones pretérmino con preeclampsia grave sin criterios de gravedad extrema, puede considerarse un manejo expectante hospitalario vigilado para ganar madurez fetal. La decisión depende de la edad gestacional y la situación clínica materna y fetal.",
+    "C": "El objetivo tensional en la preeclampsia grave no es conseguir una PAS por debajo de 120 mmHg, ya que una reducción excesiva puede comprometer la perfusión uteroplacentaria. Las guías recomiendan mantener la PAS entre 130-155 mmHg y la PAD entre 80-105 mmHg, evitando hipotensión brusca.",
+    "D": "La preeclampsia grave requiere hospitalización obligatoria para monitorización estrecha materna y fetal, administración de magnesio, control tensional y valoración del momento óptimo del parto. El manejo ambulatorio está absolutamente contraindicado dado el riesgo de eclampsia, desprendimiento de placenta y otras complicaciones graves."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el tratamiento de la crisis aguda de migraña NO está indicado:",
+  "opciones": {
+   "A": "Antiinflamatorios no esteroideos.",
+   "B": "Triptanes.",
+   "C": "Propanolol.",
+   "D": "Antieméticos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El propranolol es un betabloqueante utilizado como tratamiento profiláctico de la migraña para reducir la frecuencia de las crisis, no para su tratamiento agudo. Durante una crisis activa, el propranolol no tiene efecto analgésico ni abortivo sobre el episodio en curso. Su uso es preventivo a largo plazo, no sintomático.",
+   "incorrectas": {
+    "A": "Los AINEs como el ibuprofeno, naproxeno o ácido acetilsalicílico son tratamientos de primera línea en las crisis de migraña de intensidad leve-moderada. Actúan inhibiendo las prostaglandinas implicadas en la cascada inflamatoria neurogénica y tienen amplia evidencia de eficacia en el tratamiento agudo.",
+    "B": "Los triptanes (sumatriptán, rizatriptán, zolmitriptán, entre otros) son el tratamiento específico de las crisis migrañosas de intensidad moderada-grave. Actúan como agonistas de los receptores 5-HT1B/1D, produciendo vasoconstricción de vasos craneales y bloqueando la liberación de neuropéptidos proinflamatorios. Son los fármacos más eficaces para el tratamiento abortivo.",
+    "D": "Los antieméticos como metoclopramida, domperidona u ondansetrón son parte fundamental del tratamiento de la crisis de migraña. Además de controlar las náuseas y vómitos asociados, la metoclopramida tiene propiedades procinéticas que mejoran la absorción de analgésicos y además posee efecto antimigrañoso directo a nivel central."
+   }
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál es el tratamiento de primera elección de la colitis pseudomembranosa?:",
+  "opciones": {
+   "A": "Vancomicina intravenosa.",
+   "B": "Vancomicina oral.",
+   "C": "Azitromicina oral.",
+   "D": "Clindamicina intravenosa."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La colitis pseudomembranosa está causada por Clostridioides difficile y su tratamiento requiere fármacos que alcancen concentraciones elevadas en la luz intestinal. La vancomicina oral no se absorbe en el intestino, lo que permite que alcance concentraciones muy altas en el colon donde actúa directamente sobre el germen. Junto con fidaxomicina y metronidazol, es uno de los pilares del tratamiento de esta infección.",
+   "incorrectas": {
+    "A": "La vancomicina intravenosa no es útil en la colitis pseudomembranosa porque este fármaco no se excreta significativamente hacia la luz intestinal cuando se administra por vía sistémica. Para lograr acción local en el colon es imprescindible la administración oral, donde la mala absorción constituye precisamente su ventaja terapéutica.",
+    "C": "La azitromicina es un macrólido sin actividad significativa frente a Clostridioides difficile y no tiene indicación en el tratamiento de la colitis pseudomembranosa. Además, los macrólidos y la clindamicina son frecuentemente los antibióticos precipitantes de esta enfermedad.",
+    "D": "La clindamicina intravenosa no está indicada en la colitis pseudomembranosa; de hecho, es uno de los antibióticos más frecuentemente implicados en su etiología al alterar la microbiota intestinal y favorecer la proliferación de C. difficile. Su uso agravaría el cuadro clínico."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Dentro de los criterios clínicos del síndrome de HELLP podemos encontrar todos los siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Anemia hemolítica.",
+   "B": "Aumento de bilirrubina.",
+   "C": "Elevación de la ALT y la AST por encima del doble del límite alto de la normalidad.",
+   "D": "Disminución del LDH < 600 UI/L."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "La opción D es la EXCEPCIÓN porque en el síndrome HELLP el LDH está ELEVADO (típicamente > 600 UI/L), no disminuido. El aumento del LDH refleja la hemólisis intravascular característica del síndrome. Un LDH < 600 UI/L orientaría contra el diagnóstico de HELLP, no a favor de él.",
+   "incorrectas": {
+    "A": "La anemia hemolítica microangiopática es una de las tres características que dan nombre al síndrome HELLP (Hemolysis, Elevated Liver enzymes, Low Platelets). Se produce por el paso de eritrocitos a través de microvasos dañados por depósitos de fibrina, generando esquistocitos en el frotis y hemoglobina libre.",
+    "B": "El aumento de bilirrubina, especialmente la indirecta o no conjugada, es consecuencia directa de la hemólisis intravascular presente en el HELLP. La liberación masiva de hemoglobina supera la capacidad conjugadora hepática, elevando la bilirrubina sérica. Es un criterio diagnóstico relevante.",
+    "C": "La elevación de transaminasas (ALT y AST) por encima del doble del límite superior de la normalidad forma parte de los criterios diagnósticos de HELLP. Refleja el daño hepatocelular causado por el depósito de fibrina en los sinusoides hepáticos y la isquemia resultante."
+   }
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Según la Ley 3/2009, de 11 de mayo, de los derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia, todas aquellas personas que, por razón de sus funciones, tengan acceso a información confidencial, están obligadas al secreto profesional, debiendo guardar la debida reserva y confidencialidad de la información a la que accedan:",
+  "opciones": {
+   "A": "Incluso una vez finalizada su actividad profesional.",
+   "B": "Transcurridos 30 años de la finalización de su actividad profesional.",
+   "C": "Transcurridos 20 años de la finalización de su actividad profesional.",
+   "D": "Transcurridos 10 años de la finalización de su actividad profesional."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 5,
+   "tema": "El régimen jurídico de la protección de datos de carácter personal: Disposiciones generales. Principios de la protección de datos."
+  },
+  "explicacion": {
+   "correcta": "La Ley 3/2009 de la Región de Murcia establece que la obligación de secreto profesional sanitario es indefinida y permanente, extendiéndose incluso tras el cese de la actividad profesional. Esta formulación recoge el principio general del secreto médico como deber perpetuo, coherente con la naturaleza de la información confidencial sanitaria que no pierde su carácter íntimo con el paso del tiempo.",
+   "incorrectas": {
+    "B": "La ley no establece un plazo de 30 años tras el fin de la actividad profesional para el mantenimiento del secreto. La obligación no está sujeta a límite temporal alguno; fijar un plazo concreto contravendría el espíritu de protección indefinida de la intimidad del paciente recogido en la norma.",
+    "C": "La ley tampoco prevé un plazo de 20 años. Cualquier limitación temporal del secreto profesional sanitario resultaría incompatible con la protección que merecen los datos de salud, clasificados como especialmente sensibles tanto por la normativa autonómica como por el RGPD.",
+    "D": "Un plazo de 10 años sería igualmente contrario a lo dispuesto en la Ley 3/2009. El legislador murciano optó por un deber de confidencialidad sin caducidad temporal, reforzando así la confianza del paciente en el sistema sanitario independientemente del momento en que se preste la asistencia."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de las siguientes combinaciones forma el trípode en el que se asienta el tratamiento farmacológico de la mayoría de los pacientes con insuficiencia cardíaca y disfunción ventricular?:",
+  "opciones": {
+   "A": "Betabloqueantes, calcioantagonistas e IECAs.",
+   "B": "IECAs, diuréticos y calcioantagonistas.",
+   "C": "Diuréticos, betabloqueantes e IECAs.",
+   "D": "Betabloqueantes, antagonistas de los receptores de la angiotensina (ARA-II) e IECAs."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "El tratamiento farmacológico de la insuficiencia cardíaca con fracción de eyección reducida (IC-FEr) se sustenta en tres pilares con evidencia de reducción de mortalidad: los IECAs (o ARA-II si hay intolerancia) para el bloqueo del SRAA, los betabloqueantes para el bloqueo adrenérgico y los diuréticos (especialmente la furosemida) para el control de la congestión. Esta combinación está respaldada por las guías de la ESC y las de práctica clínica más actuales.",
+   "incorrectas": {
+    "A": "Los calcioantagonistas no forman parte del trípode terapéutico de la IC con disfunción sistólica. De hecho, los calcioantagonistas dihidropiridínicos de acción corta están contraindicados en la IC-FEr por su efecto inotrópico negativo y el riesgo de descompensación hemodinámica.",
+    "B": "La combinación de IECAs, diuréticos y calcioantagonistas es incorrecta por los mismos motivos expuestos: los calcioantagonistas no tienen indicación en la IC con disfunción ventricular sistólica y pueden ser perjudiciales. El betabloqueante, no el calcioantagonista, es el tercer pilar del tratamiento.",
+    "D": "La combinación simultánea de IECAs y ARA-II no está recomendada en la IC, ya que el doble bloqueo del SRAA se asoció en estudios como el ONTARGET a mayor incidencia de hipotensión, deterioro renal e hiperpotasemia sin beneficio adicional. Solo uno de los dos debe usarse como parte del trípode."
+   }
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la respuesta CORRECTA en el tratamiento de la rabdomiólisis:",
+  "opciones": {
+   "A": "Infusión de solución salina que contenga potasio si la concentración sérica de CK es menor de 1000 U/l.",
+   "B": "Administración de manitol y diuréticos cuando la concentración sérica de CK es mayor de 5000 U/l.",
+   "C": "Alcalinización de la orina mediante bicarbonato 1M intravenoso para mantener un pH urinario por encima de 6.5.",
+   "D": "Si existe depleción de volumen, debe de administrarse furosemida a dosis de 20 mg/6h intravenosa."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La alcalinización urinaria con bicarbonato intravenoso es una medida terapéutica recomendada en la rabdomiólisis para prevenir el daño renal agudo. La mioglobina precipita y es nefrotóxica en medios ácidos; mantener el pH urinario por encima de 6.5 (idealmente > 6.5-7) reduce la precipitación tubular de mioglobina y cilindros hemoglobínicos. El bicarbonato 1/6 M es la presentación habitualmente utilizada para este fin.",
+   "incorrectas": {
+    "A": "En la rabdomiólisis se debe evitar el aporte de potasio en las soluciones de reposición, ya que la destrucción masiva muscular libera grandes cantidades de potasio intracelular, con alto riesgo de hiperpotasemia grave y arritmias letales. Además, con CK < 1000 U/l el riesgo de daño renal es bajo y no suele requerir medidas especiales más allá de hidratación.",
+    "B": "El manitol puede considerarse en casos graves con CK muy elevada como coadyuvante para forzar diuresis, pero su uso no está universalmente indicado a partir de 5000 U/l y siempre debe hacerse con volumen intravascular adecuado, no como primera medida. La prioridad es la hidratación agresiva con suero salino; el manitol se reserva para casos seleccionados.",
+    "D": "La furosemida está contraindicada como primera medida en la rabdomiólisis con depleción de volumen. Los diuréticos de asa sin una adecuada reposición de volumen previo pueden agravar la hipovolemia, empeorar la perfusión renal y aumentar la concentración de mioglobina en los túbulos, favoreciendo la nefrotoxicidad. La piedra angular es la hidratación abundante."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Entre los cambios fisiológicos a nivel cardiovascular en la mujeres embazadas podemos encontrar todos los siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Disminución de la presión arterial tanto sistólica como diastólica.",
+   "B": "Aumento del índice cardiotorácico.",
+   "C": "Desplazamiento de la punta cardiaca a la derecha.",
+   "D": "Aumento de frecuencia cardiaca."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "Durante el embarazo, el crecimiento uterino eleva el diafragma y desplaza el corazón hacia ARRIBA y hacia la IZQUIERDA (no hacia la derecha). Este desplazamiento hacia la izquierda es el que provoca el aumento del índice cardiotorácico visible en la radiografía de tórax. Un desplazamiento hacia la derecha no corresponde a los cambios fisiológicos del embarazo.",
+   "incorrectas": {
+    "A": "La disminución de la presión arterial es un cambio fisiológico normal en el embarazo, especialmente marcada en el segundo trimestre. Se debe a la vasodilatación periférica mediada por progesterona, prostaglandinas y óxido nítrico, así como al efecto de baja resistencia del lecho uteroplacentario. La PA sistólica desciende unos 5-10 mmHg y la diastólica hasta 10-15 mmHg.",
+    "B": "El aumento del índice cardiotorácico es un hallazgo radiológico esperado en el embarazo. El corazón se desplaza hacia arriba y a la izquierda por la elevación diafragmática, y el volumen cardíaco total aumenta un 10-15%, lo que se refleja en una silueta cardíaca aparentemente más grande en la radiografía.",
+    "D": "La taquicardia sinusal fisiológica es habitual durante el embarazo, con un aumento de la frecuencia cardíaca basal de 10-15 lpm respecto a los valores pregestacionales. Este aumento forma parte de la adaptación hemodinámica para incrementar el gasto cardíaco en un 30-50% durante la gestación."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La diuresis alcalina es un método eficaz sobre todo en la intoxicación por (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Cobre.",
+   "C": "Antidepresivos.",
+   "D": "Salicilatos."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 100,
+   "tema": "Intoxicaciones agudas. Valoración y tratamiento general."
+  },
+  "explicacion": {
+   "correcta": "La diuresis alcalina es especialmente eficaz en la intoxicación por salicilatos porque estos son ácidos débiles que en orina alcalina (pH > 7.5) quedan atrapados en forma ionizada en el túbulo renal (ion trapping), impidiendo su reabsorción tubular y aumentando significativamente su eliminación urinaria. Este es el mecanismo de la depuración renal aumentada en la intoxicación salicílica.",
+   "incorrectas": {
+    "A": "Las benzodiacepinas son fármacos con alta unión a proteínas plasmáticas y metabolismo hepático extenso; su eliminación no se modifica significativamente con la alcalinización urinaria. El tratamiento específico de la intoxicación grave por benzodiacepinas es el flumazenil como antídoto.",
+    "B": "La intoxicación por cobre no se trata con diuresis alcalina. Los metales pesados requieren quelación específica; en el caso del cobre se utilizan agentes quelantes como la D-penicilamina o el trientine. La alcalinización urinaria no tiene utilidad en este contexto.",
+    "C": "Los antidepresivos, especialmente los tricíclicos, son bases débiles con alta liposolubilidad y amplio volumen de distribución. La diuresis alcalina no aumenta significativamente su eliminación. En la intoxicación grave por tricíclicos el tratamiento se basa en bicarbonato sódico para corregir la acidosis y revertir los efectos sobre los canales de sodio cardíacos."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cómo actúan las soluciones hiperosmolares en el paciente intoxicado? (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Neutralizan el tóxico.",
+   "B": "Aumentan la eliminación del toxico presente en la luz gastrointestinal.",
+   "C": "Ayudan a extaer el toxico ya absorbido.",
+   "D": "Estimulan el vaciado gástrico del tóxico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 100,
+   "tema": "Intoxicaciones agudas. Valoración y tratamiento general."
+  },
+  "explicacion": {
+   "correcta": "Las soluciones hiperosmolares (catárticos osmóticos como el sorbitol o el manitol oral) actúan aumentando la eliminación del tóxico presente en la luz gastrointestinal mediante el incremento del tránsito intestinal. Al crear un gradiente osmótico que retiene agua en la luz del tubo digestivo, aceleran el vaciado intestinal y reducen el tiempo de contacto del tóxico con la mucosa, disminuyendo su absorción. Se utilizan como coadyuvantes del carbón activado.",
+   "incorrectas": {
+    "A": "Las soluciones hiperosmolares no neutralizan químicamente ningún tóxico. La neutralización es un proceso químico ácido-base que no corresponde al mecanismo de acción de estos preparados. Los antídotos específicos son los que antagonizan o neutralizan la acción del tóxico.",
+    "C": "Las soluciones hiperosmolares actúan únicamente sobre el tóxico presente en la luz gastrointestinal antes de su absorción; no tienen capacidad de extraer el tóxico ya absorbido al torrente circulatorio. Para aumentar la eliminación del tóxico ya absorbido se utilizan técnicas como la diuresis forzada, la hemodiálisis o la hemoperfusión.",
+    "D": "El vaciado gástrico (mediante lavado gástrico o emesis) es un mecanismo diferente, no el de las soluciones hiperosmolares. Estas actúan a nivel intestinal acelerando el tránsito y la evacuación fecal, no sobre el vaciamiento gástrico. Actualmente el lavado gástrico tiene indicaciones muy restringidas."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el tratamiento en Urgencias de una descompensación hiperglucémica no cetósica, incluiríamos todo lo siguiente EXCEPTO:",
+  "opciones": {
+   "A": "Perfusión de insulina de acción rápida a dosis de 0.1UI/kg/h mientras la glucemia sea superior a 300 mg/dl descartando cifras de potasio sérico inferiores a 3.3 mEq/l.",
+   "B": "Si la concentración sérica de potasio está entre 3.3 y 5.5 mEq/l, se administra cloruro potásico en dosis de 20 mEq/h durante las primeras 2 horas.",
+   "C": "El déficit de bicarbonato se calcula mediante la fórmula 0.3 x kg de peso x exceso de bases, resultando la cantidad de ml o mEq del preparado comercial de bicarbonato sódico 1/6 M, para administrar en 1 hora.",
+   "D": "Durante las 2 primeras horas se administran de 500 a 1000 ml del suero elegido calculando los litros a reponer en 24h y añadiendo las necesidades basales requeridas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "La administración de bicarbonato NO está indicada en el síndrome hiperglucémico hiperosmolar no cetósico (SHHNC). A diferencia de la cetoacidosis diabética, en el SHHNC no existe acidosis metabólica significativa que justifique la corrección con bicarbonato. El pilar del tratamiento es la rehidratación agresiva y la insulinoterapia; añadir bicarbonato puede empeorar la hipopotasemia y no aporta beneficio demostrado.",
+   "incorrectas": {
+    "A": "La perfusión de insulina rápida a 0.1 UI/kg/h es adecuada en el SHHNC una vez comprobado que el potasio sérico es igual o superior a 3.3 mEq/l, para evitar hipopotasemia grave que podría desencadenar arritmias. La corrección de la hiperglucemia debe ser gradual (no más de 50-70 mg/dl/hora) para prevenir el edema cerebral.",
+    "B": "La reposición de potasio cuando sus niveles séricos están entre 3.3 y 5.5 mEq/l es una práctica correcta en el manejo del SHHNC, ya que la insulinización y la rehidratación producen entrada de potasio al espacio intracelular con riesgo de hipopotasemia. La dosis de 20 mEq/h es la habitualmente recomendada en estos rangos.",
+    "D": "La reposición rápida de volumen en las primeras 2 horas con 500-1000 ml del suero elegido (habitualmente salino 0.9% si hay hipovolemia grave o salino 0.45% si la natremia es normal) es la primera medida terapéutica en el SHHNC. El déficit de agua libre puede alcanzar 8-12 litros y su reposición paulatina es fundamental para restaurar la perfusión y reducir la osmolaridad."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Todos los siguientes fármacos se consideran opiáceos mayores, EXCEPTO:",
+  "opciones": {
+   "A": "Fentanilo.",
+   "B": "Tapentadol.",
+   "C": "Tramadol.",
+   "D": "Oxicodona."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El tramadol es clasificado como opioide menor o de segundo escalón según la escalera analgésica de la OMS. Aunque actúa sobre receptores opioides mu (débilmente) y también inhibe la recaptación de serotonina y noradrenalina, su potencia analgésica es significativamente inferior a la de los opioides mayores. Se utiliza para dolor moderado, mientras que los opioides mayores se reservan para dolor moderado-severo.",
+   "incorrectas": {
+    "A": "El fentanilo es un opioide mayor de alta potencia (aproximadamente 100 veces más potente que la morfina por vía parenteral). Se utiliza en dolor severo agudo, procedimientos, sedoanalgesia en urgencias y en parches transdérmicos para dolor crónico intenso. Su clasificación como opioide mayor es inequívoca.",
+    "B": "El tapentadol es considerado un opioide mayor de tercer escalón. Actúa como agonista de receptores mu y como inhibidor de la recaptación de noradrenalina (mecanismo dual). Está indicado en dolor crónico severo y dolor neuropático moderado-severo, y tiene potencia comparable a la oxicodona.",
+    "D": "La oxicodona es un opioide mayor semisintético derivado de la tebaína, con potencia equiparable a la morfina (ratio oral aproximado 1:1.5-2). Se utiliza para el tratamiento del dolor moderado-severo crónico y oncológico. Su clasificación como opioide de tercer escalón está bien establecida."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a la intoxicación aguda por paracetamol (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Los niveles plasmáticos de paracetamol no son fiables hasta pasadas 4 horas de la ingesta.",
+   "B": "La acidosis metabólica es un factor de mal pronóstico.",
+   "C": "La N-acetilcisteína es el antídoto específico.",
+   "D": "El fallo cardiorrespiratorio precoz es muy frecuente en este tipo de intoxicación."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA porque el fallo cardiorrespiratorio NO es una manifestación precoz ni frecuente de la intoxicación aguda por paracetamol. El paracetamol es hepatotóxico, no cardiotóxico ni neurotóxico primario. La toxicidad se manifiesta principalmente en el hígado (necrosis centrolobulillar) y riñones, con un curso clínico que en su fase inicial puede ser asintomático o con síntomas inespecíficos.",
+   "incorrectas": {
+    "A": "Es correcto que los niveles plasmáticos de paracetamol no son interpretables antes de las 4 horas postingesta, ya que antes de ese tiempo no se ha completado la absorción y los niveles no reflejan fielmente la exposición real. El nomograma de Rumack-Matthew, que determina el riesgo de hepatotoxicidad, solo es válido a partir de las 4 horas de la ingesta.",
+    "B": "La acidosis metabólica con pH arterial < 7.30 es uno de los criterios del King's College para trasplante hepático urgente en el fallo hepático agudo por paracetamol. Su presencia refleja disfunción mitocondrial grave y es un marcador de mal pronóstico establecido.",
+    "C": "La N-acetilcisteína (NAC) es el antídoto específico de la intoxicación por paracetamol. Actúa como precursor del glutatión, un tripéptido que conjuga el metabolito tóxico NAPQI (N-acetil-p-benzoquinoneimina) impidiendo su unión covalente a proteínas hepáticas. Es más eficaz cuanto antes se administre, idealmente en las primeras 8-10 horas."
+   }
+  }
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Qué fármaco utilizaría en el tratamiento agudo de una apoplejía hipofisaria?:",
+  "opciones": {
+   "A": "Estrógenos o testosterona, según el sexo del paciente.",
+   "B": "Glucocorticoides solubles.",
+   "C": "Hormonas tiroideas.",
+   "D": "PTH hidrosoluble."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La apoplejía hipofisaria es una emergencia endocrina causada por infarto hemorrágico o isquémico de la hipófisis, frecuentemente sobre un adenoma previo. El riesgo vital inmediato es la insuficiencia suprarrenal aguda por déficit de ACTH, lo que hace imprescindible la administración urgente de glucocorticoides solubles (hidrocortisona 100-200 mg iv). Esta medida es la más prioritaria ya que la insuficiencia suprarrenal no tratada puede ser fatal.",
+   "incorrectas": {
+    "A": "Los estrógenos o la testosterona no son el tratamiento de urgencia de la apoplejía hipofisaria. Aunque el hipogonadismo hipogonadotrópico puede estar presente por déficit de gonadotropinas, su corrección no es urgente en la fase aguda. La prioridad es tratar la insuficiencia suprarrenal que amenaza la vida.",
+    "C": "Las hormonas tiroideas pueden ser necesarias si existe hipotiroidismo central, pero nunca deben administrarse antes o sin corticoides en la apoplejía hipofisaria. Iniciar levotiroxina antes de los glucocorticoides en un paciente con insuficiencia suprarrenal puede precipitar una crisis addissoniana grave al aumentar el metabolismo del cortisol.",
+    "D": "La PTH hidrosoluble no tiene ningún papel en el tratamiento de la apoplejía hipofisaria. El hipoparatiroidismo no es una consecuencia directa de esta emergencia, y la PTH recombinante no es un fármaco de uso urgente en este contexto. No existe indicación clínica para su uso en esta situación."
+   }
+  }
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De los siguientes procesos, señale cuál produce una cefalea aguda localizada:",
+  "opciones": {
+   "A": "Síndrome de hipertensión intracraneal.",
+   "B": "Emergencia hipertensiva.",
+   "C": "Glaucoma agudo de ángulo estrecho.",
+   "D": "Absceso cerebral."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El glaucoma agudo de ángulo estrecho produce una cefalea localizada típicamente periocular y frontotemporal ipsilateral, acompañada de dolor ocular intenso, visión borrosa, halos alrededor de las luces, ojo rojo y midriasis media arreactiva. Es una urgencia oftalmológica que debe reconocerse en el contexto de la cefalea aguda. El dolor está claramente localizado en la órbita y frente del lado afecto.",
+   "incorrectas": {
+    "A": "El síndrome de hipertensión intracraneal produce típicamente una cefalea difusa, holocraneal, de predominio matutino, que empeora con maniobras de Valsalva, acompañada de náuseas, vómitos y papiledema. No es característica su localización unilateral o focal.",
+    "B": "La cefalea de la emergencia hipertensiva suele ser difusa, pulsátil y de predominio occipital o holocraneal, no localizada. Se asocia a cifras de PA muy elevadas y puede acompañarse de signos de afectación de órgano diana.",
+    "D": "La cefalea del absceso cerebral es variable, generalmente difusa o localizada sobre la zona del absceso si este es superficial, pero no sigue un patrón localizado característico. Se acompaña de fiebre, signos neurológicos focales y deterioro del nivel de consciencia de instauración subaguda, no de una localización típicamente periocular."
+   }
+  }
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a los pacientes que sufren quemaduras químicas (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Hay que garantizar la seguridad de los rescatadores y del personal sanitario que realizan la asistencia inicial al paciente que ha sufrido una quemadura química.",
+   "B": "Se debe descontaminar a la víctima lo más precozmente posible.",
+   "C": "Se debe identificar el agente implicado a la mayor brevedad.",
+   "D": "No se debe desvestir a la víctima."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA porque retirar la ropa de la víctima es uno de los primeros pasos fundamentales en las quemaduras químicas. La ropa impregnada con el agente cáustico mantiene el contacto del tóxico con la piel y prolonga y profundiza la lesión. El desvestido precoz, con protección del personal que lo realiza, reduce significativamente la extensión del daño tisular.",
+   "incorrectas": {
+    "A": "Garantizar la seguridad del rescatador y del personal sanitario es una prioridad absoluta en el manejo de quemaduras químicas. El contacto con el agente causal puede provocar quemaduras secundarias en los intervinientes. Deben usarse equipos de protección individual adecuados (guantes, gafas, bata impermeable) antes de atender a la víctima.",
+    "B": "La descontaminación precoz es esencial y cada minuto cuenta. La irrigación copiosa con agua abundante durante al menos 20-30 minutos reduce la penetración del agente corrosivo en los tejidos. El retraso en la descontaminación agrava considerablemente las lesiones.",
+    "C": "Identificar el agente implicado con la mayor brevedad permite orientar el tratamiento específico, consultar con el centro toxicológico y anticipar posibles complicaciones sistémicas. Algunos agentes tienen antídotos o contramedidas específicas (por ejemplo, el fluorhídrico requiere gluconato cálcico)."
+   }
+  }
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a la descompensación hiperglucémica no cetósica, indique la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Es un síndrome clínico-analítico que se produce con relativa frecuencia en los pacientes con diabetes mellitus tipo I.",
+   "B": "Se caracteriza por glucemia superior a 600 mg/dl asociado a disminución del nivel de conciencia con ausencia de cetoacidosis intensa.",
+   "C": "Suele asociarse a valores analíticos de cetonemia o cetonuria muy elevados.",
+   "D": "No reviste gravedad alguna y su mortalidad es muy baja."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "El síndrome hiperglucémico hiperosmolar no cetósico (SHHNC) se define por hiperglucemia marcada (generalmente > 600 mg/dl), hiperosmolaridad plasmática (> 320 mOsm/kg), alteración del nivel de conciencia y ausencia de cetoacidosis significativa. Esta definición la distingue de la cetoacidosis diabética y refleja la suficiente reserva insulínica para inhibir la cetogénesis pero no para controlar la glucemia.",
+   "incorrectas": {
+    "A": "El SHHNC ocurre predominantemente en pacientes con diabetes mellitus tipo 2, generalmente ancianos con comorbilidades que producen deshidratación y estrés metabólico. En la DM tipo 1, la deficiencia absoluta de insulina favorece la cetogénesis, lo que produce más frecuentemente cetoacidosis diabética, no el síndrome hiperosmolar.",
+    "C": "La ausencia o mínima presencia de cetonemia y cetonuria es precisamente lo que define y distingue al SHHNC de la cetoacidosis diabética. En el SHHNC existe suficiente insulina residual para suprimir la lipolisis y la cetogénesis, por lo que los cuerpos cetónicos son negativos o mínimamente elevados.",
+    "D": "El SHHNC es una emergencia metabólica con mortalidad elevada, que oscila entre el 10-20% en algunas series, muy superior a la de la cetoacidosis diabética. La gravedad se debe a la hiperosmolaridad extrema, la deshidratación masiva, las alteraciones neurológicas y la alta prevalencia de comorbilidades en los pacientes afectados."
+   }
+  }
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "El glucagón es el antídoto de (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Salicilatos.",
+   "B": "Benzodiacepinas.",
+   "C": "Antidepresivos tricíclicos.",
+   "D": "Betabloqueantes."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "El glucagón es el antídoto de primera línea en la intoxicación por betabloqueantes. Actúa activando receptores de glucagón cardíacos acoplados a proteína G, que estimulan la adenilciclasa y aumentan el AMPc intracelular de forma independiente a los receptores beta-adrenérgicos bloqueados. Esto produce efectos cronotrópico e inotrópico positivos, revirtiendo la bradicardia y la hipotensión características de esta intoxicación.",
+   "incorrectas": {
+    "A": "El antídoto de los salicilatos no es el glucagón. El tratamiento de la intoxicación salicílica se basa en alcalinización urinaria con bicarbonato para aumentar la excreción renal, y en casos graves en hemodiálisis. El glucagón no tiene ningún papel en esta intoxicación.",
+    "B": "El antídoto específico de las benzodiacepinas es el flumazenil, un antagonista competitivo de los receptores GABA-A. El glucagón no tiene efecto sobre los receptores benzodiacepínicos ni sobre los efectos de estos fármacos.",
+    "C": "Los antidepresivos tricíclicos no tienen antídoto específico con glucagón. Su intoxicación grave se trata con bicarbonato sódico para corregir la acidosis y los efectos sobre los canales de sodio cardíacos, además de medidas de soporte. El glucagón puede usarse como coadyuvante en algunos casos con afectación miocárdica pero no es su antídoto específico."
+   }
+  }
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Sobre la embolia arterial aguda, una de las siguientes afirmaciones es FALSA. Señálela:",
+  "opciones": {
+   "A": "La trombosis mural de la arteria aorta puede producir embolismos arteriales.",
+   "B": "La tasa de conservación de la extremidad es más frecuente que en la trombosis arterial.",
+   "C": "Frecuentemente, el paciente se encuentra en fibrilación auricular.",
+   "D": "Su localización más frecuente es la arteria humeral."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es que la localización más frecuente de la embolia arterial aguda es la arteria humeral. En realidad, las embolias arteriales afectan con mayor frecuencia a las arterias de los miembros inferiores, siendo la bifurcación femoral la localización más común (aproximadamente 30-40% de los casos), seguida de la poplítea y la ilíaca. Las embolias en miembros superiores son significativamente menos frecuentes.",
+   "incorrectas": {
+    "A": "Es verdad que la trombosis mural aórtica puede originar embolias arteriales distales. Los trombos que se forman sobre placas ateroscleróticas ulceradas de la aorta o en aneurismas aórticos pueden desprenderse y ocluir arterias periféricas. Es una causa reconocida de embolia arterial, aunque menos frecuente que la fibrilación auricular.",
+    "B": "Es correcto que la tasa de conservación de la extremidad en la embolia arterial es generalmente mayor que en la trombosis arterial aguda. Esto se debe a que en la embolia el árbol vascular subyacente suele ser normal (sin arteriosclerosis grave) y no está establecida circulación colateral, lo que facilita la revascularización quirúrgica con buenos resultados.",
+    "C": "La fibrilación auricular es la causa más frecuente de embolia arterial periférica, responsable de aproximadamente el 60-75% de los casos. Los trombos que se forman en la orejuela izquierda o en la aurícula izquierda durante la FA pueden embolizar a la circulación sistémica. La asociación es tan estrecha que ante una embolia arterial debe buscarse activamente la FA."
+   }
+  }
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a la definición de shock séptico, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "No se recomienda la determinación de lactato en estos procesos.",
+   "B": "En el shock séptico existe una necesidad de vasopresores para mantener presión arterial media por encima de 65 mmHg.",
+   "C": "En cuento a los valores en hematimetría la leucositosis es el hallazgo más frecuente.",
+   "D": "La antibioterapia debe iniciarse en la primera hora."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es que no se recomienda la determinación de lactato. Todo lo contrario: según los criterios de Sepsis-3 (2016), el lactato sérico > 2 mmol/L forma parte de la definición de shock séptico junto con la hipotensión refractaria a volumen que requiere vasopresores. La determinación de lactato es esencial para el diagnóstico, la estratificación del riesgo y la monitorización de la respuesta al tratamiento en el shock séptico.",
+   "incorrectas": {
+    "B": "La necesidad de vasopresores para mantener una PAM ≥ 65 mmHg a pesar de la reposición adecuada de volumen es uno de los criterios definitorios del shock séptico según Sepsis-3. Refleja la disfunción vasomotora (vasodilatación periférica y disfunción miocárdica) que caracteriza al shock séptico y lo distingue de la sepsis sin hipotensión.",
+    "C": "La leucocitosis (> 12.000/mm³) es el hallazgo hematológico más frecuente en la sepsis, aunque también puede observarse leucopenia (< 4.000/mm³) en casos graves o con ciertas bacterias. Ambos extremos forman parte de los criterios diagnósticos históricos de SRIS, siendo la leucocitosis la presentación más habitual.",
+    "D": "La administración de antibioterapia en la primera hora es una recomendación de máxima prioridad en el shock séptico, recogida en los bundles de la Surviving Sepsis Campaign. El retraso en el inicio de antibióticos se asocia de forma directa con el incremento de la mortalidad; cada hora de demora aumenta significativamente el riesgo de muerte."
+   }
+  }
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En referencia a la hipotermia (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Se define como temperatura central menor a 32ºC.",
+   "B": "Puede deberse a la exposición al frío sin la protección adecuada.",
+   "C": "En la hipotermia grave, si la temperatura central inicial es de 26ºC, sin recalentar, consideramos al paciente muerto.",
+   "D": "No se debe utilizar fluidoterapia a 40-42ºC para tratar una hipotermia grave."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 98,
+   "tema": "Lesiones por agentes físicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."
+  },
+  "explicacion": {
+   "correcta": "La hipotermia puede deberse efectivamente a la exposición al frío sin protección adecuada, siendo esta la causa más común (hipotermia accidental). Otras causas incluyen inmersión en agua fría, intoxicaciones, hipotiroidismo, hipoglucemia y sepsis. La exposición ambiental con ropa inadecuada o sin refugio es el mecanismo más frecuente en la práctica clínica urgente.",
+   "incorrectas": {
+    "A": "La hipotermia se define como temperatura central por debajo de 35°C (no 32°C). Se clasifica en leve (32-35°C), moderada (28-32°C) y grave (< 28°C). Una temperatura de 32°C correspondería al límite superior de la hipotermia moderada, no al umbral definitorio del cuadro.",
+    "C": "En la hipotermia grave, incluso con temperaturas tan bajas como 26°C o menos, no se debe declarar muerto al paciente hasta que no se haya recalentado y se constate la ausencia de actividad cardíaca. El principio fundamental es: 'el paciente hipotérmico no está muerto hasta que está caliente y muerto'. La hipotermia profunda puede simular la muerte al suprimir la actividad cardíaca y neurológica.",
+    "D": "La fluidoterapia intravenosa calentada a 40-42°C sí está indicada como parte del recalentamiento activo interno en la hipotermia grave. Los líquidos calientes intravenosos contribuyen a elevar la temperatura central y evitan el enfriamiento adicional que produciría la infusión de sueros a temperatura ambiente. Es una de las medidas de recalentamiento activo interno disponibles."
+   }
+  }
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Las lesiones medulares adquieren un alcance seccional, aunque existen síndromes topográficos incompletos. ¿Cuál de los siguientes enunciados es correcto con respecto a la mano en las lesiones medulares?",
+  "opciones": {
+   "A": "Síndrome cordonal anterior asociado a insultos hipóxico-isquémicos de la arteria vertebral anterior por contusión.",
+   "B": "Síndrome cordonal anterior, es el más infrecuente. Cursa con dolor y alteración sensitiva contralateral anterior.",
+   "C": "Síndrome cordonal posterior, es el más infrecuente. Cursa con dolor y alteración sensitiva quemante-urente en el nivel dañado.",
+   "D": "Síndrome de hemisección medular o de Brown-Séquard: conlleva afectación sensitiva cordonal posterior y motora ipsilateral."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Ante una fiebre supracondílea de codo, se debe realizar una exploración neurovascular, antes y después de la inmovilización. La pauta adecuada antimicrobiana a administrar de manera empírica y sin factores de resistencia, ¿qué pauta se recomienda?",
+  "opciones": {
+   "A": "Pérdida de sensibilidad en el 5º dedo y en la mitad del 4º, por lesión del nervio radial.",
+   "B": "Pérdida de sensibilidad en la cara dorsal de 1º, 2º y 3º dedos y la mitad del 4º, por lesión del nervio mediano.",
+   "C": "Pérdida de sensibilidad en los dedos anteriores pueden ser debido a lesión del nervio cubital.",
+   "D": "Todas las anteriores pueden ser consideradas como consecuencia de este tipo de patología fracturaria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración del electrocardiograma de un paciente con dolor torácico, la presencia de bloqueo completo de rama izquierda dificulta la identificación de alteraciones de la repolarización de causa isquémica porque se han desarrollado varios algoritmos de criterios, el más utilizado es el de Sgarbossa. Entre los siguientes, señale el que parece pertenecer a otro criterio:",
+  "opciones": {
+   "A": "Supradesnivelación concordante del segmento ST de ≥ 1 mm.",
+   "B": "Infradesnivelación concordante en V1-V2-V3 de ≥ 1 mm.",
+   "C": "Supradesnivelación discordante de ≥ 5 mm.",
+   "D": "Todos los anteriores son criterios de Sgarbossa."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la respuesta incorrecta en el tratamiento médico de la hemorragia a ritmo sinusal de la fibrilación auricular:",
+  "opciones": {
+   "A": "El patrón en eco puede observarse un tejido pleural masivo.",
+   "B": "Si hay una FC de cualquier duración inferior o 48 horas en ausencia de valvulopatía.",
+   "C": "Patrón en FC de cualquier duración inferior o 48 horas en ausencia de valvulopatía.",
+   "D": "En las últimas 3 semanas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con el manejo del Edema Agudo de Pulmón (EAP), marque la opción incorrecta:",
+  "opciones": {
+   "A": "La ventilación mecánica no invasiva (VNI) en pacientes con insuficiencia cardiaca de predominio diastólica.",
+   "B": "No se usan con precaución en pacientes que pueden tener compromiso del volumen intravascular.",
+   "C": "La morfina puede administrarse en el EAP aunque presenta un mayor riesgo de efectos secundarios.",
+   "D": "El levosimendán es un vasodilatador que presenta un efecto diurético."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "La preeclampsia e HTA en el embarazo, ¿Qué tratamiento es el más recomendado?",
+  "opciones": {
+   "A": "Hidralazina.",
+   "B": "Inhibidores del eje renina-angiotensina-aldosterona.",
+   "C": "Labetalol.",
+   "D": "Nifedipino."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración de la insuficiencia respiratoria en urgencias podemos calcular el gradiente alvéolo-arterial de oxígeno, el P(A-a)O2. Esta variable nos permite diferenciar como patología pulmonar o extrapulmonar la causa, y existen enfermedades o enfermedades que aumentan determinados parámetros que determinan la presencia de insuficiencia respiratoria, el P(A-a)O2:",
+  "opciones": {
+   "A": "Mayor de 25 mmHg.",
+   "B": "Entre 35-47 mmHg.",
+   "C": "Entre 20-305 mmHg (dependiendo de la edad).",
+   "D": "Mayor de 25 mmHg."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Paciente de 35 años con antecedentes de HTA y exfumador que acude a urgencias con FC de 110085 rpm, con una PaO2 de 25 rpm, FR de 25 rpm. Atendiendo a los criterios de ingreso en UCI en las neumonías adquiridas en la comunidad (NAC), ¿cuál sería la actitud correcta?",
+  "opciones": {
+   "A": "Ingreso en UCI por presentar más de 3 criterios menores.",
+   "B": "Ingreso en observación por ausencia de criterios mayores y solo presentar criterios menores.",
+   "C": "Ingreso en UCI por presentar más de 3 criterios menores.",
+   "D": "Ingreso en UCI por presentar más de 3 criterios menores."
+  },
+  "respuesta_correcta": "Anulada"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Con respecto al choque séptico en el servicio de urgencias, señale cual es la secuencia de tiempo más adecuada:",
+  "opciones": {
+   "A": "Guía estándar para diagnóstico de la tromboembolia venosa, señale cual de las siguientes afirmaciones es verdadera.",
+   "B": "La determinación de Dímero-D posee un elevado valor predictivo positivo en el diagnóstico de la tromboembolia venosa profunda.",
+   "C": "Los trombos venosos superficiales deben tratarse como trombosis venosas profundas.",
+   "D": "El tratamiento inicial con heparina de bajo peso molecular anticoagulación durante 1 semana, iniciar tratamiento con Acenocumarol."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Respecto al derrame pleural, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Son características de un derrame pleural: pH 7,30 glucosa < 60 en el líquido pleural.",
+   "B": "La toracocentesis muestra un líquido pleural ≥ 50% de la recidiva hemorrágica.",
+   "C": "El patrón en columna de líquido tiene igual sensibilidad que la Rx Tórax en la identificación de mínimos derrames pleurales.",
+   "D": "Todo derrame pleural masivo tiene indicación de tubo de drenaje."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el síndrome febril señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Si hay una orientación diagnóstica y no hay datos de gravedad, valorar realizar hemograma, bioquímica con glucosa, creatinina, urea, sodio, potasio, PCR con procalcitonina, sedimento de orina o Rx Tórax.",
+   "B": "Sin orientación diagnóstica, glucosa, creatinina, urea, sodio, potasio, PCR con procalcitonina, sedimento de orina o Rx Tórax.",
+   "C": "Intermitentes arreactivas. Lesión en vía parasináptica bilateral, encefalopatía hipóxico-isquémica, bulbo, trauma, fármacos.",
+   "D": "La realización de pruebas analíticas es exclusivo en síndrome febril."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Se indica una punción lumbar a un paciente de 20 años con neutropenia en urgencias. El liquido cefalorraquídeo muestra los siguientes hallazgos: Proteínas 110 mg/dl; Glucosa 10085 mg/dl; predominio de polimorfonucleares. ¿Cuál es la actitud correcta y qué antibiótico se recomienda administrar?",
+  "opciones": {
+   "A": "Cefriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Levofloxacino 500 mg cada 12 horas.",
+   "B": "Ceftriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Ampicilina 2 g cada 4 horas.",
+   "C": "Vancomicina 1 g cada 8 horas.",
+   "D": "Cefepima 2 g cada 8 horas más Levofloxacino 500 mg cada 12 horas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente con shock séptico de un tracto urinario con factores de riesgo para bacterias resistentes, la pauta antibiótica a administrar de manera empírica sin factores de resistencia sería:",
+  "opciones": {
+   "A": "Ceftriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Levofloxacino 500 mg cada 12 horas.",
+   "B": "Ceftriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Ampicilina 2 g cada 4 horas.",
+   "C": "Vancomicina 1 g cada 8 horas más Levofloxacino 500 mg/kg cada 12 horas.",
+   "D": "Cefepima 2 g cada 8 horas más Levofloxacino 500 mg cada 12 horas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Aviso actualmente existe controversia sobre los criterios más indicados para definir y diagnosticar sepsis. ¿Qué escala se utiliza el contenido de Síndrome de respuesta inflamatoria sistémica (SRIS)?",
+  "opciones": {
+   "A": "Fiebre con temperatura ≥ 37,5 ºC (Fiebre > 37 º).",
+   "B": "Frecuencia cardiaca (FC) > 90 lpm (latidos por minuto).",
+   "C": "Frecuencia respiratoria (FR) > 20 rpm (respiraciones por minuto) o PaCO2 < 30 mmHg.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración de un paciente con cefalea, señale entre las siguientes la que parece una cefalea secundaria:",
+  "opciones": {
+   "A": "Sospecha de hemorragia subaracnoidea con tomografía computarizada normal.",
+   "B": "Ingreso en observación por ausencia de criterios mayores y solo presentar criterios menores.",
+   "C": "Ingreso en UCI si presencia de 1 criterio mayor.",
+   "D": "Ingreso en UCI por presentar más de 3 criterios menores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Respecto a los patrones pupilares de la coma, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Miosis unilateral reactiva - Lesión en vía ampliada ipsilateral (diencéfalo, mesencéfalo, bulbo).",
+   "B": "Miosis bilateral reactiva - Lesión en vía parasináptica bilateral, encefalopatía hipóxico-isquémica.",
+   "C": "Intermedias arreactivas. Lesión en vía parasináptica bilateral (diencéfalo, mesencéfalo), ganglios basales, arteria carótida interna.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración del paciente en coma en urgencias, además de fijarnos en el patrón pupilar, debemos conocer si el paciente está hipertermo y es responsable de la causa del coma. El compañero de turno nos comunica por teléfono que el endoscopista urgencias ha realizado una endoscopia digestiva alta que ha hecho la técnica de la válvula de la bomba de protones (IBP). En la descripción del informe de la EDA esperaríamos que el endoscopista describiera la vía lasix:",
+  "opciones": {
+   "A": "Sangrado a chorro ('en jet').",
+   "B": "Vaso visible ('en jet').",
+   "C": "Un coágulo adherido.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Una de las respuestas no constituye uno de los tres pilares del Plan de Humanización de Castilla La Mancha:",
+  "opciones": {
+   "A": "Ingreso en UCI por presentar más de 3 criterios menores.",
+   "B": "Las Redes de Expertos y Profesionales.",
+   "C": "El Plan de Salud Pública Regional.",
+   "D": "La Escuela de Salud y Cuidados."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el manejo de los accidentes cerebrovasculares (TSVC) en relación con la vacuna frente a SARS-COV-2 vectorizada con adenovirus:",
+  "opciones": {
+   "A": "En ausencia de sangrado activo clínicamente significativo, tratar anticoagulación con Argatroban iv.",
+   "B": "En ausencia de sangrado activo clínicamente significativo, se debe valorar la realización de una resonancia magnética cerebral para tratamiento anticoagulante con Argatroban iv.",
+   "C": "Esta excepción forma como criterio de presentación durante el curso de la enfermedad, la presencia en contraste sería negativa.",
+   "D": "Para poder hacer un diagnóstico de TSVC o descartarlo, la TC e incluso la RM cerebral en contraste sería negativa."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la atención a un paciente con celulitis, señale entre las siguientes la que parece correcta:",
+  "opciones": {
+   "A": "La vancomicina inicial de bolo de 15 mg/kg (omeprazol, pantoprazol), según del tipo de perfusión a 80 mg/h (omeprazol), el único IBP que ha demostrado ser eficaz en prevención secundaria de la recidiva hemorrágica es omeprazol.",
+   "B": "El patrón en columna de la perfusión continua inferior a 48 horas en ausencia de valvulopatía.",
+   "C": "El patrón en FC de cualquier duración inferior o 48 horas en ausencia de valvulopatía.",
+   "D": "La administración de inhibidores de la bomba de protones (IBP) previo al tratamiento endoscópico no modifica ni el número de estigmas de alto riesgo, ni el número de intervenciones endoscópicas, aunque sí reduce la necesidad de la recidiva hemorrágica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Se realiza una endoscopia urgente a un paciente de 70 años que ha tenido una hemorragia digestiva alta que ha hecho la técnica de la válvula (IBP). El compañero del servicio de digestivo nos comunica por teléfono que el endoscopista urgente ha confirmado que el paciente tiene una úlcera péptica. En la descripción del informe de la EDA esperaríamos que el endoscopista describiera la vía lasix en la úlcera (Forrest 1a):",
+  "opciones": {
+   "A": "Sangrado a chorro ('en jet').",
+   "B": "Vaso visible.",
+   "C": "Un coágulo adherido.",
+   "D": "Manchas de hematina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las pruebas de laboratorio de un paciente con sospecha de pancreatitis aguda (PA): a) El hemograma, la bilirrubina y la creatinina son las únicas analíticas necesarias, ya que nos orientan acerca de la gravedad del cuadro. b) Debido a la mayor producción de insulina y la disminución de la liberación de glucagón, glucocorticoides y catecolaminas, no suele haber hipoglucemia que justifique la realización del test de sobrecarga oral de glucosa. c) La lipasa sérica tiene mayor sensibilidad y especificidad que la amilasa en el diagnóstico de PA. d) En relación con las enzimas hepáticas, la elevación de la GPT (ALT), el cociente GPT/GOT>1, y ausencia de los niveles de fosfatasa alcalina orientarían hacia la etiología alcohólica de la pancreatitis.",
+  "opciones": {
+   "A": "El hemograma, la bilirrubina y la creatinina son las únicas analíticas necesarias, ya que nos orientan acerca de la gravedad del cuadro.",
+   "B": "Debido a la mayor producción de insulina y la disminución de la liberación de glucagón, glucocorticoides y catecolaminas, no suele haber hipoglucemia que justifique la realización del test de sobrecarga oral de glucosa.",
+   "C": "La lipasa sérica tiene mayor sensibilidad y especificidad que la amilasa en el diagnóstico de PA.",
+   "D": "En relación con las enzimas hepáticas, la elevación de la GPT (ALT), el cociente GPT/GOT>1, y ausencia de los niveles de fosfatasa alcalina orientarían hacia la etiología alcohólica de la pancreatitis."
+  },
+  "respuesta_correcta": "B"
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 155,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una mujer de 83 años alérgica a betalactámicos está en el servicio de Urgencias pendiente de ingreso en hospitalización por pielonefritis aguda y vómitos. Toma amiodarona desde hace 3 años por fibrilación auricular paroxística. Se le ha administrado levofloxacino y metoclopramida. Llegó agitada y volvió a tener otro episodio de agitación nocturna por lo que se añade haloperidol. A la mañana siguiente sufre un síncope del que se recupera a los pocos segundos. El ECG muestra ritmo sinusal a 50 lpm, QRS estrecho y QTc 510 ms. En este contexto clínico, ¿qué etiología explicaría el síncope?",
+  "opciones": {
+   "A": "Una taquicardia ventricular polimorfa.",
+   "B": "Un infarto agudo de miocardio.",
+   "C": "Un ictus cardioembólico.",
+   "D": "Un bloqueo auriculoventricular completo."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 156,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "Se define hipertensión arterial cuando en 3 ocasiones separadas por un intervalo superior a una semana con presión arterial sistólica mayor de 140 mmHg o con presión arterial diastólica superior a 90 mmHg.",
+   "B": "Se define hipertensión arterial con una única medición de presión arterial sistólica mayor de 210 mmHg o con presión arterial diastólica superior a 120 mmHg.",
+   "C": "Hay al menos 8 presentaciones clínicas de la urgencia hipertensiva, pero solo 1 una presentación clínica de emergencia hipertensiva.",
+   "D": "En la emergencia hipertensiva hay que reducir antes de que transcurran 2 horas la presión arterial sistólica a 160 mmHg, o con presión arterial diastólica a 100 mmHg o reducir en un 25% la presión arterial media."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 157,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En caso de emergencia hipertensiva ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "En la eclampsia el tratamiento hipotensor de elección es el nitroprusiato sódico intravenoso.",
+   "B": "En el ACV isquémico que va a recibir fibrinolisis la PAS debe mantenerse menor de 185 mmHg y la PAD menor de 110 mmHg.",
+   "C": "En el síndrome coronario agudo el tratamiento hipotensor de elección es la nitroglicerina intravenosa.",
+   "D": "En el edema agudo de pulmón el tratamiento hipotensor de elección es la furosemida y la nitroglicerina intravenosa."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 158,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un hombre de 58 años, a las tres semanas de un esguince grave de tobillo presenta, de forma rápidamente progresiva, disnea de reposo, mareo y síncope. Al llegar al servicio de Urgencias hospitalario tiene hipotensión (PA sistólica 80 mmHg, diastólica 40 mmHg) y mala perfusión. Es intubado y conectado a ventilación mecánica y se inicia noradrenalina. El ecocardiograma muestra signos de hipertensión pulmonar. En la angio-TC se observan múltiples defectos de repleción ocupando ambas arterias pulmonares principales. ¿Cuál de los siguientes tratamientos se asociaría a una mejoría hemodinámica más rápida en este caso?",
+  "opciones": {
+   "A": "Heparina sódica en perfusión intravenosa.",
+   "B": "Tromboendarterectomía.",
+   "C": "Fibrinolisis sistémica con rt-PA (alteplase) 100 mg intravenoso.",
+   "D": "Filtro en vena cava inferior."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 159,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una mujer de 59 años con antecedentes personales de cáncer de mama intervenida hace 8 meses y osteoporosis, sufre una caída y tiene una fractura de cuello de fémur derecho. Es intervenida quirúrgicamente y permanece ingresada en reposo con escayola durante 10 días. A la semana siguiente de su alta nota de forma súbita falta de aire que la lleva a consultar a su médico de cabecera que nota que su pantorrilla derecha tiene edema y dolor a la palpación. ¿Qué elementos clínicos NO serían importantes a la hora de determinar que tiene un riesgo clínico alto de padecer una tromboembolia pulmonar?",
+  "opciones": {
+   "A": "El antecedente de cáncer de mama.",
+   "B": "La historia de osteoporosis.",
+   "C": "El antecedente de haber estado más de 3 días en reposo.",
+   "D": "La presencia de edema unilateral de la pantorrilla derecha."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 160,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un hombre de 37 años sin antecedentes de interés acude a Urgencias por haber sufrido un síncope mientras caminaba. Había comenzado dos días antes con disnea de esfuerzo. Exploración: peso 75 kg, TA 75/50 mmHg. Saturación de oxígeno 89%. Auscultación pulmonar normal. Auscultación cardiaca: tonos rítmicos taquicárdicos a 130 lpm. Abdomen normal. Extremidades: sin alteraciones. Hemograma: normal. Troponina: 1,2 ng/ml (normal: <0,04). ECG: Taquicardia sinusal a 130 lpm. T invertida en V1-V4. AngioTC torácica: defecto de repleción en ambas arterias pulmonares principales. Una hora después de su llegada a Urgencias persiste TA 70/55 mmHg. ¿Cuál sería el tratamiento inicial más adecuado?",
+  "opciones": {
+   "A": "Heparina no fraccionada, 10000 U i.v. ante la sospecha clínica. Fibrinólisis con activador tisular del plasminógeno (tPA), 100 mg i.v., una vez confirmado el diagnóstico.",
+   "B": "Enoxaparina: 80 mg sc cada 12 horas, comenzando ante la sospecha diagnóstica.",
+   "C": "Enoxaparina: 80 mg sc cada 12 horas, comenzando tras la confirmación diagnóstica.",
+   "D": "Fondaparinux 7,5 mg sc diarios."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 161,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un hombre de 78 años de edad es remitido al servicio de Urgencias hospitalario por presentar unas horas antes en su domicilio disnea de comienzo brusco. Había sido intervenido quirúrgicamente para implantación de prótesis total de cadera tres semanas antes. El paciente fue tratado con heparina de bajo peso molecular a dosis profilácticas hasta el alta hospitalaria. No presentaba fiebre, expectoración ni ningún otro síntoma acompañante. En la exploración física existía TA 150/90, taquicardia a 110 lat por min y taquipnea siendo el resto normal. Como único antecedente patológico cinco años antes tuvo un episodio de trombosis venosa profunda de miembro inferior derecho. ¿Cuál es la actitud inicial correcta?",
+  "opciones": {
+   "A": "Se debe realizar un estudio complejo para llegar a un diagnóstico inicial, pudiendo descartar de entrada la existencia de embolia de pulmón dado que se realizó tratamiento profiláctico con heparina tras la cirugía.",
+   "B": "Aunque la probabilidad clínica de embolia de pulmón es baja debe realizarse una TC de arterias pulmonares para descartarla, antes de iniciar ningún tratamiento.",
+   "C": "La probabilidad clínica de embolia de pulmón es alta debiendo iniciarse tratamiento con heparina y después realizar con una TC de arterias pulmonares para confirmar el diagnóstico.",
+   "D": "El paciente probablemente padece una embolia de pulmón y debe iniciar tratamiento fibrinolítico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 162,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La presencia de una presión arterial diastólica >140 mmHg con hemorragias y/o exudados retinianos y/o edema de papila es más característico de:",
+  "opciones": {
+   "A": "Hipertensión arterial de inicio y se debe disminuir la presión en menos de 48 horas.",
+   "B": "Hipertensión arterial no controlada y se debe disminuir la presión en menos de 48 horas.",
+   "C": "Urgencia hipertensiva y se debe disminuir la presión en menos de 1 hora.",
+   "D": "Hipertensión arterial maligna y se debe disminuir la presión en menos de 1 hora."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 163,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes síntomas asociados con la hipertensión arterial tiene peor pronóstico?",
+  "opciones": {
+   "A": "Pérdida brusca de fuerza de pierna y brazo derechos de 10 minutos de duración.",
+   "B": "Epistaxis de 30 minutos de duración.",
+   "C": "Cefalea nucal vespertina.",
+   "D": "Taquicardia y temblor."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 164,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale en cuál NO sospecharía una hipertensión secundaria:",
+  "opciones": {
+   "A": "Mujer de 25 años con un soplo abdominal.",
+   "B": "Hipertensión arterial con hipopotasemia en un hombre de 50 años que no toma fármacos.",
+   "C": "Mujer de 55 años con índice de masa corporal 28 y dislipemia.",
+   "D": "Mujer de 78 años que desde hace 3 meses no se controla con 3 fármacos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 165,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un hombre de 65 años fumador, con claudicación intermitente y al que hace un mes por hipertensión arterial le indican tratamiento con valsartán e hidroclorotiazida, acude a urgencias por malestar general, astenia, pérdida de apetito y de peso. La presión arterial es 215/105 mm Hg y no tiene edemas. La analítica sanguínea mostra hemoglobina de 10 g/dL, urea 172 mg/dL, creatinina 6,4 mg/dL, potasio 6,3 mEq/L, bicarbonato 17,2 mmol/L. En orina proteínas 75 mg/dL y sedimento normal. Una ecografía muestra riñón derecho de 10 cm y riñón izquierdo de 7 cm de longitud, ambos de contorno liso y sin dilatación pieloureteral. ¿Cuál es su actitud?",
+  "opciones": {
+   "A": "Transfundir un concentrado de hematíes, indicarle dieta pobre en sal y en potasio, subir la dosis de valsartán y pedir una angioTC ambulatoriamente.",
+   "B": "Hacer un electrocardiograma, indicarle dieta pobre en sodio y en potasio, suspender valsartán e hidroclorotiazida, indicarle amlodipino y bicarbonato y pedirle un ecodoppler renal.",
+   "C": "Hacerle un electrocardiograma, indicarle dieta pobre en sodio y en potasio, subir valsartán y pedirle una TC abdominal.",
+   "D": "Bajar urgentemente la presión arterial con captopril sublingual y furosemida, pedir TC urgente y dializar al paciente."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 166,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿En cuál de las siguientes causas de fracaso renal agudo es INFRECUENTE la presencia de cilindros hemáticos en el sedimento urinario?",
+  "opciones": {
+   "A": "Nefritis intersticial inmunoalérgica.",
+   "B": "Vasculitis.",
+   "C": "Glomerulonefritis IgA.",
+   "D": "Síndrome hemolítico-urémico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 167,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 35 años. Antecedentes de epilepsia y adicción a drogas no parenterales. Ingresa en Urgencias tras ser encontrado comatoso en la calle. Al ingreso estuporoso, sin focalidad neurológica. Exploración cardiovascular normal. Tensión arterial 135/78 mmHg. Dolor difuso a la compresión en miembros superior e inferior derechos, con pantorrilla derecha caliente y edematosa. Tras sondaje vesical se recuperan 200 ml de orina oscura. Analítica: hemoglobina 14,4 g/dl, 7.800 leucocitos/mm3, glucemia 68 mg/dl, urea 114 mg/dl, creatinina 4,4 mg/dl, calcio 7,0 mg/dl. Analítica de orina: densidad 1012, pH 5,5, proteinuria +, sedimento normal, sodio urinario 64 mmol/1. Ecografía renal normal. ¿A cuál de las siguientes pruebas o determinaciones analíticas le ve más utilidad inmediata para identificar la causa de la insuficiencia renal de este paciente?",
+  "opciones": {
+   "A": "Nivel de creatinkinasa (CK) en sangre.",
+   "B": "Patrones de citolisis y colestasis hepática.",
+   "C": "Hemocultivos seriados y urocultivo.",
+   "D": "Estudio radiológico vascular, tanto de riñones como de miembro inferior derecho."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 168,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El patrón urinario característico de la depleción de volumen arterial efectivo con fracaso renal agudo prerrenal consiste en:",
+  "opciones": {
+   "A": "Oliguria con orina concentrada y concentración de sodio alta.",
+   "B": "Oliguria con orina isotónica y sodio bajo.",
+   "C": "Diuresis conservada con osmolaridad alta.",
+   "D": "Oliguria con osmolaridad alta y sodio bajo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 169,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La nefritis túbulo-intersticial aguda no parece muy frecuente pero la mayoría de sus causas son medicamentos de uso frecuente. Debe sospecharse si se presenta una insuficiencia renal, cuya causa no se identifica con alta probabilidad, en enfermos que tomen medicación. Todos los siguientes medicamentos son causa potencial de nefritis tubulointersticial, EXCEPTO:",
+  "opciones": {
+   "A": "AINE.",
+   "B": "Salbutamol.",
+   "C": "Sulfamidas.",
+   "D": "Alopurinol."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 170,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una paciente de 72 años fue vista en Urgencias un mes antes por caída casual y traumatismo de rodilla. Consulta de nuevo por dolor lumbar bilateral y orinas oscuras desde hace una semana. Como antecedentes destacan HTA, diabetes mellitus no insulinodependiente, dislipemia, obesidad y gonartrosis. Sigue tratamiento con enalapril/hidroclorotiazida 20/12,5 mg/día, naproxeno a demanda, atorvastatina 20 mg/día y metformina 850 mg/día. En la analítica de urgencia destaca: anemia microcítica moderada; CPK 45 U/L; creatinina 1,9 mg/dL; urea 75 mg/dL; Na 138 mEq/L; K 5,6 mEq/L. En la orina: microhematuria ++, proteinuria - y muy abundantes células descamativas. No se observan bacterias. En la visita anterior a Urgencias hace 1 mes, todos los parámetros eran normales. Una ecografía urgente es informada como posible necrosis papilar bilateral. ¿A qué puede deberse el cuadro actual?",
+  "opciones": {
+   "A": "Fracaso renal agudo por enalapril.",
+   "B": "Progresión de una nefropatía diabética.",
+   "C": "Nefropatía por AINE.",
+   "D": "Rabdomiolisis por estatinas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 171,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En cuanto a los índices urinarios en el diagnóstico del fracaso renal agudo prerrenal, indique la afirmación INCORRECTA:",
+  "opciones": {
+   "A": "La osmolalidad urinaria es superior a 400 mOsm/Kg.",
+   "B": "El sodio urinario es inferior a 20 mEq/l.",
+   "C": "El índice de fallo renal (IFR) es superior a 1.",
+   "D": "La excreción fraccional de Sodio (EFNa) es inferior al 1%."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 172,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En una paciente con artritis reumatoide en tratamiento con metotrexate, prednisona e indometacina que presenta de forma aguda edemas y aumento de la creatinina plasmática con un sedimento de orina poco expresivo y proteinuria escasa la causa más probable es:",
+  "opciones": {
+   "A": "Amiloidosis renal.",
+   "B": "Glomerulonefritis secundaria a la artritis reumatoide.",
+   "C": "Insuficiencia renal por antiinflamatorios no esteroideos.",
+   "D": "Nefritis intersticial por metotrexate."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 173,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sospecharemos insuficiencia renal aguda de origen pre-renal en presencia de:",
+  "opciones": {
+   "A": "Hipotensión, elevación de las cifras de urea y creatinina sérica, osmolaridad en orina inferior a 500 mOsm/kg y excreción fraccional de sodio superior a 1%.",
+   "B": "Intolerancia digestiva, elevación de las cifras de urea y creatinina séricas, osmolaridad en orina superior a 500 mOsm/kg y excreción fraccional de sodio inferior a 1%.",
+   "C": "Administración intravenosa previa de contraste iodado, elevación de las cifras de urea y creatinina séricas, osmolaridad en orina inferior a 500 mOsm/kg y excreción fraccional de sodio superior a 1%.",
+   "D": "Administración previa de un antibiótico aminoglucósido, elevación de las cifras de urea y creatinina séricas e isostenuria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 174,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Mujer de 37 años sin otros antecedentes de interés que una apendicectomía. Acude a urgencias por dolor en fosa renal derecha de 3 días de evolución y fiebre de 39°C. En la analítica destaca leucocitosis (14 x10³/μL con neutrofilia) y proteína C reactiva 15 mg/dL. El sistemático de orina muestra hematuria microscópica, leucocituria y piuria significativas. Ingresa con el diagnóstico de pielonefritis aguda y se inicia tratamiento antibiótico con ceftriaxona intravenosa. Tres días después persiste fiebre de 38,5°C, aumento de la leucocitosis y deterioro de la función renal. Teniendo en cuenta la sospecha diagnóstica, ¿qué prueba solicitaría a continuación?",
+  "opciones": {
+   "A": "Tomografía axial computarizada con contraste intravenoso.",
+   "B": "Urografía intravenosa.",
+   "C": "Resonancia magnética nuclear abdominal.",
+   "D": "Ecografía urológica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 175,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una mujer de 25 años de edad, sin antecedentes patológicos destacables, acude a urgencias refiriendo disuria, polaquiuria, tenesmo y urgencia miccional. Niega tener flujo vaginal. Hace tres días había regresado de su luna de miel. En la exploración está con buen estado general y afebril. Se realiza una prueba de orina mediante una tira reactiva que muestra nitritos positivos y un test de embarazo que resulta negativo. ¿Cuál es la actitud adecuada a seguir?",
+  "opciones": {
+   "A": "Solicitar un cultivo de orina y diferir el inicio del tratamiento antibiótico hasta tener el resultado definitivo.",
+   "B": "Solicitar un cultivo de orina e iniciar a continuación el tratamiento antibiótico empírico ambulatorio hasta tener el resultado definitivo.",
+   "C": "Debe considerarse el tratamiento empírico de la paciente y su pareja.",
+   "D": "No solicitar ningún estudio más e iniciar el tratamiento antibiótico empírico ambulatorio."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 176,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 35 años que acude a urgencias por cuadro de 48 horas de evolución de fiebre de 39 ºC, tiritona, mal estado general, polaquiuria, disuria, tenesmo vesical y dolor perianal. En la analítica presenta valores de creatinina de 0,9 mg/dL, procalcitonina de 1,5 ng/mL, leucocitos de 20.000/uL y PSA de 45 ng/mL. ¿Cuál es la actitud a seguir en este paciente?",
+  "opciones": {
+   "A": "Sueroterapia, antitérmicos, toma de urocultivo, antibioterapia y TC toracoabdominal.",
+   "B": "Sueroterapia, antitérmicos y antibioterapia previa a la realización de biopsia prostática.",
+   "C": "Sueroterapia, antitérmicos y antibioterapia durante tres semanas y repetir niveles de PSA en tres meses.",
+   "D": "Sueroterapia, antitérmicos y antibioterapia. Solicitar niveles de fosfatasa ácida prostática."
+  },
+  "respuesta_correcta": "C"
+ }
+]

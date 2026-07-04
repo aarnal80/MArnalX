@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta FALSA, de acuerdo con en el artículo 11 de la Constitución Española de 1978, la nacionalidad española:",
+  "opciones": {
+   "A": "Se adquiere de acuerdo con lo establecido por la ley.",
+   "B": "Se conserva de acuerdo con lo establecido por la ley.",
+   "C": "Se adquiere, se conserva y nunca se pierde.",
+   "D": "Se pierde de acuerdo con lo establecido por la ley."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 19 de la Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria, el Gobierno de Cantabria cesa:",
+  "opciones": {
+   "A": "Tras la celebración de elecciones a las Cortes Generales.",
+   "B": "Tras la celebración de elecciones al Parlamento.",
+   "C": "Por la confianza del Parlamento o la adopción por éste de una moción de censura.",
+   "D": "Por la pérdida de confianza del Parlamento o la adopción por éste de una moción de confianza."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 12 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la atención primaria comprenderá:",
+  "opciones": {
+   "A": "La asistencia especializada en hospital de día, médico y quirúrgico.",
+   "B": "La hospitalización en régimen de internamiento.",
+   "C": "La asistencia sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo.",
+   "D": "La asistencia sanitaria a demanda y programada en la consulta. Queda excluida de la atención primaria la asistencia sanitaria en el domicilio del enfermo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 7 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud:",
+  "opciones": {
+   "A": "El catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención.",
+   "B": "El catálogo de prestaciones del Sistema Nacional de Salud comprenderá las prestaciones correspondientes a a salud medioambiental, primeros auxilios, cirugía estética, atención especial, dependencia, dietética y nutrición y transporte médico.",
+   "C": "El catálogo de prestaciones del Sistema Nacional de Salud no comprenderá la prestación farmacéutica.",
+   "D": "El catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención sanitaria primaria, pero no especializada."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 3 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, son profesionales del área sanitaria de formación profesional:",
+  "opciones": {
+   "A": "Quienes ostentan los títulos de formación profesional de la familia profesional sanidad, o los títulos o certificados equivalentes a los mismos.",
+   "B": "Quienes ostentan los títulos de formación profesional de la familia profesional sanidad, no sienvo válidos los títulos o certificados equivalentes a los mismos.",
+   "C": "Quienes ostentan cualquier título de formación profesional, o los títulos o certificados equivalentes a los mismos.",
+   "D": "Quienes ostentan cualquier título de formación profesional, no siendo válidos los títulos o certificados equivalentes a los mismos."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 8 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios revisarán que los profesionales sanitarios de su plantilla cumplen los requisitos necesarios para ejercer la profesión:",
+  "opciones": {
+   "A": "Cada cinco años como mínimo.",
+   "B": "Cada tres años como mínimo.",
+   "C": "Cada siete años como mínimo.",
+   "D": "Cada diez años como mínimo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 13 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, los usuarios y pacientes del Sistema Nacional de Salud:",
+  "opciones": {
+   "A": "Los usuarios y pacientes del Sistema Internacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente para elegir médico, e igualmente centro.",
+   "B": "Los usuarios y pacientes del Sistema Nacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente únicamente para elegir médico.",
+   "C": "Los usuarios y pacientes del Sistema Nacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente para elegir médico, e igualmente centro.",
+   "D": "Los usuarios y pacientes del Sistema Nacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente únicamente para elegir centro."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 11 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica:",
+  "opciones": {
+   "A": "Las instrucciones previas no podrán revocarse una vez transcurrido un año desde su formalización.",
+   "B": "Las instrucciones previas podrán revocarse libremente, sin necesidad de su constancia por escrito.",
+   "C": "Las instrucciones previas podrán revocarse libremente dejando constancia por escrito.",
+   "D": "Las instrucciones previas podrán revocarse, previa sentencia judicial."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 49 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria:",
+  "opciones": {
+   "A": "El ciudadano está obligado a firmar el documento pertinente en el caso de negarse a las actuaciones sanitarias propuestas.",
+   "B": "El ciudadano no está obligado a firmar el documento pertinente en el caso de negarse a las actuaciones sanitarias propuestas.",
+   "C": "El ciudadano está obligado a firmar el documento pertinente en el caso de aceptar las actuaciones sanitarias propuestas.",
+   "D": "Ninguna de las respuestas es correcta."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 8.4 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, la dirección, control, inspección y evaluación de las actividades, servicios y recursos del Sistema Sanitario Público de Cantabria, corresponden a:",
+  "opciones": {
+   "A": "La Direccion Gerencia del Servicio Cántabro de Salud.",
+   "B": "El Ministerio competente en materia sanidad.",
+   "C": "El Parlamento de Cantabria.",
+   "D": "La Consejería competente en materia de sanidad."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 9 de la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención santiaria especializada en el sistema sanitario público de Cantabria:",
+  "opciones": {
+   "A": "El certificado de garantía tendrá una vigencia de un año.",
+   "B": "El certificado de garantía será expedido por el Ministerio de Sanidad.",
+   "C": "El o la paciente podrá solicitar el reconocimiento del derecho a la garantía de atención sanitaria primaria previsto en la presente Ley.",
+   "D": "El o la paciente deberá solicitar el reconocimiento del derecho a la garantía de atención especializada previsto en la presente Ley."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta FALSA, de acuerdo con el artículo 4 de la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención sanitaria especializada en el sistema sanitario público de Cantabria, en consulta externa programada y no urgente:",
+  "opciones": {
+   "A": "Está garantizada la primera consulta en Alergología.",
+   "B": "Está garantizada la primera consulta en Otorrinolaringología.",
+   "C": "Está garantizada la primera consulta en Urología.",
+   "D": "Está garantizada la primera consulta en Cirugía cardio-vascular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 215/2019, de 14 de noviembre, de Estructura Básica del Servicio Cántabro de Salud, modificado por el Decreto 93/2022, de 29 de septiembre, es uno de los órganos periféricos del Servicio Cántabro de Salud:",
+  "opciones": {
+   "A": "Gerencia de Atención Especializada del Área I: Hospital Comarcal de Laredo.",
+   "B": "Gerencia de Atención Especializada de las Áreas IV y V: Hospital Comarcal Sierrallana.",
+   "C": "Gerencia de Atención Especializada de las Áreas II y III: Hospital Comarcal de Reinosa.",
+   "D": "Gerencia de Atención Primaria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 215/2019, de 14 de noviembre, de Estructura Básica del Servicio Cántabro de Salud, modificado por el Decreto 93/2022, de 29 de septiembre, es uno de los órganos centrales del Servicio Cántabro de Salud:",
+  "opciones": {
+   "A": "La Dirección de Asistencia Hospitalaria.",
+   "B": "La Subdirección de Recursos Humanos y Coordinación Administrativa.",
+   "C": "La Dirección Central.",
+   "D": "La Subdirección de Servicio de Personal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por que se establece el mapa sanitario autonómico de Cantabria, indique, de los relacionados a continuación, cuál es el Centro de Salud de la Zona de Salud Saja:",
+  "opciones": {
+   "A": "Cabezón de la Sal.",
+   "B": "Reocín.",
+   "C": "San Vicente de la Barquera.",
+   "D": "Polanco."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por que se establece el mapa sanitario autonómico de Cantabria, indique, de los relacionados a continuación, el Centro de Salud Sarón comprende, entre otros, los municipios de:",
+  "opciones": {
+   "A": "San Roque de Riomiera.",
+   "B": "Puente Viesgo.",
+   "C": "Castañeda.",
+   "D": "Selaya."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 61 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, en los puestos de trabajo que tengan reconocido complemento específico:",
+  "opciones": {
+   "A": "Existirán dos modalidades: Modalidad A: cuyo importe ascenderá al 100 % de la cantidad que venía percibiéndose en tal concepto y Modalidad B: cuyo importe ascenderá al 75 % de la cantidad que venía percibiéndose en tal concepto.",
+   "B": "Existirán dos modalidades: Modalidad A: complemento específico sin factor de incompatibilidad y Modalidad B: complemento específico con factor de incompatibilidad.",
+   "C": "Existirán dos modalidades: Modalidad A: complemento específico con factor de incompatibilidad y Modalidad B: complemento específico sin factor de incompatibilidad.",
+   "D": "Existirán dos modalidades: Modalidad A: cuyo importe ascenderá al 100 % de la cantidad que venía percibiéndose en tal concepto y Modalidad B: cuyo importe ascenderá al 50 % de la cantidad que venía percibiéndose en tal concepto."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 57 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, el período mínimo de servicios prestados en el Sistema Nacional de Salud exigido para el reconocimiento de un Grado III de carrera profesional es:",
+  "opciones": {
+   "A": "20 años.",
+   "B": "22 años.",
+   "C": "No existe periodo mínimo.",
+   "D": "15 años."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 4 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la igualdad de trato y de oportunidades entre mujeres y hombres es:",
+  "opciones": {
+   "A": "Un derecho fundamental recogido en el artículo 15 de la Constitución Española.",
+   "B": "Un principio rector de las políticas del Gobierno.",
+   "C": "Un principio informador del ordenamiento jurídico.",
+   "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 99 de la Ley de Cantabria 2/2019, de 7 de marzo, para la igualdad efectiva entre mujeres y hombres, las Administraciones públicas de Cantabria:",
+  "opciones": {
+   "A": "Garantizarán los derechos fundamentales, sólo de las niñas, por encima de cualquier condicionante cultural, religioso o social.",
+   "B": "Garantizarán los derechos fundamentales, sólo de las mujeres adultas, por encima de cualquier condicionante cultural, religioso o social.",
+   "C": "Garantizarán los derechos fundamentales de las mujeres adultas y niñas por encima de cualquier condicionante cultural, religioso o social.",
+   "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la causa más frecuente de muerte en las víctimas iniciales de desastres naturales?",
+  "opciones": {
+   "A": "Traumatismos.",
+   "B": "Ahogamiento.",
+   "C": "Hipotermia.",
+   "D": "Quemaduras."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "El área de clasificación de urgencias cumple las siguientes funciones en caso de catástrofe, EXCEPTO:",
+  "opciones": {
+   "A": "Valoración rápida de todos los pacientes.",
+   "B": "Registro e identificación de los pacientes.",
+   "C": "Asignación de prioridades de tratamiento.",
+   "D": "Descontaminación de pacientes."
+  },
+  "respuesta_correcta": "D"
+ }
+]

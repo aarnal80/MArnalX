@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Con respecto a la patología anorrectal urgente, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "Factores como el tabaquismo, el coito anal, el VIH y las verrugas genitales están asociados con el cáncer anorrectal.",
+   "B": "Las micosis son la causa más frecuente de prurito anal en los niños.",
+   "C": "Los objetos grandes en recto pueden crear un efecto parecido al vacío, lo que imposibilita la extracción por simple tracción. En estos casos, el vacío puede superarse pasando un catéter alrededor del cuerpo extraño e inyectando aire en la ampolla.",
+   "D": "En los adultos con prolapso rectal, la reducción puede ser más difícil si las paredes rectales se han vuelto edematosas. Cantidades generosas de azúcar granulada, aplicadas 15 minutos con una presión continua y directa antes de la reducción, pueden ayudar en el proceso."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 64, "tema": "Oclusión intestinal/apendicitis"},
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la B: en los niños, la causa más frecuente de prurito anal NO son las micosis sino los oxiuros (Enterobius vermicularis), parásito intestinal muy prevalente en edad pediátrica que produce prurito perianal intenso especialmente nocturno. Las infecciones fúngicas son más propias de adultos inmunocomprometidos. Esta distinción etiológica es clave para no errar en el tratamiento empírico pediátrico.",
+   "incorrectas": {
+    "A": "Verdadera: el tabaquismo, el coito anal receptivo, la infección por VIH y las verrugas genitales (VPH) son factores de riesgo bien establecidos para el carcinoma epidermoide del canal anal.",
+    "C": "Verdadera: los cuerpos extraños rectales voluminosos generan efecto de vacío que impide la extracción por tracción simple; la maniobra de introducir un catéter alrededor del cuerpo extraño e insuflar aire rompe ese vacío y facilita la extracción manual.",
+    "D": "Verdadera: el azúcar granulada actúa por efecto osmótico reduciendo el edema de la mucosa prolapsada, facilitando así la reducción manual del prolapso rectal edematoso antes de su resolución definitiva."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "De las siguientes afirmaciones con respecto a las técnicas diagnósticas en urgencias y emergencias, señale la verdadera:",
+  "opciones": {
+   "A": "En los niños menores de 6 años, el sitio de punción del acceso venoso intraóseo se localiza 2-3 cm por encima del maléolo tibial interno.",
+   "B": "En el acceso de la vena femoral, para su localización, debemos recordar que la distribución del paquete vasculonervioso femoral es de fuera a dentro, como sigue: vena, arteria y nervio femoral.",
+   "C": "En la desfibrilación es imprescindible pulsar el botón de sincronizado para que la descarga coincida con la onda R.",
+   "D": "La realización de la punción lumbar no debe nunca retrasar el tratamiento antibiótico en un paciente con sospecha de meningitis."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 104, "tema": "Técnicas diagnósticas"},
+  "explicacion": {
+   "correcta": "La afirmación D es verdadera y constituye un principio fundamental: ante sospecha de meningitis bacteriana, el inicio de antibióticos es prioritario y nunca debe demorarse por la realización de la punción lumbar. Si se precisa TC previo, o hay contraindicación temporal para la PL, el antibiótico debe administrarse de inmediato; el retraso en el tratamiento incrementa mortalidad y secuelas neurológicas de forma significativa.",
+   "incorrectas": {
+    "A": "Falsa: en niños menores de 6 años el sitio de punción intraósea tibial proximal es 1-3 cm por debajo de la tuberosidad tibial anterior (cara anteromedial). La localización por encima del maléolo tibial interno corresponde al acceso tibial distal, utilizado en adultos o como sitio alternativo, no en menores de 6 años.",
+    "B": "Falsa: la distribución del paquete vasculonervioso femoral de lateral a medial es nervio-arteria-vena (nemotecnia NAV). La vena femoral ocupa la posición más medial, no la más lateral como afirma esta opción incorrectamente.",
+    "C": "Falsa: el modo sincronizado se utiliza en la cardioversión eléctrica de taquiarritmias con pulso para que la descarga coincida con la onda R. La desfibrilación (en FV/TVSP) es siempre asincrónica; activar el sincronizador en FV podría impedir o retrasar la descarga al no detectar onda R organizada."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En el manejo de un paciente en shock séptico, ¿cuál de las siguientes medidas se debe emplear en las primeras tres horas?",
+  "opciones": {
+   "A": "Se recomienda extraer hemocultivos antes de administrar antibioterapia empírica, siempre que no se retrase el inicio de la administración de antibiótico.",
+   "B": "Se recomienda administrar 30 ml/kg de cristaloides si hipotensión o shock séptico.",
+   "C": "Medir el nivel de lactato.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "Las tres medidas (A, B y C) forman parte del bundle de resucitación de la campaña Surviving Sepsis: medir lactato, obtener hemocultivos antes del antibiótico sin demora, administrar 30 ml/kg de cristaloides si hipotensión o lactato ≥4 mmol/L, e iniciar antibióticos de amplio espectro de forma precoz. Todas son obligatorias en la ventana temporal inicial del shock séptico.",
+   "incorrectas": {
+    "A": "Es correcta en sí misma pero incompleta; elegirla sola excluiría las igualmente obligatorias medidas B y C.",
+    "B": "Es correcta individualmente pero incompleta; elegirla sola excluiría las igualmente necesarias medidas A y C.",
+    "C": "Es correcta individualmente pero incompleta; el lactato ≥2 mmol/L identifica hipoperfusión, pero elegirla sola omite las otras intervenciones obligatorias."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En el tratamiento de las hemorroides externas trombosadas, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opciones": {
+   "A": "Si la trombosis ha estado presente durante < 48 h y es en extremo dolorosa, se puede tratar al paciente con baños de asiento y laxantes formadores de masa.",
+   "B": "Si la trombosis ha persistido por > 48 h, se puede lograr alivio importante con la escisión del coágulo.",
+   "C": "No se debe llevar a cabo la escisión, en el servicio de urgencias, en pacientes inmunodeprimidos, niños, mujeres embarazadas, pacientes con hipertensión portal ni en los que reciben tratamiento anticoagulante o tienen una coagulopatía.",
+   "D": "Las respuestas A) y B) son correctas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 60, "tema": "Dolor abdominal agudo"},
+  "explicacion": {
+   "correcta": "La opción C es la verdadera: existen contraindicaciones bien establecidas para la escisión de hemorroides trombosadas en urgencias. En inmunodeprimidos hay alto riesgo de infección y mala cicatrización; en embarazadas hay riesgo hemorrágico y obstétrico; en pacientes con hipertensión portal las varices anorrectales pueden sangrar de forma incontrolable; y los anticoagulados o con coagulopatía tienen riesgo hemorrágico grave. Todos ellos deben derivarse para manejo programado.",
+   "incorrectas": {
+    "A": "Falsa: si la trombosis tiene menos de 48 horas y es muy dolorosa, el tratamiento de elección es la escisión del coágulo en urgencias, no el conservador. Los baños de asiento y laxantes se reservan para trombosis >48-72 horas de evolución cuando el dolor ya disminuye espontáneamente.",
+    "B": "Falsa: tras 48-72 horas el dolor decrece espontáneamente y el trombo comienza a reabsorberse, por lo que la escisión ya no aporta beneficio significativo y se prefiere el manejo conservador.",
+    "D": "Falsa porque tanto A como B son incorrectas individualmente, de modo que la combinación de ambas también lo es."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Un niño de seis años que camina por la calle es golpeado por el parachoques delantero de un vehículo que se desplaza a 40 kilómetros por hora. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opciones": {
+   "A": "Lo más probable es que el niño tenga una contusión miocárdica.",
+   "B": "Es posible que tenga una contusión pulmonar en ausencia de fracturas.",
+   "C": "La sección de la aorta torácica es más probable que en un paciente adulto.",
+   "D": "Las fracturas costales son comunes en los niños con este mecanismo de trauma."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 86, "tema": "TCE/trauma torácico"},
+  "explicacion": {
+   "correcta": "La afirmación B es verdadera: la pared torácica pediátrica es muy elástica por la mayor cartilaginosidad costal, lo que permite que la energía cinética se transmita al parénquima pulmonar sin que las costillas se fracturen. Así, la contusión pulmonar significativa puede existir en ausencia de fracturas costales visibles en la radiografía, concepto clave del trauma pediátrico que obliga a una vigilancia activa.",
+   "incorrectas": {
+    "A": "Falsa: la contusión miocárdica requiere un impacto directo esternal de alta energía y no es la lesión más probable en un atropello que afecta principalmente a extremidades inferiores y abdomen en un niño (triada de Waddell).",
+    "C": "Falsa: la rotura traumática de aorta torácica es una lesión de desaceleración brusca de alta velocidad, más frecuente en adultos. La mayor elasticidad vascular pediátrica la hace menos probable en niños, no más.",
+    "D": "Falsa: precisamente la gran elasticidad de la caja torácica pediátrica hace que las fracturas costales sean infrecuentes. Su presencia indica un traumatismo de altísima energía y obliga a buscar lesiones internas graves."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En el manejo del neumotórax abierto, el primer paso a realizar es:",
+  "opciones": {
+   "A": "Intubación orotraqueal.",
+   "B": "Colocar un tubo de drenaje pleural en el hemitórax afectado, a través de la herida.",
+   "C": "La herida abierta debe cubrirse con un parche de sellado de tórax con válvula unidireccional; si no se dispone de éste, se utiliza un vendaje vaselinado abierto por una de sus puntas.",
+   "D": "Realizar radiografía de tórax para confirmar la presencia de neumotórax a tensión."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 58, "tema": "Derrame pleural/neumotórax"},
+  "explicacion": {
+   "correcta": "El primer paso en el neumotórax abierto es sellar la herida torácica con un parche con válvula unidireccional (o apósito de tres puntos vaselinado), que permite la salida de aire en espiración pero impide su entrada en inspiración, restaurando la mecánica ventilatoria y previniendo el neumotórax a tensión. Solo después, en sitio separado de la herida, se coloca el tubo de drenaje pleural.",
+   "incorrectas": {
+    "A": "Incorrecta: la intubación puede ser necesaria posteriormente si persiste insuficiencia respiratoria grave, pero no es el primer paso; el sellado inmediato de la herida es la prioridad para restablecer la mecánica ventilatoria.",
+    "B": "Incorrecta: el tubo de drenaje nunca debe colocarse a través de la herida contaminada (riesgo de infección) ni es el primer paso. Se coloca tras el sellado y en el quinto espacio intercostal en línea axilar media.",
+    "D": "Incorrecta: el diagnóstico es clínico y el tratamiento inmediato no debe retrasarse para hacer radiografía. Además, si existiera neumotórax a tensión el tratamiento también sería clínico urgente sin esperar imagen."
+   }
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Dentro de las medidas de reanimación circulatoria en los pacientes con traumatismo grave, ¿cuál de las siguientes afirmaciones considera que NO es correcta?",
+  "opciones": {
+   "A": "En pacientes con TCE grave se deben emplear soluciones hipotónicas como Ringer- lactato, que ayudan a controlar el edema cerebral.",
+   "B": "Se debe restringir el uso de coloides debido a sus efectos adversos sobre la hemostasia.",
+   "C": "Se recomienda iniciar fluidoterapia con cristaloides isotónicos en el paciente hipotenso por sangrado postraumático.",
+   "D": "Se deben evitar las soluciones salinas isotónicas, como las disponibles de NaCl 0,9%, en cantidad superior a 1,5 litros."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 42, "tema": "SVA politrauma/shock hipovolémico"},
+  "explicacion": {
+   "correcta": "La afirmación A es INCORRECTA (la que se pide identificar): en el TCE grave se deben EVITAR las soluciones hipotónicas porque favorecen el paso de agua al espacio intersticial cerebral agravando el edema. Además, el Ringer-lactato no es hipotónico de forma clínicamente relevante. En el TCE grave con hipotensión se prefieren cristaloides isotónicos y en algunos casos suero salino hipertónico al 3%, nunca soluciones hipotónicas.",
+   "incorrectas": {
+    "B": "Es correcta (verdadera): los coloides, especialmente los almidones, se asocian a dilución de factores de coagulación y disfunción plaquetaria, por lo que su uso está restringido en el politraumatizado con hemorragia activa.",
+    "C": "Es correcta (verdadera): las guías de trauma recomiendan iniciar la resucitación con cristaloides isotónicos en el paciente hipotenso por sangrado, con reposición temprana de hemoderivados en hemorragia masiva.",
+    "D": "Es correcta (verdadera): el NaCl 0,9% en volúmenes superiores a 1,5 L induce acidosis metabólica hiperclorémica que agrava la coagulopatía del trauma; se recomienda limitar su uso y complementar con hemoderivados."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de los siguientes NO se encuentra entre los factores de riesgo para posible intubación difícil?",
+  "opciones": {
+   "A": "Test de Mallampati 2.",
+   "B": "Apertura bucal menor de 3 cm.",
+   "C": "Obesidad > 20% del peso ideal.",
+   "D": "Distancia tiromentoniana menor de 3 traveses de dedo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 43, "tema": "Intubación/sedoanalgesia/vía aérea difícil"},
+  "explicacion": {
+   "correcta": "El test de Mallampati clasifica en cuatro grados la visibilidad de las estructuras faríngeas. Solo los grados 3 (paladar blando visible sin úvula) y 4 (solo paladar duro visible) se asocian a dificultad de intubación. El grado 2 (visible úvula, pilares y paladar blando) no es un predictor de dificultad y NO se incluye entre los factores de riesgo de vía aérea difícil.",
+   "incorrectas": {
+    "B": "Sí es factor de riesgo: apertura bucal <3 cm (trismus parcial) limita la inserción del laringoscopio y la visualización glótica, siendo un predictor reconocido de intubación difícil.",
+    "C": "Sí es factor de riesgo: la obesidad significativa se asocia a vía aérea difícil por tejidos blandos cervicales abundantes, posicionamiento complicado y caída rápida de la saturación durante la apnea.",
+    "D": "Sí es factor de riesgo: distancia tiromentoniana <6 cm (menos de 3 traveses de dedo) indica espacio submandibular reducido que dificulta la laringoscopia directa al limitar el desplazamiento lingual."
+   }
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Con respecto a los criterios transfusionales en pacientes con evidencia de hemorragia aguda gastrointestinal alta no varicosa, ¿cuál de las siguientes afirmaciones es la verdadera?",
+  "opciones": {
+   "A": "En pacientes jóvenes, sin patología de base, hemodinámicamente estables y sin evidencia de sangrado activo, se puede mantener conducta expectante con cifras de hemoglobina inferiores a 7 g/dl, si la anemia se tolera bien.",
+   "B": "En pacientes con patología cardiovascular y/o hemorragia activa no se recomienda transfusión si la Hb está por debajo de 8 g/dl.",
+   "C": "En pacientes estables sin patología cardiovascular ni hemorragia activa, con hemoglobina ≥ 10 g/dl se recomienda transfusión para mantener la hemoglobina superior a 12 g/dl.",
+   "D": "En pacientes con evidencia de hemorragia grave y shock, el hematocrito es el indicador principal del grado de pérdida hemática."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 61, "tema": "Hemorragia digestiva"},
+  "explicacion": {
+   "correcta": "La estrategia transfusional restrictiva (umbral de Hb 7 g/dL) está avalada por evidencia de nivel 1 en hemorragia digestiva alta no varicosa (ensayo de Villanueva et al.). En pacientes jóvenes sin comorbilidad, estables hemodinámicamente y sin sangrado activo, mantener una conducta expectante con Hb <7 g/dL bien tolerada reduce el número de transfusiones, las complicaciones y mejora el pronóstico respecto a la estrategia liberal.",
+   "incorrectas": {
+    "B": "Falsa: en pacientes con cardiopatía isquémica y/o hemorragia activa el umbral transfusional es más liberal (Hb <8-9 g/dL); en estos casos SÍ se debe transfundir con Hb por debajo de 8 g/dL para garantizar un aporte adecuado de oxígeno miocárdico.",
+    "C": "Falsa: en pacientes estables sin cardiopatía ni sangrado activo con Hb ≥10 g/dL no hay indicación transfusional. Mantener Hb >12 g/dL de forma activa no tiene evidencia y aumenta el riesgo de complicaciones transfusionales.",
+    "D": "Falsa: en la hemorragia aguda el hematocrito puede ser normal en las primeras horas porque la hemodilución es progresiva; la estimación de la pérdida hemática basada solo en el hematocrito inicial puede infraestimar gravemente la hemorragia."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En relación con el manejo inicial de la pancreatitis aguda, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "La reanimación con líquidos se asocia a una reducción de mortalidad y a una menor incidencia de complicaciones.",
+   "B": "El valor de las enzimas pancreáticas es un parámetro útil para predecir severidad, definir pronóstico y establecer el momento adecuado para reiniciar la alimentación.",
+   "C": "La TAC abdominal es una técnica de mayor sensibilidad y especificidad que la ecografía; no obstante, es más útil en las primeras 48-72 horas de evolución que al ingreso.",
+   "D": "No se recomienda el uso de profilaxis antibiótica en la pancreatitis aguda, ni siquiera en la pancreatitis aguda necrosante."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 63, "tema": "Pancreatitis aguda"},
+  "explicacion": {
+   "correcta": "La afirmación B es FALSA: los niveles de amilasa y lipasa NO son útiles para predecir la severidad ni el pronóstico de la pancreatitis aguda, y tampoco para decidir cuándo reiniciar la alimentación oral. Una vez establecido el diagnóstico, los valores enzimáticos no se correlacionan con la gravedad ni con la evolución. La severidad se evalúa con escalas clínicas (Ranson, APACHE II, BISAP) y con la TAC abdominal (índice de Balthazar). El reinicio de alimentación enteral precoz se recomienda cuando el paciente tolera, no al normalizar enzimas.",
+   "incorrectas": {
+    "A": "Verdadera: la fluidoterapia agresiva y precoz con cristaloides (Ringer-lactato preferentemente) en las primeras 24-48 horas reduce la mortalidad, la necrosis pancreática y el síndrome de respuesta inflamatoria sistémica.",
+    "C": "Verdadera: la TAC con contraste tiene mayor sensibilidad y especificidad que la ecografía para valorar la necrosis pancreática, pero es más informativa tras 48-72 horas del inicio, cuando la necrosis ya está establecida y delimitada.",
+    "D": "Verdadera: las guías actuales no recomiendan profilaxis antibiótica en la pancreatitis aguda, incluida la necrosante estéril, ya que no ha demostrado reducir la tasa de infección de la necrosis ni la mortalidad."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En las infecciones intraabdominales, señale la FALSA:",
+  "opciones": {
+   "A": "En cirróticos, la mayor parte de las PBE (peritonitis bacteriana espontánea) se deben a anaerobios.",
+   "B": "Los patógenos clave son las enterobacterias.",
+   "C": "La neutropenia y el tratamiento antibiótico previo son factores de riesgo para infección por Pseudomona.",
+   "D": "Una infección intraabdominal leve-moderada sin factores de riesgo de mala evolución podría tratarse con cefalosporinas de 3ª generación + Metronidazol."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 62, "tema": "Ictericia/colecistitis/encefalopatía hepática/ascitis"},
+  "explicacion": {
+   "correcta": "La afirmación A es FALSA: la peritonitis bacteriana espontánea (PBE) en cirróticos se debe predominantemente a bacterias aerobias gramnegativas (E. coli ~50%, Klebsiella ~15%) y cocos grampositivos. Los anaerobios son responsables de menos del 1% de los casos, porque las características del líquido ascítico (tensión de O2 relativa, bajo pH) inhiben su crecimiento. La presencia de anaerobios obliga a descartar peritonitis bacteriana secundaria por perforación visceral.",
+   "incorrectas": {
+    "B": "Verdadera: las enterobacterias son los patógenos predominantes en las infecciones intraabdominales, incluyendo la PBE, la peritonitis secundaria, las colangitis y los abscesos hepáticos.",
+    "C": "Verdadera: la neutropenia y el tratamiento antibiótico previo de amplio espectro son factores selectivos que predisponen a infección por Pseudomonas aeruginosa y otros microorganismos resistentes, obligando a ampliar la cobertura empírica.",
+    "D": "Verdadera: en infecciones intraabdominales leve-moderadas adquiridas en la comunidad sin factores de riesgo, la pauta de cefalosporina de 3.ª generación más metronidazol ofrece cobertura adecuada frente a aerobios gramnegativos y anaerobios."
+   }
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En las infecciones del tracto urinario, es cierto que:",
+  "opciones": {
+   "A": "Trataremos empíricamente con Ciprofloxacino si no hay datos de gravedad.",
+   "B": "En la prostatitis aguda, si sospechamos microorganismo BLEE, podremos usar de forma empírica Ertapenem 1 gramo cada 24 horas por vía intravenosa.",
+   "C": "En cistitis aguda complicada, el tratamiento de primera elección es Fosfomicina- trometamol 3 g en dosis única.",
+   "D": "Sólo es preciso toma de urocultivo en caso de ingreso."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 77, "tema": "ITU"},
+  "explicacion": {
+   "correcta": "En la prostatitis bacteriana aguda con sospecha de microorganismo productor de BLEE, el ertapenem 1 g/24h IV es la opción empírica recomendada en las guías clínicas actuales. Los carbapenems mantienen actividad frente a BLEE, alcanzan concentraciones adecuadas en tejido prostático y su posología en dosis única diaria facilita el tratamiento ambulatorio u hospitalario.",
+   "incorrectas": {
+    "A": "Falsa: el ciprofloxacino no es adecuado como tratamiento empírico de primera línea en ITU por las elevadas tasas de resistencia de E. coli en España (>20-30%), que superan el umbral de eficacia para uso empírico. Se reserva cuando el antibiograma confirma sensibilidad.",
+    "C": "Falsa: la fosfomicina-trometamol 3 g en dosis única es el tratamiento estándar de la cistitis aguda NO complicada. En la cistitis complicada se requieren pautas más prolongadas (7-14 días) con el antibiótico apropiado según antibiograma y factores del paciente.",
+    "D": "Falsa: el urocultivo está indicado en toda ITU complicada (incluida la ITU en varón, embarazada, inmunodeprimida, pielonefritis, prostatitis, sospecha de resistencia o fracaso terapéutico), independientemente de si el paciente ingresa o se trata ambulatoriamente."
+   }
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Respecto a la infección, tratamiento y profilaxis de la infección por SARS-CoV-2, es correcta:",
+  "opciones": {
+   "A": "La posología habitual de Dexametasona oral en neumonía por COVID-19 es de 6 mg cada 24 horas durante 10 días.",
+   "B": "A un paciente con infección por COVID-19 confirmada, tos y saturación del 96% (sin O2 suplementario) se le debe realizar gasometría arterial.",
+   "C": "A los pacientes con infección COVID-19 que tengan antecedentes de hipercoagulabilidad o Dímero D elevado en el momento de la evaluación, se les indicará anticoagulantes de acción directa.",
+   "D": "Un TAC craneal sin hallazgos patológicos descarta trombosis de senos venosos como complicación de la vacunación COVID-19."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 59, "tema": "Neumonía"},
+  "explicacion": {
+   "correcta": "La afirmación A es correcta: la dexametasona 6 mg/día (oral o IV) durante 10 días es la pauta validada por el ensayo RECOVERY para pacientes con COVID-19 que requieren oxígeno suplementario o ventilación mecánica. Es la dosis exacta establecida en las guías de tratamiento de la neumonía por SARS-CoV-2 y ha demostrado reducir la mortalidad en este subgrupo de pacientes.",
+   "incorrectas": {
+    "B": "Falsa: una saturación del 96% sin oxígeno suplementario está dentro de los límites normales y no justifica una gasometría arterial de rutina. Esta exploración se reserva para saturaciones <92-94%, disnea significativa o sospecha de insuficiencia respiratoria.",
+    "C": "Falsa: no existe indicación de iniciar ACODs de forma sistemática en COVID-19 ambulatorio por Dímero D elevado o antecedente de hipercoagulabilidad sin trombosis confirmada. La anticoagulación terapéutica se reserva para TVP/TEP diagnosticados; se valora profilaxis con HBPM en pacientes hospitalizados seleccionados.",
+    "D": "Falsa: la trombosis de senos venosos cerebrales (TSVC) como complicación del síndrome VITT post-vacunación COVID-19 NO puede descartarse con un TAC craneal simple, que puede ser normal incluso con TSVC establecida. El diagnóstico requiere venografía por RM o angioTC venoso con contraste."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Uno de los siguientes fármacos NO está indicado en el tratamiento de pacientes con infección por SARS-CoV-2:",
+  "opciones": {
+   "A": "Dexametasona.",
+   "B": "Hidroxicloroquina.",
+   "C": "Sotrovimab.",
+   "D": "Tocilizumab."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 59, "tema": "Neumonía"},
+  "explicacion": {
+   "correcta": "La hidroxicloroquina fue propuesta inicialmente como antiviral frente al SARS-CoV-2, pero múltiples ensayos clínicos de alta calidad (RECOVERY, SOLIDARITY, entre otros) demostraron de forma concluyente que no ofrece beneficio clínico en ninguna fase de la infección por COVID-19 y se asocia a riesgo de arritmias por prolongación del QT. Fue retirada de todos los protocolos terapéuticos y sus autorizaciones de uso de emergencia fueron revocadas por la FDA y la EMA.",
+   "incorrectas": {
+    "A": "Sí está indicada: dexametasona 6 mg/día durante 10 días en pacientes con COVID-19 que requieren oxígeno suplementario o ventilación mecánica (evidencia del ensayo RECOVERY, nivel 1).",
+    "C": "Sí estuvo indicado: el sotrovimab es un anticuerpo monoclonal neutralizante con indicación en COVID-19 leve-moderado en pacientes de alto riesgo de progresión a formas graves, siempre que sea activo frente a la variante circulante.",
+    "D": "Sí está indicado: el tocilizumab (anti-receptor de IL-6) reduce la mortalidad en pacientes hospitalizados con COVID-19 grave, hipoxemia y elevación de marcadores inflamatorios (estudios RECOVERY y REMAP-CAP, nivel 1)."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En la malaria, ¿cuál de los siguientes enunciados es FALSO?",
+  "opciones": {
+   "A": "Se debe sospechar paludismo en pacientes con cualquier enfermedad febril si han estado expuestos a una región donde el paludismo es endémico.",
+   "B": "No presenta manifestaciones en Sistema Nervioso Central.",
+   "C": "La esplenomegalia es un hallazgo frecuente en la exploración.",
+   "D": "La evaluación de laboratorio puede demostrar parasitemia, anemia, trombocitopenia, transaminasas elevadas, coagulopatía leve y nitrógeno ureico en sangre (BUN) y creatinina elevados."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La afirmación B es FALSA: la malaria cerebral por Plasmodium falciparum ES una de las complicaciones más graves e include manifestaciones neurológicas prominentes (alteración del nivel de conciencia, convulsiones, coma, fiebre alta, rigidez de nuca), con elevada mortalidad. El secuestro de eritrocitos parasitados en la microvasculatura cerebral es el mecanismo patogénico. La malaria cerebral es una emergencia médica con alta mortalidad sin tratamiento.",
+   "incorrectas": {
+    "A": "Verdadera: cualquier síndrome febril en un viajero o residente en zona endémica debe llevar a descartar malaria, dado que el tiempo de incubación varía y P. vivax/ovale pueden recidivar meses o años después del viaje.",
+    "C": "Verdadera: la esplenomegalia es un hallazgo exploratorio frecuente en la malaria, resultado de la hiperplasia del sistema reticuloendotelial por el secuestro y destrucción masiva de eritrocitos parasitados.",
+    "D": "Verdadera: el laboratorio puede mostrar parasitemia en frotis/gota gruesa, anemia hemolítica, trombocitopenia (hallazgo muy característico y frecuente), elevación de transaminasas y bilirrubina, coagulopatía leve y deterioro renal en casos graves."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En un síndrome febril sin foco, en paciente no inmunocomprometido, es FALSO:",
+  "opciones": {
+   "A": "Consideraremos la fiebre de larga evolución si es superior a los 21 días.",
+   "B": "La acidosis metabólica es un criterio de gravedad.",
+   "C": "Realizaremos en Urgencias toma de muestra de hemocultivo solo si el paciente presenta fiebre.",
+   "D": "Planteamos la endocarditis como sospecha diagnóstica ante fiebre sin foco y un soplo de nueva aparición."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 81, "tema": "Síndrome febril adulto/resistencia antibiótica"},
+  "explicacion": {
+   "correcta": "La afirmación C es FALSA: los hemocultivos NO deben condicionarse exclusivamente a la presencia de fiebre en el momento de la extracción. Pueden obtenerse durante el escalofrío (momento óptimo), con fiebre, y también en pacientes afébriles con sospecha clínica de bacteriemia (ancianos, inmunodeprimidos, uso previo de antitérmicos, fases de hipotermia séptica). Condicionar el hemocultivo a la fiebre activa en urgencias haría perder diagnósticos importantes.",
+   "incorrectas": {
+    "A": "Verdadera: la fiebre de origen desconocido (FOD) se define clásicamente como fiebre >38,3°C en tres o más ocasiones durante más de 3 semanas (21 días) sin diagnóstico tras evaluación inicial.",
+    "B": "Verdadera: la acidosis metabólica con lactato elevado es marcador de hipoperfusión tisular y criterio de gravedad en el síndrome febril, orientando hacia sepsis grave o shock séptico con indicación de activar código sepsis.",
+    "D": "Verdadera: la aparición de un soplo cardíaco de nueva aparición en un paciente con fiebre sin foco cumple criterio mayor de Duke para endocarditis infecciosa y obliga a hemocultivos seriados y ecocardiograma urgente."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En la elección del tratamiento antibiótico empírico, debemos considerar todas las siguientes circunstancias, EXCEPTO:",
+  "opciones": {
+   "A": "La relación del paciente con el medio sanitario.",
+   "B": "Las tasas locales de enterobacterias productoras de β-lactamasas de espectro extendido (BLEE).",
+   "C": "Cronas al centro útil, por si la evolución no fuera adecuada y se precisara activar código sepsis.",
+   "D": "Los resultados microbiológicos previos recientes."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "Las 'cronas al centro útil' (distancia/tiempo de traslado al hospital de referencia) es un parámetro logístico-organizativo de coordinación de emergencias y activación de códigos tiempo-dependientes, pero NO es un factor que deba influir en la selección del antibiótico empírico. La elección del antibiótico se basa en criterios farmacológicos, microbiológicos, clínicos y epidemiológicos del paciente, no en consideraciones geográficas de acceso.",
+   "incorrectas": {
+    "A": "Sí debe considerarse: la relación con el medio sanitario (hospitalización reciente, institucionalización, procedimientos invasivos) determina el riesgo de infección por microorganismos multirresistentes y condiciona la amplitud de la cobertura empírica.",
+    "B": "Sí debe considerarse: las tasas locales de BLEE son determinantes para decidir si la cobertura empírica estándar (cefalosporinas, piperacilina-tazobactam) es insuficiente y se deben usar carbapenems de entrada.",
+    "D": "Sí debe considerarse: los cultivos previos con sus antibiogramas reflejan la flora colonizadora del paciente y sus resistencias conocidas, siendo la mejor predicción disponible del microorganismo causante y su perfil de sensibilidad."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "NO se considera en Urgencias una condición indicadora de infección por VIH:",
+  "opciones": {
+   "A": "Neumonía Adquirida en la Comunidad en pacientes entre 18 y 65 años.",
+   "B": "Síndrome mononocleósico.",
+   "C": "Trombocitopenia idiopática de 2 semanas de evolución.",
+   "D": "Infección por herpes zóster."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 84, "tema": "VIH/SIDA"},
+  "explicacion": {
+   "correcta": "La trombocitopenia idiopática de solo 2 semanas de evolución no está incluida en el listado de condiciones indicadoras de prueba de VIH en urgencias según los documentos de consenso de GESIDA. Aunque la trombocitopenia puede asociarse al VIH, para considerarse condición indicadora debe ser persistente e inexplicada; con solo 2 semanas de evolución tiene múltiples causas más frecuentes (PTI aguda, infecciones víricas, fármacos) que no implican infección por VIH.",
+   "incorrectas": {
+    "A": "Sí es condición indicadora: la NAC en adultos de 18-65 años sin inmunosupresión conocida es condición indicadora de oferta de prueba de VIH, ya que la inmunodepresión por VIH predispone a infecciones bacterianas invasivas.",
+    "B": "Sí es condición indicadora: el síndrome mononucleósico puede ser la presentación clínica de la primoinfección por VIH (síndrome retroviral agudo), clínicamente indistinguible de la mononucleosis por VEB, por lo que siempre debe incluirse la serología VIH.",
+    "D": "Sí es condición indicadora: el herpes zóster en menores de 50 años o con presentación multimetamérica/diseminada refleja inmunodepresión celular y es una condición indicadora establecida de infección por VIH."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Respecto a la fiebre en las infecciones importadas y enfermedades infecciosas emergentes, indique qué respuesta es FALSA:",
+  "opciones": {
+   "A": "La malaria suele presentar fiebre \"en agujas\", aunque en el momento del diagnóstico puede no tener fiebre.",
+   "B": "La fiebre \"en joroba\" o bifásica suele orientar a Dengue y otras virasis hemorrágicas.",
+   "C": "En la fase virémica (primera semana) del Chikungunya, la fiebre suele ser baja (o ausente).",
+   "D": "En la viruela del mono (Monkeypox), las manifestaciones cutáneas suelen aparecer típicamente de 1 a 5 días después de la fiebre."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La afirmación C es FALSA: la infección por chikungunya cursa en la fase virémica (primera semana) con fiebre ALTA de inicio brusco (típicamente >39°C), artralgia/artritis invalidante bilateral, cefalea y exantema maculopapuloso. La fiebre NO es baja ni ausente en esta fase; es precisamente uno de los síntomas más llamativos que motiva la consulta urgente y que distingue el cuadro.",
+   "incorrectas": {
+    "A": "Verdadera: la malaria por P. vivax/ovale produce fiebre periódica con picos cada 48 horas ('en agujas'); en P. falciparum el patrón puede ser irregular. El paciente puede estar afebril en urgencias si el pico ha cedido, lo que no excluye el diagnóstico.",
+    "B": "Verdadera: el patrón bifásico o 'en silla de montar' (primer pico febril, mejoría transitoria, segundo pico) es característico del dengue y orienta también a otras arbovirosis hemorrágicas.",
+    "D": "Verdadera: en el Monkeypox el período prodrómico con fiebre, cefalea, mialgias y linfadenopatías precede a la erupción cutánea característica en 1-5 días, diferenciándolo de otras enfermedades exantemáticas donde la fiebre y el exantema son simultáneos."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de los siguientes parámetros puntúa en la escala SOFA?",
+  "opciones": {
+   "A": "INR (Tiempo de Protrombina Normalizado).",
+   "B": "Frecuencia respiratoria.",
+   "C": "Recuento de plaquetas.",
+   "D": "TTPA (Tiempo de Tromboplastina Parcial Activado)."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "El recuento de plaquetas es el único parámetro de coagulación incluido en la escala SOFA, dentro del componente de coagulación: >150.000=0 pts, 100-150.000=1 pt, 50-100.000=2 pts, 20-50.000=3 pts, <20.000=4 pts. La escala SOFA evalúa en total 6 sistemas: respiratorio (PaO2/FiO2), coagulación (plaquetas), hepático (bilirrubina), cardiovascular (PAM/vasopresores), neurológico (GCS) y renal (creatinina/diuresis).",
+   "incorrectas": {
+    "A": "Falso: el INR no es parámetro del SOFA. El componente de coagulación del SOFA se valora exclusivamente con el recuento de plaquetas. El INR puntúa en otras escalas como Child-Pugh o MELD.",
+    "B": "Falso: la frecuencia respiratoria no forma parte del SOFA; el componente respiratorio se valora mediante el índice PaO2/FiO2. La frecuencia respiratoria sí integra el qSOFA (quick SOFA), herramienta de cribado rápido diferente.",
+    "D": "Falso: el TTPA tampoco puntúa en el SOFA. Ningún parámetro de la coagulación basado en tiempos de coagulación (TP, TTPA, INR) integra la escala SOFA; solo el recuento plaquetario."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Respecto a la viruela del mono (Monkeypox), diga cuál es la respuesta FALSA:",
+  "opciones": {
+   "A": "Las personas que han recibido la vacuna contra la viruela, incluso 25 años atrás, tienen menor riesgo que los no vacunados de sufrir la viruela del mono.",
+   "B": "La mortalidad deriva fundamentalmente de la meningoencefalitis y de la sobreinfección bacteriana.",
+   "C": "Las lesiones dérmicas respetan palmas de las manos y plantas de los pies.",
+   "D": "Además de las lesiones cutáneas, el paciente puede referirnos cefalea, mialgias, fiebre y odinofagia."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La afirmación C es FALSA: las lesiones cutáneas del Monkeypox NO respetan las palmas de las manos ni las plantas de los pies; al contrario, la AFECTACIÓN palmoplantar es una característica DIAGNÓSTICA del Monkeypox que lo distingue de la varicela (cuyas lesiones sírespetan palmas y plantas). Las lesiones aparecen en cara, tronco, extremidades, genitales y de forma característica en palmas y plantas.",
+   "incorrectas": {
+    "A": "Verdadera: la vacuna antivariólica (vaccinia) confiere inmunidad cruzada frente al Monkeypox con eficacia protectora estimada en ~85%, que persiste durante décadas. Los estudios epidemiológicos confirman menor incidencia y menor gravedad en personas vacunadas.",
+    "B": "Verdadera: las principales causas de muerte en el Monkeypox son la meningoencefalitis y las sobreinfecciones bacterianas graves de las lesiones cutáneas. El riesgo es mayor en niños y personas inmunocomprometidas.",
+    "D": "Verdadera: el síndrome prodrómico del Monkeypox incluye fiebre, cefalea, mialgias, astenia, linfadenopatías prominentes y odinofagia, precediendo a la erupción cutánea en 1-5 días. La odinofagia es frecuente, especialmente en brotes con transmisión orofaríngea."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En cuanto al tratamiento de la infección por SARS-CoV-2, ¿cuál es la respuesta FALSA?",
+  "opciones": {
+   "A": "El Nimatrelvir-Ritonavir (Paxlovid®) está indicado en pacientes con enfermedad leve o moderada (generalmente ambulatorios) y alto riesgo de progresión a formas graves.",
+   "B": "La dosis de Dexametasona en neumonías por SARS-CoV-2 es de 0,5 a 1 mg/kg/24 horas.",
+   "C": "En pacientes ingresados con datos de sobreinfección bacteriana por Psuedomona, podemos usar Cefepime o Piperazilina-Tazobactam.",
+   "D": "La fluidoterapia, en ausencia de shock, debe utilizarse de forma restrictiva adecuándola al estado de hidratación y comorbilidad del paciente."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 59, "tema": "Neumonía"},
+  "explicacion": {
+   "correcta": "La afirmación B es FALSA: la dosis de dexametasona para COVID-19 validada por el ensayo RECOVERY es de 6 mg/día FIJOS (no en mg/kg) durante 10 días, tanto por vía oral como IV. Las dosis de 0,5-1 mg/kg/24h corresponden a otras indicaciones (edema cerebral, broncospasmo grave, anafilaxia), pero no son la pauta estándar para la neumonía por SARS-CoV-2; además, en un adulto de 70 kg supondrían 35-70 mg/día, muy por encima de la dosis eficaz.",
+   "incorrectas": {
+    "A": "Verdadera: el nirmatrelvir/ritonavir (Paxlovid) está indicado en COVID-19 leve-moderado en pacientes ambulatorios con factores de riesgo de progresión a enfermedad grave (inmunosupresión, edad >60 años, obesidad, diabetes, cardiopatía), administrado en los primeros 5 días de síntomas.",
+    "C": "Verdadera: ante sospecha de sobreinfección bacteriana por Pseudomonas aeruginosa en paciente con COVID-19 hospitalizado, el cefepime y la piperacilina-tazobactam son antibióticos de primera línea con cobertura antipseudomónica adecuada.",
+    "D": "Verdadera: en la neumonía por COVID-19 sin shock, la fluidoterapia debe ser restrictiva para evitar el edema pulmonar inflamatorio; el balance hídrico neutro o levemente negativo se asocia a mejor función respiratoria y reducción de la necesidad de ventilación mecánica."
+   }
+  }
+ }
+]

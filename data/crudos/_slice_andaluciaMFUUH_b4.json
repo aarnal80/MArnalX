@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿En cual de las siguientes situaciones aparece pérdida de visión brusca monocular y transitoria?",
+  "opciones": {
+   "A": "Amaurosis fugaz",
+   "B": "Migraña clásica con aura visual",
+   "C": "Insuficiencia de la arteria vertebrobasilar",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿En cuál de los siguientes tipos de sincope es necesario completar el estudio hasta descubrir la causa?",
+  "opciones": {
+   "A": "Sincope durante el esfuerzo.",
+   "B": "Sincope tras la micción.",
+   "C": "Sincope vasovagal.",
+   "D": "Sincope ortostático."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la falsa en el manejo del TCE en urgencias:",
+  "opciones": {
+   "A": "Se debe realizar una Rx de cráneo en la valoración de todo TCE en urgencias.",
+   "B": "En pacientes anticoagulados se debe realizar tiempos de coagulación",
+   "C": "Si el TCE viene precedido de una pérdida de conciencia habrá que estudiar las causas de sincope",
+   "D": "Ante un TCE se debe evaluar el nivel de conciencia recogiendo Escala de Glasgow y realizar una exploración neurológica completa."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta correcta respecto a la dosis de r-tpa en el ictus:",
+  "opciones": {
+   "A": "0,8 mg/Kg, máximo de 80mg: 10% de la dosis total en bolo en 10 minutos y el resto a la hora.",
+   "B": "1mg/Kg, máximo de 100mg: 10% de la dosis total en bolo en 5 minutos y el resto en infusión continua en una hora.",
+   "C": "0,9mg/Kg, máximo de 100 mg: 10% de la dosis total en 5 minutos y el resto en infusión continua en una hora.",
+   "D": "0,9mg/Kg, máximo de 90 mg: 10% de la dosis total en bolo en 1 minuto y el resto en infusión continua en una hora."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Ante una insuficiencia respiratoria aguda, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Hay que administrar O2 alto flujo y baja FIO2 para SaO2 de 87-92% en pacientes crónicos.",
+   "B": "Hay que administrar O2 alto flujo y FIO2 necesaria para aliviar la disnea y SaO2 > 95% en pacientes no crónicos.",
+   "C": "Búsqueda y tratamiento de la causa.",
+   "D": "Utilizar gafas nasales si sospecha retención de carbónico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Ante un politraumatizado con sospecha de traumatismo abdominal cerrado, ¿cuál es el método diagnostico aconsejado para una valoración inicial en urgencias?",
+  "opciones": {
+   "A": "RX simple de abdomen",
+   "B": "TAC abdomen",
+   "C": "Lavado peritoneal diagnóstico",
+   "D": "Ecografía-FAST"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Respecto al neumotórax espontáneo señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Se divide en primario, secundario y catamenial.",
+   "B": "El primario se relaciona con el consumo de tabaco y morfología leptosómica.",
+   "C": "Es clínicamente estable cuando FR <24rpm, FC entre 60 y 120 lpm, TA en el intervalo de la normalidad, SO2 basal > 90% y el paciente es capaz de decir frases cortas entre respiraciones.",
+   "D": "El TAC torácico no es de utilidad en neumotórax espontáneo secundario recurrente o para descartar enfermedad bullosa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Entre las medidas iniciales a realizar en la reagudización de asma están todas las siguientes, excepto:",
+  "opciones": {
+   "A": "Realización de gasometría arterial.",
+   "B": "Medición de la obstrucción al flujo aéreo (FEV1).",
+   "C": "Pulsioximetría.",
+   "D": "Identificar signos y síntomas de compromiso vital."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Ante un lactante con llanto, ¿cuál de los siguientes objetivos se deben plantear?",
+  "opciones": {
+   "A": "Descartar enfermedad aguda tratable",
+   "B": "Ayudar a los padres a entender la naturaleza del llanto de sus hijos",
+   "C": "Valorar posible cólico del lactante en aparición de llanto paroxístico más de 3 horas al día y más de 3 días a la semana, irritabilidad, flexión de rodillas sobre abdomen y predominio vespertino",
+   "D": "Todos los anteriores"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Respecto de la antigenuria en el diagnóstico etiológico de la neumonía, es falso que:",
+  "opciones": {
+   "A": "La antigenuria a neumococo se debe solicitar en neumonía con criterio de ingreso.",
+   "B": "La antigenuria a neumococo posee una sensibilidad de 80 % y especificidad >95%.",
+   "C": "La antigenuria a legionella se debe solicitar cuando sospecha clínica (Rx, hiponatremia, diarrea, etc.) fallo terapéutico con betalactámicos, neumonía grave o brote epidemiológico.",
+   "D": "La antigenuria a legionella posee una sensibilidad y especificidad cercana a 80%."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta correcta respecto a los traumatismos de extremidades en un politraumatizado:",
+  "opciones": {
+   "A": "Su valoración siempre es prioritaria durante la evaluación primaria.",
+   "B": "La valoración neurovascular se debe realizar antes y después de la reducción e inmovilización.",
+   "C": "La rabdomiolisis traumática se define sólo por la afectación de la masa muscular.",
+   "D": "El síndrome de embolia grasa presenta triada clásica de Charcot."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta incorrecta respecto a los signos que pueden orientar hacia la presencia de lesión medular cervical en pacientes inconscientes:",
+  "opciones": {
+   "A": "Hipotensión y bradicardia.",
+   "B": "Mueca al dolor al estimular por debajo de la clavícula.",
+   "C": "Priapismo.",
+   "D": "Arreflexia flácida."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Indique la respuesta correcta respecto a la Triada de Cushing:",
+  "opciones": {
+   "A": "Bajo nivel de conciencia, HTA y bradicardia.",
+   "B": "Anisocoria, bradicardia y bajo nivel de conciencia.",
+   "C": "Cefalea, anisocoria y bradicardia.",
+   "D": "HTA, bradicardia y respiración irregular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿En qué situación se puede encontrar un descenso de la glucosa en liquido pleural?",
+  "opciones": {
+   "A": "Artritis reumatoide.",
+   "B": "Origen tuberculoso.",
+   "C": "Neoplásico",
+   "D": "Todos los anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿En el diagnóstico de un derrame pleural, cuál de las siguientes asociaciones es falsa?",
+  "opciones": {
+   "A": "Derrame pseudoquiloso --- TBC.",
+   "B": "Derrame quiloso --- Artritis reumatoide.",
+   "C": "Trasudado --- Insuficiencia cardiaca.",
+   "D": "Empiema --- Paraneumónico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta correcta respecto al vértigo de origen central:",
+  "opciones": {
+   "A": "Inicio progresivo.",
+   "B": "Carácter rotatorio.",
+   "C": "Presenta hipoacusia habitual.",
+   "D": "Siempre se acompaña de síntomas vegetativos asociados."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta incorrecta de la exploración neurológica cuando está alterado el nivel de conciencia:",
+  "opciones": {
+   "A": "El parpadeo espontáneo y el reflejo corneal, provocado por estimulación de la córnea con una torunda de algodón, dependen de la integridad del tronco del encéfalo y de sus conexiones con la corteza cerebral (vía trigémino-protuberancia-facial)",
+   "B": "En las lesiones hemisféricas, los ojos se desvían conjugadamente hacia el lado lesionado (lado contrario de la hemiparesia), mientras que en las lesiones talámicas y protuberanciales y en la epilepsia focal lo hacen hacia el lado contrario de la lesión (homolateral a la hemiparesia o a las contracciones, respectivamente).",
+   "C": "Los ROC (Reflejos Óculo Cefálicos) consisten en la desviación conjugada de la mirada hacia el lado de giro de la cabeza del paciente, tanto en el plano horizontal como en el vertical (ojos de muñeca).",
+   "D": "Respiración de Cheyne-Stokes: lesión diencefálica o hemisférica bilateral de origen estructural o metabólico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Respecto de los movimientos oculares en un paciente en coma, señale la respuesta falsa.",
+  "opciones": {
+   "A": "La presencia de movimientos erráticos lentos horizontales conjugados significa lesión del tronco de encéfalo.",
+   "B": "El Bobbing significa lesión de tronco.",
+   "C": "El reflejo corneal presente con fenómeno de Bell sugiere indemnidad del tronco.",
+   "D": "La presencia de reflejo 'en ojos de muñeca' significa indemnidad del tronco."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En la sospecha de meningitis aguda bacteriana, ¿cuál de la siguientes afirmaciones es falsa?",
+  "opciones": {
+   "A": "Debe extraerse sangre y hemocultivos previamente a la punción lumbar (PL).",
+   "B": "Iniciar antibioterapia empírica tras los hemocultivos antes de la punción lumbar.",
+   "C": "Utilizar bolo de corticoides previo o a la vez que el antibiótico.",
+   "D": "Administrar fenitoina para profilaxis de crisis convulsiva."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En el manejo de la cetoacidosis diabética son indicadores de buena practica clínica los siguientes, excepto:",
+  "opciones": {
+   "A": "Paso a insulina subcutánea cuando control glucemia < 200 mgrs./dl.",
+   "B": "Aportar suero glucosado cuando la glucemia descienda por debajo de 250 mgrs/dl.",
+   "C": "Iniciar ingesta alimentaria cuando la acidosis esté corregida y una hidratación correcta manteniendo perfusión de insulina al inicio.",
+   "D": "Administrar heparina de bajo peso molecular profiláctica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Ante la presencia de hematuria macroscópica señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Si hay datos de infección, se inicia tratamiento antibiótico.",
+   "B": "Se procederá al sondaje si se trata de hematuria recidivante.",
+   "C": "Si se trata de un portador de sonda, se harán lavados y se valorará la recolocación de la sonda.",
+   "D": "Si anemización o inestabilidad hemodinámica, se procederá a sondaje, lavados y valorar RTU hemostática."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Cuál de las siguiente enfermedades de transmisión sexual no se manifiesta como ulceración?",
+  "opciones": {
+   "A": "Clamidia trachomatis.",
+   "B": "Linfogranuloma venéreo",
+   "C": "Herpes.",
+   "D": "Granuloma inguinal."
+  },
+  "respuesta_correcta": "A"
+ }
+]

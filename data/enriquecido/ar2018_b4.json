@@ -1,0 +1,552 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En el manejo de la intoxicación aguda por antidepresivos tricíclicos ¿qué tratamiento NO estaria indicado?",
+  "opciones": {
+   "A": "Carbón activado en dosis repetidas.",
+   "B": "Flumacenilo.",
+   "C": "Bicarbonato sódico.",
+   "D": "Benzodiacepinas si agitación."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "El flumazenilo está contraindicado en la intoxicación por antidepresivos tricíclicos (y en las coingestas con benzodiacepinas y tricíclicos), porque al revertir el efecto protector de las benzodiacepinas reduce el umbral convulsivo y puede precipitar convulsiones y arritmias en un paciente ya proarrítmico por el bloqueo de canales de sodio. El enfoque de la pregunta es recordar que los tricíclicos producen cardiotoxicidad (QRS ancho) y neurotoxicidad, y que su tratamiento se basa en alcalinización con bicarbonato, carbón activado y benzodiacepinas, nunca en antídotos de benzodiacepinas."
+   ,
+   "incorrectas": {
+    "A": "El carbón activado, incluso en dosis repetidas, está indicado porque los tricíclicos tienen circulación enterohepática y enlentecen el vaciamiento gástrico por su efecto anticolinérgico.",
+    "C": "El bicarbonato sódico es el tratamiento de elección de la cardiotoxicidad (QRS >100 ms, arritmias, hipotensión): la alcalinización y el aporte de sodio revierten el bloqueo de los canales de sodio.",
+    "D": "Las benzodiacepinas son el fármaco de elección para la agitación y las convulsiones en esta intoxicación."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En relación a la cricotiroidotomía, es FALSO que:",
+  "opciones": {
+   "A": "Está contraindicada en menores de 10 años.",
+   "B": "Está contraindicada en el traumatismo facial.",
+   "C": "Es una técnica que permite la entrada rápida a la via respiratoria en situaciones de emergencia, cuando no es posible la intubación orotraqueal o está contraindicada.",
+   "D": "Se accede a la vía aérea a través de la membrana cricotiroidea."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 104,
+   "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+  },
+  "explicacion": {
+   "correcta": "Es falso que la cricotiroidotomía esté contraindicada en el traumatismo facial: precisamente el traumatismo facial grave, que impide la intubación orotraqueal, es una de sus indicaciones clásicas dentro del algoritmo de vía aérea difícil ('no intubable, no ventilable'). La clave de la pregunta es distinguir indicaciones (trauma facial, obstrucción supraglótica) de contraindicaciones (edad pediátrica, traumatismo o patología laringotraqueal directa)."
+   ,
+   "incorrectas": {
+    "A": "Es cierto: en niños pequeños (clásicamente menores de 10-12 años) la cricotiroidotomía quirúrgica está contraindicada por el riesgo de lesión del cartílago cricoides, prefiriéndose la punción cricotiroidea con ventilación jet.",
+    "C": "Es cierta: es la técnica de rescate de emergencia cuando la intubación orotraqueal es imposible o está contraindicada.",
+    "D": "Es cierta: el acceso se realiza a través de la membrana cricotiroidea, entre los cartílagos tiroides y cricoides."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta correcta, en relación con la administración de carbón activado para reducir la absorción del tóxico en las intoxicaciones agudas:",
+  "opciones": {
+   "A": "Se debe administrar siempre a través de una sonda orogástrica.",
+   "B": "Es menos eficaz que el vaciamiento gástrico.",
+   "C": "La administración de dosis repetidas está justificada en determinadas intoxicaciones, como carbamacepina o fenobarbital.",
+   "D": "Uno de los efectos secundarios más frecuentes es la diarrea."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 100,
+   "tema": "Intoxicaciones agudas. Valoración y tratamiento general."
+  },
+  "explicacion": {
+   "correcta": "Las dosis repetidas de carbón activado están indicadas en intoxicaciones por fármacos con circulación enterohepática o liberación retardada, clásicamente carbamazepina, fenobarbital, teofilina, quinina y dapsona, porque interrumpen la recirculación del tóxico y aumentan su aclaramiento ('diálisis gastrointestinal'). Es el concepto clave que el opositor debe memorizar sobre descontaminación digestiva."
+   ,
+   "incorrectas": {
+    "A": "Puede administrarse por vía oral si el paciente está consciente y colabora; la sonda solo es necesaria si hay bajo nivel de conciencia (con vía aérea protegida) o falta de colaboración.",
+    "B": "Es al contrario: el carbón activado es la técnica de descontaminación digestiva de elección y ha desplazado al vaciamiento gástrico (lavado, ipecacuana) por su mayor eficacia y seguridad.",
+    "D": "El efecto secundario característico es el estreñimiento (incluso impactación o íleo con dosis repetidas), no la diarrea; por eso se asocia a veces un catártico."
+   }
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Al aplicar la escala de decisión clínica de Wells para TVP en un paciente con un carcinoma gástrico intervenido hace 5 días, que presenta un edema de toda la pierna, con aumento del perímetro de la pantorrilla (10 cm. por debajo de la tuberosidad tibial) superior a 3 cm respecto a la contralateral, podemos concluir que:",
+  "opciones": {
+   "A": "Presenta una puntuación de 4 (riesgo elevado).",
+   "B": "Presenta una puntuación de 3 (riesgo elevado).",
+   "C": "Presenta una puntuación de 2 (riesgo moderado).",
+   "D": "Presenta una puntuación de 0 (riesgo bajo)."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 56,
+   "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El paciente suma 4 puntos en la escala de Wells para TVP: cáncer activo (1), cirugía mayor reciente/encamamiento (1), edema de toda la extremidad (1) y aumento del perímetro de la pantorrilla mayor de 3 cm respecto a la contralateral medido 10 cm bajo la tuberosidad tibial (1). Con 3 o más puntos la probabilidad pretest es alta, lo que obliga a solicitar ecografía-doppler directamente sin pasar por el dímero D."
+   ,
+   "incorrectas": {
+    "B": "Infravalora la puntuación: omite uno de los cuatro criterios presentes (cáncer, cirugía reciente, edema de toda la pierna y asimetría >3 cm puntúan cada uno 1 punto).",
+    "C": "Dos puntos no refleja el caso: hay cuatro criterios positivos, no dos, y además 2 puntos ya se considera probabilidad no baja en la versión original.",
+    "D": "Una puntuación de 0 es incompatible con un paciente oncológico recién intervenido con signos francos de TVP."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Paciente politraumatizado y en el que tras las primeras medidas de soporte con volumen adecuado persiste hipotensión, ingurgitación yugular y cianosis en cara y cuello, ¿cuál sería la primera opción diagnóstica de su situación hemodinámica?",
+  "opciones": {
+   "A": "Shock hipovolémico.",
+   "B": "Shock obstructivo.",
+   "C": "Shock distributivo.",
+   "D": "Shock neurogénico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 50,
+   "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La hipotensión que no responde a volumen junto con ingurgitación yugular y cianosis facial-cervical indica un obstáculo al llenado o al vaciado cardiaco, es decir, shock obstructivo: en el politraumatizado hay que pensar de inmediato en neumotórax a tensión o taponamiento cardiaco. La clave semiológica es la presión venosa central elevada (yugulares ingurgitadas), que descarta hipovolemia y orienta a obstrucción."
+   ,
+   "incorrectas": {
+    "A": "En el shock hipovolémico las venas yugulares están colapsadas y la presión venosa central es baja; además suele responder, al menos parcialmente, a la reposición de volumen.",
+    "C": "El shock distributivo (séptico, anafiláctico) cursa con vasodilatación, presiones de llenado bajas o normales y sin ingurgitación yugular.",
+    "D": "El shock neurogénico es una forma de shock distributivo por lesión medular, con hipotensión y bradicardia, pero sin ingurgitación yugular ni cianosis en esclavina."
+   }
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta INCORRECTA, respecto a la arteriografía como prueba de imagen en la hemorragia digestiva:",
+  "opciones": {
+   "A": "Es más sensible que la gammagrafia con hematíes marcados con Tc-99 a la hora de localizar hemorragias activas.",
+   "B": "Permite realizar maniobras terapeúticas.",
+   "C": "Está indicada en hemorragia persistente cuando la endoscopia no ha demostrado el origen del sangrado.",
+   "D": "Se utiliza si hay un segundo resangrado, tras tratamiento endoscópico en pacientes con alto riesgo quirúrgico."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la A: la gammagrafía con hematíes marcados con Tc-99m es más sensible que la arteriografía para detectar sangrado activo, ya que identifica débitos de tan solo 0,1 ml/min, mientras que la arteriografía requiere un sangrado activo de al menos 0,5 ml/min para visualizar la extravasación de contraste. La gammagrafía localiza peor pero detecta más; la arteriografía detecta menos pero localiza con precisión y permite tratar."
+   ,
+   "incorrectas": {
+    "B": "Es cierta: la arteriografía permite tratamiento mediante embolización selectiva o infusión intraarterial de vasopresores.",
+    "C": "Es cierta: en la hemorragia persistente con endoscopia no diagnóstica, la arteriografía es el siguiente escalón diagnóstico-terapéutico.",
+    "D": "Es cierta: en pacientes de alto riesgo quirúrgico con segundo resangrado tras terapéutica endoscópica, la embolización arteriográfica es una alternativa a la cirugía."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En un cuadro de obstrucción intestinal de origen mecánico en el que se evidencia en las pruebas de imagen una posible neoplasia estenosante de intestino delgado, estarían indicadas las siguientes medidas, EXCEPTO:",
+  "opciones": {
+   "A": "Enemas de limpieza.",
+   "B": "Canalización de vía periférica para perfusión de suero.",
+   "C": "Colocación de sonda endodigestiva con aspiración contínua.",
+   "D": "Valorar intervención quirúrgica urgente."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 64,
+   "tema": "Oclusión y suboclusión intestinal. Apendicitis aguda. Diagnóstico y manejo inicial."
+  },
+  "explicacion": {
+   "correcta": "Los enemas de limpieza no están indicados en una obstrucción mecánica completa de intestino delgado por neoplasia estenosante: no resuelven la obstrucción proximal, aumentan la presión intraluminal y el riesgo de perforación. El manejo correcto es dieta absoluta, reposición hidroelectrolítica intravenosa, descompresión con sonda nasogástrica en aspiración y valoración quirúrgica."
+   ,
+   "incorrectas": {
+    "B": "La fluidoterapia intravenosa es esencial: la obstrucción genera secuestro de líquido en tercer espacio, vómitos y deshidratación con trastornos electrolíticos.",
+    "C": "La sonda nasogástrica con aspiración descomprime el tubo digestivo proximal, alivia los vómitos y reduce el riesgo de broncoaspiración.",
+    "D": "Una obstrucción mecánica por neoplasia estenosante es una indicación de valoración quirúrgica urgente, especialmente si hay signos de sufrimiento de asa o no se resuelve con tratamiento conservador."
+   }
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En relación a la prevención del fracaso renal agudo por el uso de contrastes iodados, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "En pacientes de alto riesgo hay que asegurar una correcta hidratación 12 horas antes y 12 horas después de la prueba.",
+   "B": "Está indicado el uso de diuréticos del asa para prevenir la insuficiencia renal aguda en estos casos.",
+   "C": "La acetilcisteína podría jugar un papel nefroprotector.",
+   "D": "Se debe evitar la deplección de volumen."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Los diuréticos de asa no previenen la nefropatía por contraste; al contrario, la furosemida favorece la depleción de volumen y ha demostrado aumentar el riesgo de fracaso renal en este contexto, por lo que debe evitarse (e incluso suspenderse si es posible antes de la prueba). La piedra angular de la prevención es la expansión de volumen con cristaloides, justo lo opuesto a forzar diuresis."
+   ,
+   "incorrectas": {
+    "A": "Es correcta: la hidratación intravenosa pautada antes y después de la administración del contraste es la medida preventiva más eficaz en pacientes de riesgo.",
+    "C": "Es correcta tal como está formulada ('podría'): la N-acetilcisteína se ha empleado por su potencial efecto antioxidante nefroprotector, aunque la evidencia actual es controvertida.",
+    "D": "Es correcta: la depleción de volumen es el principal factor de riesgo modificable de nefropatía por contraste y debe evitarse siempre."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de los siguientes es un criterio de exclusión relativo para el inicio del tratamiento de la insuficiencia respiratoria aguda con VMNI?",
+  "opciones": {
+   "A": "Incapacidad para proteger la vía aérea.",
+   "B": "Traqueotomía.",
+   "C": "Secrecciones abundantes.",
+   "D": "Traumatismos faciales graves."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 105,
+   "tema": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las secreciones respiratorias abundantes son una contraindicación relativa de la VMNI: dificultan la técnica y aumentan el riesgo de obstrucción y aspiración, pero pueden manejarse con fisioterapia y aspiración frecuente, permitiendo un intento de VMNI bajo vigilancia estrecha. La pregunta exige diferenciar las contraindicaciones absolutas (que obligan a intubar) de las relativas (que permiten individualizar)."
+   ,
+   "incorrectas": {
+    "A": "La incapacidad para proteger la vía aérea (coma, ausencia de reflejos) es una contraindicación absoluta, porque la VMNI no aísla la vía aérea y el riesgo de aspiración es inasumible.",
+    "B": "La traqueotomía hace inviable la interfaz de la VMNI convencional; el paciente ya dispone de un acceso directo a la vía aérea y se considera exclusión absoluta.",
+    "D": "El traumatismo (o deformidad/cirugía reciente) facial grave impide el sellado de la mascarilla y se considera contraindicación absoluta."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta INCORRECTA respecto al uso de difenilhidantoina en el tratamiento del status epiléptico:",
+  "opciones": {
+   "A": "Para la administración iv no puede diluirse en suero glucosado porque precipita.",
+   "B": "La velocidad no debe superar los 50mg/ min.",
+   "C": "Requiere modificación de dosis en presencia de insuficiencia renal.",
+   "D": "Debe evitarse este fármaco en pacientes con bloqueos e insuficiencia cardíaca."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 67,
+   "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+  },
+  "explicacion": {
+   "correcta": "La fenitoína tiene metabolismo fundamentalmente hepático, por lo que la dosis de carga en el status epiléptico no requiere modificación por insuficiencia renal: esa es la afirmación incorrecta. En la práctica, en la uremia aumenta la fracción libre del fármaco por desplazamiento de la unión a la albúmina, lo que obliga a interpretar los niveles, pero la dosificación estándar no se ajusta por función renal."
+   ,
+   "incorrectas": {
+    "A": "Es cierta: la fenitoína precipita en soluciones glucosadas y debe diluirse exclusivamente en suero salino fisiológico.",
+    "B": "Es cierta: la velocidad de infusión no debe superar 50 mg/min en el adulto por el riesgo de hipotensión y arritmias.",
+    "D": "Es cierta: por su efecto antiarrítmico de clase Ib y depresor de la conducción está contraindicada o debe evitarse en bloqueos AV avanzados, bradicardia e insuficiencia cardiaca grave."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En el tratamiento de la preeclamsia grave, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La prevención farmacológica de convulsiones se hace con sulfato de magnesio.",
+   "B": "La hidralacina no está contraindicada en enfermedad coronaria.",
+   "C": "El labetalol está contraindicado en bradicardia materna inferior a 60 latidos por minuto.",
+   "D": "Se finaliza la gestación si es mayor de 35 semanas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la B: la hidralazina sí está contraindicada (o debe evitarse) en pacientes con enfermedad coronaria, porque su vasodilatación arteriolar provoca taquicardia refleja y aumento del consumo miocárdico de oxígeno, pudiendo desencadenar isquemia. Al ser una pregunta de respuesta incorrecta, hay que detectar la doble negación: decir que 'no está contraindicada' en cardiopatía isquémica es falso."
+   ,
+   "incorrectas": {
+    "A": "Es cierta: el sulfato de magnesio es el fármaco de elección para la prevención y el tratamiento de las convulsiones eclámpticas.",
+    "C": "Es cierta: el labetalol, betabloqueante, está contraindicado si la frecuencia cardiaca materna es inferior a 60 lpm, así como en asma, insuficiencia cardiaca o bloqueo AV.",
+    "D": "Es cierta: en la preeclampsia grave con gestación a término o próxima al término (por encima de 34-35 semanas) el tratamiento definitivo es finalizar la gestación."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes respuestas considera correcta respecto a la necesidades hidroelectrolíticas mínimas diarias?",
+  "opciones": {
+   "A": "50 ml/kg/día de agua.",
+   "B": "0,5-1 mEq/kg/día de potasio.",
+   "C": "10 gr/kg/día de glucosa.",
+   "D": "6 mEq/kg/día de sodio."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 44,
+   "tema": "Fármacos en urgencias vitales. Fluidoterapia en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las necesidades basales de potasio en el adulto son de 0,5-1 mEq/kg/día (unos 40-80 mEq diarios), cifra que debe reponerse en toda fluidoterapia de mantenimiento si la función renal lo permite. Esta pregunta se enfoca memorizando los requerimientos basales clásicos: agua 30-35 ml/kg/día, sodio 1-2 mEq/kg/día, potasio 0,5-1 mEq/kg/día y glucosa 100-150 g/día."
+   ,
+   "incorrectas": {
+    "A": "Las necesidades mínimas de agua son de unos 30-35 ml/kg/día; 50 ml/kg/día sobrepasa los requerimientos basales del adulto.",
+    "C": "El aporte mínimo de glucosa para frenar la cetogénesis es de unos 100-150 g/día (aprox. 2 g/kg/día); 10 g/kg/día sería una cantidad desproporcionada (700 g en un adulto de 70 kg).",
+    "D": "Las necesidades de sodio son de 1-2 mEq/kg/día; 6 mEq/kg/día triplica con creces el requerimiento basal."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta correcta en relación con el cambio eléctrico más precoz que esperaría encontrar en la evolución de un SCACEST:",
+  "opciones": {
+   "A": "Elevación del punto J, con ST cóncavo.",
+   "B": "Onda T picuda.",
+   "C": "Elevación pronunciada de segmento ST con morfología convexa.",
+   "D": "El segmento ST y la onda T se fusionan haciéndose indistinguibles."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "El cambio electrocardiográfico más precoz del infarto con elevación del ST es la onda T picuda, alta y simétrica ('T hiperaguda'), que traduce la isquemia subendocárdica de los primeros minutos de la oclusión coronaria, antes incluso de que se eleve el segmento ST. Reconocerla permite activar el código infarto en una fase muy temprana, cuando el ST aún puede ser normal."
+   ,
+   "incorrectas": {
+    "A": "La elevación del punto J con ST cóncavo es un patrón típico de repolarización precoz o pericarditis, y en el infarto la elevación del ST aparece después de la T hiperaguda.",
+    "C": "La elevación convexa del ST (lesión subepicárdica) es el cambio definitorio del SCACEST, pero sigue cronológicamente a la onda T picuda inicial.",
+    "D": "La fusión del ST con la onda T (patrón 'en lápida' o de onda monofásica) corresponde a fases evolucionadas de la lesión, no al cambio más precoz."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de los siguientes fármacos NO interacciona con otros fármacos antiepilépticos?",
+  "opciones": {
+   "A": "Clonacepam.",
+   "B": "Lacosamida.",
+   "C": "Topiramato.",
+   "D": "Oxcarbamacepina."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 67,
+   "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+  },
+  "explicacion": {
+   "correcta": "La lacosamida es un antiepiléptico de tercera generación con perfil farmacocinético muy favorable: escasa unión a proteínas plasmáticas, sin efecto inductor ni inhibidor relevante del citocromo P450, por lo que prácticamente no presenta interacciones con otros antiepilépticos. Por ello es una opción atractiva en politerapia y en el paciente polimedicado de urgencias."
+   ,
+   "incorrectas": {
+    "A": "El clonazepam, benzodiacepina metabolizada por el CYP3A4, ve modificados sus niveles por inductores como fenitoína o carbamazepina y puede potenciar la sedación de otros antiepilépticos.",
+    "C": "El topiramato interacciona con fenitoína y carbamazepina (que reducen sus niveles) y a dosis altas inhibe CYP2C19, elevando los niveles de fenitoína.",
+    "D": "La oxcarbazepina es inductora enzimática (CYP3A4) e inhibidora de CYP2C19, con interacciones conocidas con fenitoína, carbamazepina y anticonceptivos."
+   }
+  }
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta correcta en relación con la exploración con diapasón en la sordera brusca oído derecho:",
+  "opciones": {
+   "A": "Rinne positivo patológico y Weber lateralizado a lado izquierdo.",
+   "B": "Rinne positivo patológico y Weber lateralizado a lado derecho.",
+   "C": "Rinne negativo y Weber lateralizado a lado izquierdo.",
+   "D": "Rinne negativo y Weber lateralizado a lado derecho."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La sordera súbita es una hipoacusia neurosensorial (de percepción), por lo que en el oído derecho afecto el Rinne sigue siendo positivo (la vía aérea continúa siendo mejor que la ósea, aunque ambas estén disminuidas: 'Rinne positivo patológico') y el Weber se lateraliza hacia el oído sano, en este caso el izquierdo. Es el patrón acumétrico que diferencia la hipoacusia perceptiva de la de transmisión, donde ocurre lo contrario."
+   ,
+   "incorrectas": {
+    "B": "En la hipoacusia neurosensorial el Weber se lateraliza al oído sano (izquierdo), no al afecto: la lateralización al lado enfermo es propia de la hipoacusia de transmisión.",
+    "C": "El Rinne negativo (vía ósea mejor que aérea) corresponde a hipoacusia de transmisión, no a una sordera súbita neurosensorial.",
+    "D": "Combina dos errores: Rinne negativo (patrón de transmisión) y Weber hacia el oído afecto, ambos incompatibles con una hipoacusia perceptiva derecha."
+   }
+  }
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos fármacos, es el MENOS indicado en el tratamiento del síndrome confusional agudo?",
+  "opciones": {
+   "A": "Lorazepam.",
+   "B": "Quetiapina.",
+   "C": "Olanzapina.",
+   "D": "Haloperidol."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las benzodiacepinas como el lorazepam son los fármacos menos indicados en el delirium, porque pueden agravar la confusión, producir sedación excesiva, reacciones paradójicas y prolongar el cuadro, especialmente en ancianos. Su uso queda reservado al delirium por abstinencia alcohólica o de benzodiacepinas; en el resto de casos los neurolépticos son de elección."
+   ,
+   "incorrectas": {
+    "B": "La quetiapina es un antipsicótico atípico útil en el síndrome confusional, sobre todo en pacientes con parkinsonismo por su bajo perfil extrapiramidal.",
+    "C": "La olanzapina es otro antipsicótico atípico aceptado como alternativa al haloperidol en el tratamiento sintomático del delirium.",
+    "D": "El haloperidol es clásicamente el fármaco de elección del síndrome confusional agudo con agitación por su eficacia, manejabilidad y escaso efecto anticolinérgico e hipotensor."
+   }
+  }
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Niño de 18 meses con cuadro catarral previo, que es traído a Urgencias por la noche con tos perruna, estridor inspiratorio y tiraje intercostal. Hipoventilación generalizada. Febrícula de 37,8 ºC, Sat. O2 91%. Señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Administraremos dexametasona 0.6 mg/kg via oral o parenteral.",
+   "B": "La adrenalina nebulizada empeora los síntomas de esta patología por lo que no se recomienda su uso en este caso.",
+   "C": "Las maniobras de exploración de la cavidad oral con los depresores linguales pueden desencadenar un laringoespasmo por lo que deben ser evitadas.",
+   "D": "La etiología más frecuente es la viral en más del 90% de los casos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "El cuadro es una laringitis aguda (crup) moderada-grave (estridor, tiraje, hipoventilación y SatO2 91%), y la afirmación incorrecta es la B: la adrenalina nebulizada no empeora los síntomas, sino que es el tratamiento de elección en el crup moderado-grave junto con la dexametasona, al reducir rápidamente el edema subglótico por vasoconstricción. Debe administrarse y mantener observación posterior por el posible efecto rebote al cabo de unas horas."
+   ,
+   "incorrectas": {
+    "A": "Es cierta: la dexametasona a 0,15-0,6 mg/kg en dosis única (oral o parenteral) es el tratamiento básico de cualquier laringitis aguda, usando la dosis alta en los casos graves.",
+    "C": "Es cierta: en el niño con obstrucción de vía aérea superior debe evitarse la exploración instrumental de la orofaringe, pues puede precipitar laringoespasmo y empeoramiento brusco.",
+    "D": "Es cierta: la etiología del crup es viral en la inmensa mayoría de los casos, siendo el virus parainfluenza el agente más frecuente."
+   }
+  }
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta correcta en relación con el diagnóstico de TEP:",
+  "opciones": {
+   "A": "El hallazgo en el ECG de un patrón S1Q3T3 aunque es poco frecuente se considera patognomónico.",
+   "B": "La angio-TC se considera la prueba de imagen de elección en pacientes con puntuación >4 en el score de Wells.",
+   "C": "La existencia de enfermedad respiratoria previa no influye en la rentabilidad diagnóstica de la gammagrafía de V/Q en caso de alergia a los contrastes yodados.",
+   "D": "Un elevación significativa del dímero D tiene un alto valor predictivo positivo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 56,
+   "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "En pacientes con probabilidad clínica alta de TEP (Wells >4, 'TEP probable') la estrategia correcta es ir directamente a la angio-TC de arterias pulmonares, que es la prueba de imagen de elección por su alta sensibilidad y especificidad, sin determinar dímero D. El algoritmo diagnóstico del TEP se articula precisamente en torno a la probabilidad pretest: dímero D solo si la probabilidad es baja-intermedia."
+   ,
+   "incorrectas": {
+    "A": "El patrón S1Q3T3 es poco frecuente y además inespecífico (puede verse en otras causas de sobrecarga derecha); no existe ningún hallazgo ECG patognomónico de TEP.",
+    "C": "La enfermedad respiratoria previa (EPOC, alteraciones radiológicas) reduce claramente la rentabilidad de la gammagrafía V/Q al aumentar los resultados indeterminados.",
+    "D": "El dímero D tiene alto valor predictivo negativo (sirve para excluir TEP en probabilidad baja), pero su elevación es muy inespecífica y su valor predictivo positivo es bajo."
+   }
+  }
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Qué parámetro se incluye en la escala de valoración quick SOFA?",
+  "opciones": {
+   "A": "Saturación de oxígeno.",
+   "B": "Frecuencia cardíaca.",
+   "C": "Frecuencia respiratoria.",
+   "D": "Lesiones cutáneas compatibles con sepsis."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "El quick SOFA (qSOFA), propuesto en las definiciones Sepsis-3 para identificar fuera de la UCI a pacientes con infección y riesgo de mala evolución, consta de tres criterios: frecuencia respiratoria igual o superior a 22 rpm, presión arterial sistólica igual o inferior a 100 mmHg y alteración del nivel de conciencia (Glasgow <15). Dos o más puntos identifican al paciente de alto riesgo, por lo que la frecuencia respiratoria es el único parámetro de la lista incluido."
+   ,
+   "incorrectas": {
+    "A": "La saturación de oxígeno no forma parte del qSOFA; la oxigenación (PaO2/FiO2) se valora en el SOFA completo, no en su versión rápida.",
+    "B": "La frecuencia cardiaca no es criterio del qSOFA (sí lo era de los antiguos criterios SIRS, fuente clásica de confusión en esta pregunta).",
+    "D": "Las lesiones cutáneas (livideces, púrpura) son signos clínicos de hipoperfusión o sepsis grave, pero no están incluidas en el qSOFA."
+   }
+  }
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En cuanto al manejo de la CPAP en el tratamiento del edema agudo de pulmón, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Aumenta la presion intratorácica, disminuye el retorno venoso y la congestión pulmonar por disminución de la precarga.",
+   "B": "Mantiene los alveolos abiertos durante la inspiración, facilitando el intercambio gaseoso y mejorando la oxigenación.",
+   "C": "Disminuye la postcarga al reducir la presión transmural sistólica del ventrículo izquierdo.",
+   "D": "Disminuye la frecuencia cardiaca por estimulación de aferencias pulmonares vagales por la inflación pulmonar que induce."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 105,
+   "tema": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la B: el efecto característico de la CPAP es mantener una presión positiva continua que evita el colapso alveolar durante la espiración (recluta alveolos y aumenta la capacidad residual funcional), no durante la inspiración. Ese matiz fisiológico es la trampa de la pregunta: la apertura alveolar inspiratoria ocurre de forma natural; lo que aporta la presión positiva es impedir el cierre espiratorio."
+   ,
+   "incorrectas": {
+    "A": "Es cierta: el aumento de presión intratorácica reduce el retorno venoso y la precarga, descongestionando el pulmón en el edema agudo.",
+    "C": "Es cierta: la presión positiva reduce la presión transmural del ventrículo izquierdo y con ello la postcarga, mejorando el gasto cardiaco en el corazón insuficiente.",
+    "D": "Es cierta: la insuflación pulmonar estimula aferencias vagales que tienden a disminuir la frecuencia cardiaca."
+   }
+  }
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Respecto al uso de la oxicodona en el tratamiento del dolor, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Está indicada en el tratamiento del dolor intenso.",
+   "B": "Puede administrarse en pacientes a partir de los 6 años.",
+   "C": "Debe administrarse tratamiento concomitante con antieméticos y laxantes.",
+   "D": "Los comprimidos no se deben partir, masticar ni triturar."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la B: según su ficha técnica, la oxicodona no está recomendada en menores de 18 años (en algunas presentaciones, de 12 años), por falta de datos de seguridad y eficacia en población pediátrica; en ningún caso está autorizada a partir de los 6 años. La pregunta se resuelve recordando que los opioides mayores de liberación prolongada tienen restricción de uso pediátrico."
+   ,
+   "incorrectas": {
+    "A": "Es cierta: la oxicodona es un opioide mayor (agonista puro) indicado en el dolor intenso, tercer escalón de la OMS.",
+    "C": "Es cierta: como todo opioide mayor, produce náuseas y estreñimiento de forma muy frecuente, por lo que se recomienda asociar antieméticos al inicio y laxantes de forma mantenida.",
+    "D": "Es cierta: los comprimidos de liberación prolongada no deben partirse, masticarse ni triturarse, pues se liberaría de golpe la dosis con riesgo de sobredosis potencialmente mortal."
+   }
+  }
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "El angioedema hereditario se caracteriza por todas las manifestaciones siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Edema de dermis profunda y tejido celular subcutáneo.",
+   "B": "Prurito.",
+   "C": "Sensación de quemazón y distensión de la piel.",
+   "D": "Edema del tejido conjuntivo laxo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 102,
+   "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El angioedema hereditario (déficit de C1 inhibidor) está mediado por bradicinina, no por histamina, por lo que característicamente NO produce prurito ni se acompaña de urticaria: esa ausencia es precisamente una clave diagnóstica frente al angioedema histaminérgico-alérgico. Recordarlo tiene implicación terapéutica directa, pues no responde a adrenalina, antihistamínicos ni corticoides."
+   ,
+   "incorrectas": {
+    "A": "Es una característica propia: el angioedema afecta a la dermis profunda y al tejido celular subcutáneo, a diferencia de la urticaria, que es más superficial.",
+    "C": "Es típica: los pacientes refieren sensación de tensión, distensión o quemazón en la zona edematosa, en lugar de picor.",
+    "D": "Es correcta: el edema asienta en tejido conjuntivo laxo (cara, labios, genitales, mucosa orofaríngea e intestinal), lo que explica el riesgo de obstrucción de vía aérea y los episodios de dolor abdominal."
+   }
+  }
+ }
+]

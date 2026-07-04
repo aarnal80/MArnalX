@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En el tratamiento del delirium tremens se incluye:",
+  "opciones": {
+   "A": "Reposición hidroelectrolítica.",
+   "B": "Vitamina K.",
+   "C": "Betabloqueantes.",
+   "D": "Etanol."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En el manejo de una intoxicación aguda por opiáceos, ¿cuál es el antídoto de primera línea y cómo actúa?",
+  "opciones": {
+   "A": "Flumazenilo, que actúa como antagonista de las benzodiacepinas.",
+   "B": "Naloxona, que actúa como antagonista competitivo de los receptores opioides.",
+   "C": "Acetilcisteína, que actúa como precursor del glutatión.",
+   "D": "Atropina, que actúa como antagonista del receptor muscarínico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de los siguientes efectos adversos es más probable en una intoxicación por metanfetaminas?",
+  "opciones": {
+   "A": "Hipotensión severa.",
+   "B": "Hipotermia.",
+   "C": "Psicosis y agitación extrema.",
+   "D": "Bradipnea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En la intoxicación por éxtasis (MDMA), ¿cuál de las siguientes complicaciones puede surgir debido a la hipertermia?",
+  "opciones": {
+   "A": "Insuficiencia renal aguda.",
+   "B": "Hipotensión severa.",
+   "C": "Bradicardia.",
+   "D": "Disminución del tono muscular."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la justificación para el uso de oxígeno hiperbárico en casos graves de intoxicación por monóxido de carbono?",
+  "opciones": {
+   "A": "Reduce la presión parcial de monóxido de carbono en el plasma sanguíneo y facilita la eliminación del CO.",
+   "B": "Incrementa la solubilidad del monóxido de carbono en el plasma, reduciendo su afinidad por la hemoglobina.",
+   "C": "Aumenta la presión de oxígeno en los tejidos, acelerando la disociación de carboxihemoglobina.",
+   "D": "Mejora la oxigenación en tejidos al promover la formación de glóbulos rojos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es un signo físico visible de intoxicación grave por monóxido de carbono?",
+  "opciones": {
+   "A": "Labios azulados.",
+   "B": "Ictericia.",
+   "C": "Piel enrojecida.",
+   "D": "Pérdida de color en las uñas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En cuanto a los fármacos coadyuvantes de los analgésicos, NO es cierto que:",
+  "opciones": {
+   "A": "Las benzodiazepinas son útiles en el dolor asociado a espasmo muscular.",
+   "B": "Los antidepresivos pueden tener efectos anticolinérgicos.",
+   "C": "Los anticomiciales se emplean habitualmente en monoterapia.",
+   "D": "Los parches de lidocaína se utilizan para el dolor neuropático."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Paciente de 18 años que acude a Urgencias procedente de zona endémica de paludismo con fiebre de 39 ºC y sin otro foco. ¿Qué actitud sería la más CORRECTA?",
+  "opciones": {
+   "A": "Realizar extensión de sangre periférica y si no se observa parásito descartar la posibilidad de paludismo.",
+   "B": "Realizar extensión de sangre periférica y si es negativa realizar seguimiento clínico y analítico cada 12- 24h.",
+   "C": "Iniciar tratamiento empírico con el fármaco empleado para la quimioprofilaxis.",
+   "D": "Ninguna de ellas es correcta."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En un paciente con agitación grave, ¿qué combinación de fármacos es más adecuada en urgencias?",
+  "opciones": {
+   "A": "Paracetamol y antipsicóticos.",
+   "B": "Haloperidol y midazolam.",
+   "C": "Ibuprofeno y diazepam.",
+   "D": "Antibióticos y sedantes."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es el principal riesgo al utilizar contención física en el manejo de un paciente agitado?",
+  "opciones": {
+   "A": "Aumento de la temperatura corporal.",
+   "B": "Complicaciones respiratorias y daño muscular.",
+   "C": "Disminución de la presión arterial.",
+   "D": "Alergia a los materiales de las sujeciones."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "La toracocentesis:",
+  "opciones": {
+   "A": "Es una técnica diagnóstica y terapeútica.",
+   "B": "Permite el estudio microbiológico del líquido pleural.",
+   "C": "La punción debe realizarse por encima del borde superior del arco costal.",
+   "D": "Todas son ciertas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Uno de éstos NO es un síntoma característico en el paciente agónico:",
+  "opciones": {
+   "A": "Postración.",
+   "B": "Hemorragia digestiva.",
+   "C": "Disminución del nivel de conciencia o agitación.",
+   "D": "Incapacidad para la ingesta."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre el método de trabajo en el área de clasificación de urgencia en caso de catástrofe es FALSA?",
+  "opciones": {
+   "A": "Se deben alterar algunos de los principios de atención médica para lograr los mejores resultados generales.",
+   "B": "La actuación inicial debe limitarse a mantener la vía aérea permeable y controlar la hemorragia externa.",
+   "C": "Las decisiones deben tomarse teniendo en cuenta únicamente la naturaleza de la lesión y la urgencia de la condición general del paciente.",
+   "D": "Las categorías de clasificación se identifican con etiquetas o cintas de colores."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "PREGUNTAS DE RESERVA PREGUNTAS DE RESERVA PREGUNTAS DE RESERVA Señale la afirmación FALSA sobre los sistemas de triage:",
+  "opciones": {
+   "A": "Se valoran síntomas y signos.",
+   "B": "Su disponibilidad es un indicador de calidad.",
+   "C": "Finaliza con la visita médica.",
+   "D": "Mejora la calidad pero no la eficiencia del servicio."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cual de los siguientes tipos de shock NO es distributivo:",
+  "opciones": {
+   "A": "Shock neurogénico.",
+   "B": "Shock anafiláctico.",
+   "C": "Shock por lesión miocárdica.",
+   "D": "Shock séptico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale qué valoran los criterios de Anthonisen:",
+  "opciones": {
+   "A": "El aumento del volumen del esputo, de su purulencia y la presencia de expectoración hemoptoica.",
+   "B": "El aumento del volumen del esputo, de su purulencia y el valor del peak-flow.",
+   "C": "El aumento del volumen del esputo, de su purulencia y el aumento de la disnea.",
+   "D": "El aumento del volumen del esputo, de su purulencia y la presencia de hipercapnia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuáles de estos son criterios de gravedad en una crisis asmática ?",
+  "opciones": {
+   "A": "Frecuencia respiratoria >30.",
+   "B": "Frecuencia cardiaca > 120.",
+   "C": "Utilización de musculatura accesoria.",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En un paciente con crisis epiléptica, el diagnóstico diferencial debe hacerse con:",
+  "opciones": {
+   "A": "Migraña basilar .",
+   "B": "Síncope convulsivo.",
+   "C": "Discinesias.",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Qué condición precipita más frecuentemente el estado hiperosmolar hiperglucémico en pacientes con diabetes tipo 2?",
+  "opciones": {
+   "A": "Sobredosis de insulina.",
+   "B": "Infecciones sistémicas graves como neumonía o sepsis.",
+   "C": "Ejercicio físico excesivo sin ajuste de insulina.",
+   "D": "Consumo excesivo de carbohidratos simples en la dieta."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En urgencias, si un paciente presenta bajo riesgo de TVP según la escala de Wells y un dímero-D negativo, ¿cuál es el siguiente paso recomendado?",
+  "opciones": {
+   "A": "Realizar un ultrasonido Doppler.",
+   "B": "Iniciar anticoagulación preventiva.",
+   "C": "Dar de alta al paciente sin más estudios.",
+   "D": "Solicitar una tomografía computarizada (TAC)."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En el manejo de la TVP en un paciente con alto riesgo de hemorragia, ¿qué opción terapéutica de las siguientes se considera más segura inicialmente?",
+  "opciones": {
+   "A": "Anticoagulantes orales directos.",
+   "B": "Clopidogrel.",
+   "C": "Filtro de vena cava inferior.",
+   "D": "Trombolíticos intravenosos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes acciones se consideraría más apropiada en el abordaje de los pacientes terminales en urgencias?",
+  "opciones": {
+   "A": "Maximizar el tratamiento quirúrgico.",
+   "B": "Minimizar el sufrimiento físico y emocional.",
+   "C": "Intubación orotraqueal.",
+   "D": "Administrar la mayor cantidad de medicamentos posible."
+  },
+  "respuesta_correcta": "B"
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 177,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una mujer acude a urgencias tres días después de ser sometido a litotricia extracorpórea por ondas de choque sobre un cálculo de 2,1 cm de diámetro máximo situado en el riñón izquierdo. Presenta mal estado general, dolor en fosa renal izquierda, náuseas y fiebre de 39,2 ºC. Se realiza Rx simple en la que se aprecian varios cálculos, de pequeño tamaño, en el área del uréter distal izquierdo. El radiólogo nos informa de que en la ecografía observa la existencia de dilatación grado II pielocalicial izquierda. El siguiente paso debe ser:",
+  "opciones": {
+   "A": "Ureteroscopia de urgencia dada la existencia de uropatía obstructiva de causa litiásica.",
+   "B": "Ingreso con hidratación intravenosa, así como tratamiento antibiótico, dada la sospecha de infección urinaria.",
+   "C": "Derivación urinaria urgente (cateterismo ureteral o nefrostomía percutánea) dada la sospecha de uropatía obstructiva complicada.",
+   "D": "Nueva sesión de litotricia extracorpórea por ondas de choque, previo tratamiento sintomático del paciente con antiinflamatorios, tratamiento antibiótico e hidratación intravenosa."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 178,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes factores NO favorece el desarrollo de pielonefritis aguda?",
+  "opciones": {
+   "A": "Nefrolitiasis.",
+   "B": "Riñón de herradura.",
+   "C": "Quiste renal simple.",
+   "D": "Tumor de urotelio."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 179,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la relación con la nefrolitiasis señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Las litiasis de ácido úrico responden bien a la alcalinización de la orina.",
+   "B": "La litotricia extracorpórea por ondas de choque es el método elegido para el tratamiento de la mayoría de los cálculos no expulsables, sobre todo, en los casos de pionefrosis.",
+   "C": "La nefrolitiasis es la causa más frecuente de obstrucción urinaria en el varón joven.",
+   "D": "La eliminación de dos cálculos menores de 5 mm es espontánea en el 80% de los casos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 180,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 28 años de edad que acude a urgencias del hospital por presentar hematuria macroscópica. ¿Cuál de las siguientes alteraciones en el análisis de orina apoyaría el diagnóstico de glomerulonefritis?",
+  "opciones": {
+   "A": "Hematíes dismórficos y/o cilindros hemáticos.",
+   "B": "Proteinuria de 1 g/día, con resultado negativo en tira reactiva y con microalbuminuria mayor de 300 mg/24 horas.",
+   "C": "Coexistencia de hematuria con piuria sin bacteriuria.",
+   "D": "Coágulos en la orina a simple vista."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 181,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 79 años, exfumador, sin otros factores de riesgos cardiovasculares, presenta desde hace cuatro días edemas que empeoran a lo largo del día, localizados en cara, miembros inferiores y genitales y ahora acude por intolerancia digestiva y dolor en miembro inferior izquierdo donde presenta un eritema, caliente y doloroso en su pantorrilla. Buen estado general, edematoso, con edemas que dejan fóvea en miembros inferiores, Tª 37ºC, TA 145/90, FC 80, FR 22, SatO2 basal a 95%, tolera el decúbito, sin ingurgitación yugular, tonos cardiacos rítmicos, sin soplos, murmullo vesicular sin crepitantes ni sibilancias, abdomen no doloroso y sin ascitis, pulsos periféricos difíciles de explorar y se marca eritema de 10 cm x10 cm en área gemelar izquierda. En la tira de orina se aprecian 4 + para proteínas, cilindruria sin hematuria. El ECG está en ritmo sinusal a 80 rpv, sin alteraciones. La creatinina e iones séricos están en rango normal. En espera de completar el estudio, de entre las siguientes medidas del tratamiento precoz en Urgencias, ¿cuál es INCORRECTA?",
+  "opciones": {
+   "A": "Dieta con restricción hídrica a 1.000 ml/día, hiposódica inferior a 2-3 g/día, normoproteica e hipercalórica.",
+   "B": "Dieta con restricción hídrica a 1.000 ml/día, hiposódica inferior a 2-3 g/día, hipoproteica (30 g/día).",
+   "C": "Mantener la TA por debajo de 130/80 mmHg con inhibidores de la enzima convertidora de angiotensina (IECA) o con antagonistas de los receptores de la angiotensina II (ARAII)",
+   "D": "Furosemida 20 mg/6 h hasta un máximo de 250 mg/día."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 182,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El síndrome NEFRÍTICO agudo independientemente del proceso etiológico (infeccioso, metabólico, tóxico o secundario a enfermedades sistémicas) que desencadene la glomerulonefritis aguda de entre las siguientes medidas del tratamiento precoz en Urgencias, ¿cuál es INCORRECTA?",
+  "opciones": {
+   "A": "Reposo en cama en la fase aguda, dieta baja en proteínas, baja en sodio <2-3 g de sal al día.",
+   "B": "Ingesta hídrica 1500-2000 cc/día.",
+   "C": "Furosemida 20 mg/6 h hasta un máximo de 250 mg/día.",
+   "D": "Control de la hipertensión arterial con IECA si no se controla con furosemida y no hay insuficiencia renal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 183,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la uropatía obstructiva, señale la FALSA:",
+  "opciones": {
+   "A": "Ante un globo vesical se sigue practicando el vaciado gradual de la vejiga, aunque no existen estudios que apoyen la realización de una descompresión gradual al vaciar la vejiga.",
+   "B": "La dificultad para la eliminación total o parcialmente de la orina en una mujer no es frecuente la presencia de tumor uterino, cervical u ovárico.",
+   "C": "La uropatía obstructiva es más común en los hombres, sobre todo después de los 60 años de edad, por la alta prevalencia de hiperplasia benigna y cáncer de próstata.",
+   "D": "En la uropatía obstructiva el dolor frecuentemente está ausente, incluso en la obstrucción aguda, excepto si hay distensión de la vejiga, infección, litiasis o masas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 184,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 57 años, exfumador, con antecedentes de pancreatitis aguda alitiásica, gastritis crónica por AINES y disfunción eréctil en tratamiento con pantoprazol y sildenafilo. Consulta por dolor torácico opresivo a las 7:30 h a.m. mientras se encontraba en reposo. PA 148/82 mmHg, FC 85 lpm, SatO2 de 98% basal. AC: rítmico, sin soplos. AP: murmullo vesicular conservado. No edemas, pulsos presentes y simétricos. ECG: ritmo sinusal y elevación del segmento ST y onda Q en DII, DIII, aVF, con descenso de ST V2-V4, DI-aVL. ¿Cuál de los siguientes fármacos está CONTRAINDICADO en este paciente?",
+  "opciones": {
+   "A": "Morfina.",
+   "B": "Dinitrato de isosorbida.",
+   "C": "Atenolol.",
+   "D": "Meperidina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 185,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el síndrome escrotal agudo, ¿qué afirmación de las siguientes es FALSA?",
+  "opciones": {
+   "A": "La torsión testicular es una emergencia médica que es indicación de tratamiento quirúrgico antes de las 4 a 6 horas del inicio del dolor.",
+   "B": "La torsión de apéndice testicular (hidátide de Morgagni) es una urgencia quirúrgica de la hidátide trombosada.",
+   "C": "El procedimiento quirúrgico en la torsión testicular en testículo viable es la orquidopexia bilateral y en testículo no viable es la orquiectomía ipsilateral con orquidopexia contralateral.",
+   "D": "La detorsión testicular manual en sentido lateral provoca alivio instantáneo del dolor."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 186,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un varón de 16 años con dolor testicular izquierdo de inicio súbito en la madrugada, por vergüenza no avisa antes a sus padres, pero que inmediatamente lo traen al servicio de Urgencias después de 8 horas de inicio del dolor sin fiebre ni clínica miccional previa. Impresiona de dolor, nauseoso, camina despacio arrastrando la pierna izquierda. En bipedestación se observa el teste izquierdo ascendido y horizontalizado y epidídimo en posición anterior (signo de Gouverneur), el reflejo cremastérico está abolido y el signo de Prehn aumenta desproporcionadamente el dolor. La detorsión testicular izquierda en sentido lateral alivia el dolor, pero al incorporarse por una arcada se reproduce el dolor. ¿Cuál de las siguientes actuaciones es la más CORRECTA?",
+  "opciones": {
+   "A": "Avisar inmediatamente a Urología a pesar de llevar más de 6 horas de inicio del dolor.",
+   "B": "Solicitar una ecografía doppler porque existe duda diagnóstica.",
+   "C": "Administrar ceftriaxona 1 g i.m. en dosis única.",
+   "D": "Colocar suspensorio."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 187,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el manejo de la hematuria en Urgencias, señale la FALSA:",
+  "opciones": {
+   "A": "En caso de hematuria leve o escasa con proteinuria, cilindruria en principio debe realizarse interconsulta a Nefrología, sobre todo, si hay edemas o hipertensión arterial.",
+   "B": "En la hematurias leves-moderadas, monosintomáticas, sin grandes coágulos y estables hemodinámicamente, se deberá evitar el sondaje vesical.",
+   "C": "En los casos en los que sea necesario realizar sondaje vesical durante 4-5 días no se recomienda el uso de antibioterapia profiláctica.",
+   "D": "En la hematuria abundante sin coágulos no se recomienda el lavado continuo vesical con suero fisiológico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 188,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre la hematuria, ¿qué es FALSO?",
+  "opciones": {
+   "A": "En la uretrorragia la expulsión de la sangre coincide con la micción.",
+   "B": "La hematuria macroscopia de color marrón o coñac sufiere origen glomerular.",
+   "C": "Cuando la tira de orina mostrará sangre positiva pero no encontraremos hematíes en el sedimento sugiere hemólisis o rabdomiolisis.",
+   "D": "La causa más frecuente de hematuria en los varones de edad media (40-60 años) es el tumor vesical, seguido de litiasis e infecciones."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 189,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el síndrome del cascanueces todo es cierto, EXCEPTO:",
+  "opciones": {
+   "A": "En la variante anterior la compresión de la vena renal izquierda se produce entre la arteria aorta y la arteria mesentérica superior; y en la variante posterior la compresión de la vena renal izquierda se produce entre la arteria aorta y el cuerpo de la vértebra.",
+   "B": "Se manifiesta por hematuria macroscópica, sobre todo después de permanecer en bipedestación o tras el ejercicio.",
+   "C": "Entre sus manifestaciones no incluye la proteinuria ortostática.",
+   "D": "Entre sus manifestaciones incluye el varicocele izquierdo asintomático."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 190,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 60 años de edad que acude a urgencias por presentar hematuria macroscópica asintomática.¿En qué patología deberíamos pensar en primer lugar?",
+  "opciones": {
+   "A": "Hiperplasia benigna de próstata.",
+   "B": "Carcinoma de próstata.",
+   "C": "Carcinoma vesical.",
+   "D": "Litiasis renal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 191,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La citología de orina es una prueba útil para el diagnóstico de:",
+  "opciones": {
+   "A": "Carcinoma vesical y tumor del tracto urinario superior.",
+   "B": "Adenocarcinoma de próstata.",
+   "C": "Hiperplasia benigna de próstata.",
+   "D": "Tumor de testículo."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 192,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación a los cuerpos extraños en el esófago, ¿cuál de los siguientes enunciados es incorrecto?:",
+  "opciones": {
+   "A": "El bolo alimentario es la causa más frecuente de obstrucción esofágica en los países occidentales.",
+   "B": "En ocasiones puede realizarse un estudio con bario para objetivar el nivel de la impactación.",
+   "C": "En ocasiones se puede diferir la extracción del cuerpo extraño vía endoscópica 24 horas.",
+   "D": "La extracción endoscópica de las pilas de botón se recomienda realizarla de forma inmediata por el alto riesgo de perforación."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 193,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el tratamiento de la encefalopatía hepática, ¿cuál de las siguientes no es una medida general de su tratamiento?",
+  "opciones": {
+   "A": "Asegurar la vía aérea, con aspiración de secreciones y administración de oxigenoterapia.",
+   "B": "Corregir las alteraciones iónicas y del equilibrio ácido- base.",
+   "C": "Mantener condiciones adecuadas de hidratación, vigilando el deterioro de la función renal.",
+   "D": "En caso de agitación, contener al paciente con el uso de sedantes tipo benzodiacepinas, para evitar lesiones."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 194,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante la sospecha de una perforación esofágica, ¿cuál de los siguientes ítems es incorrecto?",
+  "opciones": {
+   "A": "El TAC es la técnica de elección diagnóstica.",
+   "B": "Cuando exista sospecha clínica y resto de pruebas normales, debemos realizar una endoscopia digestiva alta para confirmar el diagnóstico.",
+   "C": "El síndrome de Boerhaave es una posible causa.",
+   "D": "La radiografía con contraste hidrosoluble (gastografía), puede resultar útil para localizar el lugar y la extensión de la perforación."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 195,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale de entre las siguientes exploraciones complementarias en el diagnóstico de una perforación esofágica, cuál está contraindicada:",
+  "opciones": {
+   "A": "Radiografía de contraste soluble (gastrografía).",
+   "B": "Radiografía anteroposterior y lateral cervical.",
+   "C": "Tomografía computarizada.",
+   "D": "Endoscopia digestiva alta."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 196,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante un paciente inmunodeprimido con clínica de odinofagia intensa, pirosis, e incluso disfagia a sólidos y parcialmente a líquidos, que en endoscopia digestiva alta presenta hallazgos de úlceras en pared de esófago en sacabocados, ¿el germen más frecuente implicado será?",
+  "opciones": {
+   "A": "Cándida albicans",
+   "B": "Pneumocystis",
+   "C": "Citomegalovirus",
+   "D": "Virus herpes simple tipo 1"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 197,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes no es un factor desencadenante de encefalopatía hepática?",
+  "opciones": {
+   "A": "Tratamiento con diuréticos tiazídicos",
+   "B": "Tratamiento con diuréticos de asa",
+   "C": "Administración de sedantes como benzodiacepinas",
+   "D": "Tratamiento con diuréticos ahorradores de potasio"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 198,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes datos clínicos NO es característicos de la encefalopatía hepática grado II?",
+  "opciones": {
+   "A": "Desorientación temporal, bradipsiquia o disartria",
+   "B": "Fetor hepático y asterixis (Siempre presente en este estadio)",
+   "C": "Cambios en la personalidad o disminución de la memoria.",
+   "D": "Rigidez involuntaria al realizar movimientos pasivos, hiperreflexia y clonus, así como signos de Babisnki positivo."
+  },
+  "respuesta_correcta": "D"
+ }
+]

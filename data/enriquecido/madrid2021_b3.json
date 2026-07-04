@@ -1,0 +1,482 @@
+[
+  {
+    "id_examen": 41,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Una mujer de 82 años acude a consulta con su hija, quien menciona que en los últimos 3 meses ha notado que su madre come mucho menos, ha perdido interés en la comida y ha adelgazado considerablemente. Se le hace un cribado de estado nutricional en la consulta usando la escala de Mini Nutritional Assessment - Short Form (MNA-SF), obteniendo 10 puntos en total. ¿Esto que nos indica?",
+    "opciones": {
+      "A": "La paciente se encuentra en riesgo de malnutrición",
+      "B": "La paciente se encuentra con un estado nutricional satisfactorio",
+      "C": "Ninguna de las anteriores es correcta",
+      "D": "La paciente se encuentra malnutrida"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 97,
+      "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+    },
+    "explicacion": {
+      "correcta": "En la escala MNA-SF, una puntuación entre 8 y 11 indica riesgo de malnutrición, mientras que 12-14 puntos corresponde a estado nutricional normal y 7 puntos o menos indica malnutrición establecida. Con 10 puntos, esta paciente se sitúa en la franja de riesgo de malnutrición, lo que obliga a intervención nutricional precoz para evitar su progresión.",
+      "incorrectas": {
+        "B": "Una puntuación de 10 puntos en el MNA-SF no corresponde a estado nutricional satisfactorio, que requeriría 12-14 puntos.",
+        "C": "La opción A es correcta según los puntos de corte validados del MNA-SF, por lo que esta respuesta es incorrecta.",
+        "D": "La malnutrición establecida en el MNA-SF se define con 7 puntos o menos; con 10 puntos la paciente está en riesgo pero no todavía en malnutrición franca."
+      }
+    }
+  },
+  {
+    "id_examen": 42,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Una paciente de 75 años ingresada por colecistitis aguda comienza con diarrea y fiebre en el quinto día de tratamiento con Piperacilina-tazobactam, con buena tolerancia oral. Sus antecedentes médicos son diabetes mellitus tipo 2, hipotiroidismo y valvulopatía mitral con fibrilación auricular permanente. La toxina de Clostridioides difficile en heces es positiva, y en la analítica destaca una creatinina sérica de 1.9 mg/dl (siendo la previa 0.8 mg/dl), 19.580 leucocitos/microl y un lactato sérico normal. La paciente mantiene cifras de tensión arterial normales. Señale lo correcto sobre este caso:",
+    "opciones": {
+      "A": "La presencia de fiebre, leucocitosis > 15.000 cels, y aumento de la creatinina sérica > 50% de su valor basal definen el caso como fulminante.",
+      "B": "La edad no es un factor de riesgo de infección grave.",
+      "C": "La paciente presenta factores de riesgo de recurrencia, por lo que se debe considerar el uso de fidaxomicina.",
+      "D": "Se deben administrar metronidazol intravenoso y probióticos si no puede suspenderse el antibiótico pautado"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La paciente tiene múltiples factores de riesgo de recurrencia de infección por C. difficile: edad avanzada (75 años), uso de antibióticos de amplio espectro (piperacilina-tazobactam), comorbilidades (DM2, valvulopatía) y episodio inicial. Las guías actuales recomiendan fidaxomicina sobre vancomicina cuando existen factores de riesgo de recurrencia, dado que reduce significativamente su tasa.",
+      "incorrectas": {
+        "A": "El caso fulminante por C. difficile se define por hipotensión, shock o íleo/megacolon, no simplemente por leucocitosis, fiebre y elevación de creatinina, que corresponden a enfermedad grave no fulminante.",
+        "B": "La edad avanzada (>65 años) es uno de los principales factores de riesgo reconocidos para infección grave y recurrencia por C. difficile, por lo que esta afirmación es falsa.",
+        "D": "El metronidazol intravenoso solo se añade en casos fulminantes con íleo; el tratamiento estándar de la infección grave es vancomicina o fidaxomicina oral, y los probióticos no tienen indicación establecida en las guías para el tratamiento de C. difficile."
+      }
+    }
+  },
+  {
+    "id_examen": 43,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Señale la falsa acerca del adenocarcinoma de pulmon:",
+    "opciones": {
+      "A": "El adenocarcinoma in situ consiste en una lesión <3cm con patrón lepídico puro.",
+      "B": "El adenocarcinoma mínimamente invasivo tiene una supervivencia a 5 años sin enfermedad cercana al 100% después de la resección completa del tumor.",
+      "C": "Los adenocarcinomas invasores con patrón micropapilar tienen mejor pronóstico que los que tienen patrón acinoso.",
+      "D": "La proliferación atípica de neumocitos tipo II de hasta 0,5cm se considera una lesión preinvasiva."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 53,
+      "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+    },
+    "explicacion": {
+      "correcta": "El enunciado pide la afirmación FALSA. El patrón micropapilar en el adenocarcinoma invasor de pulmón se asocia a peor pronóstico (mayor tasa de recurrencia y metástasis ganglionares) en comparación con el patrón acinoso, que tiene un pronóstico intermedio-favorable; por tanto, afirmar que el micropapilar tiene mejor pronóstico es incorrecto.",
+      "incorrectas": {
+        "A": "Es verdadera: el adenocarcinoma in situ (antes carcinoma bronquioloalveolar) se define como lesión menor de 3 cm con crecimiento lepídico puro sin invasión estromal, vascular ni pleural.",
+        "B": "Es verdadera: el adenocarcinoma mínimamente invasivo (AMI), con componente invasivo menor de 5 mm, tiene supervivencia libre de enfermedad a 5 años cercana al 100% tras resección completa.",
+        "D": "Es verdadera: la hiperplasia adenomatosa atípica (HAA), proliferación de neumocitos tipo II de hasta 0,5 cm, se clasifica como lesión preinvasiva en la clasificación de la OMS."
+      }
+    }
+  },
+  {
+    "id_examen": 44,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Mujer de 80 años que acude a consulta acompañada por su hija, que refiere en los últimos seis meses enlentecimiento del pensamiento, falta de concentración y disminución de la memoria a corto plazo. Aporta analítica de atención primaria con niveles bajos de T4 y elevados de TSH. Señale la correcta en este contexto:",
+    "opciones": {
+      "A": "La reposición de la hormona tiroidea produce una recuperación completa del estado cognitivo",
+      "B": "La recuperación cognitiva es inmediata, normalmente en el primer mes del inicio del tratamiento.",
+      "C": "En el caso del deterioro cognitivo asociado a hipotiroidismo subclínico, debe valorarse riesgo/beneficio y suspender el tratamiento en pacientes que no parezcan tener un beneficio clínico.",
+      "D": "La disfunción cognitiva es infrecuente, se presenta en menos del 10% de los casos"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 73,
+      "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "En el hipotiroidismo subclínico, la evidencia de beneficio cognitivo con levotiroxina es limitada, especialmente en ancianos, donde el tratamiento puede asociarse a riesgos (fibrilación auricular, osteoporosis). Las guías recomiendan una evaluación individualizada del riesgo-beneficio y suspender el tratamiento si no se observa mejoría clínica objetivable, ya que no existe recuperación cognitiva garantizada.",
+      "incorrectas": {
+        "A": "La recuperación cognitiva con tratamiento sustitutivo es variable y frecuentemente incompleta, especialmente en pacientes ancianos con deterioro prolongado; afirmar que es completa es incorrecto.",
+        "B": "La recuperación cognitiva tras inicio de levotiroxina es gradual y puede tardar varios meses, no se produce de forma inmediata en el primer mes.",
+        "D": "La disfunción cognitiva es una manifestación frecuente del hipotiroidismo, presentándose en una proporción significativamente superior al 10% de los pacientes afectados."
+      }
+    }
+  },
+  {
+    "id_examen": 45,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Respecto al tratamiento de las complicaciones de la pancreatitis aguda, señale la respuesta correcta:",
+    "opciones": {
+      "A": "La antibioticoterapia profiláctica mejora la supervivencia en los pacientes con pancreatitis grave.",
+      "B": "Los pacientes con los triglicéridos séricos > 1 000 mg/100 mL deben ser manejados de manera precoz con plasmaféresis o heparina",
+      "C": "Es útil la aspiración percutánea con aguja fina de la zona necrótica con tinción de Gram y cultivo del material obtenido si hay signos de posible infección pancreática (leucocitosis sostenida, fiebre o insuficiencia orgánica)",
+      "D": "Los pacientes con manifestaciones de colangitis ascendente (leucocitosis cada vez mayor, incremento de la concentración de enzimas hepáticas) deben ser sometidos a ERCP tras 7 días de tratamiento antibiótico"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 63,
+      "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "Cuando existen signos clínicos de posible infección pancreática (fiebre persistente, leucocitosis sostenida, deterioro clínico o fallo orgánico) la aspiración percutánea con aguja fina (PAAF) guiada por imagen de las áreas necróticas, con tinción de Gram y cultivo, es el método estándar para distinguir necrosis estéril de necrosis infectada y guiar la indicación de intervención quirúrgica o de drenaje.",
+      "incorrectas": {
+        "A": "Los ensayos clínicos controlados no han demostrado que la antibioterapia profiláctica reduzca la mortalidad ni la tasa de infección en pancreatitis grave, y su uso sistemático no está recomendado por las guías actuales.",
+        "B": "En la pancreatitis hipertrigliceridémica la primera medida es la restricción de lípidos y el ayuno; la plasmaféresis o la insulina en infusión se reservan para casos seleccionados con triglicéridos muy elevados, pero no son el manejo estándar de primera línea para todos los pacientes.",
+        "D": "La colangitis ascendente asociada a pancreatitis biliar es una emergencia que requiere ERCP urgente (en las primeras 24-72 horas), no diferida hasta 7 días después de iniciar antibióticos."
+      }
+    }
+  },
+  {
+    "id_examen": 46,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Señale la respuesta CORRECTA en relación con el tratamiento de los pacientes con hipertensión",
+    "opciones": {
+      "A": "Los IECA están recomendados en la hipertensión del embarazo",
+      "B": "En pacientes con un ictus previo se debe priorizar el tratamiento con betabloqueantes, antagonistas del calcio y diuréticos",
+      "C": "Los betabloqueantes se deben evitar en pacientes con HTA de predominio sistólico",
+      "D": "El betabloqueante es más efectivo que la espironolactona en pacientes con HTA resistente"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 52,
+      "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+    },
+    "explicacion": {
+      "correcta": "En la hipertensión sistólica aislada, característica del paciente anciano, los betabloqueantes son menos eficaces para reducir la presión arterial sistólica y aumentan la presión de pulso central; además, el descenso de la frecuencia cardíaca que producen puede exacerbar la rigidez arterial, por lo que las guías ESC/ESH recomiendan evitarlos como fármaco de primera línea en este contexto.",
+      "incorrectas": {
+        "A": "Los IECA y ARA-II están contraindicados en el embarazo por su teratogenicidad (fetotoxicidad renal y malformaciones), siendo los fármacos de elección la metildopa, labetalol o nifedipino.",
+        "B": "En pacientes con ictus previo las guías priorizan IECA o ARA-II combinados con diuréticos tiazídicos; los betabloqueantes no son fármacos de primera línea en esta indicación específica.",
+        "D": "En la HTA resistente, la espironolactona (antagonista de aldosterona) ha demostrado en ensayos clínicos (PATHWAY-2) ser significativamente más eficaz que los betabloqueantes como cuarto fármaco añadido."
+      }
+    }
+  },
+  {
+    "id_examen": 47,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Uno de los fármacos siguientes no es un inhibidor específico de la recaptación de serotonina y noradrenalina (IRSN):",
+    "opciones": {
+      "A": "Duloxetina",
+      "B": "Velanfaxina",
+      "C": "Sertralina",
+      "D": "Levomilnacipram"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 93,
+      "tema": "Depresión e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La sertralina es un inhibidor selectivo de la recaptación de serotonina (ISRS), no un IRSN. Actúa exclusivamente inhibiendo el transportador de serotonina (SERT) sin actividad significativa sobre el transportador de noradrenalina (NET), a diferencia de los IRSN verdaderos.",
+      "incorrectas": {
+        "A": "La duloxetina es un IRSN prototípico con inhibición equilibrada de la recaptación de serotonina y noradrenalina, indicado en depresión, ansiedad generalizada y dolor neuropático.",
+        "B": "La venlafaxina (también escrita venlafaxina) es el IRSN de referencia; a dosis bajas predomina el efecto serotoninérgico y a dosis altas se suma el noradrenérgico.",
+        "D": "El levomilnacipran es el enantiómero activo del milnacipran y actúa como IRSN con mayor potencia sobre la recaptación de noradrenalina que de serotonina."
+      }
+    }
+  },
+  {
+    "id_examen": 48,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Con respecto a la afectación intersticial en las diferentes enfermedades autoinmunes sistémicas, ¿En cuál de ellas se vería con más frecuencia?",
+    "opciones": {
+      "A": "Miopatías inflamatorias",
+      "B": "Síndrome de Sjögren",
+      "C": "Esclerosis sistémica",
+      "D": "Lupus eritematoso sistémico"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 53,
+      "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+    },
+    "explicacion": {
+      "correcta": "La enfermedad pulmonar intersticial (EPI) es la complicación pulmonar más frecuente y grave de la esclerosis sistémica (esclerodermia), afectando a un 70-80% de los pacientes, especialmente con el subtipo difuso y anticuerpos anti-Scl70. La neumonía intersticial no específica (NSIP) es el patrón histológico predominante y es una de las principales causas de morbimortalidad en esta enfermedad.",
+      "incorrectas": {
+        "A": "Las miopatías inflamatorias (polimiositis y dermatomiositis) se asocian a EPI con frecuencia variable (20-40%), menor que en la esclerodermia, y especialmente cuando hay anticuerpos anti-sintetasa.",
+        "B": "El síndrome de Sjögren puede causar EPI (sobre todo neumonía intersticial linfoide), pero la frecuencia es inferior a la observada en la esclerodermia.",
+        "D": "El lupus eritematoso sistémico es la enfermedad autoinmune que con menos frecuencia produce EPI significativa, siendo más características la pleuritis y la neumonitis lúpica aguda."
+      }
+    }
+  },
+  {
+    "id_examen": 49,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "En un paciente con enfermedad celiaca es cierto que:",
+    "opciones": {
+      "A": "Existe linfocitosis intraepitelial en la biopsia intestinal",
+      "B": "Cursa con atrofia de las criptas",
+      "C": "Se asocia frecuentemente a HLB-27 positivo",
+      "D": "Se asocia con frecuencia a diabetes mellitus tipo 2"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La linfocitosis intraepitelial (aumento de linfocitos T intraepiteliales > 25 por cada 100 enterocitos) es el hallazgo histológico más precoz y universal de la enfermedad celiaca, presente en todos los estadios de Marsh (I-III), siendo por tanto la característica más constante en la biopsia intestinal del duodeno.",
+      "incorrectas": {
+        "B": "En la enfermedad celiaca se produce atrofia de las VELLOSIDADES intestinales (con aplanamiento mucoso), no de las criptas; de hecho, las criptas experimentan hiperplasia compensatoria.",
+        "C": "La enfermedad celiaca se asocia a los alelos HLA-DQ2 y HLA-DQ8, no al HLA-B27, que es el marcador clásico de las espondiloartropatías seronegativas.",
+        "D": "La asociación genética y autoinmune de la celiaca es con la diabetes mellitus tipo 1 (autoinmune), no con la tipo 2; ambas comparten predisposición HLA y mecanismos inmunomediados."
+      }
+    }
+  },
+  {
+    "id_examen": 50,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Un paciente procedente de Bolivia se presenta en el Servicio de Urgencias con un cuadro de convulsiones generalizadas. En el TAC craneal se visualizan un gran número de calcificaciones nodulares. ¿Cuál es el diagnóstico más probable",
+    "opciones": {
+      "A": "Toxoplasmosis cerebral",
+      "B": "Tuberculosis",
+      "C": "Neurocisticercosis",
+      "D": "Amebiasis diseminada"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 85,
+      "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el paciente procedente del trópico. Actuación en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La neurocisticercosis, causada por la larva de Taenia solium, es la parasitosis del sistema nervioso central más frecuente en Latinoamérica y la principal causa de epilepsia adquirida en países endémicos como Bolivia. El hallazgo de múltiples calcificaciones nodulares en la TC craneal en un paciente procedente de zona endémica con convulsiones es el cuadro clínico-radiológico típico de la neurocisticercosis en fase calcificada.",
+      "incorrectas": {
+        "A": "La toxoplasmosis cerebral se presenta típicamente en pacientes inmunodeprimidos (VIH con CD4 bajos) como lesiones hipodensas con realce en anillo y edema perilesional, no como calcificaciones nodulares múltiples.",
+        "B": "La tuberculosis cerebral puede producir calcificaciones, pero habitualmente en forma de tuberculomas únicos o escasos, con clínica subaguda; es mucho menos probable que la neurocisticercosis en este contexto epidemiológico y radiológico.",
+        "D": "La amebiasis raramente afecta al sistema nervioso central, y cuando lo hace produce un absceso único de gran tamaño con necrosis central, no calcificaciones nodulares múltiples."
+      }
+    }
+  },
+  {
+    "id_examen": 51,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Con respecto a los test de detección de la infección tuberculosa basados en la liberación de interferón gamma (IGRAs), ¿cuál de las siguientes afirmaciones es CORRECTA?",
+    "opciones": {
+      "A": "Son más económicos que la Prueba de la Tuberculina (PT)",
+      "B": "Son más reproducibles, pero tienen efecto 'booster'",
+      "C": "Tienen control de anergia",
+      "D": "Son ideales para hacer screening masivos en paises del tercer mundo"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 85,
+      "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el paciente procedente del trópico. Actuación en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Los IGRAs (QuantiFERON-TB Gold y T-SPOT.TB) incluyen un pocillo con mitógeno como control positivo y un pocillo sin antígeno como control negativo, lo que permite detectar la anergia inmunológica del paciente y validar el resultado; esto es una ventaja sobre la prueba de tuberculina, que no puede distinguir entre un resultado negativo verdadero y una anergia.",
+      "incorrectas": {
+        "A": "Los IGRAs son significativamente más costosos que la prueba de tuberculina, lo que limita su uso en países con recursos limitados.",
+        "B": "Los IGRAs no tienen efecto booster (que es un fenómeno exclusivo de la tuberculina al sensibilizar la respuesta inmune con sucesivas aplicaciones intradérmicas); aunque son más específicos, su reproducibilidad test-retest puede variar.",
+        "D": "Precisamente por su alto coste y la necesidad de laboratorio especializado con procesamiento en pocas horas, los IGRAs no son adecuados para cribados masivos en países de bajos ingresos; la tuberculina sigue siendo la herramienta de screening en esos contextos."
+      }
+    }
+  },
+  {
+    "id_examen": 52,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "¿Cuál de las siguientes situaciones es sugestiva de síncope de origen cardiogénico?",
+    "opciones": {
+      "A": "Síncope en decúbito",
+      "B": "Síncope tras sentarse",
+      "C": "Síncope durante la bipedestación",
+      "D": "Síncope tras un esfuerzo"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 51,
+      "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El síncope en decúbito (en posición tumbada) es altamente sugestivo de causa cardiogénica, ya que implica que el mecanismo precipitante es independiente de la postura y de los cambios ortostáticos, señalando una arritmia o disfunción cardíaca como causa directa de la pérdida transitoria de consciencia. Este dato, junto con síncope de esfuerzo, síncope precedido de palpitaciones o sin pródromos, orienta firmemente al origen cardíaco.",
+      "incorrectas": {
+        "B": "El síncope al sentarse no es un patrón clásico de síncope cardiogénico; puede relacionarse con cambios posturales leves, pero es inespecífico.",
+        "C": "El síncope durante la bipedestación es característico del síncope vasovagal u ortostático, ya que el ortostatismo favorece el acúmulo de sangre en extremidades inferiores y la caída del retorno venoso.",
+        "D": "El síncope tras el esfuerzo (no durante el esfuerzo) puede orientar a hipotensión postejercicio o vasovagal; el síncope cardiogénico de esfuerzo se produce DURANTE el esfuerzo (miocardiopatía hipertrófica obstructiva, estenosis aórtica)."
+      }
+    }
+  },
+  {
+    "id_examen": 53,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "¿Cual de las siguientes afirmaciones considera falsa con respecto al recuento de eosinófilos en pacientes con EPOC?",
+    "opciones": {
+      "A": "El recuento de eosinófilos en sangre puede ayudar al médico a tomar decisiones sobre el uso de glucocorticoides inhalados.",
+      "B": "En los pacientes EPOC, en general, el nivel de eosinófilos en sangre es más alto que en personas sanas.",
+      "C": "Hay evidencia suficiente para recomendar el uso de eosinófilos en sangre para predecir el riesgo de exacerbaciones futuras en pacientes con EPOC.",
+      "D": "Los niveles altos de eosinófilos en sangre en pacientes con EPOC se relaciona con mayor número de eosinófilos en los pulmones y mayor inflamación en las vías respiratorias."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 54,
+      "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El enunciado pide la afirmación FALSA. Los pacientes con EPOC no presentan, en general, niveles de eosinófilos en sangre más altos que la población sana; de hecho, la EPOC se caracteriza clásicamente por inflamación neutrofílica. Solo un subgrupo de pacientes EPOC muestra eosinofilia periférica (fenotipo eosinofílico), lo que hace que la afirmación general sea incorrecta.",
+      "incorrectas": {
+        "A": "Es verdadera: las guías GOLD recomiendan usar el recuento de eosinófilos en sangre (punto de corte 100-300 células/µL) para guiar la prescripción de corticoides inhalados en la EPOC estable.",
+        "C": "Es verdadera: existe evidencia que apoya el uso del recuento de eosinófilos para predecir el riesgo de exacerbaciones y la respuesta a corticoides, aunque con limitaciones metodológicas.",
+        "D": "Es verdadera: en los pacientes EPOC con eosinofilia periférica existe correlación con mayor recuento de eosinófilos en esputo y tejido bronquial, lo que indica inflamación eosinofílica de las vías aéreas."
+      }
+    }
+  },
+  {
+    "id_examen": 54,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "¿Cuál es la causa más frecuente diarrea del viajero?",
+    "opciones": {
+      "A": "E.coli enterotoxigénica.",
+      "B": "Campylobacter jejuni.",
+      "C": "Shigella dysenteriae",
+      "D": "Salmonella paratyphi."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "Escherichia coli enterotoxigénica (ETEC) es el agente etiológico responsable de aproximadamente el 30-50% de los casos de diarrea del viajero, siendo con diferencia la causa más frecuente a nivel mundial. Produce una diarrea acuosa a través de la secreción de enterotoxinas termolábil y termoestable que estimulan la hipersecreción intestinal sin invasión de la mucosa.",
+      "incorrectas": {
+        "B": "Campylobacter jejuni es una causa frecuente de diarrea en viajeros, especialmente en Asia, pero ocupa el segundo lugar en frecuencia global tras ETEC.",
+        "C": "Shigella dysenteriae causa disentería bacilar con diarrea sanguinolenta y fiebre, pero es menos frecuente que ETEC como causa de diarrea del viajero.",
+        "D": "Salmonella paratyphi produce fiebre entérica, no la típica diarrea del viajero, y es mucho menos frecuente como agente etiológico en este contexto."
+      }
+    }
+  },
+  {
+    "id_examen": 55,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Los siguientes factores se asocian al desarrollo de cáncer esofágico, excepto:",
+    "opciones": {
+      "A": "Esofagitis cáustica",
+      "B": "Tabaquismo",
+      "C": "Fístulas traqueoesofágicas",
+      "D": "Síndrome de Plummer-Vinson"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 61,
+      "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "Las fístulas traqueoesofágicas son comunicaciones anómalas entre la tráquea y el esófago, generalmente de origen congénito o complicación de neoplasias avanzadas; no son factores predisponentes al desarrollo de cáncer esofágico, sino que pueden ser consecuencia de él cuando el tumor infiltra estructuras adyacentes. El enunciado pide la excepción.",
+      "incorrectas": {
+        "A": "La esofagitis cáustica por ingestión de álcalis produce inflamación crónica y estenosis cicatricial que aumentan el riesgo de carcinoma epidermoide de esófago varias décadas después.",
+        "B": "El tabaquismo es uno de los principales factores de riesgo tanto del carcinoma epidermoide como del adenocarcinoma esofágico, actuando de forma sinérgica con el alcohol en el primero.",
+        "D": "El síndrome de Plummer-Vinson (disfagia, anemia ferropénica y membranas esofágicas postcricoideas) es un factor de riesgo reconocido de carcinoma epidermoide de esófago cervical y faríngeo."
+      }
+    }
+  },
+  {
+    "id_examen": 56,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "En un paciente con melenas de repetición, sin alteraciones en la endoscopia esófago-gastroduodenal y con una colonoscopia hasta ciego normal. Entre los siguientes procedimientos diagnósticos, ¿Cuál solicitaría a continuación?",
+    "opciones": {
+      "A": "Gammagrafía con Tecnecio",
+      "B": "Arteriografía mesentérica",
+      "C": "Cápsula video-endoscópica intestinal",
+      "D": "Yeyunoscopia"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 61,
+      "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "Cuando la EGDS y la colonoscopia son normales, el sangrado se localiza en el intestino delgado (hemorragia de origen oscuro). La cápsula endoscópica es la técnica de primera línea recomendada para la exploración del intestino delgado en pacientes estables con hemorragia digestiva de origen oscuro, con una rentabilidad diagnóstica del 60-70% y sin riesgos significativos.",
+      "incorrectas": {
+        "A": "La gammagrafía con hematíes marcados con Tecnecio-99m es útil en hemorragias activas a tasas bajas (>0,1 ml/min), pero no proporciona localización anatómica precisa ni información morfológica sobre la lesión sangrante.",
+        "B": "La arteriografía mesentérica es más sensible en hemorragias activas de alto débito (>0,5 ml/min) y permite tratamiento simultáneo, pero es invasiva y no indicada como primera exploración en hemorragia oscura de repetición estable.",
+        "D": "La yeyunoscopia (enteroscopia de pulsión o de doble balón) es la segunda línea tras la cápsula endoscópica, reservada cuando esta detecta una lesión susceptible de tratamiento endoscópico o cuando la cápsula no puede realizarse."
+      }
+    }
+  },
+  {
+    "id_examen": 57,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Señale la falsa con respecto a la neumonía intersticial inespecífica (NSIP):",
+    "opciones": {
+      "A": "Generalmente se diagnostica en mujeres no fumadoras alrededor de la quinta década.",
+      "B": "Los datos histológicos son inflamación y fibrosis intersticial de aspecto uniforme y cantidad variable, no hay cambios en panal de abejas.",
+      "C": "La NSIP idiopática tiene un pronóstico relativamente bueno, sobre todo en aquellos con un patrón de NSIP fibrosante.",
+      "D": "En ocasiones se puede observar asociada a enfermedades del tejido conjuntivo."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 53,
+      "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+    },
+    "explicacion": {
+      "correcta": "El enunciado pide la afirmación FALSA. Dentro de la NSIP, son los pacientes con patrón celular (inflamatorio puro, sin fibrosis significativa) los que tienen mejor pronóstico y mayor respuesta al tratamiento corticoideo. El patrón de NSIP fibrosante se asocia a peor pronóstico y menor reversibilidad; afirmar que el patrón fibrosante tiene mejor pronóstico es incorrecto.",
+      "incorrectas": {
+        "A": "Es verdadera: la NSIP afecta predominantemente a mujeres no fumadoras con una media de edad en torno a los 50 años, a diferencia de la UIP/FPI que predomina en varones fumadores mayores.",
+        "B": "Es verdadera: el sello histológico de la NSIP es la homogeneidad temporal y espacial de las lesiones (inflamación y/o fibrosis uniformes), sin el patrón heterogéneo en panal de abejas ni fibroblastos activos de la UIP.",
+        "D": "Es verdadera: la NSIP es el patrón histológico más frecuente en la enfermedad pulmonar intersticial asociada a enfermedades del tejido conjuntivo (esclerodermia, miopatías inflamatorias, síndrome de Sjögren)."
+      }
+    }
+  },
+  {
+    "id_examen": 58,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Las siguientes entidades se asocian de manera característica con la colitis ulcerosa, excepto",
+    "opciones": {
+      "A": "Colangitis esclerosante",
+      "B": "Eritema nodoso",
+      "C": "Colelitiasis",
+      "D": "Uveítis"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La colelitiasis no es una manifestación extraintestinal característica de la colitis ulcerosa. Aunque puede coexistir por otros factores, no forma parte del espectro de complicaciones extraintestinales reconocidas de la colitis ulcerosa; sí se asocia con mayor frecuencia a la enfermedad de Crohn ileocólica (por malabsorción de ácidos biliares), pero no a la CU.",
+      "incorrectas": {
+        "A": "La colangitis esclerosante primaria (CEP) se asocia hasta en el 70-80% de los casos a enfermedad inflamatoria intestinal, y de forma muy característica a la colitis ulcerosa; es la complicación hepatobiliar más importante de la CU.",
+        "B": "El eritema nodoso es la manifestación cutánea más frecuente de la EII, presente en ambas formas pero más característica de la enfermedad de Crohn; se correlaciona con la actividad inflamatoria intestinal.",
+        "D": "La uveítis (anterior) es una manifestación ocular reconocida de la colitis ulcerosa, pudiendo presentarse como epiescleritis o uveítis, en correlación o no con la actividad de la enfermedad."
+      }
+    }
+  },
+  {
+    "id_examen": 59,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Un paciente de 48 años, ha recibido un trasplante renal hace 12 días. Se presenta en la Urgencia con fiebre de 39ºC, leucocitosis y un sedimento urinario patológico. ¿Cuál sería el tratamiento antimicrobiano empírico CORRECTO en este paciente?",
+    "opciones": {
+      "A": "Meropenem + Fluconazol",
+      "B": "Meropenem",
+      "C": "Meropenem + Ganciclovir",
+      "D": "Ganciclovir + Cotrimoxazol + Anfotericina B liposomal"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 83,
+      "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+    },
+    "explicacion": {
+      "correcta": "En el postrasplante renal precoz (primeros 30 días), las infecciones más frecuentes son las bacterianas, especialmente las infecciones urinarias por bacilos gramnegativos, incluyendo enterobacterias resistentes. El sedimento urinario patológico con fiebre y leucocitosis apunta a infección urinaria bacteriana, y la cobertura empírica de amplio espectro con meropenem (carbapenem) es adecuada en este contexto de inmunosupresión y riesgo de gérmenes resistentes, sin necesidad de añadir cobertura antifúngica ni antiviral empírica en ausencia de datos que lo justifiquen.",
+      "incorrectas": {
+        "A": "Añadir fluconazol empírico no está indicado en ausencia de factores de riesgo específicos de candidiasis (fiebre persistente sin foco claro tras antibioterapia, candidemia previa, nutrición parenteral prolongada); el cuadro de este paciente orienta a infección bacteriana urinaria.",
+        "C": "El ganciclovir se usa para tratar o profilaxis de infección por CMV, que en el postrasplante precoz (primeras 2 semanas) es menos probable como causa del cuadro febril con sedimento patológico; no debe añadirse empíricamente sin evidencia de infección viral.",
+        "D": "Esta combinación podría ser apropiada en neutropenia febril de alto riesgo con sospecha de infección fúngica invasora, pero no en un paciente con trasplante renal precoz y focalidad urinaria clara."
+      }
+    }
+  },
+  {
+    "id_examen": 60,
+    "fuente": "Examen OPE Medicina Interna Madrid 2021",
+    "enunciado": "Un varón de 55 años se sometió a cirugía de bypass gastroyeyunal por obesidad mórbida hace año y medio. Desde hace 6 meses sufre episodios de dolor recurrente en hipocondrio derecho siendo diagnosticado de colelitiasis. ¿Cuál de los siguientes mecanismos se considera principal en el desarrollo de colelitiasis tras cirugía bariátrica?",
+    "opciones": {
+      "A": "Incremento en la secreción de ácido gástrico",
+      "B": "Aumento en la concentración de colesterol biliar asociado a pérdida rápida de peso",
+      "C": "Alteraciones en la motilidad biliar",
+      "D": "Disminución en el tamaño de la vesícula"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 62,
+      "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+    },
+    "explicacion": {
+      "correcta": "Durante la pérdida de peso rápida que sigue a la cirugía bariátrica, la movilización masiva de grasa corporal incrementa la secreción hepática de colesterol a la bilis, saturando la bilis y promoviendo la formación de cristales de colesterol y cálculos biliares. Este mecanismo de supersaturación biliar de colesterol es el principal responsable de la alta incidencia de colelitiasis (30-40%) en los primeros 6 meses tras el bypass gástrico.",
+      "incorrectas": {
+        "A": "El incremento en la secreción de ácido gástrico no tiene relación directa con la formación de cálculos biliares; además, tras el bypass gastroyeyunal el remanente gástrico y la producción ácida están reducidos.",
+        "C": "Las alteraciones en la motilidad biliar (hipomotilidad de la vesícula) contribuyen al estasis biliar y pueden favorecer la litogénesis, pero se consideran un mecanismo secundario o coadyuvante, no el principal.",
+        "D": "La disminución del tamaño de la vesícula no es un mecanismo relevante en la formación de cálculos; si acaso, una vesícula pequeña con mayor frecuencia de vaciamiento reduciría el riesgo de estasis y litogénesis."
+      }
+    }
+  }
+]

@@ -1,0 +1,1322 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Según la Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, todas las personas tienen derecho a acceder a los servicios públicos de Salud, en condiciones de:",
+  "opciones": {
+   "A": "Igualdad, universalidad y calidad.",
+   "B": "Igualdad, dignidad y participación.",
+   "C": "Universalidad, dignidad y transparencia.",
+   "D": "Calidad, participación y universalidad."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación a la Bioética: ¿qué afirmación es cierta?",
+  "opciones": {
+   "A": "La Ley 14/2007, de 3 de julio, de Investigación biomédica crea el Comité de Bioética de España y los de las comunidades autónomas como órganos colegiados e independientes y de carácter consultivo.",
+   "B": "La ciencia y la sociedad prevalecen sobre los intereses del ser humano que participa en una investigación.",
+   "C": "La medicina defensiva se relaciona con el principio de no maleficencia.",
+   "D": "La investigación con muestras biológicas obtenidas con finalidad distinta a la de la investigación no requiere del consentimiento del paciente si se ha procedido a su anonimización."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En los ensayos clínicos señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El análisis por protocolo es un análisis de los datos de un ensayo clínico relacionados únicamente con los participantes que han completado el plan de tratamiento y han seguido exactamente las instrucciones del protocolo del ensayo.",
+   "B": "El análisis por intención de tratar es una forma de analizar los resultados que considera a todos los individuos ingresados al estudio de acuerdo al grupo al que fueron asignados originalmente siempre que hayan cumplido con el protocolo.",
+   "C": "Se dice que un ensayo clínico es válido si permite asegurar que el efecto observado es debido a la diferente intervención que ha recibido el grupo de intervención y el grupo control y no a otros factores que puedan haber producido una falsa conclusión.",
+   "D": "El estudio experimental más frecuente es el ensayo clínico aleatorio que se corresponde con un diseño experimental entre grupos donde se compara los desenlaces observados en dos o más grupos de individuos que reciben diferentes tratamientos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación a la calidad en el Sistema Nacional de Salud ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "La calidad es un concepto multidimensional y estático.",
+   "B": "La satisfacción del paciente es parte del proceso asistencial y debe valorarse mediante encuestas y analizando sugerencias y reclamaciones.",
+   "C": "La Ley de cohesión y calidad prevé un registro de sucesos adversos de carácter general.",
+   "D": "El análisis causa raíz está vinculado al análisis de los sucesos centinela."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "La Ley 41/2002, de 14 de noviembre, cuando se refiere al derecho de acceso a la historia clínica en su Artículo 18, establece que:",
+  "opciones": {
+   "A": "El paciente tiene el derecho de acceso sin reserva ninguna a la documentación de la historia clínica.",
+   "B": "El derecho de acceso del paciente a la historia clínica podrá ser ejercido únicamente por el propio paciente.",
+   "C": "El acceso a la historia clínica del paciente fallecido podrá facilitarse a las personas vinculadas a él siempre que así lo soliciten.",
+   "D": "El derecho de acceso del paciente a la historia clínica podrá ejercerse también por representación debidamente acreditada."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al gobierno clínico, ¿qué afirmación es FALSA?",
+  "opciones": {
+   "A": "Los principios del gobierno clínico consolidan la correlación entre eficiencia y calidad en los servicios sanitarios.",
+   "B": "Este concepto fue establecido para el Sistema de Salud Británico en sus orígenes.",
+   "C": "En este concepto no se incluye la gestión del riesgo.",
+   "D": "Es un concepto que abarca un trabajo conjunto entre clínicos: médicos, enfermeros, etc. y de éstos con los pacientes."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "NO es un principio general de actuación de los poderes públicos aragoneses, en materia de igualdad:",
+  "opciones": {
+   "A": "La integración de la igualdad de trato y oportunidades entre mujeres y hombres en el conjunto de las políticas.",
+   "B": "La participación y representación equilibrada de mujeres y hombres en todos los ámbitos de decisión públicos y privados.",
+   "C": "El establecimiento de medidas para la conciliación de la vida laboral, familiar y personal de mujeres y hombres.",
+   "D": "La protección de la maternidad, dependiendo del modelo de familia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En estadística aplicada a los estudios de Medicina, señale la respuesta FALSA respecto a la regresión de Poisson:",
+  "opciones": {
+   "A": "La principal bondad del modelo es que es capaz de captrurar la naturaleza discreta y no negativa de los datos de recuento.",
+   "B": "Determina que variables explicativas tienen un efecto en una variable de respuesta.",
+   "C": "Se aplica a varios fenómenos de la naturaleza cuando la probabilidad de ocurrencia del fenómeno no es constante en el tiempo o en el espacio.",
+   "D": "Se aplica para enfermedades y eventos de alta frecuencia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿En qué situación administrativa se encuentra quien está de Incapacidad Temporal?",
+  "opciones": {
+   "A": "Servicio activo.",
+   "B": "Servicios especiales.",
+   "C": "Suspensión de funciones.",
+   "D": "Excedencia."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El Servicio de Salud en Todas las Políticas se estructura dentro del Departamento en:",
+  "opciones": {
+   "A": "Dirección General de Salud Pública.",
+   "B": "Secretaría General Técnica.",
+   "C": "Dirección General de Asistencia Sanitaria.",
+   "D": "Dirección General de Transformación Digital, Innovación y Derechos de los Usuarios."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En un paciente con Enfermedad Pulmonar Obstructiva Crónica (EPOC) de 62 años y oxigenoterapia domiciliaria que acude a urgencias por exacerbación, tos y expectoración productiva y que presenta, tras haber iniciado tratamiento, 20 respiraciones por minuto, una PO2 de 60 mmHg, pH de 7,40, frecuencia cardiaca de 90 lpm, indica la respuesta correcta:",
+  "opciones": {
+   "A": "El paciente tiene una exacerbación grave de EPOC y precisa intubación orotraqueal urgente.",
+   "B": "El paciente precisa ventilación mecánica no invasiva de inmediato.",
+   "C": "El paciente tiene una exacerbación leve con alta probabilidad de alta hospitalaria y tratamiento ambulatorio.",
+   "D": "Se debe indicar ingreso hospitalario y suspender oxigenoterapia domiciliaria."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique cuál es la pauta inicial de antiagregación que debemos utilizar, en un paciente que NO está en tratamiento con antiagregantes, en el SCACEST que NO es candidato a tratamiento de reperfusión:",
+  "opciones": {
+   "A": "AAS (150-300 mg vo) y Clopidogrel (75mg vo).",
+   "B": "AAS (150-300 mg vo) y Ticagrelor (200 mg vo).",
+   "C": "AAS (150-300 mg vo) o Clopidogrel (75 mg vo) si AAS contraindicado.",
+   "D": "AAS (150-300 mg vo) y Clopidogrel 300 mg vo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la crisis asmática de instauración rápida:",
+  "opciones": {
+   "A": "Se producen por un mecanismo de broncoconstricción.",
+   "B": "Pueden ser desencadenadas por AINES.",
+   "C": "La respuesta terapéutica es más lenta.",
+   "D": "Conllevan mayor riesgo vital que las de instauración lenta."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique la respuesta INCORRECTA, respecto a las recomendaciones en Soporte Vital Básico en Adultos, según las guías del Consejo Europeo de Resucitación (ERC) 2021:",
+  "opciones": {
+   "A": "Realice las compresiones en la mitad inferior del esternón («en el centro del pecho»).",
+   "B": "Comprima hasta una profundidad de al menos 5 cm, pero no más de 6 cm.",
+   "C": "Comprima el tórax a un ritmo de 100-120 minutos con el menor número de interrupciones posible.",
+   "D": "Deje que el tórax se re-expanda completamente después de cada compresión; permaneciendo apoyado en el tórax."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señala la respuesta correcta acerca de las fracturas de diáfisis de cúbito y radio en niños incompletas o en tallo verde:",
+  "opciones": {
+   "A": "La pseudoartrosis es una complicación frecuente.",
+   "B": "La reducción abierta y fijación interna son necesarias en la mayoría de los casos.",
+   "C": "A menor edad del niño mayor potencial de remodelación.",
+   "D": "La osteomielitis es la complicación más frecuente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta correcta acerca del uso de la succinilcolina como agente bloqueante neuromuscular (BNM) en la secuencia de intubación rápida en urgencias:",
+  "opciones": {
+   "A": "La recuperación plena del bloqueo neuromuscular tiene lugar en 30 segundos.",
+   "B": "La hiperpotasemia no es un efecto secundario.",
+   "C": "En pacientes con traumatismo oculares penetrantes y elevación de la presión intraocular e intracraneal el agente de elección como BNM es la succinilcolina.",
+   "D": "La acción despolarizante de la succinilcolina provoca fasciculaciones que se pueden reducir con el uso de un BNM competitivo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En cuanto al tratamiento del shock anafiláctico señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Los corticoides como la metilprednisolona son la primera opción en el tratamiento del shock anafiláctico por su efecto inmediato.",
+   "B": "Se administrarán antihistamínicos como la dexclorfeniramina a dosis de 5 mg/8 horas por vía intravenosa, asociados a antihistamínicos H2 como ranitidina a dosis de 50 mg/8 horas por vía intravenosa.",
+   "C": "Las medidas iniciales de tratamiento incluyen asegurar la vía aérea, mejorar la oxigenación y estabilizar la circulación mediante la administración de líquidos en bolos.",
+   "D": "La adrenalina se puede administrar por vía subcutánea en dosis de 0,4 mg o por vía intravenosa a la misma dosis, pudiendo repetirse si no hay respuesta."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el paciente oncológico con neutropenia febril señale cuál es un indicador de bajo riesgo:",
+  "opciones": {
+   "A": "Foco infeccioso documentado.",
+   "B": "Tumor sólido.",
+   "C": "Procalcitonina mayor de 0,05 ng/ml.",
+   "D": "Neoplasia hematológica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes enunciados considera INCORRECTO con relación a las epistaxis?",
+  "opciones": {
+   "A": "El 90% se originan en el plexo de Kiesselbach.",
+   "B": "Las epistaxis posteriores son mas frecuentes en ancianos con HTA.",
+   "C": "La endoscopia nasal es de gran utilidad en epistaxis posteriores.",
+   "D": "Entre las primeras medidas adoptar,mientras se toman las constantes vitales, se procederá a obtener pruebas analíticas y control de coagulación."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Una herramienta para despistaje de probable depresión de un paciente es el índice de KATZ.",
+   "B": "Una herramienta para el despistaje de probable deterioro cognitivo de un paciente es el test de Pfeiffer.",
+   "C": "El índice de Barthel es un instrumento utilizado para la valoración funcional de un paciente.",
+   "D": "La situación funcional es un potente factor pronostico en diferentes procesos agudos como insuficiencia cardíaca o la infección."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes criterios diagnósticos NO se corresponde con una cetoacidosis diabética?",
+  "opciones": {
+   "A": "pH mayor de 7,35.",
+   "B": "Cetonuria positiva (++/+++) o cetonemia en sangre capilar mayor de 3 mmol/L.",
+   "C": "Anión GAP mayor de 16.",
+   "D": "Bicarbonato menor de 15 mmol/L y/o pH menor de 7,30."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál NO es un criterio de Ranson a evaluar a las 48 horas de evolución tras el ingreso en la pancreatitis aguda alcohólica?",
+  "opciones": {
+   "A": "Descenso del hematocrito mayor de 10%.",
+   "B": "Calcemia menor de 8.",
+   "C": "LDH mayor de 350 UI/L.",
+   "D": "Leucocitosis mayor de 16.000/mm3."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 23,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En la hiponatremia (concentración plasmática de sodio menor de 135 meq/l), todas son ciertas EXCEPTO:",
+  "opciones": {
+   "A": "Se considera hiponatremia grave cuando la concentración sérica de sodio es menor de 115 meq/l.",
+   "B": "Se considera hiponatremia grave cuando existen síntomas neurológicos acompañados a cifras bajas de sodio.",
+   "C": "El tratamiento de la hiponatremia depende de su gravedad y del volumen extracelular existente.",
+   "D": "La corrección de la natremia es urgente y debe realizarse en menos de 8 horas para evitar complicaciones graves."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál es el germen que más frecuentemente produce laringitis aguda en la infancia?",
+  "opciones": {
+   "A": "Parainfluenza tipo 1.",
+   "B": "Haemophilus influenzae tipo B.",
+   "C": "Mycoplasma pneumoniae.",
+   "D": "Citomegalovirus."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes signos es tardío respecto a las manifestaciones clínicas de la isquemia arterial aguda?",
+  "opciones": {
+   "A": "Dolor.",
+   "B": "Parestesias.",
+   "C": "Cianosis.",
+   "D": "Abolición de pulsos distales."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación con la escala SOFA, utilizada en el diagnóstico del shock séptico, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Una variación de dos o más puntos en la escala SOFA refleja aumento del riesgo de muerte.",
+   "B": "Entre otros parámetros considera la determinación de transaminasas hepáticas.",
+   "C": "La valoración del nivel de conciencia se realiza mediante la escala de Glasgow.",
+   "D": "En el medio extrahospitalario o en ausencia de datos analíticos, es de utilidad la escala quick-SOFA."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En un paciente hipotenso y con elevación de la presión intracraneal en el que es necesario aislamiento de vía aérea, ¿qué combinación de los siguientes fármacos utilizarías en la parálisis con inducción?",
+  "opciones": {
+   "A": "Propofol 2 mg /kg de peso + succinil colina 15 mg/kg de peso.",
+   "B": "Etomidato 3 mg /kg de peso + succinilcolina 1,5 mg /kg de peso.",
+   "C": "Propofol 2 mg/ kg de peso + Rocuronio 0,6-1,2 mg/kg peso.",
+   "D": "Etomidato 0,3 mg/kg de peso + Rocuronio 0,6-1,2 mg/kg de peso."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indica la respuesta correcta en el tratamiento con broncodilatadores en la agudización de la Enfermedad Pulmonar Obstructiva Crónica (EPOC):",
+  "opciones": {
+   "A": "La asociación de un agonista betaadrenérgico de acción rápida como salbutamol y un anticolinérgico de acción rápida como el bromuro de ipratropio ya no se utilizan por no haber demostrado su utilidad en la agudización de la EPOC.",
+   "B": "Los anticolinérgicos de larga duración como el glicopirronio son de primera elección en el Box de urgencias en la agudización grave de EPOC.",
+   "C": "La teofilina intravenosa a dosis inicial de unos 5 mg por kg de peso ideal está indicada en la agudización grave de EPOC cuando hay fracaso del tratamiento broncodilatador.",
+   "D": "Los corticoides intravenosos no aportan beneficio en el tratamiento de la EPOC."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿En cuál de las siguientes situaciones está CONTRAINDICADO el uso del Isoproterenol?:",
+  "opciones": {
+   "A": "En la intoxicación por betabloqueantes como segunda opción.",
+   "B": "En el bloqueo A-V de 2º grado Mobitz1 sintomático que no responde a Atropina.",
+   "C": "En el infarto agudo de miocardio reciente.",
+   "D": "En la bradicardia en pacientes con trasplante cardiaco."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "La elevación de la temperatura corporal de más de 1 ºC durante la transfusión o tras un tiempo máximo de 2 horas después de haberla finalizado se denomina:",
+  "opciones": {
+   "A": "Reacción alérgica.",
+   "B": "Reacción hemolítica aguda.",
+   "C": "Reacción transfusional masiva.",
+   "D": "Reacción febril, no hemolítica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación con el tratamiento de un paciente con hemorragia digestiva alta (HDA) secundaria a varices esofágicas NO realizaremos:",
+  "opciones": {
+   "A": "Reanimación hemodinámica.",
+   "B": "Gastroscopia diferida pasadas las 12 horas.",
+   "C": "Mantener plaquetas por encima de 50.000 por milímetro cúbico.",
+   "D": "Administrar fármacos vasoactivos como la Terlipresina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Sobre la utilización de biomarcadores para el diagnóstico de infección bacteriana y sepsis en Urgencias, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La Proteína C Reactiva presenta limitaciones y su capacidad pronóstica y diagnóstica en infecciones bacterianas y sepsis es insuficiente, pero superior al recuento leucocitario.",
+   "B": "La Procalcitonina muestra superioridad frente a la Proteína C Reactiva para distinguir infecciones bacterianas de otras causas de respuesta inflamatoria.",
+   "C": "El lactato es considerado el mejor marcador de hipoxia tisular.",
+   "D": "La Proteína C Reactiva es el biomarcador con mayor rendimiento individual para ser utilizado como factor predictivo de bacteriemia en los Servicios de Urgencias."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿En cuál de estas arritmias NO está indicado realizar cardioversión eléctrica?",
+  "opciones": {
+   "A": "Taquicardia ventricular.",
+   "B": "Fibrilación auricular en paciente con preexcitación.",
+   "C": "Ritmo nodal.",
+   "D": "Fluter izquierdo post ablación de venas pulmonares."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes síntomas NO aparece en el Botulismo?",
+  "opciones": {
+   "A": "Clínica gastrointestinal: vómitos, diarreas.",
+   "B": "Diplopia.",
+   "C": "Disfagia.",
+   "D": "Miosis."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué parámetro de los siguientes NO se evalúa en la escala RTS (Revised Trauma Score)?",
+  "opciones": {
+   "A": "Frecuencia cardíaca.",
+   "B": "Frecuencia respiratoria.",
+   "C": "Tensión arterial.",
+   "D": "Escala de Glasgow."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En la exploración de un paciente con síndrome de Brown Sequard NO encontraremos:",
+  "opciones": {
+   "A": "Afectación motora ipsilateral.",
+   "B": "Pérdida de sensibilidad termoalgésica contralateral.",
+   "C": "Pérdida de sensibilidad vibratoria contralateral.",
+   "D": "Pérdida de sensibilidad propioceptiva ipsilateral."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En un paciente que acude a urgencias con cifras de tensión arterial elevada e insuficiencia renal con o sin diarrea previa ¿Qué hallazgos harán sospechar un Síndrome Hemolítico Urémico?",
+  "opciones": {
+   "A": "Anemia, trombopenia y elevación de lactato deshidrogenasa (LDH) en sangre.",
+   "B": "Poliglobulia, trombocitosis y descenso de lactato deshidrogenasa (LDH) en sangre periférica.",
+   "C": "Poliuria, alcalosis metabólica y trombocitosis.",
+   "D": "Anemia, trombocitosis y descenso de lactatodeshidrogenasa (LDH) en sangre ."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Varón de 23 años, se encontraba con sus amigos de acampada en el Pirineo cuando es traído al Servicio de Urgencias de un Hospital Comarcal por pérdida de fuerza de extremidad inferior derecha desde hace 90 minutos. En la entrevista niega antecedentes de interés, ni intervenciones quirúrgicas. Hace 2 semanas se realizó la extracción de un molar y posteriormente presentó 2 días de fiebre que cedió con antipiréticos. Actualmente afebril y estable hemodinámicamente. Tras la valoración inicial del paciente decidimos solicitar analítica completa y TAC cerebral con el objetivo de:",
+  "opciones": {
+   "A": "Descartar signos de hipertensión intracraneal (HTIC) para realizar una punción lumbar.",
+   "B": "Descartar la presencia de signos que sugieran edema secundario a una encefalitis herpética.",
+   "C": "Aportar la historia completa para su posterior traslado a un hospital terciario con servicio de Neurocirugía.",
+   "D": "Descartar la presencia de absceso cerebral."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Qué afirmación de las siguienes es INCORRECTA respecto a las quemaduras:",
+  "opciones": {
+   "A": "La lesión de vía aérea supraglótica se produce por insulto térmico directo.",
+   "B": "La lesión de vía aérea subglótica se produce por acción tóxica directa de gases, hollín.",
+   "C": "Las quemaduras profundas de 4º grado precisan menos necesidades de líquidos.",
+   "D": "El vello facial chamuscado, esputo carbonáceo, hollín en boca, suponen una situación de riesgo potencial de compromiso de vía aérea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señala la respuesta INCORRECTA acerca de la hiperpotasemia en la insuficiencia renal crónica:",
+  "opciones": {
+   "A": "Un electrocardiograma normal descarta hiperpotasemia grave.",
+   "B": "El tratamiento eficaz más rápido de la hiperpotasemia grave con alteraciones electrocardiagráficas son los diuréticos intravenosos.",
+   "C": "El uso de calcio intravenoso revierte las manifestaciones cardiacas de la hiperpotasemia sin alterar el nivel de potasio sérico.",
+   "D": "Las dosis repetidas de bicarbonato sódico suponen un riesgo de edema pulmonar."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA en el síndrome escrotal agudo por torsión testicular?",
+  "opciones": {
+   "A": "Dolor a la palpación del hemiescroto afectado.",
+   "B": "El testículo puede estar ascendido y horizontalizado.",
+   "C": "El reflejo cremastérico esta exaltado.",
+   "D": "La elevación del testículo no calma el dolor."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué enunciado es FALSO en la crisis addisoniana?",
+  "opciones": {
+   "A": "El diagnóstico es eminentemente clínico.",
+   "B": "La hipoglucemia es más frecuente en la insuficiencia suprarrenal secundaria o terciaria.",
+   "C": "Es muy frecuente encontrar acidosis metabólica.",
+   "D": "El tratamiento no se inicia hasta la confirmación diagnóstica mediante la determinación hormonal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique la prueba de mayor especificidad diagnostica ante una hemoptisis:",
+  "opciones": {
+   "A": "Angio-Tac.",
+   "B": "Broncoscopia.",
+   "C": "Arteriografia.",
+   "D": "Rx Torax."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Varón de 83 años con antecedentes de hipertensión arterial, diabetes y cardiopatía isquémica que es traído por su familia a Urgencias por presentar dolores torácicos intermitentes y disnea en las últimas 24 horas. El paciente se muestra estuporoso, con retardo en el relleno capilar, TA 79/52 mmHg, FC: 101 lpm, FR: 27 rpm, saturación basal en pulsioximetría de 85%. ¿Cuál de las siguientes medidas NO consideraría prioritaria en la atención inicial del paciente?",
+  "opciones": {
+   "A": "Monitorización del trazado ECG y de la TA.",
+   "B": "Administración de nitroglicerina en perfusión continua.",
+   "C": "Considerar la administración de fármacos inotrópicos y/o vasopresores.",
+   "D": "Administrar oxígeno."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 45,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de estas arritmias NO es una taquicardia QRS ancho con conducción aberrante?",
+  "opciones": {
+   "A": "Taquicardia por reentrada antidrómica en un paciente con Wolf Parkinson White.",
+   "B": "Fluter auricular con bloqueo de rama derecha previo.",
+   "C": "Taquicardia en portador de marcapasos.",
+   "D": "Taquicardia ventricular polimorfa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En las guías de Soporte Vital Avanzado en adulto de la ERC (European Resuscitacion council 2021), se considera el uso de la ecografía para identificar causas reversibles de parada cardíaca. Señale cuál de las siguientes NO es considerada una causa reversible:",
+  "opciones": {
+   "A": "Hipercapnia.",
+   "B": "Hiperpotasemia.",
+   "C": "Hipopotasemia.",
+   "D": "Hipertermia."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál es la utilidad de las escalas PSI-Fine y CURB-65?",
+  "opciones": {
+   "A": "Estratificar el riesgo del paciente en relación a la mortalidad observada a los 30 días.",
+   "B": "Estratificar el riesgo del paciente en relación a la mortalidad observada a los 10 días.",
+   "C": "Estratificar el riesgo del paciente y su necesidad de ingreso en una Unidad de Cuidados Intensivos.",
+   "D": "Estratificar el riesgo del paciente de precisar soporte ventilatorio durante el ingreso."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En la crisis mixedematosa ¿cuál de los siguientes parámetros NO es de sospecha clínica?",
+  "opciones": {
+   "A": "Hiperventilación.",
+   "B": "Derrame pleural.",
+   "C": "Hipotermia.",
+   "D": "Bradicardia e hipotensión arterial."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué síntoma NO es producido por la intoxicación de organofosforados?",
+  "opciones": {
+   "A": "Cianosis.",
+   "B": "Broncorrea.",
+   "C": "Vómitos.",
+   "D": "Midriasis."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes NO forma parte de los criterios diagnósticos de shock?",
+  "opciones": {
+   "A": "Frecuencia cardiaca mayor de 100 latidos /minuto.",
+   "B": "Presión arterial de CO2 mayor de 50mmHg.",
+   "C": "Diuresis menor de 0,5ml/Kg/h.",
+   "D": "Frecuencia respiratoria mayor de 22 respiraciones /minuto."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta correcta. Estratificamos la Gravedad de la Insuficiencia Respiratoria en Moderada, cuando la relación PaO2/ FiO2 (presión arterial de oxigeno/ Fracción inspiratoria de Oxígeno) es MENOR de:",
+  "opciones": {
+   "A": "200.",
+   "B": "250.",
+   "C": "300.",
+   "D": "350."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el manejo terapeútico de una crisis de asma leve NO utilizaremos:",
+  "opciones": {
+   "A": "Agonistas betaadrenérgicos de acción corta.",
+   "B": "Glucocorticoides inhalados.",
+   "C": "Antibiótico de forma rutinaria.",
+   "D": "Glucocorticoides orales."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El uso del Urapidillo en la urgencia y emergencia hipertensiva está CONTRAINDICADO en pacientes con:",
+  "opciones": {
+   "A": "Insuficiencia cardiaca.",
+   "B": "Bloqueo A-V.",
+   "C": "Estenosis Aórtica.",
+   "D": "Agudización del EPOC."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación con el tromboembolismo pulmonar (TEP), señale la respuesta FALSA:",
+  "opciones": {
+   "A": "En pacientes hipotensos con presión venosa central baja y diagnostico de TEP, un uso moderado de fluidos (500 cc SSF) puede ser tenido en cuenta.",
+   "B": "El uso de fluidos podría empeorar el gasto cardiaco en el paciente con TEP por dilatación del ventrículo derecho.",
+   "C": "El TEP es una opción a considerar en la parada cardíaca con ritmo no desfibrilable.",
+   "D": "La heparina sódica (no fraccionada) en el tratamiento del TEP no esta indicada en el paciente con inestabilidad hemodinámica manifiesta o inminente."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué afirmación de las siguientes es correcta en pacientes con dolor torácico?",
+  "opciones": {
+   "A": "Las heparinas de bajo peso molecular están indicadas ante un dolor torácico con tan solo sospecha clínica de isquémico, sin un diagnóstico claro de certeza.",
+   "B": "El uso generalizado de oxigenoterapia en las unidades de dolor torácico se ha demostrado útil en todos los pacientes.",
+   "C": "Es recomendable iniciar cuanto antes la doble antiagregación en caso de posible/dudoso síndrome coronario.",
+   "D": "En pacientes con angina vasoespástica se evitará el uso de betabloqueantes."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "La complicación más grave de la corrección rápida de la hiponatremia con soluciones hipertónicas es:",
+  "opciones": {
+   "A": "Diabetes insípida.",
+   "B": "Insuficiencia renal aguda.",
+   "C": "Síndrome de desmielinización osmótica.",
+   "D": "Fibrilación ventricular."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Los siguientes fármacos se utilizan para el tratamiento inicial de las crisis de ausencias típicas EXCEPTO:",
+  "opciones": {
+   "A": "Etoxusimida.",
+   "B": "Carbamazepina.",
+   "C": "Clonazepam.",
+   "D": "Topiramato."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Paciente anciano, institucionalizado por deterioro cognitivo severo, la familia ha rechazado previamente en distintas ocasiones la propuesta de su geriatra de colocación sonda de alimentación. Es traído a Urgencias por fiebre de 38ºC, somnolencia y saturaciones de 89%. Ante el hallazgo de infiltrados pulmonares el antibiótico empírico de elección sería:",
+  "opciones": {
+   "A": "Amoxicilina-clavulánico 2 g/8h iv.",
+   "B": "Levofloxacino 500 mg /12 h iv.",
+   "C": "Ciprofloxacino 400 mg/8h iv.",
+   "D": "Clindamicina 900 mg/6 h iv."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Las siguientes respuestas se consideran características de un vértigo de origen central EXCEPTO.",
+  "opciones": {
+   "A": "Duración muy variable de días meses y años.",
+   "B": "Hipoacusia y acúfenos frecuentes.",
+   "C": "Escasa influencia postural.",
+   "D": "Evolución continua y progresiva."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de estos criterios electrocardiográfico NO es típico de una taquicardia ventricular monomorfa?",
+  "opciones": {
+   "A": "Ondas P aisladas disociadas con el complejo QRS.",
+   "B": "Fusiones.",
+   "C": "Imagen de bloqueo de rama dcha en V1 trifásico (rsR`).",
+   "D": "Patrón concordante de los QRS en derivaciones precordiales."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señala la respuesta correcta acerca de la luxación de cadera:",
+  "opciones": {
+   "A": "La necrosis avascular como complicación está relacionada con el tiempo que permanece luxada la cadera.",
+   "B": "El shock hemodinámico es una manifestación habitual.",
+   "C": "No se acompaña de incapacidad para deambulación.",
+   "D": "La luxación de cadera no es una urgencia ortopédica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "La Sociedad Española de Cuidados Paliativos (SECPAL) engloba las siguientes condiciones para enfermedad paliativa EXCEPTO:",
+  "opciones": {
+   "A": "Presencia de enfermedad avanzada, progresiva e incurable.",
+   "B": "Pronóstico de vida inferior a 3 meses.",
+   "C": "Falta de posibilidades razonables de respuesta al tratamiento.",
+   "D": "Engloba tanto a pacientes oncológicos como no oncológicos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál es la respuesta INCORRECTA respecto al estatus epiléptico?",
+  "opciones": {
+   "A": "El estatus epiléptico no convulsivo es más frecuente que el convulsivo y se tratan del mismo modo.",
+   "B": "Estatus epiléptico refractario es aquel que se prolonga más de 60 minutos o bien no responde a dos o tres líneas diferentes de tratamiento intravenoso.",
+   "C": "Como medida inmediata se considera la administración de glucosa al 100%.",
+   "D": "La dosis de carga con Fenitoína sería de 30mg/kg si el paciente la estaba tomando previamente."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Ante una situación de catástrofe, ¿cómo debe ser el triaje? Señale la respuesta INCORRECTA.",
+  "opciones": {
+   "A": "Rápido.",
+   "B": "Completo.",
+   "C": "Retrógrado.",
+   "D": "Permanente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes enunciados es INCORRECTO respecto a la Colecistitis aguda?",
+  "opciones": {
+   "A": "Para que se produzca una colecistitis aguda la obstrucción del conducto cístico debe ser completa y duradera.",
+   "B": "Los síntomas principales son ictericia y fiebre.",
+   "C": "La colecistitis aguda es la complicación más frecuente de los cálculos biliares.",
+   "D": "La colecistectomía laparoscópica es de elección frente a la colecistectomía abierta."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué consideración de las siguientes es FALSA respecto al tratamiento de la migraña?",
+  "opciones": {
+   "A": "Los betabloqueantes pueden tener un papel en la prevención de nuevos episodios de migraña.",
+   "B": "Los triptanes se consideran tratamiento de elección con nivel evidencia IA.",
+   "C": "En cardiopatía isquémica se recomienda evitación de primera elección los ergotamínicos.",
+   "D": "No se recomienda uso de antiinflamatorios y/o paracetamol más de 15 días al mes."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 67,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al uso del carbón activado, señale la respuesta INCORRECTA.",
+  "opciones": {
+   "A": "Puede utilizarse sólo por lavado gástrico.",
+   "B": "Uno de sus efectos secundarios es el estreñimiento.",
+   "C": "Tiene efecto absorbente del tóxico en todo el tubo digestivo.",
+   "D": "Ineficaz en intoxicación por etanol y etilenglicol."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de estos valores NO es típico en un trasudado de líquido pleural?",
+  "opciones": {
+   "A": "2.000 - 5.000 leucocitos/ml.",
+   "B": "pH 7,45 - 7,55.",
+   "C": "Proteína menor de 3 gr/dl.",
+   "D": "Color amarillo claro."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué afirmación es INCORRECTA en el manejo del paciente intoxicado?",
+  "opciones": {
+   "A": "Se recomienda combinar carbón activado y jarabe de Ipecacuana.",
+   "B": "El jarabe de Ipecacuana esta cuestionado si ya han pasado más de 120 minutos de la ingesta por su falta de eficacia.",
+   "C": "La descontaminación gástrica está contraindicada en ingesta de alcalinos.",
+   "D": "La descontaminación gástrica, en caso de estar indicada, debe realizarse lo más precozmente posible."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Los siguientes fármacos están indicados en el tratamiento de los vómitos en el paciente paliativo EXCEPTO:",
+  "opciones": {
+   "A": "Ondansetrón.",
+   "B": "Dexametasona.",
+   "C": "Metoclopramida.",
+   "D": "Butilbromuro de hioscina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En cuanto a las exploraciones complementarias en el estudio de un dolor abdominal agudo señale la respuesta correcta.",
+  "opciones": {
+   "A": "Una hematimetría normal descarta por sí sola la necesidad de tratamiento quirúrgico en un dolor abdominal agudo.",
+   "B": "No es necesario realizar radiografía de tórax si se sospecha un dolor abdominal agudo.",
+   "C": "Si el paciente refiere dolor abdominal en hipocondrio derecho súbito y dificultad respiratoria, se debe realizar un electrocardiograma.",
+   "D": "El estudio de la orina no resulta útil en los pacientes con dolor abdominal agudo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación con el tromboembolismo pulmonar (TEP), ¿qué afirmación siguiente consideraría que es FALSA?",
+  "opciones": {
+   "A": "El DDímero tiene valor predictivo negativo alto.",
+   "B": "La especificidad del test del DDímero en el diagnóstico de TEP disminuye con la edad y es preciso corte ajustado por edad.",
+   "C": "Una ecocardiografía con resultado negativo de sobrecarga de ventrículo derecho nos permite excluir totalmente el diagnóstico de TEP.",
+   "D": "La ecocardio se considera útil, como apoyo diagnóstico, a pie de cama, en el paciente inestable con TEP."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto a las pruebas de imagen de uropatía obstructiva señale la respuesta INCORRECTA.",
+  "opciones": {
+   "A": "La ecografía es de elección para descartar obstrucción.",
+   "B": "El TAC abdomino-pélvico no está indicado como prueba de inicio.",
+   "C": "La RNM se recomienda para el diagnóstico de litiasis.",
+   "D": "Una problema de la ecografía es la falta de detección de la litiasis."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El test de la mesa basculante (Til-Test) está indicado principalmente para confirmar el diagnóstico de:",
+  "opciones": {
+   "A": "Vértigo periférico.",
+   "B": "Síncope neuromediado.",
+   "C": "Síncope ortostático.",
+   "D": "Enfermedad de Ménière."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué variable NO forma parte del Conjunto Mínimo Básico de Datos Urgencia (CMBDU)?",
+  "opciones": {
+   "A": "De filiación y de registro.",
+   "B": "De triaje.",
+   "C": "Variables asistenciales.",
+   "D": "Protocolos y Guías de actuación clínicas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Con respecto a los marcadores de daño miocárdico señale la respuesta correcta.",
+  "opciones": {
+   "A": "Existen tres isoformas de Troponina, la troponina I, la troponina C y la troponina S, sus niveles se correlacionan con el grado de necrosis miocárdica y son un indicador de valor pronóstico.",
+   "B": "La mioglobina es un marcador muy específico y poco sensible que se eleva a las 4-6 h del inicio del proceso agudo.",
+   "C": "La CK es un marcador poco específico que alcanza el pico a las 48/72h.",
+   "D": "La elevación de la CK-MB es útil para el diagnóstico del reinfarto y del infarto agudo de miocardio post intervencionismo coronario."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al tratamiento de las hiperglucemias con complicaciones metabólicas señale la respuesta correcta:",
+  "opciones": {
+   "A": "El ritmo de infusión de la sueroterapia en el síndrome hiperglucémico hiperosmolar son de 15-20 ml/Kg/h las primeras horas, siguiendo con 250-500 ml/h las horas siguientes, ajustando en función de la comorbilidad, diuresis y respuesta a la volemia.",
+   "B": "En caso de hipopotasemia grave tras la insulinoterapia se debe iniciar la insulinoterapia para conseguir niveles de 3,2 mEq/L.",
+   "C": "La administración de Bicarbonato ha demostrado cambiar la evolución de la cetoacidosis diabética y debe iniciarse cuando el pH es menos de 7,20.",
+   "D": "Control de glucemia capilar cada 4 horas hasta estabilización."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale cuál NO es una característica de las fracturas de pelvis tipo C de TILE.",
+  "opciones": {
+   "A": "Se producen por cizallamiento.",
+   "B": "Son inestables rotacionalmente.",
+   "C": "Rara vez requieren cirugía.",
+   "D": "Son inestables verticalmente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "De las siguientes etiologías considera MENOS frecuente como origen de una hemoptisis masiva en nuestro medio?",
+  "opciones": {
+   "A": "Carcinoma Broncogénico.",
+   "B": "Bronquiectasias.",
+   "C": "Absceso Pulmonar.",
+   "D": "Embolia Pulmonar."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Las siguientes son características del Angioedema EXCEPTO.",
+  "opciones": {
+   "A": "Instauración rápida y asimétrica.",
+   "B": "Resolución rápida del cuadro en menos de 24h.",
+   "C": "No presenta afectación cutánea superficial.",
+   "D": "Puede afectarse también el aparato digestivo y respiratorio."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Entre las complicaciones, en la colocación de una vía central, ¿cuál NO es una complicación inmediata?",
+  "opciones": {
+   "A": "Embolismo aéreo.",
+   "B": "Trombosis.",
+   "C": "Arritmia.",
+   "D": "Neumotórax."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Sobre la utilización de la tira de orina en el diagnóstico de infección urinaria, indique la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Los nitritos positivos en orina tienen alta especificidad y baja sensibilidad.",
+   "B": "Un resultado combinado negativo de nitritos y leucocitos excluye el diagnóstico de infección urinaria.",
+   "C": "Las orinas diluidas pueden dar falsos negativos de leucocituria.",
+   "D": "Una infección por Chlamydia puede dar bacteriuria negativa."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la valoración neurológica en el traumatismo craneoencefálico:",
+  "opciones": {
+   "A": "Es importante valorar el tamaño de las pupilas: puntiformes, mióticas (3-4 mm.), su igualdad o desigualdad y la presencia o ausencia de reflejos ante la luz.",
+   "B": "Los vómitos aparecen con frecuencia en los pacientes con traumatismo craneoencefálico con o sin aumento de la presión intracraneal.",
+   "C": "La presencia de paresia VI par craneal, en la fase inicial de un traumatismo cráneo encefálico, suele deberse a una lesión directa y no a hipertensión intracraneal.",
+   "D": "El edema de papila, si bien es un signo de aparición tardía, debe buscarse siempre en la exploración."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En un paciente que acude a urgencias con dolor abdominal y en la exploración apreciamos una hernia inguinal ¿qué signo o síntoma de los siguientes nos hará pensar en una estrangulación o isquemia de asa intestinal?",
+  "opciones": {
+   "A": "Fiebre.",
+   "B": "Presencia de diarrea.",
+   "C": "Estreñimiento pertinaz.",
+   "D": "Distensión abdominal."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál es el grado de recomendación correcto de las determinaciones diagnósticas aplicadas al abordaje inicial de la Insuficiencia Cardiaca Aguda (ICA) en un Servicio de Urgencias Hospitalario?",
+  "opciones": {
+   "A": "Se recomienda determinar los péptidos natriuréticos plasmáticos a todo paciente con disnea aguda y sospecha de ICA para diferenciarla de disnea de causas no cardiacas: Recomendación IA.",
+   "B": "Realizar un ECG de 12 derivaciones: Recomendación IA.",
+   "C": "Realizar ecocardiografía de forma inmediata: Recomendación IA.",
+   "D": "Realizar como determinaciones de laboratorio: troponinas cardiacas, glucosa, función renal e iones y hemograma completo: Recomendación IA."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El tratamiento inicial del shock séptico incluye todas las siguientes medidas EXCEPTO:",
+  "opciones": {
+   "A": "Administración de cargas de volumen con solución salina fisiológica.",
+   "B": "Administración de la primera dosis intravenosa del antibiótico elegido lo más pronto posible.",
+   "C": "Administración de antiagregantes para prevenir la aparición de coagulación intravascular diseminada.",
+   "D": "Administración de fármacos vasopresores de los que la noradrenalina es de elección."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En cuanto a los hallazgos en la exploración de un paciente con dolor abdominal agudo, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La aparición de ictericia sugiere como causa del dolor colecistitis, coledocolitiasis o pancreatitis entre otras.",
+   "B": "La aparición de amenorrea y metrorragia en una mujer joven nos debe hacer sospechar un embarazo extrauterino.",
+   "C": "El peristaltismo aumentado es típico de la peritonitis generalizada.",
+   "D": "La posición antiálgica con la cadera y rodilla flexionada es característica de la apendicitis retrocecal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el paciente con VIH, las infecciones oportunistas (IO) más frecuente en función de las cifras de linfocitos CD4 son, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Mayor de 500 CD4/mm3: se considera situación de inmunodepresión leve. La causa más frecuente de fiebre es la neumonía neumocócica.",
+   "B": "500-200 CD4/mm3: inmunodepresión moderada. Las neumonías bacterianas y la TBC son más frecuentes, así como otras IO menores (candidiasis oral, leucoplasia oral vellosa y herpes zóster). También es más frecuente el linfoma de Hodgkin. La aparición de otras",
+   "C": "200-100 CD4/mm3: inmunodepresión grave. Aparecen las IO clásicas o definitorias de SIDA (PJP, formas diseminadas de TBC, candidiasis esofágica, toxoplasmosis, criptosporidiosis) y tumores (linfoma no Hodgkin y sarcoma de Kaposi).",
+   "D": "Menor de 100 CD4/mm3: inmunodepresión muy grave. Pueden aparecer la enfermedad por CMV, micobacterias atípicas, criptococosis, Leucoencefalopatía multifocal progresiva y linfoma cerebral primario."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 89,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes enunciados es FALSO respecto al taponamiento cardíaco?",
+  "opciones": {
+   "A": "Es una emergencia médica.",
+   "B": "La ecocardiografía es la exploración complementaria que confirma el Derrame pericárdico.",
+   "C": "Clínicamente se caracteriza por la Triada de Beck.",
+   "D": "El tratamiento consiste en disminuir la precarga."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto a la compresión medular en el paciente oncológico, señale la afirmación INCORRECTA:",
+  "opciones": {
+   "A": "Es la segunda complicación neurológica más frecuente tras las metástasis cerebrales.",
+   "B": "La localización más frecuente son las vértebras lumbares.",
+   "C": "Se produce por compresión de la médula espinal o sus raíces nerviosas por una lesión vertebral de origen maligno primario o metastásico.",
+   "D": "El tratamiento con Dexametasona debe iniciarse en el momento de la sospecha clínica si existe compromiso neurológico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál NO es considerado un criterio absoluto para suspender una Prueba de Esfuerzo en el paciente con Dolor Torácico?",
+  "opciones": {
+   "A": "Dolor torácico de carácter progresivo.",
+   "B": "Cansancio.",
+   "C": "Rachas de fibrilación auricular paroxísticas.",
+   "D": "Sensación de mareo y/o síncope."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Varón de 27 años en seguimiento por la Unidad de Salud Mental de su zona de salud que es traído al Servicio de Urgencias de un hospital comarcal por presentar cuadro de heteroagresividad, verbaliza oír voces que le dan órdenes y presenta un nivel de conciencia fluctuante. La exploración física inicial es normal. ¿Cuál de las siguientes afirmaciones NO se corresponde con un cuadro de agitación típicamente psiquiátrico?",
+  "opciones": {
+   "A": "Presencia de alucinaciones auditivas.",
+   "B": "Heteroagresividad.",
+   "C": "Nivel de conciencia fluctuante.",
+   "D": "Exploración física normal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de las siguientes causas de hiperbilirrubinemia NO es de predominio indirecto?",
+  "opciones": {
+   "A": "Sepsis.",
+   "B": "Hemólisis.",
+   "C": "Síndrome de Gilbert.",
+   "D": "Cirrosis biliar primaria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué es la escala ASPECT?",
+  "opciones": {
+   "A": "Una escala de riesgo de sangrado tras fibrinolisis en el ICTUS isquémico.",
+   "B": "Una nueva escala de tiempos en el ICTUS vertebrobasilar.",
+   "C": "Valoración cuantitativa, en que se valoran signos incipientes de afectación cerebral isquémica por TAC.",
+   "D": "Una escala de focalidad neurológica para pacientes mayores de 90 años."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al tratamiento del glaucoma agudo ¿Cuál de estos fármacos hay que EVITAR?",
+  "opciones": {
+   "A": "Midriaticos.",
+   "B": "Acetazolamida oral.",
+   "C": "Manitol al 20% IV.",
+   "D": "Pilocarpina al 1-2% tópica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Grado de disnea según New York Heart Association (NYHA) en un paciente con síntomas con su actividad habitual señale la respuesta correcta:",
+  "opciones": {
+   "A": "Clase IV.",
+   "B": "Clase III.",
+   "C": "Clase II.",
+   "D": "Clase I."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En cuanto al protocolo FAST (Focused Assessment with Sonography in Trauma) señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El protocolo FAST tiene como objetivo la búsqueda ecográfica de líquido libre en la cavidad peritoneal y en el pericardio en el contexto de traumatismo abdominal cerrado.",
+   "B": "Debe realizarse con el paciente en decúbito supino.",
+   "C": "El líquido libre se visualiza como una imagen anecoica o negra.",
+   "D": "Debe incluirse en la valoración secundaria del paciente politraumatizado."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de las siguientes NO es una característica clínica de la pérdida transitoria de la conciencia?",
+  "opciones": {
+   "A": "Duración corta del episodio.",
+   "B": "Control motor normal durante el episodio.",
+   "C": "Ausencia de respuesta durante el episodio.",
+   "D": "El paciente no recuerda el episodio."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de estas etiologías es POCO frecuente en una hemorragia subaracnoidea (HSA)?",
+  "opciones": {
+   "A": "Traumatismo craneal.",
+   "B": "Estenosis mitral reumática.",
+   "C": "Vasculitis.",
+   "D": "Ruptura de un aneurisma intracraneal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El hallazgo en una gasometría arterial basal de los siguientes parámetros: pO2 58 mmHg y pCO2 75 mmHg nos orientará a una de las siguientes causas:",
+  "opciones": {
+   "A": "Hipoventilación alveolar.",
+   "B": "Hiperventilación alveolar.",
+   "C": "Presencia de shunt.",
+   "D": "Alteraciones en la difusión alveolo-capilar."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes NO se considera un factor de riesgo de suicidio consumado?",
+  "opciones": {
+   "A": "Intentos de suicidio previos.",
+   "B": "Abuso de alcohol.",
+   "C": "Enfermedad psiquiátrica, en especial depresión o trastorno bipolar.",
+   "D": "Contar con apoyo familiar, social o creencias religiosas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el tratamiento de la diarrea aguda, ¿en cuál de los siguientes casos NO indicaremos tratamiento antibiótico empírico?",
+  "opciones": {
+   "A": "Diarrea del viajero grave.",
+   "B": "Sospecha de E. Coli enterohemorragico.",
+   "C": "Pacientes inmunodeprimidos.",
+   "D": "Portadores de prótesis valvular cardiaca."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué respuesta es INCORRECTA respecto a la infección urinaria?",
+  "opciones": {
+   "A": "En mujeres jóvenes la principal causa de cistitis tiene que ver con relaciones sexuales y causada por E. coli.",
+   "B": "Se han reducido las pautas de antibioterapia de 7 día a 3 días en cistitis no complicada.",
+   "C": "Es preciso hacer tratamiento de la bacteriuria asintomática en los pacientes ancianos sean o no portadores de sonda vesical.",
+   "D": "Se recomienda detección de bacteriuria asintomática en gestantes en el primer trimestre de la gestación."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Ante la llegada a Urgencias de un paciente en coma encontrado por sus compañeros en la plantación agrícola en la que trabaja de temporero y con las siguientes constates: TA: 92/61 mmHg, FC: 116 lpm, FR: 16 rpm y Tª de 39.8ºC. NO será un diagnóstico diferencial:",
+  "opciones": {
+   "A": "Intoxicación por pesticidas órgano-fosforados.",
+   "B": "Golpe de calor.",
+   "C": "Síndrome neuroléptico maligno.",
+   "D": "Sepsis."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el tratamiento de la Preeclampsia grave ¿cuál de los siguientes considera el tratamiento MENOS adecuado?",
+  "opciones": {
+   "A": "Hidralazina",
+   "B": "Nitroprusiato",
+   "C": "Diazoxido",
+   "D": "Labetalol"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué respuesta es INCORRECTA respecto al hemotórax?",
+  "opciones": {
+   "A": "La TBC es la etiología más frecuente.",
+   "B": "Presencia en líquido pleural un Hto>50% de los valores en sangre periférica.",
+   "C": "Si inestabilidad hemodinámica, colocación de un tubo de torax de grueso calibre.",
+   "D": "Suele precisar tratamiento coadyuvante con antibioterapia por riesgo de infección."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique qué entidad clínica de las siguientes inducidas por calor conlleva en su fisiopatología la alteración de la termorregulación y pérdida de capacidad para la sudoración o anhidrosis:",
+  "opciones": {
+   "A": "Calambres por calor.",
+   "B": "Síncope por calor.",
+   "C": "Golpe de calor clásico.",
+   "D": "Agotamiento o colapso por calor."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Varón de 73 años, con antecedentes de EPOC, miocardiopatia hipertensiva y disfunción de ventrículo izquierdo, es traido a Urgencias por aumento de disnea con importante trabajo respiratorio, utilización de musculatura accesoria, edemas en extremidades inferiores y tendencia al sueño. Se extrae gasometría arterial basal: pH 7.30, pO2 51, pCO2 80. ¿Cuál de las siguientes propuestas sería la más adecuada para este paciente?",
+  "opciones": {
+   "A": "Iniciar VMNI en modo CPAP.",
+   "B": "Iniciar VMNI con Bousignac.",
+   "C": "Iniciar VMNI modo BiPAP.",
+   "D": "Preparar para intubación orotraqueal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al tratamiento en la pancreatitis aguda señale la respuesta correcta:",
+  "opciones": {
+   "A": "Actualmente se recomienda tratamiento antibiótico profiláctico.",
+   "B": "En caso de vómitos o sensación nauseosa se puede pautar ondansetrón vía oral.",
+   "C": "Los fármacos espasmolíticos en la pancreatitis estarían indicados en caso de aparición de íleo paralítico.",
+   "D": "Las alteraciones hidroelectrolíticas deben ser corregidas al momento de ser detectadas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Según la escala de Glasgow-Blatchford, NO deberemos realizar una endoscopia de urgencia o diferida en las primeras 24 horas cuando la puntuación sea:",
+  "opciones": {
+   "A": "0 puntos.",
+   "B": "Mayor de 1 punto.",
+   "C": "Mayor de 3 puntos.",
+   "D": "Mayor de 5 puntos."
+  },
+  "respuesta_correcta": "A"
+ }
+]

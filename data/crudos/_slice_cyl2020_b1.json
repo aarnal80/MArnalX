@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La Gerencia Regional de Salud se estructura en órganos centrales y periféricos. El órgano de carácter unipersonal que ejerce la dirección ejecutiva y la gestión de la Gerencia Regional de Salud es:",
+  "opciones": {
+   "A": "El Director Gerente.",
+   "B": "El Presidente de la Gerencia Regional de Salud.",
+   "C": "El Director Económico, Presupuestario y Financiero.",
+   "D": "La Consejera de Sanidad."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La Ley 2/2007, de 7 de marzo, del Estatuto Jurídico del Personal estatutario del Servicio de Salud de Castilla y León, regula la figura de la recuperación de la condición de personal estatutario fijo para los casos en que ésta se hubiera perdido consecuencia de la pérdida de la nacionalidad española, por incapacidad o por pena principal o accesoria de inhabilitación absoluta. En este último caso, se concede a petición del interesado por:",
+  "opciones": {
+   "A": "Orden de la Consejera de Sanidad.",
+   "B": "Resolución del Gerente Regional de Salud.",
+   "C": "Acuerdo de la Junta de Castilla y León.",
+   "D": "Decreto de la Junta de Castilla y León."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La documentación clínica deberá conservarse como mínimo cinco años contados desde la fecha del alta de cada proceso asistencial o desde el fallecimiento del paciente. No obstante, se conservará de forma indefinida:",
+  "opciones": {
+   "A": "El gráfico de constantes.",
+   "B": "El informe de urgencia.",
+   "C": "Las hojas interconsultas.",
+   "D": "El informe de anestesia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La resolución del procedimiento de valoración del puesto de trabajo por causa de salud cuando suponga traslado corresponde a:",
+  "opciones": {
+   "A": "La Consejera de Sanidad.",
+   "B": "El Director Gerente de la Gerencia Regional de Salud.",
+   "C": "La Directora General de Profesionales.",
+   "D": "El Comité de Seguridad y Salud de Área correspondiente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Los incidentes en los que el personal sufre abusos, amenazas o ataques en circunstancias relacionadas con su trabajo que ponga en peligro, implícita o explícitamente, su seguridad, su bienestar o su salud, se denominan:",
+  "opciones": {
+   "A": "Violencia física.",
+   "B": "Violencia psicológica.",
+   "C": "Agresión/ataque.",
+   "D": "Violencia laboral."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos. Se reunirá:",
+  "opciones": {
+   "A": "Mensualmente.",
+   "B": "Semestralmente.",
+   "C": "Trimestralmente.",
+   "D": "Cuatrimestralmente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿A partir de qué mes de embarazo hay que evitar la manipulación manual de cargas de una trabajadora en estado de embarazo?",
+  "opciones": {
+   "A": "A partir del quinto mes.",
+   "B": "A partir del octavo mes.",
+   "C": "A partir del sexto mes.",
+   "D": "A partir del séptimo mes."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De los factores generales de riesgo relacionados con la organización del trabajo destacan el trabajo nocturno y la prolongación de jornada como factores que pueden suponer un riesgo añadido para las trabajadoras en estado de embarazo o lactancia. A esos efectos, se considera \"trabajadora nocturna\":",
+  "opciones": {
+   "A": "La que invierte no menos de una hora de su trabajo diario o al menos una cuarta parte de su jornada anual en este tipo de horario.",
+   "B": "La que invierte no menos de dos horas de su trabajo diario o al menos una quinta parte de su jornada anual en este tipo de horario.",
+   "C": "La que invierte no menos de dos horas de su trabajo diario o al menos una cuarta parte de su jornada anual en este tipo de horario.",
+   "D": "La que invierte no menos de tres horas de su trabajo diario o al menos una tercera parte de su jornada anual en este tipo de horario."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La información asistencial, con el fin de ayudar a cada persona a tomar decisiones sobre su propia salud, será veraz, razonable y suficiente, y estará referida al diagnóstico, pronóstico y alternativas de tratamiento. Como regla general, se proporcionará:",
+  "opciones": {
+   "A": "Siempre por escrito.",
+   "B": "Verbalmente, dejando constancia en la historia clínica, debiendo entregarla de forma escrita en los supuestos exigidos por la normativa aplicable.",
+   "C": "Indistintamente.",
+   "D": "Por cualquier medio técnico con que cuente el centro."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a los procesos selectivos por el sistema de promoción interna, indicar la afirmación incorrecta:",
+  "opciones": {
+   "A": "Es un requisito haber prestado servicios como personal estatutario fijo, al menos, dos años en la categoría de procedencia.",
+   "B": "Los sistemas a utilizar serán la oposición, el concurso o el concurso oposición que, en todo caso, deberán respetar los principios constitucionales de acceso a la función pública de igualdad, mérito, y capacidad, así como el de publicidad.",
+   "C": "Podrán realizarse convocatorias específicas si así lo aconsejan razones de planificación o eficacia en la gestión.",
+   "D": "Las plazas que no se provean por el sistema de promoción interna no se acumularán a las convocadas por el sistema general de acceso libre."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De acuerdo con el algoritmo de soporte vital avanzado en el adulto, del consejo europeo de reanimación en situación parada cardiorrespiratoria, tras aplicar la primera descarga en situación de fibrilación ventricular no presenciada la actuación correcta es:",
+  "opciones": {
+   "A": "Comprobar el pulso",
+   "B": "Administrar 1mg de adrenalina IV",
+   "C": "Comprobar el ritmo",
+   "D": "Continuar compresiones /ventilaciones durante 2 minutos"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En la atención a la parada cardiorrespiratoria, señala la respuesta correcta con respecto a la adrenalina:",
+  "opciones": {
+   "A": "Se utiliza en cualquier tipo de parada cardiorrespiratoria",
+   "B": "La dosis habitual en el adulto es 1mg/Kg vía IV",
+   "C": "Se prefiere la administración vía intraósea sobre la intravenosa",
+   "D": "Se debe utilizar lo antes posible en los ritmos desfibrilables"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En cuanto a la evaluación del traumatizado grave, señala cual de las siguientes opciones NO está incluida en la evaluación primaria.",
+  "opciones": {
+   "A": "Asegurar la permeabilidad de la vía aérea con control cervical",
+   "B": "Detener hemorragias mediante compresión",
+   "C": "Utilización de la escala de coma de Glasgow",
+   "D": "Exploración física detallada de cabeza a pies"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante la presencia en un traumatizado grave de ingurgitación yugular, tonos cardiacos apagados, tensión arterial baja y taquicardia, debemos sospechar la presencia de:",
+  "opciones": {
+   "A": "Taponamiento cardiaco",
+   "B": "Hemorragia interna",
+   "C": "Rotura esofágica",
+   "D": "Lesión traumática de aorta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señala la respuesta INCORRECTA con respecto a la Escala de Trauma Revisada (TRS)",
+  "opciones": {
+   "A": "Refleja la puntuación de la escala de coma de Glasgow, la Tensión arterial sistólica y la frecuencia respiratoria",
+   "B": "Cada apartado se puntúa de 0 a 4",
+   "C": "Cuanto mayor puntuación suma más grave se considera el traumatismo",
+   "D": "Se basa en criterios fisiológicos"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto a la actuación en el SCACEST, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Se caracteriza por elevación persistente (>20 min) del segmento ST del electrocardiograma",
+   "B": "Para que sea considerado SCACEST debe estar elevado el segmento ST al menos en dos derivaciones contiguas",
+   "C": "El valor de la troponina de alta sensibilidad en el momento de la atención nos indica la actitud terapéutica.",
+   "D": "La clínica compatible junto con la elevación patológica del ST en las derivaciones V3 y V4 indican IAM anterior"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el manejo del SCA (síndrome coronario agudo) cual de los siguientes valores aporta un riesgo de hemorragia más alto de acuerdo con la escala CRUSADE:",
+  "opciones": {
+   "A": "Hematocrito 31-33,9%",
+   "B": "Aclaramiento de creatinina 15-30 ml/min",
+   "C": "Frecuencia cardiaca 71-80 l/min",
+   "D": "Ser diabético"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el SCA (síndrome Coronario Agudo) la intervención coronaria percutánea primaria, es correcto que:",
+  "opciones": {
+   "A": "En el SCACEST, se realice deseablemente en menos de 24h",
+   "B": "En el SCACEST, Se realice en menos de 90 minutos tras el primer contacto médico",
+   "C": "En el SCASEST se prefiere fibrinólisis",
+   "D": "Si la ICP se realiza en menos de 120 min, no está indicado administrar ácido acetil salicílico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En cuanto al tratamiento del SCA (Síndrome Coronario Agudo), señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El ácido acetil salicílico se debe administrar lo antes posible a dosis de 250mg, preferiblemente vía oral masticado",
+   "B": "La dosis inicial de ticagrelor en el SCA, es de 180mg",
+   "C": "La dosis inicial de prasugrel en el SCA es de 60mg",
+   "D": "El ácido acetil salicílico no se debe administrar si se utiliza prasugrel"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Acude un paciente en edema agudo de pulmón con hipotensión, cuál de los siguientes fármacos consideras más indicado para su tratamiento inicial:",
+  "opciones": {
+   "A": "Furosemida IV",
+   "B": "Nitroglicerina IV",
+   "C": "Dobutamina IV",
+   "D": "Dopamina IV"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De acuerdo con la clasificación funcional NYHA de la insuficiencia cardiaca, un paciente en que la actividad física que puede realizar es inferior a la habitual, de modo que está limitado notablemente por la disnea, diríamos que es:",
+  "opciones": {
+   "A": "Clase I",
+   "B": "Clase II",
+   "C": "Clase III",
+   "D": "Clase IV"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes es menos frecuente encontrar en la Insuficiencia cardiaca izquierda",
+  "opciones": {
+   "A": "Edemas en extremidades inferiores",
+   "B": "Crepitantes bibasales",
+   "C": "Ortopnea",
+   "D": "Disnea paroxística nocturna"
+  },
+  "respuesta_correcta": "D"
+ }
+]

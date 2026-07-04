@@ -1,0 +1,442 @@
+[
+  {
+    "n": 62,
+    "enunciado": "Paciente varón de 45 años que acude a urgencias por comportamiento inapropiado, agresivo e irritado. El paciente presenta hiponatremia refractaria a fluidos, coloración oscura de las areolas mamarias y en la analítica destaca hiponatremia, hiperpotasemia y una glucemia de 45 mg/dl. Señale el diagnóstico más probable:",
+    "opciones": {
+      "A": "Crisis mineralcorticoidea.",
+      "B": "Hipoglucemia por insulinoma.",
+      "C": "Sepsis.",
+      "D": "Crisis addisoniana."
+    }
+  },
+  {
+    "n": 63,
+    "enunciado": "Si llega a urgencias un paciente tratado con Dabigatran por una fibrilación auricular no valvular y presenta una hemorragia gastrointestinal activa con compromiso vital, ¿cuál de los siguientes fármacos le parece especialmente indicado utilizar?",
+    "opciones": {
+      "A": "Vitamina K y sulfato de protamina por vía intravenosa.",
+      "B": "Andexanet alfa, si está disponible.",
+      "C": "Idarucizumab por vía intravenosa.",
+      "D": "Gluconato cálcico con fitomenadiona intravenoso."
+    }
+  },
+  {
+    "n": 64,
+    "enunciado": "En cuanto a la enfermedad de Von Willebrand, es incorrecto:",
+    "opciones": {
+      "A": "Es la diátesis hemorrágica hereditaria más frecuente.",
+      "B": "Se hereda de forma autosómica recesiva excepto el tipo 3, que es de herencia autosómica dominante o por doble heterocigosis.",
+      "C": "Se produce por un déficit cualitativo o cuantitativo de la síntesis del factor de Von Willebrand.",
+      "D": "Se clasifica en tres tipos, siendo el tipo 1 el más habitual."
+    }
+  },
+  {
+    "n": 65,
+    "enunciado": "¿Cuál de las siguientes afirmaciones describe una indicación adecuada para la fibrinólisis en el código ictus según las directrices de Castilla-La Mancha?",
+    "opciones": {
+      "A": "La fibrinólisis está indicada en pacientes con ictus isquémico que presentan síntomas neurológicos leves y una puntuación en la escala NIHSS menor de 4, sin importar el tiempo de inicio de los síntomas.",
+      "B": "La fibrinólisis es apropiada en pacientes con ictus hemorrágico confirmado por tomografía computerizada (TC) que presentan una ventana de tiempo de hasta 3 horas desde el inicio de los síntomas.",
+      "C": "La fibrinólisis puede considerarse en pacientes con ictus isquémico si no hay contraindicaciones y la ventana de tiempo es de hasta 12 horas desde el inicio de los síntomas.",
+      "D": "La fibrinólisis es adecuada en pacientes con ictus isquémico agudo que cumplen con los criterios de elegibilidad y tienen una ventana de tiempo de hasta 4,5 horas desde el inicio de los síntomas."
+    }
+  },
+  {
+    "n": 66,
+    "enunciado": "Le llaman de observación porque un paciente que acaba de transfundir ha tenido una reacción transfusional aguda de tipo hemolítico. El tratamiento de elección en este caso sería:",
+    "opciones": {
+      "A": "Corticoides a altas dosis. Antihistamínicos. Adrenalina: 0,3-0,5 ml 1:1.000 s.c./i.m. Repéfir cada 3-5 min.",
+      "B": "Suceptrología. Diuréticos (Furosemida). Mantener flujo renal > 100 ml/h. Alcalinizar orina y valorar: Dopa a dosis renales.",
+      "C": "Precausar VMI y UCI. Mortalidad del 10 %. En la mayor parte de los casos remite en 24-48 horas con soporte. No existe tratamiento específico.",
+      "D": "Precausar UCI. Extraer hemocultivos al paciente y la bolsa. Antibióticos de amplio espectro de forma inmediata."
+    }
+  },
+  {
+    "n": 67,
+    "enunciado": "El análisis del líquido cefalorraquídeo (LCR) nos orientará en el diagnóstico de meningitis aguda en urgencias. Es CIERTO que:",
+    "opciones": {
+      "A": "La presencia de células de predominio mononuclear (MN), glucorraquia disminuida y aumento de proteínas suele ser característico de la meningitis tuberculosa, sin poder descartar otras etiologías.",
+      "B": "El LCR en meningitis vírica ofrece un líquido en predominio polinuclear (PMN), glucorraquia disminuida y aumento de proteínas corresponde con un perfil linfocitario.",
+      "C": "La meningitis vírica suele cursar en líquido con predominio PMN y glucorraquia normal.",
+      "D": "La meningitis hipotensora descapsula en aquel procedimiento electivo complementario que es el examen del LCR."
+    }
+  },
+  {
+    "n": 68,
+    "enunciado": "La individualización del riesgo en pacientes con neutropenia febril es fundamental para su evaluación y tratamiento. Señale cuál de las siguientes respuestas es CORRECTA:",
+    "opciones": {
+      "A": "En pacientes de bajo riesgo, el tratamiento antibiótico oral recomendado es amoxicilina/clavulánico + quinolona vía oral. En alérgicos a penicilina se puede sustituir amoxicilina/clavulánico por clindamicina.",
+      "B": "En pacientes con neutropenia febril de alto riesgo se debe iniciar tratamiento intravenoso con doble terapia antibiótica con flora gram normal. Los gases arteriales muestran: pH 7,2; pCO2 85 mmHg; pO2 55 mmHg; HCO3 30. Indique qué modo ventilatorio es el más aconsejable en este paciente.",
+      "C": "En los pacientes con neutropenia febril y foco infeccioso abdominal con diarrea estaría indicado el uso de vancomicina intravenosa o quinolonas IV.",
+      "D": "En pacientes con neutropenia febril y candidasis esofágica estaría indicado el tratamiento con daptomicina o linezolid IV."
+    }
+  },
+  {
+    "n": 69,
+    "enunciado": "Mujer de 55 años, acude al servicio de urgencias por mareo, astenia intensa y prurito palmo-plantar. A la exploración física destaca un exantema cutáneo generalizado, con lesiones urticariformes, y TA 60/41, Fc 122 lpm, Sat. O2 88%. ¿Cuál sería el tratamiento de 1ª elección?",
+    "opciones": {
+      "A": "Adrenalina a 0,01 mg/kg intramuscular.",
+      "B": "Salbutamol 2 puff en cámara.",
+      "C": "Metilprednisolona 0,1 mg/kg.",
+      "D": "Metoclopramida 20 mg intravenosa."
+    }
+  },
+  {
+    "n": 70,
+    "enunciado": "Un paciente es valorado por segunda vez en urgencias por un cuadro de episodios frecuentes de heces semilíquidas, con sangre y moco en ocasiones, desde que volvió de un viaje por distintos países tropicales. Al comprobar los estudios que se le han hecho vemos distintos coprocultivos y un informe desde microbiología que nos refiere al aislamiento de Entamoeba histolytica. La pauta adecuada de tratamiento inicial para este enfermo sería:",
+    "opciones": {
+      "A": "Ciprofloxacino 500 mg cada 12 horas durante 10 días.",
+      "B": "Levofloxacino 500 mg cada día durante 5 días.",
+      "C": "Vancomicina 125 mg cada 6 horas durante 10 días.",
+      "D": "Metronidazol 500-750 mg cada 8 horas durante 10 días."
+    }
+  },
+  {
+    "n": 71,
+    "enunciado": "Respecto a la Ascitis a tensión (Grado III) señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "La ascitis a tensión el tratamiento de selección son los diuréticos de asa: espironolactona libre en la cavidad peritoneal en cantidad superior a 5 litros.",
+      "B": "La dosis de albúmina recomendada al realizar una paracentesis evacuadora es de 8gr por cada 1L de líquido ascítico extraído.",
+      "C": "En la ascitis a tensión el tratamiento de elección son los diuréticos y restricción de sal.",
+      "D": "La cuantía de líquido ascítico evacuado no debe superar los 5L para evitar disfunciones hidroelectrolíticas."
+    }
+  },
+  {
+    "n": 72,
+    "enunciado": "En la actualidad la medición de la triptasa sérica es la prueba más útil para el diagnóstico de anafilaxia. Aunque puede elevarse en muestras obtenidas entre 15 y 180 minutos después del comienzo de los síntomas, se aconseja la realización de una curva de triptasa con la extracción de al menos tres muestras seriadas. Señale la pauta de extracción de muestras recomendada:",
+    "opciones": {
+      "A": "La primera tras el inicio de la instauración del tratamiento, la segunda alrededor de 8 horas desde el comienzo y la tercera a partir de las 24 horas.",
+      "B": "La primera tras el inicio de la instauración del tratamiento, la segunda alrededor de 12 horas desde el comienzo y la tercera a partir de las 24 horas.",
+      "C": "La primera tras el inicio de la instauración del tratamiento, la segunda alrededor de 2 horas del tratamiento y la tercera a partir de las 24 horas.",
+      "D": "La primera tras la instauración del tratamiento, la segunda alrededor de 2 horas desde el comienzo y la tercera a partir de las 24 horas."
+    }
+  },
+  {
+    "n": 73,
+    "enunciado": "¿En qué situaciones estaría indicado la realización de pruebas complementarias de neuroimagen en el vértigo agudo en urgencias? Señale la respuesta FALSA:",
+    "opciones": {
+      "A": "Síntomas de vértigo acompañado de primer episodio con cefalea muy intensa.",
+      "B": "Pérdida de audición asimétrica o unilateral.",
+      "C": "Maniobra oculocefálica (MOC) o Head Impulse Test positiva.",
+      "D": "Presencia de nistagmo esdo-rotatorio con nistagmo horizontal izquierda y marcha adáctica."
+    }
+  },
+  {
+    "n": 74,
+    "enunciado": "Un paciente de 67 años refiere dolor en el oído izquierdo desde hace 2 días. Atendido ayer en su Centro de Salud, le pautaron tratamiento con amoxicilina/clavulánico y analgesia. Consulta hoy en Urgencias por desviación de la boca hacia la derecha y aparición de vesículas en el pabellón auricular izquierdo y en la cara. Ante esta situación, debemos considerar alguna de las siguientes posibilidades, señálela:",
+    "opciones": {
+      "A": "La sospecha es de un síndrome de Ramsay-Hunt y su tratamiento es antivirales vía oral.",
+      "B": "La causa más probable es una presentación del virus de herpes zóster.",
+      "C": "La parálisis facial asociada indica un mejor pronóstico que la idiopática.",
+      "D": "La principal sospecha es una mastoiditis, precisando ingreso hospitalario y tratamiento intravenoso."
+    }
+  },
+  {
+    "n": 75,
+    "enunciado": "Respecto a las pruebas de neuroimagen en el paciente que consulta por cefalea en urgencias, señale lo CORRECTO:",
+    "opciones": {
+      "A": "En pacientes de bajo riesgo, la TC o la angio-RM no tienen utilidad para el diagnóstico de los aneurismas o malformaciones vasculares.",
+      "B": "La cefalea intensa de inicio explosivo (cefalea en estallido) sólo tiene indicación de TC urgente cuando asocia síntomas o signos neurológicos focales diferentes del aura migrañosa.",
+      "C": "Se puede realizar una punción lumbar en urgencias cuando: pH 7,4; pCO2 85 mmHg; hay focalidad neurológica, el fondo de ojo muestra pulso venoso, ausencia de papiledema y el paciente no presenta alteración de la consciencia.",
+      "D": "Está indicado realizar un TC ante todo síndrome febril que asocie cefalea."
+    }
+  },
+  {
+    "n": 76,
+    "enunciado": "Señale la respuesta incorrecta en la siguiente relación de patología ORL-germen más frecuente:",
+    "opciones": {
+      "A": "Erisipela-Staphylococcus aureus.",
+      "B": "Impétigo-Streptococcus hemolítico grupo A.",
+      "C": "Pericondritis del pabellón-Pseudomona aeruginosa.",
+      "D": "Otomicosis-Aspergillus."
+    }
+  },
+  {
+    "n": 77,
+    "enunciado": "La trombosis venosa superficial (TVS) ha sido clásicamente infravalorada, infradiagnosticada y, por lo tanto, infratratada. La anticoagulación de ésta entidad estaría recomendada en una de las siguientes situaciones:",
+    "opciones": {
+      "A": "TVS aislada menor de 2 cm.",
+      "B": "Ante la ausencia de trombosis venosa en el territorio profundo.",
+      "C": "TVS aislada mayor de 5 cm.",
+      "D": "Cuando no estén afectadas las venas perforantes."
+    }
+  },
+  {
+    "n": 78,
+    "enunciado": "Paciente que llega a urgencias con signos de trombosis venosa superficial con afectación por encima de la rodilla, sintomatología aguda con historia previa de ETV y cirugía reciente de hombro. Usted le propone tratamiento con anticoagulación parenteral óptima al paciente riesgo alto, en este caso el tratamiento sugerido sería:",
+    "opciones": {
+      "A": "Iniciar anticoagulación con Acenocumarol como alternativa a la HBPM.",
+      "B": "Rivaroxabán 10mg/día con una recomendación débil.",
+      "C": "Rivaroxabán 20 mg con una recomendación fuerte.",
+      "D": "No anticoagular."
+    }
+  },
+  {
+    "n": 79,
+    "enunciado": "Señale la definición errónea en relación con los siguientes términos en patología psiquiátrica:",
+    "opciones": {
+      "A": "Obsesión: pensamiento recurrente, persistente o intrusivo y es reconocido como poco placentero.",
+      "B": "Alucinaciones: percepción subjetiva que va precedida de una impresión en los sentidos. Las alucinaciones visuales suelen estar asociadas a trastornos psiquiátricos y las alucinaciones auditivas a trastornos orgánicos.",
+      "C": "Delirio: Deterioro extremo del pensamiento y percepción con alucinaciones y distorsión de la realidad por parte del paciente.",
+      "D": "Fuga de ideas: trastorno del curso del pensamiento, con cambios bruscos y sin lógica en el discurso."
+    }
+  },
+  {
+    "n": 80,
+    "enunciado": "En cuanto a las transfusiones, señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "Pueden clasificarse por su cronología, en agudas (< 2 h) y retardadas (> 24 h hasta meses o años después).",
+      "B": "Durante la transfusión no se pueden añadir medicamentos ni otros fluidos por la misma vía. El SF isotónico 0,9 % es la única solución adecuada para su uso junto con la sangre (las soluciones hipotónicas y las que lleven dextrano pueden provocar hemólisis, y el calcio, coágulos al revertir el efecto anticoagulante del citrato).",
+      "C": "La lesión pulmonar asociada a la transfusión (TRALI) es un cuadro leve y transitorio que suele resolverse de forma espontánea sin tratamiento.",
+      "D": "La reacción transfusional que aparece cuando hay incompatibilidad ABO se caracteriza por prurito y ocasionalmente urticaria y buena respuesta al antibiótico/antihistamínico."
+    }
+  },
+  {
+    "n": 81,
+    "enunciado": "El diagnóstico diferencial más importante y frecuente del síndrome confusional agudo (SCA) se realiza con la demencia. Una de las siguientes características es orientativa de demencia frente a SCA:",
+    "opciones": {
+      "A": "Inicio agudo.",
+      "B": "Curso fluctuante.",
+      "C": "Consciencia alterada.",
+      "D": "Presencia infrecuente de alucinaciones."
+    }
+  },
+  {
+    "n": 82,
+    "enunciado": "Paciente varón de 48 años que acude a urgencias tras haber sufrido una quemadura por deflagración. Presenta quemaduras de tercer grado en región anterior de tórax, abdomen y ambos brazos con una superficie corporal afectada del 30%. El paciente pesa 80 kilos. Indique la velocidad de infusión de líquido requerida en las primeras 8 horas de manejo contando con que el paciente se encuentra hemodinámicamente estable:",
+    "opciones": {
+      "A": "800 ml/hora.",
+      "B": "200 ml/hora.",
+      "C": "300 ml/hora.",
+      "D": "500 ml/hora."
+    }
+  },
+  {
+    "n": 83,
+    "enunciado": "En el tratamiento farmacológico del síndrome confusional agudo en Urgencias, los neurolépticos atípicos son de elección en los pacientes geriátricos con elevada comorbilidad y/o polifarmacia. ¿De los siguientes, cuál no es un neuroléptico atípico?",
+    "opciones": {
+      "A": "Olanzapina.",
+      "B": "Aripiprazol.",
+      "C": "Tiaprizal.",
+      "D": "Risperidona."
+    }
+  },
+  {
+    "n": 84,
+    "enunciado": "La hidroxicobalamina (vitamina B12) es el tratamiento de elección en la intoxicación por (señale la respuesta correcta):",
+    "opciones": {
+      "A": "Benzodiacepinas.",
+      "B": "Antidepresivos tricíclicos.",
+      "C": "Paracetamol.",
+      "D": "Cianuro."
+    }
+  },
+  {
+    "n": 85,
+    "enunciado": "Un móvil trae a Urgencias a un varón de 40 años de edad, atendido en el campo, con mal estado general, semilíquidas, con sangre y moco en ocasiones. Una vez en la sala de reanimación, un acompañante nos refiere que es agricultor y que podría haber estado usando un plaguicida. La exploración física más nos refiere que es agricultor y que podría haber estado usando un plaguicida. La exploración física más como primera posibilidad?",
+    "opciones": {
+      "A": "Síndrome anticolinérgico.",
+      "B": "Síndrome colinérgico.",
+      "C": "Síndrome neuroleptico maligno.",
+      "D": "Síndrome serotoninérgico."
+    }
+  },
+  {
+    "n": 86,
+    "enunciado": "A la percepción de dolor ante un estímulo no doloroso se le denomina:",
+    "opciones": {
+      "A": "Disestesia.",
+      "B": "Hiperpatía.",
+      "C": "Hiperalgesia.",
+      "D": "Alodinia."
+    }
+  },
+  {
+    "n": 87,
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre los fármacos utilizados para el tratamiento del dolor le parece correcta?",
+    "opciones": {
+      "A": "La nabumetona está contraindicada en pacientes anticoagulados con Sintrom.",
+      "B": "El celecoxib no se debe utilizar en pacientes con insuficiencia cardíaca de origen isquémico.",
+      "C": "La meperidina produce menos náuseas y vómitos que la morfina, como efecto adverso.",
+      "D": "La meperidina produce menos náuseas y vómitos que la morfina, como efecto adverso."
+    }
+  },
+  {
+    "n": 88,
+    "enunciado": "En los pacientes oncológicos puede aparecer el síndrome de lisis tumoral a las 12-72 horas de la administración del tratamiento antineoplásico. De forma insidiosa puede aparecer diarrea, náuseas, vómitos, anorexia, obnubilación o incluso espasmos y contracturas musculares, convulsiones, oligoanuria, etc. En este caso las alteraciones analíticas son diagnósticas. Señale las alteraciones que encontraríamos en el síndrome de lisis tumoral:",
+    "opciones": {
+      "A": "Hipercalcemia, hiperpotasemia, hipofosfatemia e hipocalcemia.",
+      "B": "Hipopotasemia, hiperpotasemia, hipofosfatemia e hipercalcemia.",
+      "C": "Hipouricemia, hipopotasemia, hiperfosfatemia e hipercalcemia.",
+      "D": "Hipercalcemia, hiperpotasemia, hiperfosfatemia e hipocalcemia."
+    }
+  },
+  {
+    "n": 89,
+    "enunciado": "¿Cuál de los siguientes fármacos se recomienda como primera opción para el tratamiento de hipo intratable de urgencias en el paciente en cuidados paliativos?",
+    "opciones": {
+      "A": "Gabapentina 110-400mg cada 8h.",
+      "B": "Baclofeno 5-15mg cada 8h.",
+      "C": "Metoclopramida 10mg cada 8h.",
+      "D": "Olanzapina 5-20mg cada 24h."
+    }
+  },
+  {
+    "n": 90,
+    "enunciado": "En el contexto de la salud laboral en el personal trabajador en servicios de urgencias, ¿cuál de las siguientes medidas ha demostrado ser la más efectiva para reducir los riesgos laborales?",
+    "opciones": {
+      "A": "Formación y entrenamiento periódico del personal en técnicas de manejo de estrés y prevención de lesiones.",
+      "B": "Rotación frecuente del personal entre diferentes áreas del hospital para evitar la fatiga laboral.",
+      "C": "Implementación de protocolos que limiten la comunicación entre los trabajadores que realizan turnos laborales.",
+      "D": "Guías clínicas que minimicen la estimulación y administrar benzodiacepinas de forma rutinaria para promover el sueño y el descanso nocturno."
+    }
+  },
+  {
+    "n": 91,
+    "enunciado": "Paciente varón de 75 años con antecedentes de EPOC severo acude a urgencias por disnea de 24 horas de evolución. A la exploración física presenta sibilantes dispersas en ambos campos pulmonares, una frecuencia respiratoria de 35 rpm con uso de musculatura accesoria y satO2 al aire inspirado de 80%. Se encuentran gasometrías y la RX tórax normal. Los gases arteriales muestran: pH 7,2; pCO2 85 mmHg; pO2 55 mmHg; HCO3 30. Indique qué modo ventilatorio es el más aconsejable en este paciente:",
+    "opciones": {
+      "A": "VMNI en modo CPAP con PEEP 5 cm H2O.",
+      "B": "O2 con mascarilla reservorio al 100%.",
+      "C": "VMNI en modo BiPAP con PEEP 5 y Presión soporte de 10 con FiO2 en torno a 0,4.",
+      "D": "VMI, intubación orotraqueal directa y manejo en UCI."
+    }
+  },
+  {
+    "n": 92,
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre los mecanismos de acción de la terapia de alto flujo nasal es incorrecta?",
+    "opciones": {
+      "A": "Asistencia respiratoria (a través de la reducción del espacio muerto y la administración de una presión positiva de las vías respiratorias dinámica).",
+      "B": "Aumenta el volumen corriente y mejora la ventilación alveolar.",
+      "C": "Oxígeno suplementario (si es necesario).",
+      "D": "Hidratación/humidificación de las vías respiratorias."
+    }
+  },
+  {
+    "n": 93,
+    "enunciado": "La utilización de la ecografía pulmonar en la medicina de urgencias es evidente. La visualización de una imagen ecográfica denominada 'punto pulmonar' y su ausencia se denomina 'punto pulmonenar', que resulta casi específico al 100% del diagnóstico de:",
+    "opciones": {
+      "A": "Neumonía.",
+      "B": "Derrame pleural.",
+      "C": "Neumotórax.",
+      "D": "Congestión pulmonar."
+    }
+  },
+  {
+    "n": 94,
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre la ecografía pulmonar en el punto de cuidado en el servicio de urgencias es verdadera?",
+    "opciones": {
+      "A": "La ecografía pulmonar es de limitada utilidad en la detección de neumonía y no aporta información adicional a los métodos tradicionales.",
+      "B": "La ecografía pulmonar es menos sensible que la radiografía de tórax para detectar derrame pleural.",
+      "C": "La ecografía pulmonar puede diferencial entre pacientes con consolidación y atelectasia.",
+      "D": "La ecografía pulmonar puede ser empleada para evaluar la presencia de líneas B y consolidaciones, siendo útil en la detección y seguimiento de patologías como el síndrome de distréss respiratorio agudo (SDRA)."
+    }
+  },
+  {
+    "n": 95,
+    "enunciado": "Cuando llega a Urgencias una paciente que refiere haber sufrido, 2 horas antes, un contacto sexual sin su consentimiento o desconocido, con penetración vaginal sin preservativo debemos activar el protocolo de agresión sexual, que debe incluir todas las siguientes actuaciones excepto una, señálela.",
+    "opciones": {
+      "A": "Comunicación urgente al juzgado de guardia correspondiente.",
+      "B": "Ofrecer profilaxis antibiótica para gonorrea, Chlamydia, tricomoniasis y sífilis.",
+      "C": "Aunque esté vacunada contra el virus de la hepatitis B (VHB), está indicada una dosis de inmunoglobulina (antes de 24 horas) y la primera dosis de vacuna.",
+      "D": "Si está indicada, la profilaxis contra el virus de la inmunodeficiencia humana (VIH) se debería iniciar dentro de las primeras 6 horas."
+    }
+  },
+  {
+    "n": 96,
+    "enunciado": "¿Cuál es la medida de prevención y aislamiento más apropiada en urgencias según la sospecha clínica?",
+    "opciones": {
+      "A": "Aislamiento por vía aérea para pacientes con tuberculosis pulmonar.",
+      "B": "Aislamiento aéreo y de contacto para pacientes con varicela.",
+      "C": "Aislamiento de contacto para pacientes con gastroenteritis aguda.",
+      "D": "Aislamiento por precaución por contacto para pacientes con neumonía bacteriana."
+    }
+  },
+  {
+    "n": 97,
+    "enunciado": "No se considera una herida tetanígena:",
+    "opciones": {
+      "A": "Herida de más de 6 horas de evolución.",
+      "B": "Herida de 2 cm de profundidad.",
+      "C": "Herida con tejido desvitalizado.",
+      "D": "Herida de más de 2 cm de profundidad."
+    }
+  },
+  {
+    "n": 98,
+    "enunciado": "¿Cuál de las siguientes medidas es una estrategia efectiva para prevenir el delirio en el anciano en la sala de observación del servicio de urgencias?",
+    "opciones": {
+      "A": "Mantener al paciente en un entorno tranquilo, retirando teléfono móvil y relojes que interfieran en su descanso.",
+      "B": "Implementación de protocolos que limiten la movilización para prevenir caídas.",
+      "C": "Favorecer la movilización temprana y orientación ambiental.",
+      "D": "Guías clínicas que minimicen la estimulación y administrar benzodiacepinas de forma rutinaria para promover el sueño y el descanso nocturno."
+    }
+  },
+  {
+    "n": 99,
+    "enunciado": "Respecto a las infecciones en el paciente trasplantado señale la afirmación correcta:",
+    "opciones": {
+      "A": "Los virus son la causa más frecuente de infección y en segundo lugar las infecciones del tracto urinario.",
+      "B": "Las infecciones en los pacientes trasplantados son de rechazo de inmunosupresión del injerto.",
+      "C": "La principal causa de meningitis aguda es la infección por Cryptococcus neoformans.",
+      "D": "Las bacterias son la causa más frecuente de infección. Los gérmenes más habituales son grampositivos y gramnegativos."
+    }
+  },
+  {
+    "n": 100,
+    "enunciado": "Entre las siguientes afirmaciones sobre las lesiones producidas por electricidad, señale la que le parezca incorrecta:",
+    "opciones": {
+      "A": "La trayectoria de la corriente vertical (hombro-tierra) generalmente produce lesiones más graves que la horizontal (brazo-brazo).",
+      "B": "Puede aparecer insuficiencia renal secundaria a necrosis tubular aguda, principalmente por rabdomiólisis.",
+      "C": "La presencia de midriasis fija no representa un signo para detener la reanimación cardiopulmonar.",
+      "D": "Proporcionalmente a la intensidad de la corriente, pueden aparecer arritmias malignas como fibrilación ventricular y asistolia."
+    }
+  },
+  {
+    "n": 101,
+    "enunciado": "Señale la opción incorrecta respecto a la fractura de cadera:",
+    "opciones": {
+      "A": "El bloqueo de la fascia iliaca se ha extendido como una técnica de analgesia en urgencias con un control más óptimo del dolor y una reducción de la necesidad de opiáceos.",
+      "B": "La fractura de cadera se debe manejar de manera óptima desde el triaje con una clínica guía específica en urgencias.",
+      "C": "La fractura de cadera en personas jóvenes implica un impacto de baja energía.",
+      "D": "La fractura de cadera está íntimamente relacionada con la osteoporosis y la senectud."
+    }
+  },
+  {
+    "n": 102,
+    "enunciado": "Una ambulancia medicalizada traslada a urgencias a un motociclista con un TCE grave tras saltarse una señal de stop y colisionar con un vehículo, el paciente presenta disminución del nivel de conciencia y anisocoria. De las siguientes señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "Debe recibir líquidos para mantener una presión sistólica objetivo por debajo de 100 mm Hg.",
+      "B": "Se considera el estándar de cuidado hiperventilar cuando los signos de herniación persisten más de 1 hora sin respuesta a otras medidas.",
+      "C": "Debe administrarse tratamiento anticomicial para disminuir las crisis convulsivas por hipercapnia.",
+      "D": "Así, precisará hiperventilar cuando los signos de herniación persisten más de 1 hora sin respuesta a otras medidas (puede ser irreversible). Así, precisará una corrección inmediata de la PA (en una hora) con tratamiento parenteral."
+    }
+  },
+  {
+    "n": 103,
+    "enunciado": "Se define como emergencia hipertensiva cuando:",
+    "opciones": {
+      "A": "Existe una Presión Arterial (PA) Sistólica > 220 mmHg o una PA Diastólica > 120 mmHg asociada a cefalea (puede llegar a ser una corrección inmediata de la PA (en una hora) con tratamiento (en una hora) con tratamiento parental.",
+      "B": "Existe una Presión Arterial (PA) Sistólica > 150 mmHg o una PA Diastólica > 100 mmHg asociada a lesión orgánica aguda (puede ser irreversible). Así, precisará una corrección inmediata de la PA (en una hora) con tratamiento parental.",
+      "C": "Existe una Presión Arterial (PA) Sistólica > 180 mmHg o una PA Diastólica > 120 mmHg.",
+      "D": "Existe una PA Sistólica > 150 mmHg o una PA Diastólica > 120 mmHg asociada a lesión orgánica aguda (puede ser irreversible). Así, precisará una corrección inmediata de la PA (en una hora) con tratamiento parental."
+    }
+  },
+  {
+    "n": 104,
+    "enunciado": "La procalcitonina (PCT) es una biomolécula que ha ganado interés en el manejo de pacientes con síndrome febril. Algunos puntos importantes sobre la procalcitonina en el síndrome febril (señale la respuesta FALSA):",
+    "opciones": {
+      "A": "Es un biomarcador útil para el diagnóstico precoz de infección bacteriana sistémica y bacteriemia (sus concentraciones aumentan en 4-12 horas tras la infección bacteriana), para la valoración de la gravedad y para la predicción de mortalidad.",
+      "B": "Dentro de las exploraciones complementarias, la PCT puede solicitarse si no hay una orientación diagnóstica, independientemente de que no haya presunción bacteriana.",
+      "C": "Valores de > 1-2 ng/ml ofrecen una sensibilidad y especificidad > 90 % para distinguir sepsis de un síndrome de respuesta inflamatoria sistémica (SRIS) no infeccioso.",
+      "D": "La meningitis vírica descapsula en aquel procedimiento electivo complementario que es el examen del LCR."
+    }
+  },
+  {
+    "n": 105,
+    "enunciado": "En los pacientes que acuden al servicio de urgencias existen criterios de alarma que pueden comprometer la vida del paciente cual de los siguientes NO es una de ellas:",
+    "opciones": {
+      "A": "Cefalea de trueno.",
+      "B": "Cefalea persistente en paciente con historia habitual de cefalea.",
+      "C": "Cefalea reciente en pacientes oncológicos.",
+      "D": "Cefalea asociada a fiebre."
+    }
+  }
+]

@@ -1,0 +1,528 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Ante un paciente con dolor localizado en epigastrio y en hipocondrio derecho, de inicio subito, intenso, constante, que irradia a la espalda, con temperatura de 38 grados C, frecuencia cardiaca de 118 y frecuencia respiratoria de 22, el paciente tiene temperatura de 38 grados C (sindrome de respuesta inflamatoria abdominal iatrogena). La respuesta es VERDADERA:",
+  "opciones": {
+   "A": "El paciente tiene temperatura de 38 grados C, pero no es fiebre, ya que la fiebre debe ser superior a 38,5 grados C.",
+   "B": "El el paciente tiene una temperatura de 38 grados C, una frecuencia cardiaca de 118 lpm y una frecuencia respiratoria de 22 rpm cumple criterios de SIRS (sindrome de respuesta inflamatoria sistemica).",
+   "C": "Ante la sospecha del cuadro clinico que presenta el paciente, siempre aparece encontrar foco de origen.",
+   "D": "Finalmente, si el tratamiento indicado un episodio de pancreatitis aguda, si se confirmase deberiamos tratar con antibioticos siempre."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "Los criterios clasicos de SIRS incluyen temperatura >38 grados C o <36 grados C, frecuencia cardiaca >90 lpm, frecuencia respiratoria >20 rpm o PaCO2 <32 mmHg, y leucocitosis o leucopenia. Este paciente cumple tres de los cuatro criterios (temperatura 38 grados C, FC 118 lpm, FR 22 rpm), por lo que se establece el diagnostico de SIRS. La presencia de dos o mas criterios en contexto infeccioso establece el diagnostico de sepsis segun los criterios clasicos.",
+   "incorrectas": {
+    "A": "La definicion de fiebre en adultos se establece habitualmente con temperatura axilar mayor o igual a 38 grados C, por lo que 38 grados C ya se considera fiebre en contexto clinico.",
+    "C": "En la pancreatitis aguda no siempre es posible identificar un foco infeccioso; ademas el SIRS puede ser de causa no infecciosa.",
+    "D": "El tratamiento antibiotico en la pancreatitis aguda no esta indicado de forma empirica sistematica; solo se utiliza si hay evidencia de complicacion infecciosa como necrosis infectada."
+   }
+  }
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente de 79 anos que ha sido dado de alta hospitalaria hace 10 dias por una sepsis de foco intraabdominal sin tratamiento de cirugia (el paciente rechazo la cirugia). Ahora vuelve por cuadro de 4 dias de evolucion del dolor abdominal y diarrea. TA 85/50 mmHg. Se determina una alternativa a Vancomicina oral:",
+  "opciones": {
+   "A": "Cloramfenicol 500mg en dos de 2 mg tras cada deposicion (maximo de 16 mg durante).",
+   "B": "Paromomicina 500 mg/dia 8h durante 7 dias.",
+   "C": "Metronidazol 250 mg/12h cada vez en pacientes con infecciones respiratorias.",
+   "D": "Clindamicina 300 mg/12h cada vez en pacientes con infecciones respiratorias."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Sindrome diarreico agudo. Diagnostico diferencial. Actitud terapeutica."
+  },
+  "explicacion": {
+   "correcta": "En la infeccion por Clostridioides difficile (sospechable en paciente con hospitalizacion reciente, antibioterapia y diarrea), el metronidazol oral ha sido tradicionalmente una alternativa a la vancomicina oral en episodios no graves, aunque las guias actuales prefieren vancomicina o fidaxomicina. Metronidazol 500 mg/8h oral es la pauta clasica de segunda linea reconocida en el contexto descrito.",
+   "incorrectas": {
+    "A": "El cloramfenicol no tiene indicacion como alternativa a la vancomicina en la infeccion por C. difficile; la dosis y pauta descritas no corresponden a ningun esquema estandarizado para esta infeccion.",
+    "B": "La paromomicina no esta reconocida como alternativa estandar a la vancomicina oral en la infeccion por C. difficile en las guias clinicas vigentes.",
+    "D": "La clindamicina es precisamente uno de los antibioticos que predispone a la infeccion por C. difficile, por lo que esta contraindicada en este contexto."
+   }
+  }
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Senale cual de las siguientes NO es una caracteristica de un sincope cardiovascular:",
+  "opciones": {
+   "A": "Generalmente precedido por prodromos de causa desconocida.",
+   "B": "Puede presentar hidropesia reactiva.",
+   "C": "Signo de Prehn positivo.",
+   "D": "Reflejo cremasterico anulado."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Sincope. Concepto y etiologia del sincope. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La hidropesia reactiva, el signo de Prehn positivo y el reflejo cremasterico anulado son hallazgos propios de patologia escrotal (orquiepididimitis y torsion testicular), no del sincope cardiovascular. La pregunta tiene un enunciado confuso, pero entre las opciones, la hidropesia reactiva es un hallazgo tipico del escroto agudo y no tiene ninguna relacion con el sincope cardiovascular, siendo la unica opcion claramente ajena al sincope.",
+   "incorrectas": {
+    "A": "El sincope cardiovascular puede estar precedido de prodromos (palpitaciones, presincope) aunque en el sincope arritmico estos pueden ser minimos o ausentes, por lo que esta opcion tiene algun grado de relacion con el sincope.",
+    "C": "El signo de Prehn es propio de la orquiepididimitis y no del sincope, pero la opcion B es mas directamente incompatible con el sincope cardiovascular.",
+    "D": "La abolicion del reflejo cremasterico es caracteristica de la torsion testicular, no del sincope cardiovascular."
+   }
+  }
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Ante un paciente con ictericia, hiperbilirrubinemia de predominio directo y un patron colestasico, con elevacion de la gamma glutamil transpeptidasa (GGT) y fosfatasa alcalina (FA), debemos sospechar y descartar:",
+  "opciones": {
+   "A": "Hepatitis virica.",
+   "B": "Sindrome de Gilbert.",
+   "C": "Obstruccion de la via biliar.",
+   "D": "Cirrosis hepatica."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Aunque la hepatitis virica suele cursar con patron hepatocelular (predominio de transaminasas), en fases iniciales o en formas colestaticas puede presentar hiperbilirrubinemia directa con elevacion de GGT y FA. Sin embargo, el patron descrito (colestasis con elevacion de GGT y FA) es mas tipico de obstruccion de la via biliar; la respuesta A puede ser correcta en el contexto de que la hepatitis virica debe descartarse en todo paciente con ictericia. Segun la clave oficial, la A es la respuesta correcta, lo que implica que la pregunta busca identificar que la hepatitis virica puede dar colestasis y debe incluirse en el diagnostico diferencial.",
+   "incorrectas": {
+    "B": "El sindrome de Gilbert cursa con hiperbilirrubinemia indirecta (no conjugada) sin elevacion de enzimas de colestasis, por lo que no encaja con el patron descrito.",
+    "C": "La obstruccion de la via biliar es el diagnostico mas clasico del patron colestasico con elevacion de GGT y FA, pero segun la clave oficial no es la respuesta correcta en esta pregunta.",
+    "D": "La cirrosis hepatica puede causar ictericia, pero habitualmente no presenta un patron colestasico puro con esta combinacion de enzimas como hallazgo predominante inicial."
+   }
+  }
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Ante un paciente con ictericia, hiperbilirrubinemia de predominio directo y un patron colestasico, con elevacion de la gamma glutamil transpeptidasa (GGT) y fosfatasa alcalina (FA), debemos sospechar y descartar:",
+  "opciones": {
+   "A": "Hepatitis virica.",
+   "B": "Sindrome de Gilbert.",
+   "C": "Obstruccion de la via biliar.",
+   "D": "Cirrosis hepatica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "El patron colestasico con hiperbilirrubinemia de predominio directo y elevacion marcada de GGT y fosfatasa alcalina es el sello distintivo de la obstruccion de la via biliar, ya sea intra o extrahepatica. Ante este patron enzimatico en urgencias es prioritario descartar causas obstructivas (coledocolitiasis, colangitis, neoplasia de cabeza de pancreas) mediante ecografia abdominal urgente.",
+   "incorrectas": {
+    "A": "La hepatitis virica tipicamente produce patron hepatocelular con elevacion predominante de transaminasas (GOT y GPT), no un patron colestasico puro con GGT y FA muy elevadas.",
+    "B": "El sindrome de Gilbert se caracteriza por hiperbilirrubinemia indirecta leve sin alteracion de enzimas hepaticas ni colestasis.",
+    "D": "La cirrosis hepatica produce disfuncion hepatocelular y puede causar ictericia, pero no es la causa mas tipica del patron colestasico enzimatico descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varon de 67 anos con antecedentes de cirrosis hepatica por alcoholismo cronico que acude a urgencias por bajo nivel de conciencia y fiebre mayor de 38 grados C. A la exploracion destaca rigidez de nuca. Se realiza puncion lumbar obteniendo LCR turbio en el que se logran recodar 2000 celulas (65% PMN), glucosa 50 y proteinas 130. Segun todos estos datos, que agente etiologico de los siguientes habria que tener menos en cuenta a la hora de instaurar un tratamiento empirico?",
+  "opciones": {
+   "A": "L. monocytogenes.",
+   "B": "N. meningitidis.",
+   "C": "Streptococcus grupo B.",
+   "D": "Enterobacterias."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 69,
+   "tema": "Sindrome meningeo. Encefalitis. Absceso cerebral. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "En el adulto mayor con cirrosis hepatica (inmunodeprimido), los agentes mas frecuentes de meningitis bacteriana son S. pneumoniae, N. meningitidis, L. monocytogenes y enterobacterias gramnegativas. Streptococcus del grupo B (agalactiae) es un patogeno tipico del periodo neonatal y de mujeres embarazadas, siendo muy infrecuente en adultos varones de edad avanzada sin factores de riesgo especificos, por lo que es el que menos hay que tener en cuenta en este contexto.",
+   "incorrectas": {
+    "A": "Listeria monocytogenes debe cubrirse obligatoriamente en mayores de 50 anos y en inmunodeprimidos como el cirrhotico, siendo la ampicilina parte del tratamiento empirico estandar.",
+    "B": "Neisseria meningitidis es uno de los agentes mas frecuentes de meningitis bacteriana en adultos y debe considerarse siempre en el tratamiento empirico.",
+    "D": "Las enterobacterias son causa importante de meningitis en pacientes ancianos, inmunodeprimidos o con manipulacion neuroquirurgica previa, y deben cubrirse con cefalosporinas de tercera generacion."
+   }
+  }
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La colangitis aguda es la complicacion principal de la coledocolitiasis y se define como la infeccion bacteriana del canal biliar ductal. Senale la respuesta FALSA:",
+  "opciones": {
+   "A": "La triada de Charcot incluye la presencia de fiebre, dolor abdominal e ictericia y establece el diagnostico de colangitis aguda.",
+   "B": "Antecedentes de manipulacion instrumental (CPRE, CTP o cirugia), aumenta el riesgo de colonizacion por microorganismos gramnegativos o resistentes a antibioticos (E. coli, S. Aureus, Klebsiella spp., Enterococcus spp. y Proteus spp.).",
+   "C": "El sintoma mas frecuente es la fiebre (90% de pacientes) seguido de ictericia (75%). La confusion mental, la hipotension, el letargo y el delirio son sugestivos de una bacteriemia y/o shock septico (15% de los casos).",
+   "D": "Segun los criterios de gravedad de Tokio, el drenaje debe ser precoz en pacientes con gravedad grados II y III."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La opcion B es falsa porque incluye a S. aureus entre los microorganismos gramnegativos, cuando en realidad S. aureus es un coco grampositivo. Ademas, la lista de microorganismos asociados a manipulacion instrumental en la via biliar incluye fundamentalmente gramnegativos (E. coli, Klebsiella, Enterobacter, Proteus) y enterococos, pero S. aureus no es el patogeno tipico de la colangitis post-CPRE. La clasificacion taxonomica erronea hace que esta sea la afirmacion falsa.",
+   "incorrectas": {
+    "A": "La triada de Charcot (fiebre, dolor en hipocondrio derecho e ictericia) es un criterio diagnostico clasico de la colangitis aguda, siendo una afirmacion verdadera.",
+    "C": "La descripcion de la frecuencia de sintomas y los signos de bacteriemia/shock septico es correcta y se corresponde con las guias de Tokio.",
+    "D": "Las guias de Tokio recomiendan drenaje biliar precoz en los grados II (moderado) y III (grave) de colangitis aguda, siendo una afirmacion verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La peritonitis bacteriana espontanea (PBE) es una complicacion frecuente y grave de los pacientes con cirrosis y ascitis. Senale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El diagnostico de la PBE se basa fundamentalmente en el recuento de polimorfonucleares (PMN) en el liquido ascitico (LA), obtenido mediante una de los cuatro semanas posteriores a finalizar el tratamiento no se recomienda realizar urocultivo.",
+   "B": "Se establece la existencia de una PBE cuando la cifra de PMN es igual o superior a 250/microL, en ausencia de un foco infeccioso intraabdominal tratable quirurgicamente.",
+   "C": "Cuando un cultivo es positivo (~40% de casos), los patogenos mas comunes incluyen bacterias Gram-negativas (BGN), normalmente Escherichia coli y cocos Gram positivos (principalmente especies de Streptococcus y Enterococcus).",
+   "D": "Se debe realizar profilaxis primaria de PBE en pacientes cirrhoticos con hemorragia digestiva, pacientes con proteinas en liquido ascitico < 1,5 g/dL y/o funcion renal deteriorada y profilaxis secundaria tras el primer episodio de PBE."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La opcion C es incorrecta porque afirma que los cultivos son positivos en aproximadamente el 40% de los casos de PBE, cuando en realidad la positividad del cultivo en la PBE es baja (aproximadamente 40-60% segun series, pero la afirmacion sobre los patogenos es cuestionable). Sin embargo, el principal error es que los cultivos positivos en PBE suelen deberse predominantemente a bacterias gramnegativas como E. coli y Klebsiella, siendo los cocos grampositivos (Streptococcus, Enterococcus) menos frecuentes que lo que la opcion sugiere. La proporcion y la descripcion de patogenos no se corresponde fielmente con la epidemiologia actual de la PBE.",
+   "incorrectas": {
+    "B": "El umbral diagnostico de PMN mayor o igual a 250/microL en liquido ascitico en ausencia de foco intraabdominal quirurgico es el criterio diagnostico estandar de la PBE, siendo una afirmacion correcta.",
+    "D": "Las indicaciones de profilaxis primaria (hemorragia digestiva, proteinas en LA bajas, deterioro renal) y secundaria (tras primer episodio) son correctas segun las guias de practica clinica de la EASL."
+   }
+  }
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Cual es la formula correcta para calcular el anion GAP?:",
+  "opciones": {
+   "A": "AG = Na+ - (Cl- + CO3H-).",
+   "B": "AG = Na+ - (Cl- + CO3H-).",
+   "C": "AG = Cl- - (Na+ + CO3H-).",
+   "D": "AG = Cl- + (Na+ - CO3H-)."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones del equilibrio acido-base. Trastornos hidroelectroliticos. Valoracion, diagnostico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El anion gap se calcula como la diferencia entre el sodio plasmatico y la suma del cloro y el bicarbonato: AG = Na+ - (Cl- + HCO3-). Esta formula refleja los aniones no medidos en el plasma y su valor normal es de 8 a 12 mEq/L. Un AG elevado indica la presencia de acidos no medidos como lactato, cuerpos cetonicos, salicilatos u otras toxinas.",
+   "incorrectas": {
+    "C": "Esta formula resta el sodio al cloro, lo que carece de sentido fisiopatologico y daria valores negativos en condiciones normales.",
+    "D": "Esta formula suma cloro con la diferencia entre sodio y bicarbonato, lo que no corresponde a ninguna formula reconocida para el calculo del anion gap."
+   }
+  }
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Cual de las siguientes opciones describe mejor el manejo urgente del paciente con alteraciones electrocardiograficas secundarias a hiperpotasemia?",
+  "opciones": {
+   "A": "Administracion de gluconato de calcio intravenoso para estabilizar la membrana celular.",
+   "B": "Iniciar infusion de bicarbonato de sodio intravenoso para corregir la acidosis metabolica.",
+   "C": "Administracion de insulina y glucosa intravenosas para desplazar el potasio del espacio extracelular.",
+   "D": "Iniciar diureticos de asa para promover la excrecion renal de potasio."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones del equilibrio acido-base. Trastornos hidroelectroliticos. Valoracion, diagnostico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Cuando la hiperpotasemia produce alteraciones electrocardiograficas (ondas T picudas, ensanchamiento del QRS, onda sinusoidal), el primer paso es la estabilizacion de la membrana del cardiomiocito mediante gluconato de calcio intravenoso (10 ml de gluconato calcico al 10% en 2-3 minutos). El calcio no reduce la potasemia pero protege rapidamente al corazon de arritmias graves mientras se instauran medidas para reducir el potasio.",
+   "incorrectas": {
+    "B": "El bicarbonato puede ayudar a desplazar el potasio al interior celular en contexto de acidosis, pero no es la primera medida ante alteraciones ECG; no estabiliza la membrana cardiaca.",
+    "C": "La insulina con glucosa es eficaz para desplazar el potasio al interior celular y reducir la potasemia, pero su efecto tarda 15-30 minutos; no protege de forma inmediata la membrana cardiaca como el calcio.",
+    "D": "Los diureticos de asa aumentan la excrecion renal de potasio pero su accion es lenta y no sirven como primera medida de emergencia ante alteraciones ECG por hiperpotasemia grave."
+   }
+  }
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Indique cual de los siguientes farmacos esta indicado en la litiasis ureteral con fines expulsivos:",
+  "opciones": {
+   "A": "Morfina en dosis de 10 mg cada 8 horas.",
+   "B": "Dexketoprofeno trometamol en dosis de 50 mg cada 8 horas.",
+   "C": "Metamizol magnesico en dosis de 2 g cada 8 horas.",
+   "D": "Tamsulosina en dosis de 0,4 mg cada 24 horas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefrtico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La tamsulosina es un alfabloqueante selectivo que relaja la musculatura lisa del uretero distal, facilitando el paso y la expulsion espontanea del calculo ureteral. Esta es la unica indicacion especifica con fines expulsivos (terapia medica expulsiva) recogida en las guias urologicas para calculos de hasta 10 mm en el uretero distal, con una dosis estandar de 0,4 mg/24 horas.",
+   "incorrectas": {
+    "A": "La morfina es un analgesico opioide util para el dolor del colico renal pero no tiene efecto expulsivo sobre el calculo ureteral.",
+    "B": "El dexketoprofeno es un AINE efectivo para la analgesia del colico renal, pero su mecanismo de accion no facilita la expulsion del calculo.",
+    "C": "El metamizol tiene accion analgesica y espasmolitica que alivia el dolor del colico, pero no actua sobre la musculatura lisa ureteral de forma selectiva como los alfabloqueantes."
+   }
+  }
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En cuanto a la sepsis, senale lo CORRECTO:",
+  "opciones": {
+   "A": "La neumonia es el foco de infeccion que con mas frecuencia origina sepsis, por delante de la infeccion del tracto urinario y de la infeccion del abdominal.",
+   "B": "La taquipnea y la hiperventilacion aguda con alcalosis respiratoria e hipocapnia (PaO2 < 30 mmHg) sin hipoxemia es una de las manifestaciones mas tardias de los procesos septicos.",
+   "C": "La disfuncion neurologica mas frecuente es la disminucion del nivel de consciencia, desde la obnubilacion hasta el coma (su presencia y nivel de gravedad no se correlacionan con un peor pronostico del cuadro septico).",
+   "D": "La disfuncion renal en los pacientes septicos graves se debe fundamentalmente a la hipoperfusion junto con cifras de presion arterial que no remontaron con drogas vasoactivas antes de la sepsis."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "La neumonia es efectivamente el foco de infeccion mas frecuente desencadenante de sepsis en adultos hospitalizados, seguida de la infeccion urinaria y la intraabdominal, segun los grandes registros epidemiologicos internacionales y espanoles de sepsis. Esta jerarquia de focos es un dato relevante en la valoracion inicial del paciente septico.",
+   "incorrectas": {
+    "B": "La taquipnea y la alcalosis respiratoria son precisamente una de las manifestaciones MAS TEMPRANAS de la sepsis, no tardias; aparecen en fases iniciales como respuesta compensatoria a la acidosis metabolica.",
+    "C": "La encefalopatia septica (disminucion del nivel de consciencia) si se correlaciona con peor pronostico en el paciente septico; la afirmacion de que no hay correlacion con la gravedad es incorrecta.",
+    "D": "La disfuncion renal en la sepsis es multifactorial e incluye hipoperfusion, mediadores inflamatorios, microtrombos y toxinas, no unicamente la hipoperfusion refractaria a vasoactivos."
+   }
+  }
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente de 78 anos consulta en su Servicio de Urgencias Hospitalario porque desde hace 3 semanas tiene hematuria, nocturia, hematoquecia, junto con un nivel de creatinina serica de 3,5 mg/dl. Cual de las siguientes opciones constituye la mejor atencion clinica urgente posible para este caso?",
+  "opciones": {
+   "A": "Iniciar tratamiento antibiotico de amplio espectro y analgesicos para el control del dolor si apareciera y solicitar una interconsulta urgente para evaluar la necesidad de realizar una broncoscopia.",
+   "B": "Realizar de forma inmediata ecografia a pie de cama para evaluar la morfologia renal, descartar obstruccion del tracto urinario. Sueroterapia y si confirma globo vesical, sondaje vesical y lavado vesical continuo si en el interior de la vejiga se han visto coagulos.",
+   "C": "Iniciar sueroterapia con solucion salina y consulta urgente a nefrologia para una urologia para evaluacion y manejo de la hematuria.",
+   "D": "Solicitar una consulta urgente con un nefrologo y realizar una tomografia computarizada (TC) abdominal con contraste para descartar una obstruccion tubulointersticial."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefritico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "Ante hematuria macroscopica con elevacion de creatinina (posible uropatia obstructiva) y sospecha de globo vesical, la ecografia urgente a pie de cama es la primera exploracion indicada para descartar obstruccion del tracto urinario. Si se confirma retencion urinaria con coagulos, el sondaje vesical y el lavado vesical continuo son las medidas terapeuticas inmediatas correctas para evitar mayor deterioro renal y tratar la causa.",
+   "incorrectas": {
+    "A": "La broncoscopia no tiene ninguna indicacion en un cuadro de hematuria, nocturia y deterioro renal; esta opcion es totalmente inadecuada para este caso.",
+    "C": "Aunque la sueroterapia puede ser util, derivar a nefrologia sin evaluacion ecografica previa retrasa el diagnostico de una posible obstruccion tratable de forma urgente.",
+    "D": "El TC con contraste esta contraindicado en insuficiencia renal grave (creatinina 3,5 mg/dl) por riesgo de nefrotoxicidad por contraste; ademas la ecografia es suficiente como primera exploracion."
+   }
+  }
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente con antecedentes de diabetes y alcoholismo cronico acude a urgencias por presentar edema escrotal y peneano con dolor intenso y a la exploracion presenta crepitacion y equimosis. Debemos sospechar:",
+  "opciones": {
+   "A": "Torsion testicular.",
+   "B": "Orquiepididimitis.",
+   "C": "Parafimosis.",
+   "D": "Gangrena de Fournier."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefritico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La gangrena de Fournier es una fascitis necrotizante polimicrobiana que afecta al perineo y genitales externos. Se presenta tipicamente en pacientes inmunodeprimidos (diabeticos, alcoholicos) con edema escrotal y peneano rapidamente progresivo, dolor intenso, crepitacion a la palpacion (gas subcutaneo producido por germenes anaerobioss) y equimosis. Es una emergencia quirurgica con alta mortalidad que requiere desbridamiento quirurgico urgente e ingreso en UCI.",
+   "incorrectas": {
+    "A": "La torsion testicular cursa con dolor escrotal agudo intenso y asimetria testicular, pero no produce crepitacion ni equimosis extensa en el escroto y pene.",
+    "B": "La orquiepididimitis presenta inflamacion escrotal con fiebre, pero sin crepitacion subcutanea ni equimosis extensa, y no es caracteristica de pacientes con estos factores de riesgo.",
+    "C": "La parafimosis afecta al prepucio retraido con isquemia del glande, sin crepitacion ni edema escrotal extenso ni equimosis."
+   }
+  }
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En el manejo del sindrome coronario agudo sin elevacion del ST (SCASEST) seria CIERTO que:",
+  "opciones": {
+   "A": "Para la estratificacion del riesgo isquemico a corto plazo, se tienen en cuenta diferentes aspectos clinicos que deben complementarse con el uso de las escalas. La mas utilizada es la escala GRACE que predice el riesgo de reinfarto, la mortalidad hospitalaria y a alta.",
+   "B": "El algoritmo de exclusion (rule-out) e inclusion (rule-in) de 0/1 horas o 0/2 horas utilizando troponina ultrasensible (hsTn) permite identificar pacientes para identificar los pacientes con SCASEST en precisa de mas determinaciones a las 3-6 horas.",
+   "C": "Segun estratificacion del riesgo y atencion en SCASEST, los pacientes con riesgo alto (IAMSEST) presentan GRACE >140, con angiografia invasiva en las primeras <2 horas.",
+   "D": "Segun el tratamiento de pacientes con SCASEST se recomienda iniciar terapia de doble antiagregacion con 60 meses de angiografia invasiva en las primeras <2 horas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Sindrome coronario agudo. Codigo infarto en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "La escala GRACE (Global Registry of Acute Coronary Events) es la escala de estratificacion de riesgo mas utilizada y validada en el SCASEST. Permite predecir la mortalidad hospitalaria y a los 6 meses, asi como el riesgo de reinfarto, guiando la decision sobre el momento de la coronariografia invasiva segun el nivel de riesgo (muy alto, alto, intermedio o bajo).",
+   "incorrectas": {
+    "B": "Los algoritmos rapidos de 0/1h o 0/2h con troponina ultrasensible sirven precisamente para descartar o confirmar IAMSEST rapidamente, evitando la necesidad de esperar determinaciones a las 3-6 horas; la descripcion es incorrecta.",
+    "C": "En el SCASEST, los pacientes de riesgo MUY ALTO (no solo alto) son los que requieren angiografia invasiva en las primeras 2 horas; los de riesgo alto lo requieren en menos de 24 horas segun guias ESC.",
+    "D": "La opcion tiene un error evidente al mencionar 60 meses como referencia temporal para la angiografia, lo que no corresponde a ninguna recomendacion clinica real."
+   }
+  }
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Uno de los siguientes signos o sintomas no es propio de la orquiepididimitis aguda?",
+  "opciones": {
+   "A": "Escroto aumentado de tamano con signos locales de inflamacion.",
+   "B": "Puede presentar hidrocele reactiva.",
+   "C": "Signo de Prehn positivo.",
+   "D": "Reflejo cremasterico anulado."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefritico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "El reflejo cremasterico anulado es caracteristico de la TORSION TESTICULAR, no de la orquiepididimitis. En la torsion testicular, la isquemia del testiculo suprime el reflejo cremasterico, siendo su ausencia un signo clinico altamente sugestivo de torsion. En la orquiepididimitis, el reflejo cremasterico suele estar conservado.",
+   "incorrectas": {
+    "A": "El escroto aumentado de tamano con signos de inflamacion local (eritema, calor, edema) es un hallazgo tipico y esperado de la orquiepididimitis aguda.",
+    "B": "La hidrocele reactiva (acumulacion de liquido en la cavidad vaginal del testiculo) es una complicacion frecuente de la inflamacion testicular en la orquiepididimitis.",
+    "C": "El signo de Prehn positivo (alivio del dolor al elevar el testiculo) es clasicamente positivo en la orquiepididimitis, a diferencia de la torsion testicular donde es negativo o no alivia."
+   }
+  }
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La actitud recomendada ante una hipoglucemia en un paciente diabetico seria (senale la respuesta INCORRECTA):",
+  "opciones": {
+   "A": "Si el paciente esta consciente, administrar 15-20 gr de hidratos de carbono (HC) de absorcion rapida y medir glucemia en 15 minutos.",
+   "B": "Si el paciente esta inconsciente, sin via venosa canalizada, administrar glucagon 1 mg intramuscular o subcutaneo. Determinar glucemia capital a los 10 minutos.",
+   "C": "Si el paciente esta inconsciente con via venosa periferica canalizada, administraremos 10 mg de suero glucosado al 10%. Determinar glucemia capilar a los 10 minutos.",
+   "D": "Si la glucemia es >70mg/dl, sabremos que si es inconsciente, administrar 15-20 gr de hidratos de carbono (HC) de absorcion lenta y medir glucemia en 15 minutos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensacion hiperglucemia hiperosmolar no cetosica. Cetoacidosis diabetica. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "La opcion C es incorrecta porque la dosis de glucosa intravenosa en hipoglucemia grave en adulto con via venosa es de 20-50 ml de suero glucosado al 50% (o equivalente 10-25 g de glucosa), NO 10 mg (que es una cantidad negligible). La pauta correcta es 20-50 ml de glucosa hipertonica al 50% IV en bolo, seguida de control de glucemia a los 10-15 minutos. El error en la cantidad hace que esta opcion sea la incorrecta.",
+   "incorrectas": {
+    "A": "Ante hipoglucemia en paciente consciente, la regla de los 15 (15-20 g de HC de absorcion rapida y control en 15 minutos) es el tratamiento estandar correcto.",
+    "B": "Si el paciente esta inconsciente sin via venosa, el glucagon 1 mg IM o SC es el tratamiento de eleccion correcto, con control de glucemia a los 10-15 minutos.",
+    "D": "Si la glucemia ya es mayor de 70 mg/dl el paciente no esta en hipoglucemia activa, por lo que no procede administrar mas hidratos de carbono; esta opcion describe una actitud inadecuada pero la pregunta pide la opcion incorrecta del manejo de la hipoglucemia, siendo la C la que tiene el error clinico mas claro."
+   }
+  }
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varon de 45 anos que acude a urgencias por comportamiento inapropiado, agresivo e irritado. El paciente presenta hiponatremia refractaria a fluidos, coloracion oscura de las areolas mamarias y en la analitica destaca hiponatremia, hiperpotasemia y una glucemia de 45 mg/dl. Senale el diagnostico mas probable:",
+  "opciones": {
+   "A": "Crisis mineralcorticoidea.",
+   "B": "Hipoglucemia por insulinoma.",
+   "C": "Sepsis.",
+   "D": "Crisis addisoniana."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotoxica. Crisis addisoniana. Crisis mixedematosa. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La triada de hiponatremia, hiperpotasemia e hipoglucemia junto con la hiperpigmentacion de las areolas (signo de estimulacion melanocitica por ACTH elevada) en un paciente con alteracion del comportamiento es el cuadro clasico de la insuficiencia suprarrenal aguda o crisis addisoniana. La hiperpigmentacion cutaneo-mucosa es un sello caracteristico de la enfermedad de Addison primaria, diferenciandola de la insuficiencia suprarrenal secundaria.",
+   "incorrectas": {
+    "A": "Una crisis mineralcorticoidea pura cursaria con hiperpotasemia pero no con la hiperpigmentacion melanocitica ni con la trias metabolica completa descrita.",
+    "B": "Un insulinoma produce hipoglucemia por hiperinsulinismo, pero no causa hiponatremia ni hiperpotasemia ni hiperpigmentacion de areolas.",
+    "C": "La sepsis puede causar hipoglucemia e hiponatremia pero no produce hiperpotasemia ni hiperpigmentacion de areolas; el cuadro clinico no encaja con una sepsis."
+   }
+  }
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Si llega a urgencias un paciente tratado con Dabigatran por una fibrilacion auricular no valvular y presenta una hemorragia gastrointestinal activa con compromiso vital, cual de los siguientes farmacos le parece especialmente indicado utilizar?",
+  "opciones": {
+   "A": "Vitamina K y sulfato de protamina por via intravenosa.",
+   "B": "Andexanet alfa, si esta disponible.",
+   "C": "Idarucizumab por via intravenosa.",
+   "D": "Gluconato calcico con fitomenadiona intravenoso."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "El idarucizumab (Praxbind) es el antidoto especifico del dabigatran, un inhibidor directo de la trombina. Es un fragmento de anticuerpo monoclonal que se une al dabigatran con alta afinidad, neutralizando rapidamente su efecto anticoagulante. Esta indicado en hemorragias graves con riesgo vital o en procedimientos urgentes en pacientes en tratamiento con dabigatran.",
+   "incorrectas": {
+    "A": "La vitamina K revierte el efecto de los antagonistas de la vitamina K (acenocumarol, warfarina), y el sulfato de protamina revierte la heparina no fraccionada; ninguno es efectivo contra el dabigatran.",
+    "B": "El andexanet alfa es el antidoto de los inhibidores del factor Xa (rivaroxaban, apixaban, edoxaban), no del dabigatran que es un inhibidor directo de la trombina.",
+    "D": "El gluconato calcico y la fitomenadiona (vitamina K) no tienen efecto sobre la actividad anticoagulante del dabigatran."
+   }
+  }
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En cuanto a la enfermedad de Von Willebrand, es incorrecto:",
+  "opciones": {
+   "A": "Es la diatesis hemorragica hereditaria mas frecuente.",
+   "B": "Se hereda de forma autosomiga recesiva excepto el tipo 3, que es de herencia autosomiga dominante o por doble heterocigosis.",
+   "C": "Se produce por un deficit cualitativo o cuantitativo de la sintesis del factor de Von Willebrand.",
+   "D": "Se clasifica en tres tipos, siendo el tipo 1 el mas habitual."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion B es incorrecta porque invierte el patron de herencia. La enfermedad de Von Willebrand tipo 1 y tipo 2 (la mayoria de los casos) se heredan de forma AUTOSOMIGA DOMINANTE, mientras que el tipo 3 (la forma mas grave) se hereda de forma AUTOSOMIGA RECESIVA. Por tanto, la regla es la contraria a lo descrito en la opcion B.",
+   "incorrectas": {
+    "A": "La enfermedad de Von Willebrand es efectivamente la coagulopatia hereditaria mas frecuente, con una prevalencia estimada del 1% de la poblacion general.",
+    "C": "El mecanismo fisiopatologico correcto es el deficit cuantitativo (tipos 1 y 3) o cualitativo (tipo 2) del factor de Von Willebrand.",
+    "D": "La clasificacion en tres tipos principales es correcta, y el tipo 1 (deficit cuantitativo leve-moderado) es el mas frecuente, representando el 70-80% de los casos."
+   }
+  }
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Cual de las siguientes afirmaciones describe una indicacion adecuada para la fibrinolisis en el codigo ictus segun las directrices de Castilla-La Mancha?",
+  "opciones": {
+   "A": "La fibrinolisis esta indicada en pacientes con ictus isquemico que presentan sintomas neurologicos leves y una puntuacion en la escala NIHSS menor de 4, sin importar el tiempo de inicio de los sintomas.",
+   "B": "La fibrinolisis es apropiada en pacientes con ictus hemorragico confirmado por tomografia computerizada (TC) que presentan una ventana de tiempo de hasta 3 horas desde el inicio de los sintomas.",
+   "C": "La fibrinolisis puede considerarse en pacientes con ictus isquemico si no hay contraindicaciones y la ventana de tiempo es de hasta 12 horas desde el inicio de los sintomas.",
+   "D": "La fibrinolisis es adecuada en pacientes con ictus isquemico agudo que cumplen con los criterios de elegibilidad y tienen una ventana de tiempo de hasta 4,5 horas desde el inicio de los sintomas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "La ventana terapeutica establecida para la fibrinolisis intravenosa con alteplasa (rt-PA) en el ictus isquemico agudo es de hasta 4,5 horas desde el inicio de los sintomas, segun las guias de la ESO (European Stroke Organisation) y los protocolos nacionales de codigo ictus, incluidos los de Castilla-La Mancha. El paciente debe cumplir criterios de inclusion y no presentar contraindicaciones.",
+   "incorrectas": {
+    "A": "Un NIHSS menor de 4 con sintomas leves no es en si mismo una indicacion de fibrinolisis; ademas la ventana temporal es crucial y no puede ignorarse; los sintomas minimos o que se recuperan rapidamente son una contraindicacion relativa.",
+    "B": "El ictus hemorragico es una CONTRAINDICACION ABSOLUTA de la fibrinolisis; la TC previa es obligatoria precisamente para descartar hemorragia antes de administrar el trombolisis.",
+    "C": "La ventana de 12 horas no corresponde a la fibrinolisis IV estandar; puede existir seleccion de pacientes para trombectomia mecanica en ventanas extendidas, pero no para fibrinolisis IV convencional."
+   }
+  }
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Le llaman de observacion porque un paciente que acaba de transfundir ha tenido una reaccion transfusional aguda de tipo hemolitico. El tratamiento de eleccion en este caso seria:",
+  "opciones": {
+   "A": "Corticoides a altas dosis. Antihistaminicos. Adrenalina: 0,3-0,5 ml 1:1.000 s.c./i.m. Repetir cada 3-5 min.",
+   "B": "Sueroterapia. Diureticos (Furosemida). Mantener flujo renal > 100 ml/h. Alcalinizar orina y valorar: Dopa a dosis renales.",
+   "C": "Prever VMI y UCI. Mortalidad del 10%. En la mayor parte de los casos remite en 24-48 horas con soporte. No existe tratamiento especifico.",
+   "D": "Prever UCI. Extraer hemocultivos al paciente y la bolsa. Antibioticos de amplio espectro de forma inmediata."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La reaccion hemolitica aguda transfusional (incompatibilidad ABO) requiere detener inmediatamente la transfusion y tratar la complicacion principal que es el fracaso renal agudo por deposito de hemoglobina libre en los tubulos renales. El tratamiento se basa en sueroterapia agresiva para mantener una diuresis forzada mayor de 100 ml/h, diureticos de asa (furosemida) para mantener el flujo renal y alcalinizacion de la orina con bicarbonato para prevenir la precipitacion de hemoglobina en los tubulos; la dopamina a dosis renales puede valorarse para mejorar la perfusion renal.",
+   "incorrectas": {
+    "A": "La pauta con corticoides, antihistaminicos y adrenalina es el tratamiento de la reaccion anafilactica transfusional, no de la hemolitica aguda.",
+    "C": "Esta descripcion corresponde mejor al sindrome de dificultad respiratoria aguda transfusional (TRALI), no a la reaccion hemolitica aguda.",
+    "D": "La pauta con hemocultivos y antibioticos de amplio espectro es el tratamiento de la reaccion febril bacteriana por contaminacion de la bolsa de sangre, no de la reaccion hemolitica inmunologica."
+   }
+  }
+ }
+]

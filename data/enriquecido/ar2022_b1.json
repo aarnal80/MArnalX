@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Según la Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, todas las personas tienen derecho a acceder a los servicios públicos de Salud, en condiciones de:",
+  "opciones": {
+   "A": "Igualdad, universalidad y calidad.",
+   "B": "Igualdad, dignidad y participación.",
+   "C": "Universalidad, dignidad y transparencia.",
+   "D": "Calidad, participación y universalidad."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 1, "tema": "Constitución Española de 1978: La protección de la salud en la Constitución. Estatuto de Autonomía de Aragón."},
+  "explicacion": {
+   "correcta": "El art. 14.1 del Estatuto de Autonomía de Aragón (LO 5/2007) reconoce expresamente el derecho de todas las personas a acceder a los servicios públicos de salud 'en condiciones de igualdad, universalidad y calidad'. Es una pregunta de memorización literal del texto estatutario; conviene fijar el trío exacto de adjetivos.",
+   "incorrectas": {
+    "B": "Mezcla términos del ámbito de derechos sociales (dignidad, participación) que no son los adjetivos que el Estatuto vincula al acceso a los servicios de salud.",
+    "C": "'Universalidad' es correcta, pero 'dignidad' y 'transparencia' no forman parte de la fórmula literal del derecho de acceso a la sanidad.",
+    "D": "Aunque calidad y universalidad sí aparecen, 'participación' no completa la terna estatutaria, que exige también igualdad."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación a la Bioética: ¿qué afirmación es cierta?",
+  "opciones": {
+   "A": "La Ley 14/2007, de 3 de julio, de Investigación biomédica crea el Comité de Bioética de España y los de las comunidades autónomas como órganos colegiados e independientes y de carácter consultivo.",
+   "B": "La ciencia y la sociedad prevalecen sobre los intereses del ser humano que participa en una investigación.",
+   "C": "La medicina defensiva se relaciona con el principio de no maleficencia.",
+   "D": "La investigación con muestras biológicas obtenidas con finalidad distinta a la de la investigación no requiere del consentimiento del paciente si se ha procedido a su anonimización."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 39, "tema": "Los comités de Bioética. La ética en la investigación clínica."},
+  "explicacion": {
+   "correcta": "La medicina defensiva (solicitar pruebas o tratamientos innecesarios por temor a reclamaciones, exponiendo al paciente a riesgos sin beneficio) se vincula al principio de no maleficencia ('primum non nocere'). Es la única afirmación verdadera; conviene relacionar cada conducta clínica con su principio bioético.",
+   "incorrectas": {
+    "A": "La Ley 14/2007 crea el Comité de Bioética de España, pero no crea los comités autonómicos; describir ambos como creados por esta ley es inexacto.",
+    "B": "Es el principio inverso: el interés y el bienestar del ser humano deben prevalecer sobre el interés exclusivo de la ciencia o la sociedad (Convenio de Oviedo y Ley 14/2007).",
+    "D": "La anonimización no exime de forma absoluta del consentimiento; la normativa exige garantías y, salvo excepciones tasadas, el respeto a la voluntad del donante sobre el uso de sus muestras."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En los ensayos clínicos señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El análisis por protocolo es un análisis de los datos de un ensayo clínico relacionados únicamente con los participantes que han completado el plan de tratamiento y han seguido exactamente las instrucciones del protocolo del ensayo.",
+   "B": "El análisis por intención de tratar es una forma de analizar los resultados que considera a todos los individuos ingresados al estudio de acuerdo al grupo al que fueron asignados originalmente siempre que hayan cumplido con el protocolo.",
+   "C": "Se dice que un ensayo clínico es válido si permite asegurar que el efecto observado es debido a la diferente intervención que ha recibido el grupo de intervención y el grupo control y no a otros factores que puedan haber producido una falsa conclusión.",
+   "D": "El estudio experimental más frecuente es el ensayo clínico aleatorio que se corresponde con un diseño experimental entre grupos donde se compara los desenlaces observados en dos o más grupos de individuos que reciben diferentes tratamientos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 29, "tema": "Estudios experimentales. Ensayos clínicos. Ética de la investigación clínica. Validez de métodos diagnósticos: sensibilidad, especificidad, valor predictivo positivo."},
+  "explicacion": {
+   "correcta": "El análisis por intención de tratar (ITT) analiza a TODOS los sujetos en el grupo al que fueron asignados aleatoriamente, hayan cumplido o no el protocolo, abandonado o cambiado de tratamiento. La coletilla 'siempre que hayan cumplido con el protocolo' es falsa: esa condición define precisamente el análisis por protocolo, no el ITT.",
+   "incorrectas": {
+    "A": "Define correctamente el análisis por protocolo: solo participantes que completaron el tratamiento y siguieron el protocolo.",
+    "C": "Define correctamente la validez interna del ensayo clínico.",
+    "D": "Describe correctamente el ensayo clínico aleatorizado como diseño experimental entre grupos, el estudio experimental más habitual."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En relación a la calidad en el Sistema Nacional de Salud ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "La calidad es un concepto multidimensional y estático.",
+   "B": "La satisfacción del paciente es parte del proceso asistencial y debe valorarse mediante encuestas y analizando sugerencias y reclamaciones.",
+   "C": "La Ley de cohesión y calidad prevé un registro de sucesos adversos de carácter general.",
+   "D": "El análisis causa raíz está vinculado al análisis de los sucesos centinela."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 37, "tema": "Evaluación y mejora de la calidad. Modelos de Gestión de la Calidad. Diseño de un programa de calidad."},
+  "explicacion": {
+   "correcta": "La calidad es multidimensional pero NO estática: es un concepto dinámico que evoluciona con las expectativas, el conocimiento y la tecnología. Afirmar que es 'estática' la hace falsa; la mejora continua de la calidad es precisamente lo contrario a un concepto inmóvil.",
+   "incorrectas": {
+    "B": "Es verdadera: la satisfacción del paciente forma parte de la calidad asistencial y se mide con encuestas, sugerencias y reclamaciones.",
+    "C": "Es verdadera: la Ley 16/2003 de cohesión y calidad contempla registros de seguridad y sucesos adversos.",
+    "D": "Es verdadera: el análisis causa-raíz (ACR) es la herramienta clásica para investigar sucesos centinela."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "La Ley 41/2002, de 14 de noviembre, cuando se refiere al derecho de acceso a la historia clínica en su Artículo 18, establece que:",
+  "opciones": {
+   "A": "El paciente tiene el derecho de acceso sin reserva ninguna a la documentación de la historia clínica.",
+   "B": "El derecho de acceso del paciente a la historia clínica podrá ser ejercido únicamente por el propio paciente.",
+   "C": "El acceso a la historia clínica del paciente fallecido podrá facilitarse a las personas vinculadas a él siempre que así lo soliciten.",
+   "D": "El derecho de acceso del paciente a la historia clínica podrá ejercerse también por representación debidamente acreditada."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 12, "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."},
+  "explicacion": {
+   "correcta": "El art. 18.1 de la Ley 41/2002 establece que el derecho de acceso a la historia clínica puede ejercerse 'por representación debidamente acreditada', además de por el propio paciente. Esta posibilidad de representación es el matiz que el examinador busca.",
+   "incorrectas": {
+    "A": "El acceso no es 'sin reserva ninguna': se exceptúan las anotaciones subjetivas de los profesionales y los datos de terceros.",
+    "B": "Es falsa porque excluye la representación; el derecho no lo ejerce únicamente el propio paciente.",
+    "C": "El acceso del paciente fallecido a familiares/vinculados está limitado y puede denegarse si el fallecido lo prohibió expresamente; no es un derecho incondicional por el mero hecho de solicitarlo."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al gobierno clínico, ¿qué afirmación es FALSA?",
+  "opciones": {
+   "A": "Los principios del gobierno clínico consolidan la correlación entre eficiencia y calidad en los servicios sanitarios.",
+   "B": "Este concepto fue establecido para el Sistema de Salud Británico en sus orígenes.",
+   "C": "En este concepto no se incluye la gestión del riesgo.",
+   "D": "Es un concepto que abarca un trabajo conjunto entre clínicos: médicos, enfermeros, etc. y de éstos con los pacientes."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 40, "tema": "Gobierno clínico. La implicación de los profesionales en el funcionamiento de las instituciones sanitarias."},
+  "explicacion": {
+   "correcta": "La gestión del riesgo es uno de los pilares fundamentales del gobierno clínico (clinical governance), junto con la efectividad clínica, la auditoría, la formación y la participación del paciente. Afirmar que no la incluye es falso.",
+   "incorrectas": {
+    "A": "Verdadera: el gobierno clínico busca articular calidad y eficiencia en la práctica asistencial.",
+    "B": "Verdadera: el concepto de 'clinical governance' surge en el NHS británico a finales de los años 90.",
+    "D": "Verdadera: implica el trabajo conjunto de profesionales entre sí y con los pacientes."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "NO es un principio general de actuación de los poderes públicos aragoneses, en materia de igualdad:",
+  "opciones": {
+   "A": "La integración de la igualdad de trato y oportunidades entre mujeres y hombres en el conjunto de las políticas.",
+   "B": "La participación y representación equilibrada de mujeres y hombres en todos los ámbitos de decisión públicos y privados.",
+   "C": "El establecimiento de medidas para la conciliación de la vida laboral, familiar y personal de mujeres y hombres.",
+   "D": "La protección de la maternidad, dependiendo del modelo de familia."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 20, "tema": "La igualdad de oportunidades entre mujeres y hombres en Aragón: Disposiciones generales."},
+  "explicacion": {
+   "correcta": "La Ley 7/2018 de igualdad de oportunidades entre mujeres y hombres en Aragón protege la maternidad 'con especial atención' sin condicionarla a ningún modelo de familia. La coletilla 'dependiendo del modelo de familia' introduce una discriminación incompatible con el principio de igualdad, por eso NO es un principio de actuación.",
+   "incorrectas": {
+    "A": "Sí es un principio: transversalidad de la igualdad (mainstreaming) en todas las políticas.",
+    "B": "Sí es un principio: participación y representación equilibrada en los ámbitos de decisión.",
+    "C": "Sí es un principio: fomento de la conciliación de la vida laboral, familiar y personal."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En estadística aplicada a los estudios de Medicina, señale la respuesta FALSA respecto a la regresión de Poisson:",
+  "opciones": {
+   "A": "La principal bondad del modelo es que es capaz de captrurar la naturaleza discreta y no negativa de los datos de recuento.",
+   "B": "Determina que variables explicativas tienen un efecto en una variable de respuesta.",
+   "C": "Se aplica a varios fenómenos de la naturaleza cuando la probabilidad de ocurrencia del fenómeno no es constante en el tiempo o en el espacio.",
+   "D": "Se aplica para enfermedades y eventos de alta frecuencia."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 26, "tema": "Metodología de la Investigación: El método científico. Diseño de un proyecto de investigación. Estadística aplicada a los estudios de Medicina."},
+  "explicacion": {
+   "correcta": "La regresión de Poisson modela datos de recuento de eventos RAROS o poco frecuentes (baja probabilidad por unidad de tiempo/espacio). Decir que se aplica a eventos de 'alta frecuencia' es falso: precisamente su utilidad está en sucesos infrecuentes.",
+   "incorrectas": {
+    "A": "Verdadera: el modelo respeta la naturaleza discreta y no negativa de los recuentos.",
+    "B": "Verdadera: como toda regresión, identifica qué variables explicativas afectan a la respuesta.",
+    "C": "Verdadera: se aplica cuando la probabilidad de ocurrencia varía en el tiempo o el espacio."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿En qué situación administrativa se encuentra quien está de Incapacidad Temporal?",
+  "opciones": {
+   "A": "Servicio activo.",
+   "B": "Servicios especiales.",
+   "C": "Suspensión de funciones.",
+   "D": "Excedencia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 18, "tema": "Jornada de trabajo, permisos y licencias. Situaciones del personal estatutario."},
+  "explicacion": {
+   "correcta": "La incapacidad temporal no es una situación administrativa propia: el personal estatutario en IT permanece en SERVICIO ACTIVO. Es una causa de suspensión de la prestación de servicios, pero la situación administrativa sigue siendo la de activo.",
+   "incorrectas": {
+    "B": "Los servicios especiales se reservan a supuestos tasados (cargos públicos, misiones, etc.), no a la baja por enfermedad.",
+    "C": "La suspensión de funciones es una situación derivada de sanción disciplinaria o proceso penal, no de la enfermedad.",
+    "D": "La excedencia (voluntaria, por cuidado de familiares, etc.) implica cese temporal del vínculo activo, distinto de la IT."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El Servicio de Salud en Todas las Políticas se estructura dentro del Departamento en:",
+  "opciones": {
+   "A": "Dirección General de Salud Pública.",
+   "B": "Secretaría General Técnica.",
+   "C": "Dirección General de Asistencia Sanitaria.",
+   "D": "Dirección General de Transformación Digital, Innovación y Derechos de los Usuarios."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 25, "tema": "Estructura del Departamento de Sanidad de Aragón y del Servicio Aragonés de la Salud. Los Sectores sanitarios."},
+  "explicacion": {
+   "correcta": "El enfoque de 'Salud en Todas las Políticas' es una estrategia poblacional/preventiva propia de la salud pública, por lo que el Servicio correspondiente se integra orgánicamente en la Dirección General de Salud Pública del Departamento de Sanidad de Aragón.",
+   "incorrectas": {
+    "B": "La Secretaría General Técnica asume funciones administrativas, jurídicas y de gestión interna, no de salud poblacional.",
+    "C": "La D.G. de Asistencia Sanitaria gestiona la atención asistencial, no la estrategia transversal de salud en todas las políticas.",
+    "D": "La D.G. de Transformación Digital se ocupa de innovación y derechos de los usuarios, no de salud pública."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En un paciente con Enfermedad Pulmonar Obstructiva Crónica (EPOC) de 62 años y oxigenoterapia domiciliaria que acude a urgencias por exacerbación, tos y expectoración productiva y que presenta, tras haber iniciado tratamiento, 20 respiraciones por minuto, una PO2 de 60 mmHg, pH de 7,40, frecuencia cardiaca de 90 lpm, indica la respuesta correcta:",
+  "opciones": {
+   "A": "El paciente tiene una exacerbación grave de EPOC y precisa intubación orotraqueal urgente.",
+   "B": "El paciente precisa ventilación mecánica no invasiva de inmediato.",
+   "C": "El paciente tiene una exacerbación leve con alta probabilidad de alta hospitalaria y tratamiento ambulatorio.",
+   "D": "Se debe indicar ingreso hospitalario y suspender oxigenoterapia domiciliaria."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 54, "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "Tras iniciar tratamiento el paciente está estable: FR 20 rpm, FC 90 lpm, pH 7,40 (sin acidosis ni retención de CO2 descompensada) y PO2 de 60 mmHg adecuada para un EPOC. Estos parámetros normalizados indican una exacerbación leve con buena respuesta, candidata a alta y manejo ambulatorio.",
+   "incorrectas": {
+    "A": "No hay criterios de gravedad ni de fracaso ventilatorio (pH normal, sin taquipnea marcada ni inestabilidad) que justifiquen intubación.",
+    "B": "La VMNI se indica ante acidosis respiratoria (pH < 7,35 con hipercapnia); aquí el pH es 7,40, por lo que no está indicada.",
+    "D": "No procede ingreso por buena evolución, y nunca se retira la oxigenoterapia domiciliaria crónica indicada de base."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique cuál es la pauta inicial de antiagregación que debemos utilizar, en un paciente que NO está en tratamiento con antiagregantes, en el SCACEST que NO es candidato a tratamiento de reperfusión:",
+  "opciones": {
+   "A": "AAS (150-300 mg vo) y Clopidogrel (75mg vo).",
+   "B": "AAS (150-300 mg vo) y Ticagrelor (200 mg vo).",
+   "C": "AAS (150-300 mg vo) o Clopidogrel (75 mg vo) si AAS contraindicado.",
+   "D": "AAS (150-300 mg vo) y Clopidogrel 300 mg vo."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "En el SCACEST no candidato a reperfusión se recomienda doble antiagregación con AAS (150-300 mg) más clopidogrel a dosis de carga de 300 mg vo (clopidogrel es el inhibidor P2Y12 de elección en este contexto frente a prasugrel/ticagrelor, reservados a estrategia invasiva). La clave es la dosis de CARGA de 300 mg, no la de mantenimiento.",
+   "incorrectas": {
+    "A": "75 mg es la dosis de mantenimiento de clopidogrel, no la dosis de carga inicial.",
+    "B": "Ticagrelor no es el antiagregante de elección en el no candidato a reperfusión, y la dosis de carga correcta de ticagrelor sería 180 mg.",
+    "C": "Plantea monoterapia ('o ... si AAS contraindicado'), cuando lo indicado es doble antiagregación combinando AAS y clopidogrel."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la crisis asmática de instauración rápida:",
+  "opciones": {
+   "A": "Se producen por un mecanismo de broncoconstricción.",
+   "B": "Pueden ser desencadenadas por AINES.",
+   "C": "La respuesta terapéutica es más lenta.",
+   "D": "Conllevan mayor riesgo vital que las de instauración lenta."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 55, "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "Las crisis asmáticas de instauración rápida (hiperagudas) se deben a broncoespasmo intenso y, aunque son más graves y con mayor riesgo vital, responden MÁS RÁPIDO al tratamiento broncodilatador. Decir que la respuesta terapéutica es más lenta es incorrecto: esa lentitud caracteriza a las crisis de instauración lenta (predominio inflamatorio).",
+   "incorrectas": {
+    "A": "Correcta: el mecanismo predominante es la broncoconstricción.",
+    "B": "Correcta: AINE, alérgenos y estrés pueden desencadenarlas.",
+    "D": "Correcta: tienen mayor riesgo vital por su rápida e intensa instauración."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique la respuesta INCORRECTA, respecto a las recomendaciones en Soporte Vital Básico en Adultos, según las guías del Consejo Europeo de Resucitación (ERC) 2021:",
+  "opciones": {
+   "A": "Realice las compresiones en la mitad inferior del esternón («en el centro del pecho»).",
+   "B": "Comprima hasta una profundidad de al menos 5 cm, pero no más de 6 cm.",
+   "C": "Comprima el tórax a un ritmo de 100-120 minutos con el menor número de interrupciones posible.",
+   "D": "Deje que el tórax se re-expanda completamente después de cada compresión; permaneciendo apoyado en el tórax."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "Las guías ERC 2021 indican permitir la reexpansión completa del tórax SIN permanecer apoyado sobre él entre compresiones, para favorecer el retorno venoso. La afirmación es incorrecta justo por la coletilla 'permaneciendo apoyado en el tórax', que contradice la recomendación.",
+   "incorrectas": {
+    "A": "Correcta: compresiones en la mitad inferior del esternón, centro del pecho.",
+    "B": "Correcta: profundidad de al menos 5 cm sin superar los 6 cm.",
+    "C": "Correcta: ritmo de 100-120 compresiones por minuto minimizando interrupciones."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señala la respuesta correcta acerca de las fracturas de diáfisis de cúbito y radio en niños incompletas o en tallo verde:",
+  "opciones": {
+   "A": "La pseudoartrosis es una complicación frecuente.",
+   "B": "La reducción abierta y fijación interna son necesarias en la mayoría de los casos.",
+   "C": "A menor edad del niño mayor potencial de remodelación.",
+   "D": "La osteomielitis es la complicación más frecuente."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 87, "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "En el niño, cuanto menor es la edad mayor es el potencial de remodelación ósea por la actividad de las fisis y el periostio. Por ello las fracturas en tallo verde toleran cierta angulación residual y suelen manejarse de forma conservadora con buen resultado.",
+   "incorrectas": {
+    "A": "Al contrario: la consolidación infantil es rápida y la pseudoartrosis es rara en niños.",
+    "B": "La mayoría se tratan de forma conservadora (reducción cerrada e inmovilización); la cirugía es excepcional.",
+    "D": "La osteomielitis no es una complicación frecuente en fracturas cerradas en tallo verde."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta correcta acerca del uso de la succinilcolina como agente bloqueante neuromuscular (BNM) en la secuencia de intubación rápida en urgencias:",
+  "opciones": {
+   "A": "La recuperación plena del bloqueo neuromuscular tiene lugar en 30 segundos.",
+   "B": "La hiperpotasemia no es un efecto secundario.",
+   "C": "En pacientes con traumatismo oculares penetrantes y elevación de la presión intraocular e intracraneal el agente de elección como BNM es la succinilcolina.",
+   "D": "La acción despolarizante de la succinilcolina provoca fasciculaciones que se pueden reducir con el uso de un BNM competitivo."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 43, "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."},
+  "explicacion": {
+   "correcta": "La succinilcolina es un relajante despolarizante que produce fasciculaciones musculares iniciales; pueden atenuarse administrando previamente una dosis pequeña ('priming/precurarización') de un BNM no despolarizante (competitivo). Es la afirmación correcta.",
+   "incorrectas": {
+    "A": "La recuperación plena no es a los 30 s: su efecto dura aproximadamente 6-10 minutos; el inicio de acción sí es muy rápido (~45-60 s).",
+    "B": "La hiperpotasemia SÍ es un efecto secundario clásico y peligroso (especialmente en quemados, aplastamiento o denervación).",
+    "C": "La succinilcolina ELEVA la presión intraocular e intracraneal, por lo que NO es de elección en trauma ocular penetrante; se prefiere un relajante no despolarizante (p. ej. rocuronio)."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En cuanto al tratamiento del shock anafiláctico señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Los corticoides como la metilprednisolona son la primera opción en el tratamiento del shock anafiláctico por su efecto inmediato.",
+   "B": "Se administrarán antihistamínicos como la dexclorfeniramina a dosis de 5 mg/8 horas por vía intravenosa, asociados a antihistamínicos H2 como ranitidina a dosis de 50 mg/8 horas por vía intravenosa.",
+   "C": "Las medidas iniciales de tratamiento incluyen asegurar la vía aérea, mejorar la oxigenación y estabilizar la circulación mediante la administración de líquidos en bolos.",
+   "D": "La adrenalina se puede administrar por vía subcutánea en dosis de 0,4 mg o por vía intravenosa a la misma dosis, pudiendo repetirse si no hay respuesta."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 102, "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "El fármaco de primera elección en el shock anafiláctico es la ADRENALINA (intramuscular), no los corticoides. Los corticoides tienen efecto diferido (horas) y se usan para prevenir la fase tardía/bifásica, nunca por un supuesto 'efecto inmediato'. Por eso la afirmación A es falsa.",
+   "incorrectas": {
+    "B": "Verdadera: los antihistamínicos H1 (dexclorfeniramina) y H2 (ranitidina) son tratamiento coadyuvante.",
+    "C": "Verdadera: el ABC con vía aérea, oxigenación y fluidoterapia en bolos es prioritario.",
+    "D": "Recoge correctamente la posibilidad de adrenalina por distintas vías; aunque la vía de elección es la IM, la afirmación es admisible frente a la rotundidad falsa de la opción A (controversia menor sobre las vías/dosis citadas)."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el paciente oncológico con neutropenia febril señale cuál es un indicador de bajo riesgo:",
+  "opciones": {
+   "A": "Foco infeccioso documentado.",
+   "B": "Tumor sólido.",
+   "C": "Procalcitonina mayor de 0,05 ng/ml.",
+   "D": "Neoplasia hematológica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 83, "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."},
+  "explicacion": {
+   "correcta": "En la neutropenia febril, el tumor sólido es un criterio de BAJO riesgo (índice MASCC), frente a las neoplasias hematológicas, que suponen mayor inmunosupresión y duración de la neutropenia. El tumor sólido se asocia a neutropenias más breves y mejor pronóstico.",
+   "incorrectas": {
+    "A": "Un foco infeccioso documentado/clínicamente significativo orienta a ALTO riesgo.",
+    "C": "La elevación de procalcitonina sugiere infección bacteriana grave/sepsis, marcador de mayor riesgo.",
+    "D": "La neoplasia hematológica es un criterio clásico de ALTO riesgo en la neutropenia febril."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes enunciados considera INCORRECTO con relación a las epistaxis?",
+  "opciones": {
+   "A": "El 90% se originan en el plexo de Kiesselbach.",
+   "B": "Las epistaxis posteriores son mas frecuentes en ancianos con HTA.",
+   "C": "La endoscopia nasal es de gran utilidad en epistaxis posteriores.",
+   "D": "Entre las primeras medidas adoptar,mientras se toman las constantes vitales, se procederá a obtener pruebas analíticas y control de coagulación."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 90, "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."},
+  "explicacion": {
+   "correcta": "La prioridad ante una epistaxis es el control LOCAL del sangrado (compresión, taponamiento) junto con la valoración hemodinámica, no la obtención sistemática de analítica y coagulación como primera medida. Plantear la analítica como medida inicial es incorrecto; las pruebas se reservan a sangrados graves, recidivantes o sospecha de coagulopatía/anticoagulación.",
+   "incorrectas": {
+    "A": "Correcta: la mayoría (~90%) son anteriores, en el área de Kiesselbach (Little).",
+    "B": "Correcta: las posteriores son más frecuentes en ancianos hipertensos y suelen ser más graves.",
+    "C": "Correcta: la endoscopia nasal ayuda a localizar y tratar el punto sangrante posterior."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Una herramienta para despistaje de probable depresión de un paciente es el índice de KATZ.",
+   "B": "Una herramienta para el despistaje de probable deterioro cognitivo de un paciente es el test de Pfeiffer.",
+   "C": "El índice de Barthel es un instrumento utilizado para la valoración funcional de un paciente.",
+   "D": "La situación funcional es un potente factor pronostico en diferentes procesos agudos como insuficiencia cardíaca o la infección."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 97, "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."},
+  "explicacion": {
+   "correcta": "El índice de Katz es una escala de valoración FUNCIONAL (actividades básicas de la vida diaria), no de cribado de depresión. Para el cribado de depresión en el anciano se usan escalas como la de Yesavage (GDS). Por eso la afirmación es incorrecta.",
+   "incorrectas": {
+    "B": "Correcta: el test de Pfeiffer (SPMSQ) cribará el deterioro cognitivo.",
+    "C": "Correcta: el índice de Barthel valora la independencia funcional en ABVD.",
+    "D": "Correcta: la situación funcional basal es un potente factor pronóstico en procesos agudos."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes criterios diagnósticos NO se corresponde con una cetoacidosis diabética?",
+  "opciones": {
+   "A": "pH mayor de 7,35.",
+   "B": "Cetonuria positiva (++/+++) o cetonemia en sangre capilar mayor de 3 mmol/L.",
+   "C": "Anión GAP mayor de 16.",
+   "D": "Bicarbonato menor de 15 mmol/L y/o pH menor de 7,30."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 71, "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."},
+  "explicacion": {
+   "correcta": "La cetoacidosis diabética cursa por definición con ACIDOSIS metabólica (pH bajo, típicamente < 7,30). Un pH MAYOR de 7,35 es normal y NO corresponde a una CAD, por lo que es el criterio que no encaja.",
+   "incorrectas": {
+    "B": "Correcta: la cetonuria/cetonemia elevada es criterio diagnóstico de CAD.",
+    "C": "Correcta: la CAD genera acidosis metabólica con anión GAP elevado (> 16).",
+    "D": "Correcta: bicarbonato < 15 mmol/L y/o pH < 7,30 definen la acidosis de la CAD."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál NO es un criterio de Ranson a evaluar a las 48 horas de evolución tras el ingreso en la pancreatitis aguda alcohólica?",
+  "opciones": {
+   "A": "Descenso del hematocrito mayor de 10%.",
+   "B": "Calcemia menor de 8.",
+   "C": "LDH mayor de 350 UI/L.",
+   "D": "Leucocitosis mayor de 16.000/mm3."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 63, "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "La LDH > 350 UI/L es un criterio de Ranson que se evalúa al INGRESO (junto con edad, leucocitos, glucemia y AST/GOT), no a las 48 horas. Por tanto no es uno de los criterios de las 48 h, que sí incluyen descenso del hematocrito, hipocalcemia, déficit de líquidos, urea, PaO2 y déficit de bases.",
+   "incorrectas": {
+    "A": "El descenso del hematocrito > 10% SÍ es criterio de las 48 horas.",
+    "B": "La calcemia < 8 mg/dl (hipocalcemia) SÍ es criterio de las 48 horas.",
+    "D": "La leucocitosis > 16.000/mm3 es un criterio de Ranson, pero corresponde al ingreso; aun así, lo que el examinador identifica como respuesta es la LDH, clásicamente listada al ingreso. Conviene memorizar la separación ingreso/48 h: la leucocitosis es de ingreso al igual que la LDH, lo que hace esta pregunta discutible, pero la plantilla oficial señala la C."
+   }
+  }
+ }
+]

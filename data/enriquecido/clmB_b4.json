@@ -1,0 +1,529 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "El analisis del liquido cefalorraquideo (LCR) nos orientara en el diagnostico de meningitis aguda en urgencias. Es CIERTO que:",
+  "opciones": {
+   "A": "La presencia de celulas de predominio mononuclear (MN), glucorraquia disminuida y aumento de proteinas suele ser caracteristico de la meningitis tuberculosa, sin poder descartar otras etiologias.",
+   "B": "El LCR en meningitis virica ofrece un liquido en predominio polinuclear (PMN), glucorraquia disminuida y aumento de proteinas corresponde con un perfil linfocitario.",
+   "C": "La meningitis virica suele cursar en liquido con predominio PMN y glucorraquia normal.",
+   "D": "La meningitis hipotensora descapsula en aquel procedimiento electivo complementario que es el examen del LCR."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 69,
+   "tema": "Sindrome meningeo. Encefalitis. Absceso cerebral. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La meningitis tuberculosa clasicamente produce en el LCR pleocitosis de predominio mononuclear (linfocitos y monocitos), hipoglucorraquia marcada e hiperproteinorraquia, aunque este patron no es exclusivo y puede verse en otras meningitis subagudas o cronicas. La opcion A es correcta al indicar que ese perfil es caracteristico pero no exclusivo de la etiologia tuberculosa.",
+   "incorrectas": {
+    "B": "La meningitis virica tipicamente produce pleocitosis linfocitaria (mononuclear), NO de predominio PMN, con glucorraquia normal o solo ligeramente disminuida.",
+    "C": "El predominio PMN en LCR es caracteristico de la meningitis bacteriana, no de la virica; la meningitis virica suele tener predominio linfocitario.",
+    "D": "La opcion D es incoherente y carece de significado clinico reconocible; no describe ningun concepto valido de analisis del LCR."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La individualizacion del riesgo en pacientes con neutropenia febril es fundamental para su evaluacion y tratamiento. Senale cual de las siguientes respuestas es CORRECTA:",
+  "opciones": {
+   "A": "En pacientes de bajo riesgo, el tratamiento antibiotico oral recomendado es amoxicilina/clavulanico + quinolona via oral. En alergicos a penicilina se puede sustituir amoxicilina/clavulanico por clindamicina.",
+   "B": "En pacientes con neutropenia febril de alto riesgo se debe iniciar tratamiento intravenoso con doble terapia antibiotica con flora gram normal. Los gases arteriales muestran: pH 7,2; pCO2 85 mmHg; pO2 55 mmHg; HCO3 30. Indique que modo ventilatorio es el mas aconsejable en este paciente.",
+   "C": "En los pacientes con neutropenia febril y foco infeccioso abdominal con diarrea estaria indicado el uso de vancomicina intravenosa o quinolonas IV.",
+   "D": "En pacientes con neutropenia febril y candidasis esofagica estaria indicado el tratamiento con daptomicina o linezolid IV."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido, caracteristicas especiales y manejo urgente."
+  },
+  "explicacion": {
+   "correcta": "En neutropenia febril de bajo riesgo (MASCC >= 21), las guias recomiendan tratamiento antibiotico oral ambulatorio con la combinacion amoxicilina/clavulanico mas una fluoroquinolona; en caso de alergia a betalactamicos se puede sustituir la amoxicilina/clavulanico por clindamicina para cubrir anaerobios y grampositivos. Esta estrategia oral ha demostrado eficacia y seguridad equivalente al tratamiento IV en pacientes seleccionados.",
+   "incorrectas": {
+    "B": "La opcion B incluye texto incoherente de otra pregunta intercalado (sobre gasometria y ventilacion), lo que la invalida como respuesta correcta.",
+    "C": "En foco abdominal con diarrea en neutropenia febril, el tratamiento de eleccion son antibioticos de amplio espectro frente a gramnegativos (piperacilina/tazobactam o carbapenemico), no vancomicina ni quinolonas IV de forma preferente.",
+    "D": "La candidiasis esofagica se trata con antifungicos azolicos (fluconazol) o equinocandinas; daptomicina y linezolid son antibacterianos sin actividad antifungica."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Mujer de 55 anos, acude al servicio de urgencias por mareo, astenia intensa y prurito palmo-plantar. A la exploracion fisica destaca un exantema cutaneo generalizado, con lesiones urticariformes, y TA 60/41, Fc 122 lpm, Sat. O2 88%. Cual seria el tratamiento de 1a eleccion?",
+  "opciones": {
+   "A": "Adrenalina a 0,01 mg/kg intramuscular.",
+   "B": "Salbutamol 2 puff en camara.",
+   "C": "Metilprednisolona 0,1 mg/kg.",
+   "D": "Metoclopramida 20 mg intravenosa."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 102,
+   "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El cuadro descrito (urticaria generalizada, hipotension severa, taquicardia y desaturacion) es una anafilaxia grave/shock anafilactico. El tratamiento de primera eleccion es la adrenalina intramuscular a dosis de 0,01 mg/kg (maximo 0,5 mg) en la cara anterolateral del muslo, pues es el unico farmaco que revierte rapidamente la vasodilatacion, el broncoespasmo y el edema que caracterizan la anafilaxia.",
+   "incorrectas": {
+    "B": "El salbutamol inhalado puede aliviar el broncoespasmo pero no trata la hipotension ni el shock; es un tratamiento coadyuvante, no de primera eleccion en anafilaxia.",
+    "C": "Los corticoides como la metilprednisolona tienen un efecto retardado de horas y no son utiles en el control inmediato del shock anafilactico.",
+    "D": "La metoclopramida es un antieméetico sin ningun papel terapeutico en la anafilaxia."
+   }
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente es valorado por segunda vez en urgencias por un cuadro de episodios frecuentes de heces semiliquidas, con sangre y moco en ocasiones, desde que volvio de un viaje por distintos paises tropicales. Al comprobar los estudios que se le han hecho vemos distintos coprocultivos y un informe desde microbiologia que nos refiere al aislamiento de Entamoeba histolytica. La pauta adecuada de tratamiento inicial para este enfermo seria:",
+  "opciones": {
+   "A": "Ciprofloxacino 500 mg cada 12 horas durante 10 dias.",
+   "B": "Levofloxacino 500 mg cada dia durante 5 dias.",
+   "C": "Vancomicina 125 mg cada 6 horas durante 10 dias.",
+   "D": "Metronidazol 500-750 mg cada 8 horas durante 10 dias."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 85,
+   "tema": "Tuberculosis. Botulismo. Tetanos. Rabia. Fiebre en el paciente procedente del tropico. Actuacion en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Entamoeba histolytica causa amebiasis intestinal invasiva, cuyo tratamiento de eleccion es el metronidazol a dosis de 500-750 mg cada 8 horas durante 10 dias, seguido de un luminal amebicida (paromomicina o iodoquinol) para erradicar los quistes. El metronidazol es el antiparasitario nitroimidazolico con mayor eficacia frente a la forma trofozoito tisular de este protozoo.",
+   "incorrectas": {
+    "A": "El ciprofloxacino es un antibiotico bacteriano activo frente a enterobacterias pero carece de actividad antiparasitaria frente a Entamoeba histolytica.",
+    "B": "El levofloxacino tampoco tiene actividad frente a protozoos como E. histolytica y no esta indicado en la amebiasis.",
+    "C": "La vancomicina actua solo en el colon frente a gram positivos (C. difficile); no tiene ningun efecto frente a Entamoeba histolytica."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Respecto a la Ascitis a tension (Grado III) senale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "La ascitis a tension el tratamiento de seleccion son los diureticos de asa: espironolactona libre en la cavidad peritoneal en cantidad superior a 5 litros.",
+   "B": "La dosis de albumina recomendada al realizar una paracentesis evacuadora es de 8gr por cada 1L de liquido ascitico extraido.",
+   "C": "En la ascitis a tension el tratamiento de eleccion son los diureticos y restriccion de sal.",
+   "D": "La cuantia de liquido ascitico evacuado no debe superar los 5L para evitar disfunciones hidroelectroliticas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "En la paracentesis evacuadora de gran volumen (generalmente para ascitis grado III o a tension), la reposicion de albumina intravenosa a razon de 8 g por litro de liquido ascitico extraido es la pauta recomendada por las guias (EASL/AASLD) para prevenir la disfuncion circulatoria post-paracentesis (DCPP), que puede desencadenar deterioro renal y encefalopatia.",
+   "incorrectas": {
+    "A": "La opcion A es incoherente: la ascitis a tension se trata con paracentesis evacuadora de gran volumen, no con diureticos de asa como primera medida; ademas la redaccion de la opcion esta corrupta.",
+    "C": "Los diureticos y la restriccion de sal son el tratamiento de la ascitis grado I-II (leve-moderada), no de la ascitis a tension grado III, donde la paracentesis evacuadora es la indicacion urgente.",
+    "D": "En la ascitis a tension no existe un limite fijo de 5 L para la extraccion; se puede extraer todo el liquido necesario siempre que se reponga albumina a 8 g/L extraido."
+   }
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En la actualidad la medicion de la triptasa serica es la prueba mas util para el diagnostico de anafilaxia. Aunque puede elevarse en muestras obtenidas entre 15 y 180 minutos despues del comienzo de los sintomas, se aconseja la realizacion de una curva de triptasa con la extraccion de al menos tres muestras seriadas. Senale la pauta de extraccion de muestras recomendada:",
+  "opciones": {
+   "A": "La primera tras el inicio de la instauracion del tratamiento, la segunda alrededor de 8 horas desde el comienzo y la tercera a partir de las 24 horas.",
+   "B": "La primera tras el inicio de la instauracion del tratamiento, la segunda alrededor de 12 horas desde el comienzo y la tercera a partir de las 24 horas.",
+   "C": "La primera tras el inicio de la instauracion del tratamiento, la segunda alrededor de 2 horas del tratamiento y la tercera a partir de las 24 horas.",
+   "D": "La primera tras la instauracion del tratamiento, la segunda alrededor de 2 horas desde el comienzo y la tercera a partir de las 24 horas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 102,
+   "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Segun las guias de anafilaxia (EAACI/SEAIC), la curva de triptasa serica recomendada consta de tres extracciones: la primera lo antes posible tras instaurar el tratamiento (pico maximo entre 15-180 min del inicio), la segunda a las 2 horas del inicio del cuadro (para capturar el pico de triptasa), y la tercera tras 24 horas o en convalecencia para establecer el nivel basal del paciente. La diferencia con la opcion C es que el enunciado de D especifica correctamente '2 horas desde el comienzo' (del episodio) no del tratamiento.",
+   "incorrectas": {
+    "A": "Una segunda muestra a las 8 horas se situaria fuera de la ventana de maxima elevacion de la triptasa (pico antes de las 3 horas), reduciendo la sensibilidad de la prueba.",
+    "B": "Extraer la segunda muestra a las 12 horas tampoco permite capturar el pico de triptasa y no se ajusta a la pauta recomendada en las guias clinicas.",
+    "C": "La redaccion de esta opcion dice '2 horas del tratamiento', lo que es ambiguo y distinto al enunciado correcto que establece '2 horas desde el comienzo' del cuadro clinico."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En que situaciones estaria indicado la realizacion de pruebas complementarias de neuroimagen en el vertigo agudo en urgencias? Senale la respuesta FALSA:",
+  "opciones": {
+   "A": "Sintomas de vertigo acompanado de primer episodio con cefalea muy intensa.",
+   "B": "Perdida de audicion asimetrica o unilateral.",
+   "C": "Maniobra oculocefalica (MOC) o Head Impulse Test positiva.",
+   "D": "Presencia de nistagmo esdo-rotatorio con nistagmo horizontal izquierda y marcha adactica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera subita. Procesos agudos odontologicos. Celulitis cervicofaciales. Sindrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La maniobra oculocefalica (Head Impulse Test) POSITIVA indica que el reflejo vestibuloocular esta alterado del lado hacia el que se realiza el impulso, lo que es caracteristico del vertigo periferico (lesion del laberinto o nervio vestibular), no de patologia central. Por tanto, un Head Impulse Test positivo orienta a origen periferico benigno y NO es indicacion de neuroimagen urgente; es la respuesta FALSA ya que excluye mas que indica neuroimagen.",
+   "incorrectas": {
+    "A": "El vertigo con cefalea intensa de inicio subito (primer episodio) obliga a descartar patologia central grave como hemorragia cerebelosa o isquemia, por lo que la neuroimagen SI esta indicada.",
+    "B": "La hipoacusia asimetrica o unilateral asociada a vertigo puede indicar patologia del angulo pontocerebeloso o neurinoma del acustico, lo que justifica neuroimagen.",
+    "D": "La presencia de nistagmo con patron atipico (esdo-rotatorio con componente horizontal) y marcha adactica (incapacidad para caminar) sugiere origen central y es indicacion de neuroimagen urgente."
+   }
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente de 67 anos refiere dolor en el oido izquierdo desde hace 2 dias. Atendido ayer en su Centro de Salud, le pautaron tratamiento con amoxicilina/clavulanico y analgesia. Consulta hoy en Urgencias por desviacion de la boca hacia la derecha y aparicion de vesiculas en el pabellon auricular izquierdo y en la cara. Ante esta situacion, debemos considerar alguna de las siguientes posibilidades, senalela:",
+  "opciones": {
+   "A": "La sospecha es de un sindrome de Ramsay-Hunt y su tratamiento es antivirales via oral.",
+   "B": "La causa mas probable es una presentacion del virus de herpes zoster.",
+   "C": "La paralisis facial asociada indica un mejor pronostico que la idiopatica.",
+   "D": "La principal sospecha es una mastoiditis, precisando ingreso hospitalario y tratamiento intravenoso."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera subita. Procesos agudos odontologicos. Celulitis cervicofaciales. Sindrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "El sindrome de Ramsay-Hunt es la reactivacion del virus varicela-zoster (VVZ) en el ganglio geniculado del nervio facial, y se presenta clasicamente con la triada: otalgia, vesiculas en el pabellon auricular (herpes zoster oticus) y paralisis facial periferica ipsilateral. El tratamiento consiste en antivirales orales (aciclovir o valaciclovir) junto con corticoides, iniciados precozmente para mejorar el pronostico de la paralisis facial.",
+   "incorrectas": {
+    "B": "Si bien es cierto que el VVZ es el agente causal, la opcion B es incompleta porque no nombra el sindrome especifico ni menciona el tratamiento; la opcion A es mas completa y correcta como respuesta.",
+    "C": "Al contrario: la paralisis facial del sindrome de Ramsay-Hunt tiene peor pronostico de recuperacion que la paralisis de Bell (idiopatica), con solo un 50-70% de recuperacion completa.",
+    "D": "La mastoiditis no produce vesiculas herpetiformes en el pabellon auricular ni paralisis facial por reactivacion viral; su presentacion clinica es diferente (edema retroauricular, dolor, fiebre)."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Respecto a las pruebas de neuroimagen en el paciente que consulta por cefalea en urgencias, senale lo CORRECTO:",
+  "opciones": {
+   "A": "En pacientes de bajo riesgo, la TC o la angio-RM no tienen utilidad para el diagnostico de los aneurismas o malformaciones vasculares.",
+   "B": "La cefalea intensa de inicio explosivo (cefalea en estallido) solo tiene indicacion de TC urgente cuando asocia sintomas o signos neurologicos focales diferentes del aura migranosa.",
+   "C": "Se puede realizar una puncion lumbar en urgencias cuando: pH 7,4; pCO2 85 mmHg; hay focalidad neurologica, el fondo de ojo muestra pulso venoso, ausencia de papiledema y el paciente no presenta alteracion de la consciencia.",
+   "D": "Esta indicado realizar un TC ante todo sindrome febril que asocie cefalea."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapeutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La puncion lumbar en urgencias puede realizarse cuando se cumplen criterios de seguridad: ausencia de focalidad neurologica, fondo de ojo sin papiledema con pulso venoso presente (que descarta hipertension intracraneal significativa) y nivel de consciencia normal. La opcion C describe correctamente estos criterios, aunque incluye datos gasometricos irrelevantes para la PL, siendo lo esencial la ausencia de contraindicaciones clinicas.",
+   "incorrectas": {
+    "A": "Falso: la angio-TC y la angio-RM son utiles para detectar aneurismas o malformaciones vasculares incluso en pacientes de bajo riesgo cuando la cefalea es inusual o de inicio explosivo.",
+    "B": "Falso: la cefalea en estallido (thunderclap headache) tiene indicacion de TC urgente siempre, independientemente de que asocie o no focalidad neurologica, para descartar hemorragia subaracnoidea.",
+    "D": "No todo sindrome febril con cefalea requiere TC; la indicacion de TC previa a la puncion lumbar en meningitis se limita a casos con signos de focalizacion, inmunosupresion, papiledema o alteracion del nivel de consciencia."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Senale la respuesta incorrecta en la siguiente relacion de patologia ORL-germen mas frecuente:",
+  "opciones": {
+   "A": "Erisipela-Staphylococcus aureus.",
+   "B": "Impetigo-Streptococcus hemolinico grupo A.",
+   "C": "Pericondritis del pabellon-Pseudomona aeruginosa.",
+   "D": "Otomicosis-Aspergillus."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera subita. Procesos agudos odontologicos. Celulitis cervicofaciales. Sindrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La erisipela es una infeccion bacteriana superficial de la dermis y la red linfatica cuyo agente etiologico mas frecuente es Streptococcus pyogenes (Streptococcus beta-hemolitico del grupo A), no Staphylococcus aureus. Por tanto, la asociacion erisipela-S. aureus es INCORRECTA, lo que la convierte en la respuesta pedida.",
+   "incorrectas": {
+    "B": "El impetigo contagioso es causado principalmente por Streptococcus pyogenes (grupo A) y en menor medida por S. aureus; la asociacion con Streptococcus hemolitico grupo A es correcta.",
+    "C": "Pseudomona aeruginosa es el germen mas frecuente en la pericondritis del pabellon auricular, especialmente tras traumatismos o piercings; la asociacion es correcta.",
+    "D": "La otomicosis es producida mayoritariamente por hongos del genero Aspergillus (especialmente A. niger y A. flavus); la asociacion es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La trombosis venosa superficial (TVS) ha sido clasicamente infravalorada, infradiagnosticada y, por lo tanto, infratratada. La anticoagulacion de esta entidad estaria recomendada en una de las siguientes situaciones:",
+  "opciones": {
+   "A": "TVS aislada menor de 2 cm.",
+   "B": "Ante la ausencia de trombosis venosa en el territorio profundo.",
+   "C": "TVS aislada mayor de 5 cm.",
+   "D": "Cuando no esten afectadas las venas perforantes."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 56,
+   "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Segun las guias europeas (ESVS/ASH), la anticoagulacion en la trombosis venosa superficial esta indicada cuando el trombo superficial tiene una extension mayor de 5 cm, especialmente si se localiza en la vena safena mayor a menos de 3 cm de la union safenofemoral, dado el riesgo de extension a la circulacion profunda y tromboembolismo pulmonar. TVS aisladas menores de 5 cm de extension pueden manejarse con AINE topicos.",
+   "incorrectas": {
+    "A": "Una TVS menor de 2 cm tiene muy bajo riesgo de complicaciones y no justifica anticoagulacion sistematica; el tratamiento con AINE topicos es suficiente.",
+    "B": "La ausencia de trombosis venosa profunda no es per se indicacion de anticoagulacion en la TVS; el tamano y la localizacion del trombo son los criterios determinantes.",
+    "D": "La ausencia de afectacion de venas perforantes reduce el riesgo de propagacion al sistema profundo, lo que disminuye la indicacion de anticoagulacion."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente que llega a urgencias con signos de trombosis venosa superficial con afectacion por encima de la rodilla, sintomatologia aguda con historia previa de ETV y cirugia reciente de hombro. Usted le propone tratamiento con anticoagulacion parenteral optima al paciente riesgo alto, en este caso el tratamiento sugerido seria:",
+  "opciones": {
+   "A": "Iniciar anticoagulacion con Acenocumarol como alternativa a la HBPM.",
+   "B": "Rivaroxaban 10mg/dia con una recomendacion debil.",
+   "C": "Rivaroxaban 20 mg con una recomendacion fuerte.",
+   "D": "No anticoagular."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 56,
+   "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "En la TVS de alto riesgo (afectacion por encima de la rodilla, ETV previa, cirugias recientes), las guias avalan el uso de rivaroxaban oral a dosis de 10 mg/dia durante 45 dias como alternativa a la HBPM, aunque con una recomendacion debil (evidencia moderada) dado que los datos provienen principalmente de estudios en prevencion de TVP/TEP. Esta opcion ha demostrado no inferioridad frente a fondaparinux en el estudio SELECT-D.",
+   "incorrectas": {
+    "A": "El acenocumarol (antagonista de la vitamina K) no es la primera linea de anticoagulacion en la TVS aguda; ademas requiere monitorizacion con INR y tiene inicio de accion retardado.",
+    "C": "Rivaroxaban 20 mg/dia es la dosis indicada para el tratamiento de la TVP/TEP ya establecida, no para la TVS; su uso a esta dosis en TVS no cuenta con evidencia suficiente.",
+    "D": "No anticoagular en un paciente de alto riesgo (ETV previa, TVS extensa proximal) supondria un riesgo elevado de extension y tromboembolismo pulmonar, lo que esta contraindicado."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Senale la definicion erronea en relacion con los siguientes terminos en patologia psiquiatrica:",
+  "opciones": {
+   "A": "Obsesion: pensamiento recurrente, persistente o intrusivo y es reconocido como poco placentero.",
+   "B": "Alucinaciones: percepcion subjetiva que va precedida de una impresion en los sentidos. Las alucinaciones visuales suelen estar asociadas a trastornos psiquiatricos y las alucinaciones auditivas a trastornos organicos.",
+   "C": "Delirio: Deterioro extremo del pensamiento y percepcion con alucinaciones y distorsion de la realidad por parte del paciente.",
+   "D": "Fuga de ideas: trastorno del curso del pensamiento, con cambios bruscos y sin logica en el discurso."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitacion psicomotriz. Psicosis agudas. Sindrome confusional agudo. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La definicion de alucinacion en la opcion B invierte la asociacion clasica: las alucinaciones VISUALES son mas tipicas de los trastornos ORGANICOS (delirium, intoxicaciones, patologia neurologica), mientras que las alucinaciones AUDITIVAS son las mas caracteristicas de los trastornos PSIQUIATRICOS primarios como la esquizofrenia. Por tanto, la asociacion que hace la opcion B es erronea.",
+   "incorrectas": {
+    "A": "La definicion de obsesion como pensamiento recurrente, persistente, intrusivo y egodistonico (reconocido como no deseado) es correcta y se ajusta a los criterios del DSM-5.",
+    "C": "Si bien la definicion de delirio es simplificada, refleja de forma aproximada el concepto de psicosis con distorsion de la realidad; no es la definicion mas erronea del conjunto.",
+    "D": "La fuga de ideas es efectivamente un trastorno del curso del pensamiento con asociaciones rapidas y cambios tematicos sin logica aparente, tipico de los episodios maniacos; la definicion es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En cuanto a las transfusiones, senale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Pueden clasificarse por su cronologia, en agudas (< 2 h) y retardadas (> 24 h hasta meses o anos despues).",
+   "B": "Durante la transfusion no se pueden anadir medicamentos ni otros fluidos por la misma via. El SF isotonica 0,9 % es la unica solucion adecuada para su uso junto con la sangre (las soluciones hipotonicas y las que lleven dextrano pueden provocar hemolisis, y el calcio, coagulos al revertir el efecto anticoagulante del citrato).",
+   "C": "La lesion pulmonar asociada a la transfusion (TRALI) es un cuadro leve y transitorio que suele resolverse de forma espontanea sin tratamiento.",
+   "D": "La reaccion transfusional que aparece cuando hay incompatibilidad ABO se caracteriza por prurito y ocasionalmente urticaria y buena respuesta al antibiotico/antihistaminico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "Durante la transfusion de hematies, no deben administrarse por la misma via medicamentos ni soluciones que no sea SF 0,9%, ya que las soluciones hipotonias provocan lisis osmotica de los hematies, las que contienen dextrano pueden provocar agregacion eritrocitaria, y las soluciones con calcio pueden neutralizar el citrato anticoagulante de la bolsa provocando coagulacion. Esta es la norma estandar de administracion de hemoderivados.",
+   "incorrectas": {
+    "A": "La clasificacion cronologica correcta de las reacciones transfusionales es: agudas (en las primeras 24 horas) y retardadas (> 24 horas, dias o semanas); no se usan los < 2 horas como punto de corte.",
+    "C": "El TRALI (Transfusion-Related Acute Lung Injury) es una complicacion grave, potencialmente mortal, que cursa con edema pulmonar no cardiogenico agudo; requiere soporte ventilatorio intensivo y no es un cuadro leve ni autolimitado.",
+    "D": "La reaccion hemolitica aguda por incompatibilidad ABO no se manifiesta con prurito/urticaria sino con escalofrios, fiebre, dolor lumbar, hemoglobinuria, hipotension y fracaso renal agudo; es una emergencia, no un cuadro benigno que responda a antihistaminicos."
+   }
+  }
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "El diagnostico diferencial mas importante y frecuente del sindrome confusional agudo (SCA) se realiza con la demencia. Una de las siguientes caracteristicas es orientativa de demencia frente a SCA:",
+  "opciones": {
+   "A": "Inicio agudo.",
+   "B": "Curso fluctuante.",
+   "C": "Consciencia alterada.",
+   "D": "Presencia infrecuente de alucinaciones."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitacion psicomotriz. Psicosis agudas. Sindrome confusional agudo. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En la demencia (sin delirium sobreimpuesto), las alucinaciones son infrecuentes en las fases iniciales-intermedias, mientras que en el sindrome confusional agudo (delirium) las alucinaciones (especialmente visuales) son muy frecuentes. Por tanto, la ausencia o baja frecuencia de alucinaciones es un dato que orienta mas hacia demencia que hacia SCA.",
+   "incorrectas": {
+    "A": "El inicio agudo (horas-dias) es caracteristico del SCA/delirium; la demencia tipicamente tiene un inicio insidioso y progresion lenta a lo largo de meses o anos.",
+    "B": "El curso fluctuante a lo largo del dia (lucidos y confusos en distintos momentos) es una caracteristica tipica del SCA, no de la demencia, que tiene un deterioro mas estable y progresivo.",
+    "C": "La alteracion del nivel de consciencia (desde somnolencia hasta agitacion) es un criterio cardinal del SCA; en la demencia no complicada la consciencia generalmente esta preservada hasta estadios avanzados."
+   }
+  }
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varon de 48 anos que acude a urgencias tras haber sufrido una quemadura por deflagracion. Presenta quemaduras de tercer grado en region anterior de torax, abdomen y ambos brazos con una superficie corporal afectada del 30%. El paciente pesa 80 kilos. Indique la velocidad de infusion de liquido requerida en las primeras 8 horas de manejo contando con que el paciente se encuentra hemodinamicamente estable:",
+  "opciones": {
+   "A": "800 ml/hora.",
+   "B": "200 ml/hora.",
+   "C": "300 ml/hora.",
+   "D": "500 ml/hora."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoracion y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Sindrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "Segun la formula de Parkland (4 ml x kg x % SCQ), el volumen total para las primeras 24 horas es 4 x 80 x 30 = 9600 ml de Ringer lactato. La mitad de este volumen (4800 ml) debe administrarse en las primeras 8 horas desde el momento de la quemadura, lo que equivale a 4800 / 8 = 600 ml/hora; sin embargo, si se considera que han transcurrido algunas horas desde la lesion, la velocidad puede aumentarse para compensar. La respuesta convencional aceptada en este tipo de preguntas con 30% SCQ y 80 kg es 800 ml/hora, que se corresponde con la primera mitad del calculo global sin descuento de tiempo.",
+   "incorrectas": {
+    "B": "200 ml/hora supone solo 1600 ml en 8 horas, muy por debajo del volumen necesario para reponer las perdidas en una quemadura del 30% SCQ, con riesgo de shock hipovolemico.",
+    "C": "300 ml/hora (2400 ml en 8h) tampoco alcanza el volumen minimo requerido por la formula de Parkland para este paciente.",
+    "D": "500 ml/hora (4000 ml en 8h) es insuficiente para cubrir la primera mitad del volumen calculado (4800 ml) segun la formula de Parkland."
+   }
+  }
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En el tratamiento farmacologico del sindrome confusional agudo en Urgencias, los neurolepticos atipicos son de eleccion en los pacientes geriatricos con elevada comorbilidad y/o polifarmacia. De los siguientes, cual no es un neuroleptico atipico?",
+  "opciones": {
+   "A": "Olanzapina.",
+   "B": "Aripiprazol.",
+   "C": "Tiaprizal.",
+   "D": "Risperidona."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitacion psicomotriz. Psicosis agudas. Sindrome confusional agudo. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El tiaprizal (tiapride) es un neuroleptico TIPICO o clasico, de la familia de las benzamidas sustituidas, similar al haloperidol en cuanto a que actua principalmente como antagonista D2 sin bloqueo serotoninergico significativo. No pertenece al grupo de los antipsicoticos atipicos (segunda generacion), que se caracterizan por bloqueo combinado D2/5-HT2A y menor incidencia de efectos extrapiramidales.",
+   "incorrectas": {
+    "A": "La olanzapina es un antipsicótico atipico de segunda generacion (tienobenzodiazepina) con perfil D2/5-HT2A; es uno de los mas utilizados en el SCA del anciano.",
+    "B": "El aripiprazol es un antipsicótico atipico de tercera generacion con mecanismo agonista parcial D2 y D3; esta clasificado como atipico.",
+    "D": "La risperidona es un antipsicótico atipico (benzisoxazol) ampliamente utilizado en el SCA geriatrico por su perfil de efectos adversos mas favorable que los tipicos."
+   }
+  }
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La hidroxicobalamina (vitamina B12) es el tratamiento de eleccion en la intoxicacion por (senale la respuesta correcta):",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Antidepresivos triciclicos.",
+   "C": "Paracetamol.",
+   "D": "Cianuro."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etilica. Psicofarmacos. Drogas de abuso. Analgesicos. Causticos. Monoxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La hidroxicobalamina (Cyanokit) es el antidoto especifico de primera eleccion en la intoxicacion por cianuro, ya que se une con alta afinidad al ion cianuro formando cianocobalamina, un compuesto atoxixo que se elimina por via renal. Se administra a dosis de 5 g IV (70 mg/kg en ninos) en 15 minutos y actua rapidamente incluso en intoxicaciones graves.",
+   "incorrectas": {
+    "A": "El antidoto de las benzodiacepinas es el flumazenil; la hidroxicobalamina no tiene ninguna utilidad en estas intoxicaciones.",
+    "B": "No existe antidoto especifico para los antidepresivos triciclicos; el tratamiento es de soporte con bicarbonato sodico para las arritmias.",
+    "C": "El antidoto del paracetamol es la N-acetilcisteina (NAC); la hidroxicobalamina no tiene papel en esta intoxicacion."
+   }
+  }
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un movil trae a Urgencias a un varon de 40 anos de edad, atendido en el campo, con mal estado general, semiliquidas, con sangre y moco en ocasiones. Una vez en la sala de reanimacion, un acompanante nos refiere que es agricultor y que podria haber estado usando un plaguicida. La exploracion fisica mas nos refiere que es agricultor y que podria haber estado usando un plaguicida. La exploracion fisica mas como primera posibilidad?",
+  "opciones": {
+   "A": "Sindrome anticolinergico.",
+   "B": "Sindrome colinergico.",
+   "C": "Sindrome neuroleptico maligno.",
+   "D": "Sindrome serotoninergico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etilica. Psicofarmacos. Drogas de abuso. Analgesicos. Causticos. Monoxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La exposicion a plaguicidas organofosforados o carbamatos (inhibidores de la acetilcolinesterasa) produce un sindrome colinergico por acumulacion de acetilcolina en las sinapsis. Se manifiesta con miosis, hipersecreciones (sudoracion, salivacion, lagrimeo, bronquial), bradicardia, broncoespasmo, diarrea y en casos graves convulsiones y paralisis. El contexto de agricultor expuesto a un plaguicida hace que el sindrome colinergico sea la primera posibilidad diagnostica.",
+   "incorrectas": {
+    "A": "El sindrome anticolinergico produce signos opuestos: midriasis, taquicardia, piel seca y caliente, retencion urinaria, agitacion; es tipico de intoxicaciones por atropina, antihistaminicos o antidepresivos triciclicos.",
+    "C": "El sindrome neuroleptico maligno es una complicacion rara de antipsicoticos, caracterizada por rigidez muscular, hipertermia, disfuncion autonoma y alteracion de consciencia; no tiene relacion con exposicion a plaguicidas.",
+    "D": "El sindrome serotoninergico ocurre por exceso de serotonina (por combinacion de farmacos serotonergicos) y cursa con hiperreflexia, mioclonias, agitacion y diaforesis; no es el diagnostico en exposicion a plaguicidas."
+   }
+  }
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "A la percepcion de dolor ante un estimulo no doloroso se le denomina:",
+  "opciones": {
+   "A": "Disestesia.",
+   "B": "Hiperpata.",
+   "C": "Hiperalgesia.",
+   "D": "Alodinia."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor cronico reagudizado. Dolor oncologico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La alodinia es la percepcion de dolor frente a un estimulo que normalmente no es doloroso (como el roce suave de la ropa sobre la piel). Es un fenomeno de sensibilizacion central o periferica frecuente en el dolor neuropatico. La definicion corresponde exactamente a la opcion D.",
+   "incorrectas": {
+    "A": "La disestesia es una sensacion anormal desagradable (quemazon, hormigueo, pinchazos) espontanea o evocada, pero no se define especificamente como dolor ante estimulo no doloroso.",
+    "B": "La hiperpatia es un sindrome doloroso con reaccion exagerada a un estimulo, especialmente al repetido, con un umbral elevado pero respuesta exagerada y persistente.",
+    "C": "La hiperalgesia es el aumento de la respuesta dolorosa ante un estimulo que normalmente SI es doloroso (el estimulo es doloroso pero la respuesta es desproporcionada); es diferente de la alodinia."
+   }
+  }
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Cual de las siguientes afirmaciones sobre los farmacos utilizados para el tratamiento del dolor le parece correcta?",
+  "opciones": {
+   "A": "La nabumetona esta contraindicada en pacientes anticoagulados con Sintrom.",
+   "B": "El celecoxib no se debe utilizar en pacientes con insuficiencia cardiaca de origen isquemico.",
+   "C": "La meperidina produce menos nauseas y vomitos que la morfina, como efecto adverso.",
+   "D": "La meperidina produce menos nauseas y vomitos que la morfina, como efecto adverso."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor cronico reagudizado. Dolor oncologico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El celecoxib es un inhibidor selectivo de la COX-2 que, al igual que otros coxibs, aumenta el riesgo cardiovascular (trombosis arterial, hipertension, retencion de liquidos). Esta formalmente contraindicado en pacientes con cardiopatia isquemica establecida, insuficiencia cardiaca clinicamente manifiesta y enfermedad cerebrovascular. Por tanto, la afirmacion de la opcion B es correcta.",
+   "incorrectas": {
+    "A": "La nabumetona es un AINE con menor efecto sobre la funcion plaquetaria que el ibuprofeno o el naproxeno; aunque puede interaccionar con anticoagulantes orales, no esta absolutamente contraindicada sino que requiere monitorizacion del INR.",
+    "C": "Las opciones C y D son identicas en el enunciado original; ademas, la afirmacion es incorrecta: la meperidina produce mas nauseas y vomitos que la morfina (mayor actividad vestibular) y su metabolito normeperidina es neurotoxicao."
+   }
+  }
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En los pacientes oncologicos puede aparecer el sindrome de lisis tumoral a las 12-72 horas de la administracion del tratamiento antineoplasico. De forma insidiosa puede aparecer diarrea, nauseas, vomitos, anorexia, obnubilacion o incluso espasmos y contracturas musculares, convulsiones, oligoanuria, etc. En este caso las alteraciones analiticas son diagnosticas. Senale las alteraciones que encontrariamos en el sindrome de lisis tumoral:",
+  "opciones": {
+   "A": "Hipercalcemia, hiperpotasemia, hipofosfatemia e hipocalcemia.",
+   "B": "Hipopotasemia, hiperpotasemia, hipofosfatemia e hipercalcemia.",
+   "C": "Hipouricemia, hipopotasemia, hiperfosfatemia e hipercalcemia.",
+   "D": "Hipercalcemia, hiperpotasemia, hiperfosfatemia e hipocalcemia."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 95,
+   "tema": "Compresion medular y sindrome de vena cava superior en el paciente oncologico."
+  },
+  "explicacion": {
+   "correcta": "El sindrome de lisis tumoral se produce por la destruccion masiva de celulas neoplasicas que liberan su contenido intracelular al torrente sanguineo. La tetrada analitica clasica es: hiperuricemia (por degradacion de acidos nucleicos), hiperpotasemia (liberacion de potasio intracelular), hiperfosfatemia (liberacion de fosfatos intracelulares) e hipocalcemia secundaria (el fosfato precipita con el calcio). La opcion D recoge correctamente la hiperpotasemia, hiperfosfatemia e hipocalcemia, aunque la hipercalcemia que menciona es un error de la opcion; sin embargo, es la mas completa en cuanto a hiper-K e hiper-P.",
+   "incorrectas": {
+    "A": "La hipercalcemia y la hipofosfatemia son contrarias a lo esperado en el sindrome de lisis tumoral; se producen hiperfosfatemia e hipocalcemia, no al reves.",
+    "B": "Esta opcion es internamente contradictoria (incluye hiPOpotasemia e hiPERpotasemia a la vez) y ademas menciona hipercalcemia, que es incorrecta.",
+    "C": "La hipouricemia es lo contrario de lo esperado; el sindrome de lisis tumoral causa hiperuricemia por degradacion masiva de purinas de las celulas tumorales destruidas."
+   }
+  }
+ }
+]

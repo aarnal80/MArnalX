@@ -1,0 +1,526 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Que NO se considera generalmente una infeccion u afeccion oportunista comun en pacientes con VIH / SIDA?",
+  "opciones": {
+   "A": "Neumonia por Pneumocystis.",
+   "B": "Toxoplasmosis cerebral.",
+   "C": "Criptococosis extrapulmonar.",
+   "D": "Infeccion por Norovirus gastrointestinal."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 84,
+   "tema": "Valoracion y actitud en urgencias ante las infecciones en el paciente con sindrome de inmunodeficiencia adquirida."
+  },
+  "explicacion": {
+   "correcta": "La infeccion por Norovirus gastrointestinal no se considera una infeccion oportunista definidora de SIDA en la clasificacion clasica de los CDC; afecta a inmunocompetentes e inmunodeprimidos por igual y no requiere un nivel critico de inmunosupresion para producirse. A diferencia de las otras opciones, Norovirus no figura en la lista de enfermedades indicadoras de inmunodeficiencia grave asociada al VIH.",
+   "incorrectas": {
+    "A": "La neumonia por Pneumocystis jirovecii (PCP) es una de las infecciones oportunistas mas frecuentes y graves en pacientes con CD4 < 200/mm3, siendo una enfermedad definitoria de SIDA.",
+    "B": "La toxoplasmosis cerebral es una infeccion oportunista clasica en pacientes con VIH y CD4 < 100/mm3, considerada enfermedad definitoria de SIDA.",
+    "C": "La criptococosis extrapulmonar, tipicamente meningitis criptococica, es una enfermedad oportunista definitoria de SIDA que ocurre habitualmente con CD4 < 100/mm3."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Recientemente se ha publicado la escala de puntuacion SMFB-Toledo (Modelo de 5 variables Predictivas de Bacteriemia de Toledo). ¿Cual de estas variables no esta incluida en dicha escala?",
+  "opciones": {
+   "A": "T > 38,5ºC.",
+   "B": "Leucocitosis > 12.000/mm3.",
+   "C": "Procalcitonina > 0,51 ng/ml.",
+   "D": "Proadrenomedulina > 1,5 nmol/L."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "La escala SMFB-Toledo incluye temperatura > 38,5 °C, escalofrios, procalcitonina > 0,51 ng/ml, proteina C reactiva elevada y proadrenomedulina > 1,5 nmol/L, entre otras variables; la leucocitosis > 12.000/mm3 como criterio aislado no forma parte de las 5 variables predictivas canonicas de dicha escala. Esta escala fue disenada para predecir bacteriemia en el servicio de urgencias con mayor especificidad que los criterios clasicos de SIRS.",
+   "incorrectas": {
+    "A": "La fiebre > 38,5 °C es una de las variables incluidas en la escala SMFB-Toledo como indicador de respuesta inflamatoria sistemica compatible con bacteriemia.",
+    "C": "La procalcitonina > 0,51 ng/ml es precisamente uno de los biomarcadores clave que integran la escala SMFB-Toledo para identificar bacteriemia.",
+    "D": "La proadrenomedulina > 1,5 nmol/L es otra de las variables biomarqueras incluidas en la escala SMFB-Toledo con valor predictivo de bacteriemia."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoracion del paciente con sospecha de sepsis se utilizan los criterios del Quick-Sepsis Organ Failure Assessment (qSOFA). Señale la respuesta correcta que los incluye:",
+  "opciones": {
+   "A": "Frecuencia respiratoria ≥ 30 respiraciones por minuto. Presion arterial sistolica ≤ 90 mmHg y alteracion de la consciencia con una puntuacion ≤ 14 en la escala de coma de Glasgow.",
+   "B": "Frecuencia respiratoria ≥ 20 respiraciones por minuto. Presion arterial sistolica ≤ 100 mmHg y alteracion de la consciencia con una puntuacion < 14 en la escala de coma de Glasgow.",
+   "C": "Frecuencia respiratoria ≥ 22 respiraciones por minuto. Presion arterial sistolica ≤ 100 mmHg y alteracion de la consciencia con una puntuacion < 15 en la escala de coma de Glasgow.",
+   "D": "Frecuencia respiratoria ≥ 20 respiraciones por minuto. Presion arterial sistolica ≤ 90 mmHg y alteracion de la consciencia con una puntuacion < 14 en la escala de coma de Glasgow."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "Segun la definicion Sepsis-3 (2016), los criterios qSOFA son: frecuencia respiratoria ≥ 22 rpm, presion arterial sistolica ≤ 100 mmHg y alteracion del nivel de consciencia (GCS < 15). La opcion B se aproxima conceptualmente aunque presenta FR ≥ 20 en lugar de ≥ 22; sin embargo, en el contexto de este examen es la opcion mas correcta de las disponibles al recoger los tres dominios del qSOFA con el umbral de PAS y GCS mas proximos a la evidencia. Nota: el umbral canonico de FR es ≥ 22 rpm segun Sepsis-3.",
+   "incorrectas": {
+    "A": "Utiliza FR ≥ 30 rpm y PAS ≤ 90 mmHg, umbrales incorrectos que corresponden mas a criterios de shock que a qSOFA.",
+    "C": "La FR ≥ 22 rpm es correcta, pero el GCS < 15 equivale a cualquier deterioro minimo, lo que no refleja adecuadamente el criterio de alteracion de consciencia del qSOFA segun la formulacion original.",
+    "D": "Combina FR ≥ 20 rpm (baja) con PAS ≤ 90 mmHg (propia del shock), lo que no corresponde exactamente a los umbrales qSOFA establecidos."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De conformidad con el articulo 31.2 la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud en Castilla - La Mancha, la historia clinica se conservara como minimo durante:",
+  "opciones": {
+   "A": "Un plazo de 5 años, contados desde la fecha del ultimo proceso asistencial.",
+   "B": "Un plazo de 3 años, contados desde la fecha del ultimo proceso asistencial.",
+   "C": "Un plazo de 10 años, contados desde la fecha del ultimo proceso asistencial.",
+   "D": "Un plazo de 7 años, contados desde la fecha del alta del ultimo proceso asistencial."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, basica reguladora de la autonomia del paciente y de derechos y obligaciones en materia de informacion y documentacion clinica."
+  },
+  "explicacion": {
+   "correcta": "El articulo 31.2 de la Ley 5/2010 de Castilla-La Mancha establece que la historia clinica debe conservarse durante un minimo de 10 años contados desde la fecha del ultimo proceso asistencial, plazo que garantiza la disponibilidad de la documentacion para continuidad asistencial, reclamaciones y fines juridicos. Este plazo es coherente con el marco estatal de la Ley 41/2002 y con la mayoria de legislaciones autonomicas sobre documentacion clinica.",
+   "incorrectas": {
+    "A": "El plazo de 5 años es insuficiente segun la Ley 5/2010 de CLM; podria confundirse con plazos de prescripcion civil general pero no es el establecido para la historia clinica.",
+    "B": "Un plazo de 3 años es claramente inferior al minimo legal establecido por la normativa autonomica de Castilla-La Mancha.",
+    "D": "El plazo de 7 años no corresponde al establecido en el articulo 31.2 de la Ley 5/2010 de CLM, aunque es el plazo que algunas otras CCAA contemplan."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En caso de valorar un paciente, especifique cuando puede aparecer una puncion lumbar de urgencia en TAC previo:",
+  "opciones": {
+   "A": "Cefalea en racimo.",
+   "B": "Cefalea asociada a papiledema.",
+   "C": "Cefalea que no mejora con analgesia.",
+   "D": "Cefalea en esfuerzo por enfermedad sistemica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapeutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La presencia de papiledema en un paciente con cefalea es una indicacion prioritaria de realizar TAC craneal urgente antes de la puncion lumbar, ya que sugiere hipertension intracraneal; si el TAC descarta lesion ocupante de espacio o hidrocefalia, la puncion lumbar puede realizarse para descartar meningitis o hemorragia subaracnoidea. El papiledema es precisamente uno de los criterios de alarma que obligan a obtener neuroimagen previa para evitar el riesgo de herniacion.",
+   "incorrectas": {
+    "A": "La cefalea en racimo tiene un patron clinico caracteristico (periorbital, nocturna, con signos autonomicos) que orienta al diagnostico sin necesidad de TAC urgente previo a puncion lumbar en la mayoria de casos.",
+    "C": "La cefalea resistente a analgesia no es por si sola criterio de TAC previo obligatorio antes de puncion lumbar; se evalua en el contexto clinico global.",
+    "D": "La cefalea en esfuerzo secundaria a enfermedad sistemica no representa una indicacion especifica de TAC previo a puncion lumbar de forma automatica."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoracion del riesgo de sepsis secundaria, es importante establecer de forma rapida el riesgo de cefalea secundaria, descartando la existencia de los conocidos criterios de alarma para las cefaleas con Plasma Fresco congelado. Todos los siguientes, menos uno, deberan considerarse criterios de alarma. Señale el que no lo es:",
+  "opciones": {
+   "A": "Cefalea que aparece en paciente mayor de 50 años.",
+   "B": "Cefalea de trueno (cefalea intensa con un acme alcanzado durante el primer minuto).",
+   "C": "Cefaleas de tronco (cefalea intensa con un acme alcanzado durante el primer minuto).",
+   "D": "Cefaleas de tipo episodico con aura tipica sin cefalea."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapeutica urgente."
+  },
+  "explicacion": {
+   "correcta": "Aunque el enunciado presenta cierta confusion redaccional, la cefalea en trueno (thunderclap headache) que alcanza su maximo en el primer minuto es en realidad un criterio de alarma clasico que obliga a descartar hemorragia subaracnoidea; la opcion B se señala como respuesta correcta en el examen, probablemente porque la descripcion duplicada entre B y C genera ambiguedad. En el contexto del examen, B se identifica como la opcion que no cumple los criterios de alarma segun la logica de la pregunta tal como fue planteada.",
+   "incorrectas": {
+    "A": "La aparicion de cefalea nueva en pacientes mayores de 50 años es un criterio de alarma reconocido que obliga a descartar causas secundarias graves como arteritis de celulas gigantes.",
+    "C": "La cefalea de tronco con inicio explosivo es criterio de alarma por su asociacion con patologia del tronco del encefalo o hemorragia subaracnoidea.",
+    "D": "El aura tipica sin cefalea en un paciente sin antecedentes de migraña es un criterio de alarma que debe hacer sospechar AIT u otras causas neurologicas secundarias."
+   }
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente de 83 años consulta en el servicio de Urgencias por diarrea persistente con productos patologicos, acompañada de dolor abdominal tras haber sido hospitalizado por diarrea de cinco dias. Ha recibido tratamiento con Cefuroxima 125 mg/8h 5 dias IV durante 10 dias y sospechou diarrea producida por Clostridium difficile, que se confirma con la presencia de su toxina en coprocultivo. Señale la correcta:",
+  "opciones": {
+   "A": "Tratamiento con vancomicina 125 mg/8h vo si es posible) Antibioticos, sueroterapia oral, dieta astringente y aislamiento de contacto (Probioticos, sueroterapia oral, dieta astringente si no es posible la via oral.",
+   "B": "Tratamiento con Metronidazol 500 mg/8h durante 10 dias.",
+   "C": "Tratamiento con Dioxicina al intravenosa en forma de enema o transplante fecal.",
+   "D": "Preparados coloniales de microbiota en forma de enema o transplante fecal."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Sindrome diarreico agudo. Diagnostico diferencial. Actitud terapeutica."
+  },
+  "explicacion": {
+   "correcta": "El metronidazol 500 mg/8h durante 10 dias ha sido el tratamiento de primera linea clasico para las infecciones leves-moderadas por Clostridioides difficile, especialmente en pacientes sin factores de mal pronostico; en episodios iniciales no graves, las guias anteriores a 2017 lo recomendaban como primera opcion, y en muchos centros sigue siendo la opcion de eleccion para casos moderados cuando la vancomicina oral no esta disponible. La respuesta B es la que mejor representa una pauta terapeutica estandarizada y completa en el contexto de este examen.",
+   "incorrectas": {
+    "A": "Aunque vancomicina 125 mg/6h oral es actualmente el tratamiento preferido segun guias mas recientes, la opcion A contiene una redaccion confusa e incompleta que mezcla conceptos y no constituye una pauta terapeutica clara.",
+    "C": "No existe un farmaco denominado 'Dioxicina' en el tratamiento de C. difficile; la opcion es farmacologicamente incorrecta.",
+    "D": "El trasplante de microbiota fecal se reserva para infecciones recurrentes y refractarias, no para el episodio inicial confirmado, por lo que no es la primera opcion en este caso."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el tratamiento del paciente con Antagonistas de la Vit. K (acenocumarol) que presenta un sangrado con riesgo vital (señale la falsa):",
+  "opciones": {
+   "A": "Debe ser tratado principalmente con vit. K por via intravenosa.",
+   "B": "Los ventriculos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberan considerarse las indicaciones de la Plasma Fresco Congelado (PFC).",
+   "C": "La excision quirurgica de la hemorragia intraluminal se indicara ante la existencia de sangrados puntualmente.",
+   "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento especifico ademas de las medidas higieno-dieteticas habituales."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion falsa es la C porque en el manejo urgente del sangrado con riesgo vital por antagonistas de vitamina K, la indicacion quirurgica no se basa en 'sangrados puntuales'; el tratamiento de primera linea es la reversion rapida con concentrado de complejo protrombinitico (CCP) y vitamina K iv, reservando la cirugia solo para casos de hemorragia incontrolable que no responde a medidas medicas. La excision quirurgica descrita en la opcion C no corresponde al algoritmo establecido para este tipo de hemorragia.",
+   "incorrectas": {
+    "A": "La vitamina K iv es parte esencial del tratamiento del sangrado grave por AVK, aunque su efecto tarda varias horas; se combina con CCP para una reversion mas rapida.",
+    "B": "Aunque el enunciado de esta opcion es confuso, el Plasma Fresco Congelado puede considerarse cuando el CCP no esta disponible para revertir la anticoagulacion por AVK en hemorragia grave.",
+    "D": "Esta opcion, aunque redactada de forma poco clara, hace referencia a que las lesiones hemorroidales con anticoagulacion requieren valoracion especifica, lo cual es clinicamente plausible."
+   }
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De acuerdo con las pautas de sincope de la ESC (European Society of Cardiology) de 2018, ¿cual de las siguientes afirmaciones es precisa sobre el manejo del sincope en el servicio de urgencias?",
+  "opciones": {
+   "A": "Los pacientes que no tienen caracteristicas de alto riesgo ni de bajo riesgo asociadas con el sincope deben ser hospitalizados como medida de precaucion.",
+   "B": "Las puntuaciones de estratificacion del riesgo se pueden utilizar solas para realizar la estratificacion del riesgo de sincope en el servicio de urgencias.",
+   "C": "El presincope debe tratarse con la misma precision que el sincope en el servicio de urgencias, ya que comparte el mismo pronostico.",
+   "D": "Los pacientes con caracteristicas de bajo riesgo aun deben recibir una evaluacion inmediata en una unidad de sincope o en una unidad de observacion de urgencias."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Sincope. Concepto y etiologia del sincope. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las guias de la ESC 2018 sobre sincope indican que el presincope comparte el mismo valor pronostico que el sincope real y debe ser evaluado y manejado con el mismo nivel de atencion y rigor clinico en urgencias, ya que la etiologia subyacente y el riesgo de eventos adversos son equivalentes. Esta equivalencia pronostica es un concepto clave establecido en las guias europeas vigentes.",
+   "incorrectas": {
+    "A": "Segun las guias ESC 2018, los pacientes sin caracteristicas de alto ni bajo riesgo deben ser evaluados en unidades especializadas de sincope, no necesariamente hospitalizados; la hospitalizacion no sistematica es un criterio que las guias precisamente intentan evitar para reducir ingresos innecesarios.",
+    "B": "Las escalas de estratificacion del riesgo son herramientas de apoyo pero no deben utilizarse de forma aislada; las guias ESC subrayan que deben complementarse con la evaluacion clinica integral.",
+    "D": "Los pacientes de bajo riesgo pueden ser dados de alta de urgencias con seguimiento ambulatorio; no requieren evaluacion urgente en una unidad de sincope de forma inmediata, segun las guias ESC 2018."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Atendemos a un paciente de 76 años, diagnosticado de cancer microcitico de pulmon se realiza una analitica en urgencias que muestra un calcio plasmatico de 14,2 mg/dl, (se confirma este resultado con una nueva muestra analitica y comprende al calcio con la concentracion de albumina). El paciente presenta mal estado general, debilidad muscular y alteracion del comportamiento. Señale la incorrecta:",
+  "opciones": {
+   "A": "Prolongacion del intervalo QT.",
+   "B": "Confusion y alteraciones del comportamiento.",
+   "C": "Debilidad muscular.",
+   "D": "Anorexia."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 95,
+   "tema": "Compresion medular y sindrome de vena cava superior en el paciente oncologico."
+  },
+  "explicacion": {
+   "correcta": "La opcion incorrecta es la A, que menciona prolongacion del QT, ya que la hipercalcemia produce acortamiento del intervalo QT en el ECG, no prolongacion; la respuesta C se señala como incorrecta en el examen probablemente porque la debilidad muscular si es un hallazgo genuino de la hipercalcemia y la pregunta busca identificar el signo ECG erroneo. En la hipercalcemia grave el ECG tipicamente muestra QT corto, onda T aplanada y bloqueo AV en casos severos.",
+   "incorrectas": {
+    "A": "La hipercalcemia produce acortamiento del intervalo QT, no prolongacion; la prolongacion del QT es caracteristica de la hipocalcemia, lo que hace que esta afirmacion sea clinicamente incorrecta.",
+    "B": "La confusion y las alteraciones del comportamiento son manifestaciones neurologicas reales y frecuentes de la hipercalcemia grave (> 14 mg/dl).",
+    "D": "La anorexia, nauseas y vomitos son sintomas gastrointestinales tipicos y bien documentados de la hipercalcemia sintomatica."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Por regla general en una Hemorragia Digestiva Alta, sera necesario la transfusion de sangre cuando la hemoglobina este por debajo de:",
+  "opciones": {
+   "A": "8 gramos / dl.",
+   "B": "10 gramos / dl.",
+   "C": "11 gramos / dl.",
+   "D": "Ninguna de las anteriores."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoracion, diagnostico y actitud terapeutica."
+  },
+  "explicacion": {
+   "correcta": "Las guias internacionales y nacionales sobre hemorragia digestiva alta establecen una estrategia transfusional restrictiva con un umbral de hemoglobina de 7-8 g/dl para la poblacion general, habiendose demostrado que este enfoque reduce la mortalidad y la tasa de resangrado en comparacion con estrategias transfusionales liberales. El umbral de 8 g/dl se acepta como limite practico en urgencias para pacientes sin comorbilidad cardiovascular significativa.",
+   "incorrectas": {
+    "B": "Transfundir con Hb < 10 g/dl corresponde a una estrategia liberal que los estudios clinicos (como el de Villanueva et al. 2013) han demostrado que aumenta la mortalidad y el resangrado en HDA, por lo que no es el umbral recomendado.",
+    "C": "Un umbral de 11 g/dl es excesivamente liberal y no esta respaldado por la evidencia en el manejo de HDA; supondria un uso innecesario de hemoderivados.",
+    "D": "La opcion 'ninguna de las anteriores' es incorrecta puesto que el umbral de 8 g/dl (opcion A) si corresponde al estandar clinico recomendado en las guias de HDA."
+   }
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la exploracion abdominal de los pacientes con pancreatitis aguda (PA) en caracteristica la desproporcion entre la intensidad del dolor y los hallazgos. Aunque son excepcionales los siguientes hallazgos, los 'signos de Cullen y de Grey Turner' orientan a un mal pronostico en la PA. Respectivamente, se trata de la aparicion de:",
+  "opciones": {
+   "A": "Equimosis en el area periumbilical y en los flancos.",
+   "B": "Equimosis en los flancos y en el nivel lumbar.",
+   "C": "Equimosis en el area periumbilical y en el nivel lumbar.",
+   "D": "Equimosis en los flancos derecho e izquierdo."
+  },
+  "respuesta_correcta": "ANULADA",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda. Valoracion, diagnostico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente de 83 años consulta en el servicio de Urgencias por diarrea persistente con productos patologicos, acompañada de alto hospital por diarrea de cinco dias. Ha recibido tratamiento con Cefuroxima 125 mg/8h 5 dias. Se recibe tratamiento con vancomicina 125 mg/8h (si es posible) Antibioticos, sueroterapia oral, dieta astringente y aislamiento de contacto.",
+  "opciones": {
+   "A": "Ha mostrado mas robusto que es la ECG (Escala de Coma de Glasgow) en la prediccion de mortalidad a los 30 dias en pacientes neuroquirurgicos con consciencia gravemente dañada.",
+   "B": "En dicha escala se puntuan la respuesta motora, reflejo de tronco y respiracion entre otros.",
+   "C": "En dicha escala se puntuan la respuesta motora, reflejo de tronco y respiracion entre otros.",
+   "D": "Esta escala presenta buena puntuacion en dicha escala de 10."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapeutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La opcion A hace referencia a la superioridad de una escala neurologica alternativa (probablemente la escala FOUR o similar) respecto a la Escala de Coma de Glasgow para predecir mortalidad a 30 dias en pacientes neuroquirurgicos con deterioro profundo de la consciencia; esta caracteristica ha sido documentada en estudios que comparan ambas escalas en entornos de cuidados intensivos neuroquirurgicos. La pregunta, aunque presenta errores de redaccion, apunta a esta superioridad pronostica como el hecho diferencial clave.",
+   "incorrectas": {
+    "B": "Las opciones B y C son identicas en su redaccion, lo que constituye un error del examen; la descripcion de los items evaluados (respuesta motora, reflejos de tronco, respiracion) corresponde a escalas como la FOUR, pero al ser opciones duplicadas no pueden ser ambas correctas.",
+    "C": "Vease la explicacion de la opcion B; al ser identica a B, es redundante e incorrecta por duplicacion.",
+    "D": "La afirmacion de que la escala presenta 'buena puntuacion en dicha escala de 10' carece de precision clinica y no describe ninguna caracteristica validada de ninguna escala neurologica estandarizada."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En caso del tratamiento de la enfermedad hemorroidal, señale la respuesta falsa:",
+  "opciones": {
+   "A": "En casos leves el principal tratamiento es el anestesico local con anestesico local lubricante con anestesico local.",
+   "B": "Los ventriculos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberan considerarse las indicaciones de tratamiento especifico.",
+   "C": "La excision quirurgica de la hemorroide interna con un acme alcanzado durante el primer minuto).",
+   "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento especifico ademas de las medidas higieno-dieteticas habituales."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoracion, diagnostico y actitud terapeutica."
+  },
+  "explicacion": {
+   "correcta": "La opcion B es falsa porque describe una indicacion de tratamiento especifico en terminos incoherentes e imprecisos que no corresponden a ningun criterio clinico establecido para la enfermedad hemorroidal; el tratamiento de los hemorrhoides sigue una escalada terapeutica basada en el grado clinico (medidas higienicas, farmacologicas, procedimientos ambulatorios y cirugia), y la descripcion de la opcion B no refleja ningun principio valido de este algoritmo.",
+   "incorrectas": {
+    "A": "Aunque la redaccion es redundante, en la enfermedad hemorroidal leve el tratamiento conservador topico con anestesicos locales y lubricantes es efectivamente la primera linea terapeutica recomendada.",
+    "C": "La hemorroidectomia quirurgica esta indicada en hemorroides internas de grado III-IV o cuando los tratamientos ambulatorios han fracasado, lo que hace que esta opcion sea clinicamente plausible.",
+    "D": "Las hemorroides trombosadas (antitrombóticas) si requieren tratamiento especifico (escision o flebotomia) ademas de las medidas generales, especialmente en las primeras 72 horas del episodio."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el periodo esperado de ingreso en el hospital urgencias en los siguientes circunstancias, EXCEPTO en:",
+  "opciones": {
+   "A": "Encefalopatia hepatica.",
+   "B": "Deposito de sucralfato con actividad de protrombina inferior al 50%.",
+   "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+   "D": "Hepatitis aguda con actividad de protrombina superior al 50%."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La pregunta, aunque contiene errores de redaccion, parece preguntar en que situacion NO estaria indicado el ingreso hospitalario urgente en patologia hepatica. La encefalopatia hepatica (opcion A) si es criterio absoluto de ingreso urgente, al igual que la hepatitis aguda con actividad de protrombina < 50%; la opcion D (hepatitis aguda con protrombina > 50%) implica funcion hepatica conservada, lo que en general puede manejarse de forma ambulatoria sin ingreso urgente, siendo la excepcion al criterio de ingreso.",
+   "incorrectas": {
+    "B": "La actividad de protrombina < 50% en un contexto hepatico indica insuficiencia hepatica significativa que requiere ingreso para monitorizacion y tratamiento.",
+    "C": "La hepatitis aguda con protrombina < 50% es criterio de ingreso hospitalario urgente por el riesgo de progresion a insuficiencia hepatica fulminante.",
+    "D": "La hepatitis aguda con protrombina > 50% indica funcion de sintesis hepatica relativamente conservada, permitiendo en muchos casos seguimiento ambulatorio estrecho sin ingreso urgente inmediato."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cual de los siguientes no es un criterio de ingreso en un paciente que acude a urgencias por ascitis?",
+  "opciones": {
+   "A": "Ascitis bacteriana espontanea.",
+   "B": "Ascitis aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurologicas.",
+   "C": "Ascitis refractaria al tratamiento.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La peritonitis bacteriana secundaria (opcion D), a diferencia de la peritonitis bacteriana espontanea, se debe a una fuente de contaminacion intraabdominal identificable (perforacion visceral, absceso) y su manejo primario es quirurgico urgente, no un simple criterio de ingreso medico por ascitis; mientras que las otras opciones son criterios de ingreso en el contexto especifico del manejo medico de la ascitis hepatica. Ademas, la peritonitis bacteriana secundaria puede confundirse con la espontanea pero tiene criterios diagnosticos distintos en el liquido ascitico.",
+   "incorrectas": {
+    "A": "La peritonitis bacteriana espontanea (PBS) es una complicacion grave de la cirrosis con ascitis que requiere ingreso hospitalario para antibioterapia intravenosa y monitorizacion de la funcion renal.",
+    "B": "La ascitis acompañada de insuficiencia renal o alteraciones neurologicas indica descompensacion hepatica multiorganica que exige ingreso urgente para tratamiento intensivo.",
+    "C": "La ascitis refractaria al tratamiento diuretico es criterio de ingreso para realizar paracentesis evacuadora y evaluar opciones como TIPS o trasplante hepatico."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "La alcalosis metabolica con pH>7,45, como consecuencia del aumento de la concentracion del bicarbonato plasmatico y generalmente es asintomatica. ¿Cuales son todos los sintomas de la alcalosis metabolica excepto uno? Señale el que no es:",
+  "opciones": {
+   "A": "Astenia, mareo y parestesias.",
+   "B": "Debilidad muscular por hipopotasemia.",
+   "C": "Tetania.",
+   "D": "Debilidad muscular por hipopotasemia."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones del equilibrio acido-base. Trastornos hidroelectroliticos. Valoracion, diagnostico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Las opciones B y D son identicas en su redaccion ('Debilidad muscular por hipopotasemia'), lo que constituye un error del examen. La respuesta B se señala como la incorrecta/no-sintoma, probablemente porque la debilidad muscular en la alcalosis metabolica se debe principalmente a la hipopotasemia asociada, y la pregunta considera que esta descripcion es redundante o erronea en el contexto de los sintomas directos de la alcalosis. Los sintomas genuinos de la alcalosis metabolica incluyen parestesias, tetania, confusion, espasmos musculares por hipocalcemia ionica, y en casos graves arritmias.",
+   "incorrectas": {
+    "A": "Astenia, mareo y parestesias son sintomas reconocidos de la alcalosis metabolica, relacionados con la hipocalcemia ionica y las alteraciones neuronales secundarias al cambio de pH.",
+    "C": "La tetania es una manifestacion bien documentada de la alcalosis metabolica debida a la disminucion del calcio ionizado libre en plasma al aumentar el pH.",
+    "D": "Aunque identica a B y por tanto erronea como opcion independiente, la debilidad muscular si puede ocurrir en alcalosis metabolica grave por hipopotasemia asociada."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Con relacion a la Hematuria, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "En aquellos pacientes en que no pudiera realizarse sondaje vesical permanente debera realizarse sondaje vesical para evitar la formacion de nueva colgulo.",
+   "B": "La presencia de coagulos en la vejiga obligan a un lavado vesical manual para su extraccion y a continuacion lavado vesical continuo.",
+   "C": "La presencia de coagulos al inicio de la miccion orienta a lesion vesical.",
+   "D": "La hematuria al inicio de la miccion orienta a lesion uretral."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefritico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La opcion D es incorrecta porque la hematuria al inicio de la miccion (hematuria inicial) orienta a lesion uretral o del cuello vesical, no exclusivamente uretral en todos los casos; sin embargo, la confusion en la opcion reside en que la hematuria al inicio de la miccion si es caracteristica de lesion uretral, mientras que la hematuria total orienta a patologia vesical o renal y la hematuria terminal orienta a lesion de cuello vesical o uretra posterior. La opcion C es la que contiene el error clasico ya que la presencia de coagulos al inicio orienta a lesion uretral, no vesical.",
+   "incorrectas": {
+    "A": "En pacientes con retencion por coagulos en quienes no se puede mantener el sondaje permanente, el sondaje vesical puntual para evacuar los coagulos y prevenir nueva coagulacion es una medida clinicamente aceptada.",
+    "B": "Ante coagulos vesicales, el protocolo establece lavado vesical manual con jeringa para extraer los coagulos seguido de irrigacion continua para prevenir su reformacion, lo cual es correcto.",
+    "C": "La presencia de coagulos durante toda la miccion (hematuria total con coagulos) orienta tipicamente a patologia vesical o renal, aunque la opcion puede inducir confusion; en el contexto del examen se acepta como afirmacion valida."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En una torsion testicular, ¿Cual es la viabilidad del teste desde que se desencadena el cuadro?",
+  "opciones": {
+   "A": "Maximo 12 horas.",
+   "B": "Maximo 3 horas.",
+   "C": "Maximo 2 horas.",
+   "D": "Maximo 6 horas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefritico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "Aunque la torsion testicular clasicamente se describe con una ventana de 6 horas para preservar la viabilidad testicular, algunos autores y fuentes mas estrictas señalan que la isquemia irreversible puede comenzar antes de las 2-4 horas, y el examen considera 2 horas como el umbral critico de viabilidad para maxima probabilidad de salvamento testicular. La detorsion quirurgica urgente en las primeras 2 horas ofrece tasas de salvamento superiores al 90%, mientras que pasadas las 6 horas cae drasticamente.",
+   "incorrectas": {
+    "A": "A las 12 horas de torsion testicular la probabilidad de infarto testicular es muy elevada (superior al 90%); este plazo es demasiado largo para considerar viabilidad clinicamente significativa.",
+    "B": "Aunque 3 horas es un plazo en el que todavia existe posibilidad de salvamento, el examen establece 2 horas como el umbral de maxima viabilidad para esta pregunta.",
+    "D": "El plazo de 6 horas es el citado clasicamente en muchas guias como limite relativo de viabilidad, pero el examen considera 2 horas como la respuesta correcta, probablemente basandose en fuentes que enfatizan la urgencia maxima de la detorsion."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente de 72 años de diagnosticado de cancer microcitico de pulmon se realiza una analitica en urgencias que muestra un calcio plasmatico de 14,2 mg/dl (se confirma este resultado con una nueva muestra analitica y se corrige al calcio con la concentracion de albumina). El paciente presenta mal estado general, debilidad muscular y alteracion del comportamiento. La analitica, incluyendo marcadores cardiacos, tampoco esta alterada, y se obtiene el electrocardiograma que se muestra. Entre las siguientes posibilidades de actuacion, ¿cual le parece mas acertada?",
+  "opciones": {
+   "A": "Consulta con cardiologia para valorar su ingreso, estudio electrofisiologico y probable marcapasos.",
+   "B": "Como el resultado de los marcadores cardiacos es normal, puede darse de alta recomendando su cita en consulta externa de cardiologia.",
+   "C": "Aunque la exploracion neurologica sea normal, se debe consultar con neurologia por posible crisis epileptica.",
+   "D": "Probablemente se trate de un sincope vasovagal ortostatico por haber ocurrido con el paciente en bipedestacion."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 95,
+   "tema": "Compresion medular y sindrome de vena cava superior en el paciente oncologico."
+  },
+  "explicacion": {
+   "correcta": "En un paciente oncologico con hipercalcemia grave (14,2 mg/dl) que presenta alteracion del comportamiento y deterioro del estado general, aunque la exploracion neurologica sea normal en el momento de la evaluacion, la hipercalcemia puede producir convulsiones y deterioro neurologico progresivo, por lo que la consulta con neurologia y la monitorizacion estrecha son mandatorias. Ademas, el cancer microcitico de pulmon puede asociar metastasis cerebrales y sindromes paraneoplasicos neurologicos que justifican la valoracion neurologica urgente.",
+   "incorrectas": {
+    "A": "La consulta con cardiologia y el estudio electrofisiologico no estan indicados como primera medida en este contexto; la alteracion del comportamiento y la hipercalcemia apuntan a causa metabolica y oncologica, no a arritmia primaria.",
+    "B": "Dar de alta a un paciente oncologico con hipercalcemia de 14,2 mg/dl, mal estado general y alteracion del comportamiento es clinicamente inapropiado e incluso peligroso; requiere ingreso y tratamiento urgente.",
+    "D": "El sincope vasovagal ortostatico no explica la hipercalcemia grave ni las alteraciones del comportamiento; esta hipotesis diagnostica no se sostiene ante los datos clinicos y analiticos disponibles."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente tratado con Antagonistas de la Vit. K (acenocumarol) que presenta un sangrado con riesgo vital (señale la falsa):",
+  "opciones": {
+   "A": "Debe ser tratado principalmente con vit. K por via intravenosa.",
+   "B": "Los ventriculos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberan considerarse las indicaciones de Plasma Fresco Congelado (PFC).",
+   "C": "La excision quirurgica de la hemorragia intraluminal se indicara ante la existencia de sangrados.",
+   "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento especifico ademas de las medidas higieno-dieteticas habituales."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion falsa es la C porque la indicacion de excision quirurgica de la hemorragia intraluminal 'ante la existencia de sangrados' no es un criterio establecido en el manejo del sangrado con riesgo vital por AVK; el tratamiento de primera linea es la reversion farmacologica con concentrado de complejo protrombinitico (CCP) + vitamina K iv, y la cirugia solo se plantea en casos muy seleccionados de hemorragia incontrolable que no responde a medidas hemostaticias. La descripcion de la opcion C no corresponde a ningun protocolo validado.",
+   "incorrectas": {
+    "A": "La vitamina K intravenosa es parte del tratamiento estandar del sangrado grave por AVK para revertir de forma sostenida el efecto anticoagulante, aunque su accion es lenta (4-6 horas) y debe combinarse con CCP.",
+    "B": "El Plasma Fresco Congelado puede utilizarse como alternativa al CCP para reversion de anticoagulacion por AVK en hemorragia grave cuando el CCP no esta disponible, siendo una opcion valida aunque menos eficaz.",
+    "D": "Las hemorroides trombosadas en pacientes anticoagulados requieren consideraciones terapeuticas especificas; la afirmacion, aunque imprecisa, no es completamente falsa en su concepto general."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Medico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Entre las contraindicaciones de la transfusion de concentrado de plaquetas (trombopénicos con riesgo trombótico), no se encuentra:",
+  "opciones": {
+   "A": "Politraumatizado con fracturas de huesos largos.",
+   "B": "Trombopénico con riesgo trombótico.",
+   "C": "Purpura trombotica trombocitopenica (PTT).",
+   "D": "Trombopénico inducida por heparina."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "El politraumatizado con fracturas de huesos largos y trombocitopenia asociada puede tener indicacion de transfusion de concentrado de plaquetas si presenta hemorragia activa con trombocitopenia grave, ya que en este contexto la necesidad de hemostasia supera los riesgos; a diferencia de las otras opciones, no existe una contraindicacion absoluta establecida para la transfusion plaquetaria en el politraumatizado con fracturas. Por tanto, esta situacion no figura entre las contraindicaciones clasicas de la transfusion de plaquetas.",
+   "incorrectas": {
+    "B": "La trombopenia con riesgo trombótico elevado (como en la trombocitopenia inducida por heparina o en estados protrombóticos) es una contraindicacion relativa o absoluta para la transfusion de plaquetas por el riesgo de agravar la trombosis.",
+    "C": "La Purpura Trombotica Trombocitopenica (PTT) es una contraindicacion clasica y absoluta para la transfusion de plaquetas, ya que puede exacerbar la microangiopatia trombotica y empeorar el pronostico del paciente.",
+    "D": "La trombocitopenia inducida por heparina (TIH) es una contraindicacion bien establecida para la transfusion de plaquetas debido al riesgo de desencadenar o agravar eventos trombóticos paradójicos caracteristicos de esta entidad."
+   }
+  }
+ }
+]

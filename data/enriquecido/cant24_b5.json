@@ -1,0 +1,518 @@
+[
+  {
+    "id_examen": 89,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En el tratamiento del delirium tremens se incluye:",
+    "opciones": {
+      "A": "Reposición hidroelectrolítica.",
+      "B": "Vitamina K.",
+      "C": "Betabloqueantes.",
+      "D": "Etanol."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "El delirium tremens es la complicación más grave del síndrome de abstinencia alcohólica y cursa con agitación, alucinaciones, convulsiones, fiebre e intensa deshidratación con desequilibrio electrolítico. La reposición hidroelectrolítica (junto con tiamina, benzodiacepinas y soporte general) es un pilar fundamental del tratamiento, ya que estos pacientes suelen presentar hiponatremia, hipopotasemia, hipomagnesemia y deshidratación severa. Sin una adecuada corrección hidro-electrolítica el riesgo de arritmias y complicaciones neurológicas se multiplica.",
+      "incorrectas": {
+        "B": "La vitamina K se utiliza para revertir la anticoagulación por antagonistas de la vitamina K (acenocumarol, warfarina) y en coagulopatías por déficit de factores dependientes de esta vitamina, pero no forma parte del tratamiento estándar del delirium tremens.",
+        "C": "Los betabloqueantes pueden controlar la taquicardia y la hipertensión adrenérgica de la abstinencia alcohólica, pero no tratan la causa ni son el tratamiento de primera línea; además pueden enmascarar la hipoglucemia y no reducen el umbral convulsivo como las benzodiacepinas.",
+        "D": "Administrar etanol como tratamiento del delirium tremens es una práctica abandonada y desaconsejada; no existen evidencias de eficacia clínica, conlleva riesgos adicionales de toxicidad hepática y no está contemplada en ninguna guía actual de manejo de la abstinencia alcohólica."
+      }
+    }
+  },
+  {
+    "id_examen": 90,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En el manejo de una intoxicación aguda por opiáceos, ¿cuál es el antídoto de primera línea y cómo actúa?",
+    "opciones": {
+      "A": "Flumazenilo, que actúa como antagonista de las benzodiacepinas.",
+      "B": "Naloxona, que actúa como antagonista competitivo de los receptores opioides.",
+      "C": "Acetilcisteína, que actúa como precursor del glutatión.",
+      "D": "Atropina, que actúa como antagonista del receptor muscarínico."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "La naloxona es el antídoto específico de los opiáceos y actúa como antagonista competitivo puro en los receptores mu, kappa y delta, desplazando al opiáceo de estos receptores sin activar ningún efecto agonista. Su administración revierte rápidamente la tríada clásica de la intoxicación por opiáceos: depresión del nivel de conciencia, miosis puntiforme y depresión respiratoria. Dada su vida media corta (30-90 minutos), puede ser necesaria la administración repetida o en perfusión continua si el opiáceo implicado es de larga duración.",
+      "incorrectas": {
+        "A": "El flumazenilo es el antídoto de las benzodiacepinas, no de los opiáceos; actúa como antagonista competitivo en el receptor GABA-A/benzodiacepínico y no tiene ningún efecto sobre los receptores opioides.",
+        "C": "La acetilcisteína actúa como precursor del glutatión y es el antídoto del paracetamol en la intoxicación hepática por este analgésico; no tiene acción sobre los receptores opioides.",
+        "D": "La atropina es un antagonista muscarínico utilizado en intoxicaciones por organofosforados (insecticidas, gases nerviosos) para bloquear el exceso de acetilcolina, pero no tiene ninguna utilidad en la intoxicación opioide."
+      }
+    }
+  },
+  {
+    "id_examen": 91,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuál de los siguientes efectos adversos es más probable en una intoxicación por metanfetaminas?",
+    "opciones": {
+      "A": "Hipotensión severa.",
+      "B": "Hipotermia.",
+      "C": "Psicosis y agitación extrema.",
+      "D": "Bradipnea."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "Las metanfetaminas son estimulantes del sistema nervioso central que provocan una masiva liberación de dopamina, noradrenalina y serotonina. La estimulación dopaminérgica en el sistema mesolímbico es responsable de la psicosis aguda con alucinaciones (frecuentemente visuales y táctiles), paranoia y agitación extrema, que constituyen las manifestaciones neuropsiquiátricas más características y peligrosas de esta intoxicación. Puede persistir incluso días o semanas tras el consumo.",
+      "incorrectas": {
+        "A": "Las metanfetaminas son simpaticomímeticos potentes; producen hipertensión y taquicardia, no hipotensión. La hipotensión severa es característica de intoxicaciones por depresores como opiáceos, benzodiacepinas o antihipertensivos.",
+        "B": "La intoxicación por metanfetaminas produce hipertermia (no hipotermia) por aumento del metabolismo, vasoconstricción periférica y actividad musculomotora intensa; la hipertermia es de hecho una de las complicaciones potencialmente letales.",
+        "D": "La bradipnea o depresión respiratoria es propia de los opiáceos y los depresores del SNC; los estimulantes tipo metanfetamina producen el efecto contrario: taquipnea y aumento del consumo de oxígeno."
+      }
+    }
+  },
+  {
+    "id_examen": 92,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En la intoxicación por éxtasis (MDMA), ¿cuál de las siguientes complicaciones puede surgir debido a la hipertermia?",
+    "opciones": {
+      "A": "Insuficiencia renal aguda.",
+      "B": "Hipotensión severa.",
+      "C": "Bradicardia.",
+      "D": "Disminución del tono muscular."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "La hipertermia grave asociada al MDMA provoca rabdomiólisis masiva (destrucción del músculo esquelético por hipertermia directa y por convulsiones o agitación extrema). La mioglobinuria resultante precipita en los túbulos renales y produce necrosis tubular aguda, dando lugar a insuficiencia renal aguda, que es una de las principales causas de muerte en la intoxicación por éxtasis. El cuadro puede agravarse por deshidratación e hipovolemia.",
+      "incorrectas": {
+        "B": "El MDMA es un estimulante adrenérgico que genera hipertensión, no hipotensión; la hipotensión severa podría aparecer en fases tardías por colapso cardiovascular, pero no es la complicación directa de la hipertermia.",
+        "C": "La intoxicación por MDMA produce taquicardia y arritmias, no bradicardia; la bradicardia es típica de los opiáceos, betabloqueantes o bloqueadores del calcio.",
+        "D": "El MDMA produce hipertonía muscular, trismus y clonus, no disminución del tono muscular; la reducción del tono es característica de los depresores del SNC como benzodiacepinas y opiáceos."
+      }
+    }
+  },
+  {
+    "id_examen": 93,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuál es la justificación para el uso de oxígeno hiperbárico en casos graves de intoxicación por monóxido de carbono?",
+    "opciones": {
+      "A": "Reduce la presión parcial de monóxido de carbono en el plasma sanguíneo y facilita la eliminación del CO.",
+      "B": "Incrementa la solubilidad del monóxido de carbono en el plasma, reduciendo su afinidad por la hemoglobina.",
+      "C": "Aumenta la presión de oxígeno en los tejidos, acelerando la disociación de carboxihemoglobina.",
+      "D": "Mejora la oxigenación en tejidos al promover la formación de glóbulos rojos."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "El oxígeno hiperbárico se administra a presiones de 2,5-3 atmósferas, lo que eleva drásticamente la presión parcial de O2 en los tejidos (más de 10 veces respecto al aire ambiente). Esta elevada presión de oxígeno compite con el CO por los sitios de unión a la hemoglobina y a la mioglobina/citocromos, acelerando la disociación de la carboxihemoglobina: la vida media de la COHb pasa de 5 horas con aire ambiente, a 60-90 minutos con O2 al 100% y a 15-30 minutos con cámara hiperbárica. Además reduce la lesión neurológica tardía al restaurar rápidamente la respiración mitocondrial.",
+      "incorrectas": {
+        "A": "El oxígeno hiperbárico no actúa reduciendo la presión parcial de CO en plasma; el mecanismo es el aumento masivo de la presión de O2 que desplaza el CO de la hemoglobina por competición, no una reducción directa de la concentración de CO circulante.",
+        "B": "Aumentar la solubilidad del CO en plasma no es el mecanismo de acción; además, mayor solubilidad del CO en plasma no reduciría su afinidad por la hemoglobina (que es 240 veces superior a la del O2) sino que lo que lo desplaza es la presión parcial de O2 elevada.",
+        "D": "La eritropoyesis (formación de glóbulos rojos) no tiene ningún papel en el tratamiento agudo de la intoxicación por CO; ese proceso tarda días o semanas y no es el fundamento del uso del oxígeno hiperbárico."
+      }
+    }
+  },
+  {
+    "id_examen": 94,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuál es un signo físico visible de intoxicación grave por monóxido de carbono?",
+    "opciones": {
+      "A": "Labios azulados.",
+      "B": "Ictericia.",
+      "C": "Piel enrojecida.",
+      "D": "Pérdida de color en las uñas."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "La carboxihemoglobina tiene un color rojo cereza brillante, a diferencia de la oxihemoglobina (rojo escarlata) o de la desoxihemoglobina (azul-violácea). Por ello, en intoxicaciones graves por CO, la piel y mucosas adquieren una coloración rojo-rosada característica. Este signo, aunque clásicamente descrito, no es universal ni siempre visible en la práctica clínica, pero es el hallazgo físico tegumentario más asociado a esta intoxicación.",
+      "incorrectas": {
+        "A": "Los labios azulados (cianosis) reflejan desoxihemoglobina elevada en sangre capilar y son típicos de la insuficiencia respiratoria hipoxémica convencional; en la intoxicación por CO la sangre permanece de color rojo brillante aunque no transporte oxígeno eficientemente, por lo que la cianosis está ausente pese a la hipoxia tisular.",
+        "B": "La ictericia (coloración amarilla de piel y mucosas) es consecuencia del aumento de bilirrubina y se asocia a patología hepática o hemólisis; no es un signo de intoxicación por monóxido de carbono.",
+        "D": "La pérdida de color en las uñas (leuconiquia u otras alteraciones ungueales) no guarda relación con la intoxicación aguda por CO; son hallazgos vinculados a patologías sistémicas crónicas, deficiencias nutricionales o infecciones fúngicas."
+      }
+    }
+  },
+  {
+    "id_examen": 95,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En cuanto a los fármacos coadyuvantes de los analgésicos, NO es cierto que:",
+    "opciones": {
+      "A": "Las benzodiazepinas son útiles en el dolor asociado a espasmo muscular.",
+      "B": "Los antidepresivos pueden tener efectos anticolinérgicos.",
+      "C": "Los anticomiciales se emplean habitualmente en monoterapia.",
+      "D": "Los parches de lidocaína se utilizan para el dolor neuropático."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Los anticomiciales (gabapentina, pregabalina, carbamazepina, oxcarbazepina) se emplean como coadyuvantes analgésicos en el dolor neuropático frecuentemente en combinación con otros fármacos (antidepresivos, opiáceos, lidocaína tópica), no en monoterapia como norma habitual, ya que el dolor neuropático suele requerir un abordaje multimodal. Por tanto, la afirmación de que se usan 'habitualmente en monoterapia' es FALSA.",
+      "incorrectas": {
+        "A": "Las benzodiacepinas reducen el componente de espasmo y la tensión muscular que acompaña a ciertos síndromes dolorosos; su uso en dolor con espasmo muscular está documentado y es una afirmación verdadera, no la que pide la pregunta.",
+        "B": "Los antidepresivos tricíclicos (amitriptilina, nortriptilina), ampliamente utilizados como coadyuvantes del dolor neuropático, tienen bien conocidos efectos anticolinérgicos (boca seca, estreñimiento, retención urinaria, visión borrosa); esta afirmación es verdadera.",
+        "D": "Los parches de lidocaína al 5% están indicados específicamente en el dolor neuropático localizado, como la neuralgia postherpética; son un coadyuvante analgésico de uso establecido. Esta afirmación es verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 96,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "Paciente de 18 años que acude a Urgencias procedente de zona endémica de paludismo con fiebre de 39 ºC y sin otro foco. ¿Qué actitud sería la más CORRECTA?",
+    "opciones": {
+      "A": "Realizar extensión de sangre periférica y si no se observa parásito descartar la posibilidad de paludismo.",
+      "B": "Realizar extensión de sangre periférica y si es negativa realizar seguimiento clínico y analítico cada 12-24h.",
+      "C": "Iniciar tratamiento empírico con el fármaco empleado para la quimioprofilaxis.",
+      "D": "Ninguna de ellas es correcta."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 85,
+      "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el paciente procedente del trópico. Actuación en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Ante un paciente procedente de zona endémica de paludismo con síndrome febril sin foco, la extensión de sangre periférica (gota gruesa y frotis fino) es la técnica diagnóstica de elección. Sin embargo, una sola extensión negativa no descarta el diagnóstico, ya que la parasitemia puede ser baja o estar sujeta a ciclos. La pauta correcta es repetir el estudio cada 12-24 horas durante 48-72 horas con seguimiento clínico estrecho antes de descartar la malaria. También pueden emplearse test de diagnóstico rápido (TDR) de antígenos palúdicos como complemento.",
+      "incorrectas": {
+        "A": "Una única extensión de sangre periférica negativa NO permite descartar el paludismo, ya que la sensibilidad de una sola muestra puede ser inferior al 75-80% en parasitemias bajas o en fases de baja carga parasitaria. La opción A es incorrecta porque conduce a una conclusión diagnóstica precipitada y potencialmente peligrosa.",
+        "C": "Iniciar tratamiento empírico con el fármaco de la quimioprofilaxis no es la actitud correcta porque, en primer lugar, el fracaso de la profilaxis implica que el parásito puede ser resistente a ese fármaco; en segundo lugar, el tratamiento debe adaptarse a la especie y la gravedad del cuadro, lo que requiere confirmación diagnóstica previa.",
+        "D": "La opción B es científicamente correcta y está respaldada por las guías internacionales de manejo del paludismo importado, por lo que la opción D ('ninguna es correcta') resulta incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 97,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En un paciente con agitación grave, ¿qué combinación de fármacos es más adecuada en urgencias?",
+    "opciones": {
+      "A": "Paracetamol y antipsicóticos.",
+      "B": "Haloperidol y midazolam.",
+      "C": "Ibuprofeno y diazepam.",
+      "D": "Antibióticos y sedantes."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El haloperidol (antipsicótico típico) combinado con midazolam (benzodiacepina) es la combinación farmacológica más ampliamente recomendada para la sedación rápida en la agitación psicomotriz grave en urgencias. El haloperidol actúa bloqueando los receptores dopaminérgicos D2 reduciendo la agitación y la psicosis, mientras que el midazolam proporciona sedación, ansiolisis y miorrelajación de acción rápida. Esta combinación permite usar dosis menores de cada fármaco de forma sinérgica, reduciendo los efectos adversos individuales.",
+      "incorrectas": {
+        "A": "El paracetamol es un analgésico/antipirético sin ningún efecto sobre la agitación psicomotriz; combinarlo con un antipsicótico no aporta sinergia en el control de la agitación y no representa una pauta estándar en urgencias para este contexto.",
+        "C": "El ibuprofeno es un antiinflamatorio no esteroideo sin efecto sedante ni antipsicótico; el diazepam en monoterapia puede ser insuficiente y la combinación con ibuprofeno no está indicada en el manejo de la agitación psicomotriz grave.",
+        "D": "Los antibióticos no tienen ningún papel en el control inmediato de la agitación psicomotriz; esta opción carece de base farmacológica para la urgencia conductual, independientemente de la causa subyacente."
+      }
+    }
+  },
+  {
+    "id_examen": 98,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuál es el principal riesgo al utilizar contención física en el manejo de un paciente agitado?",
+    "opciones": {
+      "A": "Aumento de la temperatura corporal.",
+      "B": "Complicaciones respiratorias y daño muscular.",
+      "C": "Disminución de la presión arterial.",
+      "D": "Alergia a los materiales de las sujeciones."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La contención física de un paciente agitado conlleva el riesgo de muerte súbita por posición prona prolongada con restricción torácica (síndrome de muerte súbita en prono o 'excited delirium'), que compromete la mecánica respiratoria produciendo hipoventilación e hipoxia. Además, la intensa actividad muscular durante la resistencia a la contención provoca rabdomiólisis con liberación de mioglobina, acidosis láctica e hiperpotasemia. Ambas complicaciones (respiratoria y muscular) son las de mayor morbimortalidad en la contención física.",
+      "incorrectas": {
+        "A": "Aunque la hipertermia puede aparecer en el paciente agitado (especialmente si hay excited delirium o ingesta de drogas estimulantes), no es el riesgo principal atribuible específicamente a la contención física, sino al estado de agitación subyacente y al esfuerzo muscular.",
+        "C": "La hipotensión no es el riesgo principal de la contención física; el paciente agitado suele presentar hipertensión y taquicardia por activación simpática, no hipotensión. La caída de tensión podría ocurrir tras la sedación farmacológica, no por la contención mecánica en sí.",
+        "D": "La alergia a los materiales de las sujeciones es un riesgo teórico extremadamente infrecuente y no representa el principal riesgo de la contención física en términos clínicos o de seguridad del paciente."
+      }
+    }
+  },
+  {
+    "id_examen": 99,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "La toracocentesis:",
+    "opciones": {
+      "A": "Es una técnica diagnóstica y terapeútica.",
+      "B": "Permite el estudio microbiológico del líquido pleural.",
+      "C": "La punción debe realizarse por encima del borde superior del arco costal.",
+      "D": "Todas son ciertas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones sobre la toracocentesis son correctas. Es una técnica diagnóstica (permite analizar el líquido pleural: bioquímica, citología, microbiología) y terapéutica (evacua derrame para aliviar la disnea). El análisis microbiológico del líquido pleural es fundamental para identificar empiemas y determinar el agente causal y la sensibilidad antibiótica. La punción se realiza siempre por el borde superior de la costilla inferior para evitar el paquete vasculonervioso intercostal que discurre por el borde inferior de cada costilla.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 100,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "Uno de éstos NO es un síntoma característico en el paciente agónico:",
+    "opciones": {
+      "A": "Postración.",
+      "B": "Hemorragia digestiva.",
+      "C": "Disminución del nivel de conciencia o agitación.",
+      "D": "Incapacidad para la ingesta."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 96,
+      "tema": "Cuidados paliativos en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La fase agónica o de agonía se caracteriza por un conjunto de síntomas que reflejan el fallo multiorgánico inminente: postración y encamamiento total, deterioro del nivel de conciencia o agitación terminal (delirium hipoactivo o hiperactivo), incapacidad para la deglución e ingesta, pausas de apnea (respiración de Cheyne-Stokes), extremidades frías y moteadas, estertores y oliguria. La hemorragia digestiva no es un síntoma típico o característico de la agonía, aunque puede ocurrir en algunos tumores o patologías específicas.",
+      "incorrectas": {
+        "A": "La postración y encamamiento total son hallazgos cardinales del paciente agónico; el deterioro progresivo del estado funcional hasta la postración completa es uno de los criterios diagnósticos de la fase agónica. Esta afirmación es verdadera, no la incorrecta.",
+        "C": "La disminución del nivel de conciencia (somnolencia profunda, coma) o la agitación terminal son síntomas neurológicos prácticamente universales en la fase agónica, debidos al fallo del sistema nervioso central; son reconocidos en todas las guías de cuidados paliativos. Esta afirmación es verdadera.",
+        "D": "La incapacidad para la ingesta oral (disfagia, incapacidad para deglutir incluso líquidos) es otro marcador clave de la agonía; es uno de los criterios diagnósticos incluidos en la mayoría de escalas y guías de identificación de pacientes en últimas horas. Esta afirmación es verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 101,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre el método de trabajo en el área de clasificación de urgencia en caso de catástrofe es FALSA?",
+    "opciones": {
+      "A": "Se deben alterar algunos de los principios de atención médica para lograr los mejores resultados generales.",
+      "B": "La actuación inicial debe limitarse a mantener la vía aérea permeable y controlar la hemorragia externa.",
+      "C": "Las decisiones deben tomarse teniendo en cuenta únicamente la naturaleza de la lesión y la urgencia de la condición general del paciente.",
+      "D": "Las categorías de clasificación se identifican con etiquetas o cintas de colores."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 107,
+      "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+    },
+    "explicacion": {
+      "correcta": "En el triaje en catástrofes, las decisiones NO deben basarse únicamente en la naturaleza de la lesión y la urgencia, sino también en la disponibilidad de recursos (personal, materiales, camas, quirófanos) y en la capacidad del sistema de atención en ese momento. El principio fundamental del triaje masivo es el de 'mayor bien para el mayor número', lo que implica priorizar a quienes tienen mayor probabilidad de sobrevivir con los recursos disponibles. Tener en cuenta solo la gravedad sin considerar los recursos podría llevar a invertir esfuerzos en pacientes sin expectativas de supervivencia descuidando a otros recuperables.",
+      "incorrectas": {
+        "A": "Es cierto que en situaciones de catástrofe se modifican algunos principios habituales de la medicina individual (como el principio de maximizar el beneficio individual a cualquier coste); en su lugar se aplican criterios utilitaristas de maximización del beneficio colectivo. Esta afirmación es verdadera.",
+        "B": "En la fase de clasificación en catástrofes, las intervenciones permitidas son mínimas: solo las imprescindibles para mantener la vida inmediatamente (apertura de vía aérea y control de hemorragia externa); no se realizan maniobras complejas de reanimación en el punto de triaje. Esta afirmación es verdadera.",
+        "D": "El sistema de clasificación por colores (rojo-urgente, amarillo-demorable, verde-leve, negro-fallecido o sin expectativa) es universal en los sistemas de triaje en catástrofes y se implementa mediante etiquetas o cintas de colores. Esta afirmación es verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 102,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "PREGUNTAS DE RESERVA PREGUNTAS DE RESERVA PREGUNTAS DE RESERVA Señale la afirmación FALSA sobre los sistemas de triage:",
+    "opciones": {
+      "A": "Se valoran síntomas y signos.",
+      "B": "Su disponibilidad es un indicador de calidad.",
+      "C": "Finaliza con la visita médica.",
+      "D": "Mejora la calidad pero no la eficiencia del servicio."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 107,
+      "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+    },
+    "explicacion": {
+      "correcta": "La afirmación falsa es que el triaje 'mejora la calidad pero no la eficiencia'. Los sistemas de triaje estructurado (como el Manchester Triage System, el SET o el ESI) mejoran tanto la calidad asistencial (garantizando que los pacientes más graves sean atendidos primero) como la eficiencia del servicio (optimizando el flujo de pacientes, reduciendo tiempos de espera inadecuados y mejorando la gestión de recursos). El triaje es uno de los pilares de la gestión eficiente en los servicios de urgencias hospitalarios.",
+      "incorrectas": {
+        "A": "Los sistemas de triaje se basan en la valoración sistematizada de síntomas (motivo de consulta) y signos vitales (frecuencia cardíaca, respiratoria, tensión arterial, saturación, temperatura, nivel de conciencia) para asignar el nivel de urgencia; esta afirmación es verdadera.",
+        "B": "La disponibilidad de un sistema de triaje estructurado y validado en los servicios de urgencias hospitalarios es reconocida como indicador de calidad asistencial por el Ministerio de Sanidad y las sociedades científicas (SEMES); esta afirmación es verdadera.",
+        "C": "El proceso de triaje no finaliza con la visita médica; incluye la reclasificación si el paciente espera y su situación cambia, el seguimiento de tiempos y la monitorización hasta que el médico inicia la atención. Sin embargo, en algunos modelos se considera que la responsabilidad del triaje como proceso de priorización inicial sí culmina cuando el médico asume la atención. Esta afirmación puede considerarse discutible, pero la claramente falsa según las guías es la opción D."
+      }
+    }
+  },
+  {
+    "id_examen": 103,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "Señale cual de los siguientes tipos de shock NO es distributivo:",
+    "opciones": {
+      "A": "Shock neurogénico.",
+      "B": "Shock anafiláctico.",
+      "C": "Shock por lesión miocárdica.",
+      "D": "Shock séptico."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 50,
+      "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El shock cardiogénico por lesión miocárdica (infarto agudo de miocardio, miocarditis, contusión cardíaca) es un shock de tipo cardiogénico, no distributivo. En el shock cardiogénico el fallo de la bomba cardíaca reduce el gasto cardíaco y la presión de perfusión con resistencias vasculares periféricas elevadas. Esto lo diferencia fundamentalmente del shock distributivo, en el que existe vasodilatación masiva con resistencias vasculares disminuidas y gasto cardíaco normal o elevado.",
+      "incorrectas": {
+        "A": "El shock neurogénico (por lesión de la médula espinal con interrupción del tono simpático) es un shock distributivo: la pérdida del tono vasomotor simpático produce vasodilatación masiva con redistribución del volumen sanguíneo, caída de las resistencias vasculares sistémicas y bradicardia paradójica.",
+        "B": "El shock anafiláctico es el prototipo del shock distributivo mediado por IgE; la liberación masiva de histamina y otros mediadores produce vasodilatación, aumento de la permeabilidad vascular y redistribución del flujo sanguíneo con caída de las resistencias periféricas.",
+        "D": "El shock séptico es el tipo más frecuente de shock distributivo; las toxinas bacterianas y la respuesta inflamatoria sistémica producen vasodilatación periférica con caída de las resistencias vasculares, siendo característico el patrón hiperdinámico con gasto cardíaco elevado en fases iniciales."
+      }
+    }
+  },
+  {
+    "id_examen": 104,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "Señale qué valoran los criterios de Anthonisen:",
+    "opciones": {
+      "A": "El aumento del volumen del esputo, de su purulencia y la presencia de expectoración hemoptoica.",
+      "B": "El aumento del volumen del esputo, de su purulencia y el valor del peak-flow.",
+      "C": "El aumento del volumen del esputo, de su purulencia y el aumento de la disnea.",
+      "D": "El aumento del volumen del esputo, de su purulencia y la presencia de hipercapnia."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 54,
+      "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Los criterios de Anthonisen (1987) son los criterios clásicos utilizados para diagnosticar y clasificar la reagudización de la EPOC. Constan de tres síntomas cardinales: aumento de la disnea basal, aumento del volumen del esputo y aumento de la purulencia del esputo. La presencia de los tres criterios define una reagudización tipo I (la más grave, con mayor probabilidad de etiología bacteriana y mayor beneficio del tratamiento antibiótico); dos criterios, tipo II; y un criterio, tipo III.",
+      "incorrectas": {
+        "A": "La hemoptisis (expectoración hemoptoica) no forma parte de los criterios de Anthonisen; su presencia en una reagudización de EPOC debe hacer sospechar otras causas como neoplasia, tromboembolismo pulmonar o tuberculosis y requiere estudio específico.",
+        "B": "El peak-flow (flujo espiratorio máximo) es una medida de función pulmonar útil en el asma pero no en la EPOC, donde se utiliza el FEV1; además no forma parte de los criterios de Anthonisen, que son exclusivamente clínicos y sintomáticos.",
+        "D": "La hipercapnia es un hallazgo gasométrico grave en la reagudización de EPOC, pero no pertenece a los criterios de Anthonisen, que son criterios exclusivamente clínicos (síntomas que el paciente puede referir o el médico explorar sin necesidad de gasometría)."
+      }
+    }
+  },
+  {
+    "id_examen": 105,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuáles de estos son criterios de gravedad en una crisis asmática?",
+    "opciones": {
+      "A": "Frecuencia respiratoria >30.",
+      "B": "Frecuencia cardiaca > 120.",
+      "C": "Utilización de musculatura accesoria.",
+      "D": "Todas son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 55,
+      "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "Los tres parámetros mencionados son criterios de agudización asmática grave según las guías internacionales (GEMA, BTS/SIGN, GINA). La frecuencia respiratoria mayor de 30 rpm indica insuficiencia respiratoria significativa. La taquicardia superior a 120 lpm refleja el esfuerzo respiratorio y la hipoxemia. El uso de musculatura accesoria (esternocleidomastoideo, intercostales, escalenos) evidencia el aumento del trabajo respiratorio con incapacidad para mantener la ventilación con la musculatura habitual. Todos ellos son indicadores de crisis grave que requieren tratamiento intensivo urgente.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 106,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En un paciente con crisis epiléptica, el diagnóstico diferencial debe hacerse con:",
+    "opciones": {
+      "A": "Migraña basilar.",
+      "B": "Síncope convulsivo.",
+      "C": "Discinesias.",
+      "D": "Todas son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 67,
+      "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+    },
+    "explicacion": {
+      "correcta": "El diagnóstico diferencial de la crisis epiléptica es amplio y debe incluir todas estas entidades. La migraña basilar (migraña con aura del tronco) puede producir confusión, alteración de conciencia y síntomas neurológicos similares a crisis epilépticas. El síncope convulsivo (con sacudidas mioclónicas breves por hipoperfusión cerebral transitoria) puede confundirse fácilmente con una crisis tónico-clónica generalizada. Las discinesias (movimientos involuntarios de origen extrapiramidal) también pueden simular crisis motoras. El electroencefalograma y la historia clínica detallada son claves para el diagnóstico diferencial.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 107,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Qué condición precipita más frecuentemente el estado hiperosmolar hiperglucémico en pacientes con diabetes tipo 2?",
+    "opciones": {
+      "A": "Sobredosis de insulina.",
+      "B": "Infecciones sistémicas graves como neumonía o sepsis.",
+      "C": "Ejercicio físico excesivo sin ajuste de insulina.",
+      "D": "Consumo excesivo de carbohidratos simples en la dieta."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 71,
+      "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+    },
+    "explicacion": {
+      "correcta": "Las infecciones graves (especialmente neumonía, infecciones del tracto urinario y sepsis) son el factor precipitante más frecuente del estado hiperosmolar hiperglucémico no cetósico (EHHNC), representando más del 50% de los casos. La respuesta inflamatoria sistémica genera resistencia a la insulina, aumento de hormonas contrarreguladoras (glucagón, cortisol, catecolaminas) y en muchos casos el paciente anciano con diabetes tipo 2 reduce la ingesta de líquidos, favoreciendo la deshidratación y la hiperosmolaridad progresiva.",
+      "incorrectas": {
+        "A": "La sobredosis de insulina provocaría hipoglucemia, no hiperglucemia. El EHHNC se caracteriza precisamente por glucemias extremadamente elevadas (generalmente >600 mg/dL); la insulina insuficiente o los factores que aumentan la resistencia insulínica son los que precipitan el cuadro.",
+        "C": "El ejercicio físico intenso sin ajuste de insulina puede producir hipoglucemia en pacientes con diabetes tipo 1 en tratamiento insulínico, o incluso mejorar la sensibilidad a la insulina a largo plazo; no es el precipitante habitual del EHHNC.",
+        "D": "Aunque un exceso de carbohidratos puede elevar transitoriamente la glucemia, el simple exceso dietético no suele ser suficiente para desencadenar un EHHNC, que requiere típicamente un factor estresante mayor que provoque una descompensación metabólica profunda."
+      }
+    }
+  },
+  {
+    "id_examen": 108,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En urgencias, si un paciente presenta bajo riesgo de TVP según la escala de Wells y un dímero-D negativo, ¿cuál es el siguiente paso recomendado?",
+    "opciones": {
+      "A": "Realizar un ultrasonido Doppler.",
+      "B": "Iniciar anticoagulación preventiva.",
+      "C": "Dar de alta al paciente sin más estudios.",
+      "D": "Solicitar una tomografía computarizada (TAC)."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 56,
+      "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "La combinación de baja probabilidad clínica por la escala de Wells para TVP (puntuación ≤1) junto con un dímero-D negativo tiene un valor predictivo negativo superior al 99%, lo que permite excluir de forma segura la TVP sin necesidad de estudios de imagen. Esta estrategia diagnóstica está respaldada por múltiples estudios prospectivos y las guías internacionales (ACCP, ESC) recomiendan dar de alta al paciente sin anticoagulación ni pruebas adicionales en este escenario.",
+      "incorrectas": {
+        "A": "El ultrasonido Doppler de extremidades inferiores está indicado cuando la probabilidad clínica es intermedia o alta, o cuando el dímero-D es positivo en pacientes de baja probabilidad. Si la probabilidad es baja Y el dímero-D es negativo, la ecografía no aporta información adicional y no está indicada según las guías actuales.",
+        "B": "Iniciar anticoagulación preventiva sin diagnóstico confirmado de TVP en un paciente de bajo riesgo y dímero-D negativo supondría sobretratar al paciente con el riesgo de hemorragias sin beneficio clínico demostrado.",
+        "D": "La tomografía computarizada (angio-TAC) es la prueba diagnóstica de referencia para el embolismo pulmonar, no para la TVP en miembros inferiores. Además, su realización no está indicada cuando la combinación de baja probabilidad y dímero-D negativo ya excluye de forma fiable la enfermedad tromboembólica venosa."
+      }
+    }
+  },
+  {
+    "id_examen": 109,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "En el manejo de la TVP en un paciente con alto riesgo de hemorragia, ¿qué opción terapéutica de las siguientes se considera más segura inicialmente?",
+    "opciones": {
+      "A": "Anticoagulantes orales directos.",
+      "B": "Clopidogrel.",
+      "C": "Filtro de vena cava inferior.",
+      "D": "Trombolíticos intravenosos."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 56,
+      "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "En pacientes con TVP proximal y contraindicación absoluta para la anticoagulación por alto riesgo hemorrágico (hemorragia activa, cirugía reciente de alto riesgo, trombocitopenia grave), el filtro de vena cava inferior (FVCI) es la alternativa terapéutica de elección para prevenir el embolismo pulmonar mientras persiste la contraindicación. Los filtros recuperables permiten retirarlos cuando el riesgo hemorrágico disminuye e iniciar la anticoagulación. Son la única opción que reduce el riesgo de TEP sin aumentar el riesgo de sangrado.",
+      "incorrectas": {
+        "A": "Los anticoagulantes orales directos (rivaroxabán, apixabán, dabigatrán) son fármacos anticoagulantes eficaces y la primera línea de tratamiento en la TVP, pero están contraindicados precisamente en los pacientes con alto riesgo hemorrágico por su acción anticoagulante, que aumentaría el riesgo de sangrado grave.",
+        "B": "El clopidogrel es un antiagregante plaquetario (inhibidor del receptor P2Y12) que no tiene indicación en el tratamiento de la TVP; la fisiopatología de la trombosis venosa implica predominantemente la coagulación plasmática, no la agregación plaquetaria, por lo que los antiagregantes son ineficaces en este contexto.",
+        "D": "Los trombolíticos intravenosos (alteplasa, estreptoquinasa) producen lisis del trombo pero conllevan un alto riesgo de hemorragia grave (incluyendo hemorragia intracraneal); están contraindicados en pacientes con alto riesgo hemorrágico y solo se consideran en situaciones de riesgo vital inmediato como el TEP masivo con inestabilidad hemodinámica."
+      }
+    }
+  },
+  {
+    "id_examen": 110,
+    "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+    "enunciado": "¿Cuál de las siguientes acciones se consideraría más apropiada en el abordaje de los pacientes terminales en urgencias?",
+    "opciones": {
+      "A": "Maximizar el tratamiento quirúrgico.",
+      "B": "Minimizar el sufrimiento físico y emocional.",
+      "C": "Intubación orotraqueal.",
+      "D": "Administrar la mayor cantidad de medicamentos posible."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 96,
+      "tema": "Cuidados paliativos en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El principio fundamental del abordaje del paciente terminal en urgencias es el control del sufrimiento y la promoción del confort, tanto físico (dolor, disnea, náuseas, agitación) como emocional (ansiedad, miedo) y espiritual. La atención paliativa en urgencias implica ajustar las medidas terapéuticas al objetivo de confort, comunicar adecuadamente con el paciente y la familia, y evitar la obstinación terapéutica. Este enfoque está respaldado por las guías de cuidados paliativos en servicios de urgencias hospitalarios.",
+      "incorrectas": {
+        "A": "Maximizar el tratamiento quirúrgico en un paciente terminal supondría obstinación terapéutica (encarnizamiento terapéutico), que va en contra de los principios éticos de beneficencia, no maleficencia y autonomía; las intervenciones invasivas sin posibilidad de curación o mejoría significativa de calidad de vida no están indicadas.",
+        "C": "La intubación orotraqueal en el paciente terminal con enfermedad avanzada sin posibilidad de reversibilidad representa una medida desproporcionada que prolonga el proceso de morir sin mejorar la calidad de vida, y generalmente va en contra de los valores y deseos del paciente; no es la actitud apropiada salvo que el paciente lo haya manifestado expresamente y sea éticamente coherente.",
+        "D": "Administrar la mayor cantidad de medicamentos posible sin un objetivo terapéutico claro es una práctica inadecuada que puede producir efectos adversos, interacciones y mayor sufrimiento; el principio de proporcionalidad terapéutica exige utilizar solo los fármacos necesarios para el control de síntomas, en las dosis mínimas eficaces."
+      }
+    }
+  }
+]

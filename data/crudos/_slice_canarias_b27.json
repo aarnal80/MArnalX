@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 573,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En los niños mayores de 5 años de edad, el lugar de acceso intraóseo más recomendable seria:",
+  "opciones": {
+   "A": "Porción distal de la tibia",
+   "B": "Porción proximal de la tibia",
+   "C": "Porción distal del fémur",
+   "D": "Porción proximal del fémur"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 574,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el sistema de monitorización que ofrece la información más precoz de que un paciente se ha extubado accidentalmente?",
+  "opciones": {
+   "A": "EKG",
+   "B": "Pletismografia",
+   "C": "Pulsiosimetria",
+   "D": "Capnografia"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 575,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Entre los efectos de la administración de presión positiva en la vía aérea se encuentra:",
+  "opciones": {
+   "A": "Disminución presión intracraneal",
+   "B": "Disminución de la producción de péptido natriurtético (BNP)",
+   "C": "Aumento precarga ventricular",
+   "D": "Aumento perfusión coronaria"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 576,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La dosis inicial recomendada de rocuronio para intubación orotraqual es de :",
+  "opciones": {
+   "A": "0,15mg/Kg",
+   "B": "0,20mg/Kg",
+   "C": "0,30mg/Kg",
+   "D": "0,6mg/Kg"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 577,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de estos fármacos no puede usarse en personas alérgicas al huevo?:",
+  "opciones": {
+   "A": "Propofol",
+   "B": "Ketamina",
+   "C": "Cisatracurio",
+   "D": "Todos ellos"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 578,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La ventilación asistida-controlada, señale la respuesta ERRONEA:",
+  "opciones": {
+   "A": "Evita la asincronia respiratoria",
+   "B": "Puede empeorar el atrapamiento aéreo",
+   "C": "Se puede aplicar con controlo de volumen o presión",
+   "D": "Permite al paciente varias la frecuencia respiratoria pero no el tipo de ventilación"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 579,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes se considera que la administración de la ventilación mecánica no invasiva es exitosa o cumple sus objetivos terapéuticos?",
+  "opciones": {
+   "A": "Ausencia de disnea",
+   "B": "Frecuencia respiratoria del paciente >25rpm",
+   "C": "pH menor de 7,35",
+   "D": "Mantenimiento de una Saturación de oxigeno entre el 75-80%"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 580,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El propofol:",
+  "opciones": {
+   "A": "Está especialmente indicado para la sedación de pacientes hemodinamicamente inestables",
+   "B": "Puede usarse en asmáticos",
+   "C": "La dosis de inducción es de 5mg",
+   "D": "Es seguro en el embarazo"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 581,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale cuál de los siguientes no es un dispositivo supraglótico:",
+  "opciones": {
+   "A": "Mascarilla laríngea",
+   "B": "Combitube",
+   "C": "Mascarilla I-gel",
+   "D": "Bujia de Boussignac"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 582,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Respecto a la ventilación mecánica no invasiva, señale la afirmación CORRECTA:",
+  "opciones": {
+   "A": "Este tipo de ventilación es una modalidad de apoyo a la ventilación espontánea del paciente",
+   "B": "Permite que el paciente pueda toser de forma espontánea, eliminando sus secreciones",
+   "C": "Disminuye la aparición de complicaciones asociadas a la ventilación mecánica",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 583,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes NO es un criterio para definir al paciente geriatrico?",
+  "opciones": {
+   "A": "Edad mayor de 75 años",
+   "B": "Pluripatológico",
+   "C": "Ausencia de patología mental",
+   "D": "La enfermedad principal es incapacitante"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 584,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes NO es un objetivo de la valoración geriátrica integral?",
+  "opciones": {
+   "A": "Descubrir problemas tratables no diagnosticados",
+   "B": "Mejorar la calidad de vida",
+   "C": "Establecer un diagnostico sindrómico del paciente",
+   "D": "Establecer el tratamiento adecuado"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 585,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes interacciones de fármacos en el anciano provoca como efecto secundario un incremento de las caídas?",
+  "opciones": {
+   "A": "Antihipertensivo y AINES",
+   "B": "Diurético ahorrador de potasio e IECA",
+   "C": "Diureticos de ASA y Digoxina",
+   "D": "Antihipertensivo vasodilatador y neurolépticos"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 586,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes fármacos se relaciona con la aparición de síntomas depresivos en el anciano?",
+  "opciones": {
+   "A": "Corticoides",
+   "B": "Benzodiacepinas",
+   "C": "Neurolépticos",
+   "D": "Antidepresivos"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 587,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes NO es una medida para el tratamiento del síndrome confusional agudo?",
+  "opciones": {
+   "A": "Cuidados del hábito intestinal",
+   "B": "Control analgésico optimo con opiáceos",
+   "C": "Evitar cambios de habitación",
+   "D": "Minimizar los cambios de personal responsable de la atención"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 588,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la forma de manifestación más habitual en el anciano de una reacción adversa a medicamentos?",
+  "opciones": {
+   "A": "Erupción cutánea",
+   "B": "Delirio",
+   "C": "Deterioro cognitivo",
+   "D": "Inestabilidad"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 589,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Los ancianos son mas susceptibles para sufrir un golpe de calor, si están tomando determinados medicamentos. Señale el fármaco que NO suele estar implicado",
+  "opciones": {
+   "A": "Diuréticos",
+   "B": "Anticolinégicos",
+   "C": "Antagonistas de leucotrienos",
+   "D": "Antiparkinsonianos"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 590,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes ítems NO se encuadra dentro de la valoración clínica y nutricional, dentro de la valoración geriátrica abreviada adaptada a los servicios de urgencias?",
+  "opciones": {
+   "A": "Detectar probable demencia",
+   "B": "Comorbilidad",
+   "C": "Polifarmacia",
+   "D": "Malnutrición"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 591,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes procesos NO predispone a una intoxicación digitálica en el anciano?",
+  "opciones": {
+   "A": "Deshidratación",
+   "B": "Insuficiencia hepática",
+   "C": "Hipopotasemia",
+   "D": "Insuficiencia renal"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 592,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Desde el Servicio de Urgencias se puede iniciar un enfoque paliativo de los pacientes. ¿En cuál de los casos descritos a continuación NO estaría indicado?",
+  "opciones": {
+   "A": "Insuficiencia cardíaca NYHA IV con FEVI <30% y 3 ingresos en último año por síntomas secundarios a la misma",
+   "B": "EPOC con disnea de reposo FEV1 <30% y 3 ingresos en los últimos 6 meses por descompensación",
+   "C": "Insuficiencia renal crónica grave (FG<15), candidato a trasplante",
+   "D": "Cirrosis hepática avanzada (Child C) con ascitis refractaria"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 593,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En las fases finales del paciente paliativo, en ocasiones se originan abundantes ruidos asociados a los movimientos respiratorios producidos por la oscilación de las secreciones acumuladas (estertores premortem). Con frecuencia causan gran angustia en los familiares. Todas las siguiente, menos una, son medidas para paliarlos.",
+  "opciones": {
+   "A": "Poner en decúbito lateral, si es posible, con la cabeza elevada",
+   "B": "Disminuir la hidratación",
+   "C": "Butilescopolamina 20-40mg/8 horas vía subcutánea",
+   "D": "Baclofeno 5mg/8 horas vía subcutánea"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 594,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes fármacos administraría para el tratamiento de los espasmos musculares?",
+  "opciones": {
+   "A": "Fluoxetina",
+   "B": "Metilprednisolona",
+   "C": "Midazolam",
+   "D": "Baclofeno"
+  },
+  "respuesta_correcta": "D"
+ }
+]

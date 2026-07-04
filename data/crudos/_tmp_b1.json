@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Los años de vida ganados ajustados por calidad (AVAC) se usan en los estudios de:",
+  "opciones": {
+   "A": "Coste-Utilidad.",
+   "B": "Coste-Beneficio.",
+   "C": "Coste-Efectividad.",
+   "D": "Coste-Eficacia."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En la gestión por procesos, la representación gráfica de la estructura de procesos de un sistema se denomina:",
+  "opciones": {
+   "A": "Diagrama de flujos.",
+   "B": "Mapa de procesos.",
+   "C": "Sistema operativo.",
+   "D": "Diagrama de Pareto."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Indicar la respuesta INCORRECTA en relación con los tipos de nombramiento de personal estatutario temporal, en la regulación contenida en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+  "opciones": {
+   "A": "De carácter eventual.",
+   "B": "De sustitución",
+   "C": "De interinidad",
+   "D": "De alta dirección."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre la potencia de un test es cierta?",
+  "opciones": {
+   "A": "Es independiente del tamaño muestral.",
+   "B": "Es específico de cada tipo de prueba estadística.",
+   "C": "Es la capacidad que tiene un test de encontrar diferencias significativas.",
+   "D": "Es equivalente al error alfa."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "El artículo 122 de la ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas establece que el plazo para la interposición del recurso de alzada, si el acto fuera expreso será:",
+  "opciones": {
+   "A": "Un mes.",
+   "B": "Dos meses.",
+   "C": "Tres meses.",
+   "D": "Cuatro meses."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes NO tienen la consideración de fuente de acceso público según el artículo 3 de la Ley de Protección de datos de carácter personal?",
+  "opciones": {
+   "A": "Los repertorios telefónicos en los términos previstos por su normativa específica.",
+   "B": "Los ficheros creados por las Fuerzas y Cuerpos de Seguridad que contengan datos de carácter personal recogidos para fines administrativos.",
+   "C": "Los diarios y boletines oficiales.",
+   "D": "Las listas de personas pertenecientes a grupos de profesionales que contengan únicamente los datos de nombre, título, profesión, actividad, grado académico, dirección e indicación de su pertenencia al grupo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "La evidencia científica que se requiere para elaborar una guía de práctica clínica puede proceder de tres tipos de fuentes de información, ¿cuál NO es correcta?",
+  "opciones": {
+   "A": "Guías de práctica clínica.",
+   "B": "Revisiones sistemáticas y otras síntesis de la evidencia científica.",
+   "C": "Estudios con evidencia de sesgos.",
+   "D": "Estudios primarios."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Según el artículo 64 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario cuando acceda a plaza de formación sanitaria especializada mediante residencia, será declarado en situación de:",
+  "opciones": {
+   "A": "Servicio activo.",
+   "B": "Excedencia voluntaria",
+   "C": "Servicios Especiales",
+   "D": "Comisión de servicios."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos órganos administrativos centrales NO pertenece a la estructura del Servicio Aragonés de Salud?",
+  "opciones": {
+   "A": "Dirección de Área de Coordinación Asistencial.",
+   "B": "Dirección de Área de Farmacia.",
+   "C": "Dirección de Área Económico Administrativa.",
+   "D": "Dirección de Área de Recursos Humanos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En el análisis de indicadores sanitarios, el concepto de complejidad de la casuística se refiere a:",
+  "opciones": {
+   "A": "Los avances tecnológicos de la atención sanitaria.",
+   "B": "Las diferencias en las características y necesidades de los pacientes atendidos.",
+   "C": "La complejidad de las técnicas estadísticas de análisis.",
+   "D": "Los cambios en los sistemas y tecnologías de la información."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estas exploraciones, NO es necesaria, en un estudio inicial de síndrome confusional agudo?",
+  "opciones": {
+   "A": "Sedimento de orina.",
+   "B": "Radiografía de tórax.",
+   "C": "TAC cerebral.",
+   "D": "Gasometría venosa."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Hacia cuál de estas posibilidades diagnósticas orientaría, como primera opción, un paciente en situación de shock con presión venosa central elevada y al que todavía NO se ha realizado ninguna reposición de volumen?",
+  "opciones": {
+   "A": "Fractura inestable de pelvis.",
+   "B": "Rotura de víscera abdominal.",
+   "C": "Lesión medular aguda.",
+   "D": "Taponamiento cardíaco."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Indique cuál de las siguientes variables del CMBDU (conjunto mínimo básico de datos Urgencia) NO es de triaje, según el Manual de Organización y Funcionamiento de los Servicios Hospitalarios de Urgencias de Aragón:",
+  "opciones": {
+   "A": "Número de reevaluaciones.",
+   "B": "Motivo de la readmisión.",
+   "C": "Readmisión en 48h.",
+   "D": "Visita en sala rápida, ambulantes o alta resolución."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Varón de 75 años, sin antecedentes de interés, que presenta desde hace una hora afasia motora con desviación de la comisura bucal y desorientación. NIHSS 6 puntos. Rankin 0 puntos. Se le realiza TC cerebral que informan sin patología, con ASPECT 10, angioTC cerebral no visualiza trombo. Señale la respuesta CORRECTA.",
+  "opciones": {
+   "A": "No está indicada la fibrinolisis, ya que el angioTC cerebral no demuestra trombo.",
+   "B": "En este caso al tener un NIHSS bajo no está indicada la fibrinolisis.",
+   "C": "Podemos descartar un ictus, ya que los estudios con TC cerebral son normales.",
+   "D": "Es candidato a fibrinolisis con alteplasa si no existen contraindicaciones."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Ante una Catastrofe, el Triaje Internacional se basa en la catalogación del paciente con un código de colores. En función de dicho código ¿a que pacientes se considera de actuación NO urgente?",
+  "opciones": {
+   "A": "Amarillo y Rojo.",
+   "B": "Verde y Negro.",
+   "C": "Amarillo y Negro.",
+   "D": "Verde y Amarillo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Con respecto a las pruebas complementarias en el cólico renal, señale la respuesta correcta:",
+  "opciones": {
+   "A": "El TAC helicoidal sin contraste es la prueba de imagen más sensible y específica.",
+   "B": "En todos los pacientes con cólico renal debe realizarse una ecografía abdominal reglada.",
+   "C": "Es imprescindible realizar analítica básica de sangre en el cólico renal simple.",
+   "D": "El 60% de los cálculos renales son radiopacos."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta INCORRECTA en relación con el Síndrome de Menière:",
+  "opciones": {
+   "A": "Crisis de vértigo rotatorio de unas horas de duración acompañado de náuseas y vómitos.",
+   "B": "Acúfenos.",
+   "C": "Intervalos asintomáticos entre crisis.",
+   "D": "No presentan hipoacusia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "De las siguientes afirmaciones respecto a la clínica del coma mixedematoso, señale la INCORRECTA:",
+  "opciones": {
+   "A": "Son factores precipitantes traumatismos, intervenciones quirúrgicas, quemaduras e IAM.",
+   "B": "Si la temperatura es normal debemos sospechar infección o sepsis.",
+   "C": "La insuficiencia cardiaca congestiva es frecuente y se asocia a derrame pericárdico.",
+   "D": "Se pueden asociar alteraciones psiquiátricas tipo paranoia y alucinaciones."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes medidas es INCORRECTA en el tratamiento de la pancreatitis aguda?",
+  "opciones": {
+   "A": "En el manejo del dolor se usan pirazolonas y opiáceos.",
+   "B": "Se recomienda hidratación intravenosa agresiva, si la situación cardiaca lo permite, en las 12-24 primeras horas.",
+   "C": "Nutrición parenteral precoz.",
+   "D": "No se recomienda el uso de antibióticos de forma profiláctica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la afirmación correcta en relación con el tratamiento de un enfermo en situación de coma de origen indeterminado:",
+  "opciones": {
+   "A": "No se aconseja la administración rutinaria de flumazenilo ya que puede producir convulsiones en pacientes con consumo crónico de benzodiazepinas.",
+   "B": "Si se descarta hipoglucemia la administración de glucosa hipertónica mejora el deterioro neuronal.",
+   "C": "La naloxona no está indicada en pacientes con examen neurológico no sugestivo de coma estructural que presenten miosis, depresión respiratoria y estigmas de venopunción.",
+   "D": "Ante la confirmación o sospecha de hipertensión intracraneal se deben administrar siempre corticoides endovenosos."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En la sospecha de meningitis aguda bacteriana, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+  "opciones": {
+   "A": "Debe extraerse sangre y hemocultivos previamente a la punción lumbar.",
+   "B": "Iniciar antibioterapia empírica tras los hemocultivos antes de la punción lumbar.",
+   "C": "Utilizar bolo de corticoides previo o a la vez que el antibiótico.",
+   "D": "Administrar fenitoina para profilaxis de crisis convulsiva."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos criterios es mayor, en el diagnóstico diferencial de las taquicardias con QRS ancho, a favor de una taquicardia ventricular?",
+  "opciones": {
+   "A": "Irregularidad RR.",
+   "B": "Disociación auriculo ventricular.",
+   "C": "Inicio del QRS rápido (intervalo RS en precordiales < 100 mseg).",
+   "D": "Imagen de bloqueo de rama derecha trifásico en V1-V2."
+  },
+  "respuesta_correcta": "B"
+ }
+]

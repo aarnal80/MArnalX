@@ -1,0 +1,506 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5: Un paciente de 68 anos acude a Urgencias por cuadro febril y malestar general. En el Triage: TA 130/70, FC 130 lpm, FR 25 rpm, SaO2 del 98%, Ta 38.7oC, Glucemia 145 mgrs/dl, con nivel de consciencia normal con palidez y frialdad acra y relleno capilar lento > 3 segundos.\nSenale nivel de prioridad.",
+  "opciones": {
+   "A": "Nivel I",
+   "B": "Nivel II",
+   "C": "Nivel III",
+   "D": "Nivel IV"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organizacion de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catastrofes."
+  },
+  "explicacion": {
+   "correcta": "El paciente presenta taquicardia (FC 130 lpm), taquipnea (FR 25 rpm), fiebre, palidez, frialdad acra y relleno capilar lento mayor de 3 segundos, lo que indica una situacion de alto riesgo potencial con inestabilidad hemodinámica incipiente. Segun los sistemas de triaje estructurado (Manchester, SET), estos hallazgos corresponden a un Nivel II (emergencia), que requiere atencion muy urgente en menos de 15 minutos.",
+   "incorrectas": {
+    "A": "El Nivel I (resucitacion) se reserva para pacientes en parada cardiorrespiratoria o en riesgo inmediato de muerte con compromiso vital ya establecido, situacion que no presenta este paciente, que conserva el nivel de consciencia.",
+    "C": "El Nivel III (urgencia) corresponderia a pacientes con signos vitales estables y sin datos de hipoperfusion periferica; este paciente tiene taquicardia marcada y signos de mala perfusion periferica que lo excluyen de este nivel.",
+    "D": "El Nivel IV (menos urgente) aplica a cuadros menores sin alteracion hemodinámica ni signos de gravedad, lo que es incompatible con la situacion descrita."
+   }
+  }
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): En el caso anterior. Deberia activarse el CODIGO SEPSIS?",
+  "opciones": {
+   "A": "No, dada la estabilidad hemodinámica y neurologica.",
+   "B": "No, pues no reune criterios de sepsis grave",
+   "C": "Si, ya que segun escala qSOFA ampliado existe riesgo de sepsis grave.",
+   "D": "Depende de ellos antecedentes del paciente."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "El paciente presenta fiebre (38.7 oC), taquicardia (FC 130 lpm), taquipnea (FR 25 rpm), alteracion de la perfusion periferica (frialdad acra, relleno capilar lento) y glucemia de 145 mg/dl, lo que supone puntuacion positiva en el qSOFA ampliado (FR >= 22, signos de hipoperfusion). Segun los protocolos de Codigo Sepsis, estos criterios obligan a activar el codigo para iniciar la cadena asistencial sin demora.",
+   "incorrectas": {
+    "A": "Afirmar que el paciente esta hemodinamicamente estable es incorrecto, ya que la taquicardia de 130 lpm, la taquipnea y los signos de hipoperfusion periferica indican inestabilidad hemodinámica relativa.",
+    "B": "Los criterios de sepsis grave han sido actualizados por Sepsis-3; independientemente de la clasificacion, el perfil clinico obliga a activar el Codigo Sepsis ante la sospecha de disfuncion organica incipiente.",
+    "D": "La activacion del Codigo Sepsis se basa en criterios clinicos objetivos y no en los antecedentes del paciente, que son irrelevantes para la decision de activacion inicial."
+   }
+  }
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): El paciente no presenta antecedentes de interes y en la exploracion fisica no encontramos datos sobre foco infeccioso. Cual seria su actuacion inicial?",
+  "opciones": {
+   "A": "Canalizar via venosa grueso calibre y solicitar analitica.",
+   "B": "Administrar antitermicos",
+   "C": "Busqueda del foco",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "La actuacion inicial ante sospecha de sepsis debe ser multifocal y simultanea: canalizar una via venosa de grueso calibre para extraccion analitica y fluidoterapia, administrar antitermicos para mejorar el confort y reducir la demanda metabolica, y buscar el foco infeccioso para orientar la antibioterapia empirica. Los paquetes de medidas (bundles) de sepsis contemplan todas estas acciones de forma conjunta en la primera hora.",
+   "incorrectas": {
+    "A": "Canalizar la via y solicitar analitica es necesario pero insuficiente como actuacion aislada; omitir la busqueda del foco y los antitermicos retrasaria el manejo integral.",
+    "B": "Administrar solo antitermicos sin canalizar via ni buscar el foco seria una actuacion incompleta que no aborda el origen del cuadro ni permite iniciar el tratamiento definitivo.",
+    "C": "La busqueda del foco es imprescindible pero debe realizarse en paralelo con las demas medidas y no como unica accion inicial."
+   }
+  }
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): Que pruebas analiticas solicitaria?",
+  "opciones": {
+   "A": "Hemograma, Bioquimica basica y coagulacion.",
+   "B": "Hemograma, Bioquimica basica, Coagulacion y Hemocultivos.",
+   "C": "Hemograma, Bioquimica basica, Coagulacion, Hemocultivos, PCR y Procalcitonina.",
+   "D": "Hemograma, Bioquimica basica, Coagulacion, Hemocultivos, PCR, Procalcitonina y Lactato."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "En el protocolo de Codigo Sepsis la analitica completa incluye hemograma, bioquimica basica, coagulacion, hemocultivos (preferiblemente antes del antibiotico), marcadores inflamatorios (PCR y procalcitonina) y lactato arterial o venoso. El lactato es esencial porque su elevacion (>= 2 mmol/L) es criterio de sepsis con hipoperfusion tisular y, si supera 4 mmol/L, define shock septico independientemente de la tension arterial.",
+   "incorrectas": {
+    "A": "Omitir hemocultivos, marcadores inflamatorios y lactato impide identificar el agente causal, cuantificar la respuesta inflamatoria y evaluar la perfusion tisular, elementos clave en la sepsis.",
+    "B": "Incluir hemocultivos es correcto pero la ausencia de PCR, procalcitonina y lactato hace incompleta la valoracion de la gravedad y del grado de hipoperfusion.",
+    "C": "Anadir PCR y procalcitonina es adecuado, pero sin el lactato no se puede evaluar el metabolismo anaerobio ni estratificar correctamente el riesgo de mortalidad."
+   }
+  }
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): Que mas haria?",
+  "opciones": {
+   "A": "Administrar antibioterapia empirica segun foco sospechado.",
+   "B": "Administrar O2.",
+   "C": "Sondaje vesical para urocultivo previo a antibioterapia.",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "La antibioterapia empirica precoz, idealmente en la primera hora desde la sospecha de sepsis, es la medida con mayor impacto en la mortalidad segun las guias Surviving Sepsis Campaign. Debe iniciarse tan pronto como se hayan obtenido los cultivos, orientada al foco sospechado y adaptada al perfil epidemiologico local. El oxigeno solo esta indicado si la SaO2 es inferior a 94%, y el sondaje vesical se realiza para monitorizar la diuresis, no como fuente prioritaria de cultivo.",
+   "incorrectas": {
+    "B": "Este paciente tiene una SaO2 del 98%, por lo que la administracion rutinaria de O2 no esta indicada y podria ser perjudicial por hiperoxia.",
+    "C": "El sondaje vesical se realiza para control de diuresis horaria como monitorizacion hemodinámica, no para obtener urocultivo previo a antibioticos; ademas no es la medida mas prioritaria en este momento.",
+    "D": "La opcion D seria incorrecta porque incluye administrar O2 de forma rutinaria a un paciente con SaO2 normal, lo que no esta indicado."
+   }
+  }
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): Tras las medidas anteriores el paciente presenta TA 80/40, FC 110 lpm. La fiebre ha disminuido con antitermicos, SaO2 del 98%, continua con frialdad distal y relleno capilar lento. No ha orinado aun. Esta consciente aunque algo bradipsiquico. Que actuacion realizaria en este momento?",
+  "opciones": {
+   "A": "Modificar antibiotico",
+   "B": "Comenzar con expansion de volumen con suero salino (30 mil/KG/minuto) hasta 2000-2500 y ver respuesta.",
+   "C": "Iniciar drogas vasoactivas por la via periferica: Noradrenalina 0.04 Microgr./Kg/minuto.",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "Ante hipotension (TA 80/40) en contexto de sepsis, el primer paso es la expansion de volumen con cristaloides (suero salino fisiologico o Ringer lactato) a 30 ml/kg en los primeros 30-60 minutos, hasta un total de 2000-2500 ml, evaluando la respuesta hemodinámica. Las guias Surviving Sepsis Campaign establecen la fluidoterapia agresiva inicial como primer escalon antes de plantear vasopresores.",
+   "incorrectas": {
+    "A": "Modificar el antibiotico no esta justificado en este momento ya que el deterioro hemodinamico es parte de la evolucion de la sepsis, no una indicacion de cambio antibiotico por fracaso terapeutico tan precoz.",
+    "C": "Los vasopresores (noradrenalina) estan indicados solo cuando la hipotension persiste a pesar de una adecuada reposicion de volumen; iniciarlos por via periferica antes de la expansion seria prematuro e incorrecto.",
+    "D": "La opcion D es incorrecta porque incluye cambiar el antibiotico sin justificacion clinica y usar vasopresores por via periferica de forma prematura, acciones que no corresponden a este momento."
+   }
+  }
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): Continua con TA 80/60 Que haria?",
+  "opciones": {
+   "A": "Canalizar via central para PVC.",
+   "B": "Iniciar drogas vaso activas: Norafrenalina 0.04 microgramos/Kg/minuto.",
+   "C": "Sonda vesical si no la habia hecho antes.",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "Ante hipotension refractaria a la expansion de volumen, el manejo debe ser simultaneo: canalizar via central para administrar vasopresores de forma segura y monitorizar la PVC, iniciar noradrenalina como vasopresor de primera eleccion a dosis inicial de 0.01-0.1 mcg/kg/min para mantener PAM >= 65 mmHg, y colocar sonda vesical para monitorizar la diuresis horaria como indicador de perfusion renal. Todas estas acciones son complementarias e imprescindibles.",
+   "incorrectas": {
+    "A": "Canalizar la via central es correcto pero insuficiente como accion aislada, ya que sin iniciar vasopresores y sin monitorizar diuresis el manejo del shock sigue siendo incompleto.",
+    "B": "Iniciar noradrenalina es correcto pero debe hacerse por via central preferiblemente, y debe acompanarse de monitorizacion de diuresis y acceso venoso central adecuado.",
+    "C": "La sonda vesical para control de diuresis es necesaria pero no suficiente como unica medida ante un shock septico establecido."
+   }
+  }
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): Recibe el resultado de la analitica con Hb 9 gr/l, leucopenia con neutrofilia relativa, Creat. 1,4 mgrs/dl, Plaquetas 69.000. Actividad protrombina 80%. TPTA algo alargado. Lactato de 5 mmol/l, pH 7.25, CO3H- de 14. Oligoanuria. Sedimento con nitratos positivos y presencia de bacterias. Via central canalizada con PVC + 7. Rx de torax sin hallazgos. Que actitud tomaria?",
+  "opciones": {
+   "A": "Aumentar dosis de noradrenalina cada 10-15 minutos hasta PAM >. 65 mmHg.",
+   "B": "Transfundir plaquetas.",
+   "C": "Transfundir hematíes.",
+   "D": "Administrar bicarbonato 1 molar 1 meq./Kg de peso."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "El objetivo primordial en el shock septico es mantener una PAM >= 65 mmHg, lo que se consigue titulando la noradrenalina de forma progresiva cada 10-15 minutos hasta alcanzar dicho objetivo. La PVC de +7 indica que la precarga es aceptable y no justifica mas expansion, el lactato elevado (5 mmol/L) refleja hipoperfusion tisular que se corrige mejorando la presion de perfusion con vasopresores.",
+   "incorrectas": {
+    "B": "La transfusion de plaquetas se indica cuando el recuento es inferior a 10.000/uL o inferior a 50.000/uL si existe sangrado activo; con 69.000 plaquetas y sin sangrado evidente no esta indicada en este momento.",
+    "C": "La transfusion de hematies en sepsis se reserva para Hb < 7 g/dL segun las guias actuales; con Hb 9 g/dL (aunque en g/L el valor dado puede interpretarse como 9 g/dL) y sin signos de isquemia activa no es la prioridad.",
+    "D": "El bicarbonato no esta indicado de forma rutinaria en la acidosis lactica por sepsis con pH >= 7.15; su uso puede empeorar la hipocalcemia y no ha demostrado beneficio en la mortalidad."
+   }
+  }
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): El paciente tras las medidas anteriores, continua con TA 90/60. Oligoanuria. La PVC esta en + 12, la SvO2 es del 50% y se escuchan algunos estertores. SaO2 del 98%. FC 100 lpm. Hay cianosis, con palidez, sudacion y frialdad acra. Consciente con FR 20 rpm. No excesivo trabajo respiratorio. La noradrenalina esta a 2 microgramos/Hg/minuto. Que haria?",
+  "opciones": {
+   "A": "VMNI (ventilacion mecanica no invasiva).",
+   "B": "Anadir Dobutamina 5 microgr./Kg.",
+   "C": "Sedorelajacion, intubacion orotraqueal y ventilacion mecanica.",
+   "D": "Anadir dopamina a dosis de 5 microgr./Kg/minuto."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "La SvO2 del 50% (normal >= 70%) indica un grave desequilibrio entre el aporte y el consumo de oxigeno, con bajo gasto cardiaco a pesar del vasopresor. La PVC elevada (+12) y los estertores sugieren sobrecarga de volumen con disfuncion cardiaca. En este contexto, anadir dobutamina (inotrópico positivo) a 5-10 mcg/kg/min mejora el gasto cardiaco y la extraccion tisular de oxigeno, elevando la SvO2, segun las guias de shock septico.",
+   "incorrectas": {
+    "A": "La VMNI no esta indicada porque el paciente no presenta insuficiencia respiratoria significativa (SaO2 98%, FR 20 rpm sin trabajo respiratorio excesivo); el problema es hemodinamico, no ventilatorio.",
+    "C": "La intubacion orotraqueal no esta justificada en este momento porque la via aerea esta preservada y la oxigenacion es adecuada; la prioridad es mejorar el gasto cardiaco.",
+    "D": "La dopamina a dosis de 5 mcg/kg/min tiene efecto dopaminergico pero no mejora significativamente la contractilidad cardiaca en comparacion con la dobutamina; ademas las guias actuales desaconsejan la dopamina en el shock septico por su mayor incidencia de arritmias."
+   }
+  }
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 5 (continuacion): El paciente 1 hora despues, continua hipotenso 90/50, FC 100 lpm, obnubilado, taquipneico a 25 rpm con uso de musculatura accesoria. SaO2 del 91% con O2 suplementario. Diuresis 20 cc/hora. Persiste intensa frialdad y palidez acra. Control analitico: pH 7.21. CO3H- 17. Lactato 8 mmol/litro. Que mas haria?",
+  "opciones": {
+   "A": "Nueva carga de cristaloides 500 cc en 30 minutos",
+   "B": "VMNI",
+   "C": "Sedorelajacion, intubacion orotraqueal y ventilacion mecanica.",
+   "D": "Administrar bicarbonato 1 molar 1 meq./Kg de peso."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "El paciente presenta fracaso respiratorio agudo (SaO2 91% con O2, FR 25 rpm con uso de musculatura accesoria), deterioro del nivel de consciencia (obnubilacion), acidosis metabolica grave (pH 7.21, lactato 8 mmol/L) e hipotension refractaria, lo que constituye indicacion absoluta de intubacion orotraqueal y ventilacion mecanica invasiva. La intubacion asegura la via aerea, reduce el trabajo respiratorio y permite optimizar la oxigenacion y ventilacion.",
+   "incorrectas": {
+    "A": "Una nueva carga de cristaloides no esta indicada con PVC previa elevada y signos de sobrecarga; ademas la hipotension en este contexto refleja fallo miocardico y vasodilatacion, no hipovolemia.",
+    "B": "La VMNI esta contraindicada cuando existe deterioro del nivel de consciencia (obnubilacion), ya que el paciente no puede proteger la via aerea y hay riesgo de aspiracion y fracaso del soporte ventilatorio no invasivo.",
+    "D": "El bicarbonato no corrige la causa de la acidosis lactica y con pH 7.21 >= 7.15 las guias no lo recomiendan de forma rutinaria; la prioridad es asegurar la via aerea y optimizar el soporte hemodinamico."
+   }
+  }
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6: Una paciente de 65 anos es remitida a Urgencias de hospital Nivel III por DCCU por cuadro de caida brusca al suelo, con apertura ocular espontanea sin respuesta a preguntas y asimetria comisura bucal y debilidad hemicuerpo derecho de 70 minutos evolucion. Independiente para vida diaria. TA 180/100. FC 80 l/m arrtmico. Afebril. SaO2 del 98%. EKG con FA a 100 lpm. Glucemia 143 mgrs/dl. Ingresa en Sala de Criticos.\nQue medidas iniciales realizaria?",
+  "opciones": {
+   "A": "Cursar analitica con Bioquimica, Hemograma y Coagulacion.",
+   "B": "Asegurar via aerea.",
+   "C": "Glucemia capilar",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "En el ictus agudo, el manejo inicial debe ser simultaneo y rapido: asegurar la via aerea para garantizar la oxigenacion, medir la glucemia capilar (la hipo e hiperglucemia empeoran el pronostico neurologico) y cursar analitica urgente con hemograma, bioquimica y coagulacion para descartar contraindicaciones a la fibrinolisis y evaluar el estado general del paciente. Estas tres acciones son parte del protocolo Codigo Ictus.",
+   "incorrectas": {
+    "A": "Solicitar solo la analitica sin asegurar la via aerea y sin medir la glucemia seria una actuacion incompleta e insuficiente para el manejo urgente del ictus.",
+    "B": "Asegurar la via aerea es imprescindible pero insuficiente como medida aislada sin el resto de las evaluaciones diagnosticas iniciales.",
+    "C": "La glucemia capilar es esencial pero no suficiente como unica medida inicial; debe acompanarse de las demas acciones del protocolo de ictus agudo."
+   }
+  }
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): Glucemia capilar 140 mgrs/dl. Se ha cursado analitica. Que postura adoptaria en este momento?",
+  "opciones": {
+   "A": "Administra O2",
+   "B": "Iniciar percusion insulina.",
+   "C": "Avisar a Radiologo para TAC urgente notificando CODIGO ICTUS.",
+   "D": "Labetalol 20 mgrs IV para control HTA"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "La prioridad absoluta en el ictus agudo es realizar una TAC craneal urgente para distinguir entre ictus isquemico y hemorragico, ya que de ello depende la indicacion o contraindicacion de la fibrinolisis. La notificacion del Codigo Ictus al radiologo permite acelerar el tiempo puerta-imagen, que debe ser inferior a 25 minutos segun los estandares de calidad.",
+   "incorrectas": {
+    "A": "La administracion de O2 solo esta indicada si la SaO2 es inferior a 94%; con SaO2 del 98% no esta justificada y puede ser perjudicial por hiperoxia.",
+    "B": "La glucemia de 140 mg/dl no requiere inicio de perfusion de insulina de forma inmediata; la hiperglucemia moderada en el ictus agudo se trata si supera 180 mg/dl, pero no es la prioridad en este momento.",
+    "D": "El tratamiento antihipertensivo en el ictus agudo isquemico solo se inicia si la TA supera 185/110 mmHg y se va a administrar fibrinolisis, o si supera 220/120 mmHg sin tratamiento fibrinolitico; con TA 180/100 y sin confirmar el tipo de ictus, no esta indicado aun."
+   }
+  }
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): Usted aplica escala NIH y obtiene 17 puntos. Que haria?",
+  "opciones": {
+   "A": "Acompanar al paciente a Sala de Radiologia para ver resultado TAC y programar actitud.",
+   "B": "Solicitar completar historia a familia",
+   "C": "Informar y solicitar consentimiento informado fibrinolisis si fuese preciso.",
+   "D": "Todas la anteriores son ciertas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "Una puntuacion NIH de 17 indica un ictus grave que probablemente requerira fibrinolisis y/o trombectomia. Debe acompanarse al paciente a radiologia para obtener el resultado de la TAC de forma inmediata, completar la historia clinica con la familia (especialmente para conocer la hora exacta de inicio y los antecedentes relevantes como contraindicaciones) y simultaneamente informar al paciente o representante legal y solicitar el consentimiento informado para la fibrinolisis. Todas estas acciones son complementarias y deben realizarse en paralelo.",
+   "incorrectas": {
+    "A": "Acompanar al paciente a radiologia es correcto pero insuficiente como accion aislada; sin completar la historia ni obtener el consentimiento se retrasaria el inicio del tratamiento.",
+    "B": "Completar la historia con la familia es importante pero no suficiente si no se acompana al paciente a la TAC ni se prepara el consentimiento informado.",
+    "C": "Informar y solicitar el consentimiento es necesario pero no puede sustituir a las otras acciones; debe realizarse en paralelo con las demas."
+   }
+  }
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): La TAC demuestra signo de isquemia cerebral difusa en territorio de arteria cerebral media izquierda sin area de necrosis. Que haria en este momento?",
+  "opciones": {
+   "A": "Regreso a Sala de Criticos para iniciar tratamiento trombolitico.",
+   "B": "Acetil salicilico 200 mgrs VO",
+   "C": "Desestimada fibrinolisis por resultado de TAC.",
+   "D": "Solicitar ANGIOTAC in situ o en su defecto ecodoppler de TSA sin demorar neurofibrinolisis."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "Ante una TAC que muestra signos precoces de isquemia difusa en territorio de ACM sin necrosis establecida, el paso siguiente es solicitar un ANGIOTAC (o ecodoppler de troncos supraaorticos si no esta disponible) para identificar la oclusion arterial y valorar la candidatura a trombectomia mecanica, sin demorar el inicio de la neurofibrinolisis si no hay contraindicaciones. La identificacion precoz de la oclusion es clave para decidir el tratamiento de revascularizacion mas adecuado.",
+   "incorrectas": {
+    "A": "Iniciar directamente el tratamiento trombolitico sin conocer la anatomia vascular (oclusion proximal) y sin el ANGIOTAC podria infratratar al paciente si es candidato a trombectomia.",
+    "B": "El acido acetilsalicilico esta contraindicado en las primeras 24 horas tras la fibrinolisis y no es el tratamiento de eleccion agudo en el ictus con ventana terapeutica vigente.",
+    "C": "Desestimar la fibrinolisis basandose unicamente en signos precoces de isquemia difusa sin necrosis establecida seria incorrecto; los protocolos actuales no contraindican la fibrinolisis por estos hallazgos iniciales."
+   }
+  }
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): Radiologo nos informa TAC: Signo de afectacion de arteria cerebral media izquierda difuso sin zona de necrosis y estima un valor en escala ASPECTS de 6. Llevamos 40 minutos desde la recepcion del paciente en el Hospital. Que haria?",
+  "opciones": {
+   "A": "Neurofibrinolisis con rt-PA 0.9 mgrs/KG/minuto. 10% dosis en 3-5 minutos y resto en perfusion en una hora",
+   "B": "Neurofibrinolisis con 7000 UI de Tecneteplase en 15 segundos.",
+   "C": "Neurofibrinolisis con rt-PA a mitad de dosis por riesgo de sangrado.",
+   "D": "Contraindicada neurofibrinolisis por la TAC y valorar Trombectomia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "La fibrinolisis con alteplasa (rt-PA) a dosis de 0.9 mg/kg (maximo 90 mg) es el tratamiento estandar del ictus isquemico agudo dentro de la ventana terapeutica de 4.5 horas: el 10% de la dosis en bolo en 1-2 minutos y el resto en perfusion continua durante 60 minutos. Con 40 minutos de tiempo puerta-tratamiento, la ventana sigue vigente (70 minutos de evolucion + 40 minutos en hospital = 110 minutos totales, dentro de las 4.5 horas).",
+   "incorrectas": {
+    "B": "La tenecteplasa se administra a una dosis de 0.25 mg/kg (no en UI) en bolo unico; ademas en el momento de este examen (2018) no estaba incluida en los protocolos habituales de ictus en Espana como primera linea.",
+    "C": "Reducir la dosis de rt-PA no esta respaldado por evidencia y aumenta el riesgo de fracaso de recanualizacion; la dosis estandar de 0.9 mg/kg debe mantenerse salvo contraindicacion especifica.",
+    "D": "Un ASPECTS de 6 con signos precoces pero sin necrosis establecida no contraindica la fibrinolisis; la contraindicacion seria un ASPECTS <= 5 con necrosis extensa ya establecida."
+   }
+  }
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): Se ha decidido tratamiento fibrinolitico, que medidas realizaria ahora?",
+  "opciones": {
+   "A": "Seguimiento clinico con toma de constantes cada 15 minutos durante 2 horas, despues cada 30 minutos durante 6 horas y despues cada hora 24 horas.",
+   "B": "Ver respuesta a neurofibrinolisis y si no hay mejora evidente pasada una hora considerar trombectomia.",
+   "C": "Necesidad de ANGIOTAC urgente",
+   "D": "Se desestima trombectomia por ASPES =6."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "Tras iniciar la fibrinolisis, es urgente realizar un ANGIOTAC para identificar si existe una oclusion de gran vaso (como en arteria cerebral media M1 o carotida interna) que se beneficiaria de trombectomia mecanica. Segun los protocolos actuales, la fibrinolisis y la trombectomia son complementarias y no excluyentes; el ANGIOTAC permite tomar esta decision de forma rapida y simultanea al tratamiento fibrinolitico.",
+   "incorrectas": {
+    "A": "El seguimiento con constantes es necesario pero no es la medida mas urgente en este momento; la prioridad es el ANGIOTAC para valorar la trombectomia.",
+    "B": "Esperar una hora para valorar la respuesta a la fibrinolisis antes de considerar la trombectomia es una estrategia incorrecta y desfasada; los protocolos actuales recomiendan evaluar la candidatura a trombectomia de forma simultanea.",
+    "D": "Un ASPECTS de 6 no contraindica automaticamente la trombectomia; la decision debe basarse en el perfil clinico completo y en los hallazgos del ANGIOTAC."
+   }
+  }
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): Se realiza ANGIOTAC y demuestra obstruccion casi completa de territorio M1 de ACM izquierda completa y obstruccion incompleta de carotida interna izquierda. Que haria ahora?",
+  "opciones": {
+   "A": "Seguimiento clinico. Desestimada trombectomia por ESCALA ASPES = 6.",
+   "B": "Esperar evolucion 60 minutos y si NO mejoria evidente considerar trombectomia.",
+   "C": "Consultar con Neurologo de hospital de referencia para considerar trombectomia urgente.",
+   "D": "AngioRNM urgente si se dispone de ella para ver territorio viable."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "La oclusion de M1 de la ACM izquierda y de la carotida interna izquierda en un hospital de nivel III (sin equipo de trombectomia) obliga a contactar urgentemente con el neurologo del hospital de referencia con capacidad de trombectomia mecanica. Esta tecnica esta indicada en oclusiones de gran vaso en pacientes seleccionados y su beneficio disminuye drasticamente con el tiempo, por lo que la derivacion debe ser inmediata.",
+   "incorrectas": {
+    "A": "Desestimar la trombectomia por un ASPECTS de 6 es incorrecto; los estudios clinicos han demostrado beneficio de la trombectomia con ASPECTS >= 6 en oclusiones de gran vaso.",
+    "B": "Esperar 60 minutos para valorar la respuesta a la fibrinolisis antes de contactar con el hospital de referencia supone una perdida de tiempo crucial que puede reducir el beneficio de la trombectomia.",
+    "D": "La AngioRNM puede aportar informacion sobre el tejido viable pero no es prioritaria ni debe demorar la decision de traslado para trombectomia cuando ya se dispone del ANGIOTAC con oclusion de gran vaso confirmada."
+   }
+  }
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CASO 6 (continuacion): La paciente empeora de nuevo con hemiplejia severa y afasia mixta con valor escala NIH de 20. Que haria?",
+  "opciones": {
+   "A": "Solicitar nuevo TAC",
+   "B": "Remitir lo antes posible a hospital de referencia para trombectomia urgente",
+   "C": "Hacer neurofibrinolisis si no lo habia hecho antes",
+   "D": "Administra manitol 20% en 20 minutos por sospecha de edema cerebral post revascularizacion."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Codigo ictus en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "El deterioro neurologico brusco tras la fibrinolisis (aumento del NIH de 17 a 20, hemiplejia severa, afasia mixta) obliga a descartar urgentemente una transformacion hemorragica intracraneal como complicacion del tratamiento trombolitico. La TAC craneal urgente es la prueba de eleccion para identificar este sangrado antes de tomar cualquier otra decision terapeutica.",
+   "incorrectas": {
+    "B": "Remitir directamente al paciente para trombectomia sin antes realizar una TAC para descartar hemorragia intracraneal seria peligroso, ya que la trombectomia estaria contraindicada en caso de transformacion hemorragica.",
+    "C": "La fibrinolisis ya se habia administrado; repetirla o administrarla si no se habia dado sin descartar primero hemorragia intracraneal seria una actuacion de alto riesgo.",
+    "D": "Administrar manitol sin confirmar primero la causa del deterioro (isquemia progresiva vs hemorragia) seria prematuro e inadecuado; el manitol puede estar contraindicado o ser innecesario segun el resultado de la TAC."
+   }
+  }
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CUESTIONARIO RESERVA. Indique la respuesta verdadera en la indicacion del uso de bicarbonato sodico durante el paro cardiaco",
+  "opciones": {
+   "A": "Intoxicacion por antidepresivos triciclicos",
+   "B": "Hiperkaliemia",
+   "C": "Acidosis grave con pH arterial < 7.10 o exceso de base < -10 mmol/L",
+   "D": "Todas son indicaciones correctas"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital basico y avanzado en el adulto y en el nino. Protocolos de actuacion. Desfibrilacion externa semiautomatica."
+  },
+  "explicacion": {
+   "correcta": "Las guias ERC/AHA reconocen como indicaciones especificas del bicarbonato sodico durante el paro cardiaco: la intoxicacion por antidepresivos triciclicos (para revertir los efectos de la bloqueada de los canales de sodio), la hiperkaliemia grave (para desplazar el potasio al interior celular) y la acidosis metabolica grave con pH < 7.10 o exceso de base < -10 mmol/L. Las tres son indicaciones validas y correctas, por lo que la respuesta que las engloba todas es la correcta.",
+   "incorrectas": {
+    "A": "La intoxicacion por triciclicos es una indicacion correcta de bicarbonato pero no es la unica; afirmar que solo esta es verdadera excluye incorrectamente las otras dos.",
+    "B": "La hiperkaliemia es una indicacion valida pero incompleta como unica respuesta correcta, ya que las otras dos tambien lo son.",
+    "C": "La acidosis grave es una indicacion correcta pero tampoco es la unica; las otras dos indicaciones tambien estan reconocidas en los protocolos de RCP avanzada."
+   }
+  }
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CUESTIONARIO RESERVA. Segun la Ley 2/2010, la limitacion del esfuerzo terapeutico consiste en:",
+  "opciones": {
+   "A": "La intervencion sanitaria destinada a mantener las constantes vitales de la persona, independientemente de que dicha intervencion actue o no terapeuticamente sobre la enfermedad que amenaza la vida.",
+   "B": "El inicio o mantenimiento de medidas de soporte vital u otras intervenciones carentes de utilidad clinica, que unicamente prolongan la vida en pacientes en situacion terminal, sin posibilidades reales de mejora.",
+   "C": "La administracion de farmacos para reducir la conciencia de la persona en situacion terminal o de agonia, para aliviar adecuadamente sintomas refractarios, previo consentimiento informado en los terminos establecidos en la ley.",
+   "D": "La retirada o no instauracion de una medida de soporte vital o de cualquier otra intervencion que, dado el mal pronostico, constituye, a juicio de los sanitarios implicados, algo futil, que solo contribuye a prolongar una situacion clinica carente de expectativas de mejoria."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 96,
+   "tema": "Cuidados paliativos en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La Ley 2/2010 de Andalucia de derechos y garantias de la dignidad de la persona en el proceso de la muerte define la limitacion del esfuerzo terapeutico (LET) como la retirada o no instauracion de medidas de soporte vital u otras intervenciones que, por su inutilidad clinica ante el mal pronostico, solo contribuyen a prolongar una situacion de sufrimiento sin expectativas de mejoria. Esta definicion diferencia la LET de otras figuras como la sedacion paliativa o el encarnizamiento terapeutico.",
+   "incorrectas": {
+    "A": "Esta definicion se corresponde con el concepto de soporte vital o medidas de mantenimiento de constantes, no con la limitacion del esfuerzo terapeutico.",
+    "B": "Esta descripcion define el encarnizamiento terapeutico u obstinacion terapeutica (mantener medidas futil es), que es precisamente lo que la LET pretende evitar.",
+    "C": "Esta definicion corresponde a la sedacion paliativa o sedacion en la agonia, que es una figura juridica y clinica diferente a la LET en la Ley 2/2010."
+   }
+  }
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Andalucia 2018",
+  "enunciado": "CUESTIONARIO RESERVA. Senale la respuesta correcta sobre los derechos de los pacientes en situacion de incapacidad recogidos en la Ley 2/2010",
+  "opciones": {
+   "A": "La situacion de incapacidad de un paciente exime al medico de informarle y de hacer que participe en el proceso de toma de decisiones",
+   "B": "El medico responsable es quien debe valorar si un paciente pudiera encontrarse en una situacion de incapacidad de hecho que le impida decidir por si mismo.",
+   "C": "Para la interpretacion de la voluntad de los pacientes no se tendran en cuenta los deseos expresados previamente a la situacion de incapacidad.",
+   "D": "La sentencia judicial es el unico documento que recoge el alcance y las limitaciones de la incapacidad de hecho"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 96,
+   "tema": "Cuidados paliativos en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La Ley 2/2010 establece que es el medico responsable del paciente quien debe evaluar si el paciente se encuentra en una situacion de incapacidad de hecho que le impida tomar decisiones por si mismo. Esta valoracion clinica es previa y necesaria para activar los mecanismos de representacion o sustitucion en la toma de decisiones.",
+   "incorrectas": {
+    "A": "La incapacidad no exime al medico de intentar informar al paciente ni de facilitar su participacion en la medida de lo posible; ademas, la presencia de representantes o tutores no elimina el deber de comunicacion adaptada.",
+    "C": "La Ley 2/2010 expresamente senala que si deben tenerse en cuenta los deseos expresados previamente por el paciente (incluyendo el documento de voluntades anticipadas) para interpretar su voluntad en situacion de incapacidad.",
+    "D": "La incapacidad de hecho no requiere sentencia judicial; es una valoracion clinica realizada por el medico responsable, a diferencia de la incapacitacion legal que si requiere resolucion judicial."
+   }
+  }
+ }
+]

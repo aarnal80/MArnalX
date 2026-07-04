@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En los pacientes con tromboembolismo pulmonar (TEP) inestable con indicación de fibrinólisis, es una contraindicación relativa:",
+  "opciones": {
+   "A": "Hipertensión arterial no controlada > 180/110",
+   "B": "Sangrado reciente (extracraneal)",
+   "C": "Ictus isquémico > 3 meses antes",
+   "D": "Anticoagulación"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Respecto a las reacciones adversas de las transfusiones sanguíneas ¿Cuál de ellas NO es una reacción inmune?",
+  "opciones": {
+   "A": "Fiebre",
+   "B": "Reacción hemolítica aguda",
+   "C": "Trombocitopenia",
+   "D": "Urticaria"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Señale de las siguientes respuestas cual es la VERDADERA sobre el ácido tranexámico",
+  "opciones": {
+   "A": "La dosis recomendada en bolo actual es de 30 mg/kg (máximo 1’5 g)",
+   "B": "Posteriormente al bolo se puede administrar una perfusión de 0’5 g/hora durante un máximo de 6 horas",
+   "C": "En el estudio CRASH-2 (Clinical Randomisation of an Antifibrinolytic in Significant Haemorrhage) el ácido tranexámico demostró mejoría en pronóstico de recuperación, pero no disminución en la mortalidad",
+   "D": "Se encuentra dentro de los fármacos con acción antifibrinolítica en la hemorragia masiva"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En un paciente doblemente antiagregado con ácido acetilsalicílico y clopidogrel ¿qué fármaco está indicado para control de la hemorragia grave?",
+  "opciones": {
+   "A": "Fitometadiona",
+   "B": "Idarucizumab",
+   "C": "Ácido tranexámico",
+   "D": "Acetato de desmopresina"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Referido a las causas de coagulación intravascular diseminada (CID) ¿Cuál de éstas NO es correcta?",
+  "opciones": {
+   "A": "Sepsis",
+   "B": "Preeclampsia",
+   "C": "Fractura de pelvis",
+   "D": "Neoplasia sólida"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "¿Cuál de estos factores NO es considerado de riesgo para infección por Enterococcus en las infecciones intraabdominales?",
+  "opciones": {
+   "A": "Neutropenia",
+   "B": "Valvulopatía",
+   "C": "Receptor de trasplante de órgano solido",
+   "D": "Origen colónico"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Cuál de los siguientes es un microorganismo frecuente en meningitis bacteriana en neonatos:",
+  "opciones": {
+   "A": "Listeria monocytogenes",
+   "B": "Neisseria meningitidis",
+   "C": "Haemophilus influenzae b",
+   "D": "Streptococcus grupo A"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "¿Cuál de las siguientes infecciones NO precisa medidas de aislamiento para evitar la transmisión por vía aérea?",
+  "opciones": {
+   "A": "Herpes zoster diseminado",
+   "B": "Sarampión",
+   "C": "Tosferina",
+   "D": "Tuberculosis no bacilífera"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Se recomienda la realización de una serología para el VIH (virus de la inmunodeficiencia humana) de carácter NO urgente en personas atendidas en los servicios de urgencias por:",
+  "opciones": {
+   "A": "Pacientes en los que se sospeche que haya existido práctica de “chemsex” actual o previa.",
+   "B": "Con diagnóstico de herpes zoster en menores de 65 años sin otros factores predisponentes conocidos para padecer herpes zoster.",
+   "C": "Personas con diagnóstico de neumonía adquirida en la comunidad entre 18 y 65 años sin patologías predisponentes alternativas que impliquen un aumento del riesgo de padecer neumonía adquirida en la comunidad",
+   "D": "Todas las anteriores"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "NO es una opción de tratamiento ambulatorio de la enfermedad inflamatoria pélvica:",
+  "opciones": {
+   "A": "Ceftriaxona 250 mg dosis única intramuscular más doxiciclina 100 mg/12 h 14 días",
+   "B": "Ceftriaxona 125 mg dosis única intramuscular más azitromicina 1 g vía oral dosis única",
+   "C": "Ceftriaxona 250 mg dosis única intramuscular más doxiciclina 100 mg/12 h 14 días más metronidazol 500 mg/12 h 14 días",
+   "D": "Cefoxitin 2 g intramuscular dosis única más Probenecid 1 g oral dosis única más Doxiciclina 100 mg/12 h 14 días"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En los últimos años la escala de ictus del NIH (National Institute of Health Stroke Scale, NIHSS) se ha convertido en la escala más utilizada para valorar el estado neurológico inicial, indica qué ítem NO se puntúa en dicha escala:",
+  "opciones": {
+   "A": "Ataxia troncal",
+   "B": "Cuadrantanopsia",
+   "C": "Negligencia",
+   "D": "Extinción auditiva"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Ante un paciente con cefalea en trueno y sospecha de hemorragia subaracnoidea aguda (HSA) indica la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El TAC (tomografía arterial computerizada) craneal sin contraste tiene una sensibilidad para HSA cercana al 100% en las primeras 6 horas",
+   "B": "Una alternativa a la punción lumbar en caso de contraindicación puede ser un angioTAC craneal si el TAC craneal sin contraste resulta no diagnóstico",
+   "C": "Una exploración neurológica normal y la ausencia de signos meníngeos no descarta una HSA",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En la exploración del paciente con diplopía binocular indica la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Diplopia vertical que empeora al mirar abajo sugiere afectación del III o IV PC",
+   "B": "Diplopía horizontal sugiere afectación del musculo recto medial o recto lateral",
+   "C": "Diplopia en la mirada hacia arriba puede sugerir afectación del oblicuo superior",
+   "D": "El test de Bielschowsky explora la paresia del nervio troquelar"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Ante un paciente con un cuadro agudo vertiginoso continuado y persistente al llegar a urgencias, asociado a náuseas, vómitos y nistagmus, realizamos un diagnóstico diferencial entre neuritis vestibular e ictus vertebrobasilar mediante la exploración con el test HINTS (Head Impulse Nistagmus Test of Skew) con los siguientes resultados. Señala la repuesta INCORRECTA:",
+  "opciones": {
+   "A": "Un nistagmus horizontal de dirección cambiante sugiere un origen central",
+   "B": "El impulso oculocefálico (HIT) normal sugiere una neuritis vestibular",
+   "C": "El desalineamiento ocular vertical (skew desviation) indica origen central",
+   "D": "Un nistagmus horizontal unidireccional no descarta un origen central"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En el manejo de la TA del paciente con Ictus isquémico elegible para tratamiento trombolítico (rtPA) iv, indica la repuesta CORRECTA:",
+  "opciones": {
+   "A": "La TA se trata con Urapidilo de 10-50 mg en bolus iv lento. Contraindicado en caso de asma e Insuficiencia cardíaca.",
+   "B": "Tratar la TA si presenta TAS>185 o TAD>110 antes de iniciar el tratamiento fibrinolítico",
+   "C": "No tratar la TA si presenta TAS<220 o TAD<120 antes de iniciar el tratamiento fibrinolítico",
+   "D": "La fibrinólisis está contraindicada en caso de HTA"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Respecto al índice de definición de riesgo en pacientes neoplásicos neutropénicos (IDSA) ¿Cuál de estos criterios NO forma parte del índice de BAJO riesgo?:",
+  "opciones": {
+   "A": "Neutropenia > 100/m3 o neutropenia esperada > 7 días",
+   "B": "Neoplasia no progresiva",
+   "C": "Fiebre de foco desconocido o infección simple (infección de tracto urinario, celulitis simple…)",
+   "D": "Neoplasia no progresiva"
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En un paciente oncológico en tratamiento con NIVOLUMAB, que presenta síntomas de diarrea en nº 4-6 al día, dolor abdominal y sangre en heces, ¿A qué estadiaje clínico referido a efectos adversos del tratamiento correspondería?:",
+  "opciones": {
+   "A": "Grado 1",
+   "B": "Grado 2",
+   "C": "Grado 3",
+   "D": "Grado 4"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En el tratamiento del dolor oncológico irruptivo, que terapia NO está indicada:",
+  "opciones": {
+   "A": "Morfina de liberación rápida vía oral",
+   "B": "Fentanilo intranasal",
+   "C": "Oxicodona de liberación rápida vía oral",
+   "D": "Fentanilo vía oral"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En un paciente oncológico que presenta mucositis por radioterapia ¿Cuál de estas administraciones NO está indicada?",
+  "opciones": {
+   "A": "Sulcralfato oral",
+   "B": "Aerosol de lidocaína",
+   "C": "Palifermina",
+   "D": "Enjuagues de solución salina al 0.9%"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Según el modelo predictivo de Khorana, ¿cuál de los siguientes cánceres NO tienen un riesgo alto de trombosis?",
+  "opciones": {
+   "A": "Ginecológico",
+   "B": "Pulmón",
+   "C": "Estómago",
+   "D": "Vejiga"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Un niño de 20 kg diagnosticado de diabetes mellitus tipo 1 no portador de ISCI (sistema de infusión continua de insulina subcutánea) es traído a urgencias por no respuesta a estímulos. Se objetiva glucemia 30 mg/dl. ¿Qué tratamiento aplicaría?",
+  "opciones": {
+   "A": "Glucagón intramuscular 0’5 mg y glucosa 10% 80 ml",
+   "B": "Glucagón intramuscular 0’5 mg y glucosa 10% 40 ml",
+   "C": "Glucagón intramuscular 1 mg y glucosa 10% 80 ml",
+   "D": "Glucagón intramuscular 1 mg y glucosa 10% 40 ml"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Asiste usted a una parada cardiorrespiratoria en un niño de 6 años. ¿Qué calibre de tubo endotraqueal sin balón escogería?",
+  "opciones": {
+   "A": "4’5",
+   "B": "5",
+   "C": "5’5",
+   "D": "6"
+  },
+  "respuesta_correcta": "C"
+ }
+]

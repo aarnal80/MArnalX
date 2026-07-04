@@ -1,0 +1,233 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Uno de las siguientes parejas de antídoto y tóxico NO es correcto. Indícalo:",
+  "opciones": {
+   "A": "Penicilina G sódica en intoxicación por amanita phalloides.",
+   "B": "Atropina en intoxicación por organofosforados.",
+   "C": "Fisostigmina en intoxicación por metanol.",
+   "D": "Azul de metileno en la metahemoglobinemia."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "La opción C es incorrecta como pareja antídoto-tóxico porque la fisostigmina es un inhibidor de la colinesterasa de acción central que se emplea como antídoto en el síndrome anticolinérgico (intoxicación por anticolinérgicos como la atropina o los antihistamínicos), no en la intoxicación por metanol. El antídoto específico del metanol es el fomepizol (4-metilpirazol) o, en su ausencia, el etanol, que compiten con el metanol por la alcohol deshidrogenasa impidiendo la formación de formiato, el metabolito tóxico responsable de la acidosis metabólica y la ceguera. Por lo tanto, la pareja 'fisostigmina – metanol' es la que NO es correcta.",
+   "incorrectas": {
+    "A": "La penicilina G sódica sí se emplea en la intoxicación por Amanita phalloides: actúa desplazando las amatoxinas de su unión a proteínas plasmáticas y facilitando su eliminación biliar, reduciendo la captación hepática. Aunque su eficacia es debatida, forma parte de los protocolos de tratamiento de las intoxicaciones graves por amatoxinas junto con la silibinina. Por tanto, esta pareja ES correcta.",
+    "B": "La atropina es el antídoto de elección en la intoxicación por organofosforados (plaguicidas, agentes nerviosos). Los organofosforados inhiben la acetilcolinesterasa produciendo exceso de acetilcolina en las sinapsis; la atropina antagoniza competitivamente los receptores muscarínicos, controlando la broncorrea, el broncoespasmo y la bradicardia. Por tanto, esta pareja ES correcta.",
+    "D": "El azul de metileno es el tratamiento específico de la metahemoglobinemia: actúa como cofactor de la NADPH-metahemoglobina reductasa, reduciendo el hierro férrico (Fe³⁺) a hierro ferroso (Fe²⁺) y restaurando la capacidad de transporte de oxígeno de la hemoglobina. Se administra en dosis de 1-2 mg/kg IV. Por tanto, esta pareja ES correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Durante la reanimación de un paciente en parada cardio-respiratoria que presenta un ritmo desfibrilable, ¿qué afirmación es INCORRECTA?:",
+  "opciones": {
+   "A": "Administraremos 1 mg de adrenalina cada 3-5 minutos.",
+   "B": "Tras cada descarga eléctrica deberemos mirar el monitor para comprobar cambios de ritmo.",
+   "C": "Administraremos amiodarona tras haber realizado tres descargas con el desfibrilador.",
+   "D": "Intentaremos identificar y tratar posibles causas reversibles."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "La opción B es INCORRECTA porque según los protocolos actuales de soporte vital avanzado (ERC/AHA), tras cada descarga eléctrica NO se debe detener la RCP para mirar el monitor: inmediatamente después de la descarga se reanudan las compresiones torácicas durante 2 minutos sin interrupciones, y solo entonces se analiza el ritmo. Esta conducta minimiza el tiempo sin flujo coronario y cerebral, que es el principal determinante del pronóstico. La comprobación inmediata del ritmo tras cada descarga es una práctica desaconsejada por prolongar la interrupción de las compresiones.",
+   "incorrectas": {
+    "A": "La adrenalina a dosis de 1 mg IV cada 3-5 minutos es la pauta correcta en los algoritmos de SVA para ritmos desfibrilables: se administra a partir del tercer ciclo (tras la tercera descarga) y se repite cada 3-5 minutos. Esta afirmación es correcta según los protocolos vigentes.",
+    "C": "La amiodarona se administra efectivamente tras la tercera descarga (300 mg IV en bolo) en los ritmos desfibrilables refractarios (FV/TV sin pulso). Una segunda dosis de 150 mg puede considerarse después de la quinta descarga. Esta afirmación es correcta según los protocolos de SVA.",
+    "D": "La identificación y el tratamiento de las causas reversibles de la parada cardiorrespiratoria (regla de las 4H y 4T: hipoxia, hipovolemia, hipo/hiperpotasemia, hipotermia; neumotórax a tensión, taponamiento, tóxicos, tromboembolismo) es una parte fundamental del algoritmo de SVA que se lleva a cabo en paralelo con las maniobras de reanimación. Esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Cuál de las siguientes infecciones a considerar en el viajero NO tiene un periodo de incubación de entre 10 y 21 días",
+  "opciones": {
+   "A": "Leptospirosis",
+   "B": "Leishmaniasis",
+   "C": "Brucela",
+   "D": "Fiebre tifoidea"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 85, "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el paciente procedente del trópico. Actuación en urgencias."},
+  "explicacion": {
+   "correcta": "La leishmaniasis NO tiene un período de incubación de 10-21 días: su período de incubación es notablemente más prolongado, de semanas a meses en la forma cutánea (generalmente 2-8 semanas), y de meses a años en la forma visceral (kala-azar), pudiendo superar el año. Esta larga latencia la distingue de las otras infecciones del viajero listadas y hace que rara vez se manifieste durante el propio viaje, sino tiempo después del regreso.",
+   "incorrectas": {
+    "A": "La leptospirosis tiene un período de incubación habitual de 2-30 días, con una mediana de 5-14 días, por lo que encaja perfectamente en el rango de 10-21 días. El paciente suele debutar con fiebre, mialgias y cefalea al regreso del trópico, y puede evolucionar a la enfermedad de Weil con ictericia e insuficiencia renal.",
+    "C": "La brucelosis tiene un período de incubación variable pero típicamente de 1-4 semanas (7-28 días), lo que incluye el rango de 10-21 días. Se adquiere por contacto con animales infectados o consumo de lácteos no pasteurizados y cursa con fiebre ondulante, sudoración nocturna y artralgias.",
+    "D": "La fiebre tifoidea (Salmonella typhi) tiene un período de incubación de 7-21 días, coincidiendo con el rango indicado. Se manifiesta con fiebre en escalada, cefalea, roséola tífica y bradicardia relativa, y es una causa frecuente de fiebre en el viajero procedente de zonas endémicas."
+   }
+  }
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Referido a la fisiopatología por la exposición a la altura en el TRANSPORTE AÉREO, se debe tener en cuenta",
+  "opciones": {
+   "A": "El aumento de la PO2 inspirada",
+   "B": "El aumento de la presión ambiental",
+   "C": "La disminución de la PO2 inspirada",
+   "D": "La disminución de la PCo2 ambiental"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 98, "tema": "Lesiones por agentes físicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."},
+  "explicacion": {
+   "correcta": "En el transporte aéreo, aunque las cabinas están presurizadas, la presión equivalente mantenida suele ser la de una altitud de 1500-2400 metros sobre el nivel del mar. Ello implica una reducción de la presión barométrica total y, en consecuencia, una disminución de la presión parcial de oxígeno inspirado (PO2 inspirada), ya que la fracción de O2 en el aire (21%) no cambia pero la presión total es menor. Esta hipoxia hipobárica relativa obliga a tener en cuenta las necesidades de oxígeno suplementario en pacientes con reserva respiratoria comprometida durante el transporte aéreo sanitario.",
+   "incorrectas": {
+    "A": "En altitud y en el transporte aéreo la PO2 inspirada DISMINUYE, no aumenta, debido a la reducción de la presión barométrica total. Un aumento de la PO2 inspirada solo ocurriría en condiciones hiperbáricas (cámaras hiperbáricas o inmersión submarina), que es lo opuesto a la situación de altura.",
+    "B": "La presión ambiental DISMINUYE con la altitud, no aumenta. La presión barométrica sigue la ley de la atmósfera estándar y cae exponencialmente a medida que se asciende. En vuelo comercial a crucero (~10 000 m) la presión exterior es muy baja, aunque la cabina se presuriza artificialmente a una altitud equivalente de 1500-2400 m.",
+    "D": "La PCO2 ambiental no experimenta variaciones clínicamente relevantes con la altitud en el contexto del transporte aéreo; la composición del aire atmosférico (0,04% de CO2) es prácticamente constante a estas altitudes. La variable fisiopatológicamente relevante es la PO2, no la PCO2 ambiental."
+   }
+  }
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "¿Cuál es el tratamiento MÁS ADECUADO para la emesis retardada por quimioterapia?",
+  "opciones": {
+   "A": "Granisetrón 1 mg cada 12 horas",
+   "B": "Tropisetron 5 mg cada 12 horas",
+   "C": "Ondansetrón 8 mg cada 8 horas",
+   "D": "Metoclopramida 20-30 mg cada 6 horas"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 94, "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."},
+  "explicacion": {
+   "correcta": "La emesis retardada por quimioterapia (que aparece más de 24 horas tras la administración del citostático) tiene una fisiopatología diferente a la emesis aguda: no depende principalmente de la serotonina, sino de la dopamina y la sustancia P. Por ello, los antagonistas de los receptores 5-HT3 (granisetrón, tropisetrón, ondansetrón) son mucho menos eficaces en la fase retardada que en la aguda. La metoclopramida a dosis altas (20-30 mg cada 6 horas), por su acción antidopaminérgica y procinética, es el agente de elección para la emesis retardada, habitualmente combinada con dexametasona.",
+   "incorrectas": {
+    "A": "El granisetrón es un antagonista del receptor 5-HT3 muy eficaz para la emesis AGUDA inducida por quimioterapia (en las primeras 24 horas), cuando la liberación masiva de serotonina por las células enterocromafines intestinales es el mecanismo dominante. Sin embargo, su eficacia en la emesis retardada es limitada, lo que lo hace menos adecuado que la metoclopramida para esta indicación.",
+    "B": "El tropisetrón, al igual que granisetrón y ondansetrón, es un antagonista selectivo de los receptores 5-HT3 indicado para el control de la emesis aguda por quimioterapia. En la fase retardada, la vía serotoninérgica pierde protagonismo y el bloqueo 5-HT3 ofrece un beneficio marginal, por lo que no es la opción más adecuada.",
+    "C": "El ondansetrón es el antiemético 5-HT3 más conocido y ampliamente utilizado; su eficacia se centra en la emesis aguda por quimioterapia. Para la emesis retardada, las guías clínicas no lo recomiendan como primera línea, ya que su mecanismo de acción no aborda el componente dopaminérgico predominante en esta fase."
+   }
+  }
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En la estrategia terapéutica del Trombo Embolismo Pulmonar (TEP)",
+  "opciones": {
+   "A": "En situaciones de inestabilidad hemodinámica está indicada la terapia de reperfusión con trombolíticos",
+   "B": "Un PESI (Pulmonary Embolism Severity Index) I-II se considera de bajo riesgo, y se puede considerar alta precoz con tratamiento anticoagulante",
+   "C": "Un PESI (III-V) nos obliga a investigar una posible disfunción ventricular derecha y a determinar troponinas y Pro NBP para estratificar en riesgo intermedio alto o bajo.",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 56, "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "Las tres afirmaciones anteriores (A, B y C) son correctas según las guías ESC de TEP: la trombolisis sistémica está indicada en el TEP de alto riesgo con inestabilidad hemodinámica; el PESI I-II identifica pacientes de bajo riesgo candidatos a alta precoz con anticoagulación oral directa; y el PESI III-V obliga a completar la estratificación con ecocardiografía o TC (disfunción VD) y biomarcadores (troponina, NT-proBNP) para distinguir riesgo intermedio alto (ambos positivos) de riesgo intermedio bajo (solo uno o ninguno positivo). Por ello, la respuesta 'Todas son correctas' es la opción correcta.",
+   "incorrectas": {
+    "A": "Esta afirmación POR SÍ SOLA es correcta y forma parte de la respuesta D. La terapia de reperfusión con trombolíticos (alteplasa 100 mg en 2 horas) está recomendada en el TEP de alto riesgo (hipotensión con PAS < 90 mmHg o caída > 40 mmHg durante más de 15 minutos no explicada por otra causa). La embolectomía quirúrgica o la trombólisis dirigida por catéter son alternativas si existe contraindicación absoluta o la trombolisis sistémica fracasa.",
+    "B": "Esta afirmación POR SÍ SOLA es correcta y forma parte de la respuesta D. El PESI clasifica en cinco clases (I-V) de menor a mayor mortalidad. Las clases I y II tienen mortalidad a 30 días inferior al 3%, lo que permite considerar el tratamiento ambulatorio o el alta precoz con un anticoagulante oral directo (HBPM seguida de rivaroxabán o apixabán), siempre que no exista disfunción de VD ni elevación de biomarcadores y se garantice el seguimiento.",
+    "C": "Esta afirmación POR SÍ SOLA es correcta y forma parte de la respuesta D. En el PESI III-V, la estratificación de riesgo intermedio requiere valorar la función ventricular derecha (ecocardiografía o TC) y los biomarcadores de daño miocárdico (troponina) y de estrés de pared (NT-proBNP o BNP). Si ambos (disfunción VD + biomarcadores elevados) están presentes, se clasifica como riesgo intermedio-alto, considerándose la vigilancia estrecha y eventualmente la trombolisis de rescate."
+   }
+  }
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En Ventilación Mecánica, la utilización de PEEP tiene los siguientes efectos",
+  "opciones": {
+   "A": "Aumenta el volumen corriente por ayudar la inspiración",
+   "B": "En los sujetos sanos aumenta el gasto cardiaco",
+   "C": "Produce apertura de los alveolos colapsados",
+   "D": "Ninguna de las respuestas es cierta"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 105, "tema": "Ventilación mecánica no invasiva en urgencias."},
+  "explicacion": {
+   "correcta": "La PEEP (presión positiva al final de la espiración) mantiene una presión positiva en la vía aérea al final de la espiración, impidiendo el colapso alveolar y reclutando unidades alveolares previamente colapsadas (atelectasiadas). Este efecto de 'reclutamiento alveolar' mejora la relación ventilación/perfusión y la oxigenación, y es el mecanismo principal por el que la PEEP resulta beneficiosa en patologías como el SDRA, el edema agudo de pulmón y la neumonía grave.",
+   "incorrectas": {
+    "A": "La PEEP actúa sobre la ESPIRACIÓN, no sobre la inspiración: mantiene la presión al final de la espiración para evitar el colapso alveolar. No aumenta directamente el volumen corriente, que está determinado por la presión de soporte o el volumen control programados. De hecho, niveles elevados de PEEP pueden aumentar la resistencia a la inspiración por hiperinsuflación, reduciendo el volumen corriente efectivo.",
+    "B": "La PEEP tiende a REDUCIR el gasto cardíaco, no a aumentarlo, tanto en sujetos sanos como en enfermos. Al incrementar la presión intratorácica, disminuye el retorno venoso al ventrículo derecho (precarga), aumenta la poscarga del VD y puede comprimir las cámaras cardíacas, reduciendo el llenado ventricular y, en consecuencia, el gasto cardíaco. Este efecto es especialmente relevante en pacientes hipovolémicos.",
+    "D": "La opción 'ninguna de las respuestas es cierta' es incorrecta porque la opción C sí describe correctamente uno de los efectos principales de la PEEP: la apertura y el reclutamiento de alveolos colapsados."
+   }
+  }
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "La parada cardiaca en el paciente politraumatizado, entre las que se enumeran a continuación, la causa MAS FRECUENTE sería:",
+  "opciones": {
+   "A": "Taponamiento cardiaco",
+   "B": "Hipovolemia",
+   "C": "Neumotórax a tensión",
+   "D": "Arritmia cardiaca"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 42, "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."},
+  "explicacion": {
+   "correcta": "La hipovolemia por hemorragia masiva es la causa más frecuente de parada cardiorrespiratoria en el paciente politraumatizado, responsable de aproximadamente el 40-50% de las muertes prevenibles en trauma. La pérdida aguda de volumen sanguíneo secundaria a lesiones vasculares, vísceras sólidas (bazo, hígado) o fractura de pelvis/fémur provoca un shock hemorrágico que, si no se trata a tiempo, evoluciona a colapso cardiovascular y PCR. El control de la hemorragia es, por tanto, la prioridad tras el ABC en el politrauma.",
+   "incorrectas": {
+    "A": "El taponamiento cardíaco es una causa de PCR en el politraumatizado (especialmente en traumatismos torácicos penetrantes), pero es menos frecuente que la hipovolemia. Se reconoce por la tríada de Beck (ingurgitación yugular, hipotensión y tonos cardíacos amortiguados) y requiere pericardiocentesis de emergencia. Aunque es tratable y potencialmente reversible, su incidencia como causa de PCR traumática es inferior a la del shock hemorrágico.",
+    "C": "El neumotórax a tensión es otra causa importante y tratable de PCR en el traumatizado, especialmente en traumatismos torácicos. Se produce cuando el aire acumulado en la cavidad pleural desplaza el mediastino, comprime el corazón y los grandes vasos y reduce drásticamente el retorno venoso. Su tratamiento inmediato es la descompresión con aguja. Es menos frecuente que la hipovolemia como causa principal de PCR traumática.",
+    "D": "Las arritmias cardíacas primarias como causa de PCR en el politraumatizado son infrecuentes. Pueden aparecer secundariamente en el contexto de contusión miocárdica o como consecuencia de la hipoxia, acidosis e hipotermia graves, pero raramente son la causa inicial de la parada. La fisiopatología del trauma dirige principalmente hacia el shock hemorrágico como mecanismo de PCR."
+   }
+  }
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En relación al síndrome de la vena cava superior, solo una de las siguientes aseveraciones es CIERTA:",
+  "opciones": {
+   "A": "La ecografía a pie de cama ha demostrado mayor sensibilidad diagnóstica que la tomografía computerizada.",
+   "B": "La tríada clásica de presentación clínica es: disnea, edema en esclavina y marcada palidez facial.",
+   "C": "El manejo inicial se basa en la elevación de la cabecera de la cama, oxigenoterapia y administración de diferentes fármacos (diuréticos, corticoides, analgésicos)",
+   "D": "Deberemos realizar diagnóstico diferencial con procesos neumológicos agudos de etiología infecciosa."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 95, "tema": "Compresión medular y síndrome de vena cava superior en el paciente oncológico."},
+  "explicacion": {
+   "correcta": "El manejo inicial del síndrome de vena cava superior (SVCS) se basa efectivamente en medidas de soporte y farmacológicas: elevación de la cabecera de la cama a 30-45° para reducir la presión venosa cefálica, oxigenoterapia para mantener SatO2 adecuada, diuréticos (para reducir el edema), corticoides (especialmente si hay componente inflamatorio o el tumor es sensible, como el linfoma) y analgesia si existe dolor. Estas medidas, junto con la restricción de líquidos, constituyen el tratamiento sintomático de urgencia mientras se establece el diagnóstico histológico y se planifica el tratamiento definitivo (quimioterapia, radioterapia o colocación de stent endovascular).",
+   "incorrectas": {
+    "A": "La tomografía computarizada con contraste (angioTC) es la prueba de imagen de elección para el diagnóstico del SVCS, con mayor sensibilidad y especificidad que la ecografía. Permite identificar el nivel y la extensión de la obstrucción, la presencia de trombosis y la masa causal. La ecografía a pie de cama puede ser útil como aproximación inicial pero no ha demostrado mayor sensibilidad diagnóstica que la TC.",
+    "B": "La tríada clásica del SVCS es disnea, edema en esclavina y circulación colateral visible (circulación venosa superficial prominente en cuello y tórax), NO palidez facial. De hecho, lo característico es la PLÉTORA facial (rubicundez, cianosis facial) por la congestión venosa, y no la palidez. La palidez es más propia de shock hipovolémico u otras etiologías.",
+    "D": "Aunque el diagnóstico diferencial del SVCS debe incluir otras causas de edema facial y disnea, los procesos neumológicos infecciosos agudos (neumonía, derrame pleural infeccioso) raramente producen el patrón típico del SVCS con edema en esclavina y circulación colateral. El diagnóstico diferencial más relevante incluye otras causas de obstrucción de la vena cava (trombosis por catéter venoso central, bocio endotorácico, aneurisma aórtico) y no tanto las neumonías bacterianas."
+   }
+  }
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Un paciente con insuficiencia cardíaca y edema agudo de pulmón secundario presenta clínica de taquipnea a 35 respiraciones por minuto. En la gasometría arterial se objetiva pH 7,28, pO2 56 mmHg, pCO2 24 mmHg y lactato de 3,2 mmol/L. ¿Qué medida sería la MÁS INDICADA?",
+  "opciones": {
+   "A": "Ventilación no invasiva modo BiPAP con presión espiratoria baja.",
+   "B": "Oxígeno mediante gafas a 3 l/min para evitar retención de anhídrido carbónico.",
+   "C": "Ventilación no invasiva modo CEPAP con presión al final de la espiración entre 5-7 cmH2O.",
+   "D": "Cualquiera de las anteriores medidas sería óptima en este paciente."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 105, "tema": "Ventilación mecánica no invasiva en urgencias."},
+  "explicacion": {
+   "correcta": "En el edema agudo de pulmón (EAP) cardiogénico, la ventilación no invasiva en modo CPAP (CEPAP) con presiones espiratorias de 5-10 cmH2O es el tratamiento de primera línea. El CPAP mejora la oxigenación al reclutar alveolos colapsados por el edema, reduce el trabajo respiratorio y disminuye la precarga y poscarga del ventrículo izquierdo al aumentar la presión intratorácica. En este paciente con hipoxemia grave (pO2 56 mmHg), acidosis metabólica (pH 7,28 con pCO2 baja indicando hiperventilación compensadora) y elevación de lactato, el CPAP con PEEP de 5-7 cmH2O es la intervención más adecuada y con mayor evidencia en el EAP cardiogénico.",
+   "incorrectas": {
+    "A": "La BiPAP (ventilación con dos niveles de presión, IPAP e EPAP) es una modalidad válida en la insuficiencia respiratoria hipercápnica (EPOC descompensada). En el EAP cardiogénico sin hipercapnia, la evidencia actual no ha demostrado superioridad de la BiPAP sobre el CPAP, y el uso de BiPAP con 'presión espiratoria baja' reduce precisamente el efecto de reclutamiento alveolar y de reducción de la poscarga del VI que hace eficaz la VNI en este contexto. Por ello, el CPAP a 5-10 cmH2O sigue siendo la modalidad preferida en el EAP.",
+    "B": "Las gafas nasales a 3 l/min son absolutamente insuficientes para este paciente con hipoxemia grave (pO2 56 mmHg) y taquipnea de 35 rpm. Esta modalidad de oxigenoterapia proporciona una FiO2 aproximada del 32-36%, insuficiente para corregir la hipoxemia en un EAP severo. Además, el miedo a la 'retención de CO2' con oxígeno no es pertinente aquí, ya que el paciente no tiene EPOC ni hipercapnia (pCO2 24 mmHg), sino todo lo contrario: hipocapnia por hiperventilación compensadora.",
+    "D": "Las tres medidas no son equivalentes: el CPAP tiene evidencia sólida en el EAP cardiogénico, las gafas nasales a bajo flujo son claramente insuficientes y la BiPAP con presión espiratoria baja reduce el efecto terapéutico de la VNI en este contexto. Por tanto, las opciones no son intercambiables y la más indicada es el CPAP con PEEP adecuada."
+   }
+  }
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Ante un paciente con una mordedura por víbora, en qué situación estaría indicada la administración de suero antiofídico:",
+  "opciones": {
+   "A": "Actualmente el suero antiofídico está en desuso por los problemas de anafilaxia que acarrea, por lo que no está indicado.",
+   "B": "Cuando el paciente presente síntomas sistémicos graves, como insuficiencia renal, rabdomiolisis o shock.",
+   "C": "El suero antiofídico se debe administrar precozmente tras la mordedura, sin esperar la aparición de ninguna clínica.",
+   "D": "Si administramos suero antiofídico, administraremos conjuntamente 100-200 mg endovenosos de dexametasona a fin de evitar posibles reacciones alérgicas secundarias."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 102, "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "El suero antiofídico (antiveneno) en la mordedura de víbora en España (Vipera aspis, V. berus, V. latastei) está indicado cuando aparecen signos de envenenamiento sistémico grave: hipotensión o shock, insuficiencia renal aguda, rabdomiolisis, coagulopatía grave o edema progresivo que compromete estructuras vitales. En los casos leves o moderados (edema local, dolor, sin afectación sistémica), el tratamiento es conservador. La administración se realiza en medio hospitalario con disponibilidad de tratamiento para reacciones alérgicas, ya que el riesgo de anafilaxia es real pero manejable.",
+   "incorrectas": {
+    "A": "El suero antiofídico NO está en desuso: sigue siendo el único tratamiento específico para el envenenamiento grave por mordedura de víbora. Aunque conlleva riesgo de reacciones alérgicas (urticaria, anafilaxia), estas son manejables con premedicación y vigilancia, y el beneficio supera al riesgo en las indicaciones adecuadas. Afirmar que está 'en desuso' es clínicamente incorrecto.",
+    "C": "La administración profiláctica o indiscriminada del suero antiofídico tras cualquier mordedura de víbora NO está indicada. La mayoría de las mordeduras son leves y se tratan conservadoramente. El antiveneno se reserva para los casos con toxicidad sistémica significativa, ya que su administración comporta riesgo de reacciones alérgicas que no se justifica en ausencia de envenenamiento grave.",
+    "D": "La dexametasona a dosis de 100-200 mg IV no es la pauta recomendada ni como premedicación ni como tratamiento coadyuvante del suero antiofídico. En caso de reacción alérgica al antiveneno, el tratamiento es la adrenalina (1:1000, 0,5 mg IM), antihistamínicos y corticoides a dosis convencionales. La premedicación con adrenalina subcutánea o antihistamínicos puede considerarse en pacientes de alto riesgo alérgico, pero no la dexametasona a dosis masivas."
+   }
+  }
+ }
+]

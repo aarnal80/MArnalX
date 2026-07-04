@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La Constitución Española establece el reconocimiento del derecho a la protección de la salud como:",
+  "opciones": {
+   "A": "Un principio rector al que solo se puede prestar por las Comunidades Autónomas y las Corporaciones Locales.",
+   "B": "No está reconocido en la Constitución sino en leyes ordinarias.",
+   "C": "Un derecho fundamental.",
+   "D": "Un principio rector de la política social y económica."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 1,
+   "tema": "Constitución Española de 1978: La protección de la salud en la Constitución. Estatuto de Autonomía de Aragón."
+  },
+  "explicacion": {
+   "correcta": "El artículo 43 de la Constitución Española reconoce el derecho a la protección de la salud como un principio rector de la política social y económica, encuadrado en el Capítulo III del Título I. Estos principios no son derechos subjetivos directamente exigibles ante los tribunales, sino directrices que deben orientar la actuación de los poderes públicos.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque restringe indebidamente quiénes pueden prestar ese principio, cuando la Constitución obliga a todos los poderes públicos, incluido el Estado.",
+    "B": "La opción B es incorrecta porque el derecho a la protección de la salud sí aparece expresamente en la Constitución, concretamente en su artículo 43.",
+    "C": "La opción C es incorrecta porque el artículo 43 no recoge un derecho fundamental (Capítulo II, Sección 1ª), sino un principio rector del Capítulo III, con distinto nivel de protección jurídica."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "De acuerdo con el Estatuto de Autonomía de Castilla – La Mancha, los poderes de la Región se ejercen a través de la Junta de Comunidades de Castilla-La Mancha. Son órganos de la Junta:",
+  "opciones": {
+   "A": "Las Cortes de Castilla – La Mancha exclusivamente.",
+   "B": "Las Cortes de Castilla-La Mancha con Presidente de la Junta y el Consejo de Gobierno.",
+   "C": "El Consejo de Gobierno, el Presidente de la Junta y la Cámara de Cuentas de Castilla – La Mancha.",
+   "D": "El Consejo de Gobierno, el Presidente de la Junta, la Consejería de Hacienda, Administraciones Públicas y Transformación Digital, la Consejería de Sanidad y el resto de Consejerías Integradas en la Administración Regional."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 2,
+   "tema": "Competencias en salud recogidas en el Estatuto de Autonomía. Las Cortes de Aragón. El Gobierno de Aragón."
+  },
+  "explicacion": {
+   "correcta": "El Estatuto de Autonomía de Castilla-La Mancha establece que los tres órganos institucionales básicos de la Junta de Comunidades son las Cortes de Castilla-La Mancha, el Presidente de la Junta y el Consejo de Gobierno. Esta triada representa los poderes legislativo y ejecutivo de la comunidad autónoma.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque omite el Presidente de la Junta y el Consejo de Gobierno, que son órganos igualmente esenciales.",
+    "C": "La opción C es incorrecta porque la Cámara de Cuentas es un órgano de control externo, no un órgano de la Junta de Comunidades en sentido estricto.",
+    "D": "La opción D es incorrecta porque confunde los órganos institucionales con estructuras departamentales (consejerías), que son dependencias del Consejo de Gobierno, no órganos de la Junta."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "De las siguiente una no es función de la categoría de médicos de urgencias hospitalaria. Indique cuál.",
+  "opciones": {
+   "A": "Prestar asistencia sanitaria a todos los pacientes que acudan al servicio de urgencias del hospital, con los medios disponibles a su alcance, colaborando con el resto de los servicios hospitalarios en la atención de la urgencia.",
+   "B": "Dar el alta al paciente desde el servicio de urgencia una vez atendido y con el informe clínico correspondiente.",
+   "C": "Informar al paciente y/o, en su caso, a sus familiares de su proceso clínico, exploraciones complementarias, tratamiento y otras pruebas programadas de su decisión, excepto que afecten a la exclusión del proceso.",
+   "D": "No contribuir a los planes de formación y a las actividades de mejora de la calidad propias de la especialidad de urgencias al no tenerla reconocida como tal."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 11,
+   "tema": "Ley 44/2003 de Ordenación de las Profesiones Sanitarias. Ámbito de aplicación, contenidos."
+  },
+  "explicacion": {
+   "correcta": "La opción D describe una actitud contraria a las obligaciones del médico de urgencias: los profesionales sanitarios tienen el deber de participar en actividades de formación continuada y de mejora de la calidad asistencial, con independencia de que la urgencia hospitalaria esté o no reconocida formalmente como especialidad. Afirmar que 'no contribuir' es una función resulta absurdo y contrario a la normativa.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta como respuesta porque sí es una función real y propia del médico de urgencias: prestar asistencia a todos los pacientes que acudan al servicio.",
+    "B": "La opción B es incorrecta como respuesta porque emitir el alta con informe clínico es efectivamente una función reconocida del médico de urgencias.",
+    "C": "La opción C es incorrecta como respuesta porque informar al paciente y a sus familiares es una obligación legal del médico según la Ley 41/2002."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Según la Ley de Ordenación Sanitaria de Castilla – La Mancha, el Servicio de Salud de Castilla La Mancha:",
+  "opciones": {
+   "A": "Es una Dirección General con rango de Viceconsejería, adscrita a la Consejería de Sanidad.",
+   "B": "Es un Organismo Autónomo dotado de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.",
+   "C": "Es una Sociedad de carácter mercantil en la que la Junta ostenta el 100 % de las acciones.",
+   "D": "Es una Entidad Pública Empresarial (Ley 40/2015 de 1 de octubre)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El SESCAM (Servicio de Salud de Castilla-La Mancha) fue creado como organismo autónomo de carácter administrativo, con personalidad jurídica propia y plena capacidad de obrar, adscrito a la Consejería de Sanidad. Esta naturaleza jurídica le permite actuar con autonomía de gestión para cumplir sus fines sanitarios.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque el SESCAM no es una Dirección General ni tiene rango de Viceconsejería; es un organismo autónomo con entidad diferenciada.",
+    "C": "La opción C es incorrecta porque el SESCAM no tiene forma de sociedad mercantil, lo que implicaría criterios de actuación privados incompatibles con su naturaleza pública.",
+    "D": "La opción D es incorrecta porque el SESCAM es un organismo autónomo, categoría distinta a la de entidad pública empresarial, que tiene rasgos más próximos al derecho privado."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Según la ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud entre ellos y con la Administración del Estado, se denomina:",
+  "opciones": {
+   "A": "Comité de cooperación y colaboración del Sistema Sanitario.",
+   "B": "Consejo Interterritorial estatal y autonómica.",
+   "C": "Consejo Interterritorial del Sistema Nacional de Salud.",
+   "D": "Consejo Sanitario del Sistema Nacional de Salud."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 10,
+   "tema": "Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 69 de la Ley 16/2003 define el Consejo Interterritorial del Sistema Nacional de Salud como el órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud de las comunidades autónomas entre sí y con la Administración del Estado. Es el principal instrumento de gobernanza sanitaria del SNS.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque 'Comité de cooperación y colaboración del Sistema Sanitario' no corresponde a ningún órgano definido en la Ley 16/2003.",
+    "B": "La opción B es incorrecta porque la denominación 'estatal y autonómica' no es la que utiliza la ley, que habla exclusivamente de 'Sistema Nacional de Salud'.",
+    "D": "La opción D es incorrecta porque 'Consejo Sanitario del Sistema Nacional de Salud' tampoco corresponde a la denominación legal establecida en la Ley 16/2003."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En todo Centro Coordinador de Urgencias y emergencias (CCUE) se realizan de manera continuada las siguientes acciones, EXCEPTO:",
+  "opciones": {
+   "A": "Recepción de la alerta o demanda sanitaria: se hace referencia al momento en que el coordinador sanitario recibe la llamada por parte del operador al 1-1-2.",
+   "B": "Asignación de recursos asistenciales: tras el triaje telefónico, el coordinador sanitario asigna el recurso sanitario solicitado para resolver el paciente o problema demandado.",
+   "C": "Seguimiento de los recursos asistenciales: se realiza un seguimiento continuo de todo el incidente, en especial de los recursos asistenciales del Servicio de Emergencias Médicas (SEM).",
+   "D": "Desde el CCUE se coordinan todos y cada uno de los organismos a intervenir: públicos y privados."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 108,
+   "tema": "Coordinación con otros servicios. Transporte urgente interhospitalario. Indicadores de calidad en los servicios de urgencias hospitalarios."
+  },
+  "explicacion": {
+   "correcta": "La opción B contiene un error conceptual: el CCUE no asigna 'el recurso sanitario solicitado' según la demanda del llamante, sino el recurso más adecuado tras el triaje médico telefónico. La decisión de asignación es clínica, no responde simplemente a lo que pide el usuario, por lo que esta descripción es incorrecta para un CCUE bien gestionado.",
+   "incorrectas": {
+    "A": "La opción A describe correctamente la función de recepción de alertas, que es una acción continua y real del CCUE.",
+    "C": "La opción C describe correctamente el seguimiento continuo de recursos asistenciales, función esencial del CCUE.",
+    "D": "La opción D describe una función real de coordinación del CCUE con organismos intervinientes, aunque en la práctica la coordinación con privados depende de los acuerdos establecidos."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario que sea autorizado por periodos superiores a seis meses, para prestar servicios o colaborar con organizaciones no gubernamentales que desarrollen programas de cooperación, se les declarará en situación de:",
+  "opciones": {
+   "A": "Permiso en servicio activo.",
+   "B": "Servicios especiales.",
+   "C": "Excedencia voluntaria para la prestación de servicios en el sector público.",
+   "D": "Excedencia forzosa."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 18,
+   "tema": "Jornada de trabajo, permisos y licencias. Situaciones del personal estatutario."
+  },
+  "explicacion": {
+   "correcta": "El artículo 62 de la Ley 55/2003 establece que el personal estatutario autorizado para prestar servicios en ONG que desarrollen programas de cooperación por periodos superiores a seis meses pasará a la situación administrativa de servicios especiales. Durante esta situación se reserva la plaza y se computa tiempo a efectos de carrera y trienios.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque el permiso en servicio activo está previsto para ausencias de menor duración o distinta naturaleza, no para colaboraciones con ONG de más de seis meses.",
+    "C": "La opción C es incorrecta porque la excedencia voluntaria para el sector público se aplica cuando el funcionario pasa a prestar servicios en otra administración, no en una ONG de cooperación.",
+    "D": "La opción D es incorrecta porque la excedencia forzosa se declara por causas ajenas a la voluntad del trabajador, lo que no corresponde a una autorización solicitada."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Según la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha, en caso de que el paciente declarado incapaz de asistencia al tutor, el citado el derecho a la asistencia asistencial será:",
+  "opciones": {
+   "A": "El tutor.",
+   "B": "La autoridad judicial y subsidiariamente la persona nombrada por el órgano judicial.",
+   "C": "La Delegación Provincial de Bienestar Social y el curador nombrado conforme el Código Civil.",
+   "D": "Tanto el tutor como la Delegación Provincial de Bienestar Social."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "Conforme a la Ley 5/2010 de Castilla-La Mancha y en concordancia con la Ley 41/2002, cuando un paciente ha sido declarado legalmente incapaz, el tutor designado judicialmente es quien ostenta la representación legal y, por tanto, es el titular del derecho a recibir la asistencia e información sanitaria en nombre del paciente. El tutor actúa como representante legal en todas las esferas, incluida la sanitaria.",
+   "incorrectas": {
+    "B": "La opción B es incorrecta porque una vez nombrado el tutor por el órgano judicial, es este quien ejerce la representación, no la autoridad judicial de forma directa.",
+    "C": "La opción C es incorrecta porque la Delegación Provincial de Bienestar Social no es el representante legal del paciente incapaz en el ámbito sanitario.",
+    "D": "La opción D es incorrecta porque la representación legal recae en el tutor designado, no de forma conjunta con organismos administrativos."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Según el Decreto 24/2011, de 12 de abril, de la documentación sanitaria en Castilla-La Mancha, las impresiones de los profesionales sanitarios no sustentadas directamente en datos objetivos o pruebas complementarias y que, en todo caso, atienden al interés para la atención sanitaria al paciente y que expresamente sean calificadas como tales por el profesional que las realiza, se denominan:",
+  "opciones": {
+   "A": "Informes clínicos subjetivos.",
+   "B": "Anotaciones subjetivas.",
+   "C": "Diagnósticos facultativos subjetivos.",
+   "D": "No es posible incorporarlos a la información desde el 10/7/2023."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "El Decreto 24/2011 de Castilla-La Mancha define las 'anotaciones subjetivas' como aquellas impresiones del profesional sanitario no respaldadas por datos objetivos ni pruebas complementarias, calificadas expresamente como tales por quien las emite y con relevancia para la atención del paciente. Su denominación específica las distingue del resto de la documentación clínica objetiva.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque 'informes clínicos subjetivos' no es la denominación técnica utilizada en el Decreto 24/2011; los informes clínicos son documentos de distinta naturaleza.",
+    "C": "La opción C es incorrecta porque 'diagnósticos facultativos subjetivos' no corresponde a ninguna categoría documental definida en la normativa castellano-manchega.",
+    "D": "La opción D es incorrecta porque la normativa sí permite incorporar anotaciones subjetivas a la historia clínica; son reconocidas y reguladas expresamente."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En relación con el consentimiento informado. Señale la respuesta incorrecta.",
+  "opciones": {
+   "A": "Toda actuación en el ámbito de la salud necesita el consentimiento libre y voluntario del afectado.",
+   "B": "Dicho consentimiento será prestado por el paciente tras la recepción por el facultativo de la información a la que tiene derecho.",
+   "C": "No es necesario que el médico se asegure en todo momento que el paciente ha comprendido dicha información y conoce el alcance y las consecuencias de su decisión.",
+   "D": "Por regla general: el consentimiento será verbal, pero habrá que dejar constancia en la historia clínica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 38,
+   "tema": "Principios fundamentales de la bioética: aplicación a la asistencia sanitaria. La relación médico-paciente, el consentimiento informado."
+  },
+  "explicacion": {
+   "correcta": "La opción C es la respuesta incorrecta porque la Ley 41/2002 y la ética médica exigen que el profesional se asegure de que el paciente ha comprendido la información y conoce las consecuencias de su decisión. El consentimiento informado solo es válido si el paciente comprende realmente lo que se le ha explicado, por lo que el médico tiene la obligación activa de verificar esa comprensión.",
+   "incorrectas": {
+    "A": "La opción A es una afirmación correcta según el artículo 8 de la Ley 41/2002, que establece la necesidad de consentimiento libre y voluntario para toda actuación sanitaria.",
+    "B": "La opción B es correcta: el consentimiento se presta tras recibir información adecuada, siendo la información previa un requisito imprescindible.",
+    "D": "La opción D es correcta: la regla general establece que el consentimiento es verbal, salvo supuestos especiales en que debe ser escrito, y en todo caso debe quedar constancia en la historia clínica."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Señala la respuesta incorrecta respecto al uso del DEA (desfibrilador externo semiautomático):",
+  "opciones": {
+   "A": "En caso de que disponga de un DEA debemos encenderlo.",
+   "B": "Mientras el DEA analiza el ritmo cardíaco, no es necesario interrumpir las compresiones torácicas.",
+   "C": "Si se indica una descarga, hay que asegurarse de que nadie toque a la víctima.",
+   "D": "Si no se indica una descarga, reanudaremos inmediatamente la RCP con 30 compresiones."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+  },
+  "explicacion": {
+   "correcta": "La opción B es incorrecta porque durante el análisis del ritmo por el DEA es imprescindible interrumpir las compresiones torácicas para que el dispositivo pueda obtener una señal electrocardiográfica válida sin artefactos de movimiento. Las guías del ERC establecen claramente que se deben suspender las compresiones en el momento del análisis.",
+   "incorrectas": {
+    "A": "La opción A es correcta: encender el DEA en cuanto se disponga de él es el primer paso del protocolo de uso.",
+    "C": "La opción C es correcta: antes de dar la descarga es obligatorio asegurarse de que nadie toca a la víctima para evitar electrocución accidental.",
+    "D": "La opción D es correcta: si el DEA no indica descarga se reanuda inmediatamente la RCP comenzando por 30 compresiones torácicas."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En lo respectivo a la clasificación y tratamiento del shock hemorrágico en el paciente politraumatizado, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Una frecuencia cardíaca mayor de 100 lpm, con presión sistólica normal y presión del pulso disminuida, frecuencia respiratoria de 20 a 30rpm y ansiedad, corresponde a la Clase II en la Clasificación del Shock Hemorrágico.",
+   "B": "Inicialmente se debe canalizar de modo preferente una vía venosa central para la administración de fluidoterapia y transfusión de sangre si estuviese indicada.",
+   "C": "Se administrará siempre un bolo inicial de suero salino fisiológico de 1 a 2 litros para un adulto y se iniciará transfusión de sangre cuando se decida realizar tratamiento domiciliario.",
+   "D": "El protocolo de transfusión masiva consiste en la administración de hematíes seguido de plasma fresco y posteriormente plaquetas en cantidades iguales."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 42,
+   "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "Según la clasificación ATLS del shock hemorrágico, la Clase II corresponde a pérdidas del 15-30% de la volemia, con FC mayor de 100 lpm, presión sistólica normal pero presión del pulso disminuida (por aumento de la diastólica mediado por catecolaminas), frecuencia respiratoria de 20-30 rpm y estado de conciencia con ansiedad. Este cuadro clínico encaja perfectamente con los parámetros descritos en la opción A.",
+   "incorrectas": {
+    "B": "La opción B es incorrecta porque en el politraumatizado se prefiere inicialmente la canalización de vías periféricas de gran calibre, no la vía central, que es más lenta de obtener y con mayor riesgo de complicaciones en urgencias.",
+    "C": "La opción C es incorrecta en dos puntos: la fluidoterapia actual en trauma tiende a ser más restrictiva y la transfusión se inicia según criterios clínicos, no cuando se decide tratamiento domiciliario (término absurdo en este contexto).",
+    "D": "La opción D es incorrecta porque el protocolo de transfusión masiva contempla la administración de hematíes, plasma fresco congelado y plaquetas en proporciones 1:1:1 de forma simultánea o muy precoz, no secuencial."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La recuperación de la circulación espontánea (RCE) con éxito es el primer paso hacia el objetivo de recuperación completa de la parada cardíaca. Indique la respuesta FALSA:",
+  "opciones": {
+   "A": "Los cuidados postresucitación inmediatos se inician inmediatamente después de RCE independientemente de la ubicación, en cualquier lugar del hospital.",
+   "B": "El síndrome postparada cardíaca puede no ocurrir si el paro cardíaco es breve (comprende el daño cerebral postparada cardíaca, la disfunción miocárdica postparada cardíaca, la respuesta sistémica de isquemia/reperfusión y la persistencia de patología precipitante).",
+   "C": "La disfunción miocárdica postresucitación causa inestabilidad hemodinámica, la cual se manifiesta como hipotensión bajo índice cardíaco y arritmias. Se recomienda realizar ecocardiografía precoz y frecuentemente requiere soporte inotrópico, al menos de forma transitoria.",
+   "D": "El control de la vía y ventilación hay que realizar la intubación traqueal, sedación y ventilación en todo paciente con RCE tras una parada cardíaca."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+  },
+  "explicacion": {
+   "correcta": "La opción C es la respuesta falsa porque, aunque la disfunción miocárdica postresucitación sí provoca inestabilidad hemodinámica e hipotensión con bajo gasto cardíaco, las guías del ERC 2021 no recomiendan la ecocardiografía de forma rutinaria e inmediata en todos los casos; la recomendación es valorarla cuando esté disponible y sea factible. Además, el soporte inotrópico se indica según la evolución, no como norma universal.",
+   "incorrectas": {
+    "A": "La opción A es verdadera: los cuidados postresucitación se inician de forma inmediata tras la RCE, con independencia del lugar del hospital en que ocurra.",
+    "B": "La opción B es verdadera: el síndrome postparada puede no desarrollarse o ser mínimo si la parada cardíaca es muy breve, ya que el daño isquémico-reperfusión tiene relación con la duración de la parada.",
+    "D": "La opción D es verdadera: la intubación, sedación y ventilación mecánica están indicadas en el paciente con RCE que no recupera la conciencia, como parte de los cuidados postresucitación estándar."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Respecto a la clasificación de las quemaduras según su profundidad señale la opción correcta:",
+  "opciones": {
+   "A": "Superficial (1º grado) Aparentemente, posible exposición de tejidos profundos.",
+   "B": "Espesor parcial superficial (2º grado superficial) Eritematosa. Húmeda.",
+   "C": "Espesor parcial profunda (2º grado profundo) Poco exudativa. Color variable (blanco, grisáceo, rojo). Puede haber pérdida de folículos pilosos.",
+   "D": "Espesor total (3º y 4º grado) Eritematosa, exudativa, ampollas o flictenas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "Las quemaduras de espesor parcial profundo (2.º grado profundo) afectan a la dermis reticular profunda y presentan superficie poco exudativa, coloración variable (blanco, grisáceo o rojo oscuro) y pueden conllevar destrucción de folículos pilosos. Estas características las distinguen de las superficiales y permiten prever una curación lenta con posible necesidad de injerto.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque la exposición de tejidos profundos corresponde a quemaduras de espesor total (3.º-4.º grado), no al 1.er grado, que solo afecta la epidermis.",
+    "B": "La opción B es incorrecta porque, aunque eritematosa y húmeda puede describir parcialmente el 2.º grado superficial, la descripción es incompleta y podría confundirse con el 1.er grado.",
+    "D": "La opción D es incorrecta porque eritema, exudado y flictenas corresponden al 2.º grado, no a las quemaduras de espesor total, que son secas, acartonadas e indoloras."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera sobre las indicaciones de angioplastia primaria en el síndrome coronario agudo con elevación del segmento ST?",
+  "opciones": {
+   "A": "La angioplastia primaria se recomienda solo en pacientes con SCACEST que se presenten dentro de las primeras 24 horas del inicio de los síntomas.",
+   "B": "La angioplastia primaria es preferible en pacientes con SCACEST que tienen menos de 75 años y no tienen comorbilidades significativas.",
+   "C": "La angioplastia primaria es el tratamiento de elección en pacientes con SCACEST independientemente del tiempo transcurrido desde el inicio de los síntomas.",
+   "D": "La angioplastia primaria puede ser considerada en pacientes con SCACEST que presentan contraindicaciones para el tratamiento fibrinolítico y que pueden ser tratados dentro de las primeras 12 horas del inicio de los síntomas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "Según las guías ESC, la ICP primaria puede considerarse en pacientes con SCACEST que presenten contraindicaciones para la fibrinólisis y que puedan ser tratados dentro de las primeras 12 horas del inicio de los síntomas. Esta indicación amplía el acceso a la reperfusión mecánica cuando la farmacológica está contraindicada, dentro de la ventana temporal establecida.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque la ventana de indicación preferente de ICP primaria es de hasta 12 horas, no 24, y más allá de ese tiempo la indicación requiere criterios adicionales como isquemia persistente.",
+    "B": "La opción B es incorrecta porque la edad y las comorbilidades no son criterios para excluir la ICP primaria; las guías la recomiendan para todos los pacientes con SCACEST sin restricción de edad.",
+    "C": "La opción C es incorrecta porque más allá de las 12 horas del inicio de los síntomas, en ausencia de isquemia persistente, la ICP primaria no está indicada de forma rutinaria."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿Cuál sería el tratamiento de elección en un paciente con una taquicardia de QRS ancho en urgencias, que se encuentra clínica y hemodinámicamente estable?",
+  "opciones": {
+   "A": "Diltiazem.",
+   "B": "CVE.",
+   "C": "Verapamilo.",
+   "D": "Procainamida."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."
+  },
+  "explicacion": {
+   "correcta": "En el paciente hemodinámicamente estable con taquicardia de QRS ancho de origen incierto (presuntamente ventricular), la procainamida es el antiarrítmico de elección por vía intravenosa. Actúa bloqueando los canales de sodio y enlentece la conducción, siendo eficaz tanto en taquicardias ventriculares como en algunas supraventriculares con aberrancia.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque el diltiazem, bloqueante de los canales de calcio, está contraindicado en las taquicardias de QRS ancho de presumible origen ventricular, ya que puede provocar deterioro hemodinámico.",
+    "B": "La opción B es incorrecta porque la cardioversión eléctrica sincronizada (CVE) es el tratamiento de elección cuando el paciente está hemodinámicamente inestable, no en el caso estable descrito.",
+    "C": "La opción C es incorrecta porque el verapamilo está contraindicado en taquicardias de QRS ancho de origen ventricular; puede empeorar gravemente el estado hemodinámico."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varón de 52 años con HTA conocida de 10 años de evolución, con buen control y sin afectación de órgano diana, acude al servicio de urgencias hospitalarias por cefalea, vómitos, somnolencia, objetivándose cifras de TA de 225/123. ¿Cuál de estos tratamientos sería el indicado como 1ª línea?",
+  "opciones": {
+   "A": "Labetalol 20 mg iv.",
+   "B": "Captopril 25 mg sl.",
+   "C": "Furosemida 40 mg iv.",
+   "D": "Nifedipino 20 mg vo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "El cuadro descrito (cifras de TA 225/123 con cefalea, vómitos y somnolencia como datos de afectación neurológica aguda) constituye una emergencia hipertensiva con probable encefalopatía hipertensiva. En este contexto se requiere descenso controlado e inmediato de la presión arterial por vía intravenosa, y el labetalol iv es el fármaco de primera elección por su acción alfa y betabloqueante, rapidez de acción y titulabilidad.",
+   "incorrectas": {
+    "B": "La opción B es incorrecta porque el captopril sublingual tiene absorción irregular y no permite un control preciso y rápido de la presión arterial en una emergencia hipertensiva.",
+    "C": "La opción C es incorrecta porque la furosemida no es un antihipertensivo de primera línea en la emergencia hipertensiva, salvo que coexista edema agudo de pulmón; su uso aislado no está indicado aquí.",
+    "D": "La opción D es incorrecta porque el nifedipino oral de liberación inmediata produce descensos bruscos e impredecibles de la tensión arterial, con riesgo de isquemia de órganos diana, y está contraindicado en emergencias hipertensivas."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varón de 58 años, gran fumador y con O2 domiciliario que acude a urgencias por disnea de mínimos esfuerzos, con una evolución de 24 horas de evolución. A la exploración presenta FR 25 rpm, TA 116/75 mmHg, FC 110 lpm, saO2 87% y sibilancias por ambos campos pulmonares. Indique qué gases arteriales es más probable encontrar en este este paciente:",
+  "opciones": {
+   "A": "pH 7.48; pO2 65 mmHg; pCO2 25 mmHg; HCO3 23",
+   "B": "pH 7.25; pO2 55 mmHg; pCO2 75 mmHg; HCO3 30",
+   "C": "pH 7.25; pO2 55 mmHg; pCO2 40 mmHg; HCO3 15",
+   "D": "pH 7.40; pO2 100 mmHg; pCO2 45 mmHg; HCO3 25"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 54,
+   "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El paciente presenta un perfil clásico de reagudización grave de EPOC con insuficiencia respiratoria global: hipoxemia marcada (SaO2 87%), hipercapnia (pCO2 75 mmHg) y acidosis respiratoria (pH 7.25) con compensación metabólica parcial (HCO3 30, elevado por retención crónica de bicarbonato). Este patrón gasométrico de acidosis respiratoria con bicarbonato compensador es típico del EPOC crónico que agudiza.",
+   "incorrectas": {
+    "A": "La opción A muestra alcalosis respiratoria con hipocapnia, patrón contrario al esperado en un EPOC agudizado con retención de CO2.",
+    "C": "La opción C muestra acidosis metabólica con pCO2 normal, patrón más propio de una acidosis metabólica primaria (p. ej. cetoacidosis), no de EPOC.",
+    "D": "La opción D refleja gasometría normal, incompatible con el cuadro clínico de disnea grave, sibilancias y desaturación marcada descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Según la etiología esperada (dependiente de la epidemiología local) y la situación de resistencias a los antibacterianos en Castilla La Mancha para paciente de 50 años valorado en urgencias por una neumonía adquirida en la comunidad, donde se decide realizar tratamiento domiciliario (de acuerdo con la escala de Fine o PSI -escala pronóstica de gravedad-) la pauta oral empírica adecuada sería:",
+  "opciones": {
+   "A": "Moxifloxacino 400 mg cada 12 horas por 7 días.",
+   "B": "Cefalotina 400 mg cada 12 horas por 7 días más azitromicina 500 mg al día por 5 días.",
+   "C": "Amoxicilina 1 g cada 8 horas por 7 días.",
+   "D": "Azitromicina 500 mg al día por 7 días."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "Para la neumonía adquirida en la comunidad de tratamiento ambulatorio en adultos sin comorbilidades, los protocolos de Castilla-La Mancha y las guías SEPAR/SEMES recomiendan la combinación de un betalactámico (como cefditoren o amoxicilina-clavulánico) con un macrólido (azitromicina) para cubrir tanto neumococo como gérmenes atípicos. La opción B combina estos dos grupos, aunque la cefalotina oral no es el antibiótico habitual (en la práctica se usa cefditoren o amoxicilina-clavulánico), lo que hace que sea la opción más aproximada a la correcta en el contexto del examen.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque el moxifloxacino se administra cada 24 horas (no cada 12) y la fluoroquinolona respiratoria se reserva como alternativa o cuando existen comorbilidades, no como primera línea universal.",
+    "C": "La opción C cubre solo neumococo pero no gérmenes atípicos (Mycoplasma, Chlamydophila), por lo que la monoterapia con amoxicilina es insuficiente como pauta empírica general en el adulto.",
+    "D": "La opción D con azitromicina en monoterapia no es adecuada en España por las elevadas tasas de resistencia del neumococo a los macrólidos, que superan el 20-30% en muchas comunidades."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varón de 21 años que sufre sincope vasovagal mientras le tomaban muestra de sangre para una analítica, cursa con pérdida de consciencia. A urgencias llega desorientado, no localiza el dolor, pero sí hace movimiento de retirada al estimularlo, y solo abre los ojos cuando se le llama por su nombre. ¿Qué escala de Glasgow tiene el paciente?",
+  "opciones": {
+   "A": "9",
+   "B": "11",
+   "C": "10",
+   "D": "No se puede estimar la escala de Glasgow con los datos proporcionados."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "Aplicando la Escala de Coma de Glasgow: apertura ocular al llamarle por el nombre (estímulo verbal) = 3 puntos; respuesta verbal desorientada = 4 puntos; respuesta motora de retirada al dolor = 4 puntos. Total: 3 + 4 + 4 = 11 puntos.",
+   "incorrectas": {
+    "A": "La opción A de 9 puntos implicaría una puntuación incorrecta; por ejemplo, apertura ocular al dolor (2) + palabras inapropiadas (3) + retirada (4) = 9, pero el enunciado indica apertura al estímulo verbal (3) y respuesta verbal desorientada (4).",
+    "C": "La opción C de 10 puntos no corresponde a la suma correcta de los parámetros descritos en el enunciado.",
+    "D": "La opción D es incorrecta porque el enunciado proporciona datos suficientes para calcular las tres subescalas de Glasgow: ocular, verbal y motora."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Señale la respuesta correcta en cuanto uso de la ivabradina en la insuficiencia cardíaca:",
+  "opciones": {
+   "A": "Está indicada como alternativa a los betabloqueantes para control de frecuencia en fibrilación auricular persistente.",
+   "B": "No debe administrarse en sujetos con asma bronquial.",
+   "C": "Está indicada en pacientes en ritmo sinusal con frecuencia cardíaca en reposo superior a 75 lpm y que no toleran más de los betabloqueantes.",
+   "D": "Se administra inicialmente a dosis de 7.5mg cada 12h, incrementando a la semana si es bien tolerada y el efecto no es el deseado."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "La ivabradina está indicada en pacientes con insuficiencia cardíaca con fracción de eyección reducida que se encuentran en ritmo sinusal con frecuencia cardíaca en reposo igual o superior a 75 lpm, ya sea porque no toleran los betabloqueantes o como complemento a la dosis máxima tolerada. Actúa inhibiendo la corriente If del nodo sinusal, reduciendo la frecuencia sin efecto inotrópico negativo.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta porque la ivabradina solo actúa sobre el nodo sinusal y no tiene efecto en la fibrilación auricular, donde no existe ritmo sinusal regulado.",
+    "B": "La opción B es incorrecta porque la ivabradina no tiene efecto sobre la musculatura bronquial ni está contraindicada en el asma; esta restricción corresponde a los betabloqueantes no cardioselectivos.",
+    "D": "La opción D es incorrecta porque la dosis de inicio habitual de ivabradina es 5 mg cada 12 horas (no 7,5 mg), pudiendo ajustarse posteriormente según respuesta y tolerancia."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Paciente varón de 78 años con antecedentes de HTA, DM tipo 2, cardiopatía isquémica y ex enolismo. Actualmente en tratamiento con valsartán/hidroclorotiazida, insulina glargina, linagliptina y ácido acetil salicílico. Presenta caída accidental por escaleras con TCE. En exploración física el paciente esta despierto, confuso y con amnesia del episodio. No afectación del lenguaje, ni déficit motor o sensitivo. Se objetiva hematoma temporoparietal con herida inciso-contusa. Indique la respuesta VERDADERA:",
+  "opciones": {
+   "A": "El paciente tiene un TCE moderado al presentar un índice 13/15 en la Escala Coma de Glasgow (ECG).",
+   "B": "Debe realizarse TC craneal dado que presenta factores de riesgo para enfermedad intracraneal tras un TCE.",
+   "C": "Dado que el paciente tiene un TCE leve y se encuentra totalmente asintomático, solo precisaría observación y vigilancia clínica durante 6 horas. Realizar TC si no mejora o deterioro neurológico.",
+   "D": "Tras valoración inicial se realizará análisis de la herida y puntos de sutura, con una dosis inicial de tratamiento antibiótico. Si presenta deterioro o empeoramiento de su estado general, se realizará TC craneal."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El paciente presenta múltiples factores de riesgo para lesión intracraneal tras TCE: edad mayor de 65 años, tratamiento con AAS (antiagregante), diabetes, cardiopatía, confusión y amnesia del episodio. Las guías internacionales y los criterios canadienses de TC de cráneo indican la realización inmediata de tomografía craneal en presencia de estos factores de riesgo, incluso en TCE inicialmente catalogados como leves.",
+   "incorrectas": {
+    "A": "La opción A es incorrecta en dos aspectos: el paciente está despierto y confuso pero sin datos de que el GCS sea 13/15, y aunque lo fuera, un GCS de 13 corresponde a TCE leve (13-15) según clasificaciones actuales.",
+    "C": "La opción C es incorrecta porque afirma que el paciente está 'totalmente asintomático', cuando presenta confusión y amnesia, síntomas que contraindican la mera observación sin TC.",
+    "D": "La opción D es incorrecta porque subordina la realización del TC al deterioro posterior, cuando los factores de riesgo presentes ya indican la necesidad de TC inmediata desde el primer momento."
+   }
+  }
+ }
+]

@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes enunciados es FALSO respecto al taponamiento cardíaco?",
+  "opciones": {
+   "A": "Es una emergencia médica.",
+   "B": "La ecocardiografía es la exploración complementaria que confirma el Derrame pericárdico.",
+   "C": "Clínicamente se caracteriza por la Triada de Beck.",
+   "D": "El tratamiento consiste en disminuir la precarga."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 52, "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."},
+  "explicacion": {
+   "correcta": "La opción D es la afirmación FALSA porque en el taponamiento cardíaco el tratamiento consiste precisamente en AUMENTAR la precarga (administración de líquidos IV) para mantener el gasto cardíaco, junto con la pericardiocentesis urgente para evacuar el líquido. Disminuir la precarga (con diuréticos o nitratos) empeoraría el cuadro al reducir aún más el llenado ventricular ya comprometido por la compresión extrínseca del corazón.",
+   "incorrectas": {
+    "A": "El taponamiento cardíaco sí es una emergencia médica, ya que la compresión del corazón por el líquido pericárdico compromete el gasto cardíaco de forma aguda y puede llevar a shock obstructivo y muerte si no se trata de inmediato.",
+    "B": "La ecocardiografía es efectivamente la prueba de elección para confirmar el derrame pericárdico y valorar su repercusión hemodinámica (colapso diastólico de cavidades derechas, etc.), por lo que esta afirmación es correcta.",
+    "C": "La tríada de Beck (hipotensión arterial, ingurgitación yugular y tonos cardíacos apagados) es la presentación clínica clásica del taponamiento cardíaco, por lo que esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto a la compresión medular en el paciente oncológico, señale la afirmación INCORRECTA:",
+  "opciones": {
+   "A": "Es la segunda complicación neurológica más frecuente tras las metástasis cerebrales.",
+   "B": "La localización más frecuente son las vértebras lumbares.",
+   "C": "Se produce por compresión de la médula espinal o sus raíces nerviosas por una lesión vertebral de origen maligno primario o metastásico.",
+   "D": "El tratamiento con Dexametasona debe iniciarse en el momento de la sospecha clínica si existe compromiso neurológico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 95, "tema": "Compresión medular y síndrome de vena cava superior en el paciente oncológico."},
+  "explicacion": {
+   "correcta": "La opción B es INCORRECTA porque la localización más frecuente de la compresión medular en el paciente oncológico son las vértebras torácicas (aproximadamente el 70% de los casos), no las lumbares. La región torácica es más frecuentemente afectada dada la alta prevalencia de metástasis vertebrales a ese nivel, especialmente en tumores de pulmón, mama y próstata.",
+   "incorrectas": {
+    "A": "Es correcta: la compresión medular maligna es la segunda complicación neurológica más frecuente en pacientes oncológicos, solo superada por las metástasis cerebrales.",
+    "C": "Es correcta: la compresión medular neoplásica se produce por invasión epidural directa desde el cuerpo vertebral o por colapso vertebral, comprometiendo la médula espinal o sus raíces.",
+    "D": "Es correcta: la dexametasona a dosis altas debe iniciarse ante la sospecha clínica con déficit neurológico para reducir el edema y preservar la función neurológica mientras se planifica el tratamiento definitivo (radioterapia o cirugía)."
+   }
+  }
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál NO es considerado un criterio absoluto para suspender una Prueba de Esfuerzo en el paciente con Dolor Torácico?",
+  "opciones": {
+   "A": "Dolor torácico de carácter progresivo.",
+   "B": "Cansancio.",
+   "C": "Rachas de fibrilación auricular paroxísticas.",
+   "D": "Sensación de mareo y/o síncope."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 45, "tema": "Dolor torácico agudo. Etiología. Valoración, diagnóstico y normas de actuación en urgencias."},
+  "explicacion": {
+   "correcta": "El cansancio o fatiga es un criterio relativo o subjetivo para interrumpir la prueba de esfuerzo, pero no se considera un criterio absoluto de interrupción. Los criterios absolutos incluyen síntomas de mayor gravedad o riesgo vital inminente (hipotensión, arritmias graves, síncope, dolor torácico progresivo, signos de hipoperfusión). El cansancio per se no implica un riesgo hemodinámico inmediato.",
+   "incorrectas": {
+    "A": "El dolor torácico de carácter progresivo durante la prueba de esfuerzo es un criterio absoluto de interrupción, ya que puede indicar isquemia miocárdica activa con riesgo de complicaciones graves.",
+    "C": "Las rachas de fibrilación auricular paroxística durante la prueba de esfuerzo constituyen una arritmia que puede comprometer hemodinámicamente al paciente, siendo considerada criterio absoluto de suspensión.",
+    "D": "La sensación de mareo y/o síncope durante la prueba de esfuerzo indica compromiso hemodinámico o cerebrovascular y es un criterio absoluto de interrupción inmediata."
+   }
+  }
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Varón de 27 años en seguimiento por la Unidad de Salud Mental de su zona de salud que es traído al Servicio de Urgencias de un hospital comarcal por presentar cuadro de heteroagresividad, verbaliza oír voces que le dan órdenes y presenta un nivel de conciencia fluctuante. La exploración física inicial es normal. ¿Cuál de las siguientes afirmaciones NO se corresponde con un cuadro de agitación típicamente psiquiátrico?",
+  "opciones": {
+   "A": "Presencia de alucinaciones auditivas.",
+   "B": "Heteroagresividad.",
+   "C": "Nivel de conciencia fluctuante.",
+   "D": "Exploración física normal."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 92, "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "La fluctuación del nivel de conciencia es una característica propia del síndrome confusional agudo (delirium) de causa orgánica, no de la agitación de origen psiquiátrico. En la agitación psiquiátrica pura el nivel de conciencia permanece conservado y estable. La fluctuación de la conciencia obliga a descartar una causa orgánica subyacente.",
+   "incorrectas": {
+    "A": "Las alucinaciones auditivas, especialmente las voces de comando, son síntomas psicóticos típicos que pueden presentarse en la esquizofrenia u otras psicosis agudas, y son compatibles con una agitación de origen psiquiátrico.",
+    "B": "La heteroagresividad puede aparecer en el contexto de una agitación psiquiátrica, especialmente en episodios psicóticos agudos o maniacos, y no orienta específicamente a causa orgánica.",
+    "D": "La exploración física normal es un dato que apoya el origen psiquiátrico de la agitación, ya que en las causas orgánicas suele haber alteraciones en la exploración física o en las constantes vitales."
+   }
+  }
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de las siguientes causas de hiperbilirrubinemia NO es de predominio indirecto?",
+  "opciones": {
+   "A": "Sepsis.",
+   "B": "Hemólisis.",
+   "C": "Síndrome de Gilbert.",
+   "D": "Cirrosis biliar primaria."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 62, "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."},
+  "explicacion": {
+   "correcta": "La cirrosis biliar primaria (ahora denominada colangitis biliar primaria) es una enfermedad colestásica crónica que produce hiperbilirrubinemia de predominio DIRECTO (conjugada), no indirecto, porque el defecto se sitúa en la excreción biliar intrahepática. Las otras tres opciones producen hiperbilirrubinemia indirecta por distintos mecanismos: exceso de producción o déficit de conjugación.",
+   "incorrectas": {
+    "A": "La sepsis puede causar hiperbilirrubinemia de predominio indirecto por hemólisis, disfunción hepática o inhibición de la captación y conjugación de bilirrubina por los hepatocitos en el contexto del fallo orgánico séptico.",
+    "B": "La hemólisis produce un exceso de bilirrubina no conjugada (indirecta) que supera la capacidad de conjugación hepática, siendo la causa prototípica de hiperbilirrubinemia indirecta.",
+    "C": "El síndrome de Gilbert es un trastorno benigno del gen UGT1A1 que reduce la actividad de la glucuroniltransferasa, resultando en un déficit de conjugación y, por tanto, en hiperbilirrubinemia de predominio indirecto."
+   }
+  }
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué es la escala ASPECT?",
+  "opciones": {
+   "A": "Una escala de riesgo de sangrado tras fibrinolisis en el ICTUS isquémico.",
+   "B": "Una nueva escala de tiempos en el ICTUS vertebrobasilar.",
+   "C": "Valoración cuantitativa, en que se valoran signos incipientes de afectación cerebral isquémica por TAC.",
+   "D": "Una escala de focalidad neurológica para pacientes mayores de 90 años."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 68, "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "La escala ASPECTS (Alberta Stroke Program Early CT Score) es una puntuación cuantitativa sistematizada de 10 puntos que evalúa los signos precoces de isquemia en el territorio de la arteria cerebral media en el TAC sin contraste. A cada región afectada por cambios isquémicos precoces se le resta un punto; una puntuación de 10 indica TAC normal y una puntuación baja indica mayor extensión del daño isquémico, con implicaciones para la selección de candidatos a terapia de reperfusión.",
+   "incorrectas": {
+    "A": "La escala ASPECTS no valora el riesgo de sangrado tras fibrinólisis; para ello existen otras escalas o criterios de exclusión del tratamiento trombolítico. La ASPECTS orienta sobre la extensión de la isquemia precoz en el TAC.",
+    "B": "La escala ASPECTS no es una escala de tiempos ni específica del ictus vertebrobasilar; se aplica fundamentalmente al territorio de la arteria cerebral media en el ictus isquémico anterior.",
+    "D": "La escala ASPECTS no es una escala de focalidad neurológica ni está restringida a pacientes mayores de 90 años; es una herramienta de interpretación de neuroimagen (TAC craneal) aplicable a la población general con ictus isquémico anterior."
+   }
+  }
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al tratamiento del glaucoma agudo ¿Cuál de estos fármacos hay que EVITAR?",
+  "opciones": {
+   "A": "Midriáticos.",
+   "B": "Acetazolamida oral.",
+   "C": "Manitol al 20% IV.",
+   "D": "Pilocarpina al 1-2% tópica."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 91, "tema": "Exploración oftalmológica básica. Diagnóstico diferencial del ojo rojo. Pérdida brusca de visión. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "Los midriáticos (fármacos que dilatan la pupila) están absolutamente contraindicados en el glaucoma agudo de ángulo cerrado, porque la midriasis provoca el desplazamiento del iris hacia el ángulo iridocorneal, bloqueando aún más el drenaje del humor acuoso y aumentando la presión intraocular. El objetivo del tratamiento es producir miosis (con pilocarpina) para abrir el ángulo y facilitar el drenaje.",
+   "incorrectas": {
+    "B": "La acetazolamida oral (inhibidor de la anhidrasa carbónica sistémica) está indicada en el glaucoma agudo para reducir la producción de humor acuoso y disminuir rápidamente la presión intraocular.",
+    "C": "El manitol al 20% IV (agente osmótico) está indicado en el glaucoma agudo cuando la presión intraocular es muy elevada, ya que reduce el volumen del humor vítreo y disminuye rápidamente la presión.",
+    "D": "La pilocarpina tópica al 1-2% está indicada en el glaucoma agudo de ángulo cerrado porque produce miosis, desplaza el iris hacia delante y abre el ángulo de drenaje, facilitando la salida del humor acuoso."
+   }
+  }
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Grado de disnea según New York Heart Association (NYHA) en un paciente con síntomas con su actividad habitual señale la respuesta correcta:",
+  "opciones": {
+   "A": "Clase IV.",
+   "B": "Clase III.",
+   "C": "Clase II.",
+   "D": "Clase I."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 49, "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."},
+  "explicacion": {
+   "correcta": "La clasificación NYHA clase II corresponde a pacientes con insuficiencia cardíaca que presentan síntomas (disnea, fatiga) con la actividad física habitual o moderada, pero que están asintomáticos en reposo. Esta clase refleja una limitación ligera de la actividad física normal, que es exactamente lo descrito en el enunciado.",
+   "incorrectas": {
+    "A": "La clase IV de la NYHA corresponde a pacientes con síntomas incluso en reposo o con cualquier esfuerzo mínimo, situación de mayor gravedad que la descrita en el enunciado.",
+    "B": "La clase III de la NYHA corresponde a pacientes con síntomas ante esfuerzos menores que los habituales o con actividad física inferior a la normal, con marcada limitación funcional, lo que no se corresponde exactamente con síntomas con la actividad habitual.",
+    "D": "La clase I de la NYHA corresponde a pacientes sin limitación funcional, es decir, sin síntomas con la actividad física ordinaria, lo cual es el polo opuesto a lo descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En cuanto al protocolo FAST (Focused Assessment with Sonography in Trauma) señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El protocolo FAST tiene como objetivo la búsqueda ecográfica de líquido libre en la cavidad peritoneal y en el pericardio en el contexto de traumatismo abdominal cerrado.",
+   "B": "Debe realizarse con el paciente en decúbito supino.",
+   "C": "El líquido libre se visualiza como una imagen anecoica o negra.",
+   "D": "Debe incluirse en la valoración secundaria del paciente politraumatizado."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 106, "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."},
+  "explicacion": {
+   "correcta": "La opción D es INCORRECTA porque el protocolo FAST debe realizarse durante la VALORACIÓN PRIMARIA (primary survey) del paciente politraumatizado, no en la secundaria. Se integra en el ABCDE inicial para detectar precozmente sangrado intraabdominal o pericárdico que comprometa la vida, permitiendo una toma de decisiones quirúrgica urgente.",
+   "incorrectas": {
+    "A": "Es correcto: el objetivo del FAST es la detección ecográfica rápida de líquido libre (sangre) en los espacios peritoneo-dependientes y en el pericardio en pacientes con traumatismo abdominal cerrado.",
+    "B": "Es correcto: la posición estándar para realizar el FAST es el decúbito supino, que facilita la acumulación de líquido libre en los espacios declives explorados (espacio de Morrison, espacio esplenorrenal, pelvis y pericardio).",
+    "C": "Es correcto: el líquido libre (sangre, ascitis) aparece en la ecografía como una imagen anecoica (negra o sin ecos), lo que facilita su identificación entre las estructuras adyacentes de mayor ecogenicidad."
+   }
+  }
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de las siguientes NO es una característica clínica de la pérdida transitoria de la conciencia?",
+  "opciones": {
+   "A": "Duración corta del episodio.",
+   "B": "Control motor normal durante el episodio.",
+   "C": "Ausencia de respuesta durante el episodio.",
+   "D": "El paciente no recuerda el episodio."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 51, "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "Durante la pérdida transitoria de la conciencia (síncope) el paciente pierde el tono muscular postural y el control motor, lo que provoca la caída o la flacidez. Por tanto, el control motor normal durante el episodio NO es una característica de la pérdida transitoria de la conciencia; al contrario, la pérdida del control motor es característica y es lo que distingue al síncope verdadero de otros episodios paroxísticos.",
+   "incorrectas": {
+    "A": "La duración corta del episodio es una característica definitoria de la pérdida transitoria de la conciencia; típicamente dura segundos a pocos minutos, con recuperación espontánea.",
+    "C": "La ausencia de respuesta durante el episodio es una característica propia de la pérdida transitoria de la conciencia, ya que el paciente no responde a estímulos mientras dura el evento.",
+    "D": "La amnesia del episodio (el paciente no recuerda lo ocurrido durante la pérdida de conciencia) es característica habitual del síncope y de otras formas de pérdida transitoria de la conciencia."
+   }
+  }
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de estas etiologías es POCO frecuente en una hemorragia subaracnoidea (HSA)?",
+  "opciones": {
+   "A": "Traumatismo craneal.",
+   "B": "Estenosis mitral reumática.",
+   "C": "Vasculitis.",
+   "D": "Ruptura de un aneurisma intracraneal."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 66, "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."},
+  "explicacion": {
+   "correcta": "La estenosis mitral reumática no es una causa reconocida de hemorragia subaracnoidea. Las valvulopatías pueden asociarse a embolia cerebral isquémica, pero no producen hemorragia subaracnoidea de forma directa. Esta es la opción POCO frecuente (prácticamente no causa HSA) en comparación con las demás opciones del enunciado.",
+   "incorrectas": {
+    "A": "El traumatismo craneoencefálico es la causa más frecuente de HSA en términos globales, produciendo sangrado subaracnoideo por desgarro de vasos meníngeos superficiales o contusión cortical.",
+    "C": "Las vasculitis cerebrales (como la angeítis primaria del SNC) pueden producir hemorragia subaracnoidea por rotura o necrosis de la pared vascular, constituyendo una causa poco frecuente pero reconocida de HSA no traumática.",
+    "D": "La rotura de un aneurisma sacular intracraneal es la causa más frecuente de HSA espontánea (no traumática), responsable de aproximadamente el 85% de los casos."
+   }
+  }
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "El hallazgo en una gasometría arterial basal de los siguientes parámetros: pO2 58 mmHg y pCO2 75 mmHg nos orientará a una de las siguientes causas:",
+  "opciones": {
+   "A": "Hipoventilación alveolar.",
+   "B": "Hiperventilación alveolar.",
+   "C": "Presencia de shunt.",
+   "D": "Alteraciones en la difusión alveolo-capilar."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 53, "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."},
+  "explicacion": {
+   "correcta": "La combinación de hipoxemia (pO2 58 mmHg) con hipercapnia (pCO2 75 mmHg) es el patrón gasométrico característico de la hipoventilación alveolar (insuficiencia respiratoria tipo II o hipercápnica). El aumento de CO2 alveolar desplaza al O2, reduciendo la pO2 alveolar y arterial. La hipercapnia diferencia este patrón del resto de mecanismos de hipoxemia.",
+   "incorrectas": {
+    "B": "La hiperventilación alveolar produciría una pCO2 baja (hipocapnia) con posible aumento de la pO2, lo contrario a lo observado en el caso presentado.",
+    "C": "El shunt intrapulmonar produce hipoxemia que no se corrige bien con oxígeno, pero la pCO2 suele ser normal o baja (por hiperventilación compensadora), no elevada como en el caso presentado.",
+    "D": "Las alteraciones en la difusión alveolo-capilar producen hipoxemia (especialmente en ejercicio) con pCO2 normal o baja, no con hipercapnia, ya que el CO2 difunde con mucha mayor facilidad que el O2."
+   }
+  }
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Cuál de los siguientes NO se considera un factor de riesgo de suicidio consumado?",
+  "opciones": {
+   "A": "Intentos de suicidio previos.",
+   "B": "Abuso de alcohol.",
+   "C": "Enfermedad psiquiátrica, en especial depresión o trastorno bipolar.",
+   "D": "Contar con apoyo familiar, social o creencias religiosas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 93, "tema": "Depresión e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."},
+  "explicacion": {
+   "correcta": "El apoyo familiar y social, así como las creencias religiosas sólidas, son factores PROTECTORES frente al suicidio consumado, no factores de riesgo. Actúan como red de contención y generan un sentido de pertenencia y responsabilidad que reduce la probabilidad de conducta suicida.",
+   "incorrectas": {
+    "A": "Los intentos de suicidio previos son el factor de riesgo más importante para el suicidio consumado; se estima que entre el 30-40% de los suicidios consumados tienen antecedentes de intentos previos.",
+    "B": "El abuso de alcohol es un factor de riesgo establecido de suicidio consumado, ya que la intoxicación etílica desinhibición el control de los impulsos y puede precipitar la conducta suicida.",
+    "C": "La enfermedad psiquiátrica, especialmente la depresión mayor y el trastorno bipolar, se asocia a un riesgo significativamente elevado de suicidio consumado en comparación con la población general."
+   }
+  }
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el tratamiento de la diarrea aguda, ¿en cuál de los siguientes casos NO indicaremos tratamiento antibiótico empírico?",
+  "opciones": {
+   "A": "Diarrea del viajero grave.",
+   "B": "Sospecha de E. Coli enterohemorragico.",
+   "C": "Pacientes inmunodeprimidos.",
+   "D": "Portadores de prótesis valvular cardiaca."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 65, "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."},
+  "explicacion": {
+   "correcta": "Ante la sospecha de diarrea por E. coli enterohemorrágico (ECEH, serotipo O157:H7), los antibióticos están CONTRAINDICADOS porque pueden aumentar el riesgo de desarrollar síndrome hemolítico urémico (SHU). Se cree que los antibióticos favorecen la liberación masiva de toxina Shiga al lisar las bacterias, potenciando el daño endotelial renal.",
+   "incorrectas": {
+    "A": "La diarrea del viajero grave (con fiebre alta, diarrea sanguinolenta o más de 8 deposiciones/día) sí es indicación de antibioterapia empírica (fluoroquinolonas o azitromicina), especialmente si compromete el estado general.",
+    "C": "Los pacientes inmunodeprimidos con diarrea aguda son candidatos a tratamiento antibiótico empírico precoz, ya que tienen mayor riesgo de bacteriemia y complicaciones sistémicas.",
+    "D": "Los portadores de prótesis valvular cardiaca con diarrea aguda bacteriana tienen indicación de antibioterapia empírica por el riesgo de bacteriemia secundaria y endocarditis sobre la prótesis."
+   }
+  }
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué respuesta es INCORRECTA respecto a la infección urinaria?",
+  "opciones": {
+   "A": "En mujeres jóvenes la principal causa de cistitis tiene que ver con relaciones sexuales y causada por E. coli.",
+   "B": "Se han reducido las pautas de antibioterapia de 7 día a 3 días en cistitis no complicada.",
+   "C": "Es preciso hacer tratamiento de la bacteriuria asintomática en los pacientes ancianos sean o no portadores de sonda vesical.",
+   "D": "Se recomienda detección de bacteriuria asintomática en gestantes en el primer trimestre de la gestación."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 77, "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "La opción C es INCORRECTA porque las guías clínicas actuales NO recomiendan tratar la bacteriuria asintomática en pacientes ancianos, ni siquiera en portadores de sonda vesical (excepto antes de procedimientos urológicos invasivos). Tratar la bacteriuria asintomática en estos pacientes no reduce la morbimortalidad y favorece la selección de resistencias bacterianas.",
+   "incorrectas": {
+    "A": "Es correcta: la cistitis en mujeres jóvenes sexualmente activas (cistitis de luna de miel) está principalmente relacionada con la actividad sexual y E. coli es el agente causal más frecuente (80-85% de los casos).",
+    "B": "Es correcta: en la cistitis no complicada de la mujer se han acortado los regímenes antibióticos de 7 días a pautas de 3 días (o incluso monodosis según el antibiótico), manteniendo la eficacia con menos efectos secundarios.",
+    "D": "Es correcta: el cribado y tratamiento de la bacteriuria asintomática en gestantes está recomendado en el primer trimestre (entre las semanas 12-16), ya que si no se trata evoluciona a pielonefritis en el 20-40% de los casos y se asocia a parto prematuro y bajo peso al nacer."
+   }
+  }
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Ante la llegada a Urgencias de un paciente en coma encontrado por sus compañeros en la plantación agrícola en la que trabaja de temporero y con las siguientes constates: TA: 92/61 mmHg, FC: 116 lpm, FR: 16 rpm y Tª de 39.8ºC. NO será un diagnóstico diferencial:",
+  "opciones": {
+   "A": "Intoxicación por pesticidas órgano-fosforados.",
+   "B": "Golpe de calor.",
+   "C": "Síndrome neuroléptico maligno.",
+   "D": "Sepsis."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "La intoxicación por organofosforados NO es compatible con el cuadro descrito porque produce el síndrome muscarínico (bradicardia, miosis, broncospasmo, hipersalivación, sudoración, bradicardia). La taquicardia (FC 116 lpm) y la hipertermia son opuestas al cuadro colinérgico clásico que produce bradicardia y no hipertermia significativa. Por tanto, no encaja en el diagnóstico diferencial con las constantes presentadas.",
+   "incorrectas": {
+    "B": "El golpe de calor es un diagnóstico diferencial muy probable: trabajador agrícola expuesto a calor, hipotensión, taquicardia, fiebre alta (39.8°C) y alteración del nivel de conciencia (coma) son la presentación típica del golpe de calor clásico.",
+    "C": "El síndrome neuroléptico maligno puede considerarse si el paciente toma antipsicóticos (no descartable sin más datos), con hipertermia, rigidez, alteración del nivel de conciencia y disautonomía, aunque es menos probable dada la exposición laboral.",
+    "D": "La sepsis es un diagnóstico diferencial prioritario ante coma, hipotensión, taquicardia y fiebre alta; los criterios del caso (TA 92/61, FC 116, Tª 39.8) cumplen criterios de shock séptico y debe descartarse activamente."
+   }
+  }
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "En el tratamiento de la Preeclampsia grave ¿cuál de los siguientes considera el tratamiento MENOS adecuado?",
+  "opciones": {
+   "A": "Hidralazina",
+   "B": "Nitroprusiato",
+   "C": "Diazoxido",
+   "D": "Labetalol"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 78, "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."},
+  "explicacion": {
+   "correcta": "El diazóxido (vasodilatador arteriolar) es el fármaco MENOS adecuado en la preeclampsia grave porque puede producir hipotensión brusca y severa con riesgo de hipoperfusión fetoplacentaria, y además puede inhibir las contracciones uterinas y favorecer la hiperglucemia neonatal. Actualmente ha sido desplazado por fármacos con mejor perfil de seguridad en el embarazo.",
+   "incorrectas": {
+    "A": "La hidralazina IV es uno de los fármacos de primera línea recomendados para el tratamiento de la hipertensión grave en la preeclampsia, con larga experiencia de uso y aceptable perfil de seguridad fetal.",
+    "B": "El nitroprusiato sódico es un vasodilatador potente de uso en urgencias hipertensivas; aunque puede emplearse en situaciones extremas, su uso se limita por el riesgo de toxicidad por tiocianato en el feto, pero no es la respuesta MENOS adecuada comparada con el diazóxido.",
+    "D": "El labetalol IV (alfabetabloqueante) es uno de los antihipertensivos de primera elección en la preeclampsia grave, con buena eficacia y perfil de seguridad en el embarazo."
+   }
+  }
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "¿Qué respuesta es INCORRECTA respecto al hemotórax?",
+  "opciones": {
+   "A": "La TBC es la etiología más frecuente.",
+   "B": "Presencia en líquido pleural un Hto>50% de los valores en sangre periférica.",
+   "C": "Si inestabilidad hemodinámica, colocación de un tubo de torax de grueso calibre.",
+   "D": "Suele precisar tratamiento coadyuvante con antibioterapia por riesgo de infección."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 58, "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."},
+  "explicacion": {
+   "correcta": "La opción A es INCORRECTA porque la causa más frecuente de hemotórax es el traumatismo torácico (accidental o iatrogénico), no la tuberculosis. La TBC puede causar derrame pleural exudativo o empiema, pero no es la etiología más frecuente de hemotórax. Otras causas incluyen la neoplasia pleural, la rotura de aneurisma o complicaciones de procedimientos invasivos.",
+   "incorrectas": {
+    "B": "Es correcto: el criterio diagnóstico de hemotórax es que el hematocrito del líquido pleural sea superior al 50% del hematocrito de la sangre periférica; con ello se diferencia de un derrame serosanguinolento.",
+    "C": "Es correcto: ante hemotórax con inestabilidad hemodinámica el tratamiento es la colocación de un tubo de tórax de grueso calibre (28-36 Fr) para evacuar la sangre y controlar el débito; si éste supera 1500 mL iniciales o 200 mL/hora se considera hemotórax masivo con indicación quirúrgica.",
+    "D": "Es correcto: el hemotórax no evacuado correctamente puede infectarse y dar lugar a un empiema pleural, por lo que en algunos protocolos se asocia antibioterapia profiláctica, especialmente en los traumáticos."
+   }
+  }
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Indique qué entidad clínica de las siguientes inducidas por calor conlleva en su fisiopatología la alteración de la termorregulación y pérdida de capacidad para la sudoración o anhidrosis:",
+  "opciones": {
+   "A": "Calambres por calor.",
+   "B": "Síncope por calor.",
+   "C": "Golpe de calor clásico.",
+   "D": "Agotamiento o colapso por calor."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 99, "tema": "Hipertermia: golpe de calor, hipertermia maligna, síndrome neuroléptico maligno. Diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "El golpe de calor clásico (no de esfuerzo) es la única entidad inducida por calor en la que existe un fallo del mecanismo termorregulador con anhidrosis (incapacidad para sudar). Esto diferencia al golpe de calor del agotamiento por calor, donde la sudoración está preservada o incluso es profusa. La piel caliente y seca junto con temperatura corporal mayor de 40°C y alteración del nivel de conciencia son la tríada diagnóstica del golpe de calor clásico.",
+   "incorrectas": {
+    "A": "Los calambres por calor se producen por pérdida de electrolitos (sodio) a través del sudor durante ejercicio intenso en calor; la termorregulación y la capacidad de sudoración están conservadas.",
+    "B": "El síncope por calor es un episodio de pérdida transitoria de la conciencia por vasodilatación periférica e hipotensión ortostática en ambientes calurosos; la termorregulación está intacta y el paciente puede sudar.",
+    "D": "El agotamiento o colapso por calor se caracteriza por sudoración profusa, deshidratación, temperatura corporal normal o ligeramente elevada y sin alteración grave del nivel de conciencia; la capacidad sudoral está conservada, lo opuesto al golpe de calor."
+   }
+  }
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Varón de 73 años, con antecedentes de EPOC, miocardiopatia hipertensiva y disfunción de ventrículo izquierdo, es traido a Urgencias por aumento de disnea con importante trabajo respiratorio, utilización de musculatura accesoria, edemas en extremidades inferiores y tendencia al sueño. Se extrae gasometría arterial basal: pH 7.30, pO2 51, pCO2 80. ¿Cuál de las siguientes propuestas sería la más adecuada para este paciente?",
+  "opciones": {
+   "A": "Iniciar VMNI en modo CPAP.",
+   "B": "Iniciar VMNI con Bousignac.",
+   "C": "Iniciar VMNI modo BiPAP.",
+   "D": "Preparar para intubación orotraqueal."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 105, "tema": "Ventilación mecánica no invasiva en urgencias."},
+  "explicacion": {
+   "correcta": "El paciente presenta una insuficiencia respiratoria hipercápnica aguda (pH 7.30, pCO2 80 mmHg) en contexto de EPOC descompensado y probable insuficiencia cardíaca congestiva. El modo BiPAP (Bilevel Positive Airway Pressure) de la VMNI es el indicado en este caso porque proporciona dos niveles de presión: IPAP (inspiratoria) que descarga los músculos respiratorios y mejora la ventilación alveolar reduciendo la hipercapnia, y EPAP (espiratoria) que evita el colapso alveolar. Es el modo de elección en la insuficiencia respiratoria hipercápnica.",
+   "incorrectas": {
+    "A": "La CPAP (presión positiva continua) proporciona un único nivel de presión y es especialmente útil en el edema agudo de pulmón cardiogénico puro (insuficiencia respiratoria hipoxémica), pero no descarga eficazmente los músculos respiratorios ni corrige la hipercapnia como lo hace el BiPAP.",
+    "B": "El sistema Boussignac es un dispositivo de CPAP de bajo coste para uso prehospitalario o puente, pero no permite el ajuste de niveles de presión diferenciados para corregir la hipercapnia, por lo que es inferior al BiPAP en este paciente.",
+    "D": "La intubación orotraqueal está indicada si fracasa la VMNI o si hay contraindicaciones absolutas para ella. Dado que el paciente mantiene cierto nivel de conciencia (tendencia al sueño pero no coma) y no tiene criterios absolutos de intubación inmediata, debe intentarse primero la VMNI en modalidad BiPAP antes de proceder a la intubación."
+   }
+  }
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Respecto al tratamiento en la pancreatitis aguda señale la respuesta correcta:",
+  "opciones": {
+   "A": "Actualmente se recomienda tratamiento antibiótico profiláctico.",
+   "B": "En caso de vómitos o sensación nauseosa se puede pautar ondansetrón vía oral.",
+   "C": "Los fármacos espasmolíticos en la pancreatitis estarían indicados en caso de aparición de íleo paralítico.",
+   "D": "Las alteraciones hidroelectrolíticas deben ser corregidas al momento de ser detectadas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 63, "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "La corrección precoz e inmediata de las alteraciones hidroelectrolíticas es una de las piedras angulares del tratamiento de la pancreatitis aguda, junto con la fluidoterapia agresiva. Los desequilibrios electrolíticos (hipocalcemia, hipopotasemia) y la deshidratación deben corregirse sin demora para prevenir complicaciones sistémicas y mantener la perfusión pancreática.",
+   "incorrectas": {
+    "A": "Las guías actuales NO recomiendan el uso de antibióticos profilácticos en la pancreatitis aguda, ni siquiera en las formas graves, ya que los ensayos clínicos no han demostrado beneficio y aumentan el riesgo de infecciones fúngicas y resistencias bacterianas.",
+    "B": "En la pancreatitis aguda con vómitos el ondansetrón debe administrarse por VÍA INTRAVENOSA, no oral, ya que el paciente debe permanecer en dieta absoluta o con ingesta mínima y suele tener náuseas y vómitos que impiden la absorción oral.",
+    "C": "Los espasmolíticos no están indicados en el íleo paralítico asociado a pancreatitis; de hecho, el íleo paralítico se trata con reposo digestivo, fluidoterapia y corrección electrolítica, no con espasmolíticos que no tienen eficacia en este contexto."
+   }
+  }
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2022 (OPE 2017-2019)",
+  "enunciado": "Según la escala de Glasgow-Blatchford, NO deberemos realizar una endoscopia de urgencia o diferida en las primeras 24 horas cuando la puntuación sea:",
+  "opciones": {
+   "A": "0 puntos.",
+   "B": "Mayor de 1 punto.",
+   "C": "Mayor de 3 puntos.",
+   "D": "Mayor de 5 puntos."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 61, "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."},
+  "explicacion": {
+   "correcta": "La escala de Glasgow-Blatchford (GBS) estratifica el riesgo en la hemorragia digestiva alta. Una puntuación de 0 identifica a pacientes de muy bajo riesgo que pueden ser manejados de forma ambulatoria sin necesidad de endoscopia urgente ni ingreso hospitalario. Con GBS = 0 la probabilidad de necesitar intervención endoscópica o quirúrgica es mínima y el manejo ambulatorio es seguro.",
+   "incorrectas": {
+    "B": "Una puntuación mayor de 1 punto no es el umbral correcto; el único umbral que permite diferir o evitar la endoscopia urgente es la puntuación de 0, ya que ya con 1 punto el paciente deja de ser bajo riesgo.",
+    "C": "Una puntuación mayor de 3 puntos corresponde a pacientes de riesgo intermedio-alto que sí requieren endoscopia, por lo que no se puede evitar la exploración con este umbral.",
+    "D": "Una puntuación mayor de 5 puntos indica riesgo elevado con alta probabilidad de necesitar intervención endoscópica; no es el umbral correcto para evitar la endoscopia."
+   }
+  }
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Un niño de 7 años es trasladado al Servicio de Urgencias por sus padres, varios minutos después de caer a través de una ventana. Presenta sangrado profuso por una herida de 6 cm localizada en la región media del muslo derecho. El manejo inmediato de la herida consiste en:",
+  "opciones": {
+   "A": "Aplicar presión directa en la arteria femoral a nivel de la ingle.",
+   "B": "Aplicar un torniquete.",
+   "C": "Desbridar el tejido desvitalizado.",
+   "D": "Compresión manual directa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de las siguientes características, en la exploración física, NO suele estar presente en un paciente con sospecha de shock?",
+  "opciones": {
+   "A": "Palidez y frialdad cutánea.",
+   "B": "Oliguria (diuresis < 0,5 mL/kg/h).",
+   "C": "Relleno capilar menor de 2 segundos.",
+   "D": "Alteración del estado de conciencia (obnubilación, confusión)."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Paciente varón de 57 años que consulta en el Servicio de Urgencias por sufrir, de madrugada, dolor epigástrico súbito asociado a náuseas y vómitos de sangre, con deposiciones melénicas. Niega toma de antiinflamatorios no esteroideos de forma habitual. ¿Cuál de las siguientes actuaciones NO estaría indicada?",
+  "opciones": {
+   "A": "Colocar de forma rutinaria una sonda nasogástrica para lavados con suero frío.",
+   "B": "Canalizar 2 vías periféricas de calibre grueso, que permitan la infusión rápida.",
+   "C": "Reponer la volemia con cristaloides.",
+   "D": "Solicitar sangre en reserva (al menos 2 concentrados de hematíes)."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación con el reinicio de tratamiento antiagregante y anticoagulante tras hemorragia digestiva aguda gastrointestinal, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "En los pacientes con doble tratamiento antiagregante, se recomienda mantener la antiagregación con ácido acetilsalicílico y suspender el clopidogrel durante un periodo corto de tiempo, ya que esto no aumenta significativamente el riesgo de complicaciones cardiovasculares.",
+   "B": "Se recomienda reiniciar el tratamiento anticoagulante en pacientes con riesgo tromboembólico bajo en los primeros 3 días después del episodio hemorrágico.",
+   "C": "En los pacientes con estigmas de hemostasia reciente, puede reiniciarse el tratamiento antiagregante de forma segura a partir del tercer día después de la endoscopia.",
+   "D": "Los pacientes con un riesgo tromboembólico moderado o alto, son los que se podrían beneficiar del reinicio más precoz de la anticoagulación."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Paciente de 72 años con implante de marcapasos una semana antes de la asistencia en Urgencias. Acude consultando por mareos y palpitaciones ocasionales. No síncope. No disnea. No dolor torácico. Se ingresa con monitorización electrocardiográfica, que se muestra en la siguiente imagen: ¿Cuál de los siguientes es el diagnóstico correcto?",
+  "opciones": {
+   "A": "Fallo de captura ventricular",
+   "B": "Fallo de estimulación.",
+   "C": "Infradetección.",
+   "D": "Marcapasos normofuncionante."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Acude a Urgencias un paciente con historia previa de ingesta habitual de alcohol que presenta deterioro clínico importante, ascitis a tensión, ictericia y cuadro clínico de encefalopatía hepática, sin diagnóstico previo conocido. ¿Cuál de las siguientes afirmaciones es la correcta?",
+  "opciones": {
+   "A": "No se debe realizar paracentesis evacuadora, tan solo diagnóstica, hasta obtener el diagnóstico etiológico de la hepatopatía del paciente.",
+   "B": "Solo se debe realizar la paracentesis una vez descartada la PBE (peritonitis bacteriana espontánea), por el riesgo de diseminación.",
+   "C": "Hasta obtener un diagnóstico específico de la hepatopatía, no se debe realizar paracentesis evacuadora, ante el riesgo de enfermedad que contraindique la paracentesis.",
+   "D": "Se debe realizar paracentesis diagnóstica por ser un primer episodio de ascitis, y además evacuadora si la situación clínica del paciente así lo precisa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "De los siguientes, ¿cuál es un criterio electrocardiográfico mayor de alto riesgo en un paciente con síncope?",
+  "opciones": {
+   "A": "Patrones atípicos de Brugada.",
+   "B": "Bradicardia sinusal asintomática.",
+   "C": "Bloqueo AV de segundo grado Mobitz II o de tercer grado.",
+   "D": "Ondas épsilon sugestivas de miocardiopatía arritmogénica ventricular derecha."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de las siguientes pruebas de imagen NO está indicada para el estudio de un posible cuerpo extraño a nivel esofágico?",
+  "opciones": {
+   "A": "Radiografía anteroposterior y lateral de cuello con técnica de partes blandas.",
+   "B": "Radiografía posteroanterior y lateral de tórax.",
+   "C": "Tomografía computarizada.",
+   "D": "Estudio radiológico con bario."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el diagnóstico radiológico de la obstrucción intestinal, ¿cuál de las siguientes asociaciones NO es correcta?",
+  "opciones": {
+   "A": "Asas distendidas de localización periférica, con evidencia de haustras, sugiere obstrucción de intestino grueso.",
+   "B": "El signo del asa centinela sugiere la presencia de un vólvulo.",
+   "C": "La presencia de aerobilia, con o sin cálculo, generalmente de localización en la válvula ileocecal, junto a niveles hidroaéreos de localización central, sugieren íleo biliar.",
+   "D": "Asas distendidas de localización central, con válvulas o pliegues de Kerckring y ausencia de gas en colon y recto, sugieren obstrucción de intestino delgado."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Con respecto a los criterios de gravedad de pancreatitis aguda, según BISAP (Beside Index of Severity in Acute Pancreatitis), ¿cuál de los siguientes es FALSO?",
+  "opciones": {
+   "A": "Edad mayor de 50 años.",
+   "B": "Disminución del estado de conciencia.",
+   "C": "Presencia de derrame pleural en la radiografía de tórax.",
+   "D": "Síndrome de respuesta inflamatoria sistémica definido por la presencia de dos o más de los siguientes criterios: FC > 90 lpm; temperatura > 38ºC o < 36ºC; FR > 20 rpm o PaCO2 inferior a 32 mmHg; leucocitos > 12.000 o inferior a 4.000, o más de un 10% de cayados."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el taponamiento cardiaco ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "El diagnóstico siempre se debe realizar a través de pruebas de imagen, como la Resonancia Nuclear Magnética o la Tomografía Axial Computarizada.",
+   "B": "Ante la sospecha de taponamiento, se debe hacer un ecocardiograma para evaluar el tamaño, la localización y el impacto hemodinámico.",
+   "C": "La pericardiocentesis guiada por ecocardiograma es la técnica de elección habitual para el drenaje.",
+   "D": "El abordaje quirúrgico se reserva para cuatro situaciones: disección aórtica tipo A, rotura de pared libre tras infarto de miocardio, traumatismo torácico grave y reciente, y hemopericardio iatrogénico cuando el sangrado no se pueda controlar por acceso percutáneo."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Dentro de los síntomas clásicos del derrame pericárdico se encuentran todos los siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Fiebre.",
+   "B": "Disnea de esfuerzo.",
+   "C": "Ortopnea.",
+   "D": "Dolor torácico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En un paciente con clínica de dolor torácico asociado a roce pericárdico, elevación del segmento ST y derrame pericárdico, junto con elevación de marcadores de daño miocárdico, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "Se recomienda la Resonancia Magnética cardiaca para confirmar afección miocárdica.",
+   "B": "Se recomienda hospitalización para el diagnóstico y la monitorización de los pacientes con afección miocárdica.",
+   "C": "La afección miocárdica en la pericarditis tiene mal pronóstico, y evoluciona hacia insuficiencia cardiaca o muerte.",
+   "D": "Los corticoides se prescriben como segunda opción en casos de contraindicación, intolerancia o fracaso del AAS o los AINE."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En paciente con diagnóstico de hepatopatía crónica asociada a hipertensión portal, que acude a Urgencias por presentar cambios de la personalidad o disminución de la memoria, desorientación temporoespacial, bradipsiquia y asterixis, ¿cuál es el grado de encefalopatía en el que podemos clasificar al paciente?",
+  "opciones": {
+   "A": "Encefalopatía grado I.",
+   "B": "Encefalopatía grado II.",
+   "C": "Encefalopatía grado III.",
+   "D": "Encefalopatía grado IV."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el paciente con cirrosis hepática, señale la respuesta verdadera:",
+  "opciones": {
+   "A": "Los diuréticos recomendados incluyen Espironolactona, de 50 a 200 mg/día, y Amilorida, de 5 a 10 mg/día.",
+   "B": "La Lactulosa es la base del tratamiento para la encefalopatía hepática, y se administra por vía oral o bien, por sonda nasogástrica.",
+   "C": "El Acetaminofeno se puede usar para aliviar el dolor a corto plazo, a una dosis reducida de 2 g en total por día.",
+   "D": "Todas las anteriores son verdaderas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el tratamiento de la diarrea aguda en el niño, solo una de las medidas propuestas es correcta:",
+  "opciones": {
+   "A": "Hay que recomendar una dieta astringente pobre en fibra hasta su resolución.",
+   "B": "Se recomienda la retirada de la lactancia materna en los lactantes.",
+   "C": "Se debe recomendar rehidratación oral durante 4-6 horas, y realimentación posterior con dieta normal evitando los períodos prolongados de ayuno.",
+   "D": "Se recomienda reducir de entrada el aporte de lactosa los primeros días de la diarrea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Con respecto a la definición de síncope, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El síncope es consecuencia de una caída de la presión arterial sistémica con reducción general del flujo sanguíneo cerebral.",
+   "B": "Se caracteriza por amnesia durante el periodo de inconsciencia, control motor anómalo, falta de respuesta y duración corta.",
+   "C": "El síncope se origina como consecuencia de una actividad cerebral excesivamente anormal.",
+   "D": "La recuperación del síncope se produce de forma espontánea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el tratamiento del edema agudo de pulmón, ¿cuál de los siguientes NO corresponde a uno de los tres pilares básicos?",
+  "opciones": {
+   "A": "El oxígeno, administrado como presión positiva continua en las vías respiratorias, ventilación con presión positiva no invasiva y/o cánula nasal de alto flujo.",
+   "B": "La Dopamina, como tratamiento vasopresor de primera línea en caso de edema agudo de pulmón con gasto cardíaco bajo.",
+   "C": "El tratamiento con diuréticos intravenosos (iv).",
+   "D": "El tratamiento con vasodilatadores iv si la presión arterial sistólica es alta."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el diagnóstico diferencial del dolor abdominal en niños, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opciones": {
+   "A": "La torsión testicular/ovárica es la patología quirúrgica más frecuente en edad escolar.",
+   "B": "En las niñas en edad puberal, se debe incluir siempre un test de embarazo.",
+   "C": "En la invaginación intestinal nunca se objetivan productos patológicos (sangre o moco) en las heces.",
+   "D": "La TAC abdominal es la prueba de imagen a realizar de forma rutinaria en todo proceso abdominal del niño."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación con las dosificaciones de fármacos en pediatría, ¿cuál de las siguientes respuestas es FALSA?",
+  "opciones": {
+   "A": "Debería utilizarse, siempre que sea posible, la vía de administración menos cruenta.",
+   "B": "Debemos esperar al diagnóstico etiológico antes de iniciar el tratamiento analgésico.",
+   "C": "Se debe reevaluar el efecto y cambio en la intensidad del dolor tras 30-60 minutos de administrar el analgésico.",
+   "D": "Si en la reevaluación del dolor no se objetiva mejoría, valorar cambiar la pauta escogida."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Entre los aspectos más destacados en soporte vital avanzado, según las Guías Clínicas del ERC 2021, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+  "opciones": {
+   "A": "La prioridad son las compresiones torácicas de alta calidad con las mínimas interrupciones, la desfibrilación precoz, y el tratamiento de las causas reversibles.",
+   "B": "Los pacientes con parada cardiaca, tanto intrahospitalaria como extrahospitalaria, no presentan signos premonitorios.",
+   "C": "Administrar adrenalina de forma precoz para la parada cardiaca no desfibrilable.",
+   "D": "Utilice técnicas de vía aérea básica o avanzada. Solo los reanimadores con una elevada tasa de éxito deben intentar la intubación traqueal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de estos factores se considera de riesgo para infección por enterobacterias productoras de BLEE (β-lactamasas de espectro extendido)?",
+  "opciones": {
+   "A": "Edad > de 65 años.",
+   "B": "Hipertensión arterial.",
+   "C": "Tratamiento antibiótico en los 12 meses previos.",
+   "D": "Ser personal sanitario."
+  },
+  "respuesta_correcta": "A"
+ }
+]

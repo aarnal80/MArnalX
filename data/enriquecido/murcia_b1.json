@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a síndrome febril en los pacientes usuarios de drogas por vía parenteral señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El tratamiento de elección en un paciente con endocarditis y usuario de drogas por vía parenteral es cloxacilina y ceftriaxona.",
+   "B": "La candida es el germen más frecuentemente involucrado en los pacientes consumidores de heroína por vía parenteral.",
+   "C": "La leishmania presenta una vía de entrada por el intercambio de útiles de inyección.",
+   "D": "Dentro de las causas frecuentes de síndrome febril en los usuarios de drogas vía parenteral y además infección conocida por VIH se encuentra la tuberculosis."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+  },
+  "explicacion": {
+   "correcta": "La opción A es FALSA porque en la endocarditis por drogas por vía parenteral el germen más frecuente es Staphylococcus aureus, por lo que el tratamiento de elección sería la cloxacilina o vancomicina (si se sospecha MRSA), no la combinación de cloxacilina con ceftriaxona. La ceftriaxona se reserva para endocarditis estreptocócica. La pregunta pide la respuesta falsa, por tanto A es la respuesta correcta al examen.",
+   "incorrectas": {
+    "B": "La afirmación sobre Candida es VERDADERA. Los consumidores de heroína por vía parenteral (especialmente la heroína marrón disuelta con zumo de limón) tienen alta incidencia de candidiasis diseminada, siendo Candida uno de los gérmenes más frecuentemente implicados en este grupo, por lo que no es la respuesta falsa.",
+    "C": "La afirmación sobre Leishmania es VERDADERA. Leishmania puede transmitirse por compartir jeringuillas e instrumental de inyección, ya que el parásito puede estar presente en sangre de individuos infectados. Esta es una vía de transmisión bien documentada en usuarios de drogas intravenosas, especialmente en áreas endémicas.",
+    "D": "La afirmación sobre la tuberculosis es VERDADERA. Los usuarios de drogas por vía parenteral con infección por VIH tienen una incidencia muy elevada de tuberculosis, siendo esta una de las infecciones oportunistas más frecuentes en este grupo de pacientes. Por tanto, no constituye la respuesta falsa."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En un/a paciente en coma, que presenta midriasis arreactiva unilateral, sugiere:",
+  "opciones": {
+   "A": "Lesión bulbar.",
+   "B": "Lesión en el mesencéfalo.",
+   "C": "Herniación del uncus del temporal.",
+   "D": "Lesión del VI par craneal."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La herniación del uncus del lóbulo temporal comprime directamente el nervio oculomotor (III par craneal), que discurre entre el uncus y el borde libre del tentorio. Esta compresión provoca parálisis del III par ipsilateral con midriasis fija y arreactiva unilateral, que es el signo clásico de herniación uncal inminente. Es una urgencia neuroquirúrgica extrema.",
+   "incorrectas": {
+    "A": "La lesión bulbar no produce midriasis unilateral arreactiva. Las lesiones del bulbo raquídeo se asocian con alteraciones de funciones vitales como la respiración y la circulación, síndrome de Horner ipsilateral (miosis, ptosis, enoftalmos) o nistagmo, pero no con midriasis arreactiva unilateral.",
+    "B": "Las lesiones mesencefálicas pueden alterar las pupilas, pero típicamente producen pupilas en posición media (3-5 mm) y fijas o con reflejos alterados bilateralmente (pupilas mesencefálicas), no midriasis unilateral aislada. La midriasis unilateral aislada en coma apunta a compresión del III par, no a lesión mesencefálica directa.",
+    "D": "El VI par craneal (nervio motor ocular externo o abducens) controla el músculo recto externo del ojo y su lesión produce diplopía horizontal y estrabismo convergente, pero no afecta al tamaño ni reactividad pupilar. La midriasis es función del III par craneal (oculomotor), no del VI par."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, en su artículo 22 establece 3 excepciones a la voluntariedad de los reconocimientos médicos para los trabajadores. Indique cuál NO es una de ellas:",
+  "opciones": {
+   "A": "Para evaluar las incidencias advertidas por el responsable del servicio, en el ejercicio de sus facultades de supervisión y ordenación de los recursos humanos.",
+   "B": "Para verificar si el estado de salud del trabajador puede constituir un peligro para él mismo, para los demás trabajadores o para otras personas relacionadas con la empresa.",
+   "C": "Cuando así esté establecido en una disposición legal en relación con la protección de riesgos específicos y actividades de especial peligrosidad.",
+   "D": "Para evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "La opción A no es una excepción reconocida en el artículo 22 de la Ley 31/1995 de Prevención de Riesgos Laborales. La supervisión del responsable de servicio en materia de recursos humanos no constituye causa legalmente prevista para imponer reconocimientos médicos obligatorios. Las excepciones a la voluntariedad están tasadas y limitadas a los supuestos de los apartados B, C y D.",
+   "incorrectas": {
+    "B": "Esta es una excepción real contemplada en el artículo 22 de la Ley 31/1995. Cuando el estado de salud del trabajador pueda suponer un peligro para él mismo, para sus compañeros o para terceros, el reconocimiento médico puede ser obligatorio. Por tanto, sí es una excepción válida.",
+    "C": "Esta es otra excepción real prevista en el artículo 22 de la Ley de Prevención de Riesgos Laborales. La normativa específica para determinadas actividades de especial peligrosidad (manipulación de alimentos, radiaciones ionizantes, etc.) puede establecer la obligatoriedad del reconocimiento médico.",
+    "D": "Esta es una excepción real recogida en el artículo 22 de la Ley 31/1995. Cuando sea necesario evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores, el reconocimiento puede tener carácter obligatorio, siempre con las garantías de respeto a la intimidad y dignidad del trabajador."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Ante un paciente con agitación psicomotriz, curso fluctuante y fiebre, ¿cuál de las siguientes actuaciones le parece correcta en los Servicios de Urgencias?:",
+  "opciones": {
+   "A": "Diagnosticarla de origen psiquiátrico.",
+   "B": "Sospechar de una causa orgánica del mismo.",
+   "C": "Realizar un TAC craneal.",
+   "D": "B y C son correctas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Ante un paciente con agitación psicomotriz, curso fluctuante y fiebre, la actitud correcta es sospechar causa orgánica (síndrome confusional agudo o delirium) y realizar un TAC craneal como parte del estudio. La fiebre y el curso fluctuante son datos claramente sugestivos de etiología orgánica (infección del SNC, encefalitis, etc.). Ambas conductas (B y C) son necesarias y complementarias en urgencias.",
+   "incorrectas": {
+    "A": "Diagnosticar de inicio la agitación como de origen psiquiátrico es incorrecto y potencialmente peligroso cuando hay fiebre y curso fluctuante. Estos datos orientan hacia causa orgánica (delirium), que debe descartarse siempre antes de atribuir un cuadro a patología psiquiátrica primaria. Un diagnóstico psiquiátrico precipitado puede retrasar el tratamiento de una infección grave del SNC.",
+    "B": "Aunque sospechar causa orgánica es correcto (y forma parte de la respuesta D), la opción B por sí sola es incompleta. En urgencias no basta con sospechar: es imprescindible actuar con pruebas diagnósticas, entre ellas el TAC craneal. Por ello la respuesta completa es D.",
+    "C": "Aunque realizar el TAC craneal es correcto (y forma parte de la respuesta D), la opción C por sí sola es incompleta. El TAC se encuadra dentro de la sospecha y estudio de causa orgánica, y no puede disociarse de la actitud clínica global expresada en B. La respuesta más completa y correcta es D."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Entre las manifestaciones clínicas de una quemadura eléctrica (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Quemadura cutánea.",
+   "B": "Fibrilación ventricular.",
+   "C": "Luxaciones articulares.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 98,
+   "tema": "Lesiones por agentes físicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."
+  },
+  "explicacion": {
+   "correcta": "Las quemaduras eléctricas producen un espectro amplio de lesiones que incluye quemaduras cutáneas en los puntos de entrada y salida de la corriente, arritmias cardiacas potencialmente letales como la fibrilación ventricular (la corriente alterna de 50-60 Hz es especialmente arritmogénica), y luxaciones articulares o fracturas por las potentes contracciones musculares tetánicas que genera la descarga. Por tanto, las tres opciones son manifestaciones clínicas reales.",
+   "incorrectas": {
+    "A": "La quemadura cutánea es una manifestación real de la electrocución, pero no es la única. Considerar solo la lesión cutánea subestimaría la gravedad de la lesión eléctrica, que puede producir daños cardiacos, musculares y esqueléticos. La respuesta completa es D.",
+    "B": "La fibrilación ventricular es una manifestación real y grave de la electrocución, pero no es la única. La corriente eléctrica puede producir simultáneamente quemaduras, arritmias y lesiones musculoesqueléticas. La respuesta completa es D.",
+    "C": "Las luxaciones articulares son una manifestación real por la violenta contracción muscular tetánica, pero no es la única consecuencia de la electrocución. La respuesta completa incluye también las quemaduras cutáneas y las arritmias, por lo que la opción correcta es D."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De las siguientes afirmaciones sobre la hemorragia subaracnoidea espontánea (HSA), señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "La ausencia de signos meníngeos descarta la HSA.",
+   "B": "El líquido cefalorraquídeo (LCR), macroscópicamente, puede ser hemorrágico o no.",
+   "C": "El TC craneal urgente realizado en las primeras 24h de evolución, diagnostica hasta el 80% de los casos.",
+   "D": "La determinación del Dímero D en LCR no es útil en la rutina diagnóstica de la HSA."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El LCR en la HSA puede ser macroscópicamente hemorrágico (sangre fresca) en las primeras horas, o xantocrómico (amarillento por degradación de la hemoglobina) a partir de las 2-4 horas y durante semanas. Si el sangrado es pequeño, el LCR puede incluso parecer normal macroscópicamente y precisar análisis microscópico o espectrofotometría para detectar xantocromía. Por tanto, el aspecto macroscópico del LCR es variable.",
+   "incorrectas": {
+    "A": "La ausencia de signos meníngeos NO descarta la HSA. La rigidez de nuca y los signos de Kernig y Brudzinski pueden estar ausentes en las primeras horas del cuadro, especialmente en HSA de pequeño volumen o en pacientes con alteración del nivel de conciencia. La sospecha clínica debe mantenerse aunque el examen meníngeo sea negativo.",
+    "C": "El TC craneal realizado en las primeras 24 horas diagnostica aproximadamente el 90-98% de los casos de HSA (no el 80%). La sensibilidad del TC disminuye con el tiempo: a las 24h detecta hasta el 98%, a los 3 días el 85-90%, y a la semana solo el 50%. Esta es la razón por la que ante TC negativo con alta sospecha clínica se recomienda punción lumbar.",
+    "D": "El Dímero D en LCR sí tiene cierta utilidad diagnóstica en la HSA, ya que está elevado en los pacientes con hemorragia subaracnoidea y puede ayudar a diferenciar HSA de punción traumática (en la punción traumática el Dímero D no suele elevarse en LCR). Aunque no es una prueba de uso rutinario generalizado, la afirmación de que no es útil es inexacta."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la opción FALSA con respecto a las arritmias que pueden aparecer en la fase aguda del infarto:",
+  "opciones": {
+   "A": "El RIVA suele indicar reperfusión y no precisa tratamiento específico.",
+   "B": "La aparición de un bloqueo AV que responda favorablemente a atropina hace pensar en origen suprahisiano.",
+   "C": "La fibrilación ventricular es la causa más frecuente de muerte en el IAM antes de llegar al hospital.",
+   "D": "La aparición de una fibrilación ventricular en las primeras 12 horas de un infarto es indicación de desfibrilador automático implantable."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA. La fibrilación ventricular primaria que ocurre en las primeras 24-48 horas de un infarto agudo de miocardio (FV precoz) no es indicación de desfibrilador automático implantable (DAI). Esta FV precoz se debe al entorno eléctrico inestable de la isquemia aguda y no refleja el sustrato arrítmico crónico que justificaría el implante de un DAI. Las guías establecen que el DAI se considera en supervivientes de FV fuera del contexto de isquemia aguda o en pacientes con disfunción sistólica grave (FEVI < 35%) tras la revascularización.",
+   "incorrectas": {
+    "A": "El ritmo idioventricular acelerado (RIVA) es una arritmia benigna de complejos anchos a frecuencia de 60-100 lpm que clásicamente se asocia a reperfusión miocárdica (signo de reperfusión). No precisa tratamiento antiarrítmico específico y la opción A es verdadera.",
+    "B": "Los bloqueos AV suprahisianos (a nivel del nodo AV) responden a la atropina porque el nodo AV tiene inervación vagal. Los bloqueos infrahisianos (en el haz de His o sus ramas) generalmente no responden a la atropina. La respuesta a atropina favorece el origen suprahisiano del bloqueo, por lo que B es verdadera.",
+    "C": "La fibrilación ventricular es efectivamente la causa más frecuente de muerte súbita en el IAM antes de llegar al hospital, ya que ocurre en el contexto de inestabilidad eléctrica aguda y la mayoría de estos pacientes no reciben desfibrilación a tiempo. C es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la respuesta falsa en relación con el diazepam:",
+  "opciones": {
+   "A": "La absorción por vía intramuscular es errática.",
+   "B": "Su inicio de acción es a largo plazo superados los 60 minutos desde su toma.",
+   "C": "La vida media también es larga de 20-50 h.",
+   "D": "La dosis diaria oscila entre 4-40 mg/24h."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción B es FALSA. El diazepam no tiene inicio de acción tardío. Por vía oral, el inicio de acción es rápido, generalmente entre 15-30 minutos. Por vía intravenosa el efecto es casi inmediato. Afirmar que el inicio de acción supera los 60 minutos es incorrecto y contradice la farmacología conocida de este fármaco.",
+   "incorrectas": {
+    "A": "Es VERDAD que la absorción intramuscular del diazepam es errática e impredecible, debido a sus características fisicoquímicas (precipita en el lugar de inyección). Por esta razón, la vía IM no es la preferida para administrar diazepam; se prefiere la vía IV o rectal. Esta opción es verdadera.",
+    "C": "Es VERDAD que la vida media del diazepam es larga, entre 20 y 100 horas (con metabolito activo desmetildiazepam de vida media aún mayor). El rango de 20-50 horas mencionado es aproximado pero correcto en cuanto al orden de magnitud. Esta opción es verdadera.",
+    "D": "Es VERDAD que las dosis diarias habituales de diazepam oscilan entre 4 y 40 mg/24 horas según la indicación y el paciente. En ansiedad se usan dosis bajas (2-10 mg/día) y en convulsiones o abstinencia alcohólica pueden requerirse dosis más altas. Esta opción es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Intoxicación etílica aguda (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Puede producir coma y muerte en casos de más de 5 g/l de alcohol en sangre.",
+   "B": "Debemos controlar las cifras de glucemia.",
+   "C": "En la intoxicación grave administraremos tiamina (Vit B1).",
+   "D": "La cetoacidosis alcohólica es típica de las intoxicaciones agudas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA. La cetoacidosis alcohólica no es típica de la intoxicación etílica aguda, sino que aparece en alcohólicos crónicos tras un período de ingesta prolongada seguida de reducción brusca del consumo o ayuno. Se produce por depleción de glucógeno y aumento de cetogénesis, y generalmente se presenta con niveles de alcohol bajos o indetectables en sangre, no en la intoxicación aguda.",
+   "incorrectas": {
+    "A": "Es VERDAD que la intoxicación etílica grave con alcoholemias superiores a 4-5 g/l puede producir coma etílico profundo con depresión respiratoria y muerte. Los niveles letales varían según la tolerancia del individuo pero 5 g/l se considera un nivel potencialmente mortal. Esta opción es verdadera.",
+    "B": "Es VERDAD que debemos monitorizar la glucemia en la intoxicación etílica aguda. El alcohol inhibe la gluconeogénesis hepática y puede producir hipoglucemia grave, especialmente en ayunas o en personas con reservas de glucógeno bajas (niños, desnutridos). La hipoglucemia puede contribuir a la alteración del nivel de conciencia.",
+    "C": "Es VERDAD que en la intoxicación alcohólica grave debe administrarse tiamina (vitamina B1) antes o junto con la glucosa para prevenir la encefalopatía de Wernicke, complicación neurológica por déficit de tiamina frecuente en alcohólicos. La tiamina es imprescindible en el manejo de la intoxicación etílica grave."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Ante una paciente joven en urgencias sin antecedentes de interés que presenta cuadro de ansiedad, ¿cuál sería el tratamiento de primera elección?:",
+  "opciones": {
+   "A": "Diazepam por vía oral.",
+   "B": "Alprazolam por vía intravenosa.",
+   "C": "Diazepam por vía intramuscular.",
+   "D": "Escitalopram por vía oral."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Para una crisis de ansiedad aguda en una paciente joven sin antecedentes, el diazepam oral es el tratamiento de primera elección en urgencias. Su absorción oral es rápida y predecible, con inicio de acción en 15-30 minutos, y permite un manejo seguro y eficaz de la crisis. Las benzodiacepinas de acción rápida por vía oral son el estándar en urgencias para este cuadro.",
+   "incorrectas": {
+    "B": "El alprazolam intravenoso no está indicado como primera línea en la crisis de ansiedad aguda sin complicaciones. El alprazolam no dispone de formulación IV comercializada en España para uso rutinario. Además, la vía parenteral es innecesaria en un cuadro de ansiedad aguda sin compromiso vital en una paciente colaboradora.",
+    "C": "La vía intramuscular para el diazepam no está indicada en primera elección. Como ya se ha señalado, la absorción intramuscular del diazepam es errática e impredecible, con picos de concentración plasmática variables. La vía oral es preferible cuando el paciente está consciente y colabora.",
+    "D": "El escitalopram es un antidepresivo ISRS indicado en el tratamiento de mantenimiento del trastorno de ansiedad generalizada, pero no para el manejo agudo de una crisis de ansiedad en urgencias. Tiene un inicio de acción retardado de semanas, por lo que no es útil para aliviar la sintomatología aguda."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En un varón de 76 años, con larga historia de hipertensión arterial bien controlada con diuréticos, que desarrolla bruscamente hipertensión severa de difícil control, ¿qué situación clínica debe sospecharse?:",
+  "opciones": {
+   "A": "Hiperaldosteronismo primario.",
+   "B": "Pielonefritis.",
+   "C": "Hipertensión renovascular.",
+   "D": "Consumo de AINEs."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "La hipertensión renovascular es la causa más probable en un varón de 76 años con HTA previamente controlada que desarrolla bruscamente HTA severa de difícil control. En personas mayores, la causa más frecuente de HTA renovascular es la estenosis de arteria renal por placa aterosclerótica. La instalación brusca de resistencia a tratamiento previamente eficaz es un dato clínico clásico que debe hacer sospechar esta entidad.",
+   "incorrectas": {
+    "A": "El hiperaldosteronismo primario (síndrome de Conn) produce hipertensión arterial con hipopotasemia, pero generalmente de instauración progresiva, no brusca. Es más frecuente en personas de mediana edad y no explica el deterioro brusco del control tensional en un anciano previamente controlado con diuréticos.",
+    "B": "La pielonefritis puede elevar la tensión arterial, pero no es la causa habitual de HTA severa de difícil control. Además, la pielonefritis se acompañará de fiebre, dolor lumbar y síntomas urinarios, que no se mencionan en el enunciado. No explica el patrón descrito.",
+    "D": "Los AINEs pueden dificultar el control de la HTA por retención hidrosalina y antagonismo de los diuréticos, pero producirían un empeoramiento progresivo, no un inicio brusco de HTA severa. El enunciado señala específicamente un inicio brusco, lo que orienta más hacia una causa estructural como la estenosis de arteria renal."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En los pacientes afectos de un shock acetaldehídico (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Debe utilizarse fomepizol como antídoto.",
+   "B": "Suele producirse en pacientes en tratamiento con fármacos interdictores como el disulfiram.",
+   "C": "En su tratamiento se utilizan antihistamínicos y corticoides.",
+   "D": "Se trata de una reacción similar a la anafiláctica secundaria a una hipersensibilidad al alcohol."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La opción A es FALSA. El fomepizol es un inhibidor de la alcohol deshidrogenasa y se utiliza como antídoto en la intoxicación por metanol y etilenglicol, no en el shock acetaldehídico. El shock acetaldehídico ocurre por acumulación de acetaldehído (por inhibición de la acetaldehído deshidrogenasa por disulfiram u otros fármacos interdictores) y su tratamiento es sintomático con antihistamínicos, corticoides y soporte hemodinámico, no con fomepizol.",
+   "incorrectas": {
+    "B": "Es VERDAD que el shock acetaldehídico ocurre típicamente en pacientes en tratamiento con disulfiram (o cianamida cálcica) que consumen alcohol. El disulfiram inhibe la acetaldehído deshidrogenasa, lo que lleva a la acumulación de acetaldehído, responsable de la reacción disulfiram-alcohol. Esta opción es verdadera.",
+    "C": "Es VERDAD que el tratamiento del shock acetaldehídico incluye antihistamínicos (para contrarrestar la vasodilatación mediada por histamina) y corticoides, además de soporte hemodinámico con fluidos. Esta opción es verdadera.",
+    "D": "Es VERDAD que la reacción acetaldehídica es similar a la reacción anafiláctica (vasodilatación, hipotensión, taquicardia, rubefacción, etc.) por la acumulación de acetaldehído que libera histamina. No es una hipersensibilidad propiamente dicha, sino una reacción tóxico-farmacológica, pero clínicamente se asemeja a la anafilaxia. Esta opción es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a las crisis de ausencia típicas, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Suelen iniciarse en la infancia entre los 4 y 8 años.",
+   "B": "Pertenecen al grupo de epilepsias generalizadas genéticas.",
+   "C": "Consisten en episodios breves de disminución o abolición del estado de conciencia.",
+   "D": "A diferencia de las atípicas, suelen tener pérdida del tono postural."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 67,
+   "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA. En las crisis de ausencia TÍPICAS, el tono postural generalmente se MANTIENE; el paciente queda inmóvil pero sin caerse. Son precisamente las ausencias ATÍPICAS (y otras epilepsias generalizadas como el síndrome de Lennox-Gastaut) las que se asocian con pérdida o disminución del tono postural (crisis atónicas). La afirmación invierte la relación correcta entre típicas y atípicas.",
+   "incorrectas": {
+    "A": "Es VERDAD que las crisis de ausencia típicas se inician habitualmente en la infancia, con pico de inicio entre los 4 y 10 años. El rango mencionado (4-8 años) es aproximado pero correcto. La epilepsia ausencia infantil es el síndrome prototípico. Esta opción es verdadera.",
+    "B": "Es VERDAD que las ausencias típicas pertenecen al grupo de las epilepsias generalizadas con base genética (antes llamadas idiopáticas) según la clasificación de la ILAE. El EEG muestra el patrón característico de punta-onda a 3 Hz. Esta opción es verdadera.",
+    "C": "Es VERDAD que las crisis de ausencia se caracterizan por episodios breves (5-30 segundos) de alteración súbita de la conciencia, con mirada fija y ausencia de respuesta, con recuperación inmediata y sin período poscrítico. Esta opción es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Son características del dolor irruptivo todas las siguientes afirmaciones, EXCEPTO:",
+  "opciones": {
+   "A": "Exacerbación transitoria del dolor bien controlado en las últimas 48 horas.",
+   "B": "Es el que aparece al final del efecto de la dosis en el tratamiento del dolor crónico.",
+   "C": "Puede ser incidental o idiopático.",
+   "D": "Es de inicio rápido y duración variable."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción B describe el dolor de fin de dosis (end-of-dose failure), que es un fenómeno diferente al dolor irruptivo. El dolor de fin de dosis aparece cuando el analgésico de base pierde eficacia antes de la siguiente toma, por lo que es predecible y relacionado con el horario del fármaco. El dolor irruptivo propiamente dicho es una exacerbación transitoria e intensa de dolor en un paciente con dolor basal bien controlado, independiente del horario de la medicación.",
+   "incorrectas": {
+    "A": "Es una característica verdadera del dolor irruptivo. Se define como una exacerbación transitoria de dolor que ocurre sobre un dolor basal bien controlado (dolor ≤ 3 en escala EVA en las últimas 24-48 horas con el tratamiento establecido). Esta opción es correcta.",
+    "C": "Es una característica verdadera del dolor irruptivo. Puede ser incidental (precipitado por un movimiento, actividad o procedimiento), idiopático (sin causa desencadenante identificable) o relacionado con el tratamiento (fin de dosis, aunque este último es considerado una entidad diferente por muchos autores). Esta opción es correcta.",
+    "D": "Es una característica verdadera del dolor irruptivo. Se caracteriza por inicio rápido (pico en 3-5 minutos en el dolor irruptivo oncológico), duración variable (habitualmente 15-30 minutos) e intensidad elevada. Esta rápida instauración justifica el uso de analgésicos de acción rápida (fentanilo transmucoso). Esta opción es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la exploración física de un/a paciente con hemorragia subaracnoidea espontánea (HSA), señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Una parálisis del III par aislada puede indicar rotura de una aneurisma en la comunicante posterior.",
+   "B": "La ausencia de rigidez de nuca descarta la HSA.",
+   "C": "La elevación de la temperatura corporal mejora el pronóstico.",
+   "D": "Lo más frecuente es que aparezca déficit neurológico desde el inicio del cuadro."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "Una parálisis aislada del III par craneal (ptosis, midriasis, limitación de la motilidad ocular) puede ser el signo centinela de un aneurisma de la arteria comunicante posterior. Este aneurisma, al crecer o sangrar, comprime el III par a su paso entre la arteria comunicante posterior y el borde del tentorio. Es un dato exploratorio de alta relevancia que obliga a estudio urgente con neuroimagen.",
+   "incorrectas": {
+    "B": "La ausencia de rigidez de nuca NO descarta la HSA. Los signos meníngeos pueden estar ausentes en las primeras horas del cuadro o en HSA de pequeño volumen. La rigidez de nuca se desarrolla progresivamente conforme la sangre irrita las meninges. Ante sospecha clínica con TC negativo, está indicada la punción lumbar.",
+    "C": "La fiebre en el contexto de HSA empeora el pronóstico neurológico, no lo mejora. La hipertermia aumenta el metabolismo cerebral, agrava el vasoespasmo y favorece el daño neuronal secundario. El control activo de la temperatura es una medida importante en el manejo de la HSA.",
+    "D": "Lo más frecuente en la HSA es que NO aparezca déficit neurológico focal desde el inicio. El cuadro clásico es cefalea súbita e intensa ('la peor cefalea de la vida'), con o sin pérdida de conciencia transitoria, pero sin déficit neurológico focal en la mayoría de los casos. El déficit focal aparece cuando hay hematoma intraparenquimatoso asociado o vasoespasmo tardío."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La hidroxicobalamina (vitamina B12) es el tratamiento de elección en la intoxicación por (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Antidepresivos tricíclicos.",
+   "C": "Paracetamol.",
+   "D": "Cianuro."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La hidroxicobalamina es el antídoto de elección en la intoxicación por cianuro. Se une al cianuro formando cianocobalamina (vitamina B12), un compuesto no tóxico que se elimina por orina. Su ventaja sobre el nitrito sódico (también antídoto del cianuro) es que no produce metahemoglobinemia, lo que la hace especialmente útil en intoxicaciones combinadas por cianuro y monóxido de carbono (incendios).",
+   "incorrectas": {
+    "A": "El antídoto de las benzodiacepinas es el flumazenil, un antagonista competitivo de los receptores GABA-A. La hidroxicobalamina no tiene ningún papel en la intoxicación por benzodiacepinas.",
+    "B": "No existe antídoto específico para los antidepresivos tricíclicos. El tratamiento de la intoxicación grave por tricíclicos incluye bicarbonato sódico (para revertir los efectos en el canal de sodio y la acidosis), medidas de soporte y control de arritmias. La hidroxicobalamina no es útil en este contexto.",
+    "C": "El antídoto del paracetamol es la N-acetilcisteína (NAC), que repone los depósitos de glutatión hepático y previene el daño hepatocelular. La hidroxicobalamina no tiene indicación en la intoxicación por paracetamol."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De las situaciones que se describen a continuación, ¿cuál NO precisa medicación parenteral para reducir inmediatamente la tensión arterial?:",
+  "opciones": {
+   "A": "Eclampsia.",
+   "B": "Disección aórtica, con TA de 220/135.",
+   "C": "Fracaso renal agudo con oligoanuria en el contexto de crisis hipertensiva.",
+   "D": "Accidente cerebrovascular arterial agudo con disfasia y hemiparesia, sin progresión en las últimas 8 horas y con TA de 200/110."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "En el ictus isquémico agudo estable (sin progresión en las últimas horas), las guías actuales recomiendan no reducir la tensión arterial de forma agresiva e inmediata salvo cifras muy elevadas (generalmente > 220/120 mmHg para pacientes no candidatos a trombolisis, o > 185/110 para candidatos). Una TA de 200/110 en un ictus estable no candidato a trombolisis no requiere reducción parenteral urgente, ya que la hipertensión es en parte una respuesta fisiológica compensadora que mantiene la perfusión en la penumbra isquémica.",
+   "incorrectas": {
+    "A": "La eclampsia SÍ requiere reducción parenteral urgente de la TA. Cifras ≥ 160/110 en la gestante con eclampsia pueden provocar hemorragia cerebral materna. Los fármacos de elección son labetalol IV, hidralazina IV o nifedipino oral (en algunos protocolos). La reducción rápida de la TA es prioritaria.",
+    "B": "La disección aórtica SÍ requiere reducción parenteral urgente e inmediata de la TA (objetivo sistólica < 120 mmHg y frecuencia cardiaca < 60 lpm). La elevada tensión arterial aumenta la progresión de la disección. Los fármacos de elección son betabloqueantes IV (labetalol, esmolol) asociados a vasodilatadores si es necesario.",
+    "C": "El fracaso renal agudo con oligoanuria en el contexto de crisis hipertensiva SÍ constituye una emergencia hipertensiva que requiere reducción parenteral urgente de la TA. La hipertensión mantenida agrava el daño renal isquémico y puede conducir a anuria irreversible. Se considera una emergencia hipertensiva con afectación de órgano diana."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Sólo una de las siguientes afirmaciones es CIERTA respecto al uso de betabloqueantes en la insuficiencia cardiaca:",
+  "opciones": {
+   "A": "No deben emplearse en pacientes con bloqueo auriculoventricular avanzado.",
+   "B": "Deben ser la primera línea de tratamiento, antes de IECAs o diuréticos.",
+   "C": "Están contraindicados en pacientes con insuficiencia cardiaca crónica estable en grado funcional III.",
+   "D": "Son de especial utilidad en pacientes con edema pulmonar importante."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "Los betabloqueantes están formalmente contraindicados en pacientes con bloqueo auriculoventricular de segundo grado avanzado (Mobitz II) o de tercer grado sin marcapasos, ya que pueden suprimir completamente la conducción AV y producir asistolia. Esta es una contraindicación absoluta reconocida en todas las guías de insuficiencia cardiaca y de uso de betabloqueantes.",
+   "incorrectas": {
+    "B": "Es FALSO que los betabloqueantes deban emplearse antes que los IECAs o los diuréticos. Las guías de práctica clínica (ESC) establecen que los IECAs (o ARA-II) son el primer escalón del tratamiento modificador de la IC con FEVI reducida. Los betabloqueantes se añaden una vez estabilizado el paciente. Los diuréticos son imprescindibles para el control de la congestión.",
+    "C": "Es FALSO que estén contraindicados en IC crónica estable grado funcional III. Los betabloqueantes (carvedilol, bisoprolol, metoprolol succinato) han demostrado reducir la mortalidad en pacientes con IC estable incluso en clase funcional III-IV, siempre que no estén en fase aguda descompensada. Están indicados, con inicio a dosis bajas y titulación lenta.",
+    "D": "Es FALSO que sean de especial utilidad en el edema pulmonar agudo. En la descompensación aguda con congestión pulmonar grave, los betabloqueantes están contraindicados o deben reducirse/suspenderse temporalmente, ya que su efecto inotrópico negativo puede agravar el bajo gasto cardiaco y la congestión pulmonar."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a la hemorragia subaracnoidea espontánea, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Puede haber síntomas premonitorios los días previos.",
+   "B": "Puede asociarse a pérdida de conciencia transitoria.",
+   "C": "Como factores de riesgo importantes son la hipertensión arterial, anticonceptivos hormonales y el tabaquismo.",
+   "D": "El signo más frecuente es la parálisis del VI par craneal."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA. La parálisis del VI par craneal NO es el signo neurológico focal más frecuente en la HSA; de hecho, la mayoría de los pacientes con HSA no presentan déficit neurológico focal en el momento del debut. Cuando aparece parálisis de un par craneal, la más característica y con mayor valor localizador es la del III par (oculomotor), asociada a aneurisma de la comunicante posterior. La parálisis del VI par puede aparecer como signo inespecífico de hipertensión intracraneal, pero no es el signo más frecuente de la HSA.",
+   "incorrectas": {
+    "A": "Es VERDAD que pueden existir síntomas premonitorios días o semanas antes de la HSA mayor, en forma de cefalea centinela (pequeño sangrado o expansión del aneurisma), diplopía o cefalea de características inusuales. Reconocer estos síntomas es importante para el diagnóstico precoz. Esta opción es verdadera.",
+    "B": "Es VERDAD que la HSA puede asociarse a pérdida de conciencia transitoria en el momento del sangrado, por el brusco aumento de la presión intracraneal que reduce momentáneamente la perfusión cerebral. En algunos casos el paciente puede presentar coma prolongado. Esta opción es verdadera.",
+    "C": "Es VERDAD que la HTA, el tabaquismo y los anticonceptivos hormonales (especialmente combinados estroprogestagénicos) son factores de riesgo reconocidos para la HSA aneurismática. El tabaco aumenta el riesgo de formación y rotura de aneurismas. Esta opción es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de los siguientes microorganismos es MÁS FRECUENTEMENTE causa de miocarditis?:",
+  "opciones": {
+   "A": "Citomegalovirus.",
+   "B": "Virus Coxsackie.",
+   "C": "Estafilococo dorado.",
+   "D": "Estreptococo viridans."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 45,
+   "tema": "Dolor torácico agudo. Etiología. Valoración, diagnóstico y normas de actuación en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El virus Coxsackie B (enterovirus) es el agente etiológico más frecuente de miocarditis infecciosa en adultos y niños en los países occidentales. Su tropismo por el tejido miocárdico y el mecanismo de daño tanto directo (citotóxico) como indirecto (inmunomediado) lo convierten en el patógeno más relevante. Clásicamente se presenta tras un cuadro viral de vías respiratorias altas.",
+   "incorrectas": {
+    "A": "El citomegalovirus (CMV) puede causar miocarditis, especialmente en pacientes inmunodeprimidos (trasplantados, VIH), pero no es la causa más frecuente de miocarditis en la población general. Es una causa importante a tener en cuenta en el paciente inmunodeprimido.",
+    "C": "El Staphylococcus aureus puede producir miocarditis en el contexto de sepsis o endocarditis bacteriana, pero no es la causa más frecuente. La miocarditis bacteriana es mucho menos común que la viral, y dentro de las bacterianas el Staphylococcus no tiene la primacía en este contexto.",
+    "D": "El Streptococcus viridans es el agente más frecuente de endocarditis bacteriana subaguda, no de miocarditis. La carditis reumática (por Streptococcus pyogenes grupo A) puede afectar al miocardio, pero no se trata de la miocarditis infecciosa clásica y Streptococcus viridans no es el responsable."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de los siguientes enunciado respecto al síndrome febril en la infancia considera CIERTO?:",
+  "opciones": {
+   "A": "La afectación del estado general, la presencia de leucocitos en orina y una procalcitonia de < 0.5 NH/dl se asocia a mayor riesgo de infección bacteriana invasora en mayores de 3 semanas.",
+   "B": "Una tira reactiva de orina negativa y un sedimento urinario normal no excluyen una ITU, sobre todo en menores de 6 meses.",
+   "C": "Está indicado alternar antitérmicos, ya que sus efectos beneficiosos se potencian.",
+   "D": "La fiebre es el motivo de consulta más frecuente en pediatría en menores de tres años y consultan por un proceso de larga evolución y su causa principal son infecciones bacterianas que precisan tratamiento."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "En lactantes menores de 6 meses, la sensibilidad de la tira reactiva de orina para detectar infección urinaria es inferior que en niños mayores, y un resultado negativo no excluye la ITU. La inmadurez del sistema inmunitario y las características del sedimento urinario en este grupo de edad hacen que puedan existir ITU sin leucocituria ni nitritos detectables en la tira. En estos pacientes se recomienda urocultivo aunque la tira sea negativa ante sospecha clínica.",
+   "incorrectas": {
+    "A": "La afirmación es incorrecta en varios puntos. La procalcitonina < 0.5 ng/ml (no NH/dl) se asocia a MENOR riesgo de infección bacteriana grave, no mayor. Además, el umbral de procalcitonina para definir riesgo elevado es generalmente > 0.5 ng/ml. La afirmación invierte el sentido clínico del valor de procalcitonina.",
+    "C": "No está recomendado alternar antitérmicos (paracetamol e ibuprofeno) de forma sistemática. Las guías actuales no avalan esta práctica porque no ha demostrado beneficio clínico claro sobre el malestar del niño, aumenta el riesgo de errores de dosificación y puede dar falsa sensación de seguridad. Se recomienda usar uno u otro según tolerancia y edad del paciente.",
+    "D": "La afirmación contiene errores. Si bien la fiebre es el motivo de consulta más frecuente en pediatría en menores de 3 años, los procesos son habitualmente de corta evolución (no larga evolución) y la causa más frecuente son infecciones VÍRICAS (no bacterianas). La mayoría no requieren tratamiento antibiótico, solo sintomático."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Es un síntoma de la intoxicación digitálica (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Náuseas.",
+   "B": "Diarrea.",
+   "C": "Bradicardia.",
+   "D": "Todos ellos pueden ser síntomas de la intoxicación digitálica."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La intoxicación digitálica produce un amplio espectro de síntomas que incluye manifestaciones gastrointestinales (náuseas, vómitos, diarrea, anorexia), cardiacas (bradicardia, bloqueos AV, arritmias diversas) y neurológicas (visión en xantopsia o cromatopsia, confusión). Los tres síntomas mencionados en las opciones A, B y C son manifestaciones reales y reconocidas de la intoxicación por digoxina u otros glucósidos cardiotónicos.",
+   "incorrectas": {
+    "A": "Las náuseas son un síntoma real de la intoxicación digitálica, mediado por la acción de los digitálicos sobre el área postrema del tronco del encéfalo (zona gatillo del vómito). Sin embargo, no son el único síntoma; las opciones B y C también son correctas, por lo que la respuesta completa es D.",
+    "B": "La diarrea es un síntoma real de la intoxicación digitálica, junto con otras manifestaciones gastrointestinales como náuseas, vómitos y dolor abdominal. Sin embargo, como B y C también son correctas, la respuesta completa es D.",
+    "C": "La bradicardia es uno de los signos cardiacos más característicos de la intoxicación digitálica, producida por el aumento del tono vagal y la reducción de la conducción en el nodo AV. Pueden aparecer también bloqueos AV de distintos grados y arritmias ventriculares. Sin embargo, como A y B también son correctas, la respuesta completa es D."
+   }
+  }
+ }
+]

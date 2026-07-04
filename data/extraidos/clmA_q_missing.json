@@ -1,0 +1,32 @@
+[
+  {
+    "n": 95,
+    "enunciado": "Un varón de 26 años acude al servicio de urgencias, traído por sus familiares, por fiebre, alteración del nivel de conciencia, taquicardia, agitación, ansiedad y delirio. Como antecedente refieren hipertiroidismo mal controlado y cirugía de rodilla hace una semana. Señale la respuesta incorrecta sobre la enfermedad de este paciente:",
+    "opciones": {
+      "A": "La crisis tirotóxica o tormenta tiroidea es una condición rara y potencialmente mortal (8-25 %) resultante de una respuesta exagerada del organismo a una elevación aguda de hormonas tiroideas.",
+      "B": "En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarnos al diagnóstico de esta enfermedad, posteriormente modificadas por la Asociación Japonesa de Tiroides 2016.",
+      "C": "El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves y potencialmente mortales en un paciente con evidencia bioquímica de hipertiroidismo (elevación de T4 libre y/o T3 con TSH disminuida o si el hipertiroidismo es central, normal o aumentada).",
+      "D": "El tratamiento apropiado es: Tratamiento de soporte, Diltiazem, Metamizol (preferiblemente propiltiouracilo (PTU)) e Hidrocortisona (100mg cada 8h)."
+    }
+  },
+  {
+    "n": 96,
+    "enunciado": "¿Qué NO esperaríamos encontrar en un paciente con un cuadro compatible con cetoacidosis diabética?",
+    "opciones": {
+      "A": "Glucemia en plasma de 950 mg/dL.",
+      "B": "pH de 7,19.",
+      "C": "Cuerpos cetónicos de 0,3 mmol/L.",
+      "D": "Osmolaridad plasmática elevada."
+    }
+  },
+  {
+    "n": 97,
+    "enunciado": "La diátesis hemorrágica se define como estado en el que el paciente presenta un sangrado espontáneo o desproporcionado para la lesión que padece por un desequilibrio entre la hemostasia y fibrinolisis. En cuanto al diagnóstico más frecuente según la edad del paciente, no es cierto:",
+    "opciones": {
+      "A": "Al nacimiento niños o niñas con clínica hemorrágica (sangrado de cordón) y pruebas básicas normales, hay que pensar en un déficit del factor XIII.",
+      "B": "En el primer año de vida, en niñas con hematomas o sangrados, pensar en Enfermedad de Von Willebrand.",
+      "C": "En el primer año de vida, en niños con hematomas pensar en Enfermedad de Von Willebrand y hemofilia.",
+      "D": "En adultos valorar alteraciones de la hemostasia secundaria cuando presenta pruebas de laboratorio básicas normales, teniendo en cuenta la función hepática y renal."
+    }
+  }
+]

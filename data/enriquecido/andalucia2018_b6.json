@@ -1,0 +1,524 @@
+[
+  {
+    "id_examen": 111,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 2 (continuación): Tras intensa sueroterapia presenta TA de 80/50, FC 140, SO2 97%, se palpa pulso radial débil. Por sondaje vesical presenta salida inicial de hematuria franca con stop posterior. La ecografía FAST descarta hemoperitoneo y aprecia hematoma en hemiabdomen inferior que parece ser de la pared, estando la vejiga vacía. En este momento qué estaría indicado:",
+    "opciones": {
+      "A": "Transfundir concentrados de hematíes sin cruzar.",
+      "B": "Transfundir concentrados de plaquetas.",
+      "C": "Realizar pruebas cruzadas por si es necesario transfundir.",
+      "D": "Administrar 500cc de coloides."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "En el contexto de shock hipovolémico hemorrágico grave (TA 80/50, FC 140, pulso radial débil) con hematoma pélvico significativo, está indicada la transfusión de concentrados de hematíes sin cruzar (grupo 0 negativo) de forma urgente para restaurar la capacidad transportadora de oxígeno. En situaciones de compromiso vital inmediato, la demora que implican las pruebas cruzadas es inaceptable y se prioriza la transfusión de emergencia con sangre universal.",
+      "incorrectas": {
+        "B": "La transfusión de concentrados de plaquetas no está indicada como primera medida; la prioridad es reponer volemia con hematíes ante un sangrado activo con shock.",
+        "C": "Realizar pruebas cruzadas conlleva un retraso de 30-60 minutos que el paciente en shock hemorrágico grave no puede tolerar; en emergencias se emplea sangre 0 negativa sin cruzar.",
+        "D": "Los coloides no aportan capacidad transportadora de oxígeno y su uso en hemorragia masiva no está respaldado como primera medida; además 500 cc resulta insuficiente y no resuelve la causa del shock."
+      }
+    }
+  },
+  {
+    "id_examen": 112,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 2 (continuación): Señale la incorrecta respecto a las pruebas complementarias que deberían de estar realizadas ya:",
+    "opciones": {
+      "A": "TAC craneal",
+      "B": "Rx tórax",
+      "C": "Rx columna cervical",
+      "D": "Rx pelvis"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El TAC craneal NO forma parte de las exploraciones radiológicas básicas que se realizan en la valoración inicial del politraumatizado hemodinámicamente inestable; en la evaluación primaria se priorizan la Rx de tórax, Rx de pelvis y Rx de columna cervical. El TAC craneal se reserva para cuando el paciente esté estabilizado o exista indicación neurológica específica.",
+      "incorrectas": {
+        "B": "La Rx de tórax sí debe realizarse en la valoración inicial del politrauma para detectar neumotórax, hemotórax u otras lesiones torácicas urgentes.",
+        "C": "La Rx de columna cervical es una exploración básica en el politrauma para descartar lesiones cervicales antes de retirar la inmovilización.",
+        "D": "La Rx de pelvis es fundamental en la evaluación primaria para identificar fracturas pélvicas que puedan causar hemorragia retroperitoneal masiva."
+      }
+    }
+  },
+  {
+    "id_examen": 113,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 2 (continuación): Se consigue aumentar TA a 105/60mmHg y se traslada al paciente al servicio de radiodiagnóstico. TAC abdominal con resultado de aneurisma de aorta abdominal de 5,5cm, fractura multifragmentaria de sínfisis de pubis y de ramas isquio e iliopubianas derechas, con gran hematoma en espacio de Retzius, fractura de pala ilíaca y cresta ilíaca izq. con hematoma adyacente. Al regresar a la sala de críticos presenta TA 70/30mmHg. ¿Qué cree que no estaría indicado?",
+    "opciones": {
+      "A": "Canalizar vía central, sueroterapia, transfusiones, drogas vasoactivas y control radiográfico.",
+      "B": "Trasladar inmediatamente a quirófano.",
+      "C": "Cinturón pélvico y activación de protocolo quirúrgico.",
+      "D": "Arteriografía."
+    },
+    "respuesta_correcta": null,
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "Pregunta anulada en el examen oficial.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 114,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3: Paciente de 45 años trasladado a urgencias por equipo de emergencias tras accidente de motocicleta ocurrido una hora antes. Antecedentes: No alergias, diabetes tipo I, fumador.\nSeñale la respuesta correcta.",
+    "opciones": {
+      "A": "Avisar desde el centro coordinador del traslado de un Trauma grave al centro Hospitalario receptor",
+      "B": "En el hospital poner en marcha el código trauma grave",
+      "C": "Desde el hospital estará alertado el equipo multidisciplinar que esté fijado por el Comité de Trauma grave",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Ante un trauma grave, el protocolo de activación implica tres acciones simultáneas y complementarias: el centro coordinador avisa al hospital receptor, el hospital activa el código trauma grave y el equipo multidisciplinar definido por el Comité de Trauma queda alertado y preparado. Las tres afirmaciones son correctas y forman parte del protocolo integral de atención al politraumatizado grave.",
+      "incorrectas": {
+        "A": "Esta acción es correcta de forma aislada, pero la pregunta pide la respuesta más completa, que incluye también las opciones B y C.",
+        "B": "Esta acción es correcta de forma aislada, pero la respuesta completa incluye también la coordinación prehospitalaria y la alerta del equipo multidisciplinar.",
+        "C": "Esta acción es correcta de forma aislada, pero la respuesta completa incluye también las opciones A y B."
+      }
+    }
+  },
+  {
+    "id_examen": 115,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): ¿Cuál de las siguientes afirmaciones es la correcta en la valoración inicial del paciente en la sala de críticos?",
+    "opciones": {
+      "A": "La ecografía con protocolo FAST realizada por personal entrenado sería la técnica de elección a realizar",
+      "B": "TAC de tórax urgente",
+      "C": "Realizar TAC de Abdomen urgente.",
+      "D": "Todas las anteriores son ciertas."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 106,
+      "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+    },
+    "explicacion": {
+      "correcta": "El protocolo FAST (Focused Assessment with Sonography in Trauma) es la técnica de elección en la valoración inicial del politraumatizado en la sala de críticos porque es rápida, no invasiva, no requiere traslado del paciente y permite detectar hemoperitoneo, hemopericardio y neumotórax en pocos minutos. Se puede realizar de forma simultánea con otras maniobras de reanimación sin interrumpirlas.",
+      "incorrectas": {
+        "B": "El TAC de tórax urgente no es el primer paso en la valoración inicial; requiere traslado del paciente y estabilización previa, a diferencia del FAST que se realiza a pie de cama.",
+        "C": "El TAC de abdomen urgente también requiere traslado y estabilización previa; en la valoración inicial el FAST proporciona información suficiente para guiar las decisiones inmediatas.",
+        "D": "No todas son ciertas; el FAST es la técnica de elección inicial y los TAC se reservan para una vez que el paciente está hemodinámicamente estable."
+      }
+    }
+  },
+  {
+    "id_examen": 116,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): En este paciente la puntuación obtenida en el RTS (Trauma Score Revisada) seria:",
+    "opciones": {
+      "A": "12",
+      "B": "11",
+      "C": "9",
+      "D": "3"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "El Revised Trauma Score (RTS) se calcula a partir de tres parámetros: Glasgow Coma Scale (GCS), presión arterial sistólica (PAS) y frecuencia respiratoria (FR). En el paciente del caso clínico (CASO 3), con los datos referenciados, la puntuación resultante es 9, lo que indica un trauma de gravedad moderada-alta. Cada parámetro se codifica de 0 a 4 y la suma máxima es 12.",
+      "incorrectas": {
+        "A": "12 es la puntuación máxima del RTS, correspondiente a un paciente sin ninguna alteración en los tres parámetros, lo que no se corresponde con la situación del caso.",
+        "B": "11 implicaría solo una leve alteración en uno de los parámetros, no concordante con el estado descrito en el caso clínico.",
+        "D": "3 indicaría alteraciones graves en los tres parámetros (GCS, PAS y FR), lo que corresponde a un trauma crítico con pronóstico muy desfavorable, sin ajuste con los datos del caso."
+      }
+    }
+  },
+  {
+    "id_examen": 117,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): Ante la situación de este paciente. ¿Qué medida no se debería realizar durante el traslado a centro útil?",
+    "opciones": {
+      "A": "Inmovilización de la fractura",
+      "B": "Reposición rápida de la volemia con al menos 2000 ml de suero glucosado al 5%",
+      "C": "Colocación de collarín cervical.",
+      "D": "Monitorización cardiaca."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "La reposición de volemia en el politraumatizado NO debe realizarse con suero glucosado al 5%; se deben emplear cristaloides isotónicos (suero salino 0,9% o Ringer lactato) y, si existe shock hemorrágico, hemoderivados. Además, la reposición hídrica agresiva (más de 2000 ml) puede empeorar la hipotermia, la coagulopatía y la acidosis (triada letal), y en contextos de hemorragia no controlada se prefiere la hipotensión permisiva.",
+      "incorrectas": {
+        "A": "La inmovilización de fracturas es una medida correcta durante el traslado, pues reduce el dolor, el sangrado y el riesgo de lesiones secundarias.",
+        "C": "La colocación de collarín cervical es obligatoria en todo politraumatizado para proteger la columna cervical hasta descartar lesión.",
+        "D": "La monitorización cardiaca es una medida básica e imprescindible durante el traslado para detectar arritmias y cambios hemodinámicos."
+      }
+    }
+  },
+  {
+    "id_examen": 118,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): Si en la eco-FAST encontramos imagen anecoica en el espacio Morrison y el paciente tras una reposición adecuada de volemia no conseguimos estabilización hemodinámica:",
+    "opciones": {
+      "A": "Sospecharemos trauma hepático o renal derecho con sangrado activo",
+      "B": "Sospecharemos neumotórax derecho",
+      "C": "A y B son correctas",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 106,
+      "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+    },
+    "explicacion": {
+      "correcta": "El espacio de Morrison o hepatorrenal derecho es la localización más frecuente de líquido libre intraabdominal en el FAST. La presencia de imagen anecoica (líquido) en este espacio en un paciente hemodinámicamente inestable, a pesar de reposición adecuada, indica sangrado activo intraabdominal, siendo el traumatismo hepático o renal derecho las causas más probables dado su contigüidad anatómica.",
+      "incorrectas": {
+        "B": "El neumotórax se detecta en las ventanas pulmonares del FAST (ausencia de deslizamiento pleural), no en el espacio de Morrison que es una ventana abdominal.",
+        "C": "Solo la opción A es correcta; el espacio de Morrison corresponde a la región hepatorrenal derecha y no tiene relación con el diagnóstico de neumotórax.",
+        "D": "La opción A es correcta; la imagen anecoica en el espacio de Morrison sí indica hemoperitonio con probable origen hepático o renal derecho."
+      }
+    }
+  },
+  {
+    "id_examen": 119,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): Si el paciente comienza con empeoramiento de su disnea, abolición del murmullo vesicular derecho y distensión de venas del cuello, indique la opción correcta.",
+    "opciones": {
+      "A": "Realizaremos una Rx de tórax urgente",
+      "B": "Realizaremos TAC Toraco-abdominal urgente",
+      "C": "Colocaremos de inmediato un catéter del numero 14 en el 2º espacio intercostal en la línea medioclavicular del hemitorax derecho",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 58,
+      "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La tríada de disnea progresiva, abolición del murmullo vesicular unilateral y distensión de las venas del cuello es diagnóstica de neumotórax a tensión, una emergencia vital que requiere descompresión inmediata. La técnica de elección urgente es la inserción de una aguja o catéter grueso (nº 14) en el 2º espacio intercostal en la línea medioclavicular del hemitórax afectado, sin demorar la intervención para realizar pruebas de imagen.",
+      "incorrectas": {
+        "A": "En el neumotórax a tensión el diagnóstico es clínico y la Rx de tórax supone un retraso inaceptable que puede ser mortal; la descompresión debe ser inmediata.",
+        "B": "El TAC es una prueba que requiere tiempo y traslado del paciente; está absolutamente contraindicado demorar el tratamiento de un neumotórax a tensión para realizarlo.",
+        "D": "La opción C es la correcta; la punción descompresiva inmediata es el tratamiento de elección ante neumotórax a tensión."
+      }
+    }
+  },
+  {
+    "id_examen": 120,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): ¿Cuál de las afirmaciones es cierta respecto al dolor?",
+    "opciones": {
+      "A": "Se debe priorizar el tratamiento del dolor",
+      "B": "En este paciente el control del dolor pasará a un segundo plano hasta conseguir una estabilización",
+      "C": "Se analgesiará adaptando la dosificación y la elección del fármaco a la situación del paciente",
+      "D": "Son correctas A y C"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El dolor en el politraumatizado debe ser tratado de forma precoz y prioritaria, ya que el dolor no controlado aumenta el consumo de oxígeno, empeora la situación hemodinámica y dificulta la valoración clínica. Sin embargo, la analgesia debe adaptarse al estado hemodinámico del paciente, eligiendo fármacos y dosis que no comprometan la presión arterial ni la respiración; por tanto, ambas afirmaciones A y C son correctas.",
+      "incorrectas": {
+        "B": "Retrasar el tratamiento del dolor hasta lograr la estabilización es incorrecto; la analgesia adecuada forma parte del manejo integral del politraumatizado y no debe diferirse, aunque sí debe adaptarse a la situación clínica."
+      }
+    }
+  },
+  {
+    "id_examen": 121,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): Si tras reposición de volemia adecuada conseguimos estabilidad hemodinámica y en Eco-FAST imagen anecoica en espacio de Morrison ¿Cuál sería la actitud a seguir para valoración del traumatismo abdominal?",
+    "opciones": {
+      "A": "Realización de TAC de abdomen",
+      "B": "Laparotomía exploradora.",
+      "C": "Actitud expectante con monitorización y repetición de Eco-FAST a los 30 minutos",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 106,
+      "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+    },
+    "explicacion": {
+      "correcta": "En el paciente hemodinámicamente estable con FAST positivo (líquido libre en espacio de Morrison), el siguiente paso es el TAC de abdomen con contraste, que permite caracterizar con precisión el origen y la extensión del sangrado, identificar las lesiones orgánicas y orientar el tratamiento definitivo (conservador o quirúrgico). La estabilidad hemodinámica permite el tiempo necesario para realizarlo con seguridad.",
+      "incorrectas": {
+        "B": "La laparotomía exploradora está indicada en el paciente inestable con FAST positivo o con peritonismo, no en el paciente estable donde se puede obtener más información con el TAC antes de decidir.",
+        "C": "La actitud expectante con repetición de FAST no es suficiente cuando el paciente ya está estable; el TAC proporciona mucha más información diagnóstica y permite planificar el tratamiento.",
+        "D": "No todas son correctas; la laparotomía exploradora sin TAC previo no estaría indicada en un paciente estabilizado."
+      }
+    }
+  },
+  {
+    "id_examen": 122,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 3 (continuación): Si en este paciente tenemos un resultado de TAC de abdomen con hematoma intraparenquimatoso de menos de 2 cm de diámetro, ¿cuál de las respuestas siguientes sería verdadera?",
+    "opciones": {
+      "A": "En pacientes con estabilidad hemodinámica, exploración abdominal sin peritonismo y eco-FAST negativa se optará por un tratamiento conservador",
+      "B": "En pacientes con eco-FAST positiva se sentará una indicación quirúrgica en todos los casos",
+      "C": "En pacientes con inestabilidad hemodinámica, eco-FAST negativa y aparición de peritonismo a la exploración, se indicará de entrada tratamiento conservador, hasta ver evolución.",
+      "D": "Todas son verdaderas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En traumatismos abdominales con hematomas intraparenquimatosos pequeños (menos de 2 cm), la estabilidad hemodinámica, la ausencia de peritonismo y el FAST negativo o con mínimo líquido libre son criterios para adoptar un tratamiento conservador con observación estrecha. Esta estrategia no quirúrgica es segura y efectiva en lesiones de bajo grado en pacientes estables.",
+      "incorrectas": {
+        "B": "El FAST positivo no implica indicación quirúrgica automática en todos los casos; en pacientes estables con lesiones de bajo grado, el tratamiento conservador es la opción preferida.",
+        "C": "La presencia de inestabilidad hemodinámica y peritonismo es una indicación de intervención urgente, no de tratamiento conservador; esperar en este contexto supone un riesgo vital inaceptable.",
+        "D": "No todas son verdaderas; las opciones B y C contienen afirmaciones incorrectas sobre el manejo del traumatismo abdominal."
+      }
+    }
+  },
+  {
+    "id_examen": 123,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4: Varón de 80 años, Diabetes Mellitus, cólicos nefríticos de repetición, ingresado hace 2 meses por Pielonefritis aguda tratada con Ceftriaxona en contexto de litiasis renal derecha (se colocó catéter doble J retirado por mala tolerancia), cistitis hace 15 días tratada con Ciprofloxacino. Acude por fiebre hasta 39º desde hace 24h, dolor en fosa renal derecha y orinas oscuras y malolientes. A su llegada: 30 respiraciones por minuto, PA 70/50, buen nivel de conciencia con Glasgow de 15.\nSeñale en relación a este caso cuál de las siguientes opciones es falsa.",
+    "opciones": {
+      "A": "En urgencias es muy útil realizar qSOFA en una primera valoración",
+      "B": "Con los datos aportados, no se puede calcular en este momento, el valor de SOFA",
+      "C": "El calculo de qSOFA en este paciente es de 2",
+      "D": "No se puede calcular qSOFA porque falta el dato de la frecuencia cardiaca"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "La opción D es FALSA porque el qSOFA NO incluye la frecuencia cardiaca entre sus criterios; los tres criterios del qSOFA son: frecuencia respiratoria mayor o igual a 22 rpm, alteración del nivel de consciencia (Glasgow menor de 15) y presión arterial sistólica menor o igual a 100 mmHg. Con los datos del caso (FR 30, Glasgow 15, PAS 70) se puede calcular perfectamente el qSOFA sin necesidad de conocer la frecuencia cardiaca.",
+      "incorrectas": {
+        "A": "Esta afirmación es verdadera; el qSOFA es una herramienta validada, rápida y útil para identificar pacientes con sospecha de sepsis en urgencias.",
+        "B": "Esta afirmación es verdadera; el SOFA completo requiere datos analíticos (creatinina, bilirrubina, plaquetas, PaO2/FiO2) que no están disponibles en el momento de la llegada.",
+        "C": "Esta afirmación es verdadera; el qSOFA de este paciente es de 2 puntos (FR mayor o igual a 22 rpm: 1 punto; PAS menor o igual a 100 mmHg: 1 punto; Glasgow 15: 0 puntos)."
+      }
+    }
+  },
+  {
+    "id_examen": 124,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): En cuanto a la valoración en triaje, señale la verdadera.",
+    "opciones": {
+      "A": "Se activaría código sepsis",
+      "B": "Estamos ante una patología tiempo dependiente por lo que se adjudicaría Prioridad 1",
+      "C": "El paciente quedaría adjudicado al circuito de críticos",
+      "D": "Todas son verdaderas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas: un paciente con sospecha de sepsis grave o shock séptico debe activar el código sepsis, ser clasificado como Prioridad 1 (emergencia vital) por ser una patología tiempo-dependiente donde cada hora sin tratamiento aumenta la mortalidad, y debe ser atendido en el circuito de críticos para monitorización y tratamiento inmediato.",
+      "incorrectas": {
+        "A": "Esta opción es correcta de forma aislada, pero la respuesta más completa es D porque también son correctas las opciones B y C.",
+        "B": "Esta opción es correcta de forma aislada, pero la respuesta más completa es D porque también son correctas las opciones A y C.",
+        "C": "Esta opción es correcta de forma aislada, pero la respuesta más completa es D porque también son correctas las opciones A y B."
+      }
+    }
+  },
+  {
+    "id_examen": 125,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): En cuanto al primer paso a seguir con este paciente, señale la verdadera.",
+    "opciones": {
+      "A": "Resucitación adecuada con fluidos con el objetivo de obtener control adecuado de PA",
+      "B": "Administración de antitérmicos",
+      "C": "Inicio de Ventilación mecánica no invasiva",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "En el paciente con sepsis y shock séptico (PA 70/50), el primer paso es la resucitación hemodinámica con fluidos intravenosos para restaurar la perfusión tisular. Las guías Surviving Sepsis Campaign recomiendan administrar al menos 30 ml/kg de cristaloides en las primeras 3 horas en pacientes con hipoperfusión inducida por sepsis, con el objetivo de alcanzar una PA media mayor o igual a 65 mmHg.",
+      "incorrectas": {
+        "B": "La administración de antitérmicos es una medida complementaria pero no prioritaria; el primer objetivo es la estabilización hemodinámica, no el control de la fiebre.",
+        "C": "La ventilación mecánica no invasiva no está indicada como primer paso en este paciente con buen nivel de consciencia y SO2 no comprometida; la prioridad es la resucitación con fluidos.",
+        "D": "La opción A es correcta; la resucitación con fluidos es el primer paso en el manejo del shock séptico."
+      }
+    }
+  },
+  {
+    "id_examen": 126,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): En cuanto a las pruebas microbiológicas indicadas señale la respuesta falsa.",
+    "opciones": {
+      "A": "No está indicado realizar hemocultivos por su baja rentabilidad",
+      "B": "Se realizará urocultivo",
+      "C": "Se realizará hemocultivos antes de iniciar tratamiento antibiótico",
+      "D": "Las pruebas microbiológicas se deben de tomar con rapidez y no retrasar la primera dosis de antibioterapia que debe estar administrada en los primeros 60 minutos."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "La afirmación falsa es la A: los hemocultivos SÍ están indicados en la sepsis y deben realizarse antes de iniciar el tratamiento antibiótico. Aunque su rentabilidad varía (positivos en aproximadamente 30-40% de los casos), son fundamentales para identificar el microorganismo causante y guiar el tratamiento definitivo (desescalada antibiótica). No realizarlos sería una mala práctica clínica en el manejo de la sepsis.",
+      "incorrectas": {
+        "B": "Esta afirmación es verdadera; el urocultivo es imprescindible dado el foco infeccioso urinario evidente en este paciente.",
+        "C": "Esta afirmación es verdadera; los hemocultivos deben obtenerse antes de la primera dosis de antibiótico para no invalidar los resultados.",
+        "D": "Esta afirmación es verdadera; las guías recomiendan que la antibioterapia empírica se inicie en la primera hora del reconocimiento del shock séptico, con las muestras microbiológicas tomadas previamente."
+      }
+    }
+  },
+  {
+    "id_examen": 127,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): Se realiza TAC de Abdomen y se observa gran dilatación pelvis renal derecha y liquido libre perirrenal de pequeña cuantía provocada por calculo impactado en la salida de uréter derecho. El paciente presenta Creatinina de 3. ¿Qué medida es la mas adecuada?",
+    "opciones": {
+      "A": "Realización de nefrostomía percutánea derecha urgente",
+      "B": "Maximizar tratamiento médico, por ahora no se requiere intervencionismo",
+      "C": "Colocar catéter doble J",
+      "D": "Ninguna es una medida adecuada"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 77,
+      "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En la pielonefritis obstructiva con sepsis/shock séptico, el drenaje urgente de la obstrucción es prioritario para controlar el foco infeccioso; sin ello el tratamiento antibiótico es insuficiente. La nefrostomía percutánea es la técnica de elección en este contexto porque puede realizarse bajo anestesia local, es más rápida y segura que la colocación de catéter doble J cuando el paciente está inestable, y permite drenar el sistema colector dilatado de forma inmediata.",
+      "incorrectas": {
+        "B": "Maximizar solo el tratamiento médico sin drenar la obstrucción es insuficiente e incorrecto; la pielonefritis obstructiva septica no se resuelve sin eliminar la causa mecánica.",
+        "C": "El catéter doble J es una alternativa válida en pacientes estables, pero en el contexto de shock séptico con obstrucción completa, la nefrostomía percutánea es preferible por ser más rápida y practicable bajo anestesia local.",
+        "D": "La nefrostomía percutánea urgente sí es una medida adecuada e indicada en este caso."
+      }
+    }
+  },
+  {
+    "id_examen": 128,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): En cuanto a la elección del antibiótico, señale la verdadera.",
+    "opciones": {
+      "A": "Estamos ante una infección del tracto urinario (ITU) nosocomial",
+      "B": "Estamos ante una ITU complicada sin factores de riesgo para bacterias resistentes",
+      "C": "El paciente presenta factores de riesgo para Infección por enterobacterias portadoras de Betalactamasas de espectro extendido",
+      "D": "En este caso la probabilidad de que Escherichia Colli sea la responsable de la ITU es del 90%"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 77,
+      "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El paciente presenta múltiples factores de riesgo para infección por enterobacterias productoras de betalactamasas de espectro extendido (BLEE): tratamiento previo con cefalosporinas (Ceftriaxona) y fluoroquinolonas (Ciprofloxacino), hospitalización reciente (hace 2 meses), instrumentación urológica (catéter doble J), diabetes mellitus y litiasis renal de repetición. Todos estos factores obligan a cubrir microorganismos multirresistentes en la elección empírica del antibiótico.",
+      "incorrectas": {
+        "A": "No es una ITU nosocomial en sentido estricto, ya que el paciente no está ingresado actualmente; es una ITU complicada adquirida en la comunidad con factores de riesgo de multirresistencia.",
+        "B": "El paciente sí tiene factores de riesgo para bacterias resistentes (antibioterapia previa reciente, hospitalización, diabetes, instrumentación); no puede clasificarse como ITU complicada sin factores de riesgo.",
+        "D": "Aunque E. coli es el patógeno más frecuente en ITU, la probabilidad del 90% no es correcta en este contexto de factores de riesgo de multirresistencia, donde otras enterobacterias y gérmenes resistentes tienen mayor prevalencia."
+      }
+    }
+  },
+  {
+    "id_examen": 129,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): ¿Qué antibioterapia elegiría de forma empírica?",
+    "opciones": {
+      "A": "Ceftriaxona",
+      "B": "Amoxicilina clavulánico",
+      "C": "Moxifloxacino",
+      "D": "Ertapenem+Amikacina"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 77,
+      "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Ante sospecha de infección por enterobacterias BLEE en un paciente con shock séptico, el tratamiento empírico de elección es un carbapenem (Ertapenem o Imipenem) al que se puede añadir un aminoglucósido (Amikacina) para obtener sinergia bactericida y ampliar el espectro. Esta combinación cubre prácticamente todos los patógenos gramnegativos multirresistentes involucrados en ITU complicada grave con factores de riesgo BLEE.",
+      "incorrectas": {
+        "A": "Ceftriaxona es una cefalosporina de tercera generación que ya fue utilizada previamente por este paciente y no es activa frente a enterobacterias BLEE; su uso empírico en este contexto sería inadecuado.",
+        "B": "Amoxicilina-clavulánico tiene escasa actividad frente a enterobacterias BLEE y una tasa elevada de resistencias en ITU complicada; no es apropiado en un paciente con shock séptico y estos factores de riesgo.",
+        "C": "Moxifloxacino es una fluoroquinolona que no alcanza concentraciones urinarias adecuadas y el paciente ya recibió Ciprofloxacino recientemente, lo que hace muy probable la resistencia a esta familia antibiótica."
+      }
+    }
+  },
+  {
+    "id_examen": 130,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): El paciente evoluciona mal, con hipotensión mantenida PA sistólica 70mmHg y PA diastólica 40mmHg, a pesar de una adecuada fluidoterapia deterioro de la función renal creatinina 5,2 mg/dl, Bilirrubina total 4,5 a expensa de Bilirrubina directa, aumento de LDH GOT y GPT. PCR 350. ¿Cuál de las siguientes medidas no es adecuada?",
+    "opciones": {
+      "A": "Iniciar tratamiento con perfusión de fármacos vasoactivos",
+      "B": "Sería útil determinación de acido láctico",
+      "C": "Sería útil la determinación de procalcitonina",
+      "D": "Asociar coloides a la fluidoterapia con cristaloides"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "La medida NO adecuada es asociar coloides a la fluidoterapia con cristaloides. Las guías Surviving Sepsis Campaign recomiendan los cristaloides isotónicos como fluido de elección en la resucitación del shock séptico; el uso de coloides (especialmente almidones) se asocia a mayor daño renal y mayor mortalidad, y no ha demostrado beneficio sobre los cristaloides en este contexto.",
+      "incorrectas": {
+        "A": "Iniciar fármacos vasoactivos (noradrenalina como primera línea) está indicado cuando la hipotensión persiste a pesar de una adecuada resucitación con fluidos, para mantener una PA media mayor o igual a 65 mmHg.",
+        "B": "La determinación de ácido láctico es útil para evaluar la hipoperfusión tisular, guiar la resucitación y monitorizar la respuesta al tratamiento; valores elevados tienen valor pronóstico.",
+        "C": "La procalcitonina es un marcador útil de infección bacteriana grave que ayuda a establecer el diagnóstico, valorar la gravedad y puede guiar la duración de la antibioterapia."
+      }
+    }
+  },
+  {
+    "id_examen": 131,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): El paciente presenta diuresis menor de 500ml en 24 horas con PA media de 55 con Dopamina 12mcg/kg/minuto y con acido láctico de 8 mmol/l. Señale en esta situación la respuesta verdadera",
+    "opciones": {
+      "A": "El paciente presenta Shock séptico",
+      "B": "La puntuación de la escala SOFA es menor de 2",
+      "C": "El paciente presenta una sepsis grave",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "El paciente cumple los criterios de shock séptico según la definición Sepsis-3: necesidad de vasopresores para mantener una PA media mayor o igual a 65 mmHg (está con Dopamina 12 mcg/kg/min y aun así la PA media es solo 55 mmHg), y ácido láctico mayor de 2 mmol/l (en este caso 8 mmol/l, muy elevado), en contexto de infección. Esta combinación define el shock séptico y conlleva una mortalidad hospitalaria superior al 40%.",
+      "incorrectas": {
+        "B": "El SOFA no puede ser menor de 2 en este paciente; la oliguria (diuresis menor de 500 ml/24h) ya puntúa como disfunción renal, y la necesidad de vasopresores a dosis altas y el lactato elevado determinan puntuaciones altas en otros dominios del SOFA.",
+        "C": "El término sepsis grave pertenece a la terminología anterior (Sepsis-2) y ya no se utiliza en las definiciones actuales Sepsis-3; además, la situación actual del paciente corresponde a shock séptico, que es la entidad más grave.",
+        "D": "La opción A es correcta; el paciente cumple los criterios diagnósticos de shock séptico."
+      }
+    }
+  },
+  {
+    "id_examen": 132,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+    "enunciado": "CASO 4 (continuación): En cuanto al objetivo de la fluidoterapia y de las drogas vasoactivas en este caso señale la verdadera",
+    "opciones": {
+      "A": "Mantener una PA sistólica mayor de 100mmHg y una PA diastólica mayor de 60 mmHg y un ácido láctico menor de 10 mmol/l",
+      "B": "Mantener una PA sistólica mayor de 120mmHg y una PA diastólica mayor de 80 mmHg y un ácido láctico menor de 5 mmol/l",
+      "C": "Mantener una PA media mayor o igual de 65 mmHg y un ácido láctico menor o igual a 2 mmol/l",
+      "D": "Mantener una PA media mayor o igual 60 mmHg y un ácido láctico menor de 4 mmol/l"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "Las guías Surviving Sepsis Campaign establecen como objetivos hemodinámicos en el shock séptico mantener una presión arterial media (PAM) mayor o igual a 65 mmHg mediante vasopresores y normalizar el ácido láctico a valores menores o iguales a 2 mmol/l como indicador de adecuada perfusión tisular. El uso de la PAM en lugar de valores sistólicos y diastólicos por separado es el estándar actual en el manejo del shock séptico.",
+      "incorrectas": {
+        "A": "Los objetivos expresados en PAS y PAD por separado no son los utilizados en el manejo actual del shock séptico; además, tolerar un lactato de hasta 10 mmol/l es un objetivo completamente inadecuado que indicaría hipoperfusión tisular grave mantenida.",
+        "B": "Unos objetivos de PAS mayor de 120 mmHg y PAD mayor de 80 mmHg son excesivamente elevados y no están respaldados por las guías; además, un lactato menor de 5 mmol/l sigue siendo un valor de hipoperfusión significativa.",
+        "D": "Una PAM objetivo de 60 mmHg está por debajo del umbral recomendado de 65 mmHg, y un lactato menor de 4 mmol/l sigue indicando hipoperfusión tisular persistente no aceptable como objetivo terapéutico."
+      }
+    }
+  }
+]

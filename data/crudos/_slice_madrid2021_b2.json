@@ -1,0 +1,242 @@
+[
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta CORRECTA en relación con la ecografía vascular en la evaluación del riesgo cardiovascular",
+  "opciones": {
+   "A": "Se recomienda la medición sistemática del espesor íntima-media",
+   "B": "Una protrusión en la luz > 1mm es definitoria de placa",
+   "C": "La valoración de las arterias femorales no añade información complementaria a la valoración carotidea",
+   "D": "La ateroesclerosis es una enfermedad reversible"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿En cuál de las siguientes infecciones bacterianas puede recomendarse el uso de carbapenémicos",
+  "opciones": {
+   "A": "Enterococo faecium",
+   "B": "Estafilococo aureus oxacilin-sensible",
+   "C": "Estafilococo aureus oxacilin-resistente",
+   "D": "Stenotrophomonas maltophilia"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Con relación al fracaso renal agudo pre-renal señale cuál de las siguientes afirmaciones es CIERTA",
+  "opciones": {
+   "A": "El sodio en orina es alto, la creatinina urinaria es elevada y la osmolaridad urinaria es alta",
+   "B": "El sodio en orina es alto, la creatinina urinaria es baja y la osmolaridad urinaria es baja",
+   "C": "El sodio en orina es bajo, la creatinina urinaria es elevada y la osmolaridad urinaria es alta",
+   "D": "El sodio en orina es bajo, la creatinina urinaria es baja y la osmolaridad urinaria es baja"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 43 años con buena salud habitual salvo lumbalgia de 3 meses de evolución, en una RM de columna lumbar se describe alteración de señal en médula ósea motivo por el que acude a su consulta. Aporta un análisis con hemograma normal, creatinina 1,1 mg/dL, GPT 42 U/L, F alcalina 145 UI/L, LDH 245 UI/L, proteínas totales 8,8 g/dL con albúmina 3,8 g/dL, VSG 59. Con estos datos que ampliación del estudio solicitaría",
+  "opciones": {
+   "A": "Frotis de sangre periférica",
+   "B": "Citometría de flujo en sangre periférica",
+   "C": "Electroforesis de proteínas en suero",
+   "D": "Gammagrafía ósea"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 62 años que presenta vasculitis cutánea, episodios de policondritis, reactantes de fase aguda elevados, en médula ósea mielodisplasia con vacuolas citoplasmáticas en precursores mieloides y eritroides, en el estudio citogenético mutación del gen UBA 1. Que diagnóstico le parece más probable:",
+  "opciones": {
+   "A": "Vasculitis sistémica con fuerte reacción inflamatoria",
+   "B": "Síndrome VEXAS",
+   "C": "Deficiencia de mevalonato quinasa",
+   "D": "Síndrome MAGIC"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En relación a la definición de síndrome metabólico, señale cuál de los siguientes parámetros NO se incluye dentro de los criterios diagnósticos",
+  "opciones": {
+   "A": "Colesterol LDL",
+   "B": "Colesterol HDL",
+   "C": "Perímetro de la cintura",
+   "D": "Presión arterial"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta CORRECTA en relación con el tratamiento diurético en pacientes con insuficiencia cardiaca (IC)",
+  "opciones": {
+   "A": "La combinación de furosemida con acetazolamida intravenosa ha demostrado una disminución de las rehospitalizaciones por IC frente a furosemida",
+   "B": "La combinación de furosemida con hidroclorotiazida ha demostrado una disminución de las rehospitalizaciones por IC frente a furosemida",
+   "C": "Se puede plantear la interrupción del tratamiento diurético en pacientes ambulatorios estables, sin signos de congestión y tratamiento optimizado",
+   "D": "La administración de furosemida en perfusión continua es más efectiva que en bolos para el control sintomático de la IC"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "La enfermedad de Poncet es producida por:",
+  "opciones": {
+   "A": "Staphylococcus aureus.",
+   "B": "Mycobacterium tuberculosis.",
+   "C": "Campylobacter jejuni.",
+   "D": "Treponema pallidum."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un paciente con colitis ulcerosa presenta un brote de proctitis leve/moderada",
+  "opciones": {
+   "A": "Mesalazina rectal",
+   "B": "5-Aminosalicilatos orales",
+   "C": "Corticoides rectales",
+   "D": "Infliximab tres meses"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 60 años EPOC reagudizador que refiere en los últimos tres meses dos caídas. Señale lo correcta:",
+  "opciones": {
+   "A": "La sarcopenia está asociada al envejecimiento, y por lo tanto no debemos sospecharla en este paciente.",
+   "B": "Si la dinamometría es patológica se confirma sarcopenia.",
+   "C": "Para iniciar el tratamiento de la sarcopenia es imprescindible hacer una DEXA previamente.",
+   "D": "Si la velocidad de la marcha está alterada, probablemente se trate de una sarcopenia severa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta CORRECTA en relación con el diagnóstico de insuficiencia cardiaca (IC)",
+  "opciones": {
+   "A": "Un electrocardiograma normal descarta el diagnóstico de IC",
+   "B": "La presencia de una presión venosa yugular elevada es un signo muy sensible",
+   "C": "La bendopnea aparece en fases avanzadas de la enfermedad",
+   "D": "La obesidad aumenta los niveles de péptidos natriuréticos en plasma"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de las siguientes asociaciones entre un tipo de droga y su efecto sobre las pupilas es correcta?",
+  "opciones": {
+   "A": "Opiáceos - Midriasis",
+   "B": "Antidepresivos tricíclicos - Midriasis",
+   "C": "Estimulantes (anfetaminas) - Miosis",
+   "D": "LSD (ácido lisérgico dietilamida) - Miosis"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Respecto al dímero D señale la respuesta incorrecta",
+  "opciones": {
+   "A": "Las concentraciones aumentan en sujetos con infarto de miocardio, neumonía, septicemia, cáncer y después de cirugías, y en mujeres en el segundo o el tercer trimestre del embarazo",
+   "B": "El dímero D es menos sensible para detectar DVT que para identificar PE",
+   "C": "La sensibilidad del dímero D es de > 95% respecto a DVT (incluida DVT aislada de pantorrilla) y > 80% en PE",
+   "D": "Considerando el dímero D ajustado por edad un paciente de 70 años con sospecha de PE tendría 700 ng/mL como límite superior normal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En relación a la enfermedad de Parkinson señale la correcta:",
+  "opciones": {
+   "A": "El temblor es el síntoma más frecuente y típicamente es de acción.",
+   "B": "La inestabilidad postural con caídas suele aparecer en fase precoces de la enfermedad.",
+   "C": "La hipotensión ortostática es muy común, incluso relativamente temprano en el curso de la enfermedad.",
+   "D": "La bradicinesia afecta a miembros inferiores pero típicamente no afecta a miembros superiores."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En la enfermedad de Gaucher es cierto que:",
+  "opciones": {
+   "A": "Se asocia con mieloma precoz",
+   "B": "La esplenomegalia es excepcional",
+   "C": "Cursa con osteoporosis",
+   "D": "La tubulopatía renal es frecuente"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un paciente es diagnosticado de esofagitis péptica grado C, sin esófago de Barret. ¿Cuál de los siguientes tratamientos debería recomendarse como primera opción?",
+  "opciones": {
+   "A": "Funduplicatura endoscópica",
+   "B": "Restricción grasa en la dieta",
+   "C": "Funduplicatura laparoscópica",
+   "D": "Esomeprazol 40 miligramos/ 12 horas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 35 años con índice de masa corporal de 40 en tratamiento con anticonceptivos orales que consulta por cefalea intensa de nueva aparición, que empeora con las maniobras de Valsalva, y vómitos. Se realiza un TAC basal que es normal. En relación al diagnóstico de sospecha señale la correcta",
+  "opciones": {
+   "A": "Un nivel elevado de D-dímero respalda el diagnóstico.",
+   "B": "Un dímero D normal excluye el diagnóstico.",
+   "C": "La punción lumbar está contraindicada.",
+   "D": "La presencia de un infarto hemorrágico contraindica el tratamiento anticoagulante."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 70 años que ha estado previamente en tratamiento con alendronato. Presenta fracturas osteoporóticas sintomáticas recientes en columna dorsal, DMO T-3, tiene niveles de calcio, vitamina D y PTH normales. Cual le parece la opción de tratamiento adecuada",
+  "opciones": {
+   "A": "Volver a tratamiento con bifosfonatos por vía intravenosa",
+   "B": "Iniciar tratamiento con denosumab",
+   "C": "Iniciar tratamiento con teriparatida",
+   "D": "Iniciar tratamiento combinado de teriparatida y bifosfonatos"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un varón de 47 años diagnosticado hace 6 meses de un cáncer de pulmón. Acude a Urgencias con una neutropenia (310 neutrófilos/mm3) febril sin foco aparente. A los 3 días el paciente está afebril y los cultivos son negativos. Señale lo CORRECTO sobre la duración del tratamiento antibiótico",
+  "opciones": {
+   "A": "El paciente debe recibir un total de 14 días de tratamiento antibiótico",
+   "B": "El paciente debe recibir tratamiento antibiótico hasta que la cifra de neutrófilos alcance 1000/mm3",
+   "C": "En la situación descrita es suficiente con completar 5 días de tratamiento antibiótico",
+   "D": "Dado que es un cáncer de pulmón y el foco más probable es respiratorio el tratamiento debe ser de 10 días"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de los siguientes factores le parece que condiciona un mayor riesgo de infección fúngica invasora por hongos filamentosos?",
+  "opciones": {
+   "A": "Recibir un tratamiento que produzca una neutropenia profunda (menor a 100 céls/mm3) durante más de 7 días",
+   "B": "Recibir tratamiento con Timoglobulina",
+   "C": "Recibir tratamiento con Rituximab",
+   "D": "Recibir tratamiento con esteroides a dosis superiores a 25 mg/día de prednisona (o equivalente) durante más de 3 semanas"
+  },
+  "respuesta_correcta": "A"
+ }
+]

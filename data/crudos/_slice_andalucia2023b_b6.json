@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué hora asumiremos como hora de inicio de los síntomas?",
+  "opciones": {
+   "A": "La hora en la que se despidió de sus amigos tras la cena.",
+   "B": "A las 7:40 a.m.",
+   "C": "A las 8:00 a.m.",
+   "D": "A las 9:00 a.m."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El paciente, que vive en zona rural, es trasladado por el SUAP al Hospital comarcal que se encuentra a 20 minutos de su localidad. De las siguientes medidas iniciales que debe de aplicar, ¿cuál es la MENOS indicada?",
+  "opciones": {
+   "A": "Canalizar vía venosa en miembro no parético.",
+   "B": "Realizar glucemia capilar.",
+   "C": "Poner gafas nasales a 1.5 L/min de forma sistemática.",
+   "D": "Asegurar vía aérea, ventilación, circulación."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "A su llegada al hospital comarcal, el paciente presenta tensión arterial 195/115, saturación de oxígeno de 96%, glucemia capilar de 188 mg/dl, y electrocardiograma en Fibrilación Auricular a 90 lpm. De las siguientes medidas a realizar, ¿cuál de las siguientes NO está indicada?",
+  "opciones": {
+   "A": "Labetalol 20 mgr i.v. en 1-2 minutos.",
+   "B": "AAS 300 mgr más HBPM a dosis profilácticas.",
+   "C": "Retirar gafas nasales.",
+   "D": "Insulina rápida vía subcutánea."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Al aplicar la escala NIHSS (National institute of Health Stroke Scale) obtiene una puntuación de 7 puntos (afasia global: 2+2+3). ¿Qué haría en estos momentos?",
+  "opciones": {
+   "A": "TAC craneal de perfusión urgente.",
+   "B": "Iniciar inmediatamente, como primera acción, fibrinolisis i.v. con rt-PA 0.9 mg/kg, 10% en 2 min y resto en perfusión durante 60 min.",
+   "C": "Traslado al hospital de referencia sin necesidad de administración de fibrinolítico.",
+   "D": "Las respuestas A) y B) son correctas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Al recibir la TAC craneal se informa como presencia de hiperdensidad de ACM (arteria cerebral media) izquierda (M1). La puntuación de la escala NIHSS apenas ha mejorado (6 puntos), presentando las siguientes constantes: tensión arterial 205/115, glucemia 140 y satO2 del 97%. ¿Cómo actuaría en este momento?",
+  "opciones": {
+   "A": "Administración de perfusión de rt-PA a 0,9 mg/kg.",
+   "B": "Administrar antihipertensivo de manera urgente.",
+   "C": "Derivación a hospital de referencia para plantear posible trombectomía.",
+   "D": "Las respuestas A) y C) son correctas. CASO PRÁCTICO 4: Varón de 36 años, sin antecedentes de interés. Llevado en ambulancia a Urgencias del hospital por caída en domicilio con tumefacción y hematoma en región frontotemporal derecha, sin pérdida de conocimiento ni amnesia, ni otra sintomatología de alarma neurológica. A su llegada presenta apertura ocular al sonido, palabras sueltas inteligibles, obedece órdenes con respuesta motora adecuada. Presión arterial (PA) 120/60 mmHg. Frecuencia cardiaca 100 latidos por minuto (lpm)."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué puntuación le corresponde según la escala de Coma de Glasgow?",
+  "opciones": {
+   "A": "14 puntos.",
+   "B": "13 puntos.",
+   "C": "12 puntos.",
+   "D": "11 puntos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Según su gravedad, en función de la puntuación en la escala de Glasgow, ¿cómo lo clasificamos?",
+  "opciones": {
+   "A": "TCE leve.",
+   "B": "TCE moderado.",
+   "C": "TCE grave.",
+   "D": "Ninguna de las anteriores."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué exploración complementaría de urgencia estaría indicada?",
+  "opciones": {
+   "A": "TC craneal.",
+   "B": "TC cervical.",
+   "C": "Rx craneal.",
+   "D": "Las opciones A) y B) son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Respecto a las intervenciones en este paciente, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Debería evitarse una saturación de O2 < 90%.",
+   "B": "La hiperventilación profiláctica prolongada es recomendable.",
+   "C": "El objetivo hemodinámico es mantener la presión arterial sistólica > 110 mm Hg.",
+   "D": "Los cristaloides isotónicos son los fluidos intravenosos de elección."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El paciente presenta vómitos “en escopetazo”, con posterior deterioro del nivel de conciencia (Glasgow 8 puntos), PA 160/100 mmHg, Frecuencia cardiaca 45 lpm. Respecto a las medidas terapéuticas recomendadas en estos momentos, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Intubación orotraqueal y ventilación mecánica.",
+   "B": "Manitol 0,25-1 g/kg en bolo intravenoso.",
+   "C": "Dexametasona 8 mg en bolo intravenoso.",
+   "D": "Levetiracetam intravenoso como profilaxis de convulsión. CASO PRÁCTICO 5: Mujer de 42 años, diagnosticada de cáncer de mama hace 3 años, tratado con cirugía y quimioterapia durante 12 meses, y con metástasis vertebrales (D12, L1) en la última revisión hace 1 mes. Es traída a Urgencias por presentar, desde hace unas horas, un estado de fatigabilidad y debilidad progresiva. La familia refiere que en la última semana se quejaba de que orinaba mucho, bebía mucha agua y no tenía ganas de comer. Tenía náuseas y algún vómito aislado. Exploración física: paciente con afectación del estado general, normocoloreada y eupneica. Auscultación cardiorrespiratoria, palpación abdominal y exploración neurológica sin alteraciones. Hematimetría con fórmula y recuento leucocitarios: hematocrito 52%, resto normal; bioquímica sanguínea: glucosa 97 mg/dl, urea 85 mg/dl, creatinina 1,2 mg/dl, sodio 155 mEq/l, potasio 3,2 mEq/l. EKG: Ritmo sinusal a 60 spm con QT de 250 milisegundos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Con los datos de la historia clínica, ¿qué exploración complementaria solicitaría en primer lugar?",
+  "opciones": {
+   "A": "TC craneal.",
+   "B": "Rx columna dorsolumbar.",
+   "C": "Calcemia y proteínas totales.",
+   "D": "Sodio y creatinina en orina."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de las siguientes medidas se incluye en el tratamiento de esta paciente?",
+  "opciones": {
+   "A": "Solución glucosada.",
+   "B": "Cloruro potásico.",
+   "C": "Furosemida.",
+   "D": "Las opciones B) y C) son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de los siguientes fármacos es de elección para tratar a esta paciente?",
+  "opciones": {
+   "A": "Ácido zoledrónico.",
+   "B": "Hidrocortisona.",
+   "C": "Metilprednisolona.",
+   "D": "Las opciones B) y C) son correctas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "La paciente refiere dolor en columna lumbar de características mecánicas, y con una intensidad en la escala visual analógica de 8/10. Está tratada con Paracetamol 1 g/6 horas y Naproxeno 500 mg/8 horas, ambos por vía oral. ¿Qué tratamiento para el dolor iniciamos?",
+  "opciones": {
+   "A": "Indometacina.",
+   "B": "Tramadol.",
+   "C": "Metamizol.",
+   "D": "Dexketoprofeno trometamol."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Al cabo de 2 horas, la paciente refiere el dolor con una intensidad en la escala visual analógica de 7/10. ¿Qué fármaco estaría indicado prescribirle en esta situación?",
+  "opciones": {
+   "A": "Tramadol.",
+   "B": "Fentanilo.",
+   "C": "Dexametasona.",
+   "D": "Las opciones contempladas en las respuestas B) y C) son correctas. CASO PRÁCTICO 6: Varón joven que es trasladado en ambulancia convencional por caída desde una altura de más de 3 metros, hace 30 minutos. Lleva un collarín cervical tipo Philadelphia. No ha sido posible canalizar vía venosa. El paciente comenta que ha recibido un traumatismo costal izquierdo. Niega contusiones en otras localizaciones. Viene con el torso desnudo, y se observa una erosión extensa en costado y fosa renal izquierda. No heridas sangrantes en costado ni resto del cuerpo. A los pocos minutos, deja de hablar, pierde el conocimiento y no responde."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué actuación estaría indicada a continuación?",
+  "opciones": {
+   "A": "Garantizar la permeabilidad de la vía aérea.",
+   "B": "Monitorizar la tensión arterial, frecuencia cardiaca, saturación de oxígeno.",
+   "C": "Determinar glucemia capilar.",
+   "D": "Valorar nivel de conciencia y pupilas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El paciente muestra una marcada ingurgitación yugular izquierda, hipoventilación en hemitórax izquierdo con timpanismo. PA 80/40 mmHg, FC 120 lpm, SatO2 92%, FR 25 rpm. ¿Cuál sería la actitud prioritaria correcta?",
+  "opciones": {
+   "A": "Toracotomía.",
+   "B": "Drenaje torácico.",
+   "C": "Pericardiocentesis.",
+   "D": "Intubación orotraqueal y ventilación mecánica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Tras la actuación anterior, el paciente no mejora significativamente. Está sudoroso. PA 80/50 mmHg, FC 120 lpm, relleno capilar 3 segundos. ¿Qué estaría indicado hacer sin demora?",
+  "opciones": {
+   "A": "Canalización una vía venosa central.",
+   "B": "Soluciones cristaloides.",
+   "C": "Soluciones coloides.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Tras la actuación anterior, el paciente evoluciona favorablemente. PA 110/60 mmHg, FC 100 lpm. ¿Qué valoración estaría indicada a continuación?",
+  "opciones": {
+   "A": "Escala de coma de Glasgow.",
+   "B": "Valoración de pupilas.",
+   "C": "Signos de lesión cerebral o medular.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué prueba complementaria es el “gold estándar”, si está disponible de forma inmediata?",
+  "opciones": {
+   "A": "Rx tórax.",
+   "B": "Ecografía FAST.",
+   "C": "Tomografía axial computarizada (TAC) de tórax con contraste.",
+   "D": "TAC de tórax sin contraste. CASO PRÁCTICO 7: Paciente de 18 años que es derivada a Urgencias, tras aviso de la familia, por ingesta de un blíster completo de 25 comprimidos de Lorazepam de 1 mg hace menos de una hora. Antecedentes personales: depresión, obesidad (IMC 30, peso estimado 80 kg). Exploración física: A (vía aérea permeable), B (oxigenación y ventilación adecuada, Saturación de O2 98%), C (Auscultación cardio-respiratoria normal, Frecuencia Cardiaca 70 latidos por minuto, Presión Arterial 130/70 mmHg, Buen relleno capilar), D (Escala de Glasgow 15 puntos, pupilas normales, glucemia 85 mg/dl), E (Temperatura 36ºC). Tiene canalizada una vía venosa periférica y se le cursan pruebas complementarias, incluido examen toxicológico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué actuación está indicada?",
+  "opciones": {
+   "A": "Carbón activado.",
+   "B": "Diuresis forzada.",
+   "C": "Flumazenilo.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Durante su estancia en urgencias, la paciente presenta deterioro neurológico (Escala de Glasgow 10 puntos) y respiratorio (Frecuencia Respiratoria 10 respiraciones por minuto.) ¿Qué medidas terapéuticas están indicadas?",
+  "opciones": {
+   "A": "Intubación endotraqueal + ventilación mecánica + Flumazenilo 0,3 mg bolo intravenoso (i.v.) cada 30 segundos.",
+   "B": "Intubación endotraqueal + ventilación mecánica + Flumazenilo 0,6 mg bolo i.v. cada 30 segundos.",
+   "C": "Ventilación bolsa-mascarilla + Flumazenilo 0,3 mg bolo i.v. cada 30 segundos.",
+   "D": "Ventilación bolsa-mascarilla + Flumazenilo 0,6 mg bolo i.v. cada 30 segundos."
+  },
+  "respuesta_correcta": "C"
+ }
+]

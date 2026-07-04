@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta FALSA, de acuerdo con en el artículo 11 de la Constitución Española de 1978, la nacionalidad española:",
+  "opciones": {
+   "A": "Se adquiere de acuerdo con lo establecido por la ley.",
+   "B": "Se conserva de acuerdo con lo establecido por la ley.",
+   "C": "Se adquiere, se conserva y nunca se pierde.",
+   "D": "Se pierde de acuerdo con lo establecido por la ley."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 1,
+   "tema": "Constitución Española de 1978: La protección de la salud en la Constitución. Estatuto de Autonomía de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La opción C es FALSA (y por tanto la respuesta a una pregunta que pide la respuesta falsa). El artículo 11 de la Constitución Española establece que la nacionalidad española se adquiere, se conserva y SE PIERDE de acuerdo con lo establecido por la ley. Por tanto, la afirmación de que 'nunca se pierde' contradice directamente el texto constitucional. La pérdida de la nacionalidad española está regulada en el Código Civil y es perfectamente posible bajo determinadas circunstancias.",
+   "incorrectas": {
+    "A": "La opción A es correcta según el artículo 11 CE: la nacionalidad española se adquiere conforme a lo dispuesto en la ley (fundamentalmente el Código Civil), por lo que no puede ser la respuesta falsa.",
+    "B": "La opción B es correcta según el artículo 11 CE: la conservación de la nacionalidad española también se regula por ley, por lo que tampoco es la respuesta falsa.",
+    "D": "La opción D es correcta según el artículo 11 CE: la nacionalidad española puede perderse de acuerdo con lo establecido por la ley, lo que se recoge expresamente en el precepto constitucional."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 19 de la Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria, el Gobierno de Cantabria cesa:",
+  "opciones": {
+   "A": "Tras la celebración de elecciones a las Cortes Generales.",
+   "B": "Tras la celebración de elecciones al Parlamento.",
+   "C": "Por la confianza del Parlamento o la adopción por éste de una moción de censura.",
+   "D": "Por la pérdida de confianza del Parlamento o la adopción por éste de una moción de confianza."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 1,
+   "tema": "Constitución Española de 1978: La protección de la salud en la Constitución. Estatuto de Autonomía de Aragón."
+  },
+  "explicacion": {
+   "correcta": "El artículo 19 del Estatuto de Autonomía para Cantabria (LO 8/1981) establece que el Gobierno de Cantabria cesa tras la celebración de elecciones al Parlamento de Cantabria, ya que su legitimidad democrática emana de dicha cámara autonómica. El cese automático tras las elecciones parlamentarias garantiza que el nuevo Parlamento pueda investir a un nuevo Presidente y formar un nuevo Gobierno conforme al resultado electoral.",
+   "incorrectas": {
+    "A": "Las elecciones a las Cortes Generales son elecciones estatales (Congreso y Senado) y no determinan el cese del Gobierno autonómico de Cantabria, ya que son instituciones de ámbito nacional con independencia del ejecutivo regional.",
+    "C": "La formulación es incorrecta: el Gobierno cesa por la PÉRDIDA de confianza del Parlamento (no por la confianza) o por la aprobación de una moción de CENSURA (no de confianza). Esta opción invierte los conceptos de forma errónea.",
+    "D": "Esta opción confunde los mecanismos de control parlamentario: la moción de confianza la plantea el propio Gobierno ante el Parlamento para ratificar su respaldo, mientras que la moción de censura es el instrumento por el que el Parlamento retira su confianza al Gobierno. La opción mezcla incorrectamente ambos conceptos."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 12 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la atención primaria comprenderá:",
+  "opciones": {
+   "A": "La asistencia especializada en hospital de día, médico y quirúrgico.",
+   "B": "La hospitalización en régimen de internamiento.",
+   "C": "La asistencia sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo.",
+   "D": "La asistencia sanitaria a demanda y programada en la consulta. Queda excluida de la atención primaria la asistencia sanitaria en el domicilio del enfermo."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 10,
+   "tema": "Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 12 de la Ley 16/2003 define la atención primaria como el nivel básico e inicial de atención que garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos. Incluye expresamente la asistencia sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo, lo que refleja la vocación de accesibilidad y proximidad de este nivel asistencial.",
+   "incorrectas": {
+    "A": "La asistencia especializada en hospital de día, médico y quirúrgico, es una prestación de la atención especializada, no de la atención primaria. El artículo 13 de la misma ley la incluye expresamente en el nivel especializado.",
+    "B": "La hospitalización en régimen de internamiento corresponde a la atención especializada según el artículo 13 de la Ley 16/2003, dado que requiere recursos y equipamiento propios del entorno hospitalario.",
+    "D": "Esta opción excluye incorrectamente la asistencia domiciliaria de la atención primaria, cuando en realidad la atención en el domicilio del enfermo está expresamente incluida en la cartera de servicios de atención primaria, tanto en la modalidad urgente como en la programada."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 7 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud:",
+  "opciones": {
+   "A": "El catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención.",
+   "B": "El catálogo de prestaciones del Sistema Nacional de Salud comprenderá las prestaciones correspondientes a a salud medioambiental, primeros auxilios, cirugía estética, atención especial, dependencia, dietética y nutrición y transporte médico.",
+   "C": "El catálogo de prestaciones del Sistema Nacional de Salud no comprenderá la prestación farmacéutica.",
+   "D": "El catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención sanitaria primaria, pero no especializada."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 10,
+   "tema": "Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 7 de la Ley 16/2003 establece que el catálogo de prestaciones del SNS tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención. Esto implica que la cobertura no se limita a un solo nivel asistencial sino que abarca toda la cadena asistencial de forma coordinada, asegurando la equidad en el acceso a las prestaciones en todo el territorio nacional.",
+   "incorrectas": {
+    "B": "Esta opción mezcla prestaciones incluidas (salud medioambiental, primeros auxilios, transporte médico) con otras que no forman parte del catálogo básico del SNS en esos términos, como la cirugía estética (excluida salvo por razones reconstructivas). El catálogo real incluye salud pública, atención primaria, atención especializada, prestación farmacéutica, ortoprotésica, de productos dietéticos y de transporte sanitario.",
+    "C": "Esta afirmación es falsa: la prestación farmacéutica está expresamente incluida en el catálogo de prestaciones del SNS según la Ley 16/2003. La financiación pública de medicamentos es una de las prestaciones nucleares del sistema sanitario español.",
+    "D": "El catálogo de prestaciones garantiza condiciones básicas y comunes para una atención tanto primaria como especializada, así como el resto de niveles asistenciales. Limitarlo únicamente a la atención primaria contradice el texto de la ley y el modelo de atención integral que persigue."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 3 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, son profesionales del área sanitaria de formación profesional:",
+  "opciones": {
+   "A": "Quienes ostentan los títulos de formación profesional de la familia profesional sanidad, o los títulos o certificados equivalentes a los mismos.",
+   "B": "Quienes ostentan los títulos de formación profesional de la familia profesional sanidad, no sienvo válidos los títulos o certificados equivalentes a los mismos.",
+   "C": "Quienes ostentan cualquier título de formación profesional, o los títulos o certificados equivalentes a los mismos.",
+   "D": "Quienes ostentan cualquier título de formación profesional, no siendo válidos los títulos o certificados equivalentes a los mismos."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 11,
+   "tema": "Ley 44/2003 de Ordenación de las Profesiones Sanitarias. Ámbito de aplicación, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 3 de la Ley 44/2003 define como profesionales del área sanitaria de formación profesional a quienes ostentan los títulos de formación profesional de la familia profesional sanidad, o los títulos o certificados equivalentes a los mismos. La ley es específica en cuanto a la familia profesional (sanidad) y reconoce la equivalencia de otros títulos o certificados, lo que permite la incorporación de titulaciones obtenidas en otros sistemas educativos o marcos de certificación.",
+   "incorrectas": {
+    "B": "Esta opción es incorrecta porque excluye los títulos o certificados equivalentes, cuando la ley expresamente los reconoce como válidos. Negar la equivalencia de títulos limitaría injustificadamente el acceso a la práctica profesional sanitaria.",
+    "C": "Esta opción es incorrecta porque amplía en exceso el ámbito a cualquier título de formación profesional, independientemente de la familia profesional. La ley exige específicamente que el título pertenezca a la familia profesional de sanidad, no a cualquier otra rama de la formación profesional.",
+    "D": "Esta opción incurre en dos errores: amplía el ámbito a cualquier título de formación profesional (sin restringirlo a la familia de sanidad) y además excluye los títulos equivalentes, que la ley sí reconoce expresamente."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 8 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios revisarán que los profesionales sanitarios de su plantilla cumplen los requisitos necesarios para ejercer la profesión:",
+  "opciones": {
+   "A": "Cada cinco años como mínimo.",
+   "B": "Cada tres años como mínimo.",
+   "C": "Cada siete años como mínimo.",
+   "D": "Cada diez años como mínimo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 11,
+   "tema": "Ley 44/2003 de Ordenación de las Profesiones Sanitarias. Ámbito de aplicación, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 8 de la Ley 44/2003 establece que los centros sanitarios deben revisar, como mínimo cada tres años, que los profesionales sanitarios de su plantilla cumplen los requisitos necesarios para ejercer la profesión. Esta periodicidad trienal busca garantizar que los profesionales mantienen sus habilitaciones, registros y cualificaciones actualizados, protegiendo así la seguridad de los pacientes.",
+   "incorrectas": {
+    "A": "El plazo de cinco años es incorrecto según el artículo 8 de la Ley 44/2003. La revisión debe realizarse con mayor frecuencia, concretamente cada tres años como mínimo.",
+    "C": "El plazo de siete años supera con creces el establecido legalmente y sería insuficiente para garantizar que los profesionales mantienen sus habilitaciones vigentes, ya que pueden caducar o modificarse en plazos más cortos.",
+    "D": "El plazo de diez años es excesivamente largo y no se corresponde con lo establecido en la Ley 44/2003. Una revisión decenal resultaría inadecuada para asegurar la aptitud continuada de los profesionales sanitarios."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 13 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, los usuarios y pacientes del Sistema Nacional de Salud:",
+  "opciones": {
+   "A": "Los usuarios y pacientes del Sistema Internacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente para elegir médico, e igualmente centro.",
+   "B": "Los usuarios y pacientes del Sistema Nacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente únicamente para elegir médico.",
+   "C": "Los usuarios y pacientes del Sistema Nacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente para elegir médico, e igualmente centro.",
+   "D": "Los usuarios y pacientes del Sistema Nacional de Salud, tanto en la atención primaria como en la especializada, tendrán derecho a la información previa correspondiente únicamente para elegir centro."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "El artículo 13 de la Ley 41/2002 reconoce a los usuarios y pacientes del Sistema Nacional de Salud el derecho a recibir información previa para poder elegir tanto al médico como al centro sanitario, en los dos niveles asistenciales (atención primaria y especializada). Este derecho de elección dual refuerza el principio de autonomía del paciente y su capacidad de decisión activa en su proceso asistencial.",
+   "incorrectas": {
+    "A": "Esta opción contiene un error fundamental al mencionar el 'Sistema Internacional de Salud', que no existe como institución. El artículo 13 hace referencia exclusivamente al Sistema Nacional de Salud español.",
+    "B": "Esta opción restringe incorrectamente el derecho a la elección únicamente al médico, omitiendo el derecho a elegir también el centro sanitario, que la ley reconoce expresamente en el mismo precepto.",
+    "D": "Esta opción restringe incorrectamente el derecho a la elección únicamente al centro sanitario, omitiendo el derecho a elegir también al médico, que es igualmente reconocido por el artículo 13 de la Ley 41/2002."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 11 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica:",
+  "opciones": {
+   "A": "Las instrucciones previas no podrán revocarse una vez transcurrido un año desde su formalización.",
+   "B": "Las instrucciones previas podrán revocarse libremente, sin necesidad de su constancia por escrito.",
+   "C": "Las instrucciones previas podrán revocarse libremente dejando constancia por escrito.",
+   "D": "Las instrucciones previas podrán revocarse, previa sentencia judicial."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "El artículo 11.4 de la Ley 41/2002 establece que las instrucciones previas (también llamadas testamento vital o voluntades anticipadas) podrán revocarse libremente en cualquier momento, debiendo dejar constancia de ello por escrito. Este requisito formal de la constancia escrita garantiza la trazabilidad y certeza jurídica del acto de revocación, y protege al paciente y a los profesionales sanitarios.",
+   "incorrectas": {
+    "A": "La Ley 41/2002 no establece ningún plazo mínimo ni máximo para la revocación de las instrucciones previas. Pueden revocarse en cualquier momento sin limitación temporal, lo que garantiza el respeto permanente a la autonomía del paciente.",
+    "B": "Si bien la revocación es libre, la ley exige que quede constancia escrita de dicha revocación. Esta opción es incorrecta al afirmar que no es necesaria la constancia por escrito, ya que el requisito formal es exigido expresamente por el artículo 11.4.",
+    "D": "La revocación de instrucciones previas no requiere ninguna intervención judicial. Es un acto unilateral del propio paciente que puede realizarse libremente en cualquier momento, sin necesidad de sentencia ni de ningún otro procedimiento judicial o administrativo especial."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 49 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria:",
+  "opciones": {
+   "A": "El ciudadano está obligado a firmar el documento pertinente en el caso de negarse a las actuaciones sanitarias propuestas.",
+   "B": "El ciudadano no está obligado a firmar el documento pertinente en el caso de negarse a las actuaciones sanitarias propuestas.",
+   "C": "El ciudadano está obligado a firmar el documento pertinente en el caso de aceptar las actuaciones sanitarias propuestas.",
+   "D": "Ninguna de las respuestas es correcta."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 49 de la Ley 7/2002 de Ordenación Sanitaria de Cantabria establece que cuando un ciudadano se niega a las actuaciones sanitarias propuestas, está obligado a firmar el documento pertinente (alta voluntaria o consentimiento informado de rechazo). Esta obligación de firma tiene como finalidad dejar constancia formal del ejercicio del derecho de rechazo y exime de responsabilidad al profesional sanitario que ha ofrecido y explicado adecuadamente la actuación rechazada.",
+   "incorrectas": {
+    "B": "Esta opción contradice el artículo 49 de la Ley 7/2002 de Cantabria, que sí exige la firma del documento pertinente cuando el ciudadano se niega a las actuaciones sanitarias, precisamente para garantizar la seguridad jurídica de todos los implicados.",
+    "C": "La obligación de firma recogida en el artículo 49 se refiere al caso de negativa a las actuaciones, no al de aceptación. Cuando el ciudadano acepta, el procedimiento es el consentimiento informado, regulado en otros preceptos de la ley.",
+    "D": "Esta opción es incorrecta porque la opción A sí recoge correctamente el contenido del artículo 49 de la Ley 7/2002 de Ordenación Sanitaria de Cantabria."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 8.4 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, la dirección, control, inspección y evaluación de las actividades, servicios y recursos del Sistema Sanitario Público de Cantabria, corresponden a:",
+  "opciones": {
+   "A": "La Direccion Gerencia del Servicio Cántabro de Salud.",
+   "B": "El Ministerio competente en materia sanidad.",
+   "C": "El Parlamento de Cantabria.",
+   "D": "La Consejería competente en materia de sanidad."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 8.4 de la Ley 7/2002 de Ordenación Sanitaria de Cantabria atribuye a la Consejería competente en materia de sanidad la dirección, control, inspección y evaluación de las actividades, servicios y recursos del Sistema Sanitario Público de Cantabria. La Consejería, como órgano de la Administración autonómica, ejerce la función de rectoría superior del sistema sanitario, siendo la encargada de definir la política sanitaria y supervisar su cumplimiento.",
+   "incorrectas": {
+    "A": "La Dirección Gerencia del Servicio Cántabro de Salud es el órgano de gestión y ejecución del sistema sanitario, pero no tiene atribuida la función de dirección, control e inspección superiores, que corresponde al nivel político-administrativo de la Consejería.",
+    "B": "El Ministerio competente en materia de sanidad es el órgano rector a nivel estatal, pero las competencias de dirección, control, inspección y evaluación del sistema sanitario autonómico de Cantabria corresponden a la Comunidad Autónoma, en virtud del modelo de descentralización sanitaria establecido en la Constitución y en la Ley General de Sanidad.",
+    "C": "El Parlamento de Cantabria es el poder legislativo autonómico y ejerce la función de control político del Gobierno, pero no tiene atribuidas funciones ejecutivas de dirección, control e inspección del sistema sanitario, que corresponden al poder ejecutivo."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 9 de la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención santiaria especializada en el sistema sanitario público de Cantabria:",
+  "opciones": {
+   "A": "El certificado de garantía tendrá una vigencia de un año.",
+   "B": "El certificado de garantía será expedido por el Ministerio de Sanidad.",
+   "C": "El o la paciente podrá solicitar el reconocimiento del derecho a la garantía de atención sanitaria primaria previsto en la presente Ley.",
+   "D": "El o la paciente deberá solicitar el reconocimiento del derecho a la garantía de atención especializada previsto en la presente Ley."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 9 de la Ley 7/2006 de Cantabria establece que el certificado de garantía expedido al paciente cuando se supera el tiempo máximo de respuesta en atención especializada tendrá una vigencia de un año. Este plazo de validez anual permite al paciente ejercer su derecho a la atención garantizada en otro centro dentro de ese período de tiempo.",
+   "incorrectas": {
+    "B": "El certificado de garantía es expedido por el Servicio Cántabro de Salud, no por el Ministerio de Sanidad. Las garantías de tiempos de espera son competencia autonómica y su gestión y certificación corresponden a la administración sanitaria de Cantabria.",
+    "C": "La Ley 7/2006 regula garantías de tiempos máximos de respuesta en atención especializada, no en atención primaria. La ley no contempla el reconocimiento de garantías para la atención primaria, que tiene un marco normativo diferente.",
+    "D": "Aunque la ley sí versa sobre atención especializada, el artículo 9 específicamente regula el certificado de garantía y su vigencia, no la obligación de solicitud por parte del paciente. Además, la formulación 'deberá solicitar' no corresponde al contenido de este artículo."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta FALSA, de acuerdo con el artículo 4 de la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención sanitaria especializada en el sistema sanitario público de Cantabria, en consulta externa programada y no urgente:",
+  "opciones": {
+   "A": "Está garantizada la primera consulta en Alergología.",
+   "B": "Está garantizada la primera consulta en Otorrinolaringología.",
+   "C": "Está garantizada la primera consulta en Urología.",
+   "D": "Está garantizada la primera consulta en Cirugía cardio-vascular."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "La opción D es FALSA porque la Cirugía cardiovascular no figura entre las especialidades con garantía de primera consulta en el artículo 4 de la Ley 7/2006 de Cantabria, que contempla un listado tasado de especialidades. La Cirugía cardiovascular no está incluida en dicho listado, por lo que la afirmación de que 'está garantizada' es incorrecta en los términos de esa ley específica.",
+   "incorrectas": {
+    "A": "La primera consulta en Alergología sí está garantizada por el artículo 4 de la Ley 7/2006 de Cantabria dentro de las especialidades de consulta externa programada y no urgente, por lo que esta afirmación es correcta y no puede ser la respuesta falsa.",
+    "B": "La primera consulta en Otorrinolaringología también está incluida en el listado de especialidades garantizadas del artículo 4 de la Ley 7/2006, por lo que esta opción es verdadera y no es la respuesta falsa.",
+    "C": "La primera consulta en Urología igualmente figura entre las especialidades con garantía de tiempo máximo de respuesta en consulta externa programada según el artículo 4 de la Ley 7/2006, siendo por tanto una afirmación correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 215/2019, de 14 de noviembre, de Estructura Básica del Servicio Cántabro de Salud, modificado por el Decreto 93/2022, de 29 de septiembre, es uno de los órganos periféricos del Servicio Cántabro de Salud:",
+  "opciones": {
+   "A": "Gerencia de Atención Especializada del Área I: Hospital Comarcal de Laredo.",
+   "B": "Gerencia de Atención Especializada de las Áreas IV y V: Hospital Comarcal Sierrallana.",
+   "C": "Gerencia de Atención Especializada de las Áreas II y III: Hospital Comarcal de Reinosa.",
+   "D": "Gerencia de Atención Primaria."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "Según el Decreto 215/2019 modificado por el Decreto 93/2022, la Gerencia de Atención Primaria es uno de los órganos periféricos del Servicio Cántabro de Salud. Los órganos periféricos son aquellos con implantación territorial descentralizada que gestionan directamente la asistencia, y la atención primaria, por su naturaleza de red distribuida en zonas de salud, se organiza bajo esta gerencia como órgano periférico.",
+   "incorrectas": {
+    "A": "La denominación 'Gerencia de Atención Especializada del Área I: Hospital Comarcal de Laredo' no se corresponde con la estructura establecida en el Decreto 215/2019 modificado. La organización territorial de la atención especializada en Cantabria agrupa las áreas de forma diferente a la descrita en esta opción.",
+    "B": "La 'Gerencia de Atención Especializada de las Áreas IV y V: Hospital Comarcal Sierrallana' no recoge correctamente la estructura del Decreto 215/2019 modificado. El Hospital Sierrallana y las áreas de salud correspondientes están agrupados de manera distinta en la normativa vigente.",
+    "C": "La 'Gerencia de Atención Especializada de las Áreas II y III: Hospital Comarcal de Reinosa' no es la denominación correcta según la estructura básica del Servicio Cántabro de Salud establecida por el decreto y su modificación posterior."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 215/2019, de 14 de noviembre, de Estructura Básica del Servicio Cántabro de Salud, modificado por el Decreto 93/2022, de 29 de septiembre, es uno de los órganos centrales del Servicio Cántabro de Salud:",
+  "opciones": {
+   "A": "La Dirección de Asistencia Hospitalaria.",
+   "B": "La Subdirección de Recursos Humanos y Coordinación Administrativa.",
+   "C": "La Dirección Central.",
+   "D": "La Subdirección de Servicio de Personal."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "Según el Decreto 215/2019 modificado por el Decreto 93/2022, la Subdirección de Recursos Humanos y Coordinación Administrativa es uno de los órganos centrales del Servicio Cántabro de Salud. Los órganos centrales tienen competencia sobre todo el territorio de la comunidad autónoma y gestionan funciones transversales como los recursos humanos, la coordinación administrativa, la planificación y la gestión económica.",
+   "incorrectas": {
+    "A": "La Dirección de Asistencia Hospitalaria no figura con esta denominación como órgano central en el Decreto 215/2019 modificado. La estructura orgánica del Servicio Cántabro de Salud no contempla este órgano con tal nombre en el nivel central.",
+    "C": "La denominación 'Dirección Central' es genérica y no corresponde a ningún órgano específico de la estructura básica del Servicio Cántabro de Salud recogida en el Decreto 215/2019 y su modificación.",
+    "D": "La 'Subdirección de Servicio de Personal' no es la denominación correcta de ninguno de los órganos centrales del Servicio Cántabro de Salud según la normativa indicada. El órgano competente en recursos humanos tiene una denominación diferente a la señalada en esta opción."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por que se establece el mapa sanitario autonómico de Cantabria, indique, de los relacionados a continuación, cuál es el Centro de Salud de la Zona de Salud Saja:",
+  "opciones": {
+   "A": "Cabezón de la Sal.",
+   "B": "Reocín.",
+   "C": "San Vicente de la Barquera.",
+   "D": "Polanco."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "Según el Decreto 27/2011 que establece el mapa sanitario autonómico de Cantabria, el Centro de Salud de la Zona de Salud Saja está ubicado en Cabezón de la Sal. Esta localidad es el núcleo de referencia de la zona de salud Saja, que recibe su nombre del río Saja y engloba municipios del área occidental de Cantabria próximos a este valle fluvial.",
+   "incorrectas": {
+    "B": "Reocín es un municipio de Cantabria que pertenece a una zona de salud diferente a la del Saja. Su Centro de Salud de referencia corresponde a otra zona sanitaria según el mapa del Decreto 27/2011.",
+    "C": "San Vicente de la Barquera es un municipio costero de Cantabria que constituye su propia zona de salud independiente, con su centro de salud propio, distinta de la Zona de Salud Saja.",
+    "D": "Polanco es un municipio situado en el área de influencia de Torrelavega y pertenece a una zona de salud diferente a la del Saja según el mapa sanitario autonómico de Cantabria."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por que se establece el mapa sanitario autonómico de Cantabria, indique, de los relacionados a continuación, el Centro de Salud Sarón comprende, entre otros, los municipios de:",
+  "opciones": {
+   "A": "San Roque de Riomiera.",
+   "B": "Puente Viesgo.",
+   "C": "Castañeda.",
+   "D": "Selaya."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "Según el Decreto 27/2011 del mapa sanitario autonómico de Cantabria, la zona de salud del Centro de Salud de Sarón comprende, entre otros, el municipio de Castañeda. Sarón es una localidad del municipio de Vega de Pas y su zona de salud abarca municipios del valle del Pas y zonas aledañas del interior de Cantabria.",
+   "incorrectas": {
+    "A": "San Roque de Riomiera es una localidad perteneciente a la zona de salud de Liérganes o a otra zona sanitaria del interior de Cantabria, no a la zona de salud de Sarón según el mapa del Decreto 27/2011.",
+    "B": "Puente Viesgo pertenece a su propia zona de salud o a la de otra localidad de referencia cercana, pero no está incluido en la zona de salud de Sarón según el Decreto 27/2011.",
+    "D": "Selaya es una localidad que pertenece a la zona de salud de Selaya, que tiene su propio centro de salud de referencia, independiente de la zona de salud de Sarón según el mapa sanitario de Cantabria."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "De acuerdo con el artículo 61 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, en los puestos de trabajo que tengan reconocido complemento específico:",
+  "opciones": {
+   "A": "Existirán dos modalidades: Modalidad A: cuyo importe ascenderá al 100 % de la cantidad que venía percibiéndose en tal concepto y Modalidad B: cuyo importe ascenderá al 75 % de la cantidad que venía percibiéndose en tal concepto.",
+   "B": "Existirán dos modalidades: Modalidad A: complemento específico sin factor de incompatibilidad y Modalidad B: complemento específico con factor de incompatibilidad.",
+   "C": "Existirán dos modalidades: Modalidad A: complemento específico con factor de incompatibilidad y Modalidad B: complemento específico sin factor de incompatibilidad.",
+   "D": "Existirán dos modalidades: Modalidad A: cuyo importe ascenderá al 100 % de la cantidad que venía percibiéndose en tal concepto y Modalidad B: cuyo importe ascenderá al 50 % de la cantidad que venía percibiéndose en tal concepto."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 14,
+   "tema": "Ley 55/2003 del Estatuto Marco de personal Estatutario de los Servicios de Salud (I). Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 61 de la Ley 9/2010 de personal estatutario de Cantabria establece que en los puestos con complemento específico existirán dos modalidades: la Modalidad A, que es el complemento específico sin factor de incompatibilidad, y la Modalidad B, que es el complemento específico con factor de incompatibilidad. Esta distinción es relevante porque el factor de incompatibilidad condiciona la posibilidad de ejercer actividades privadas compatibles con el puesto.",
+   "incorrectas": {
+    "A": "Esta opción describe erróneamente las modalidades en términos de porcentajes (100% y 75%) en lugar de caracterizarlas por la presencia o ausencia del factor de incompatibilidad, que es la distinción real establecida en el artículo 61 de la Ley 9/2010.",
+    "C": "Esta opción invierte los términos de las modalidades: la Modalidad A es la que carece de factor de incompatibilidad y la Modalidad B es la que sí lo tiene, no al contrario como indica esta opción.",
+    "D": "Esta opción describe las modalidades mediante porcentajes incorrectos (100% y 50%) que no se corresponden con el contenido del artículo 61 de la Ley 9/2010, que distingue las modalidades por el factor de incompatibilidad y no por diferencias porcentuales en el importe."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 57 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, el período mínimo de servicios prestados en el Sistema Nacional de Salud exigido para el reconocimiento de un Grado III de carrera profesional es:",
+  "opciones": {
+   "A": "20 años.",
+   "B": "22 años.",
+   "C": "No existe periodo mínimo.",
+   "D": "15 años."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 14,
+   "tema": "Ley 55/2003 del Estatuto Marco de personal Estatutario de los Servicios de Salud (I). Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "El artículo 57 de la Ley 9/2010 de personal estatutario de Cantabria establece que para el reconocimiento del Grado III de carrera profesional se exige un período mínimo de 15 años de servicios prestados en el Sistema Nacional de Salud. Este período acreditado de experiencia es uno de los requisitos temporales necesarios para acceder a los grados superiores de la carrera profesional, junto con otros criterios de evaluación.",
+   "incorrectas": {
+    "A": "El período de 20 años no corresponde al exigido para el Grado III. Podría confundirse con el requisito de algún otro grado superior de la carrera profesional, pero no es el establecido por el artículo 57 de la Ley 9/2010 para este grado concreto.",
+    "B": "El período de 22 años no figura entre los requisitos temporales establecidos para ningún grado de la carrera profesional en la Ley 9/2010 de Cantabria y no se corresponde con ningún umbral reconocido en este sistema.",
+    "C": "Sí existe un período mínimo de servicios establecido por la ley para el reconocimiento del Grado III. La carrera profesional en el sistema sanitario público está estructurada con requisitos temporales acumulativos y la ausencia de período mínimo haría inviable una carrera profesional basada en la experiencia y el mérito."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 4 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la igualdad de trato y de oportunidades entre mujeres y hombres es:",
+  "opciones": {
+   "A": "Un derecho fundamental recogido en el artículo 15 de la Constitución Española.",
+   "B": "Un principio rector de las políticas del Gobierno.",
+   "C": "Un principio informador del ordenamiento jurídico.",
+   "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 20,
+   "tema": "La igualdad de oportunidades entre mujeres y hombres en Aragón: Disposiciones generales."
+  },
+  "explicacion": {
+   "correcta": "El artículo 4 de la Ley Orgánica 3/2007 establece que la igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas. Esta formulación otorga al principio de igualdad un carácter transversal que impregna todo el sistema jurídico, más allá de ser un simple mandato puntual.",
+   "incorrectas": {
+    "A": "El artículo 15 de la Constitución Española recoge el derecho fundamental a la vida y a la integridad física y moral, no la igualdad de trato entre mujeres y hombres. La igualdad se recoge en los artículos 14 y 9.2 CE. Además, la Ley Orgánica 3/2007 no caracteriza la igualdad de trato como un derecho fundamental en su artículo 4, sino como principio informador del ordenamiento.",
+    "B": "La Ley Orgánica 3/2007 no define la igualdad de trato y oportunidades como un mero principio rector de las políticas del Gobierno, que tendría un alcance más limitado. Su configuración como principio informador del ordenamiento jurídico le otorga un alcance mucho más amplio y vinculante.",
+    "D": "No todas las respuestas son correctas, puesto que la opción A contiene errores tanto en la referencia constitucional como en la caracterización jurídica, y la opción B no recoge con precisión la formulación del artículo 4 de la LO 3/2007. Solo la opción C refleja fielmente el tenor literal del precepto."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Según el artículo 99 de la Ley de Cantabria 2/2019, de 7 de marzo, para la igualdad efectiva entre mujeres y hombres, las Administraciones públicas de Cantabria:",
+  "opciones": {
+   "A": "Garantizarán los derechos fundamentales, sólo de las niñas, por encima de cualquier condicionante cultural, religioso o social.",
+   "B": "Garantizarán los derechos fundamentales, sólo de las mujeres adultas, por encima de cualquier condicionante cultural, religioso o social.",
+   "C": "Garantizarán los derechos fundamentales de las mujeres adultas y niñas por encima de cualquier condicionante cultural, religioso o social.",
+   "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 20,
+   "tema": "La igualdad de oportunidades entre mujeres y hombres en Aragón: Disposiciones generales."
+  },
+  "explicacion": {
+   "correcta": "El artículo 99 de la Ley de Cantabria 2/2019 establece que las Administraciones públicas de Cantabria garantizarán los derechos fundamentales de las mujeres adultas y niñas por encima de cualquier condicionante cultural, religioso o social. Esta formulación inclusiva protege a todas las mujeres independientemente de su edad y reafirma la primacía de los derechos fundamentales frente a condicionantes que pudieran utilizarse para justificar discriminaciones.",
+   "incorrectas": {
+    "A": "Esta opción limita incorrectamente la protección únicamente a las niñas, excluyendo a las mujeres adultas, cuando el artículo 99 de la Ley 2/2019 de Cantabria extiende la garantía de derechos fundamentales a todas las mujeres, tanto adultas como niñas.",
+    "B": "Esta opción limita incorrectamente la protección únicamente a las mujeres adultas, excluyendo a las niñas, cuando el artículo 99 de la Ley 2/2019 de Cantabria extiende la garantía de derechos fundamentales a ambos grupos de forma conjunta.",
+    "D": "La opción D es incorrecta porque la opción C sí recoge fielmente el contenido del artículo 99 de la Ley de Cantabria 2/2019, que garantiza los derechos fundamentales de las mujeres adultas y niñas por encima de cualquier condicionante cultural, religioso o social."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la causa más frecuente de muerte en las víctimas iniciales de desastres naturales?",
+  "opciones": {
+   "A": "Traumatismos.",
+   "B": "Ahogamiento.",
+   "C": "Hipotermia.",
+   "D": "Quemaduras."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+  },
+  "explicacion": {
+   "correcta": "Los traumatismos son la causa más frecuente de mortalidad inmediata en las víctimas de desastres naturales, independientemente del tipo de catástrofe (terremotos, derrumbes, inundaciones, etc.). Los mecanismos de aplastamiento, impacto de estructuras, caídas y colisiones generan lesiones traumáticas graves que, si no reciben atención médica precoz, resultan fatales. La atención al politraumatizado es por ello el eje central de la respuesta sanitaria en catástrofes.",
+   "incorrectas": {
+    "B": "El ahogamiento es la causa predominante de muerte en desastres relacionados específicamente con el agua (tsunamis, inundaciones), pero no es la causa más frecuente a nivel global en todos los tipos de desastres naturales. A nivel general, los traumatismos superan al ahogamiento en frecuencia de mortalidad inicial.",
+    "C": "La hipotermia puede ser una causa de muerte en catástrofes en ambientes fríos o en supervivientes que permanecen expuestos al frío durante tiempo prolongado (aludes, naufragios en aguas frías), pero no es la causa más frecuente de mortalidad en las víctimas iniciales de desastres naturales en general.",
+    "D": "Las quemaduras son la causa principal de mortalidad en incendios y explosiones, pero representan una fracción minoritaria de las causas de muerte en el conjunto de los desastres naturales. Los traumatismos son cuantitativamente más frecuentes como causa de mortalidad inicial."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "El área de clasificación de urgencias cumple las siguientes funciones en caso de catástrofe, EXCEPTO:",
+  "opciones": {
+   "A": "Valoración rápida de todos los pacientes.",
+   "B": "Registro e identificación de los pacientes.",
+   "C": "Asignación de prioridades de tratamiento.",
+   "D": "Descontaminación de pacientes."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+  },
+  "explicacion": {
+   "correcta": "La descontaminación de pacientes NO es una función del área de clasificación (triaje) de urgencias en caso de catástrofe. La descontaminación se realiza en un área específica y diferenciada, previa al triaje y a la atención en urgencias, para evitar la contaminación del personal y las instalaciones hospitalarias. El área de clasificación tiene por objeto valorar, identificar y priorizar a los pacientes ya descontaminados, no realizar la descontaminación.",
+   "incorrectas": {
+    "A": "La valoración rápida de todos los pacientes es una función nuclear del área de clasificación en situaciones de catástrofe. El triaje permite identificar de forma expedita el estado clínico de cada víctima para orientar los recursos disponibles hacia quienes más se pueden beneficiar de atención inmediata.",
+    "B": "El registro e identificación de los pacientes es una función esencial del área de clasificación en catástrofes. Permite controlar el flujo de víctimas, facilitar la comunicación con familias y autoridades, y garantizar la trazabilidad asistencial de cada paciente.",
+    "C": "La asignación de prioridades de tratamiento es la función definitoria del triaje en catástrofes. Mediante sistemas estructurados (START, SALT, CRAMS, etc.), el área de clasificación determina el orden de atención en función de la gravedad y la posibilidad de supervivencia, optimizando el uso de recursos limitados."
+   }
+  }
+ }
+]

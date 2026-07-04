@@ -1,0 +1,522 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En un paciente cirrótico, los factores que con más frecuencia desencadenan encefalopatía son los siguientes, excepto:",
+  "opciones": {
+   "A": "Tratamiento con diuréticos.",
+   "B": "Hemorragia digestiva alta.",
+   "C": "Estreñimiento.",
+   "D": "Tratamiento con propanolol."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "El propranolol (betabloqueante no selectivo) se utiliza en el paciente cirrótico para la profilaxis del sangrado por varices, y no es un desencadenante clásico de la encefalopatía hepática. Los factores precipitantes habituales de la encefalopatía hepática incluyen la hemorragia digestiva, el estreñimiento, el uso de diuréticos (que pueden inducir alcalosis hipoclorémica e hipopotasemia) y las infecciones.",
+   "incorrectas": {
+    "A": "Los diuréticos son un factor precipitante frecuente porque pueden provocar alcalosis metabólica e hipopotasemia, que favorecen la producción y absorción de amonio.",
+    "B": "La hemorragia digestiva alta aporta una gran carga proteica al colon, aumentando la producción de amonio y desencadenando encefalopatía.",
+    "C": "El estreñimiento prolonga el tránsito intestinal y facilita la producción bacteriana de amonio, siendo un precipitante reconocido de encefalopatía hepática."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto de los péptidos natriuréticos, señale la respuesta falsa:",
+  "opciones": {
+   "A": "Sus valores están aumentados en la Insuficiencia Cardiaca aguda más que en la crónica.",
+   "B": "La normalidad en paciente no tratado descarta la Insuficiencia cardíaca",
+   "C": "Son útiles para ver la respuesta al tratamiento.",
+   "D": "La elevación es exclusiva de enfermedad cardiaca."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es que la elevación de los péptidos natriuréticos sea exclusiva de enfermedad cardiaca. El BNP y NT-proBNP pueden elevarse en múltiples procesos no cardiacos como la insuficiencia renal, la embolia pulmonar, la sepsis, la hipertensión pulmonar, la EPOC grave o la edad avanzada, por lo que su especificidad para cardiopatía es limitada.",
+   "incorrectas": {
+    "A": "En la insuficiencia cardiaca aguda los valores de BNP/NT-proBNP son habitualmente más elevados que en la crónica compensada, lo cual es correcto.",
+    "B": "Un BNP o NT-proBNP normal en un paciente no tratado tiene alto valor predictivo negativo y permite descartar insuficiencia cardiaca con gran fiabilidad, afirmación verdadera.",
+    "C": "Los péptidos natriuréticos son marcadores útiles para monitorizar la respuesta al tratamiento en la insuficiencia cardiaca, siendo esta afirmación correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál de los siguientes fármacos no esta indicado para control de la frecuencia cardiaca en la fibrilación auricular?",
+  "opciones": {
+   "A": "Antiarritmicos de clase I.",
+   "B": "Betabloqueantes.",
+   "C": "Calcioantagonistas no dihidropiridínicos.",
+   "D": "Amiodarona."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."
+  },
+  "explicacion": {
+   "correcta": "Los antiarrítmicos de clase I (como la flecainida o la propafenona) actúan bloqueando los canales de sodio y están indicados para el control del ritmo (cardioversión farmacológica o mantenimiento del ritmo sinusal) en la fibrilación auricular, pero NO para el control de la frecuencia ventricular. El control de frecuencia se consigue frenando la conducción a través del nodo AV, función que no realizan los fármacos clase I.",
+   "incorrectas": {
+    "B": "Los betabloqueantes enlentecen la conducción a través del nodo AV y son fármacos de primera línea para el control de la frecuencia en la FA.",
+    "C": "Los calcioantagonistas no dihidropiridínicos como el verapamilo y el diltiazem bloquean el nodo AV y son eficaces para el control de frecuencia en la FA.",
+    "D": "La amiodarona, aunque es principalmente un fármaco de control del ritmo, también produce enlentecimiento de la conducción nodal y puede usarse para control de frecuencia especialmente en pacientes con disfunción ventricular."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál de las siguientes actuaciones es incorrecta en un paciente con crisis hipertensiva sintomática?",
+  "opciones": {
+   "A": "Si TAS/TAD < 180/110 y síntomas leves, reposo tomar TA en 20 minutos y tratar síntoma. A su alta indicar tratamiento antihipertensivo si el paciente no era hipertenso conocido.",
+   "B": "Si TAS/TAD < 180/110 y síntomas graves, reposo e iniciar tratamiento farmacológico en función de la causa.",
+   "C": "Si TAS/TAD > 180/110 y síntomas leves, reposo, toma de TA en 20 minutos y si persiste iniciar tratamiento farmacológico antihipertensivo.",
+   "D": "Si TAS/TAD > 180/110 y síntomas graves iniciar tratamiento farmacológico antihipertensivo en función del tipo de emergencia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "La opción A es incorrecta porque en un paciente con cifras tensionales menores de 180/110 y síntomas leves, si no era hipertenso conocido, se debe iniciar tratamiento antihipertensivo siempre al alta, no solo indicarlo de forma condicional: cualquier paciente con esas cifras en ese contexto requiere inicio de tratamiento para prevenir eventos cardiovasculares futuros, independientemente de si ya era hipertenso o no.",
+   "incorrectas": {
+    "B": "Ante cifras menores de 180/110 con síntomas graves se debe iniciar tratamiento farmacológico urgente adaptado a la causa, lo cual es correcto.",
+    "C": "Con cifras mayores de 180/110 y síntomas leves, el reposo con nueva toma y posterior inicio de tratamiento si persiste es la conducta apropiada y correcta.",
+    "D": "Ante una emergencia hipertensiva con cifras mayores de 180/110 y síntomas graves se debe iniciar tratamiento farmacológico inmediato según el tipo de emergencia, lo que es correcto."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto del tratamiento en la reagudización de asma, es falso que:",
+  "opciones": {
+   "A": "Los beta 2 agonistas inhalados o mediante nebulización son el pilar inicial.",
+   "B": "Los corticoides VO o IV son necesarios si persiste los síntomas pese a nebulizaciones de beta-2 + anticolinérgicos, en los cuadros moderados o graves, uso de esteroides de base o necesidad de esteroides en crisis previas.",
+   "C": "La antibioterapia está indicada en reagudizaciones moderadas o severas.",
+   "D": "El sulfato de magnesio esta indicado en reagudización grave asma que no responde o riesgo vital."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 55,
+   "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Es falso que la antibioterapia esté indicada de forma sistemática en las reagudizaciones asmáticas moderadas o severas. Las exacerbaciones de asma son predominantemente de causa viral, alérgica o ambiental, y los antibióticos solo se reservan para aquellos casos en los que se demuestra o existe alta sospecha de infección bacteriana concomitante, lo que no es la norma.",
+   "incorrectas": {
+    "A": "Los beta-2 agonistas de acción corta inhalados o nebulizados son el tratamiento de primera línea en la crisis asmática, lo que es correcto.",
+    "B": "La indicación de corticoides sistémicos en los supuestos descritos es correcta según las guías de manejo de la agudización asmática.",
+    "D": "El sulfato de magnesio intravenoso está indicado en la crisis asmática grave refractaria o con riesgo vital, siendo esta afirmación verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuándo sospechará infección por pseudomona aeruginosa en una neumonía?",
+  "opciones": {
+   "A": "Antecedentes de Bronquiectasias.",
+   "B": "Neumonia cavitada.",
+   "C": "Neutropénicos.",
+   "D": "Antibioterapia durante mas de 7 días previa en el último mes."
+  },
+  "respuesta_correcta": null,
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "El empiema se define como:",
+  "opciones": {
+   "A": "Presencia de gérmenes.",
+   "B": "Glucosa indetectable.",
+   "C": "Presencia de pus.",
+   "D": "pH < 7.00."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 58,
+   "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "El empiema pleural se define por la presencia de pus en el espacio pleural, es decir, un líquido pleural macroscópicamente purulento. Esta definición es la clásica y clínicamente más reconocida, y no requiere que se cumplan todos los criterios de derrame paraneumónico complicado como el pH bajo o la glucosa indetectable.",
+   "incorrectas": {
+    "A": "La presencia de gérmenes en el cultivo puede ocurrir en un derrame paraneumónico complicado sin que el líquido sea macroscópicamente purulento, por lo que no define en sí mismo el empiema.",
+    "B": "La glucosa indetectable es un criterio de derrame paraneumónico complicado pero no la definición de empiema; puede haber empiema con glucosa detectable.",
+    "D": "Un pH menor de 7.00 orienta hacia derrame complicado o empiema pero no es la definición del mismo; el empiema se define por la presencia macroscópica de pus."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál de los siguientes no es criterio para activar código ictus con prioridad 1?",
+  "opciones": {
+   "A": "Edad < 80 años.",
+   "B": "Tiempo inicio documentado < 4 horas.",
+   "C": "Paresia incluida facial, trastorno de lenguaje y trastorno campo visual.",
+   "D": "Coma."
+  },
+  "respuesta_correcta": null,
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un paciente en coma, ¿cuál de las siguientes medidas no forma parte de la actuación inicial?",
+  "opciones": {
+   "A": "Comprobar vía aérea, ventilación y circulación.",
+   "B": "Glasgow y valoración pupilar.",
+   "C": "Glucemia capilar.",
+   "D": "TAC de cráneo."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El TAC craneal no forma parte de la actuación inicial inmediata ante un paciente en coma. La aproximación inicial al paciente en coma sigue el esquema ABC (vía aérea, ventilación, circulación), seguido de la exploración neurológica básica con escala de Glasgow y valoración pupilar, y la glucemia capilar para descartar hipoglucemia, que es una causa tratable de coma. El TAC es una prueba de segunda línea que se realiza una vez el paciente está estabilizado.",
+   "incorrectas": {
+    "A": "La valoración y aseguramiento de la vía aérea, la ventilación y la circulación es la primera medida ante cualquier paciente en coma, siguiendo el protocolo ABCDE.",
+    "B": "La valoración del nivel de consciencia con la escala de Glasgow y el examen pupilar son parte esencial de la exploración neurológica inicial en el coma.",
+    "C": "La glucemia capilar debe realizarse de inmediato ante todo coma para descartar hipoglucemia, causa frecuente y de resolución inmediata si se trata precozmente."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En relación con el tratamiento de la deprivación alcohólica, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Las benzodiacepinas son los fármacos de elección pues previenen las convulsiones y el deliriums tremens.",
+   "B": "El clormetiazol puede prevenir el deliriums tremens pero no la convulsiones.",
+   "C": "El tiapride previene las convulsiones pero no el deliriums tremens.",
+   "D": "Los neurolépticos ayudan en el control de las alucinaciones o de la agitación marcada y debe usarse asociado a benzodiacepinas porque desciende umbral epileptógeno."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es que el tiapride prevenga las convulsiones. El tiapride es un antidopaminérgico que tiene utilidad en el control de la agitación y el temblor del síndrome de abstinencia alcohólica, pero no tiene propiedades anticonvulsivantes y no previene las convulsiones ni el delirium tremens; de hecho, como todos los neurolépticos, puede reducir el umbral epileptógeno.",
+   "incorrectas": {
+    "A": "Las benzodiacepinas son efectivamente los fármacos de elección en el síndrome de abstinencia alcohólica porque previenen tanto las convulsiones como el delirium tremens, siendo esta afirmación correcta.",
+    "B": "El clormetiazol puede prevenir el delirium tremens pero su efecto anticonvulsivante es discutido y menos fiable que el de las benzodiacepinas, por lo que esta opción es esencialmente correcta.",
+    "D": "Los neurolépticos pueden ayudar a controlar las alucinaciones y la agitación en la abstinencia alcohólica, pero deben asociarse a benzodiacepinas porque por sí solos reducen el umbral convulsivo, siendo esta afirmación correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En caso de sospecha de cuadro meningitico agudo, la punción lumbar debe ir precedida de prueba de imagen (TAC) en los siguientes casos, excepto:",
+  "opciones": {
+   "A": "Foco parameningeo.",
+   "B": "Sospecha de Neumocócica.",
+   "C": "Convulsiones.",
+   "D": "HIV."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 69,
+   "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La sospecha de meningitis neumocócica por sí sola no es una indicación para realizar TAC craneal previo a la punción lumbar. Las indicaciones de neuroimagen previa a la punción lumbar en la meningitis bacteriana incluyen: foco neurológico, convulsiones, alteración del nivel de consciencia, inmunosupresión (incluido HIV), papiledema o sospecha de lesión ocupante de espacio o foco parameníngeo. La etiología neumocócica sospechada no figura entre estas indicaciones.",
+   "incorrectas": {
+    "A": "La presencia de foco parameníngeo como sinusitis o mastoiditis es una indicación para realizar TAC previo a la punción lumbar por riesgo de herniación o de lesión asociada.",
+    "C": "Las convulsiones son una indicación establecida para realizar neuroimagen previa a la punción lumbar en el contexto de meningitis aguda.",
+    "D": "El paciente con HIV es un inmunodeprimido en quien se debe realizar TAC previo a la punción lumbar para descartar lesiones ocupantes de espacio como el linfoma o el absceso cerebral."
+   }
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Qué sospecharía ante un paciente de 74 años con un cuadro de deterioro cognitivo progresivo desde hace 3 meses con perdida de control de esfínteres y alteración en la marcha?",
+  "opciones": {
+   "A": "Hidrocefalia normotensiva.",
+   "B": "Demencia tipo Alzheimer.",
+   "C": "Tumor cerebral.",
+   "D": "Pseudotumor cerebri."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La triada de Adams-Hakim (trastorno de la marcha, incontinencia urinaria y deterioro cognitivo) en un paciente anciano es la presentación clásica de la hidrocefalia normotensiva, una causa tratable de demencia. La evolución subaguda en semanas o pocos meses y la combinación de los tres síntomas orientan claramente hacia este diagnóstico.",
+   "incorrectas": {
+    "B": "La demencia tipo Alzheimer cursa con deterioro cognitivo progresivo pero no suele asociar incontinencia urinaria ni trastorno de la marcha en fases tan precoces como la descrita.",
+    "C": "Un tumor cerebral puede provocar deterioro cognitivo y otros síntomas neurológicos, pero la tríada clásica descrita sin síntomas de hipertensión intracraneal como cefalea o papiledema hace menos probable este diagnóstico.",
+    "D": "El pseudotumor cerebri cursa con hipertensión intracraneal sin hidrocefalia y se presenta típicamente en mujeres jóvenes con obesidad con cefalea y alteraciones visuales, no con esta triada en un anciano."
+   }
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un cuadro de inicio progresivo de 24 horas de evolución de vértigo intenso con nauseas y vómitos, que se provoca con la postura o movimientos de la cabeza, sin hipoacusia, siendo imposible el equilibrio y la marcha, que diagnóstico le sugiere:",
+  "opciones": {
+   "A": "Laberintitis aguda.",
+   "B": "Neuronitis vestibular.",
+   "C": "Síndrome de Meniére.",
+   "D": "Vértigo posicional paroxístico benigno."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La neuronitis vestibular se caracteriza por un vértigo periférico de instauración progresiva en horas, muy intenso, con náuseas y vómitos, que empeora con los movimientos cefálicos, sin hipoacusia ni síntomas cocleares, con imposibilidad para la marcha y el equilibrio. Afecta exclusivamente al nervio vestibular respetando la rama coclear, lo que explica la ausencia de hipoacusia.",
+   "incorrectas": {
+    "A": "La laberintitis aguda también cursa con vértigo intenso pero se asocia típicamente a hipoacusia y a veces otalgia o fiebre, dado que el laberinto completo (cóclea y vestíbulo) está afectado.",
+    "C": "El síndrome de Ménière se caracteriza por episodios recurrentes de vértigo acompañados de hipoacusia fluctuante, acúfenos y sensación de plenitud ótica, datos ausentes en el caso descrito.",
+    "D": "El vértigo posicional paroxístico benigno cursa con episodios breves de vértigo (segundos a minutos) desencadenados por cambios de posición, sin la intensidad ni la duración sostenida descrita en el caso."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En el manejo de la situación hiperglucémica hiperosmolar, señale lo incorrecto:",
+  "opciones": {
+   "A": "Aporte hidroelectrolítico intenso.",
+   "B": "Insulinización con dosis superiores a la Cetoacidosis diabética.",
+   "C": "Búsqueda factor desencadenante.",
+   "D": "Poner heparina de bajo peso molecular profiláctica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "En el síndrome hiperosmolar hiperglucémico no cetósico, las dosis de insulina necesarias son habitualmente menores que en la cetoacidosis diabética. Estos pacientes son muy sensibles a la insulina porque no tienen resistencia cetogénica y la hidratación intensiva por sí sola reduce significativamente la glucemia; de hecho, el exceso de insulina en este contexto puede provocar hipoglucemia e hipopotasemia graves.",
+   "incorrectas": {
+    "A": "El aporte hidroelectrolítico intenso es el pilar fundamental del tratamiento del síndrome hiperosmolar, ya que la deshidratación profunda es el principal problema fisiopatológico.",
+    "C": "La búsqueda del factor desencadenante (infección, infarto, fármacos hiperglucemiantes, etc.) es obligatoria en el manejo del síndrome hiperosmolar para tratar la causa subyacente.",
+    "D": "La profilaxis antitrombótica con heparina de bajo peso molecular está indicada en el síndrome hiperosmolar por el alto riesgo trombótico derivado de la hiperviscosidad sanguínea y la inmovilización."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "El tratamiento de la crisis tirotóxica comprende todos los siguientes excepto:",
+  "opciones": {
+   "A": "Inhibir la liberación de hormonas con propiltiouracilo y yodo (Lugol o contrastes iodados).",
+   "B": "Tratar los efectos adrenérgicos con propanolol.",
+   "C": "Corticoides (inhiben conversión T4 a T3).",
+   "D": "Tratar la insuficiencia cardiaca con diuréticos."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El tratamiento de la disfunción cardiaca en la crisis tirotóxica no incluye los diuréticos como pilar específico; la taquicardia y la insuficiencia cardiaca de causa tirotóxica se tratan fundamentalmente con betabloqueantes, que controlan la respuesta adrenérgica. Los diuréticos no forman parte del arsenal terapéutico estándar de la crisis tirotóxica y su uso aislado no aborda la causa.",
+   "incorrectas": {
+    "A": "El propiltiouracilo inhibe la síntesis hormonal y la conversión periférica de T4 a T3, y el yodo (Lugol) inhibe la liberación hormonal; ambos son pilares del tratamiento de la crisis tirotóxica.",
+    "B": "El propranolol es fundamental para bloquear los efectos adrenérgicos del exceso de hormonas tiroideas, reduciendo la taquicardia, la agitación y el temblor.",
+    "C": "Los corticoides a dosis altas inhiben la conversión periférica de T4 a T3 y tratan la posible insuficiencia suprarrenal relativa asociada a la hiperactividad tiroidea extrema."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto de las infección gonococica genital, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Se aconseja tratar con dosis única de ceftriaxona 500 mgrs. + Azitromicina 1 gramo.",
+   "B": "En la mujer las mayoría son asintomáticas o inespecífica.",
+   "C": "Es causa de Enfermedad Inflamatoria Pélvica.",
+   "D": "Los contactos asintomáticos no precisan seguimiento ni tratamiento."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 79,
+   "tema": "Enfermedad inflamatoria pélvica. Vulvovaginitis. Anticoncepción de emergencia. Complicaciones agudas de métodos anticonceptivos."
+  },
+  "explicacion": {
+   "correcta": "Es incorrecto que los contactos asintomáticos de una infección gonocócica no precisen seguimiento ni tratamiento. En las infecciones de transmisión sexual, y en particular en la gonorrea, los contactos sexuales deben ser estudiados y tratados aunque estén asintomáticos, dado el alto riesgo de transmisión, la posibilidad de complicaciones subclínicas y la necesidad de cortar la cadena de transmisión.",
+   "incorrectas": {
+    "A": "El tratamiento de la gonorrea con ceftriaxona 500 mg en dosis única asociada a azitromicina 1 g para cubrir la posible coinfección por Chlamydia es la pauta recomendada.",
+    "B": "La gonorrea femenina es frecuentemente asintomática o cursa con síntomas inespecíficos como flujo vaginal o disuria, lo que favorece el infradiagnóstico y la transmisión.",
+    "C": "Neisseria gonorrhoeae es una causa bien establecida de enfermedad inflamatoria pélvica, pudiendo ascender desde el cérvix al tracto genital superior."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un cuadro febril en Urgencias, señale la actuación incorrecta:",
+  "opciones": {
+   "A": "Fiebre corta duración con foco y signos de gravedad: Ingreso en planta o UCI.",
+   "B": "Fiebre corta duración con foco y ausencia signos alarma: Actuación según el foco.",
+   "C": "Fiebre corta duración sin foco con factores riesgo gravedad: Alta con antibioterapia empírica.",
+   "D": "Fiebre corta duración sin foco ni factores de gravedad: Alta y tratamiento sintomático."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 81,
+   "tema": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "Es incorrecto dar el alta a un paciente con fiebre sin foco y factores de riesgo de gravedad con solo antibioterapia empírica. Estos pacientes requieren ingreso hospitalario para estudio y vigilancia, ya que la presencia de factores de riesgo de gravedad sin foco identificado obliga a descartar causas graves como bacteriemia o sepsis, que no pueden manejarse de forma ambulatoria con antibiótico empírico sin control.",
+   "incorrectas": {
+    "A": "Un paciente con fiebre de corta duración, foco identificado y signos de gravedad debe ingresar en planta o UCI según la gravedad, lo que es correcto.",
+    "B": "Cuando hay foco identificado y no hay signos de alarma, la actuación debe dirigirse al foco específico, lo cual es una conducta correcta.",
+    "D": "La fiebre de corta duración sin foco ni factores de gravedad puede manejarse ambulatoriamente con tratamiento sintomático, siendo esta conducta apropiada."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Antes un paciente HIV con cuadro menigoencefalítico, es falso que:",
+  "opciones": {
+   "A": "La punción lumbar debe estar precedida de estudio neuroimágen.",
+   "B": "Considerar infección criptococica y por citomegalovirus si CD4 > 500.",
+   "C": "La primoinfección HIV puede dar meningitis aséptica.",
+   "D": "Considerar SIRI (síndrome de reconstitución inmune) tras inicio reciente de TARGA (terapia antiretroviral gran actividad)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 84,
+   "tema": "Valoración y actitud en urgencias ante las infecciones en el paciente con síndrome de inmunodeficiencia adquirida."
+  },
+  "explicacion": {
+   "correcta": "Es falso que haya que considerar la infección criptocócica y por citomegalovirus con CD4 mayor de 500. Estas infecciones oportunistas ocurren en estados de inmunosupresión avanzada, típicamente con CD4 menor de 100 células por microlitro para el Cryptococcus neoformans y menor de 50-100 para el citomegalovirus. Con CD4 mayor de 500 el paciente tiene una inmunidad relativamente preservada y el riesgo de estas infecciones oportunistas graves es muy bajo.",
+   "incorrectas": {
+    "A": "En el paciente HIV con cuadro meningoencefalítico se debe realizar neuroimagen previa a la punción lumbar para descartar lesiones ocupantes de espacio como linfoma, toxoplasmosis o abscesos, lo cual es correcto.",
+    "C": "La primoinfección por el VIH puede manifestarse como un síndrome retroviral agudo que incluye meningitis aséptica linfocítica, siendo esta una presentación bien conocida.",
+    "D": "El síndrome inflamatorio de reconstitución inmune puede presentarse con cuadros meningoencefalíticos tras el inicio de la terapia antirretroviral de gran actividad, siendo importante tenerlo en cuenta."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Se consideran normas de buena práctica clínica en el manejo de una sepsis grave (código sepsis), las siguientes excepto:",
+  "opciones": {
+   "A": "Fluidoterapia intensa rápida (1000 cc de cristaloides o 300-500 cc de coloides en 30 minutos).",
+   "B": "Utilización precoz de corticoides.",
+   "C": "Administración de antibioterápia empírica en la 1ª hora tras toma de cultivos.",
+   "D": "Administración precoz de drogas vasoactivas si persiste hipotensión o mala perfusión pese a reposición de fluidos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La utilización precoz y sistemática de corticoides no forma parte de las normas de buena práctica general en el manejo de la sepsis grave. Los corticoides (hidrocortisona) se reservan exclusivamente para el shock séptico refractario que no responde a la reposición de fluidos y a las drogas vasoactivas, no como medida precoz universal en toda sepsis grave.",
+   "incorrectas": {
+    "A": "La fluidoterapia intensa e inmediata con cristaloides es la primera intervención en la sepsis grave y forma parte del bundle de resucitación inicial.",
+    "C": "La administración de antibioterapia empírica en la primera hora tras la toma de cultivos es una norma fundamental del manejo de la sepsis grave, con impacto directo en la supervivencia.",
+    "D": "El uso precoz de drogas vasoactivas como la noradrenalina cuando persiste la hipotensión tras la resucitación con fluidos es una indicación bien establecida en el manejo del shock séptico."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Qué sospecharía ante un dolor intenso a nivel de sacro que se irradia por la nalga izquierda hacia cara posterior de muslo sin llegar a rodilla, que empeora con el ejercicio la bipedestación y la conducción y al separar las piernas?",
+  "opciones": {
+   "A": "Meralgia disestésica.",
+   "B": "Síndrome del piramidal.",
+   "C": "Cauda equina.",
+   "D": "Sacroileitis."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El síndrome del músculo piramidal (o piriforme) se presenta con dolor glúteo profundo que se irradia por la cara posterior del muslo sin sobrepasar la rodilla, que empeora con la rotación externa de la cadera, la abducción contra resistencia, la bipedestación prolongada y la conducción. El músculo piramidal comprime el nervio ciático cuando está contracturado, reproduciendo un dolor que simula la ciática pero sin origen vertebral.",
+   "incorrectas": {
+    "A": "La meralgia parestésica afecta al nervio femoral cutáneo lateral y produce parestesias y dolor en la cara anterolateral del muslo, no en la cara posterior ni en la región glútea.",
+    "C": "El síndrome de cauda equina cursa con déficit motor y sensitivo bilateral en miembros inferiores, disfunción esfinteriana y anestesia en silla de montar, cuadro muy diferente al descrito.",
+    "D": "La sacroileitis produce dolor en la articulación sacroilíaca que puede irradiarse a la nalga y el muslo, pero se asocia a signos inflamatorios articulares y no sigue el patrón de agravamiento con abducción y separación de piernas descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En el manejo general en las mordeduras que no se debe hacer:",
+  "opciones": {
+   "A": "Limpieza y desbridamiento en las desgarros y avulsiones.",
+   "B": "Administrar antibióticos según el agente causal.",
+   "C": "Asegurar correcta profilaxis antitetánica.",
+   "D": "Sutura simple en heridas pequeñas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 102,
+   "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las heridas por mordedura, incluso las pequeñas, no deben cerrarse de forma primaria mediante sutura simple como norma general, especialmente las localizadas en manos, pies o cara, debido al alto riesgo de infección por los microorganismos presentes en la saliva animal o humana. Lo correcto es realizar cierre por segunda intención o cierre diferido tras antibioterapia, salvo excepciones bien definidas como heridas faciales con buena vascularización.",
+   "incorrectas": {
+    "A": "La limpieza exhaustiva y el desbridamiento de los desgarros y avulsiones en mordeduras es imprescindible para reducir la carga bacteriana y el riesgo de infección.",
+    "B": "La antibioterapia en mordeduras debe orientarse según el agente causal (especie animal, localización), cubriendo los gérmenes más probables como Pasteurella en mordeduras de perro o gato.",
+    "C": "La profilaxis antitetánica debe asegurarse en toda mordedura que genere herida cutánea, actualizando la vacunación si el paciente no está correctamente inmunizado."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En la intoxicación por Etilenglicol, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Provoca acidosis severa con anión GAP elevado.",
+   "B": "El lavado gástrico esta contraindicado.",
+   "C": "Se puede usar como antídoto el fomepizol o el etanol cuando se ha ingerido mas de 50 ml.",
+   "D": "La hemodiálisis esta indicada en los casos graves."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 100,
+   "tema": "Intoxicaciones agudas. Valoración y tratamiento general."
+  },
+  "explicacion": {
+   "correcta": "El lavado gástrico no está contraindicado en la intoxicación por etilenglicol; de hecho, está indicado si el paciente llega en la primera hora tras la ingesta y tiene el nivel de consciencia preservado o la vía aérea protegida. El etilenglicol no es un cáustico ni un hidrocarburo, por lo que no existe contraindicación para el vaciado gástrico precoz.",
+   "incorrectas": {
+    "A": "El etilenglicol se metaboliza a ácido oxálico y otros ácidos orgánicos que producen una acidosis metabólica severa con anión GAP elevado, lo que es correcto.",
+    "C": "El fomepizol y el etanol son antídotos que inhiben el alcohol deshidrogenasa, bloqueando el metabolismo del etilenglicol a sus metabolitos tóxicos; están indicados cuando se ha ingerido una cantidad significativa.",
+    "D": "La hemodiálisis está indicada en casos graves de intoxicación por etilenglicol para eliminar el tóxico y sus metabolitos y corregir la acidosis grave."
+   }
+  }
+ }
+]

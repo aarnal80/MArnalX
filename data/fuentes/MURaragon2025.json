@@ -1,0 +1,2642 @@
+[
+    {
+        "id_examen": 1,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Indique cuál de las siguientes respuestas NO es una de las retribuciones básicas del personal estatutario:",
+        "opciones": {
+            "A": "El sueldo asignado a cada categoría en función del título exigido para su desempeño.",
+            "B": "El complemento de atención continuada y la productividad variable.",
+            "C": "Los trienios, que consisten en una cantidad determinada para cada categoría, por cada tres años de servicios.",
+            "D": "Las pagas extraordinarias, que serán dos al año y se devengarán preferentemente en los meses de junio y diciembre."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 17,
+            "tema": "Ley 55/2003 del Estatuto Marco de personal Estatutario de los Servicios de Salud (II). Retribuciones."
+        },
+        "explicacion": {
+            "correcta": "La opción B, \"El complemento de atención continuada y la productividad variable\", NO es una retribución básica del personal estatutario. Las retribuciones básicas se refieren a las compensaciones fijas y regulares, mientras que la atención continuada y la productividad son complementos variables y dependientes del desempeño.",
+            "incorrectas": {
+                "A": "El sueldo asignado a cada categoría en función del título exigido para su desempeño es una retribución básica fundamental.",
+                "C": "Los trienios son un complemento retributivo básico por antigüedad.",
+                "D": "Las pagas extraordinarias son parte de las retribuciones básicas del personal estatutario."
+            }
+        }
+    },
+    {
+        "id_examen": 2,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señale cuál de los principios generales que informan la Ley de cohesión y calidad del Sistema Nacional de Salud es el correcto:",
+        "opciones": {
+            "A": "La financiación pública del Sistema Nacional de Salud, de acuerdo con el vigente sistema de financiación autonómica.",
+            "B": "El aseguramiento general y no discriminatorio por parte del Estado.",
+            "C": "La igualdad de oportunidades y la libre circulación de los profesionales sanitarios y no sanitarios en el conjunto del Sistema Aragonés de Salud.",
+            "D": "La reciprocidad entre los servicios sanitarios públicos y privados en la prestación de servicios a los usuarios del Sistema Nacional de Salud."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 10,
+            "tema": "Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud. Principios generales, estructura, contenidos."
+        },
+        "explicacion": {
+            "correcta": "La opción A, \"La financiación pública del Sistema Nacional de Salud, de acuerdo con el vigente sistema de financiación autonómica\", es un principio general que informa la Ley de cohesión y calidad del Sistema Nacional de Salud.  La financiación pública es un pilar fundamental del sistema.",
+            "incorrectas": {
+                "B": "Si bien el aseguramiento es importante, la Ley no establece el aseguramiento por parte del Estado de forma general y no discriminatoria, sino que se centra en la cohesión y calidad del sistema.",
+                "C": "Esta opción se refiere a la libre circulación de profesionales, que si bien es deseable, no es un principio general de la ley de cohesión y calidad del SNS a nivel nacional.",
+                "D": "No existe reciprocidad obligatoria entre servicios públicos y privados en la prestación de servicios a los usuarios del SNS en los términos planteados."
+            }
+        }
+    },
+    {
+        "id_examen": 3,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿En qué artículo de la Constitución Española está amparado el derecho fundamental de las personas físicas a la protección de datos personales?",
+        "opciones": {
+            "A": "Artículo 18.4 de la Constitución.",
+            "B": "Artículo 14 de la Constitución.",
+            "C": "Artículo 9 de la Constitución.",
+            "D": "Artículo 13 de la Constitución."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 5,
+            "tema": "El régimen jurídico de la protección de datos de carácter personal: Disposiciones generales. Principios de la protección de datos."
+        },
+        "explicacion": {
+            "correcta": "El derecho fundamental a la protección de datos personales está amparado en el Artículo 18.4 de la Constitución Española.",
+            "incorrectas": {
+                "B": "El artículo 14 trata de la igualdad ante la ley.",
+                "C": "El artículo 9 se refiere a los principios que rigen la Constitución.",
+                "D": "El artículo 13 trata del derecho a la libertad personal."
+            }
+        }
+    },
+    {
+        "id_examen": 4,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de los siguientes tipos de incidentes ha sido el más frecuente en las notificaciones realizadas por los servicios de urgencias de Aragón al SiNASP?",
+        "opciones": {
+            "A": "Errores en la administración de medicación.",
+            "B": "Caldas de pacientes.",
+            "C": "Errores en la identificación del paciente.",
+            "D": "Retrasos en la atención médica."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 34,
+            "tema": "La seguridad del paciente. Gestión de riesgos. Principales problemas para la seguridad del paciente en el hospital."
+        },
+        "explicacion": {
+            "correcta": "Según las notificaciones al SiNASP (Sistema Nacional de Información sobre Seguridad del Paciente), los errores en la administración de medicación han sido el tipo de incidente más frecuente en los servicios de urgencias de Aragón.",
+            "incorrectas": {
+                "B": "Las caídas de pacientes son un incidente frecuente, pero no el más frecuente según los datos del SiNASP.",
+                "C": "Los errores en la identificación del paciente son importantes, pero menos frecuentes que los errores de medicación.",
+                "D": "Los retrasos en la atención médica son un problema, pero no el tipo de incidente más notificado al SiNASP."
+            }
+        }
+    },
+    {
+        "id_examen": 5,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En relación con la validez de las pruebas diagnósticas, señale la correcta:",
+        "opciones": {
+            "A": "Valor predictivo positivo es la probabilidad de que un paciente con resultado positivo no tenga la enfermedad.",
+            "B": "Valor predictivo negativo es la probabilidad de que un paciente con resultado negativo no tenga la enfermedad.",
+            "C": "Valor predictivo positivo es la probabilidad de que un paciente con resultado negativo tenga la enfermedad.",
+            "D": "Valor predictivo negativo es la probabilidad de que un paciente con resultado negativo tenga la enfermedad."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 29,
+            "tema": "Estudios experimentales. Ensayos clínicos. Ética de la investigación clínica. Validez de métodos diagnósticos: sensibilidad, especificidad, valor predictivo positivo."
+        },
+        "explicacion": {
+            "correcta": "El valor predictivo negativo es la probabilidad de que un paciente con resultado negativo de una prueba diagnóstica realmente no tenga la enfermedad. Es decir, la fiabilidad de un resultado negativo.",
+            "incorrectas": {
+                "A": "El valor predictivo positivo es la probabilidad de que un paciente con resultado positivo de una prueba diagnóstica realmente tenga la enfermedad.",
+                "C": "Esta descripción es incorrecta. Describe lo contrario al valor predictivo negativo.",
+                "D": "Esta descripción es incorrecta. Describe lo contrario al valor predictivo negativo."
+            }
+        }
+    },
+    {
+        "id_examen": 6,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de los siguientes órganos directivos NO depende del Servicio Aragonés de Salud (SALUD)?",
+        "opciones": {
+            "A": "Gerencia de Sector Sanitario.",
+            "B": "Direcciones de Área funcional.",
+            "C": "Gerencia del Servicio Aragonés de Salud.",
+            "D": "Secretaría General Técnica."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 25,
+            "tema": "Estructura del Departamento de Sanidad de Aragón y del Servicio Aragonés de la Salud. Los Sectores sanitarios."
+        },
+        "explicacion": {
+            "correcta": "La Secretaría General Técnica del SALUD es un órgano de apoyo y asesoramiento a la gerencia, no un órgano directivo en sí mismo.  Las demás opciones (Gerencia de Sector Sanitario, Direcciones de Área funcional y Gerencia del Servicio Aragonés de Salud) sí son órganos directivos dentro de la estructura del SALUD.",
+            "incorrectas": {
+                "A": "La Gerencia de Sector Sanitario es un órgano directivo del SALUD.",
+                "B": "Las Direcciones de Área funcional son órganos directivos dentro del SALUD.",
+                "C": "La Gerencia del Servicio Aragonés de Salud es el máximo órgano directivo del SALUD."
+            }
+        }
+    },
+    {
+        "id_examen": 7,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál es la función principal de los indicadores en los Contratos-Programa del SALUD?",
+        "opciones": {
+            "A": "Definir la carga laboral del personal.",
+            "B": "Estimar el valor económico del centro de salud.",
+            "C": "Medir el grado de cumplimiento de los objetivos pactados.",
+            "D": "Sustituir las auditorías clínicas externas."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 25,
+            "tema": "Estructura del Departamento de Sanidad de Aragón y del Servicio Aragonés de la Salud. Los Sectores sanitarios."
+        },
+        "explicacion": {
+            "correcta": "Los indicadores en los Contratos-Programa del SALUD miden el cumplimiento de los objetivos previamente pactados entre las diferentes partes implicadas.  Sirven para evaluar el desempeño y la efectividad del sistema sanitario.",
+            "incorrectas": {
+                "A": "La carga laboral del personal no es la función principal de los indicadores en los Contratos-Programa.",
+                "B": "Si bien los indicadores pueden dar una idea del coste, su función principal no es estimar el valor económico del centro.",
+                "D": "Los indicadores complementan, pero no sustituyen, las auditorías clínicas externas."
+            }
+        }
+    },
+    {
+        "id_examen": 8,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Qué está expresamente EXCLUIDO de la obligatoriedad de negociación colectiva?",
+        "opciones": {
+            "A": "La regulación y determinación concreta, en cada caso, de los sistemas, criterios, órganos y procedimientos de la promoción profesional.",
+            "B": "Lás que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley.",
+            "C": "Las normas que fijen los criterios generales en materia de acceso, carrera, provisión, sistemas de clasificación de puestos de trabajo, y planes e instrumentos de planificación de recursos humanos.",
+            "D": "Ninguna respuesta es correcta."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 4,
+            "tema": "Representación, participación y negociación colectiva."
+        },
+        "explicacion": {
+            "correcta": "La regulación y determinación concreta de los sistemas de promoción profesional requiere negociación, pero está expresamente excluida de la obligatoriedad de la negociación colectiva según la legislación vigente.  Otros aspectos relacionados con las condiciones laborales y retribuciones sí requieren negociación.",
+            "incorrectas": {
+                "B": "Las condiciones de trabajo y retribuciones de los funcionarios que requieren norma con rango de ley SÍ están sujetas a negociación colectiva.",
+                "C": "Las normas que fijan criterios generales en materia de acceso, carrera, etc. están sujetas a negociación colectiva.",
+                "D": "Existen aspectos expresamente excluidos de la negociación colectiva."
+            }
+        }
+    },
+    {
+        "id_examen": 9,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cual de las siguientes NO es una fuente de variación en las observaciones clínicas:",
+        "opciones": {
+            "A": "La variabilidad del instrumento de medida.",
+            "B": "La variabilidad biológica.",
+            "C": "La variabilidad intraobservador.",
+            "D": "Un resultado analítico."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 32,
+            "tema": "Práctica basada en la evidencia. Variabilidad en la práctica médica. Búsqueda y valoración de evidencias."
+        },
+        "explicacion": {
+            "correcta": "Un resultado analítico, aunque pueda ser variable en sí mismo (por ejemplo, debido a errores de laboratorio), no es una fuente de variación *en las observaciones clínicas*. Las fuentes de variación se refieren a las diferencias en la toma de la observación o en su interpretación.",
+            "incorrectas": {
+                "A": "La variabilidad del instrumento de medida es una fuente de error.",
+                "B": "La variabilidad biológica inherente al paciente es una fuente de variación.",
+                "C": "La variabilidad intraobservador (variación en las observaciones realizadas por el mismo observador) es una fuente de variación."
+            }
+        }
+    },
+    {
+        "id_examen": 10,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "La tasa de readmisión en úrgencias se utiliza como un indicador para evaluar la calidad asistencial y 'puede reflejar deficiencias en varios aspectos del proceso de atención. ¿Cuál de las siguientes afirmaciones describe de manera más precisa el impacto de una tasa elevada de readmisión en los servicios de urgencias?",
+        "opciones": {
+            "A": "Indica una falta de recursos diagnósticos durante la atención inicial.",
+            "B": "Refleja la efectividad de los protocolos de alta y el seguimiento post-alta.",
+            "C": "Es un indicador de la eficiencia de la administración de medicamentos en urgencias.",
+            "D": "Muestra la relación entre la satisfacción del paciente y la rapidez en la atención."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 108,
+            "tema": "Coordinación con otros servicios. Transporte urgente interhospitalario. Indicadores de calidad en los servicios de urgencias hospitalarios."
+        },
+        "explicacion": {
+            "correcta": "Una tasa elevada de readmisión refleja problemas en los protocolos de alta y el seguimiento post-alta.  Si los pacientes son dados de alta sin la atención o seguimiento adecuado, es más probable que regresen a urgencias.",
+            "incorrectas": {
+                "A": "Si bien la falta de recursos diagnósticos puede contribuir, una tasa elevada de readmisión apunta más a problemas post-alta.",
+                "C": "La administración de medicamentos es un factor, pero no el principal reflejado en las readmisiones.",
+                "D": "La satisfacción del paciente puede influir, pero la tasa de readmisión es un indicador más objetivo de la calidad de la atención."
+            }
+        }
+    },
+    {
+        "id_examen": 11,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de los siguientes efectos adversos sería raro observar durante las primeras 6 horas en un paciente sometido a transfusión de hemoderivados en la Sala de Observación de Urgencias.",
+        "opciones": {
+            "A": "Púrpura postransfusional.",
+            "B": "Fiebre por contaminación bacteriana.",
+            "C": "Disnea por sobrecarga circulatoria.",
+            "D": "Eritema y prurito que sugieren reacción alérgica."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 74,
+            "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+        },
+        "explicacion": {
+            "correcta": "La púrpura postransfusional es una reacción adversa a la transfusión que se manifiesta como una púrpura (hematomas en la piel) debido a la destrucción de plaquetas.  Suele aparecer más tarde, días después de la transfusión, por lo que es poco probable observarla en las primeras 6 horas.",
+            "incorrectas": {
+                "B": "La fiebre por contaminación bacteriana de los hemoderivados puede manifestarse con fiebre, escalofríos y otros síntomas sistémicos en las primeras horas tras la transfusión.",
+                "C": "La disnea por sobrecarga circulatoria es una reacción adversa común, especialmente en pacientes con insuficiencia cardíaca, que puede aparecer rápidamente tras una transfusión masiva.",
+                "D": "Las reacciones alérgicas a los hemoderivados, como el eritema y el prurito, son reacciones que pueden aparecer rápidamente tras la transfusión, usualmente en las primeras horas."
+            }
+        }
+    },
+    {
+        "id_examen": 12,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Respecto al instrumento NECPAL, es CIERTO:",
+        "opciones": {
+            "A": "Se considera NECPAL positivo a todo paciente en el que se responda afirmativamente a la pregunta inicial y presente al menos otro criterio.",
+            "B": "Es una escala de uso preferente en pacientes ingresados.",
+            "C": "Un criterio es la pérdida de >5% del peso corporal en el paciente.",
+            "D": "Se usa exclusivamente para pacientes oncológicos."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 96,
+            "tema": "Cuidados paliativos en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El NECPAL (Necesidades en Cuidados Paliativos) considera positivo a un paciente si responde afirmativamente a la pregunta inicial y cumple al menos un criterio adicional.  Esto significa que no solo se requiere la respuesta afirmativa a la pregunta inicial para considerar un NECPAL positivo.",
+            "incorrectas": {
+                "B": "El NECPAL es una herramienta útil para la valoración de pacientes con necesidades paliativas, tanto ingresados como no ingresados.",
+                "C": "La pérdida de peso no es un criterio del NECPAL, aunque la caquexia puede ser un indicador de necesidades paliativas.",
+                "D": "El NECPAL no está restringido a pacientes oncológicos; se puede utilizar en cualquier paciente con una enfermedad avanzada y progresiva que limita su expectativa de vida."
+            }
+        }
+    },
+    {
+        "id_examen": 13,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Respecto a la-tuberculosis (TB) extrapulmonar:",
+        "opciones": {
+            "A": "La más frecuente es la genitourinaria.",
+            "B": "En la TB pleural aparece derrame pleural con exudado de predominio linfocitario, con alto contenido proteico, glucosa normal o disminuida y una lactato deshidrogenasa (LDH) y ADA elevadas.",
+            "C": "En la meningitis tuberculosa el líquido cefalorraquídeo muestra pleiocitosis linfocitaria con proteínas y glucosa normales.",
+            "D": "En el diagnóstico de TB miliar, la afectación radiológica típica confirma la sospecha clínica, dada su alta especificidad."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 85,
+            "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el paciente procedente del trópico. Actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La tuberculosis pleural se caracteriza por un derrame pleural exudativo con predominio linfocitario, alto contenido proteico, glucosa disminuida o normal, y niveles elevados de LDH y ADA (adenosina desaminasa). Estos hallazgos son consistentes con una inflamación de origen tuberculoso.",
+            "incorrectas": {
+                "A": "Si bien la tuberculosis genitourinaria es una forma de tuberculosis extrapulmonar, no es la más frecuente.  Las formas más comunes suelen ser la pleural y ganglionar.",
+                "C": "En la meningitis tuberculosa, el LCR muestra pleiocitosis linfocitaria, pero con niveles de proteínas elevados y glucosa disminuida, no normales.",
+                "D": "La tuberculosis miliar puede ser difícil de diagnosticar radiológicamente en sus fases iniciales, y la radiografía de tórax no siempre tiene alta especificidad para confirmar la enfermedad."
+            }
+        }
+    },
+    {
+        "id_examen": 14,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes opciones es la más adecuada al alta de urgencias tras una crisis asmática moderada bien resuelta?",
+        "opciones": {
+            "A": "Glucocorticoides sistémicos + glucocorticoides inhalados y LABA a dosis baja.",
+            "B": "LABA en monoterapia + beta bloqueantes si hay taquicardia.",
+            "C": "Antibióticos + corticoide oral.",
+            "D": "Oxigenoterapia domiciliaria de forma crónica."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 55,
+            "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "Tras una crisis asmática moderada bien controlada, el alta debería incluir glucocorticoides sistémicos (para controlar la inflamación) junto con glucocorticoides inhalados y un LABA (beta-agonista de larga acción) a dosis bajas para el mantenimiento del control del asma. Esta combinación proporciona un control efectivo de la inflamación y la broncodilatación.",
+            "incorrectas": {
+                "B": "Los beta-bloqueantes están contraindicados en el asma, ya que pueden exacerbar el broncoespasmo. Un LABA en monoterapia no es suficiente tras una crisis asmática moderada.",
+                "C": "Los antibióticos no son necesarios a menos que exista una infección respiratoria concomitante. La administración de corticoide oral puede ser necesaria en algunos casos, pero se suele preferir la vía sistémica.",
+                "D": "La oxigenoterapia crónica sólo se indicaría en casos de hipoxemia persistente, no tras una crisis asmática moderada bien resuelta."
+            }
+        }
+    },
+    {
+        "id_examen": 15,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de las siguientes opciones NO es un criterio diagnóstico de Síndrome Confusional Agudo del anciano recogido en DSM-5 de la Asociación Americana de Psiquiatría:",
+        "opciones": {
+            "A": "Historia clínica o pruebas complementarias que orientan a una causa fisiológica precipitante (infección, intoxicación, etc.)",
+            "B": "Comienzo agudo o subagudo de la alteración mental.",
+            "C": "Alteración del nivel de atención, alerta o consciencia que puede ser fluctuante.",
+            "D": "Presencia de estado de coma."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 92,
+            "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El estado de coma es una alteración del nivel de consciencia más grave que la que se define en el delirium. El Síndrome Confusional Agudo,  según el DSM-5, se caracteriza por una alteración del nivel de atención o consciencia, pero no implica necesariamente un estado de coma.",
+            "incorrectas": {
+                "A": "La presencia de una causa fisiológica precipitante es un criterio diagnóstico importante del Síndrome Confusional Agudo.",
+                "B": "El comienzo agudo o subagudo es crucial para diferenciar el Síndrome Confusional Agudo de otros trastornos cognitivos.",
+                "C": "La fluctuación del nivel de atención o consciencia es un síntoma característico del Síndrome Confusional Agudo."
+            }
+        }
+    },
+    {
+        "id_examen": 16,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En cuanto a las crisis epilépticas en un paciente alcohólico, señale la FALSA:",
+        "opciones": {
+            "A": "La abstinencia es la causa más frecuente.",
+            "B": "Si el paciente presenta una crisis a su llegada a urgencias, el uso de las benzodiazepinas está contraindicado.",
+            "C": "Hay que descartar otras causas asociadas como hematoma subdural o trastornos electrolíticos.",
+            "D": "Las crisis por abstinencia suelen ser tónico-clónicas generalizadas."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 67,
+            "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+        },
+        "explicacion": {
+            "correcta": "La opción B es falsa.  Las benzodiazepinas son el tratamiento de primera línea para las crisis epilépticas, incluyendo las que se presentan en pacientes alcohólicos, especialmente en el contexto de una crisis convulsiva activa.  Su uso está indicado para detener la crisis de forma rápida y segura.  La contraindicación no es el alcoholismo en sí, sino la presencia de otras patologías que puedan interactuar con las benzodiazepinas.",
+            "incorrectas": {
+                "A": "La abstinencia alcohólica es una causa común de convulsiones, siendo esta una de las causas más frecuentes de crisis epilépticas en pacientes con alcoholismo.",
+                "C": "Es fundamental descartar otras causas que puedan imitar una crisis epiléptica, como traumatismos craneoencefálicos con hematoma subdural o desequilibrios electrolíticos que alteran la función neuronal.",
+                "D": "Las crisis epilépticas por abstinencia alcohólica suelen manifestarse como convulsiones tónico-clónicas generalizadas, aunque también pueden presentarse otras formas."
+            }
+        }
+    },
+    {
+        "id_examen": 17,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes medidas está indicada para disminuir la absorción del tóxico en una intoxicación aguda reciente?",
+        "opciones": {
+            "A": "Inducción del vómito con jarabe de ipecacuana.",
+            "B": "Administración de carbón activado.",
+            "C": "Diálisis peritoneal.",
+            "D": "Administración de laxantes salinos."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 100,
+            "tema": "Intoxicaciones agudas. Valoración y tratamiento general"
+        },
+        "explicacion": {
+            "correcta": "El carbón activado es una medida efectiva para disminuir la absorción de muchos tóxicos, especialmente en intoxicaciones agudas recientes.  Se une al tóxico en el tracto gastrointestinal, impidiendo su absorción sistémica.",
+            "incorrectas": {
+                "A": "La inducción del vómito con jarabe de ipecacuana está contraindicada en la mayoría de las intoxicaciones, debido al riesgo de aspiración y a su limitada eficacia.",
+                "C": "La diálisis peritoneal o hemodiálisis son tratamientos de soporte para la eliminación de tóxicos que ya se han absorbido sistémicamente, no para disminuir la absorción inicial.",
+                "D": "Los laxantes salinos pueden acelerar el tránsito intestinal y ayudar a eliminar el tóxico sin absorber, pero no son tan eficaces como el carbón activado para disminuir la absorción."
+            }
+        }
+    },
+    {
+        "id_examen": 18,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "De los siguientes criterios de selección del vaso cuando empleamos la ecografía para evaluar e identificar la vena más adecuada para conseguir un acceso venoso ¿cuál es el correcto?",
+        "opciones": {
+            "A": "Profundidad del vaso mayor de 30 mm .",
+            "B": "Permeabilidad venosa normal.",
+            "C": "Presencia de variantes anatómicas.",
+            "D": "Diámetro del vaso inferior a 3 mm ."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 106,
+            "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+        },
+        "explicacion": {
+            "correcta": "La permeabilidad venosa es esencial para un acceso venoso exitoso.  Un vaso permeable permitirá la fácil inserción del catéter y la administración de fluidos o medicamentos.",
+            "incorrectas": {
+                "A": "La profundidad del vaso no es un factor determinante en la selección, siempre que sea accesible y visualizable con la ecografía.",
+                "C": "Las variantes anatómicas pueden dificultar el acceso, pero no invalidan la selección de un vaso adecuado si se puede visualizar y acceder a él de forma segura.",
+                "D": "Un diámetro inferior a 3 mm puede dificultar la canalización, pero no descarta la utilización de un vaso pequeño siempre que sea visible y accesible por ecografía."
+            }
+        }
+    },
+    {
+        "id_examen": 19,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de los siguientes valores NO esperamos encontrar en una gasometría arterial basal normal realizada a un paciente sin antecedentes de enfermedad cardiorespiratoria, en reposo y con una FiO2 del 21% :",
+        "opciones": {
+            "A": "pO2 >80",
+            "B": "pCO2 entre $35-45",
+            "C": "pH entre 7,25-7,35",
+            "D": "HCO3 entre 22-26 mEq/l"
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 70,
+            "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "El rango normal del pH arterial es de 7.35 a 7.45. Un valor entre 7.25 y 7.35 indica acidosis.",
+            "incorrectas": {
+                "A": "La presión parcial de oxígeno (pO2) debe ser superior a 80 mmHg en una gasometría arterial normal.",
+                "B": "La presión parcial de dióxido de carbono (pCO2) se mantiene entre 35 y 45 mmHg en una gasometría arterial normal.",
+                "D": "La concentración de bicarbonato (HCO3) normalmente se encuentra entre 22 y 26 mEq/L."
+            }
+        }
+    },
+    {
+        "id_examen": 20,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Ante un paciente con dolor torácico intenso, cortejo vegetativo y mal aspecto general ¿qué prueba NO se debería realizar en la evaluación inicial?",
+        "opciones": {
+            "A": "Prueba de esfuerzo (ergometría).",
+            "B": "Electrocardiograma.",
+            "C": "TAC con contraste.",
+            "D": "Ecografía cardíaca."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 45,
+            "tema": "Dolor torácico agudo. Etiología. Valoración, diagnóstico y normas de actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Una prueba de esfuerzo (ergometría) está contraindicada en un paciente con dolor torácico intenso, cortejo vegetativo y mal aspecto general debido al riesgo de desencadenar un evento cardiovascular grave.  La evaluación inicial debe centrarse en estabilizar al paciente y descartar condiciones que pongan en riesgo su vida.",
+            "incorrectas": {
+                "B": "Un electrocardiograma (ECG) es fundamental para la evaluación inicial del dolor torácico, ya que puede detectar arritmias y otros hallazgos relevantes.",
+                "C": "Una tomografía computarizada (TAC) con contraste puede ser necesaria para evaluar la presencia de disección aórtica u otras patologías.",
+                "D": "Una ecocardiografía puede ser útil para evaluar la función cardíaca y detectar posibles alteraciones."
+            }
+        }
+    },
+    {
+        "id_examen": 21,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Durante una exacerbación aguda de la EPOC en urgencias ¿cuál de los siguientes hallazgos en gasometría arterial es indicativo por criterios gasométricos de insuficiencia respiratoria aguda grave?",
+        "opciones": {
+            "A": "$\\mathrm{PaO}_{2} 65 \\mathrm{mmHg}, \\mathrm{PaCO}_{2} 50 \\mathrm{mmHg}, \\mathrm{pH} 7.40$.",
+            "B": "$\\mathrm{PaO}_{2} 55 \\mathrm{mmHg}, \\mathrm{PaCO}_{2} 46 \\mathrm{mmHg}, \\mathrm{pH} 7.38$.",
+            "C": "$\\mathrm{PaO}_{2} 58 \\mathrm{mmHg}, \\mathrm{PaCO}_{2} 60 \\mathrm{mmHg}, \\mathrm{pH} 7.32$.",
+            "D": "$\\mathrm{PaO}_{2} 70 \\mathrm{mmHg}, \\mathrm{PaCO}_{2} 40 \\mathrm{mmHg}, \\mathrm{pH} 7.45$."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 54,
+            "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias"
+        },
+        "explicacion": {
+            "correcta": "La opción C representa una insuficiencia respiratoria aguda grave según criterios gasométricos.  Una PaO2 de 58 mmHg indica hipoxemia significativa, una PaCO2 de 60 mmHg refleja hipercapnia importante, y un pH de 7.32 indica acidosis respiratoria. La combinación de estos tres parámetros define una insuficiencia respiratoria aguda grave.",
+            "incorrectas": {
+                "A": "Esta gasometría muestra una PaO2 ligeramente baja (hipoxemia leve), pero la PaCO2 y el pH son normales, no indicando insuficiencia respiratoria aguda grave.",
+                "B": "Similar a la A, muestra hipoxemia leve, pero sin hipercapnia ni acidosis significativa.",
+                "D": "Esta gasometría muestra una PaO2 y PaCO2 dentro del rango normal, y un pH ligeramente alcalino. No indica insuficiencia respiratoria."
+            }
+        }
+    },
+    {
+        "id_examen": 22,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Paciente de 36 años con AP de DM tipo i y asma bronquial. Acude por taquipnea de instauración paulatina las últimas 8-10 horas asociando malestar general, astenia y molestias inespecíficas abdominales y torácicas. Refiere exacerbación asmática desde hace 3 días por la que se automedicó con prednisona 60 mg diarios mejorando inicialmente pero con el empeoramiento brusco de estas últimas horas arriba referido. La toma de constantes muestra una TA de 146/88 mm Hg, 115 lpm, 32 rpm con saturación de O2 del 99%. La exploración física está artefactada por la inquietud del paciente y una nula colaboración. El equilibrio venoso a pie de cama nos indica un Ph 7.10, PO2 56 con una PCO2 de 26, HCO3 de 9 y un exceso de base de menos 18.9. Con los datos que tenemos hasta este momento, ¿Cuál de las siguientes medidas tomaríamos de manera inmediata ante la potencial gravedad del cuadro clínico descrito?",
+        "opciones": {
+            "A": "Iniciar VMNI en modo Presión de Soporte ante sospecha de exacerbación asmática con insuficiencia respiratoria hipercápnica asociada.",
+            "B": "Aplicar una CPAP previa sedación con mórfico para mejorar la oxigenación y el Ph del paciente.",
+            "C": "Ante este paciente asmático cononocido con insuficiencia respiratoria y taquipnea intensa procederíamos a la intubación orotraqueal y la VMI ante las altas probabilidades de fracaso de la VMNI.",
+            "D": "Ninguna de estas medidas estaría indicada ínicialmente en el paciente descrito."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 71,
+            "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia. Diabetes mellitus en situaciones especiales."
+        },
+        "explicacion": {
+            "correcta": "La opción D es correcta porque el cuadro clínico descrito es compatible con una cetoacidosis diabética (CAD). Los datos de gasometría arterial (pH 7.10, PO2 56, PCO2 26, HCO3 9, BE -18.9) son claramente indicativos de una acidosis metabólica grave. Antes de iniciar cualquier maniobra respiratoria, se debe estabilizar la situación metabólica, que es la que prima en este momento.  Las opciones A, B y C se enfocan en el manejo respiratorio, sin abordar la causa principal de la crisis (la CAD).",
+            "incorrectas": {
+                "A": "Incorrecto, ya que prioriza el manejo respiratorio sobre el manejo de la acidosis metabólica grave, potencialmente causada por CAD.",
+                "B": "Incorrecto, por la misma razón que A; además, la sedación no está indicada como primer paso.",
+                "C": "Incorrecto, la intubación es una medida drástica y solo se justifica tras fracasar otras medidas. Aquí la prioridad es corregir la acidosis metabólica."
+            }
+        }
+    },
+    {
+        "id_examen": 23,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señale la respuesta FALSA en relación a las crisis epilépticas:",
+        "opciones": {
+            "A": "Las crisis mioclónicas se acompañan muy frecuentemente de pérdida de conciencia.",
+            "B": "Las crisis de ausencia típicas suelen iniciarse en la infancia.",
+            "C": "Las crisis generalizadas se siguen de una fase postcritica.",
+            "D": "Las crisis focales pueden evolucionar a generalizadas y se denominan crisis focales secundariamente generalizadas."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 67,
+            "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+        },
+        "explicacion": {
+            "correcta": "Las crisis mioclónicas, a diferencia de lo que indica la opción A, a menudo *no* se acompañan de pérdida de conciencia. Pueden ser generalizadas o focales, y se caracterizan por contracciones musculares breves e involuntarias.  Las otras opciones son correctas y describen características generales de las diferentes crisis epilépticas.",
+            "incorrectas": {
+                "B": "Correcto. Las crisis de ausencia típicas suelen comenzar en la infancia y se caracterizan por breves episodios de pérdida de conciencia sin manifestaciones motoras.",
+                "C": "Correcto. Después de una crisis generalizada, existe un periodo de recuperación, la fase postcrítica, donde el paciente puede estar somnoliento, confuso o con alteraciones cognitivas.",
+                "D": "Correcto.  Las crisis focales pueden propagarse a todo el cerebro, resultando en una crisis generalizada."
+            }
+        }
+    },
+    {
+        "id_examen": 24,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el caso de mujeres gestantes que precisan traslado como consecuencia de su embarazo, la posición de la gestante en la camilla seguirá entre otras, las siguientes recomendaciones, EXCEPTO:",
+        "opciones": {
+            "A": "Hemorragia vaginal, en posición de Trendelenburg.",
+            "B": "Síndrome de compresión de la vena cava superior con el tronco elevado y en decúbito lateral izquierdo.",
+            "C": "Parto inminente, decúbito dorsal plano o sobre lado izquierdo.",
+            "D": "Prolapso del cordón umbilical, posición antiTrendelenburg."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 78,
+            "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia. Enfermedad inflamatoria pélvica. Vulvovaginitis. Anticoncepción de emergencia."
+        },
+        "explicacion": {
+            "correcta": "La posición anti-Trendelenburg (elevación de la cabeza) está contraindicada en el prolapso de cordón umbilical.  La posición adecuada es la de Trendelenburg invertida, o bien, decúbito lateral izquierdo con elevación de la pelvis y caderas para aliviar la compresión del cordón.",
+            "incorrectas": {
+                "A": "Correcto. La posición de Trendelenburg puede ayudar a aumentar el flujo sanguíneo hacia el útero en caso de hemorragia vaginal.",
+                "B": "Correcto. Elevar el tronco y el decúbito lateral izquierdo alivian la compresión de la vena cava inferior.",
+                "C": "Correcto. El decúbito dorsal plano o lateral izquierdo es la posición ideal para facilitar el parto."
+            }
+        }
+    },
+    {
+        "id_examen": 25,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "A qué tipo de meningitis corresponde el siguiente análisis de líquido cefalorraquídeo: aspecto claro, pleocitosis con predominio de linfocitos, proteínas elevadas y glucosa baja.",
+        "opciones": {
+            "A": "Meningitis Bacteriana.",
+            "B": "Meningitis Vírica.",
+            "C": "Meningitis por Tuberculosis.",
+            "D": "Meningitis Aséptica."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 69,
+            "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "El LCR descrito es característico de una meningitis tuberculosa. La pleocitosis linfocitaria, niveles elevados de proteínas y glucosa baja son hallazgos comunes en esta infección.",
+            "incorrectas": {
+                "A": "La meningitis bacteriana suele presentar un LCR turbio (purulento), pleocitosis predominantemente neutrofílica, niveles elevados de proteínas y glucosa baja o normal.",
+                "B": "La meningitis vírica típicamente presenta un LCR claro, pleocitosis linfocitaria, niveles ligeramente elevados de proteínas y glucosa normal.",
+                "D": "La meningitis aséptica es un término general para las meningitis que no son causadas por bacterias, virus o tuberculosis; sus características de LCR son variables."
+            }
+        }
+    },
+    {
+        "id_examen": 26,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Según la escala PESI, que valora el riesgo de muerte en el tromboembolismo pulmonar, la clase III corresponde a:",
+        "opciones": {
+            "A": "Riesgo bajo.",
+            "B": "Riesgo intermedio/moderado.",
+            "C": "Riesgo alto.",
+            "D": "Riesgo muy alto."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 56,
+            "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La escala PESI (Prediction of Embolic Severe Illness) clasifica el riesgo de muerte en pacientes con tromboembolismo pulmonar. La clase III corresponde a un riesgo intermedio/moderado de mortalidad.  Las otras opciones representan niveles de riesgo diferentes dentro de la escala PESI.",
+            "incorrectas": {
+                "A": "El riesgo bajo corresponde a una clase inferior en la escala PESI.",
+                "C": "El riesgo alto corresponde a una clase superior en la escala PESI.",
+                "D": "El riesgo muy alto corresponde a una clase superior en la escala PESI."
+            }
+        }
+    },
+    {
+        "id_examen": 27,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el tratamiento inicial de un paciente con SCACEST en urgencias, señale la FALSA:",
+        "opciones": {
+            "A": "Está indicada la administración de oxígeno en cánulas nasales, independientemente de la saturación arterial de O 2 a todos los pacientes para mejorar la oxigenación.",
+            "B": "No se recomienda la administración de nitratos de forma sistemática si el paciente presenta hipotensión arterial.",
+            "C": "Para el alivio del dolor, son de elección la morfina o la meperidina.",
+            "D": "Los AINES no están indicados para alivio del dolor debido a su efecto protrombótico."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 46,
+            "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "En el tratamiento del SCACEST, la administración de oxígeno está indicada, pero no de forma sistemática a todos los pacientes con cánulas nasales sin tener en cuenta la saturación. Solo se administrará oxígeno suplementario si la saturación de oxígeno es baja. El resto de opciones son correctas en el tratamiento inicial.",
+            "incorrectas": {
+                "B": "La administración de nitratos está contraindicada en pacientes hipotensos debido al riesgo de empeoramiento de la hipotensión.",
+                "C": "Morfina y meperidina son opiáceos utilizados para el alivio del dolor en el SCACEST.",
+                "D": "Los AINES están contraindicados debido a su efecto protrombótico, que aumenta el riesgo de hemorragia."
+            }
+        }
+    },
+    {
+        "id_examen": 28,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Sobre el tratamiento con inhibidores del SGLT2 (Empaglifozina, dapaglifozina...) de la insuficiencia cardíaca, indica la respuesta FALSA:",
+        "opciones": {
+            "A": "Reducen la morbi-mortalidad independientemente de la FEVI del paciente.",
+            "B": "No están recomendados en los pacientes con DM tipo I por aumentar el riesgo de cetoacidosis diabética.",
+            "C": "Debemos evitarlos en todo paciente con Insuficiencia Renal Crónica por favorecer la nefritis tubulointersticial.",
+            "D": "Están indicados independientemente de la glucemia ya que el efecto biológico de los inhibidores del SGLT2 no depende del control glucémico y ha demostrado beneficio tanto en diabéticos como en no diabéticos."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 49,
+            "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+        },
+        "explicacion": {
+            "correcta": "Los inhibidores del SGLT2 son beneficiosos en la insuficiencia cardíaca, incluso con insuficiencia renal crónica.  Aunque se requiere ajuste de dosis, no están completamente contraindicados y su suspensión debe valorarse cuidadosamente.  La nefritis intersticial es un efecto adverso raro.",
+            "incorrectas": {
+                "A": "Los inhibidores del SGLT2 reducen la morbi-mortalidad en pacientes con insuficiencia cardíaca, independientemente de la fracción de eyección del ventrículo izquierdo (FEVI).",
+                "B": "En pacientes con diabetes tipo 1, el uso de inhibidores del SGLT2 aumenta el riesgo de cetoacidosis diabética, por lo que se deben evitar o usar con mucha precaución.",
+                "D": "Los inhibidores del SGLT2 ofrecen beneficios en pacientes diabéticos y no diabéticos con insuficiencia cardíaca, independientemente del control glucémico."
+            }
+        }
+    },
+    {
+        "id_examen": 29,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de los siguientes datos clínicos NO esperaría encontrar en un paciente con crisis asmática:",
+        "opciones": {
+            "A": "Sibilancias a la auscultación.",
+            "B": "Habla entrecortada.",
+            "C": "Silencio auscultatorio.",
+            "D": "Dolor pleurítico."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 55,
+            "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "El dolor pleurítico es un síntoma característico de patologías como la neumonía o el neumotórax, pero no de una crisis asmática. Las otras opciones son manifestaciones comunes de una crisis asmática.",
+            "incorrectas": {
+                "A": "Las sibilancias son un hallazgo común en la auscultación de un paciente con crisis asmática.",
+                "B": "La disnea y la habla entrecortada son síntomas frecuentes en una crisis asmática.",
+                "C": "En casos graves de crisis asmática, puede haber silencio auscultatorio debido a la obstrucción completa de las vías aéreas."
+            }
+        }
+    },
+    {
+        "id_examen": 30,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta en relación con el uso del desfibrilador externo en un paciente adulto en parada cardiorrespiratoria por fibrilación ventricular?",
+        "opciones": {
+            "A": "Se debe administrar una descarga de 100 J con desfibrilador bifásico.",
+            "B": "El desfibrilador debe aplicarse solo después de realizar dos minutos de masaje cardíaco.",
+            "C": "La desfibrilación debe aplicarse lo antes posible tras identificar un ritmo desfibrilable.",
+            "D": "En todos los casos se recomienda intubar antes de realizar la primera desfibrilación."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 41,
+            "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+        },
+        "explicacion": {
+            "correcta": "La desfibrilación debe realizarse lo antes posible tras identificar una fibrilación ventricular o taquicardia ventricular sin pulso para maximizar las posibilidades de éxito.  El tiempo es crítico en la reanimación cardiopulmonar (RCP).",
+            "incorrectas": {
+                "A": "La energía de descarga varía según el tipo de desfibrilador (monofásico o bifásico).  La energía recomendada puede variar dependiendo del desfibrilador.",
+                "B": "Se deben realizar compresiones torácicas antes de la desfibrilación en una parada cardiorrespiratoria.",
+                "D": "La intubación es un paso importante en la RCP avanzada, pero no es necesaria antes de la primera desfibrilación."
+            }
+        }
+    },
+    {
+        "id_examen": 31,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de los siguientes se considera criterio de hemoptisis masiva?",
+        "opciones": {
+            "A": "Emisión de sangre roja y espumosa con la tos.",
+            "B": "Antecedentes de neoplasia pulmonar.",
+            "C": "Velocidad de sangrado superior a $100 \\mathrm{ml} / \\mathrm{h}$.",
+            "D": "Necesidad de oxigenoterapia de alto flujo en el tratamiento."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 57,
+            "tema": "Hemoptisis. Valoración, diagnóstico y actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La hemoptisis masiva se define como la expectoración de sangre a una velocidad superior a 100 ml/h.  Esta cantidad de sangrado representa una amenaza significativa para la vida del paciente y requiere una intervención inmediata.",
+            "incorrectas": {
+                "A": "La descripción de la sangre (roja y espumosa) es sugestiva de hemoptisis, pero no define la gravedad.  Podría ser una hemoptisis leve o moderada.",
+                "B": "Los antecedentes de neoplasia pulmonar aumentan el riesgo de hemoptisis, pero no definen su gravedad. Un paciente con cáncer de pulmón puede tener una hemoptisis leve o masiva.",
+                "D": "La necesidad de oxigenoterapia de alto flujo indica hipoxemia, que puede ser consecuencia de una hemoptisis, pero no define la cantidad de sangrado."
+            }
+        }
+    },
+    {
+        "id_examen": 32,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente con Insuficiencia renal crónica ¿Cuál es la primera medida terapéutica a aplicar en un paciente con hiperpotasemia grave y alteraciones en el ECG?",
+        "opciones": {
+            "A": "Administrar diurético de asa iv si hay diuresis.",
+            "B": "Administrar gluconato cálcico iv.",
+            "C": "Administrar insulina con glucosa.",
+            "D": "Administrar resinas de intercambio catiónico."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 75,
+            "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En una hiperpotasemia grave con alteraciones ECG en un paciente con IRC, la administración de gluconato cálcico IV es la primera medida terapéutica.  El gluconato cálcico estabiliza la membrana celular miocárdica, protegiendo contra las arritmias potencialmente letales inducidas por la hiperpotasemia, actuando rápidamente para contrarrestar los efectos de los niveles elevados de potasio en el corazón.",
+            "incorrectas": {
+                "A": "Los diuréticos de asa pueden ayudar a eliminar potasio, pero su efecto es lento y no es la opción inicial en una emergencia de hiperpotasemia con alteraciones ECG.",
+                "C": "La insulina con glucosa desplaza el potasio intracelularmente, pero este efecto no es instantáneo y se utiliza como medida complementaria, no la primera línea de tratamiento.",
+                "D": "Las resinas de intercambio catiónico unen el potasio en el tracto gastrointestinal, pero su efecto es tardío e inadecuado en una emergencia de hiperpotasemia grave."
+            }
+        }
+    },
+    {
+        "id_examen": 33,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "De las siguientes afirmaciones, respecto a la hemorragia digestiva alta (HDA) ¿Cuál consideraría INCORRECTA?",
+        "opciones": {
+            "A": "Por regla general no resulta necesario ni conveniente canular dos vías cortas de grueso calibre ( 14 ó 16 g ) para proceder a la reposición de la volemia.",
+            "B": "La causa más frecuente de hemorragia digestiva alta es la úlcera péptica gastroduodenal.",
+            "C": "En casos de HDA grave existe consenso en que la endoscopia debe practicarse de un modo precoz (46 horas tras el ingreso, pero no antes de 2 horas, tras las oportunas maniobras de reanimación.",
+            "D": "Un paciente que ha presentado recientemente un episodio de HDA no varicosa, no precisa de una dieta especial tras el alta hospitalaria."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 61,
+            "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "La afirmación incorrecta es que por regla general no es necesario ni conveniente canular dos vías intravenosas cortas de grueso calibre (14 ó 16 g) para reponer la volemia en una HDA.  En una hemorragia digestiva alta grave, la reposición rápida de volumen es crucial.  Dos vías de grueso calibre permiten una infusión simultánea de fluidos y sangre, maximizando la velocidad de reposición y asegurando un manejo adecuado de la hipovolemia.",
+            "incorrectas": {
+                "B": "La úlcera péptica gastroduodenal es una causa frecuente de hemorragia digestiva alta.",
+                "C": "La endoscopia precoz es fundamental en la HDA grave para el diagnóstico y el tratamiento, generalmente entre las 4 y 6 horas tras el ingreso, tras la reanimación inicial.",
+                "D": "Tras una HDA no varicosa, la dieta suele ser normal una vez estabilizado el paciente, sin necesidad de dietas especiales."
+            }
+        }
+    },
+    {
+        "id_examen": 34,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "El signo de Brudzinski consiste en:",
+        "opciones": {
+            "A": "Triada clásica de fiebre, vómitos y cefalea en la clínica de la meningitis.",
+            "B": "Resistencia y dolor al intentar extender la rodilla completamente cuando el paciente se encuentra en decúbito supino con la cadera y rodilla flexionadas a $90^{\\circ}$.",
+            "C": "Flexión involuntaria de caderas y rodillas al flexionar suavemente el cuello hacia el pecho.",
+            "D": "Presencia de petequias generalizadas con exantema que no desaparecen a la vitropresión"
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 69,
+            "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "El signo de Brudzinski consiste en la flexión involuntaria de las caderas y rodillas al flexionar suavemente el cuello del paciente hacia el pecho.  Esto indica irritación meníngea.",
+            "incorrectas": {
+                "A": "Esta es la tríada clásica de la meningitis, pero no define el signo de Brudzinski.",
+                "B": "Esto describe el signo de Lasegue, que indica irritación de la raíz nerviosa ciática.",
+                "D": "Esto describe un rash petequial, indicativo de diversas condiciones, pero no el signo de Brudzinski."
+            }
+        }
+    },
+    {
+        "id_examen": 35,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Se decide realizar una cardioversión farmacológica a un paciente que ha acudido a urgencias con un episodio de Fibrilación Auricular ¿Qué fármaco antiarrítmico NO utilizaría para la restauración del ritmo sinusal?",
+        "opciones": {
+            "A": "Flecainida.",
+            "B": "Propafenona.",
+            "C": "Diltiazem.",
+            "D": "Vernakalant."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 47,
+            "tema": "Arritmias cardiacas. Taquiarritmias auriculares: Extrasistolia. Taquicardia paroxística supraventricular, Flutter. Fibrilación auricular. Taquiarritmias ventriculares: Extrasistolia. Taquicardia Ventricular. Fibrilación ventricular. Bradiarritmias."
+        },
+        "explicacion": {
+            "correcta": "El Diltiazem no se utiliza en la cardioversión farmacológica de la fibrilación auricular. Aunque es un bloqueador de los canales de calcio que puede ser útil en el control de la frecuencia ventricular en la FA, no es eficaz para la conversión al ritmo sinusal.  Se prefieren los antiarrítmicos de clase I (como la flecainida y la propafenona) o fármacos como el vernakalant para la cardioversión.",
+            "incorrectas": {
+                "A": "La flecainida es un antiarrítmico de clase I que se puede utilizar en la cardioversión farmacológica de la fibrilación auricular.",
+                "B": "La propafenona es otro antiarrítmico de clase I que puede utilizarse en la cardioversión farmacológica de la fibrilación auricular.",
+                "D": "El vernakalant es un agente antiarrítmico no relacionado con las clases tradicionales que se utiliza para la cardioversión farmacológica de la fibrilación auricular."
+            }
+        }
+    },
+    {
+        "id_examen": 36,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de estos fármacos proporciona sedación, analgesia y además es recomendable en broncoespasmo durante la Secuencia Rápida de Intubación (SRI)?",
+        "opciones": {
+            "A": "Ketamina.",
+            "B": "Etomidato.",
+            "C": "Diazepam.",
+            "D": "Succinilcolina."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 43,
+            "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."
+        },
+        "explicacion": {
+            "correcta": "La ketamina es un anestésico disociativo que proporciona sedación, analgesia y tiene propiedades broncodilatadoras, lo que la hace adecuada para su uso durante la Secuencia Rápida de Intubación (SRI) en pacientes con riesgo de broncoespasmo.  Reduce la incidencia de broncoespasmo en pacientes asmáticos o con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC).",
+            "incorrectas": {
+                "B": "El etomidato es un inductor de la anestesia de acción rápida, proporciona sedación y es ideal para intubaciones rápidas, pero no tiene propiedades analgésicas significativas ni broncodilatadoras.",
+                "C": "El diazepam es un benzodiacepina que proporciona sedación y ansiolisis, pero no ofrece analgesia significativa ni broncodilatación, pudiendo incluso exacerbar el broncoespasmo.",
+                "D": "La succinilcolina es un relajante muscular no despolarizante que facilita la intubación, pero no proporciona sedación ni analgesia."
+            }
+        }
+    },
+    {
+        "id_examen": 37,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de los siguientes hallazgos clínicos es más característico de una uveítis anterior aguda?",
+        "opciones": {
+            "A": "Ojo rojo con secreción purulenta y prurito.",
+            "B": "Ojo rojo con dolor ocular, fotofobia y miosis.",
+            "C": "Ojo rojo bilateral con prurito y lagrimeo.",
+            "D": "Ojo rojo con midriasis y secreción mucosa."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 91,
+            "tema": "Exploración oftalmológica básica. Diagnóstico diferencial del ojo rojo. Pérdida brusca de visión. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La uveítis anterior aguda se caracteriza por ojo rojo con dolor ocular intenso, fotofobia (hipersensibilidad a la luz) y miosis (contracción pupilar). El dolor es un síntoma cardinal.",
+            "incorrectas": {
+                "A": "Describe una conjuntivitis aguda, con secreción purulenta y prurito como síntomas principales.",
+                "C": "Describe una conjuntivitis alérgica bilateral, con prurito y lagrimeo como manifestaciones principales.",
+                "D": "Esta descripción no es consistente con la uveítis anterior aguda. La midriasis (dilatación pupilar) y la secreción mucosa son más sugestivas de otras patologías oculares."
+            }
+        }
+    },
+    {
+        "id_examen": 38,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente con oclusión de gran vaso cerebral y criterios adecuados ¿Cuál es el tiempo máximo desde el inicio de los síntomas para realizar trombectomía mecánica con beneficio demostrado?",
+        "opciones": {
+            "A": "4,5 horas.",
+            "B": "6 horas.",
+            "C": "8 horas.",
+            "D": "24 horas."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 68,
+            "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "Las guías actuales recomiendan la trombectomía mecánica hasta las 24 horas del inicio de los síntomas en pacientes con ictus isquémico agudo que cumplen criterios de selección adecuados, ampliando el margen de tiempo de ventana terapéutica en comparación con la terapia trombolítica intravenosa.",
+            "incorrectas": {
+                "A": "Demasiado restrictivo, no refleja las guías actuales.",
+                "B": "Demasiado restrictivo, no refleja las guías actuales.",
+                "C": "Demasiado restrictivo, no refleja las guías actuales."
+            }
+        }
+    },
+    {
+        "id_examen": 39,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el caso de la neuropatía periférica inducida por quimioterapia, el tratamiento de primera elección más aceptado es:",
+        "opciones": {
+            "A": "Gabapentina a dosis de $150-300 \\mathrm{mg} /$ día.",
+            "B": "Pregabalina a dosis de $25-50 \\mathrm{mg} /$ día.",
+            "C": "Duloxetina, a dosis de 60 mg en la mañana.",
+            "D": "Amitriptilina a dosis nocturnas de 75 mg ."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 94,
+            "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La duloxetina, un inhibidor de la recaptación de serotonina y noradrenalina (IRSN), es el tratamiento de primera línea más aceptado para la neuropatía periférica inducida por quimioterapia debido a su eficacia en el alivio del dolor neuropático y su perfil de seguridad generalmente aceptable.",
+            "incorrectas": {
+                "A": "La gabapentina es eficaz para algunos tipos de neuropatía, pero la duloxetina generalmente se considera de primera línea para la neuropatía inducida por quimioterapia.",
+                "B": "La pregabalina, al igual que la gabapentina, es un anticonvulsivante útil para la neuropatía, pero la duloxetina suele ser preferida en este contexto.",
+                "D": "La amitriptilina, un antidepresivo tricíclico, puede ser eficaz, pero tiene más efectos secundarios que la duloxetina, lo que la convierte en una opción de segunda línea."
+            }
+        }
+    },
+    {
+        "id_examen": 40,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el tratamiento de la crisis tirotóxica es cierto que:",
+        "opciones": {
+            "A": "El tratamiento de elección de la hipertermia es con salicilatos.",
+            "B": "Los glucocorticoides están contraindicados por favorecer los sintomas de hipertiroidismo.",
+            "C": "Para el tratamiento de la taquicardia, se deben evitar los betabloqueantes, ya que pueden empeorar la insuficiencia cardíaca.",
+            "D": "Para el tratamiento de los escalofríos es útil la clorpromazina."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 73,
+            "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La clorpromazina, un antipsicótico, puede ser útil en el tratamiento de los escalofríos asociados con la crisis tirotóxica debido a sus propiedades sedantes y antieméticas.  Ayuda a controlar la agitación y la hiperactividad simpática.",
+            "incorrectas": {
+                "A": "Los salicilatos pueden empeorar el estado de los pacientes con crisis tirotoxica por su efecto sobre la unión de proteínas y potencial aumento del metabolismo hormonal.",
+                "B": "Los glucocorticoides son útiles en la crisis tirotoxica para contrarrestar el efecto del estrés sobre el sistema hormonal, no están contraindicados.",
+                "C": "Los betabloqueantes son cruciales en el manejo de la taquicardia en la crisis tirotóxica, y no empeoran la insuficiencia cardíaca si se utilizan correctamente."
+            }
+        }
+    },
+    {
+        "id_examen": 41,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Ante una paciente con antecedente de inserción de DIU hace 6 semanas, que acude a urgencias por dolor abdominal en hipogastrio acompañado de flujo maloliente, fiebre y elevación de reactantes de fase aguda, el diagnóstico mas probable será:",
+        "opciones": {
+            "A": "Cistitis.",
+            "B": "Apendicitis aguda.",
+            "C": "Enfermedad inflamatoria pélvica.",
+            "D": "Fecaloma."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 78,
+            "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia. Enfermedad inflamatoria pélvica. Vulvovaginitis. Anticoncepción de emergencia."
+        },
+        "explicacion": {
+            "correcta": "El cuadro clínico de la paciente (dolor abdominal en hipogastrio, flujo maloliente, fiebre y elevación de reactantes de fase aguda) seis semanas después de la inserción de un DIU es altamente sugestivo de Enfermedad Inflamatoria Pélvica (EIP).  La EIP es una infección del tracto genital superior que puede ocurrir tras la inserción de un DIU, aunque no siempre es su causa directa.  La clínica es consistente con una infección pélvica, incluyendo la inflamación y la respuesta sistémica.",
+            "incorrectas": {
+                "A": "La cistitis se caracteriza principalmente por disuria, polaquiuria y urgencia miccional, sin los síntomas sistémicos presentes en este caso.",
+                "B": "La apendicitis aguda se suele manifestar con dolor en fosa iliaca derecha, aunque puede tener localización atípica; no suele cursar con flujo vaginal maloliente.",
+                "D": "Un fecaloma se manifestaría con dolor abdominal de tipo obstructivo, estreñimiento y distensión abdominal, no con flujo vaginal."
+            }
+        }
+    },
+    {
+        "id_examen": 42,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señale la respuesta FALSA en relación a la mononucleosis infecciosa:",
+        "opciones": {
+            "A": "El $90 \\%$ de los casos está producida por el citomegalovirus.",
+            "B": "Puede evidenciarse hepatomegalia en la exploración física.",
+            "C": "Suele afectar a adultos jóvenes.",
+            "D": "El diagnóstico de sospecha en urgencias se basa en la clínica, la exploración física y la aparición de linfocitosis con más del $10 \\%$ de linfocitos atípicos en el hemograma."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 81,
+            "tema": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+        },
+        "explicacion": {
+            "correcta": "El citomegalovirus (CMV) es una causa común de mononucleosis infecciosa, pero no representa el 90% de los casos. La mononucleosis infecciosa es causada principalmente por el virus de Epstein-Barr (VEB).",
+            "incorrectas": {
+                "B": "La hepatomegalia es un hallazgo común en la mononucleosis infecciosa debido a la afectación hepática por el virus.",
+                "C": "La mononucleosis infecciosa afecta con mayor frecuencia a adultos jóvenes, aunque puede afectar a cualquier grupo de edad.",
+                "D": "El diagnóstico de sospecha en urgencias se basa en la clínica, la exploración física y los hallazgos hematológicos, como la linfocitosis atípica."
+            }
+        }
+    },
+    {
+        "id_examen": 43,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Según la clasificación funcional de la NYHA de la insuficiencia cardíaca, la clase funcional II corresponde a:",
+        "opciones": {
+            "A": "El paciente se encuentra cómodo en reposo pero una actividad física ordinaria le produce disnea, fatiga o palpitaciones.",
+            "B": "Limitación marcada de la actividad física. El enfermo está bien en reposo pero actividades menores le causan disnea, fatiga o palpitaciones.",
+            "C": "El paciente tiene disnea con mínimos esfuerzos o en reposo y es incapaz de realizar cualquier actividad física sin malestar.",
+            "D": "Al paciente la actividad física ordinaria no le causa sintomatología."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 49,
+            "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+        },
+        "explicacion": {
+            "correcta": "La clase funcional II de la NYHA describe a un paciente que está cómodo en reposo, pero una actividad física ordinaria (como subir un tramo de escaleras o caminar una cuadra) le produce disnea, fatiga o palpitaciones. Es decir, la actividad física normal causa síntomas.",
+            "incorrectas": {
+                "B": "Esta descripción corresponde a la clase funcional III de la NYHA.",
+                "C": "Esta descripción corresponde a la clase funcional IV de la NYHA.",
+                "D": "Esta descripción corresponde a la clase funcional I de la NYHA."
+            }
+        }
+    },
+    {
+        "id_examen": 44,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál es la única cefalea que tiene indicado el oxígeno a alto flujo, como tratamiento de urgencia ante el dolor?",
+        "opciones": {
+            "A": "Migraña con aura.",
+            "B": "Migraña sin aura.",
+            "C": "Cefalea crónica diaria.",
+            "D": "Cefalea en racimos."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 66,
+            "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapéutica urgente"
+        },
+        "explicacion": {
+            "correcta": "La cefalea en racimos es la única cefalea que tiene como tratamiento de urgencia el oxígeno a alto flujo para aliviar el dolor intenso y característico de esta entidad.",
+            "incorrectas": {
+                "A": "La migraña con aura no tiene indicado el oxígeno a alto flujo como tratamiento de urgencia.",
+                "B": "La migraña sin aura no tiene indicado el oxígeno a alto flujo como tratamiento de urgencia.",
+                "C": "La cefalea crónica diaria no tiene indicado el oxígeno a alto flujo como tratamiento de urgencia."
+            }
+        }
+    },
+    {
+        "id_examen": 45,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En relación a la mordedura de víbora, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "Los síntomas provocados por la mordedura de una víbora suelen comenzar inmediatamente.",
+            "B": "Tras la mordedura de una víbora, debe aplicarse torniquete e incisión con succión del veneno.",
+            "C": "En urgencias está indicada la realización de analítica completa que incluya estudio de coagulación.",
+            "D": "El tratamiento específico se basa en la administración de suero antivibora iv.o im."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 102,
+            "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La aplicación de un torniquete e incisión con succión del veneno tras una mordedura de víbora está contraindicada. Puede causar más daño tisular y no es eficaz para eliminar el veneno.  Se debe inmovilizar el miembro afectado y trasladar al paciente rápidamente al centro hospitalario.",
+            "incorrectas": {
+                "A": "Los síntomas de una mordedura de víbora pueden variar en su inicio, pero con frecuencia aparecen rápidamente.",
+                "C": "La analítica completa, incluyendo el estudio de coagulación, es fundamental para valorar el estado del paciente y guiar el tratamiento.",
+                "D": "El suero antivíbora es el tratamiento específico para las mordeduras de víbora, administrado por vía intravenosa u intramuscular, dependiendo del tipo de serpiente y el suero disponible."
+            }
+        }
+    },
+    {
+        "id_examen": 46,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Siguiendo la regla de los \" 9 \" de Wallace, para la valoración de la superficie corporal quemada, un adulto con ambas extremidades inferiores totalmente quemadas, tendría afectado un porcentaje de la superficie corporal total del:",
+        "opciones": {
+            "A": "18",
+            "B": "26",
+            "C": "36",
+            "D": "40"
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 89,
+            "tema": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento."
+        },
+        "explicacion": {
+            "correcta": "La regla de los nueve de Wallace divide la superficie corporal en múltiplos de 9.  Cabeza y cuello representan el 9%, cada miembro superior el 9%, el tronco anterior el 18%, el tronco posterior el 18% y cada miembro inferior el 18%.  Por lo tanto, ambas extremidades inferiores quemadas representan el 36% (18% + 18%).",
+            "incorrectas": {
+                "A": "Esta opción subestima la superficie quemada.  Solo una extremidad inferior representa el 18%.",
+                "B": "Esta opción también subestima la superficie quemada.  Se obtiene sumando incorrectamente las porciones.",
+                "D": "Esta opción sobreestima la superficie quemada significativamente."
+            }
+        }
+    },
+    {
+        "id_examen": 47,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Respecto al dolor irruptivo oncológico y el abordaje terapéutico es FALSO:",
+        "opciones": {
+            "A": "El fentanilo oral transmucoso es más eficaz y rápido que el sulfato de morfina a la hora de controlar el dolor irruptivo oncológico.",
+            "B": "Los opioides de liberación rápida y corta duración son los fármacos de rescate de elección.",
+            "C": "Las dosis de los distintos fentanilos son intercambiables entre sí.",
+            "D": "La morfina de liberación rápida podría ser apropiada para tratar los episodios predecibles de dolor irruptivo (movilización, tragar...) cuando esta se administre al menos 20 minutos antes."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 94,
+            "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Las diferentes formulaciones de fentanilo no son intercambiables en cuanto a dosis. La equivalencia analgésica entre distintos fentanilos (parches, comprimidos, etc.) no es directa y requiere un ajuste individualizado por el médico especialista.  Cada formulación tiene su propia cinética y farmacodinamia.",
+            "incorrectas": {
+                "A": "El fentanilo transmucoso ofrece una acción más rápida y eficaz que la morfina por vía oral en el dolor irruptivo, debido a su rápida absorción.",
+                "B": "Los opioides de liberación rápida son ideales para el control del dolor irruptivo por su inicio rápido de acción y corta duración.",
+                "D": "La administración de morfina de liberación rápida antes de un episodio de dolor irruptivo predecible puede ser útil para su prevención o control."
+            }
+        }
+    },
+    {
+        "id_examen": 48,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el Plan de Atención al Ictus en Aragón el tiempo puerta-aguja (tiempo desde la llegada al hospital a la administración de tratamiento fibrinolítico) en la atención urgente hospitalaria se establece el siguiente objetivo:",
+        "opciones": {
+            "A": "Que más del $80 \\%$ de los pacientes sean tratados con puerta-aguja en menos de 60 minutos.",
+            "B": "Que la mediana del tiempo-aguja sea menor de 60 minutos.",
+            "C": "No existe un objetivo establecido para el tiempo puerta-aguja en Aragón.",
+            "D": "El tiempo puerta-aguja solo se considera en hospitales terciarios."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 68,
+            "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "El Plan de Atención al Ictus en Aragón establece que más del 80% de los pacientes deben ser tratados con un tiempo puerta-aguja inferior a 60 minutos. Esto refleja el objetivo de una atención rápida y eficaz para minimizar el daño cerebral.",
+            "incorrectas": {
+                "B": "Si bien una mediana por debajo de 60 minutos es deseable, el objetivo principal del plan se centra en el porcentaje de pacientes tratados dentro del tiempo establecido.",
+                "C": "Es falso, existe un objetivo claramente definido para el tiempo puerta-aguja.",
+                "D": "El tiempo puerta-aguja es relevante en todos los hospitales que tratan ictus, no solo en los terciarios."
+            }
+        }
+    },
+    {
+        "id_examen": 49,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de los siguientes supuestos NO es indicación de realizar un TAC cerebral urgente en un paciente adulto que ha sufrido un traumatismo cráneo-encefálico:",
+        "opciones": {
+            "A": "Sospecha de fractura craneal abierta o hundimiento.",
+            "B": "Aparición del signo de Battle.",
+            "C": "Intoxicación por alcohol.",
+            "D": "Conductor novel de 18 años que sufre accidente de tráfico en vía peatonalizada (máximo $30 \\mathrm{Km} / \\mathrm{h}$ ) golpeando el coche con un bolardo metálico y que a la llegada de la Policía Local a Urgencias ha presentado un vómito aislado."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 86,
+            "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Una intoxicación alcohólica por sí sola no es una indicación de TAC cerebral urgente tras un traumatismo craneoencefálico.  Aunque el alcohol puede influir en la valoración del paciente, otros factores clínicos son prioritarios para la decisión de realizar una TAC.  En este caso, el accidente leve en una zona peatonal con un solo vómito no justifica una TAC urgente.",
+            "incorrectas": {
+                "A": "Una fractura craneal abierta o hundida es una indicación clara de TAC cerebral urgente.",
+                "B": "El signo de Battle (hematoma retroauricular) sugiere lesión en la base del cráneo y requiere una TAC.",
+                "C": "Si bien la intoxicación etílica puede dificultar la evaluación, no excluye otras indicaciones de TAC."
+            }
+        }
+    },
+    {
+        "id_examen": 50,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En cuanto al tratamiento antiagregante plaquetario a administrar en urgencias en un paciente que va a ser sometido a angioplastia coronaria primaria, si se indica tratamiento con ticagrelor, la dosis de carga será:",
+        "opciones": {
+            "A": "600 mg oral.",
+            "B": "180 mg oral.",
+            "C": "60 mg oral.",
+            "D": "90 mg intravenoso."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 46,
+            "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La dosis de carga de ticagrelor en un paciente que va a ser sometido a una angioplastia coronaria primaria es de 180 mg por vía oral.",
+            "incorrectas": {
+                "A": "Esta dosis es excesivamente alta y puede aumentar el riesgo de sangrado.",
+                "C": "Esta dosis es demasiado baja para obtener el efecto antiagregante deseado.",
+                "D": "El ticagrelor se administra por vía oral, no intravenosa, como dosis de carga para la angioplastia coronaria primaria."
+            }
+        }
+    },
+    {
+        "id_examen": 51,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Respecto a la pericarditis aguda, señale la correcta:",
+        "opciones": {
+            "A": "Los cambios electrocardiográficos en el primer estadio incluyen inversión simétrica de onda T sin onda Q.",
+            "B": "La causa más frecuente es la pericarditis postinfarto.",
+            "C": "En la pericarditis aguda no complicada podemos observar un incremento de la silueta cardíaca en la radiografia de tórax.",
+            "D": "El signo de alternancia eléctrica debe hacernos sospechar taponamiento cardiaco."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 52,
+            "tema": "Otras urgencias cardiovasculares en urgencias: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El signo de alternancia eléctrica, caracterizado por la variación en la amplitud de los complejos QRS de un latido a otro en el electrocardiograma, es un hallazgo sugestivo de taponamiento cardíaco.  Refleja la variación en la cantidad de sangre que llega al corazón debido a la compresión del pericardio.",
+            "incorrectas": {
+                "A": "En el primer estadio de la pericarditis aguda,  los cambios electrocardiográficos suelen incluir depresión del segmento ST y ondas T invertidas, pero no siempre son simétricas ni carecen de onda Q. Pueden aparecer ondas Q patológicas en estadios más avanzados.",
+                "B": "La pericarditis postinfarto es una causa importante, pero no la más frecuente. Las infecciones virales son la causa más común de pericarditis aguda.",
+                "C": "En la pericarditis aguda no complicada, la silueta cardíaca en la radiografía de tórax suele ser normal o mostrar solo pequeños cambios. Un aumento significativo sugiere derrame pericárdico significativo, lo cual ya es una complicación."
+            }
+        }
+    },
+    {
+        "id_examen": 52,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señale lo correcto respecto al manejo de las emergencias hipertensivas:",
+        "opciones": {
+            "A": "El tratamiento de elección en el edema agudo de pulmón es el labetalol.",
+            "B": "El tratamiento de elección en la eclampsia es el nitroprusiato.",
+            "C": "Se considera apropiada una reducción del $25 \\%$ en la presión arterial media en las primeras 2 horas, comprobando la mejoría de los síntomas.",
+            "D": "Cuando se produce hemorragia cerebral, el objetivo tensional de forma aguda es alcanzar una TAS < 120 mmHg ."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 52,
+            "tema": "Otras urgencias cardiovasculares en urgencias: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En emergencias hipertensivas, el objetivo es reducir la presión arterial de forma controlada,  aproximadamente un 25% en las primeras 2 horas, siempre vigilando la mejoría clínica del paciente.  Una reducción brusca y excesiva puede ser perjudicial.",
+            "incorrectas": {
+                "A": "El labetalol puede utilizarse en emergencias hipertensivas, pero no es el fármaco de elección para el edema agudo de pulmón.  Los nitratos son generalmente la primera opción.",
+                "B": "El nitroprusiato es un vasodilatador potente usado en emergencias hipertensivas severas, pero no es el tratamiento de elección en la eclampsia.  El sulfato de magnesio es fundamental en este caso.",
+                "D": "En la hemorragia cerebral, el objetivo tensional es controvertido y depende de la localización y gravedad de la hemorragia.  El objetivo no es siempre <120 mmHg de TAS,  puede ser más conservador en algunos casos."
+            }
+        }
+    },
+    {
+        "id_examen": 53,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Qué volumen de cristaloides está indicado como bolo inicial en un niño con shock hipovolémico tras un trauma?",
+        "opciones": {
+            "A": "10ml * Kg",
+            "B": "20ml * kg",
+            "C": "30ml * Kg",
+            "D": "40ml * Kg."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "El bolo inicial de cristaloides en un niño con shock hipovolémico tras un trauma es de 20 ml/kg. Esta es la dosis recomendada para la reanimación inicial, seguida de reevaluación y administración de más fluidos si es necesario.",
+            "incorrectas": {
+                "A": "10 ml/kg es insuficiente para una reanimación adecuada en un shock hipovolémico.",
+                "C": "30 ml/kg puede ser excesivo como bolo inicial y podría llevar a complicaciones.",
+                "D": "40 ml/kg es demasiado y puede sobrecargar el sistema circulatorio."
+            }
+        }
+    },
+    {
+        "id_examen": 54,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de estas afirmaciones NO considera correcta?:",
+        "opciones": {
+            "A": "El empleo de una sonda nasogástrica está justificado en los casos de hemorragia grave (especialmente cuando se exteriorizan en forma de hematemesis).",
+            "B": "Los pacientes clasificados como de bajo riesgo después de la endoscopia pueden recibir alimentación oral dentro de las primeras 24 horas.",
+            "C": "En un paciente con hemorragia digestiva alta y síndrome coronario agudo, la endoscopia debe realizarse de forma urgente.",
+            "D": "La endoscopia debe realizarse de un modo precoz ( $<12 \\mathrm{~h}$ ) en presencia de sangre fresca en el aspirado nasogástrico."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 61,
+            "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "En un paciente con hemorragia digestiva alta y síndrome coronario agudo, la prioridad es estabilizar la situación coronaria, y la endoscopia se realiza una vez estabilizado el paciente. Aunque la endoscopia es crucial para diagnosticar y tratar la hemorragia digestiva, la estabilización coronaria es primordial en este caso.",
+            "incorrectas": {
+                "A": "Una sonda nasogástrica puede ser útil para evaluar la cantidad y características de la hemorragia y facilitar la administración de fármacos, especialmente en casos de hemorragia grave.",
+                "B": "En pacientes de bajo riesgo tras una endoscopia que muestra ausencia de lesión o lesión leve, la alimentación oral se puede reiniciar en las primeras 24 horas.",
+                "D": "La presencia de sangre fresca en el aspirado nasogástrico indica hemorragia activa y requiere una endoscopia temprana (menos de 12 horas) para identificar y controlar la fuente de sangrado."
+            }
+        }
+    },
+    {
+        "id_examen": 55,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes características clínicas es más sugestiva de una luxación posterior de cadera?",
+        "opciones": {
+            "A": "Miembro inferior en abducción y rotación externa.",
+            "B": "Miembro inferior en extensión y rotación interna.",
+            "C": "Miembro inferior en flexión, abducción y rotación externa.",
+            "D": "Miembro inferior en flexión, aducción y rotación interna."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 87,
+            "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La luxación posterior de cadera se caracteriza por la presentación del miembro inferior en flexión, aducción y rotación interna. Esto contrasta con la luxación anterior, donde se observa abducción y rotación externa.",
+            "incorrectas": {
+                "A": "Abducción y rotación externa son características de una luxación anterior de cadera.",
+                "B": "Extensión y rotación interna no son características típicas de ninguna luxación de cadera.",
+                "C": "Flexión, abducción y rotación externa son características de una luxación anterior de cadera."
+            }
+        }
+    },
+    {
+        "id_examen": 56,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el caso de que caiga sosa caústica en polvo en la piel, la actitud correcta será:",
+        "opciones": {
+            "A": "Neutralizar la sosa aplicando agua oxigenada.",
+            "B": "Neutralizar la sosa aplicando agua destilada.",
+            "C": "Neutralizar la sosa aplicando ácido acético o vinagre de mesa.",
+            "D": "Cepillado de los polvos de sosa que haya en la piel."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 101,
+            "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras. Tratamiento específico."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la D. En caso de contacto con sosa cáustica en polvo, lo prioritario es eliminar el agente causante mediante un cepillado cuidadoso para minimizar el contacto y la posterior penetración en la piel.  El uso de agua o cualquier otro líquido podría diseminar el polvo y aumentar la superficie afectada. Neutralizar con ácidos está contraindicado por el riesgo de reacciones exotérmicas que agravan la lesión.",
+            "incorrectas": {
+                "A": "El agua oxigenada no neutraliza la sosa cáustica y podría incluso empeorar la lesión.",
+                "B": "El agua destilada diluye la sosa, pero no la neutraliza, y tampoco es la primera opción de actuación.",
+                "C": "La neutralización con ácido acético (vinagre) genera una reacción exotérmica que puede causar más daño en la piel."
+            }
+        }
+    },
+    {
+        "id_examen": 57,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Los siguientes marcadores para valorar el nivel de riesgo de la neutropenia se encuadran dentro de un riesgo bajo a moderado, EXCEPTO:",
+        "opciones": {
+            "A": "Neutropenia de 8 días de evolución.",
+            "B": "Linfoma.",
+            "C": "Tratamiento con Alemtuzumab.",
+            "D": "Índice MASCC con valor de 22."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 83,
+            "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la C. El Alemtuzumab es un potente inmunosupresor que induce una neutropenia profunda y prolongada, colocándola en un riesgo alto de infección, a diferencia de las otras opciones que se consideran de riesgo bajo a moderado.",
+            "incorrectas": {
+                "A": "Una neutropenia de 8 días de evolución puede ser manejable y se considera de riesgo bajo a moderado.",
+                "B": "El linfoma puede asociarse con neutropenia, pero no siempre implica un riesgo alto de infección, dependiendo del estadio y del tratamiento.",
+                "D": "Un índice MASCC (Multicenter Antineoplastic Drug) de 22 puntos indica un riesgo bajo a moderado de infección."
+            }
+        }
+    },
+    {
+        "id_examen": 58,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál es el tratamiento de elección para un paciente con bradicardia sintomática y signos de Inestabilidad hemodinámica en el contexto de un infarto agudo de miocardio?",
+        "opciones": {
+            "A": "Administración de betabloqueantes.",
+            "B": "Implante inmediato de un marcapasos definitivo.",
+            "C": "Estimulación transcutánea temporal.",
+            "D": "Observación y monitorización ECG continua."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 47,
+            "tema": "Arritmias cardiacas. Taquiarritmias auriculares: Extrasistolia. Taquicardia paroxística supraventricular, Flutter. Fibrilación auricular. Taquiarritmias ventriculares: Extrasistolia. Taquicardia Ventricular. Fibrilación ventricular. Bradiarritmias."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la C. En un paciente con bradicardia sintomática e inestabilidad hemodinámica en el contexto de un IAM, la estimulación transcutánea temporal (ETT) es el tratamiento de elección inicial para restaurar el ritmo cardíaco y la perfusión.  Es rápida, reversible y permite ganar tiempo para otras estrategias.",
+            "incorrectas": {
+                "A": "Los betabloqueantes están contraindicados en bradicardia sintomática, ya que pueden empeorar la situación.",
+                "B": "El implante inmediato de un marcapasos definitivo es una solución a largo plazo, pero no la inmediata en una situación de inestabilidad hemodinámica.",
+                "D": "La observación y monitorización no son suficientes en un cuadro de inestabilidad hemodinámica; se requiere una intervención inmediata para mejorar la perfusión."
+            }
+        }
+    },
+    {
+        "id_examen": 59,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En cuanto al manejo de la vía aérea difícil en urgencias, señale la opción INCORRECTA.",
+        "opciones": {
+            "A": "Puede anticiparse con escalas como LEMON.",
+            "B": "El videolaringoscopio puede mejorar el acceso.",
+            "C": "La ventilación supraglótica es insuficiente una vez relajado.",
+            "D": "Debe preverse un plan alternativo antes de la intubación."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 43,
+            "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la C. La ventilación supraglótica, como la mascarilla laríngea,  aunque útil en la gestión inicial, se convierte en insuficiente una vez que se ha administrado un relajante muscular, ya que no sella la vía aérea de forma adecuada con la relajación muscular.  La ventilación puede ser inadecuada e incluso peligrosa.",
+            "incorrectas": {
+                "A": "La escala LEMON (Look, Evaluate, Mallampati, Obstruction, Neck mobility) ayuda a predecir la dificultad en la intubación.",
+                "B": "El videolaringoscopio mejora la visualización de la laringe y facilita la intubación, especialmente en vías aéreas difíciles.",
+                "D": "Es fundamental tener un plan B (ej. cricotirotomía) antes de intentar una intubación en caso de anticiparse una vía aérea difícil."
+            }
+        }
+    },
+    {
+        "id_examen": 60,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "La causa más frecuente de tromboembolismo pulmonar es:",
+        "opciones": {
+            "A": "Arritmia cardíaca trombogénica.",
+            "B": "Trombosis de miembros inferiores.",
+            "C": "Trombosis pulmonar \"in situ\".",
+            "D": "Embolia séptica."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 56,
+            "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la B. La trombosis venosa profunda (TVP) en miembros inferiores es la causa más común de tromboembolismo pulmonar (TEP).  Un trombo que se forma en una vena profunda puede desprenderse y viajar a través del torrente sanguíneo hasta las arterias pulmonares, causando un TEP.",
+            "incorrectas": {
+                "A": "Las arritmias cardíacas pueden contribuir a la formación de trombos, pero no son la causa más frecuente de TEP.",
+                "C": "La trombosis pulmonar \"in situ\" es menos frecuente que la embolia pulmonar originada en una TVP.",
+                "D": "La embolia séptica es una complicación potencialmente grave, pero no la causa más frecuente de TEP."
+            }
+        }
+    },
+    {
+        "id_examen": 61,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuando se produce un disminución del nivel de glucosa en sangre, se ponen en funcionamiento de forma progresiva una serie de repuestas orgánicas que dan lugar al cuadro clínico, EXCEPTO:",
+        "opciones": {
+            "A": "La primera respuesta es la inhibición de la secreción de insulina endógena.",
+            "B": "La segunda respuesta es el aumento de la secreción de glucagón por células beta del íslote pancreático.",
+            "C": "Al mismo tiempo que se produce el aumento del glucagón, hay un aumento de la secreción de adrenalina.",
+            "D": "Cuando las cifras de glucemia descienden a valores por debajo de $50 \\mathrm{mg} / \\mathrm{dl}$ aparecen los síntomas neuroglucopénicos, pudiendo llegarse a síntomas como convulsiones, coma o la muerte."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 71,
+            "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia. Diabetes mellitus en situaciones especiales."
+        },
+        "explicacion": {
+            "correcta": "La opción B es incorrecta porque el glucagón es secretado por las células alfa del islote pancreático, no por las beta.  Las células beta secretan insulina. En una hipoglucemia, la disminución de la glucosa en sangre inhibe la secreción de insulina (A), estimula la secreción de glucagón por las células alfa (B -INCORRECTA-), aumenta la secreción de adrenalina (C) y, si la glucemia desciende por debajo de 50 mg/dl, aparecen síntomas neuroglucopénicos (D).",
+            "incorrectas": {
+                "A": "La inhibición de la secreción de insulina es una respuesta fisiológica adecuada ante la hipoglucemia para evitar una mayor disminución de los niveles de glucosa.",
+                "C": "El aumento de la secreción de adrenalina es una respuesta fundamental en la hipoglucemia, promoviendo la glucogenolisis y la gluconeogénesis.",
+                "D": "Los síntomas neuroglucopénicos son una consecuencia grave de la hipoglucemia, reflejando la dependencia del cerebro de la glucosa como fuente de energía."
+            }
+        }
+    },
+    {
+        "id_examen": 62,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de estos fármacos tiene descrita su administración subcutánea en la ficha técnica?",
+        "opciones": {
+            "A": "Metamizol.",
+            "B": "Diazepam.",
+            "C": "Clorpromacina.",
+            "D": "Hidrocloruro de oxicodona."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 44,
+            "tema": "Fármacos en urgencias vitales. Fluidoterapia en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El hidrocloruro de oxicodona tiene la administración subcutánea descrita en su ficha técnica. Es un opioide utilizado para el manejo del dolor intenso.",
+            "incorrectas": {
+                "A": "El metamizol se administra por vía oral, intravenosa, intramuscular y rectal, pero no subcutánea.",
+                "B": "El diazepam se administra por vía oral, intravenosa, intramuscular y rectal, pero no subcutánea.",
+                "C": "La clorpromacina se administra por vía oral, intramuscular e intravenosa, pero no subcutánea."
+            }
+        }
+    },
+    {
+        "id_examen": 63,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Respecto a la infección por tétanos, indique la FALSA:",
+        "opciones": {
+            "A": "Las lesiones que implican la presencia de un cuerpo extraño o de tejido muerto son más propensas a causar tétanos.",
+            "B": "Se puede producir tétanos durante un aborto inducido o un parto.",
+            "C": "El Closíridium tetani es una bacteria aerobia.",
+            "D": "La vacunación completa ofrece alta protección frente a la enfermedad."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 85,
+            "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el paciente procedente del trópico. Actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El Clostridium tetani es una bacteria anaerobia, es decir, que crece en ausencia de oxígeno. Esta característica es fundamental para entender su patogenia y el ambiente propicio para su desarrollo.",
+            "incorrectas": {
+                "A": "Las lesiones con cuerpos extraños o tejido muerto crean un ambiente anaerobio ideal para el crecimiento del Clostridium tetani.",
+                "B": "El ambiente anaerobio de los tejidos profundos durante el aborto o el parto favorece el desarrollo de tétanos.",
+                "D": "La vacunación completa con la toxina tetánica ofrece una protección efectiva, aunque no total, frente a la enfermedad."
+            }
+        }
+    },
+    {
+        "id_examen": 64,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señala la respuesta correcta acerca de procalcitonina (PCT) como biomarcador de infección e inflamación en urgencias.",
+        "opciones": {
+            "A": "En la Infección intraabdominal la Proteína C reactiva (PCR) presenta mayor poder diagnóstico de peritonitis bacteriana que PCT.",
+            "B": "El pico máximo de PCT en sangre es a las 48 horas y la vida media es de 96 horas.",
+            "C": "No ha demostrado utilidad en los pacientes con neumonía adquirida en la comunidad.",
+            "D": "Ha demostrado utilidad en las infecciones de Sistema Nervioso Central."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 82,
+            "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+        },
+        "explicacion": {
+            "correcta": "La procalcitonina (PCT) ha demostrado utilidad en el diagnóstico y seguimiento de infecciones del Sistema Nervioso Central (SNC). Su determinación ayuda a diferenciar entre infecciones bacterianas y procesos inflamatorios no infecciosos.",
+            "incorrectas": {
+                "A": "En la infección intraabdominal, la PCT tiene un mayor poder diagnóstico de peritonitis bacteriana que la PCR.",
+                "B": "El pico máximo de PCT se alcanza entre 6 y 24 horas y su vida media es de aproximadamente 24 horas.",
+                "C": "La PCT ha demostrado utilidad en el diagnóstico de neumonía adquirida en la comunidad, ayudando a discriminar entre neumonía bacteriana y otras causas de neumonía."
+            }
+        }
+    },
+    {
+        "id_examen": 65,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En la hepatitis aguda alcohólica (HA) señale lo FALSO:",
+        "opciones": {
+            "A": "En su tratamiento se incluye el soporte nutricional, el manejo de la abstinencia alcohólica y el tratamiento con corticoides.",
+            "B": "En los pacientes con alta sospecha de HA, se suele realizar biopsia hepática ya que permite confirmar el diagnóstico y proporciona información pronóstica.",
+            "C": "Los pacientes con HA grave tienen un $25 \\%$ de riesgo de infección, por lo que es recomendable descartarlas en su manejo.",
+            "D": "Sin tratamiento, la HA grave tiene una mortalidad del $35-50 \\%$ a los 28 días."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 62,
+            "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La biopsia hepática, aunque puede proporcionar información relevante en algunos casos, no es la prueba diagnóstica habitual en la hepatitis aguda alcohólica (HA) debido a su riesgo y a que el diagnóstico suele basarse en la clínica, las pruebas de laboratorio y la imagen.",
+            "incorrectas": {
+                "A": "El soporte nutricional, el manejo de la abstinencia y los corticoides son parte del tratamiento de la HA grave.",
+                "C": "El riesgo de infección es una complicación significativa en la HA grave y debe ser considerada en su manejo.",
+                "D": "La HA grave tiene una alta mortalidad si no se trata adecuadamente."
+            }
+        }
+    },
+    {
+        "id_examen": 66,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál NO es un item de la escala CURB-65 para valorar el riesgo de una Neumonía Adquirida en la Comunidad?",
+        "opciones": {
+            "A": "Frecuencia Cardíaca.",
+            "B": "Confusión.",
+            "C": "Presión arterial sistólica.",
+            "D": "Frecuencia Respiratoria."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 59,
+            "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+        },
+        "explicacion": {
+            "correcta": "La escala CURB-65 evalúa la gravedad de la neumonía adquirida en la comunidad para predecir el riesgo de mortalidad.  Sus componentes son: Confusión, Urea en sangre >7 mmol/L, Frecuencia respiratoria ≥30 respiraciones por minuto, Presión arterial sistólica <90 mmHg o diastólica <60 mmHg,  Edad ≥65 años. La frecuencia cardíaca no forma parte de esta escala.",
+            "incorrectas": {
+                "B": "La confusión es un criterio de la escala CURB-65, indicando alteración del estado mental.",
+                "C": "La presión arterial sistólica es un componente clave de la escala CURB-65, indicando posible shock.",
+                "D": "La frecuencia respiratoria es un parámetro fundamental en la escala CURB-65, reflejando la dificultad respiratoria."
+            }
+        }
+    },
+    {
+        "id_examen": 67,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA respecto a la aplicación de una presión positiva continua en la vía aérea (CPAP)?",
+        "opciones": {
+            "A": "No está indicada en la insuficiencia respiratoria hipercápnica.",
+            "B": "Favorece el reclutamiento alveolar aumentando así la capacidad residual funcional (CRF) del paciente.",
+            "C": "Al no asistir activamente el ciclo inspiratorio, la CPAP no disminuye el trabajo respiratorio.",
+            "D": "Disminuye el \"shunt\" intrapulmonar."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 105,
+            "tema": "Ventilación mecánica no invasiva en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La CPAP (Presión Positiva Continua en la Vía Aérea) no asiste activamente la inspiración,  solo mantiene una presión positiva en la vía aérea durante todo el ciclo respiratorio.  Esto ayuda a mantener abiertos los alvéolos, pero no disminuye el trabajo inspiratorio. La disminución del trabajo respiratorio es un efecto beneficioso de la ventilación mecánica invasiva, no de la CPAP.",
+            "incorrectas": {
+                "A": "La CPAP está contraindicada en la insuficiencia respiratoria hipercápnica grave debido a la posibilidad de empeorar la hipoxemia y la hipercapnia.  Se prefiere la ventilación mecánica invasiva.",
+                "B": "La CPAP favorece el reclutamiento alveolar, aumentando la capacidad residual funcional (CRF) y mejorando la oxigenación.",
+                "D": "La CPAP disminuye el shunt intrapulmonar al mejorar la distribución del gas en los pulmones."
+            }
+        }
+    },
+    {
+        "id_examen": 68,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En apendicitis aguda con absceso $>4 \\mathrm{~cm}$ y sin peritonitis, ¿cuál es el manejo inicial más adecuado?",
+        "opciones": {
+            "A": "Cirugía urgente.",
+            "B": "Antibioterapia y drenaje percutáneo.",
+            "C": "Alta con antibióticos orales.",
+            "D": "Observación sin tratamiento."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 64,
+            "tema": "Oclusión y suboclusión intestinal. Apendicitis aguda. Diagnóstico y manejo inicial."
+        },
+        "explicacion": {
+            "correcta": "En una apendicitis aguda con absceso mayor de 4 cm y sin peritonitis difusa, el tratamiento inicial se centra en el drenaje del absceso para evitar la cirugía urgente y la posible perforación. La antibioterapia intravenosa cubre la infección mientras el drenaje percutáneo elimina el pus. La cirugía se reserva para los casos de fracaso del drenaje o complicaciones.",
+            "incorrectas": {
+                "A": "La cirugía urgente está indicada en casos de peritonitis difusa o perforación, no en abscesos sin peritonitis.",
+                "C": "El alta con antibióticos orales no es adecuada en un absceso apendicular, requiriéndose drenaje.",
+                "D": "La observación sin tratamiento puede llevar a complicaciones graves como la perforación y la peritonitis."
+            }
+        }
+    },
+    {
+        "id_examen": 69,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes situaciones constituye una contraindicación absoluta para realizar una punción lumbar en urgencias?",
+        "opciones": {
+            "A": "Cefalea intensa.",
+            "B": "Sospecha de hipertensión intracraneal con signos de focalidad neurológica.",
+            "C": "Fiebre de origen desconocido.",
+            "D": "Sospecha de meningitis."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 104,
+            "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+        },
+        "explicacion": {
+            "correcta": "Una contraindicación absoluta para una punción lumbar es la sospecha de hipertensión intracraneal con signos de focalidad neurológica.  La punción lumbar en esta situación puede provocar herniación cerebral, una complicación potencialmente fatal.  Otras situaciones pueden ser relativas contraindicaciones dependiendo del balance riesgo-beneficio.",
+            "incorrectas": {
+                "A": "Una cefalea intensa puede ser una contraindicación relativa, pero no absoluta.",
+                "C": "La fiebre de origen desconocido no es una contraindicación absoluta para una punción lumbar si hay sospecha de meningitis.",
+                "D": "La sospecha de meningitis es una indicación para la punción lumbar."
+            }
+        }
+    },
+    {
+        "id_examen": 70,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Paciente con luxación abierta de la articulación interfalángica del pulgar tras mecanismo de hiperextensión. ¿Cuál es la conducta inicial más adecuada en úrgencias?",
+        "opciones": {
+            "A": "Inmovilización con férula y cita preferente en traumatología.",
+            "B": "Reducción con manipulación cerrada urgente tras irrigación.",
+            "C": "Cobertura antibiótica, limpieza quirúrgica y reducción en quirófano.",
+            "D": "Reducción manual sin necesidad de imagen previa si es clínicamente evidente."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 87,
+            "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Una luxación abierta de cualquier articulación es una emergencia quirúrgica que requiere una limpieza quirúrgica exhaustiva y reducción para prevenir la infección y la osteomielitis.  La cobertura antibiótica es esencial para combatir la infección potencial introducida a través de la herida abierta.",
+            "incorrectas": {
+                "A": "Una férula inmoviliza, pero no trata la luxación abierta ni previene la infección.",
+                "B": "La reducción con manipulación cerrada es inapropiada en una luxación abierta debido al riesgo de infección.",
+                "D": "La reducción manual sin imagen previa en una luxación abierta es inadecuada y arriesgada."
+            }
+        }
+    },
+    {
+        "id_examen": 71,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En la exploración de un paciente que presenta odinofagia, disfagia y dificultad para el habla, la aparición de abombamiento unilateral de una amígdala y el paladar blando del mismo lado con desplazamiento de la úvula, sugieren:",
+        "opciones": {
+            "A": "Angina de Vincent.",
+            "B": "Absceso periamigdalino.",
+            "C": "Mononucleosis infecciosa.",
+            "D": "Faringitis vírica."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 90,
+            "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervico faciales. Síndrome vertiginoso. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La tríada clínica de odinofagia (dolor al tragar), disfagia (dificultad para tragar) y dificultad para hablar, junto con el abombamiento unilateral de la amígdala y el paladar blando, con desplazamiento de la úvula hacia el lado contralateral, es altamente sugestiva de un absceso periamigdalino. La infección se localiza en el espacio periamigdalino, causando la deformidad observada en la exploración.",
+            "incorrectas": {
+                "A": "La angina de Vincent (gingivitis ulceronecrotizante) se caracteriza por ulceraciones dolorosas en las encías y la garganta, pero no suele causar el abombamiento unilateral descrito.",
+                "C": "La mononucleosis infecciosa puede causar faringitis, pero no suele presentar el cuadro clínico tan localizado y con la deformidad descrita.",
+                "D": "La faringitis vírica es una inflamación de la faringe, generalmente menos grave y sin el abombamiento unilateral característico del absceso periamigdalino."
+            }
+        }
+    },
+    {
+        "id_examen": 72,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Un varón de 24 años, sin antecedentes patológicos, consulta por dolor torácico súbito, sin disnea. Se diagnostica un neumotórax espontáneo primario pequeño ( $<2 \\mathrm{~cm}$ desde el borde del pulmón al borde de la caja torácica en la radiografía) ¿Qué conducta sería adecuada?",
+        "opciones": {
+            "A": "Ingreso en planta de hospitalización para drenaje torácico con tubo.",
+            "B": "Aspiración con aguja.",
+            "C": "Observación y oxigenoterapia con control clínico y radiológico tras 6 horas.",
+            "D": "Pleurodesis inmediata."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 58,
+            "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "Un neumotórax espontáneo primario pequeño asintomático o con síntomas leves, como en este caso, puede manejarse con observación clínica y radiológica. La resolución espontánea es frecuente. El drenaje torácico, la aspiración con aguja y la pleurodesis son procedimientos invasivos y solo están indicados en neumotórax de mayor tamaño o con compromiso respiratorio significativo.",
+            "incorrectas": {
+                "A": "El drenaje torácico está indicado para neumotórax a tensión o grandes neumotórax que comprometen la función respiratoria.",
+                "B": "La aspiración con aguja es una opción en algunos casos, pero no es la primera línea de tratamiento para un neumotórax pequeño asintomático.",
+                "D": "La pleurodesis es un procedimiento que se realiza para prevenir la recurrencia del neumotórax, pero no es necesaria en este caso."
+            }
+        }
+    },
+    {
+        "id_examen": 73,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Qué alteración del equilibrio acido base presenta un paciente con pH inferior a 7,35 y un bicarbonato sérico (HCO3-) superior a $27 \\mathrm{mEq} / \\mathrm{L}$ con una presión parcial de dióxido de carbono ( pCO 2 ) superior a 45 mmHg .",
+        "opciones": {
+            "A": "Acidosis metabólica.",
+            "B": "Alcalosis metabólica.",
+            "C": "Acidosis respiratoria.",
+            "D": "Alcalosis respiratoria."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 70,
+            "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "Un pH < 7.35 indica acidosis, y un bicarbonato > 27 mEq/L indica un componente metabólico. Dado que la pCO2 es también alta (> 45 mmHg), indica una retención de CO2, lo que es característico de una acidosis respiratoria.  La combinación de pH bajo con bicarbonato alto y pCO2 alta define este trastorno.",
+            "incorrectas": {
+                "A": "La acidosis metabólica se caracteriza por un pH bajo y un bicarbonato bajo.",
+                "B": "La alcalosis metabólica se caracteriza por un pH alto y un bicarbonato alto.",
+                "D": "La alcalosis respiratoria se caracteriza por un pH alto y una pCO2 baja."
+            }
+        }
+    },
+    {
+        "id_examen": 74,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señala la respuesta FALSA acerca de las siguientes variables relacionadas con el suicidio y consumo de alcohol en nuestro medio según la estrategia de prevención del suicidio del Gobierno de Aragón:",
+        "opciones": {
+            "A": "Los acontecimientos vitales, episodios depresivos mayores, especialmente los interpersonales son un factor precipitante de suicidio.",
+            "B": "El afecto negativo y desesperanza es un factor que predispone a suicidio.",
+            "C": "La variable depresión está relacionada por encima del abuso de alcohol con un mayor riesgo de suicidio.",
+            "D": "En las personas con un trastorno por consumo de alcohol los pensamientos gravemente negativos son 4 veces más frecuentes que en población general y casi 10 veces superiores las posibilidades de muerte por suicidio."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 93,
+            "tema": "Depresión e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La afirmación incorrecta es que la depresión está relacionada por encima del abuso de alcohol con un mayor riesgo de suicidio. Si bien ambos son factores de riesgo importantes,  estudios epidemiológicos muestran que el abuso de alcohol se asocia con un riesgo significativamente mayor de suicidio que la depresión por sí sola, aunque ambos factores con frecuencia co-existen y se potencian.",
+            "incorrectas": {
+                "A": "Los acontecimientos vitales estresantes, especialmente los interpersonales, son factores precipitantes reconocidos del suicidio.",
+                "B": "El afecto negativo (tristeza, desesperanza, etc.) es un factor reconocido que predispone al suicidio.",
+                "D": "El consumo de alcohol aumenta significativamente el riesgo de suicidio, incluyendo pensamientos suicidas y comportamiento suicida.  La afirmación refleja correctamente esta elevada correlación."
+            }
+        }
+    },
+    {
+        "id_examen": 75,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el contexto de una lesión por rayo ¿cuál de las siguientes afirmaciones es correcta respecto al tratamiento inicial en Urgencias?",
+        "opciones": {
+            "A": "La reanimación cardiopulmonar solo está indicada si hay evidencia de quemaduras extensas.",
+            "B": "Aunque puede aparecer fibrilación ventricular, la asistolia es la arritmia más frecuente en la fase aguda.",
+            "C": "Se debe administrar bicarbonato sódico profilácticamente en todos los casos para prevenir acidosis metabólica.",
+            "D": "El síndrome de lesión eléctrica tardía no ocurre en este tipo de lesiones, por lo que no es necesaria la monitorización prolongada."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 98,
+            "tema": "Lesiones por agentes físicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."
+        },
+        "explicacion": {
+            "correcta": "La asistolia y la fibrilación ventricular son arritmias cardiacas que pueden ocurrir tras una lesión por rayo, siendo la asistolia una de las arritmias más frecuentes en la fase aguda, aunque la fibrilación ventricular también es posible. La causa es el daño directo al sistema de conducción cardiaco.",
+            "incorrectas": {
+                "A": "La RCP se indica en cualquier parada cardiorrespiratoria, independientemente de la extensión de las quemaduras.",
+                "C": "El bicarbonato sódico no se administra profilácticamente. Su uso se reserva para casos específicos de acidosis metabólica refractaria al tratamiento.",
+                "D": "El síndrome de lesión eléctrica tardía puede ocurrir, afectando a diferentes órganos y sistemas, y requiere monitorización a largo plazo."
+            }
+        }
+    },
+    {
+        "id_examen": 76,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cual sería el tratamiento, según PROA, más adecuado para un paciente con prostatitis aguda, sin signos de gravedad, sin sospecha de BLEE y sin alergias conocidas.",
+        "opciones": {
+            "A": "**FOSFOMICINA**: 2 dosis de 3 gramos, separadas 48-72 horas.",
+            "B": "**CIPROFLOXACINO**: 500 mg cada 12 horas durante 7-10 días.",
+            "C": "**CEFUROXIMA**: 500 mg cada 12 horas durante 14-28 días.",
+            "D": "**AMOXICILINA**: 1000 mg cada 8 horas durante 10-20 días."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 77,
+            "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La cefuroxima es la opción más adecuada según las guías PROA (Protocolo de actuación en prostatitis aguda) para prostatitis aguda sin signos de gravedad, sin sospecha de bacteriemia y sin alergias conocidas.  Se recomienda un tratamiento con cefuroxima por vía oral durante 14-28 días, debido a su buen perfil de seguridad y eficacia contra los patógenos comunes en la prostatitis aguda.",
+            "incorrectas": {
+                "A": "La fosfomicina es un tratamiento eficaz para infecciones del tracto urinario inferior, pero su uso en prostatitis aguda no está tan respaldado por las guías PROA, y la pauta posológica es incorrecta.",
+                "B": "La ciprofloxacina era una opción frecuente, pero la resistencia bacteriana ha limitado su uso. Además, la duración del tratamiento propuesta es demasiado corta.",
+                "D": "La amoxicilina tiene un espectro de acción más limitado que la cefuroxima y es menos eficaz contra los patógenos que causan prostatitis aguda.  La duración del tratamiento propuesta es demasiado larga."
+            }
+        }
+    },
+    {
+        "id_examen": 77,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente con dolor abdominal en hipocondrio derecho ¿qué etiología de las siguientes es más posible?",
+        "opciones": {
+            "A": "**Retención aguda de orina**.",
+            "B": "**Diverticulitis aguda**.",
+            "C": "**Neumonía basal derecha**.",
+            "D": "**Hernia inguinal**."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 60,
+            "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+        },
+        "explicacion": {
+            "correcta": "La neumonía basal derecha puede causar dolor en el hipocondrio derecho debido a la irritación del diafragma o de la pleura.  La localización del dolor puede ser atípica en las neumonías.",
+            "incorrectas": {
+                "A": "La retención aguda de orina causaría dolor suprapúbico, no en el hipocondrio derecho.",
+                "B": "La diverticulitis aguda suele causar dolor en el cuadrante inferior izquierdo, aunque puede variar.",
+                "D": "Una hernia inguinal causaría dolor en la ingle y no necesariamente en el hipocondrio derecho."
+            }
+        }
+    },
+    {
+        "id_examen": 78,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En la atención de un paciente que presenta Agitación Psicomotriz es FALSA una de las siguientes respuestas:",
+        "opciones": {
+            "A": "**El paciente agitado es un problema clínico, por lo que los profesionales sanitarios deben tomar la iniciativa una vez conseguida la reducción del paciente.**",
+            "B": "**Es necesario realizar una exploración física y neurológica.**",
+            "C": "**Ante una conducta violenta del paciente, la única opción que tenemos es la administración de fármacos.**",
+            "D": "**Es recomendable la realización de analítica y estudio de electrolitos.**"
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 92,
+            "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La administración de fármacos no es la única opción para el manejo de un paciente con conducta violenta.  Se deben priorizar medidas de contención y desescalada verbal antes de la medicación. Es fundamental la seguridad del paciente y del personal.",
+            "incorrectas": {
+                "A": "Reducir la agitación del paciente es crucial para poder realizar una adecuada valoración clínica y tomar decisiones terapéuticas.",
+                "B": "Una exploración física y neurológica completa es fundamental para descartar causas orgánicas de la agitación.",
+                "D": "La analítica y el estudio de electrolitos pueden ayudar a identificar causas metabólicas o tóxicas de la agitación."
+            }
+        }
+    },
+    {
+        "id_examen": 79,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Para visualizar el espacio de Koller en la aproximación ecográfica al paciente con trauma toracoabdominal cerrado del protocolo EFAST (Extended Focused Assessment with Sonography in Trauma) colocaremos la sonda:",
+        "opciones": {
+            "A": "**En línea axilar media a nivel de 7°-8° espacio intercostal derecho.**",
+            "B": "**En espacio intercostal derecho 7°-8° en línea axilar anterior.**",
+            "C": "**En línea medio axilar izquierdo a nivel de 8°-9° espacio intercostal.**",
+            "D": "**En zona suprapúbica anterior.**"
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 106,
+            "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+        },
+        "explicacion": {
+            "correcta": "Para visualizar el espacio de Koller (receso hepatorrenal), que es parte del protocolo EFAST para detectar derrame pericárdico, se utiliza una ventana acústica en la línea medioaxilar izquierda a nivel del 8°-9° espacio intercostal.  Esta posición permite una mejor visualización del espacio entre el hígado y el riñón.",
+            "incorrectas": {
+                "A": "Esta posición es incorrecta, ya que se enfoca en el hemitórax derecho, no en el izquierdo.",
+                "B": "Esta posición es incorrecta,  similarmente al inciso A.",
+                "D": "La zona suprapúbica se usa para evaluar la pelvis, no el espacio de Koller."
+            }
+        }
+    },
+    {
+        "id_examen": 80,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente con insuficiencia renal aguda, sedimento urinario sin cilindros granulosos ni hematuria, fracción excretada del Na del 0,3%, osmolaridad urinaria de 650 mOsm/kg y BUN/Cr >20:1 ¿cuál es la causa más probable?",
+        "opciones": {
+            "A": "**Necrosis tubular aguda**.",
+            "B": "**Glomerulonefritis aguda**.",
+            "C": "**Obstrucción bilateral de uréteres**.",
+            "D": "**Hipovolemia con hipoperfusión renal**."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 75,
+            "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La combinación de sedimento urinario sin hallazgos significativos, fracción excretada de sodio baja (0,3%), osmolaridad urinaria elevada (650 mOsm/kg) y BUN/Cr > 20:1 es indicativa de hipovolemia con hipoperfusión renal. La baja fracción de sodio indica que el riñón está intentando conservar sodio, consistente con hipovolemia.  La alta osmolaridad indica que el riñón está concentrando la orina, también señal de hipovolemia. El BUN/Cr elevado sugiere pre-renal.",
+            "incorrectas": {
+                "A": "La necrosis tubular aguda presentaría cilindros granulosos en el sedimento urinario.",
+                "B": "La glomerulonefritis aguda suele presentar hematuria y cilindros eritrocíticos.",
+                "C": "La obstrucción bilateral de uréteres causaría una elevación de la creatinina, pero no necesariamente una osmolaridad urinaria elevada y una fracción de sodio tan baja."
+            }
+        }
+    },
+    {
+        "id_examen": 81,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Respecto a la terapia de mantenimiento habitual del paciente con EPOC (por ejemplo, con broncodilatadores de acción prolongada) durante una reagudización que requiere hospitalización, la guía GOLD ha mantenido en los últimos años la recomendación de:",
+        "opciones": {
+            "A": "**Suspender inmediatamente toda la medicación inhalada de mantenimiento.**",
+            "B": "**Aunque pueda realizar nebulizaciones con inhaladores manuales, recomienda sustituir la medicación inhalada de mantenimiento por nebulizaciones con mascarilla tipo venturi pautadas cada 6-8 horas.**",
+            "C": "**Añadir siempre un corticosteroide inhalado a dosis altas al tratamiento de mantenimiento durante la exacerbación.**",
+            "D": "**Continuar el tratamiento de mantenimiento con broncodilatadores de acción prolongada tan pronto como sea posible.**"
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 54,
+            "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias"
+        },
+        "explicacion": {
+            "correcta": "La guía GOLD recomienda continuar con el tratamiento de mantenimiento con broncodilatadores de acción prolongada en una reagudización de EPOC que requiere hospitalización.  La interrupción brusca puede empeorar el control de la enfermedad.  Ajustar la medicación inhalada de mantenimiento  es una parte crucial del manejo de la reagudización, pero no implica la suspensión completa. La adición de un corticosteroide inhalado a dosis altas suele ser necesaria, pero no siempre, y dependerá de la gravedad de la exacerbación.",
+            "incorrectas": {
+                "A": "Suspender la medicación de mantenimiento empeora el control de la enfermedad y contraviene las recomendaciones actuales.",
+                "B": "Si bien las nebulizaciones pueden ser útiles como terapia complementaria en una exacerbación, no sustituyen la medicación inhalada de mantenimiento. El uso de nebulizaciones con mascarilla tipo venturi está más indicado en casos de dificultad respiratoria severa.",
+                "C": "La adición de corticosteroides inhalados a dosis altas depende de la gravedad de la exacerbación, no es una recomendación universal para todos los casos."
+            }
+        }
+    },
+    {
+        "id_examen": 82,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Paciente mujer de 54 años sometida hace 5 días a CPRE que acude a Urgencias por dolor abdominal Irradiado en cinturón, náuseas y vómitos. Sus constantes son: TA $90 / 51 \\mathrm{mmHg}, \\mathrm{FC} 118 \\mathrm{lpm}, \\mathrm{T}^{\\#} 38,8^{\\circ} \\mathrm{C}$ y taquipnea a 22 rpm . ¿Cuál de los siguientes criterios NO consideraría necesario para establecer el índice de gravedad de la paciente según la escala BISAP?",
+        "opciones": {
+            "A": "Valorar nivel de conciencia.",
+            "B": "Temperatura superior a $38^{\\circ} \\mathrm{C}$.",
+            "C": "Presencia de derrame pleural en la radiografia de tórax.",
+            "D": "Edad superior a 50 años."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 63,
+            "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La edad superior a 50 años no es un criterio para la escala BISAP (Bilirrubina, Inestabilidad hemodinámica, Shock, Edad, Neutropenia,  Prueba de función renal). Los otros parámetros (nivel de conciencia, temperatura elevada, presencia de derrame pleural) sí se consideran en la puntuación BISAP para evaluar la gravedad de la pancreatitis aguda.",
+            "incorrectas": {
+                "A": "El nivel de conciencia es un factor clave en la evaluación de la gravedad de la pancreatitis aguda.",
+                "B": "La fiebre es un indicador significativo de la gravedad de la pancreatitis aguda.",
+                "C": "El derrame pleural indica una mayor gravedad de la pancreatitis y una mayor probabilidad de complicaciones."
+            }
+        }
+    },
+    {
+        "id_examen": 83,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Indique la afirmación FALSA en relación con la intoxicación por PARACETAMOL.",
+        "opciones": {
+            "A": "Si aparece daño hepático debe suspenderse inmediatamente N-Acetilcisteina.",
+            "B": "La dosis tóxica se ha establecido en $100-125 \\mathrm{mg} / \\mathrm{Kg}$ en adultos y $150 \\mathrm{mg} / \\mathrm{Kg}$ en niños.",
+            "C": "El antídoto específico es N-Acetilcisteina.",
+            "D": "Cuando se administre N-Acetilcisteina, también debe administrarse una dosis de 10 mg de vitamina K ."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 101,
+            "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras. Tratamiento específico."
+        },
+        "explicacion": {
+            "correcta": "En caso de daño hepático por paracetamol, la N-acetilcisteína (NAC) no debe suspenderse.  De hecho, su administración precoz es crucial para minimizar el daño hepático. La NAC es el antídoto específico para la intoxicación por paracetamol, y su administración temprana es fundamental para reducir la mortalidad.",
+            "incorrectas": {
+                "B": "La dosis tóxica de paracetamol puede variar según factores individuales, pero las cifras proporcionadas son aproximaciones. La evaluación de la toxicidad se realiza mediante nomogramas que tienen en cuenta diversos parámetros.",
+                "C": "La N-acetilcisteína (NAC) es el antídoto específico para la intoxicación por paracetamol.",
+                "D": "La administración de vitamina K no está indicada de forma rutinaria en la intoxicación por paracetamol."
+            }
+        }
+    },
+    {
+        "id_examen": 84,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señale la respuesta correcta acerca del tratamiento inicial del paciente en shock.",
+        "opciones": {
+            "A": "Canalizar vía venosa central mejor que dos vías periféricas de grueso calibre.",
+            "B": "En la administración de grandes cantidades de fluidoterapia es recomendable hacerlo con fluidos balanceados.",
+            "C": "Iniciar siempre fluidoterapia con coloides.",
+            "D": "Administrar dos concentrados de hematíes sistemáticamente en todo paciente en shock."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 50,
+            "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En el manejo del shock, la fluidoterapia con fluidos balanceados es preferible a soluciones cristaloides simples, especialmente cuando se requieren grandes volúmenes, por su mejor perfil de seguridad. Los coloides son una opción, pero su uso no siempre está indicado como primera línea en todas las situaciones de shock.",
+            "incorrectas": {
+                "A": "Dos vías periféricas de grueso calibre son generalmente suficientes para la administración inicial de fluidos, salvo en situaciones excepcionales.",
+                "C": "La fluidoterapia con coloides no es la opción inicial en todos los casos de shock. Se suele comenzar con cristaloides.",
+                "D": "La transfusión de concentrados de hematíes depende de la causa del shock y de los niveles de hemoglobina, no se administran sistemáticamente."
+            }
+        }
+    },
+    {
+        "id_examen": 85,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente con fiebre neutropénica, y sospecha de neumonía por Pneumocystis jirovecii, son ciertas todas las opciones, EXCEPTO:",
+        "opciones": {
+            "A": "Pueden presentar insuficiencia respiratoria progresiva e infiltrado intersticial bilateral.",
+            "B": "Los pacientes con VIH/ SIDA, que han presentado neumonía por Pneumocystis jirovecii, se recomienda iniciar la terapia antirretroviral al menos 1 mes después de la terapia antibiótica.",
+            "C": "Linfopenia.",
+            "D": "Iniciariamos tratamiento con sulfametoxazol/trimpetoprim 20/100 mg/kg/24h durante 2-3 semanas."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 84,
+            "tema": "Valoración y actitud en la unidad de urgencias ante las infecciones en el paciente con síndrome de inmunodeficiencia adquirida."
+        },
+        "explicacion": {
+            "correcta": "El tratamiento antirretroviral en pacientes con VIH/SIDA que han presentado neumonía por Pneumocystis jirovecii se recomienda iniciar simultáneamente o poco tiempo después (no un mes después) del inicio del tratamiento antibiótico para Pneumocystis jirovecii, no un mes después.",
+            "incorrectas": {
+                "A": "La insuficiencia respiratoria progresiva e infiltrado intersticial bilateral son manifestaciones clínicas comunes de la neumonía por Pneumocystis jirovecii.",
+                "C": "La linfopenia es un hallazgo común en pacientes con VIH/SIDA y puede ser un factor de riesgo para la neumonía por Pneumocystis jirovecii.",
+                "D": "El sulfametoxazol/trimetoprim es el tratamiento de elección para la neumonía por Pneumocystis jirovecii."
+            }
+        }
+    },
+    {
+        "id_examen": 86,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál es la respuesta FALSA sobre el biomarcador Lactato?",
+        "opciones": {
+            "A": "Es indicativo de hipoperfusión tisular e hipoxia.",
+            "B": "Se obtiene siempre de una muestra arterial.",
+            "C": "Se realiza a la llegada del paciente a urgencias con sospecha de Bacteriemia.",
+            "D": "Es útil para la evaluación de la respuesta al tratamiento antibiótico."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 82,
+            "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+        },
+        "explicacion": {
+            "correcta": "La opción B es falsa. El lactato se puede obtener de una muestra capilar, venosa o arterial. Si bien la arterial es la más precisa, en la práctica clínica diaria la venosa es suficiente para la evaluación de la perfusión tisular y la respuesta al tratamiento.  Una muestra capilar es aceptable en situaciones donde la obtención de sangre venosa o arterial sea dificultosa.",
+            "incorrectas": {
+                "A": "El lactato es un indicador sensible de hipoperfusión tisular e hipoxia. Su elevación refleja la acumulación de piruvato en condiciones de anaerobiosis.",
+                "C": "El lactato es un marcador inflamatorio y se eleva en la bacteriemia, por lo que su determinación es útil en la valoración inicial de pacientes con sospecha de sepsis.",
+                "D": "El monitoreo del lactato es útil para evaluar la respuesta al tratamiento antibiótico en pacientes con sepsis, ya que su descenso indica una mejora en la perfusión tisular."
+            }
+        }
+    },
+    {
+        "id_examen": 87,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente anciano que llega a Urgencias en coma, del que se desconocen los antecedentes médicos pero se sabe que está polimedicado y que no ha sufrido un TCE ¿cuál de estas actuaciones NO debería ser la primera?",
+        "opciones": {
+            "A": "Determinación de la glucemia capilar.",
+            "B": "Realización de TAC cerebral.",
+            "C": "Administración de NALOXONA.",
+            "D": "Administración de FLUMAZENILO."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 66,
+            "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapéutica urgente"
+        },
+        "explicacion": {
+            "correcta": "En un paciente anciano en coma con polimedicación y sin TCE, la prioridad es estabilizar las funciones vitales y descartar causas reversibles de coma rápidamente.  Una TAC cerebral, aunque importante para descartar lesiones estructurales, no es la primera actuación, ya que otras causas de coma son más urgentes de tratar y diagnosticar primero.",
+            "incorrectas": {
+                "A": "La hipoglucemia es una causa reversible y potencialmente letal de coma, por lo que la determinación de la glucemia capilar es una acción prioritaria.",
+                "C": "La naloxona es un antagonista de los opiáceos, por lo que su administración es esencial si se sospecha una intoxicación por opiáceos como causa del coma.",
+                "D": "El flumazenilo es un antagonista de las benzodiazepinas, por lo que su administración es esencial si se sospecha una intoxicación por benzodiazepinas como causa del coma."
+            }
+        }
+    },
+    {
+        "id_examen": 88,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿En qué casos NO está indicado el tratamiento empírico con antibioterapia en un cuadro de diarrea?",
+        "opciones": {
+            "A": "Diarrea del viajero de 24 horas de evolución.",
+            "B": "Diarrea moderada en paciente inmunocomprometido.",
+            "G": "Diarrea moderada-grave en paciente de 80 años:",
+            "D": "Diarrea inflamatoria en paciente portador de una prótesis valvular cardiaca."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 65,
+            "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "La diarrea del viajero, generalmente causada por infecciones autolimitadas, suele resolverse espontáneamente en pocos días. El tratamiento antibiótico empírico no está indicado en estos casos, a menos que haya complicaciones o signos de gravedad.",
+            "incorrectas": {
+                "B": "Los pacientes inmunocomprometidos son más susceptibles a complicaciones graves de la diarrea, por lo que el tratamiento antibiótico empírico puede estar indicado en caso de diarrea moderada o grave.",
+                "G": "Los pacientes ancianos son también más susceptibles a complicaciones graves de la diarrea, por lo que el tratamiento antibiótico empírico puede estar indicado en caso de diarrea moderada o grave.",
+                "D": "Los pacientes con prótesis valvulares cardíacas tienen mayor riesgo de endocarditis infecciosa, por lo que el tratamiento antibiótico empírico está indicado en caso de diarrea inflamatoria, que podría indicar una infección bacteriana más grave."
+            }
+        }
+    },
+    {
+        "id_examen": 89,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En el manejo de una hepatitis aguda señale lo CORRECTO:",
+        "opciones": {
+            "A": "Con la ecografía abdominal en modalidad eco-doppler, podemos identificar el síndrome de BuddChiari.",
+            "B": "La albúmina sérica tiene vida media de 24 horas y aporta información temprana sobre la mejoría del paciente con el tratamiento.",
+            "C": "El tiempo de protrombina es un parámetro poco sensible, ya que se altera en estadios avanzados de la enfermedad hepática grave.",
+            "D": "La elevación de bilirrubina no conjugada es sugerente de colestasis."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 62,
+            "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La ecografía Doppler permite visualizar el flujo sanguíneo hepático y detectar posibles obstrucciones en las venas hepáticas, lo que es característico del síndrome de Budd-Chiari.",
+            "incorrectas": {
+                "B": "La albúmina sérica tiene una vida media mucho más larga que 24 horas y refleja el estado nutricional y la función hepática a largo plazo, no siendo un indicador temprano de la respuesta al tratamiento.",
+                "C": "El tiempo de protrombina es un parámetro sensible a la alteración de la función hepática y se altera en estadios relativamente precoces de la enfermedad hepática grave.",
+                "D": "La elevación de bilirrubina no conjugada (indirecta) es sugerente de un aumento en la producción de bilirrubina o una disminución en su metabolismo, no de colestasis, que se asocia con una elevación de la bilirrubina conjugada (directa)."
+            }
+        }
+    },
+    {
+        "id_examen": 90,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Qué hallazgo radiológico es diagnóstico de neumotórax en la radiografía de tórax?",
+        "opciones": {
+            "A": "Línea pleural visible con ausencia de vasos pulmonares periféricos.",
+            "B": "Opacidad homogénea en base pulmonar.",
+            "C": "Derrame pleural bilateral.",
+            "D": "Aumento de la trama broncovascular."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 58,
+            "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "La línea pleural visible, sin vasos pulmonares periféricos, en la radiografía de tórax es el hallazgo característico de un neumotórax. La ausencia de vasos indica la separación del pulmón de la pared torácica por aire.",
+            "incorrectas": {
+                "B": "Una opacidad homogénea en la base pulmonar sugiere un derrame pleural.",
+                "C": "Un derrame pleural bilateral es un hallazgo radiológico que no es característico de neumotórax.",
+                "D": "Un aumento de la trama broncovascular sugiere una patología pulmonar intersticial o congestión pulmonar."
+            }
+        }
+    },
+    {
+        "id_examen": 91,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Paciente con luxación anterior de hombro ¿Cuál es la técnica de reducción más recomendada en urgencias para facilitar la relajación muscular y evitar lesiones neurovasculares?",
+        "opciones": {
+            "A": "Tracción rápida y rotación interna forzada del brazo con abducción completa.",
+            "B": "Elevación del brazo sobre la cabeza con presión directa sobre la cabeza humeral.",
+            "C": "Flexión del codo y rotación externa forzada con tracción y aducción rápida.",
+            "D": "Tracción suave y sostenida del brazo en posición neutra con ligera abducción."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 87,
+            "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La técnica de reducción de la luxación anterior de hombro más recomendada en urgencias es la tracción suave y sostenida del brazo en posición neutra con ligera abducción.  Esta técnica facilita la relajación muscular, minimizando el riesgo de lesiones neurovasculares.  Se basa en la aplicación de fuerzas controladas y progresivas, a diferencia de las maniobras rápidas y forzadas de las otras opciones que pueden causar daño adicional.",
+            "incorrectas": {
+                "A": "La tracción rápida y rotación interna forzada del brazo con abducción completa es una técnica agresiva que puede provocar lesiones del manguito rotador, nervios y vasos sanguíneos.",
+                "B": "La elevación del brazo sobre la cabeza con presión directa sobre la cabeza humeral no es una técnica estandarizada para la reducción de luxaciones de hombro y puede ser ineficaz e incluso perjudicial.",
+                "C": "La flexión del codo y rotación externa forzada con tracción y aducción rápida es una técnica violenta que puede resultar en lesiones neurovasculares y daño articular."
+            }
+        }
+    },
+    {
+        "id_examen": 92,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente politraumatizado con sospecha de hipertensión intracraneal y necesidad urgente de sedación para IOT, ¿qué combinación farmacológica es la más apropiada?",
+        "opciones": {
+            "A": "Propofol + rocuronio.",
+            "B": "Midazolam + suxametonio.",
+            "C": "Ketamina + fentanilo.",
+            "D": "Etomidato + rocuronio."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "En un paciente politraumatizado con sospecha de hipertensión intracraneal que requiere sedación urgente para IOT, la combinación más apropiada es etomidato + rocuronio. El etomidato es un inductor de corta duración con mínimos efectos sobre la presión intracraneal y la función cardiovascular, mientras que el rocuronio es un bloqueante neuromuscular no despolarizante de acción intermedia.",
+            "incorrectas": {
+                "A": "El propofol puede disminuir la presión arterial y afectar la presión intracraneal.",
+                "B": "El midazolam puede causar depresión respiratoria y el suxametonio puede aumentar la presión intracraneal.",
+                "C": "La ketamina puede aumentar la presión intracraneal y la frecuencia cardiaca."
+            }
+        }
+    },
+    {
+        "id_examen": 93,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En cuanto a la Neumonía Adquirida en la Comunidad, señala la respuesta correcta:",
+        "opciones": {
+            "A": "El diagnóstico microbiológico de la Neumonía Adquirida en la Comunidad se consigue establecer en el $85 \\%$ de los casos.",
+            "B": "El gérmen más frecuente en la neumonía con síntomas típicos es el Staphilococo Aureus.",
+            "C": "El patógeno específico más frecuente de la Neumonía relacionada con el contacto con pájaros y aves es la Coxiella burnetti.",
+            "D": "Uno de los agentes más comunes en la Neumonía Adquirida en la Comunidad que afecta a los pacientes alcohólicos es el Streptococo Pneumoniae."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 59,
+            "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+        },
+        "explicacion": {
+            "correcta": "El Streptococcus pneumoniae es uno de los agentes más comunes en la Neumonía Adquirida en la Comunidad (NAC), especialmente en pacientes con factores de riesgo como el alcoholismo.  Su prevalencia varía según la población y el contexto geográfico.",
+            "incorrectas": {
+                "A": "El diagnóstico microbiológico de la NAC se establece con éxito en una proporción menor al 85% de los casos, debido a dificultades en la obtención de muestras adecuadas y la falta de sensibilidad de las pruebas.",
+                "B": "El Staphylococcus aureus es más común en neumonías nosocomiales o asociadas a la asistencia sanitaria, y en pacientes inmunodeprimidos.",
+                "C": "La Coxiella burnetii es la causa de la Fiebre Q, una enfermedad infecciosa que puede causar neumonía, pero no es el patógeno específico más frecuente en relación con el contacto con aves."
+            }
+        }
+    },
+    {
+        "id_examen": 94,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "El tratamiento médico del síncope cardiogénico originado por la miocardiopatía hipertrófica obstructiva sintomática, sobre todo en pacientes con presiones pulmonares elevadas, se basa en la administración de:",
+        "opciones": {
+            "A": "Antagonistas del calcio como diltiazem, en dosis inicial de $60 \\mathrm{mg} / 24 \\mathrm{~h}$ por vía oral.",
+            "B": "Digoxina, en dosis de media ampolla $0,5 \\mathrm{mg} / 2 \\mathrm{ml}$ iv a pasar en 15 a 20 minutos.",
+            "C": "Bloqueadores beta como atenolol en dosis inicial de $50 \\mathrm{mg} / 24 \\mathrm{~h}$ por vía oral.",
+            "D": "Antagonistas del calcio como diltiazem, primera dosis en bolo iv directa, 3 ml para un paciente de 70 kg de peso."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 51,
+            "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El tratamiento médico del síncope cardiogénico en la miocardiopatía hipertrófica obstructiva sintomática, especialmente con presiones pulmonares elevadas, se basa en bloqueadores beta como el atenolol. Estos fármacos reducen la frecuencia cardíaca, la contractilidad miocárdica y la presión arterial, mejorando el flujo sanguíneo y disminuyendo la obstrucción del tracto de salida del ventrículo izquierdo.",
+            "incorrectas": {
+                "A": "Los antagonistas del calcio como el diltiazem pueden empeorar la obstrucción en la miocardiopatía hipertrófica obstructiva.",
+                "B": "La digoxina no es el fármaco de primera elección en esta situación y puede ser incluso perjudicial.",
+                "D": "La administración de antagonistas del calcio en bolo intravenoso es peligrosa en este contexto, por el riesgo de hipotensión severa."
+            }
+        }
+    },
+    {
+        "id_examen": 95,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Una de las siguientes pruebas, NO sería necesario pedirla de forma inmediata en todos los casos de pielonefritis:",
+        "opciones": {
+            "A": "Hemograma.",
+            "B": "Bioquímica.",
+            "C": "Sedimento de orina.",
+            "D": "Ecografía de vías urinarias."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 77,
+            "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Si bien todas las pruebas mencionadas son importantes en la evaluación de una pielonefritis, la ecografía de vías urinarias no es siempre necesaria de forma inmediata.  En muchos casos, el diagnóstico clínico y los hallazgos en el hemograma, bioquímica y sedimento de orina son suficientes para iniciar el tratamiento empírico. La ecografía se reserva para casos con sospecha de complicaciones o ausencia de respuesta al tratamiento.",
+            "incorrectas": {
+                "A": "El hemograma es fundamental para evaluar la respuesta inflamatoria.",
+                "B": "La bioquímica aporta información sobre la función renal.",
+                "C": "El sedimento de orina permite detectar piuria y bacteriuria."
+            }
+        }
+    },
+    {
+        "id_examen": 96,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "La escala de Sheldon, es un ejemplo de escala propuesta para discriminar el síncope de otras pérdidas de conciencia, de entre los expuestos, es cierto que:",
+        "opciones": {
+            "A": "Se puntúa con 1 punto la mordedura de lengua.",
+            "B": "Se puntúa con menos 1 punto (-1) las convulsiones.",
+            "C": "Se puntúa con menos dos puntos (-2), la sudoración previa al episodio.",
+            "D": "Puntuaciones menores de 2 apoyarían el diagnóstico de síncope, y puntuaciones superiores a 3, apoyarían el diagnóstico de crisis convulsiva."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 51,
+            "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La escala de Sheldon valora diversos parámetros para diferenciar síncope de otras pérdidas de conciencia.  La sudoración previa al episodio se considera un signo que sugiere síncope, por lo que se puntúa con -2 puntos.  Una puntuación baja en la escala apoya el diagnóstico de síncope.",
+            "incorrectas": {
+                "A": "La mordedura de lengua es más frecuente en las convulsiones, no en el síncope.",
+                "B": "Las convulsiones se puntúan positivamente, ya que son un signo que las indica.",
+                "D": "La interpretación de la escala es al revés; puntuaciones bajas sugieren síncope, y altas, convulsiones."
+            }
+        }
+    },
+    {
+        "id_examen": 97,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En cuanto a las exploraciones complementarias que realizaremos en urgencias en un paciente con hemoptisis, señale la FALSA:",
+        "opciones": {
+            "A": "La radiografía de tórax puede ser normal.",
+            "B": "La radiografía de tórax puede detectar, en ocasiones, la causa de la hemoptisis.",
+            "C": "Está indicado realizar analítica completa con estudio de la coagulación.",
+            "D": "La broncoscopia no es una prueba eficaz en un paciente con hemoptisis."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 57,
+            "tema": "Hemoptisis. Valoración, diagnóstico y actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La broncoscopia es una prueba eficaz para diagnosticar la causa de la hemoptisis,  especialmente cuando se sospecha una lesión del árbol bronquial o una fuente de sangrado más localizada. Por lo tanto, la afirmación de que no es eficaz es falsa.",
+            "incorrectas": {
+                "A": "La radiografía de tórax puede ser normal incluso en pacientes con hemoptisis, ya que la causa puede estar en una zona no visible radiológicamente o ser un proceso inflamatorio o infeccioso temprano.",
+                "B": "En ocasiones, la radiografía de tórax puede mostrar hallazgos que sugieren la causa de la hemoptisis, como una masa pulmonar o un infiltrado.",
+                "C": "Es fundamental realizar una analítica completa con estudio de la coagulación para descartar trastornos hemorrágicos que puedan contribuir a la hemoptisis."
+            }
+        }
+    },
+    {
+        "id_examen": 98,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Según el manual de organización y funcionamiento de los Servicios de Urgencia hospitalarios de la Comunidad Autónoma de Aragón, uno de los siguientes en un Indicador de Actividad:",
+        "opciones": {
+            "A": "Porcentaje de ingresos urgentes.",
+            "B": "Administración de Acido Acetil Salicílico en Síndrome Coronario Agudo.",
+            "C": "Tiempo Puerta-aguja en ictus.",
+            "D": "Demora en realización de ECG en pacientes con Síndrome Coronario Agudo."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 109,
+            "tema": "Manual de organización y funcionamiento de los Servicios de Urgencia hospitalarios de la Comunidad Autónoma de Aragón ."
+        },
+        "explicacion": {
+            "correcta": "El porcentaje de ingresos urgentes es un indicador de actividad en los servicios de urgencias, ya que refleja el volumen de pacientes que requieren hospitalización tras su paso por urgencias. ",
+            "incorrectas": {
+                "B": "La administración de AAS en SCA es un indicador de calidad asistencial, no de actividad.",
+                "C": "El tiempo puerta-aguja en ictus es un indicador de calidad asistencial, relacionado con la eficiencia y pronóstico del paciente, no de actividad.",
+                "D": "La demora en la realización de ECG en pacientes con SCA es un indicador de calidad asistencial, relacionado con la eficiencia y pronóstico del paciente, no de actividad."
+            }
+        }
+    },
+    {
+        "id_examen": 99,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Nos encontramos ante un varón de 40 años y complexión media que es víctima de un accidente de tráfico de alta energía, ha sido traído a Urgencias inmovilizado en colchón de vacío y con sospecha de fractura de fémur derecho. En la primera valoración respira espontáneamente pero se muestra estuporoso con taquipnea y una frecuencia cardiaca de $122 \\mathrm{lpm}, \\mathrm{TA} 86 / 48 \\mathrm{mmHg}$. Sospecharemos que el volumen sanguíneo perdido puede ser:",
+        "opciones": {
+            "A": "Al menos 1500 ml .",
+            "B": "Al menos 2000 ml .",
+            "C": "Entre $500-1000 \\mathrm{ml}$.",
+            "D": "Al menos 1000 ml ."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "El paciente presenta signos de shock hipovolémico (taquicardia, hipotensión, taquipnea) tras un traumatismo de alta energía con sospecha de fractura de fémur.  Una fractura de fémur puede causar una pérdida de sangre considerable,  requiriendo al menos 1500 ml de reposición en este escenario.",
+            "incorrectas": {
+                "B": "Aunque una gran pérdida de sangre es posible, 2000 ml es una estimación excesiva para una primera aproximación.",
+                "C": "500-1000 ml es insuficiente para explicar los signos de shock hipovolémico presentes en el paciente.",
+                "D": "1000 ml es una pérdida significativa, pero es probable que se necesite una reposición superior en este caso dado el cuadro clínico del paciente y el mecanismo de lesión."
+            }
+        }
+    },
+    {
+        "id_examen": 100,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Indica cual de los siguientes criterios NO forma parte del Modelo de Predicción Bacteriana del grupo de infecciones en Urgencias de la Sociedad Española de Medicina de Urgencias y Emergencias (MPB-INFURG-SEMES)",
+        "opciones": {
+            "A": "Frecuencia respiratoria mayor o igual a 22 por minuto.",
+            "B": "Presencia de tiritona y escalofríos.",
+            "C": "Bilirrubina mayor de $2 \\mathrm{mg} / \\mathrm{dL}$.",
+            "D": "Recuento de plaquetas menor de $150.000 / \\mathrm{mm}$ cúbico."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 82,
+            "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+        },
+        "explicacion": {
+            "correcta": "El Modelo de Predicción Bacteriana (MPB-INFURG-SEMES) no incluye la bilirrubina como criterio para predecir la probabilidad de infección bacteriana en urgencias.  Los otros criterios sí se utilizan en el modelo.",
+            "incorrectas": {
+                "A": "La frecuencia respiratoria elevada es un indicador de respuesta inflamatoria sistémica y puede sugerir infección.",
+                "B": "Tiritona y escalofríos son manifestaciones clínicas sugestivas de sepsis o infección bacteriana.",
+                "D": "La trombocitopenia (recuento bajo de plaquetas) puede ser un signo de sepsis o coagulación intravascular diseminada (CID), frecuentemente asociadas a infecciones bacterianas."
+            }
+        }
+    },
+    {
+        "id_examen": 101,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "En un paciente con cólico renal que no mejora tras AINEs endovenosos y presenta fiebre ¿cuál es la actitud inicial más adecuada?",
+        "opciones": {
+            "A": "Aumentar dosis de analgésico.",
+            "B": "Administrar corticoides.",
+            "C": "Iniciar antibiótico iv y valorar derivación urgente.",
+            "D": "Dar el alta con analgesia y control ambulatorio."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 76,
+            "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo. Aspectos generales, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La fiebre en un cólico renal sugiere infección, probablemente pielonefritis.  Aumentar la dosis de analgésicos (A) solo trata el síntoma, no la causa subyacente. Los corticoides (B) no están indicados en la pielonefritis. El alta con analgesia y control ambulatorio (D) es inapropiado ante la sospecha de infección.  Por lo tanto, iniciar antibiótico iv y valorar derivación urgente (C) es la actitud más adecuada para diagnosticar y tratar la posible pielonefritis.",
+            "incorrectas": {
+                "A": "No trata la causa subyacente de la fiebre, que es la infección.",
+                "B": "Los corticoides no son el tratamiento de elección para la pielonefritis.",
+                "D": "Es inapropiado dar de alta a un paciente con posible infección urinaria y fiebre."
+            }
+        }
+    },
+    {
+        "id_examen": 102,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál es el tratamiento inicial más adecuado en una fractura pélvica inestable con hemorragia activa en un paciente hemodinámicamente inestable?",
+        "opciones": {
+            "A": "Reposo en cama y observar.",
+            "B": "Aplicación de un fijador externo pélvico y control del sangrado mediante embolización angiográfica.",
+            "C": "Intervención quirúrgica programada.",
+            "D": "Administración de vitamina $K$."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 88,
+            "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En una fractura pélvica inestable con hemorragia activa y hemodinámica inestable, la prioridad es el control de la hemorragia. La aplicación de un fijador externo pélvico (B) proporciona estabilización y permite el control del sangrado, que puede ser complementado con embolización angiográfica si es necesario. El reposo en cama (A) no controla la hemorragia. La cirugía (C) es una opción, pero no el tratamiento inicial en un paciente hemodinámicamente inestable. La vitamina K (D) no es efectiva en el sangrado activo.",
+            "incorrectas": {
+                "A": "No controla la hemorragia; de hecho, podría empeorarla.",
+                "C": "La cirugía es un tratamiento definitivo, pero no el inicial en un paciente inestable.",
+                "D": "La vitamina K no es útil en el sangrado agudo traumático."
+            }
+        }
+    },
+    {
+        "id_examen": 103,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de las siguientes recomendaciones NO es correcta al alta de un traumatismo costal leve:",
+        "opciones": {
+            "A": "Mantenga una actividad moderada exenta de ejercicios bruscos.",
+            "B": "Si el dolor persiste más de 7 días vuelva a Urgencias.",
+            "C": "Si presenta dificultad para respirar vuelva a Urgencias.",
+            "D": "Si fuma, deje de fumar durante la convalecencia."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 86,
+            "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Tras un traumatismo costal leve,  la recomendación de volver a urgencias si el dolor persiste más de 7 días (B) NO es correcta.  El dolor puede persistir durante semanas.  Lo importante es monitorizar la aparición de complicaciones como dificultad respiratoria (C), que sí requiere atención urgente. La actividad moderada (A) y dejar de fumar (D) son recomendaciones adecuadas.",
+            "incorrectas": {
+                "A": "La actividad moderada es adecuada para la recuperación.",
+                "C": "La dificultad respiratoria es una señal de alarma que requiere atención urgente.",
+                "D": "Dejar de fumar ayuda en la cicatrización."
+            }
+        }
+    },
+    {
+        "id_examen": 104,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de las siguientes NO es una causa reversible de Parada Cardio-Respiratoria (PCR):",
+        "opciones": {
+            "A": "Hipervolemia.",
+            "B": "Hiperkalemia.",
+            "C": "Intoxicación.",
+            "D": "Tromboembolismo Pulmonar."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 41,
+            "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+        },
+        "explicacion": {
+            "correcta": "La hipervolemia (A) es una causa reversible de PCR.  Se puede tratar con diuréticos para eliminar el exceso de líquido.  La hiperkalemia (B), la intoxicación (C) y el tromboembolismo pulmonar (D) son también causas reversibles de PCR con tratamientos específicos.",
+            "incorrectas": {
+                "B": "La hiperkalemia es reversible con tratamientos como la administración de gluconato cálcico.",
+                "C": "La intoxicación es reversible con tratamiento específico según el tóxico.",
+                "D": "El tromboembolismo pulmonar es reversible con fibrinolíticos en casos seleccionados."
+            }
+        }
+    },
+    {
+        "id_examen": 105,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Cuál de las siguientes pautas de administración de fármacos NO está recogida en la Guía 2021 de la European Resucitation Council:",
+        "opciones": {
+            "A": "Administre 1 mg de adrenalina iv lo antes posible en un paciente en asistolia.",
+            "B": "Administre 1 mg de adrenalina iv lo antes posible en un paciente con AESP.",
+            "C": "Administre 1 mg de adrenalina iv lo antes posible en un paciente con TPSV.",
+            "D": "Administre 1 mg de adrenalina iv tras la $3^{a}$ desfibrilación en un paciente con TVSP."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 41,
+            "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+        },
+        "explicacion": {
+            "correcta": "La administración de adrenalina iv tras la tercera desfibrilación en un paciente con TVSP (D) sí está recogida. La administración de adrenalina iv en asistolia (A),  AESP (B) está recomendada. La pauta que NO está recogida en la Guía 2021 de la European Resuscitation Council es la administración de adrenalina en TPSV (C). La adrenalina no se recomienda en TPSV en la guía actual.",
+            "incorrectas": {
+                "A": "Adrenalina en asistolia está indicada según la ERC.",
+                "B": "Adrenalina en AESP está indicada según la ERC.",
+                "D": "Adrenalina tras la tercera desfibrilación en TVSP está indicada según la ERC."
+            }
+        }
+    },
+    {
+        "id_examen": 106,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Qué hallazgos e interpretación de la ecografía cardiaca espera encontrar al inicio de presentación de un shock hipovolémico por hemorragia masiva?",
+        "opciones": {
+            "A": "Cámaras cardiacas normales con contractilidad conservada.",
+            "B": "Cámaras cardiacas colapsadas con contractilidad normal o aumentada.",
+            "C": "Vena cava dilatada no colapsable y contractilidad cardiaca disminuida.",
+            "D": "Dilatación del ventrículo derecho con ventrículo izquierdo disminuido."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "En el shock hipovolémico por hemorragia masiva, el corazón intenta compensar la disminución del volumen circulatorio aumentando su contractilidad para mantener el gasto cardiaco.  Inicialmente, las cámaras cardiacas pueden aparecer colapsadas debido a la hipovolemia,  pero la contractilidad se mantiene o incluso aumenta. La opción B refleja este estado inicial de compensación.",
+            "incorrectas": {
+                "A": "Esta opción describe un estado de volumen normal, sin shock hipovolémico.",
+                "C": "Una vena cava dilatada y no colapsable indica un estado de hipovolemia, pero la contractilidad disminuida sugiere fallo cardiaco, que no es lo característico en la fase inicial de un shock hipovolémico. Es más tardío.",
+                "D": "La dilatación del ventrículo derecho con disminución del izquierdo es más sugestiva de taponamiento cardiaco o de otras patologías, no del shock hipovolémico inicial."
+            }
+        }
+    },
+    {
+        "id_examen": 107,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál de las siguientes características ecográficas es más sugestiva de uropatía obstructiva aguda por litiasis?",
+        "opciones": {
+            "A": "Riñón hiperecogénico.",
+            "B": "Dilatación pielocalicial unilateral sin alteración parenquimatosa.",
+            "C": "Doble contorno renal.",
+            "D": "Hematoma perirrenal."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 76,
+            "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo. Aspectos generales, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La dilatación pielocalicial unilateral sin alteración parenquimatosa es altamente sugestiva de obstrucción en el flujo urinario. El riñón se dilata por encima de la obstrucción, pero el parénquima renal aún no se ve afectado en esta fase temprana de la obstrucción.",
+            "incorrectas": {
+                "A": "Un riñón hiperecogénico puede ser debido a varias causas, incluyendo la atrofia, la fibrosis o la nefropatía.",
+                "C": "El doble contorno renal se asocia a otras patologías renales, como la hidronefrosis crónica o los procesos inflamatorios.",
+                "D": "Un hematoma perirrenal es una causa de dolor y masa abdominal, pero no es característico de la obstrucción urinaria."
+            }
+        }
+    },
+    {
+        "id_examen": 108,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "Señala la respuesta correcta en un paciente con alcalosis metabólica, sin insuficiencia renal y con cloro en orina inferior a $25 \\mathrm{mEq} / \\mathrm{l}$ :",
+        "opciones": {
+            "A": "Son insensibles al aporte de suero salino.",
+            "B": "Es más frecuente en pacientes con sonda nasogástrica.",
+            "C": "No usar cloruro potásico oral si hay hipopotasemia.",
+            "D": "Los tumores productores de renina son una causa."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 70,
+            "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La alcalosis metabólica hipoclorémica con cloro urinario <25 mEq/l es indicativa de pérdida de ácido clorhídrico a través del tracto gastrointestinal, siendo la sonda nasogástrica una causa frecuente.  El vómito y la aspiración gástrica continua provocan esta pérdida.",
+            "incorrectas": {
+                "A": "Los pacientes con alcalosis metabólica hipoclorémica suelen responder al aporte de suero salino, ya que ayuda a reponer el volumen y el cloro perdidos.",
+                "C": "En la hipopotasemia asociada a alcalosis metabólica,  la administración de cloruro potásico oral está indicada para corregir la hipopotasemia, aunque debe hacerse con precaución.",
+                "D": "Los tumores productores de renina causan hipertensión, pero no son una causa común de alcalosis metabólica hipoclorémica."
+            }
+        }
+    },
+    {
+        "id_examen": 109,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cuál es la principal complicación del uso excesivo de solución salina al $0.9 \\%$ en pacientes críticos?",
+        "opciones": {
+            "A": "Hipoglucemia.",
+            "B": "Hiponatremia.",
+            "C": "Acidosis metabólica hiperclorémica.",
+            "D": "Hipopotasemia."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 70,
+            "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "El uso excesivo de solución salina al 0.9% puede llevar a una acidosis metabólica hiperclorémica. El cloruro del suero salino no es metabolizado y se acumula, causando una disminución del bicarbonato y, por tanto, acidosis.",
+            "incorrectas": {
+                "A": "El suero salino no afecta directamente a los niveles de glucosa.",
+                "B": "El exceso de suero salino causa hipernatremia, no hiponatremia.  La hiponatremia se da por exceso de agua.",
+                "D": "El suero salino no tiene un efecto directo sobre los niveles de potasio."
+            }
+        }
+    },
+    {
+        "id_examen": 110,
+        "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2023",
+        "enunciado": "¿Cúal de los siguientes criterios es indicativo de una agudización asmática grave en un adulto?",
+        "opciones": {
+            "A": "Saturación de $\\mathrm{O}_{2}>96 \\%$, taquipnea leve, disnea al ejercicio.",
+            "B": "Disnea en reposo, uso de musculatura accesoria, $\\mathrm{PEF}<50 \\%$.",
+            "C": "Disnea en reposo, uso de musculatura accesoria, $\\mathrm{PEF}<60 \\%$.",
+            "D": "Presión arterial de oxígeno $80 \\mathrm{~mm} \\mathrm{Hg}+$ disnea moderada."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 55,
+            "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La disnea en reposo, el uso de musculatura accesoria y una PEF (Peak Expiratory Flow) menor al 50% de lo previsto indican una agudización asmática grave. La reducción significativa del flujo espiratorio máximo y la dificultad respiratoria en reposo son signos claros de una obstrucción severa de las vías aéreas.",
+            "incorrectas": {
+                "A": "Esta opción describe un asma leve o bien controlada.",
+                "C": "Una PEF <60% indica gravedad, pero la opción B es más específica y severa con un valor más bajo.",
+                "D": "Mientras que una PaO2 de 80 mmHg es baja e indica hipoxemia, la disnea moderada no alcanza el grado de gravedad de la opción B."
+            }
+        }
+    }
+]

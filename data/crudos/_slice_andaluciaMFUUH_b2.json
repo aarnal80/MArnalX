@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En el manejo de la obstrucción de vía aérea por cuerpo extraño (OVACE) en Pediatría, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Si puede toser anime a seguir tosiendo.",
+   "B": "Si no puede toser pero esta consciente, realice maniobras compresivas torácicas o abdominales o golpes en espalda.",
+   "C": "En lactantes es preferible compresiones abdominales.",
+   "D": "Si está inconsciente, abra la vía aérea, ventile 5 veces e inicie RCP."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En el Soporte Vital Avanzado del trauma grave, señale la respuesta falsa:",
+  "opciones": {
+   "A": "La valoración debe ser rápida y ordenada, seguir orden ABCDE (vía aérea, ventilación, estado circulatorio, valoración neurológica y exposición-protección térmica)",
+   "B": "Todas las maniobras dirigidas a control de la vía aérea se deben realizar con control manual de la columna cervical",
+   "C": "Se realizará intubación orotraqueal en pacientes con Glasgow menor de 12",
+   "D": "Se realizará intubación orotraqueal ante la imposibilidad de mantener la vía aérea permeable por otros medios."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Si a un niño en estado crítico no consigue canalizar una vía periférica en pierna en 60 segundos, ¿qué vía intentaría a continuación?",
+  "opciones": {
+   "A": "Vena subclavia derecha porque se fija mejor.",
+   "B": "Vena yugular interna derecha porque llega más directamente al corazón.",
+   "C": "Una vía intraósea en la pierna.",
+   "D": "Una vena periférica en el brazo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Ante un caso clínico con el diagnóstico de sospecha de obstrucción intestinal, ¿cuál es la exploración complementaria a la que hay que recurrir para confirmar el diagnóstico?",
+  "opciones": {
+   "A": "TC de abdomen en decúbito lateral o supino.",
+   "B": "Ecografía abdominal en bipedestación y/o decúbito supino.",
+   "C": "RM de abdomen en decúbito lateral o supino.",
+   "D": "Radiografía simple de abdomen en bipedestación."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En relación al síndrome diarreico. ¿Cuál es la falsa?",
+  "opciones": {
+   "A": "En caso de diarrea con criterios de gravedad se realizarán hemocultivos y coprocultivos",
+   "B": "Se realizará detección de toxina de clostridium difficile en pacientes institucionalizados",
+   "C": "La serología es útil en caso de infección por Campilobacter.",
+   "D": "El Bacillus cereus es causante de diarrea enteroinvasiva."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Con respecto a la pancreatitis aguda, todo es cierto excepto:",
+  "opciones": {
+   "A": "Las dos causas más frecuentes son alcoholismo y enfermedad de las vías biliares.",
+   "B": "A veces presenta el signo de Cullen y el signo de Turner.",
+   "C": "Elevaciones de Amilasa sérica y urinaria ocurren en otras enfermedades.",
+   "D": "La pancreatitis aguda leve puede tratarse de forma ambulatoria, sin ingreso."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "La policía trae a un detenido sospechoso de tráfico de drogas con una imagen radiológica en la que se aprecian numerosas imágenes redondeadas a lo largo de todo el tubo digestivo, desde estomago a ciego, sin apreciar otras complicaciones. ¿Cuál es la actitud más correcta?",
+  "opciones": {
+   "A": "Cirugía urgente por el riesgo de rotura.",
+   "B": "Endoscopia alta para extracción de los alojados en el estomago.",
+   "C": "Uso de catárticos.",
+   "D": "Seguimiento radiológico y cirugía si rotura o no progresión en 48 horas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En relación a las malformaciones cardiacas, indique la falsa.",
+  "opciones": {
+   "A": "En un lactante de 4 semanas que acude a urgencias con palidez, mala perfusión, ritmo de galope, hepatomegalia y una diferencia de pulsos y TA entre los miembros superiores e inferiores, sospecharemos una coartación aórtica.",
+   "B": "La descripción anatómica de la Tetralogía de Fallot incluye, estenosis pulmonar, Comunicación interventricular, cabalgamiento aórtico e Hipertrofia de ventrículo derecho.",
+   "C": "La tetralogía de Fallot, se encuentra en la clasificación de la malformaciones cardiacas, dentro de las cardiopatías con cianosis.",
+   "D": "Dentro de las Cardiopatías que cursan con cortocircuito izquierda-derecha están la Comunicación Interventricular, la Comunicación Interauricular y la Estenosis Aortica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Cuál de los siguientes enunciados sobre la fisura anal es incorrecta?",
+  "opciones": {
+   "A": "En el 80% de los casos es de localización anterior.",
+   "B": "La localización lateral se asocia a enfermedad de base (EII, Tumores, etc.).",
+   "C": "El tratamiento inicial en fase aguda es médico con analgésicos, mucilagos y pomadas vasodilatadoras.",
+   "D": "La fisura crónica precisa de tratamiento quirúrgico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "La acción de la lactulosa en el tratamiento de la encefalopatía hepática es:",
+  "opciones": {
+   "A": "Realizar aporte hidrocarbonado.",
+   "B": "Reducir la absorción de amoníaco.",
+   "C": "Actuar como resina de intercambio iónico.",
+   "D": "Proteger la mucosa del esófago."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Qué fármaco no está indicado en la cardioversión farmacológica de la fibrilación auricular?",
+  "opciones": {
+   "A": "Flecainida",
+   "B": "Propafenona",
+   "C": "Digoxina",
+   "D": "VernaKalant"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta incorrecta en el Edema Agudo de Pulmón:",
+  "opciones": {
+   "A": "Los fármacos inotrópicos están indicados cuando hay bajo gasto cardíaco en presencia de hipoperfusión.",
+   "B": "Si la PAS es >180mmHg persiste a pesar del tratamiento con Nitroglicerina en perfusión > a 40 ml/h debe considerarse administrar Nitroprusiato Sódico.",
+   "C": "Si la anemia es un factor precipitante obvio con Hb < 9 gr/dl no deben transfundirse concentrados de hematíes.",
+   "D": "Si hay enfermedad renal crónica debe plantearse diálisis urgente en caso de disfunción renal severa, especialmente si existen datos de síndrome urémico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Respecto de la hemorragia digestiva baja, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La colitis isquémica es la causa mas frecuente en ancianos.",
+   "B": "La colonoscopia es la prueba fundamental para el diagnostico pero es necesaria la preparación previa por lo que en sangrado masivo no es recomendable.",
+   "C": "El angioTAC, la gammagrafía con hematíes marcados y la arteriografía son las pruebas indicadas en caso de sangrado masivo.",
+   "D": "La enfermedad diverticular y la angiodisplasias son las causas mas frecuentes de sangrado agudo severo en el adulto."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "La escala de Wells nos da una probabilidad diagnóstica de trombosis venosa profunda. ¿Cuál de los siguientes no es un criterio de dicha escala?",
+  "opciones": {
+   "A": "Cáncer activo",
+   "B": "Varices previas",
+   "C": "Dolor en el trayecto venoso profundo",
+   "D": "Edema con fóvea"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Cual de los siguiente enunciados es falso respecto del soporte nutricional tras la fase de rehidratación inicial (3-4 horas) a un niño con cuadro diarreico agudo:",
+  "opciones": {
+   "A": "Los niños con alimentación materna deben continuar con la misma.",
+   "B": "Los niños con nutrición artificial debe continuar con la misma fórmula pero diluida.",
+   "C": "Los niños con alimentación complementaria deben hacer la misma que previamente, aconsejando reducir azucares de alta osmolaridad y reducir alimentos con alto contenido en grasas.",
+   "D": "Se reservaran las fórmulas sin lactosa para casos de intolerancia demostrada o sospechada."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Cuál es la respuesta falsa sobre las agudizaciones de EPOC en urgencias?",
+  "opciones": {
+   "A": "Está indicado el tratamiento con corticoides iv.",
+   "B": "Los antibióticos están indicados en todos los casos de agudización",
+   "C": "Para conocer la situación de gravedad basal del paciente se recomienda usar la escala de BODE o BODEx.",
+   "D": "La escala de BODEx sustituye la prueba de la marcha en 6 minutos por el numero de exacerbaciones graves que requirieron ingreso en urgencias u hospitalización"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Cuál de los siguientes signos o síntomas no es típico de la colangitis?",
+  "opciones": {
+   "A": "Fiebre.",
+   "B": "Ictericia.",
+   "C": "Vómitos.",
+   "D": "Dolor en hipocondrio derecho."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "De los siguientes factores ¿cuál no predice asma de riesgo vital?",
+  "opciones": {
+   "A": "Crisis asmáticas con ingresos previos en UCI",
+   "B": "Comorbilidad cardiovascular",
+   "C": "Abuso de agonistas B2 adrenérgicos de acción corta",
+   "D": "Comienzo lentamente progresivo de la crisis."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "La mejor maniobra para abrir la vía aérea en un niño de 6 meses que ha sufrido una parada cardiorrespiratoria secundaria a una infección respiratoria es:",
+  "opciones": {
+   "A": "No es necesario abrir la vía aérea, sino ventilar, ya que no hay obstrucción de vía aérea superior.",
+   "B": "Aspiración de secreciones con sonda de 8 French.",
+   "C": "Maniobra frente-mentón.",
+   "D": "Introducir dos dedos en la boca para extraer posibles cuerpos extraños."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta incorrecta respecto al sulfato de magnesio:",
+  "opciones": {
+   "A": "Puede estar indicado su uso en la intoxicación digitálica.",
+   "B": "Su uso está indicado en la Torsade de Pointes.",
+   "C": "No está indicado su uso en la prevención de la eclampsia desarrollada en el parto.",
+   "D": "Está indicado su uso en la hipocalcemia refractaria que no se corrige tras 24h de tratamiento."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Respecto a la torsión testicular señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "El reflejo cremastérico suele estar abolido.",
+   "B": "Nunca se presenta con dolor abdominal.",
+   "C": "Puede acompañarse de cortejo vegetativo.",
+   "D": "En el 95% de los casos intervenidos en las primeras 6 horas, el teste es viable."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Ante la sospecha de TBC en urgencias, indique la verdadera.",
+  "opciones": {
+   "A": "Se debe colocar una mascarilla adecuada al paciente hasta poder dejarlo en una habitación de aislamiento.",
+   "B": "Se realizará hemograma tiempos de coagulación Bioquímica con perfil hepático y GSA si disnea y Rx de tórax",
+   "C": "El estudio de esputo se debe realizar lo antes posible y el diagnóstico definitivo de la tuberculosis se basa en demostrar la presencia de M tuberculosis, para esto se realizará tinción de Zhiel-Neelsen y cultivo.",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ }
+]

@@ -1,0 +1,2407 @@
+[
+    {
+        "id_examen": 1,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "El artículo 4 del Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía de Andalucía) establece la capitalidad y sedes. Así, determina que en la capital de Andalucía, que es la ciudad de Sevilla, radicarán las sedes de las siguientes instituciones, EXCEPTO:",
+        "opciones": {
+            "A": "El Tribunal Superior de Justicia.",
+            "B": "La Presidencia de la Junta.",
+            "C": "El Parlamento.",
+            "D": "El Consejo de Gobierno."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 2,
+            "tema": "Competencias en salud recogidas en el Estatuto de Autonomía. Las Cortes de Aragón. El Gobierno de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la A. El Tribunal Superior de Justicia de Andalucía tiene su sede en Granada, no en Sevilla.  El artículo 4 del Estatuto de Autonomía de Andalucía establece que la capitalidad de la comunidad autónoma recae en Sevilla, y en ella deben radicar la Presidencia de la Junta, el Parlamento y el Consejo de Gobierno.",
+            "incorrectas": {
+                "B": "La Presidencia de la Junta de Andalucía sí tiene su sede en Sevilla.",
+                "C": "El Parlamento de Andalucía sí tiene su sede en Sevilla.",
+                "D": "El Consejo de Gobierno de Andalucía sí tiene su sede en Sevilla."
+            }
+        }
+    },
+    {
+        "id_examen": 2,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuándo podría decirse que Andalucía alcanzó la titularidad de las competencias sanitarias?",
+        "opciones": {
+            "A": "Cuando se promulgó el Estatuto de Autonomía de Andalucía, mediante la Ley Orgánica 2/1981.",
+            "B": "Cuando se promulgó la Ley 8/1986, de 6 de mayo, por la que se crea el Servicio Andaluz de Salud.",
+            "C": "Cuando se promulgó la Ley 2/1998, de Salud de Andalucía.",
+            "D": "Cuando se promulgó la Ley 14/1986, General de Sanidad."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 2,
+            "tema": "Competencias en salud recogidas en el Estatuto de Autonomía. Las Cortes de Aragón. El Gobierno de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la A.  El Estatuto de Autonomía de Andalucía (Ley Orgánica 2/1981) transfirió las competencias sanitarias a la comunidad autónoma. Aunque leyes posteriores como la Ley 8/1986 (creación del SAS) y la Ley 2/1998 (Ley de Salud de Andalucía) desarrollaron y regularon el sistema sanitario andaluz, la titularidad de las competencias se obtuvo con la aprobación del Estatuto de Autonomía.",
+            "incorrectas": {
+                "B": "La Ley 8/1986 creó el Servicio Andaluz de Salud (SAS), pero la titularidad de las competencias ya estaba establecida por el Estatuto de Autonomía.",
+                "C": "La Ley 2/1998 regula la salud en Andalucía, pero no otorga la titularidad de las competencias, ya que ésta se adquirió con el Estatuto de Autonomía.",
+                "D": "La Ley 14/1986 es la Ley General de Sanidad a nivel estatal, no específica para Andalucía."
+            }
+        }
+    },
+    {
+        "id_examen": 3,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Qué norma legal regula la estructura, organización y funcionamiento de los servicios de Atención Primaria en nuestra Comunidad Autónoma?",
+        "opciones": {
+            "A": "El Decreto 197/2007, de 3 de julio.",
+            "B": "La Orden SAS 21/2008.",
+            "C": "La Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+            "D": "El Decreto 462/1996, de 8 de octubre."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 24,
+            "tema": "El sistema sanitario. Niveles asistenciales. Organización de los servicios sanitarios en Aragón."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la A. El Decreto 197/2007, de 3 de julio, regula la organización y funcionamiento de la Atención Primaria en Andalucía. Define su estructura, organización, y funcionamiento.",
+            "incorrectas": {
+                "B": "La Orden SAS 21/2008 es una orden de desarrollo, no la norma principal que regula la estructura de la Atención Primaria.",
+                "C": "La Ley 2/1998, de Salud de Andalucía, es una ley marco que regula el sistema sanitario andaluz en general, pero no se centra específicamente en la estructura de la Atención Primaria.",
+                "D": "El Decreto 462/1996 se centra en la asistencia especializada y órganos de dirección de hospitales, no en Atención Primaria."
+            }
+        }
+    },
+    {
+        "id_examen": 4,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Según el artículo 123.2 de la Constitución Española, el Presidente del Tribunal Supremo será nombrado por:",
+        "opciones": {
+            "A": "El Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+            "B": "El Presidente del Consejo General del Poder Judicial, en la forma que determine la ley.",
+            "C": "El Presidente del Congreso de los Diputados, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+            "D": "El Presidente del Gobierno, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 1,
+            "tema": "Constitución Española de 1978: La protección de la salud en la Constitución. Estatuto de Autonomía de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la A.  El artículo 123.2 de la Constitución Española establece que el Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, según la ley.",
+            "incorrectas": {
+                "B": "El Presidente del Consejo General del Poder Judicial no nombra al Presidente del Tribunal Supremo.",
+                "C": "El Presidente del Congreso de los Diputados no participa en este nombramiento.",
+                "D": "El Presidente del Gobierno no participa en este nombramiento."
+            }
+        }
+    },
+    {
+        "id_examen": 5,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Como se recoge en el decreto 462/1996, de 8 de octubre, por el que se modifica el Decreto 105/1986, de 11 de junio, sobre Ordenación de la Asistencia Especializada y Órganos de Dirección de los Hospitales, entre las funciones de la Junta Facultativa, como órgano colegiado de participación de los facultativos del área hospitalaria, se encuentran todas las siguientes, EXCEPTO:",
+        "opciones": {
+            "A": "Conocer el Contrato-Programa del Hospital con carácter previo a su formalización por la Dirección Gerencia.",
+            "B": "Proponer el nombramiento del Director Médico del Hospital.",
+            "C": "Vigilar y controlar las condiciones de trabajo y seguridad en el empleo.",
+            "D": "Elaborar el programa de formación para el personal facultativo del Hospital."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 24,
+            "tema": "El sistema sanitario. Niveles asistenciales. Organización de los servicios sanitarios en Aragón."
+        },
+        "explicacion": {
+            "correcta": "La respuesta correcta es la C.  Si bien la Junta Facultativa tiene un papel importante en la propuesta de nombramientos, supervisión de programas y revisión del contrato-programa, no tiene entre sus funciones la vigilancia y control de las condiciones de trabajo y seguridad en el empleo. Esta función corresponde a otros órganos y departamentos dentro del hospital y la administración sanitaria.",
+            "incorrectas": {
+                "A": "La Junta Facultativa conoce el Contrato-Programa del Hospital antes de su formalización.",
+                "B": "La Junta Facultativa propone el nombramiento del Director Médico del Hospital.",
+                "D": "La Junta Facultativa elabora el programa de formación para el personal facultativo del Hospital."
+            }
+        }
+    },
+    {
+        "id_examen": 6,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Los datos de salud son una categoría especial de datos personales, que el vigente Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, prohíbe tratarlos a menos que concurran determinadas circunstancias. ¿En qué artículo del Reglamento citado se recogen estas excepciones?",
+        "opciones": {
+            "A": "En el artículo 9.2.",
+            "B": "En el artículo 12.",
+            "C": "En el artículo 3.1.",
+            "D": "En el artículo 43."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 5,
+            "tema": "El régimen jurídico de la protección de datos de carácter personal: Disposiciones generales. Principios de la protección de datos."
+        },
+        "explicacion": {
+            "correcta": "El artículo 9.2 del Reglamento (UE) 2016/679 establece las excepciones al tratamiento de datos de salud, una categoría especial de datos personales.  Este artículo detalla las condiciones bajo las cuales el tratamiento de estos datos está permitido, a pesar de las restricciones generales.",
+            "incorrectas": {
+                "B": "El artículo 12 se centra en el derecho de acceso del interesado a sus datos personales y no en las excepciones al tratamiento de datos de salud.",
+                "C": "El artículo 3.1 define el ámbito de aplicación del Reglamento, pero no especifica las excepciones para los datos de salud.",
+                "D": "El artículo 43 trata sobre las disposiciones finales y no se relaciona con las excepciones al tratamiento de datos de salud."
+            }
+        }
+    },
+    {
+        "id_examen": 7,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, regula los aspectos básicos de las profesiones sanitarias tituladas, como queda recogido en su artículo 1. Señale la respuesta INCORRECTA referido al texto de este articulado:",
+        "opciones": {
+            "A": "Regula la estructura general de la formación de los profesionales.",
+            "B": "Regula el desarrollo profesional cuando la profesión se ejerce en los servicios sanitarios públicos, no aplicando en el ámbito de la sanidad privada.",
+            "C": "Regula la participación de los profesionales en la planificación y ordenación de las profesiones sanitarias.",
+            "D": "Establece los registros de profesionales que permitan hacer efectivo los derechos de los ciudadanos respecto a las prestaciones sanitarias y la adecuada planificación de los recursos humanos del sistema de salud."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 11,
+            "tema": "Ley 44/2003 de Ordenación de las Profesiones Sanitarias. Ámbito de aplicación, contenidos."
+        },
+        "explicacion": {
+            "correcta": "La Ley 44/2003 regula la formación, el desarrollo profesional y la participación en la planificación de las profesiones sanitarias tanto en el ámbito público como privado. La opción B es incorrecta porque la ley sí se aplica al ámbito de la sanidad privada.",
+            "incorrectas": {
+                "A": "La ley sí regula la estructura general de la formación de los profesionales sanitarios.",
+                "C": "La ley sí regula la participación de los profesionales en la planificación y ordenación de las profesiones sanitarias.",
+                "D": "La ley sí establece registros de profesionales para garantizar los derechos de los ciudadanos y la planificación de recursos humanos."
+            }
+        }
+    },
+    {
+        "id_examen": 8,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "La Junta de Andalucía ha regulado, en el ámbito de la salud y desde hace más de una década, una serie de derechos ciudadanos considerados de \"segunda generación\", entre los que se encuentran todos los siguientes, EXCEPTO:",
+        "opciones": {
+            "A": "Libre elección de médico y de hospital.",
+            "B": "Consentimiento informado para pruebas diagnósticas y tratamientos médicos.",
+            "C": "Declaración de voluntad vital anticipada.",
+            "D": "Segunda opinión médica."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 12,
+            "tema": "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+        },
+        "explicacion": {
+            "correcta": "La libre elección de médico y hospital, la declaración de voluntad vital anticipada y la segunda opinión médica son derechos de \"segunda generación\" en el ámbito sanitario andaluz. El consentimiento informado, aunque fundamental, es un derecho básico que se regula con anterioridad y con mayor amplitud.",
+            "incorrectas": {
+                "A": "La libre elección de médico y hospital es un derecho ciudadano regulado en Andalucía.",
+                "C": "La declaración de voluntad vital anticipada es un derecho ciudadano regulado en Andalucía.",
+                "D": "La segunda opinión médica es un derecho ciudadano regulado en Andalucía."
+            }
+        }
+    },
+    {
+        "id_examen": 9,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Un ensayo clínico aleatorizado y doble ciego, que evaluó la seguridad de sinvastatina frente a placebo en términos de mortalidad, encontró una diferencia de mortalidad por cualquier causa entre el grupo control y el grupo experimental que fue estadísticamente significativa (p=0.0003), con un RR de 0.71 (IC95% entre 0.58 y 0.85). ¿Cuál fue la reducción relativa de riesgo (RRR) -puntual y aproximada- en este ensayo clínico?",
+        "opciones": {
+            "A": "5%.",
+            "B": "29%.",
+            "C": "0.03%.",
+            "D": "No se puede calcular con los datos aportados."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 29,
+            "tema": "Estudios experimentales. Ensayos clínicos. Ética de la investigación clínica. Validez de métodos diagnósticos: sensibilidad, especificidad, valor predictivo positivo."
+        },
+        "explicacion": {
+            "correcta": "El riesgo relativo (RR) es 0.71, lo que significa que el grupo tratado con sinvastatina tuvo un 29% menos de mortalidad que el grupo placebo (1-0.71 = 0.29  o 29%).  Esta es la reducción relativa de riesgo (RRR).",
+            "incorrectas": {
+                "A": "5% es un cálculo incorrecto de la reducción del riesgo.",
+                "C": "0.03% es una interpretación incorrecta del valor p y del RR.",
+                "D": "Los datos proporcionados (RR e IC95%) son suficientes para calcular la RRR."
+            }
+        }
+    },
+    {
+        "id_examen": 10,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de las siguientes variables del CMBD NO es verdadera (esto es, no se registra por cada episodio de hospitalización producido en el ámbito de la hospitalización convencional, en el HDQ, en el HDM o en la Comunidad Terapéutica de Salud Mental)?",
+        "opciones": {
+            "A": "Circunstancias del ingreso o contacto.",
+            "B": "Hospital.",
+            "C": "Residencia postal.",
+            "D": "CNP del facultativo responsable del episodio."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 24,
+            "tema": "El sistema sanitario. Niveles asistenciales. Organización de los servicios sanitarios en Aragón."
+        },
+        "explicacion": {
+            "correcta": "El Código de Medicamentos del Ministerio de Sanidad no registra el CNP del facultativo responsable del episodio de hospitalización en cada episodio. Los otros datos sí se registran.",
+            "incorrectas": {
+                "A": "Las circunstancias del ingreso se registran en el CMBD.",
+                "B": "El hospital se registra en el CMBD.",
+                "C": "La residencia postal se registra en el CMBD."
+            }
+        }
+    },
+    {
+        "id_examen": 11,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "A efectos de la necesaria cooperación para el desarrollo de la salud publica en el territorio, la Ley de Salud Pública de Andalucía tiene regulado un órgano de colaboración, coordinación y cooperación entre la Administración de la Junta de Andalucía y las Corporaciones Locales, que se llama:",
+        "opciones": {
+            "A": "Comisión Andaluza de Cooperación en Salud Pública.",
+            "B": "Consejo Andaluz de Salud Pública Local.",
+            "C": "Comisión Paritaria en Salud Pública del territorio.",
+            "D": "Consejo Andaluz de desarrollo de Planes Locales de Salud Pública."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 9,
+            "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+        },
+        "explicacion": {
+            "correcta": "La Comisión Andaluza de Cooperación en Salud Pública es el órgano regulado por la Ley de Salud Pública de Andalucía para la colaboración, coordinación y cooperación entre la Junta de Andalucía y las Corporaciones Locales en el desarrollo de la salud pública.  Su función es facilitar la cooperación interadministrativa para la mejora de la salud pública en el territorio andaluz.",
+            "incorrectas": {
+                "B": "El Consejo Andaluz de Salud Pública Local no existe como órgano definido en la ley andaluza.",
+                "C": "Una comisión paritaria en salud pública podría existir, pero no es el órgano específicamente regulado por la ley andaluza para la cooperación entre la Junta y las Corporaciones Locales.",
+                "D": "Si bien el desarrollo de planes locales de salud pública es importante, el órgano de cooperación entre la Junta y los ayuntamientos no se centra específicamente en su desarrollo."
+            }
+        }
+    },
+    {
+        "id_examen": 12,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En la estructura organizativa del Biobanco del Sistema Sanitario Público de Andalucía (SSPA), establecida por el Decreto 1/2013, de 8 de enero, existe un comité externo de ética. ¿Cuál es este comité o quien ejerce sus funciones?",
+        "opciones": {
+            "A": "El Comité de Ética de Investigación de la provincia de Granada, donde está el nodo coordinador.",
+            "B": "El Comité Científico del Biobanco del SSPA.",
+            "C": "El Comité de Bioética de Andalucía.",
+            "D": "El Comité Coordinador de Ética de la Investigación Biomédica de Andalucía."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 38,
+            "tema": "Principios fundamentales de la bioética: aplicación a la asistencia sanitaria. La relación médico-paciente, el consentimiento informado. Los comités de Bioética."
+        },
+        "explicacion": {
+            "correcta": "El Comité Coordinador de Ética de la Investigación Biomédica de Andalucía es el comité externo de ética que supervisa el Biobanco del Sistema Sanitario Público de Andalucía (SSPA), según el Decreto 1/2013.  Este comité tiene la responsabilidad de velar por los aspectos éticos de la investigación que se realiza utilizando las muestras y datos del biobanco.",
+            "incorrectas": {
+                "A": "El Comité de Ética de Investigación de la provincia de Granada no tiene la responsabilidad general de supervisar el Biobanco del SSPA a nivel regional.",
+                "B": "El Comité Científico del Biobanco puede asesorar en aspectos científicos, pero no sustituye al comité externo de ética en la supervisión ética.",
+                "C": "El Comité de Bioética de Andalucía tiene un ámbito de actuación más general que la supervisión específica del biobanco del SSPA."
+            }
+        }
+    },
+    {
+        "id_examen": 13,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿A quién corresponde la resolución de expedientes de responsabilidad patrimonial cuando la asistencia sanitaria se haya prestado en un centro del Sistema Andaluz de Salud (SAS)?",
+        "opciones": {
+            "A": "Al Servicio de Aseguramiento y Riesgos del SAS.",
+            "B": "A la Dirección Gerencia del SAS.",
+            "C": "A la Viceconsejería de Salud.",
+            "D": "A la Dirección General de Gestión Económica del SAS."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 25,
+            "tema": "Estructura del Departamento de Sanidad de Aragón y del Servicio Aragonés de la Salud. Los Sectores sanitarios."
+        },
+        "explicacion": {
+            "correcta": "La Dirección Gerencia del SAS es la responsable de resolver los expedientes de responsabilidad patrimonial cuando la asistencia sanitaria se presta en un centro del Sistema Andaluz de Salud (SAS).  Tiene la autoridad y la competencia para gestionar estos procedimientos.",
+            "incorrectas": {
+                "A": "El Servicio de Aseguramiento y Riesgos del SAS puede estar involucrado en la gestión de riesgos, pero la resolución final corresponde a la Dirección Gerencia.",
+                "C": "La Viceconsejería de Salud tiene un nivel de responsabilidad superior, pero la resolución de estos expedientes se delega en la Dirección Gerencia del SAS.",
+                "D": "La Dirección General de Gestión Económica del SAS participa en la gestión de recursos, pero no es la autoridad final en la resolución de expedientes de responsabilidad patrimonial."
+            }
+        }
+    },
+    {
+        "id_examen": 14,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Según la Ley andaluza de Declaración de Voluntad Vital Anticipada (Ley 5/2003, de 9 de octubre), en cuanto al contenido de la declaración (artículo 3 de la citada norma), su autor podrá manifestar:",
+        "opciones": {
+            "A": "Las opciones e instrucciones, expresas y previas, que, ante circunstancias clínicas que le impidan manifestar su voluntad, deberá respetar el personal sanitario responsable de su asistencia sanitaria.",
+            "B": "La designación de un representante, plenamente identificado, que será quien le sustituya en el otorgamiento del consentimiento informado, en los casos en que éste proceda.",
+            "C": "Su decisión respecto de la donación de sus órganos o de alguno de ellos en concreto, en el supuesto que se produzca el fallecimiento, de acuerdo con lo establecido en la legislación general en la materia.",
+            "D": "Las tres respuestas anteriores son correctas."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 12,
+            "tema": "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+        },
+        "explicacion": {
+            "correcta": "La Ley 5/2003 de Andalucía permite que la declaración de voluntad vital anticipada incluya la expresión de opciones e instrucciones para el personal sanitario, la designación de un representante para el consentimiento informado y la decisión sobre donación de órganos.  Por lo tanto, todas las opciones son correctas.",
+            "incorrectas": {
+                "A": "Esta es solo una parte del contenido posible de la declaración.",
+                "B": "Esta es solo una parte del contenido posible de la declaración.",
+                "C": "Esta es solo una parte del contenido posible de la declaración."
+            }
+        }
+    },
+    {
+        "id_examen": 15,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Un estudio cuyo objetivo fue evaluar la eficacia de una nueva medida de autocontrol de la glucemia en pacientes diabéticos tipo 2, que se diseñó comparando la nueva estrategia con la convencional en dos grupos de pacientes, conformados cada uno por la pertenencia a un determinado centro de salud del mismo distrito sanitario (esto es, los pacientes del grupo de intervención eran de un centro de salud y los del grupo control eran de otro centro de salud), debe considerarse:",
+        "opciones": {
+            "A": "Un ensayo clínico con aleatorización por conglomerados.",
+            "B": "Un estudio cuasiexperimental con dos grupos concurrentes.",
+            "C": "Un estudio de vida real con cohortes prefijadas.",
+            "D": "Un ensayo clínico cruzado."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 27,
+            "tema": "El método epidemiológico. Epidemiología descriptiva: tipos de estudios, tasas e indicadores. Epidemiología analítica: tipos de estudios."
+        },
+        "explicacion": {
+            "correcta": "El estudio descrito es un estudio cuasiexperimental con dos grupos concurrentes.  Se comparan dos grupos, uno de intervención y otro control, pero la asignación de los participantes a los grupos no es aleatoria, sino que se basa en la pertenencia a un centro de salud específico.  Esto introduce un sesgo, que lo diferencia de un ensayo clínico aleatorizado.",
+            "incorrectas": {
+                "A": "La aleatorización por conglomerados implica agrupar a los participantes antes de la aleatorización, pero en este caso no hay aleatorización.",
+                "C": "Un estudio de vida real observa datos existentes sin intervención, mientras que este estudio implica una intervención (nueva estrategia de autocontrol).",
+                "D": "Un ensayo clínico cruzado implica que los participantes pasan por ambos tratamientos, mientras que en este estudio los participantes permanecen en un solo grupo."
+            }
+        }
+    },
+    {
+        "id_examen": 16,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En la parada cardiaca (PC) del niño, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "La PC más común en Pediatría es la de origen respiratorio.",
+            "B": "Las PC súbitas o de origen cardiaco y con ritmos desfibrilables son las más frecuentes.",
+            "C": "Las causas de fallo circulatorio son hipovolemia o problema distributivo.",
+            "D": "Las causas de depresión grave del SNC/coma son: convulsiones prolongadas, aumento de presión intracraneal, intoxicaciones, trauma craneoencefálico."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 41,
+            "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+        },
+        "explicacion": {
+            "correcta": "La afirmación B es falsa. Si bien las paradas cardiacas de origen respiratorio son comunes en pediatría, las paradas súbitas de origen cardíaco con ritmos desfibrilables no son las más frecuentes en este grupo de edad.  Las paradas respiratorias son mucho más prevalentes como causa inicial de parada cardiorrespiratoria en niños.  Las causas cardiacas, aunque pueden ser catastróficas, no representan la mayoría de los casos iniciales. ",
+            "incorrectas": {
+                "A": "Verdadero. La mayoría de las paradas cardíacas en niños se originan por problemas respiratorios que conducen a hipoxia e insuficiencia circulatoria.",
+                "C": "Verdadero. La hipovolemia (pérdida de volumen sanguíneo) y los problemas distributivos (como el shock séptico) son causas frecuentes de fallo circulatorio que pueden llevar a la parada cardiaca.",
+                "D": "Verdadero. Estas son causas comunes de depresión grave del sistema nervioso central (SNC) y coma, lo que puede causar parada cardiorrespiratoria."
+            }
+        }
+    },
+    {
+        "id_examen": 17,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Respecto a las causas reversibles de parada cardiorrespiratoria, una de las siguientes afirmaciones es FALSA:",
+        "opciones": {
+            "A": "En paciente con recuperación de circulación espontánea (RCE) y SCASEST, valorar coronariografía urgente si se sospecha que persiste la isquemia o inestabilidad hemodinámica.",
+            "B": "En caso de intoxicación, posponer el uso de antídotos mientras se realiza soporte vital avanzado, para aumentar su efectividad.",
+            "C": "En caso de hipotermia accidental, la frecuencia de las compresiones torácicas y ventilaciones no debe ser diferente a la RCP en pacientes normotérmicos.",
+            "D": "Administre tratamiento trombolítico en situación de parada cardiaca cuando se sospeche tromboembolismo pulmonar (TEP) como causa del paro cardiaco."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 41,
+            "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+        },
+        "explicacion": {
+            "correcta": "La afirmación B es falsa.  Retrasar el uso de antídotos en una intoxicación mientras se realiza soporte vital avanzado es incorrecto y puede ser perjudicial.  El tratamiento de la intoxicación es una parte crucial del manejo de la parada cardiorrespiratoria y debe iniciarse lo antes posible, según el protocolo y la sustancia involucrada. Los antídotos deben administrarse de forma rápida y eficaz.",
+            "incorrectas": {
+                "A": "Verdadero.  Si se sospecha isquemia persistente o inestabilidad hemodinámica tras una RCE, una coronariografía urgente es esencial.",
+                "C": "Verdadero. La frecuencia de las compresiones torácicas y las ventilaciones en la RCP debe mantenerse constante, independientemente de la temperatura corporal del paciente, aunque se deben considerar otros ajustes en el manejo de la hipotermia.",
+                "D": "Verdadero. En caso de sospecha de TEP como causa de la parada cardiaca, la trombolisis es una opción terapéutica a considerar."
+            }
+        }
+    },
+    {
+        "id_examen": 18,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Señale la respuesta INCORRECTA en relación a la escala del coma de Glasgow:",
+        "opciones": {
+            "A": "Es una herramienta muy útil en los casos de traumatismo craneoencefálico en los que no sea posible contar con la colaboración del paciente.",
+            "B": "Una apertura ocular espontánea corresponderá a una puntuación de 4.",
+            "C": "Valora tres grandes aspectos de la exploración neurológica, que son: respuesta ocular, respuesta verbal y respuesta motora.",
+            "D": "La puntuación máxima es de 15 y la mínima de 0."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 86,
+            "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La afirmación D es incorrecta. La puntuación mínima en la escala de coma de Glasgow (ECG) es 3, no 0.  Una puntuación de 3 indica ausencia de respuesta en los tres parámetros evaluados (apertura ocular, respuesta verbal y respuesta motora).",
+            "incorrectas": {
+                "A": "Verdadero. La escala de coma de Glasgow es una herramienta muy útil en la valoración inicial del paciente con traumatismo craneoencefálico.",
+                "B": "Verdadero. La apertura ocular espontánea se puntúa con 4 puntos.",
+                "C": "Verdadero. La escala de coma de Glasgow evalúa la respuesta ocular, la respuesta verbal y la respuesta motora."
+            }
+        }
+    },
+    {
+        "id_examen": 19,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el traumatismo craneoencefálico se deben tener en cuenta una serie de consideraciones especiales, EXCEPTO:",
+        "opciones": {
+            "A": "En todo paciente con puntuación en la Escala de Coma de Glasgow (GCS) < 9 se debe aislar la vía aérea mediante intubación endotraqueal como método de elección.",
+            "B": "Optimizar al máximo la oxigenación-ventilación: la hipoxia y la hipercapnia producen vasodilatación cerebral, con el consiguiente edema cerebral y aumento de la presión intracraneal (PIC).",
+            "C": "En el control de la hemorragia se deben evitar los sueros hipotónicos (producen edema cerebral) y glucosados (aumentan el daño cerebral por aumento del metabolismo anaerobio), pudiendo usarse soluciones hipertónicas (disminuyen el edema cerebral al aumentar la osmolaridad plasmática).",
+            "D": "Se requerirá una PAS más baja, en torno a 70-80 mmHg, para mantener una adecuada perfusión cerebral."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 86,
+            "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La afirmación D es incorrecta.  Mantener una presión arterial sistólica (PAS) de 70-80 mmHg no es el objetivo en el manejo del traumatismo craneoencefálico.  El objetivo es mantener una perfusión cerebral adecuada, lo que suele requerir una PAS más alta para asegurar un adecuado flujo sanguíneo cerebral. La presión de perfusión cerebral (PPC) es lo que se intenta optimizar (PAS - PIC). Una PAS excesivamente baja podría empeorar la hipoperfusión cerebral. ",
+            "incorrectas": {
+                "A": "Verdadero. Una puntuación de GCS <9 indica la necesidad de intubación endotraqueal para asegurar la vía aérea.",
+                "B": "Verdadero. La hipoxia y la hipercapnia aumentan la presión intracraneal y deben evitarse.",
+                "C": "Verdadero. Evitar los sueros hipotónicos y glucosados es crucial en el manejo del traumatismo craneoencefálico."
+            }
+        }
+    },
+    {
+        "id_examen": 20,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Sobre la cardioversión eléctrica es cierto que:",
+        "opciones": {
+            "A": "No se debe realizar en la fibrilación auricular de menos de 48 horas, bien tolerada.",
+            "B": "Se utiliza la misma energía para la fibrilación auricular y flutter auricular.",
+            "C": "La energía necesaria para el tratamiento de una taquicardia supraventricular paroxística mal tolerada es de 70 a 120 Julios en dispositivos bifásicos.",
+            "D": "La energía necesaria para el tratamiento de taquicardia ventricular mal tolerada es de 70 Julios en dispositivos bifásicos."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 104,
+            "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+        },
+        "explicacion": {
+            "correcta": "La afirmación C es correcta. La energía necesaria para la cardioversión de una taquicardia supraventricular paroxística mal tolerada es de 70 a 120 Julios en dispositivos bifásicos. Las otras opciones son incorrectas debido a  variaciones en el protocolo dependiendo del tipo de arritmia y de las características del paciente.",
+            "incorrectas": {
+                "A": "Falso. En la fibrilación auricular de menos de 48 horas, bien tolerada, se puede considerar la cardioversión farmacológica antes que la eléctrica.",
+                "B": "Falso. Se utilizan diferentes niveles de energía según la arritmia a tratar (fibrilación auricular vs. flutter auricular).",
+                "D": "Falso. La energía para el tratamiento de una taquicardia ventricular mal tolerada es generalmente mayor, y varía según el dispositivo utilizado.  Se requieren generalmente más de 100 julios en dispositivos bifásicos"
+            }
+        }
+    },
+    {
+        "id_examen": 21,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "La vía intraósea está indicada en todas aquellas situaciones en las que se requiera tratamiento urgente y no sea posible el acceso intravenoso (i.v.) de forma precoz, EXCEPTO:",
+        "opciones": {
+            "A": "Gran quemado.",
+            "B": "Estatus epiléptico.",
+            "C": "Reanimación cardiopulmonar.",
+            "D": "Fractura en el hueso elegido para la inserción."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 103,
+            "tema": "Técnicas diagnósticoterapéuticas en medicina de urgencias: Cateterización vías venosas centrales por accesos yugular, su bclavia, femoral y periférico. Vía intraósea."
+        },
+        "explicacion": {
+            "correcta": "La vía intraósea está contraindicada en fracturas del hueso elegido para la inserción, ya que la inserción sería imposible o extremadamente dificultosa y dolorosa.  Se buscaría un lugar alternativo.",
+            "incorrectas": {
+                "A": "En quemados graves, el acceso IV puede ser difícil debido a la destrucción vascular, por lo que la vía intraósea es una alternativa válida.",
+                "B": "En estatus epiléptico, la administración rápida de fármacos es crucial, y la vía intraósea permite un acceso rápido cuando la vía IV no es posible.",
+                "C": "Durante la RCP, la vía intraósea es una opción valiosa cuando no se puede obtener acceso IV rápidamente."
+            }
+        }
+    },
+    {
+        "id_examen": 22,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el uso del protocolo FAST, NO es cierto:",
+        "opciones": {
+            "A": "Buscamos líquido libre en el espacio hepatorrenal.",
+            "B": "Buscamos líquido libre en el espacio esplenorrenal.",
+            "C": "Buscamos derrame pericárdico.",
+            "D": "Buscamos posible lesión intestinal."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 106,
+            "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+        },
+        "explicacion": {
+            "correcta": "El protocolo FAST se centra en la detección de líquido libre en las cavidades abdominales (peritoneo) y pericárdica, para evaluar posibles hemorragias. No está diseñado para detectar lesiones intestinales, que requieren otras técnicas de imagen.",
+            "incorrectas": {
+                "A": "El espacio hepatorrenal es una de las ventanas acústicas utilizadas en el FAST para detectar líquido libre en el abdomen.",
+                "B": "El espacio esplenorrenal es otra ventana acústica utilizada en el FAST para detectar líquido libre en el abdomen.",
+                "C": "La presencia de líquido pericárdico se puede detectar mediante el protocolo FAST."
+            }
+        }
+    },
+    {
+        "id_examen": 23,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Respecto al manejo de la vía aérea difícil, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+        "opciones": {
+            "A": "El traumatismo o quemadura facial es un indicador predictor de vía aérea difícil.",
+            "B": "La indicación de cricotiroidotomía la estableceremos tras segundo intento de intubación orotraqueal fallido y desaturación < 90% durante la ventilación.",
+            "C": "Tras ventilación con mascarilla facial y tercer intento de intubación orotraqueal (IOT), colocar dispositivo supraglótico.",
+            "D": "La videolaringoscopia directa es un procedimiento útil en el manejo de la vía aérea."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 43,
+            "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."
+        },
+        "explicacion": {
+            "correcta": "La cricotiroidotomía es un procedimiento de urgencia que se realiza generalmente tras múltiples intentos fallidos de intubación y severa hipoxemia.  El protocolo no establece un número exacto de intentos fallidos, sino que se basa en la clínica del paciente, incluyendo la desaturación significativa. Se prioriza la oxigenación adecuada.",
+            "incorrectas": {
+                "A": "Los pacientes con traumatismo o quemaduras faciales tienen mayor riesgo de vía aérea difícil.",
+                "C": "Si la ventilación con mascarilla facial y varios intentos de IOT fallan, la colocación de un dispositivo supraglótico es una estrategia apropiada para asegurar la vía aérea.",
+                "D": "La videolaringoscopia directa ayuda a visualizar la laringe y facilita la intubación en vías aéreas difíciles."
+            }
+        }
+    },
+    {
+        "id_examen": 24,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En la exploración de un paciente adulto con dolor abdominal, ¿cuál de las siguientes afirmaciones es FALSA?",
+        "opciones": {
+            "A": "El signo de Courvoisier-Terrier consiste en la detección en el hipocondrio derecho de una vesícula biliar palpable, y sugiere la existencia de una neoplasia de vías biliares o de la cabeza del páncreas.",
+            "B": "El signo de Rovsing consiste en la presencia de dolor en el lado izquierdo cuando se realiza presión sobre el punto de Mac Burney (fosa ilíaca derecha).",
+            "C": "El signo del psoas consiste en la presencia de dolor en la palpación de la fosa ilíaca cuando se levanta en extensión la extremidad inferior homolateral, y es muy útil en el diagnóstico de la apendicitis aguda.",
+            "D": "El signo del obturador consiste en la presencia de dolor cuando se coloca el muslo del paciente en ángulo recto y se le hace rotar interna y externamente, siendo característico de la apendicitis aguda en situación pélvica."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 60,
+            "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+        },
+        "explicacion": {
+            "correcta": "El signo de Rovsing describe dolor en la fosa ilíaca derecha al comprimir la fosa ilíaca izquierda.  La descripción en la opción B invierte la localización del dolor.",
+            "incorrectas": {
+                "A": "El signo de Courvoisier-Terrier es un hallazgo clínico consistente con obstrucción biliar.",
+                "C": "El signo del psoas es consistente con irritación del músculo psoas, a menudo asociado con apendicitis.",
+                "D": "El signo del obturador indica irritación del músculo obturador interno, asociado con apendicitis pélvica."
+            }
+        }
+    },
+    {
+        "id_examen": 25,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Referido a la patología anal, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+        "opciones": {
+            "A": "Las hemorroides grado 3 prolapsan por el orificio anal con la defecación y requieren reducción manual.",
+            "B": "El absceso submucoso o interesfinteriano debe sospecharse cuando exista proctalgia y fiebre con inspección anal normal.",
+            "C": "Una fisura de localización atípica, evolución abigarrada o indolora, nos debe hacer descartar otros procesos como enfermedad inflamatoria intestinal (EII), VIH, sífilis, etc.",
+            "D": "La fisura anal en fase aguda es indicación de tratamiento quirúrgico urgente."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 60,
+            "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+        },
+        "explicacion": {
+            "correcta": "El tratamiento de la fisura anal aguda es generalmente conservador, con medidas como baños de asiento, cremas tópicas y laxantes. La cirugía se reserva para casos que no responden al tratamiento conservador o presentan complicaciones.",
+            "incorrectas": {
+                "A": "Las hemorroides de grado 3 requieren reducción manual para evitar complicaciones.",
+                "B": "Los abscesos submucosos o interesfinterianos pueden tener una presentación clínica insidiosa.",
+                "C": "Las fisura anales atípicas o inusuales deben llevar a la investigación de otras patologías subyacentes."
+            }
+        }
+    },
+    {
+        "id_examen": 26,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En la valoración pronóstica de la Hemorragia Digestiva Alta (HDA) medida por la escala de Glasgow-Blatchford, ¿qué parámetro NO está incluido?",
+        "opciones": {
+            "A": "Urea.",
+            "B": "Hematemesis.",
+            "C": "Hemoglobina.",
+            "D": "Insuficiencia cardiaca."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 61,
+            "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "La escala de Glasgow-Blatchford para la valoración pronóstica de la Hemorragia Digestiva Alta (HDA) incluye parámetros como la urea, la hemoglobina, y la presencia de insuficiencia cardíaca.  Sin embargo, la hematemesis, aunque un signo importante de HDA, no se puntúa directamente en la escala.  La escala se basa en parámetros cuantificables y objetivos para una mejor estratificación del riesgo.",
+            "incorrectas": {
+                "A": "La urea es un parámetro incluido en la escala de Glasgow-Blatchford, reflejando la función renal y el estado de hidratación, que son importantes en el pronóstico de una HDA.",
+                "C": "La hemoglobina es un parámetro clave en la escala, indicando la gravedad de la pérdida sanguínea y la necesidad de transfusión.",
+                "D": "La insuficiencia cardíaca es un factor de riesgo y se considera en la escala porque puede complicar la HDA y empeorar el pronóstico."
+            }
+        }
+    },
+    {
+        "id_examen": 27,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Con respecto a la etiología de la diarrea aguda en la edad pediátrica, ¿qué respuesta considera que es FALSA?",
+        "opciones": {
+            "A": "En nuestro medio, la etiología vírica es la más frecuente, sobre todo en niños menores de 2 años de edad.",
+            "B": "El Rotavirus es el principal responsable de diarrea grave en la infancia.",
+            "C": "La E. coli es el agente bacteriano encontrado con mayor frecuencia en la GEA esporádica infantil en nuestro medio.",
+            "D": "En lactantes puede aparecer diarrea aguda en relación con procesos infecciosos extraintestinales, como otitis o infecciones de orina."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 65,
+            "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "En la edad pediátrica, *Escherichia coli* (E. coli) es una causa común de diarrea, pero no es el agente bacteriano MÁS frecuente en la gastroenteritis aguda esporádica infantil.  Otras bacterias como *Salmonella*, *Campylobacter* y *Shigella* también son importantes, y su prevalencia puede variar según la región y las condiciones sanitarias.",
+            "incorrectas": {
+                "A": "Las infecciones víricas son, efectivamente, la causa más frecuente de diarrea aguda en niños menores de 2 años.",
+                "B": "El Rotavirus es un virus que causa diarrea severa en niños, especialmente en los más pequeños.",
+                "D": "Las infecciones extraintestinales, como las otitis o infecciones urinarias, pueden causar diarrea en lactantes debido a la respuesta inflamatoria sistémica."
+            }
+        }
+    },
+    {
+        "id_examen": 28,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En una paciente de 67 años de edad que vamos a ingresar por una pancreatitis aguda, ¿qué situación NO se considera factor de mal pronóstico?",
+        "opciones": {
+            "A": "La edad de la paciente.",
+            "B": "Disminución del nivel de consciencia.",
+            "C": "Presencia de íleo paralítico.",
+            "D": "La presencia en el hemograma de 16.000 leucocitos/mcl."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 63,
+            "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "El íleo paralítico, aunque una complicación que puede afectar la evolución de una pancreatitis aguda, no se considera, por sí solo, un factor de mal pronóstico.  Otros factores como la edad avanzada, la disminución del nivel de consciencia y un recuento leucocítico elevado sí lo son.",
+            "incorrectas": {
+                "A": "La edad avanzada es un factor de mal pronóstico en la pancreatitis aguda, debido a la mayor comorbilidad y menor reserva funcional.",
+                "B": "La disminución del nivel de consciencia indica una posible sepsis o fallo multiorgánico, lo que empeora considerablemente el pronóstico.",
+                "D": "Un recuento leucocítico de 16.000 leucocitos/mcl sugiere una respuesta inflamatoria significativa, y se asocia con un peor pronóstico."
+            }
+        }
+    },
+    {
+        "id_examen": 29,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En relación a la Insuficiencia Hepática Aguda Grave (IHAG) o Fallo Hepático Fulminante, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "Es una disfunción hepática aguda que aparece sobre un hígado sano, secundario a una necrosis masiva o submasiva de los hepatocitos, y causa una mortalidad elevada.",
+            "B": "Entre las causas más frecuentes se encuentran las hepatitis víricas, fármacos, tóxicos o infiltración tumoral.",
+            "C": "El tratamiento principal es el mantenimiento de las funciones vitales con control estrecho de constantes, tratamiento y prevención de las complicaciones. Pero lo que realmente consigue aumentar la supervivencia es el trasplante hepático.",
+            "D": "La encefalopatía hepática y el edema cerebral no son complicaciones de la IHAG."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 62,
+            "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La encefalopatía hepática y el edema cerebral son complicaciones graves y potencialmente letales de la Insuficiencia Hepática Aguda Grave (IHAG).  La encefalopatía hepática se produce por la acumulación de sustancias tóxicas en el cerebro, y el edema cerebral es un riesgo añadido que puede llevar al coma y a la muerte.",
+            "incorrectas": {
+                "A": "La IHAG es una condición grave caracterizada por la necrosis masiva de hepatocitos, llevando a una disfunción hepática aguda y una alta mortalidad.",
+                "B": "Las causas de IHAG son variadas, incluyendo hepatitis víricas, fármacos, tóxicos, y neoplasias hepáticas.",
+                "C": "El trasplante hepático es, efectivamente, el tratamiento que incrementa de forma significativa las posibilidades de supervivencia en los casos graves de IHAG."
+            }
+        }
+    },
+    {
+        "id_examen": 30,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el diagnóstico y tratamiento de la encefalopatía hepática, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": {
+            "A": "Las determinaciones seriadas de amonio se recomiendan por su correlación con la evolución, el pronóstico y el grado de encefalopatía hepática aguda.",
+            "B": "Se deben evitar los sedantes, y valorar el uso de contenciones mecánicas si existe agitación.",
+            "C": "La rifaximina en dosis de 400 mg/8 horas es de utilidad para la profilaxis secundaria de nuevos episodios de encefalopatía hepática.",
+            "D": "Las respuestas B) y C) son correctas."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 62,
+            "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "Tanto evitar los sedantes como usar la rifaximina son medidas importantes en el manejo de la encefalopatía hepática.  Los sedantes empeoran la encefalopatía, mientras que la rifaximina, un antibiótico, modifica la flora intestinal y reduce la producción de toxinas. La determinación seriada de amonio es útil, pero no es la única herramienta para evaluar la evolución y el pronóstico, también se utilizan criterios clínicos y pruebas complementarias.",
+            "incorrectas": {
+                "A": "Si bien la concentración de amonio puede estar elevada en la encefalopatía hepática, su determinación no correlaciona perfectamente con la gravedad, evolución y pronóstico.",
+                "B": "Evitar los sedantes es fundamental, pero las contenciones mecánicas son una medida excepcional y deben ser usadas sólo en casos justificados y con precaución.",
+                "C": "La rifaximina se utiliza en la profilaxis secundaria, es decir, para evitar la recurrencia de la encefalopatía, no en la profilaxis primaria."
+            }
+        }
+    },
+    {
+        "id_examen": 31,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el paciente con edema agudo de pulmón, ¿cuál de las siguientes afirmaciones es cierta?",
+        "opciones": {
+            "A": "La morfina de 2 a 5 mg i.v. puede aliviar la congestión y la ansiedad, pero está asociada con episodios adversos como la necesidad de ventilación mecánica, hospitalización prolongada, ingreso en la UCI y mortalidad.",
+            "B": "El edema pulmonar no puede ocurrir cuando la presión sistólica sanguínea está por debajo de 150 mmHg.",
+            "C": "El shock cardiogénico se caracteriza por evidencia de hipoperfusión tisular y la presión arterial sistólica suele ser > de 90 mm Hg.",
+            "D": "Considerar la posibilidad de ventilación no invasiva con presión positiva continua en las vías respiratorias (CPAP), nunca dos niveles de presión positiva (bilevel) en las vías respiratorias (BiPAP)."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 49,
+            "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+        },
+        "explicacion": {
+            "correcta": "La opción A es correcta porque la morfina puede aliviar la disnea y la ansiedad en el edema agudo de pulmón, pero su uso se ha asociado con efectos adversos como la depresión respiratoria, que puede requerir ventilación mecánica, prolongar la hospitalización, aumentar el riesgo de ingreso en UCI e incluso incrementar la mortalidad.  Por lo tanto, su uso debe ser cauteloso y bajo estricta vigilancia.",
+            "incorrectas": {
+                "B": "Falso. El edema pulmonar puede ocurrir a cualquier presión arterial, incluso por debajo de 150 mmHg. La presión arterial sistólica no es un factor excluyente para el desarrollo de edema pulmonar.",
+                "C": "Falso. El shock cardiogénico se caracteriza por hipoperfusión tisular con presión arterial sistólica generalmente *menor* de 90 mmHg, no mayor.",
+                "D": "Falso.  Aunque la CPAP es una opción viable, el BiPAP también puede ser beneficioso en pacientes seleccionados con edema agudo de pulmón, dependiendo de su estado clínico y respuesta a la terapia. La decisión entre CPAP y BiPAP se basa en la evaluación individualizada del paciente."
+            }
+        }
+    },
+    {
+        "id_examen": 32,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Las cardiopatías congénitas en el primer año de vida pueden ocasionar todos los siguientes síntomas o signos, SALVO uno:",
+        "opciones": {
+            "A": "Cianosis.",
+            "B": "Obesidad.",
+            "C": "Insuficiencia respiratoria.",
+            "D": "Taquicardia."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 80,
+            "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis. bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+        },
+        "explicacion": {
+            "correcta": "La opción B es correcta. La obesidad no es una consecuencia directa de las cardiopatías congénitas en el primer año de vida. Si bien las cardiopatías congénitas pueden causar cianosis, insuficiencia respiratoria y taquicardia debido a la alteración del flujo sanguíneo y la oxigenación, la obesidad es un problema de salud distinto y no se relaciona directamente con estas patologías cardíacas congénitas en esta etapa de la vida.",
+            "incorrectas": {
+                "A": "Falso. La cianosis es un síntoma común en algunas cardiopatías congénitas debido a la mezcla de sangre oxigenada y desoxigenada.",
+                "C": "Falso. La insuficiencia respiratoria es un síntoma común en las cardiopatías congénitas, ya que pueden afectar la capacidad del corazón para bombear sangre oxigenada a los pulmones y al resto del cuerpo.",
+                "D": "Falso. La taquicardia es una respuesta compensatoria común del corazón a las cardiopatías congénitas para mantener el gasto cardíaco."
+            }
+        }
+    },
+    {
+        "id_examen": 33,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "La escala de GRACE nos da el riesgo isquémico en el SCASEST. ¿Cuál de los siguientes NO es un criterio de dicha escala?",
+        "opciones": {
+            "A": "Frecuencia cardíaca.",
+            "B": "Tensión arterial sistólica.",
+            "C": "Saturación O2.",
+            "D": "Edad."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 46,
+            "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La opción C es correcta. La saturación de oxígeno (SpO2) no es un criterio de la escala GRACE para la estratificación del riesgo isquémico en el síndrome coronario agudo sin elevación del segmento ST (SCASEST). La escala GRACE utiliza otros parámetros como la edad, la presión arterial sistólica, la frecuencia cardíaca y la presencia de elevación del segmento ST en el electrocardiograma.",
+            "incorrectas": {
+                "A": "Falso. La frecuencia cardíaca es un criterio de la escala GRACE.",
+                "B": "Falso. La tensión arterial sistólica es un criterio de la escala GRACE.",
+                "D": "Falso. La edad es un criterio de la escala GRACE."
+            }
+        }
+    },
+    {
+        "id_examen": 34,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": " Cual de los siguientes electrocardiogramas, en pacientes con dolor torácico de características isquémicas, NO precisaría activar el código infarto \"Código Infarto Andalucía (CODINFA); Consejería de Salud. Servicio Andaluz de Salud (2018)\"?",
+        "opciones": {
+            "A": "Elevación del segmento ST en el punto J en al menos dos derivaciones contiguas, ≥2 mm en hombres > 40 años o ≥1,5 mm en mujeres en V2-V3. Elevación del segmento ST en el punto J en al menos dos derivaciones contiguas ≥1 mm en el resto de derivaciones.",
+            "B": "Descenso del ST-T ≥ 0,5 mm en precordiales (V1-V3) con elevación ≥ 0.5 mm en derivaciones posteriores (V7-V9).",
+            "C": "Elevación en guirnalda del ST-T de V2 a V6, I, AVL, II, III y AVF, con descenso del PR en II.",
+            "D": "Bloqueo completo de rama izquierda no conocido."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 46,
+            "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La opción C es correcta. La elevación en guirnalda del ST-T, aunque sugestiva de isquemia, no se corresponde con los criterios del Código Infarto de Andalucía para la activación inmediata.  Los criterios de activación se centran en elevaciones o depresiones específicas del segmento ST en derivaciones contiguas,  definidas en el protocolo CODINFA para asegurar la eficiencia del sistema de atención al infarto agudo de miocardio.",
+            "incorrectas": {
+                "A": "Falso. Esta descripción cumple con los criterios de elevación del ST del Código Infarto de Andalucía, requiriendo la activación del código.",
+                "B": "Falso.  Este patrón electrocardiográfico también es indicativo de isquemia y justificaría la activación del código infarto según los criterios del CODINFA.",
+                "D": "Falso. Un bloqueo completo de rama izquierda no conocido es una situación de alto riesgo que justifica la activación del código infarto y una evaluación rápida para descartar un infarto."
+            }
+        }
+    },
+    {
+        "id_examen": 35,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el proceso de reperfusión con fibrinolítico en el SCACEST, es cierto que:",
+        "opciones": {
+            "A": "La fibrinolisis está indicada si el tiempo puerta-balón es superior a 120 minutos (90 minutos si es trasladado desde otro hospital).",
+            "B": "En pacientes mayores de 75 años no se debe administrar enoxaparina intravenosa y la dosis inicial de clopidogrel es de 75 mg.",
+            "C": "Está indicada en pacientes con historia de hemorragia cerebral en los últimos 3 meses.",
+            "D": "Las respuestas A) y B) son ciertas."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 46,
+            "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La opción D es correcta.  Ambas afirmaciones son ciertas. La fibrinolisis está contraindicada si el tiempo puerta-balón es superior a los límites establecidos, y en pacientes mayores de 75 años hay recomendaciones específicas para la administración de heparina de bajo peso molecular y clopidogrel. La opción A es incorrecta porque define mal los tiempos puerta-balón. Las opciones B y C describen contraindicaciones para la fibrinolisis.",
+            "incorrectas": {
+                "A": "Falso. El tiempo puerta-balón ideal para la fibrinolisis es inferior a los tiempos especificados.  Superar estos tiempos aumenta significativamente el riesgo de fracaso de la reperfusión y empeora el pronóstico.",
+                "B": "Falso. La estrategia de tratamiento en mayores de 75 años suele ser individualizada, pero no excluye la enoxaparina ni justifica esa dosis inicial de clopidogrel.",
+                "C": "Falso.  Una historia de hemorragia cerebral reciente es una contraindicación absoluta para la administración de fibrinolíticos."
+            }
+        }
+    },
+    {
+        "id_examen": 36,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Un paciente de 67 años, con antecedentes de un infarto de miocardio 2 años antes, acude por síncope al servicio de urgencias, y en el ECG se objetiva una taquicardia regular de complejo QRS de 200 ms, latidos de captura y latidos de fusión. El diagnóstico más probable es:",
+        "opciones": {
+            "A": "Fibrilación auricular en el síndrome de Wolf-Parkinson-White.",
+            "B": "Flutter con aberrancia de conducción.",
+            "C": "Taquicardia ventricular monomorfa sostenida.",
+            "D": "Fibrilación ventricular."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 47,
+            "tema": "Arritmias cardiacas. Taquiarritmias auriculares: Extrasistolia. Taquicardia paroxística supraventricular, Flutter. Fibrilación auricular. Taquiarritmias ventriculares: Extrasistolia. Taquicardia Ventricular. Fibrilación ventricular. Bradiarritmias."
+        },
+        "explicacion": {
+            "correcta": "La descripción del ECG (taquicardia regular con QRS ancho > 200 ms, latidos de captura y fusión) es altamente sugestiva de una taquicardia ventricular monomorfa sostenida.  Los latidos de captura y fusión son evidencia de que el ritmo ventricular está compitiendo con el ritmo supraventricular.  Las otras opciones son menos probables dada la morfología del QRS.",
+            "incorrectas": {
+                "A": "La fibrilación auricular con síndrome de WPW puede presentar un QRS ancho, pero típicamente es irregular, no regular como se describe.",
+                "B": "El flutter auricular con aberrancia de conducción puede producir un QRS ancho, pero también suele ser regular pero no muestra latidos de captura y fusión de manera habitual.",
+                "C": "Esta es la opción correcta.",
+                "D": "La fibrilación ventricular se caracteriza por la ausencia de ondas P y complejos QRS identificables, un ritmo irregular y completamente caótico, lo que no coincide con la descripción."
+            }
+        }
+    },
+    {
+        "id_examen": 37,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante una paciente anticoagulada con dabigatrán 110 mg/12 h, que sufre caída por escaleras con traumatismo y diagnóstico en TAC de hematoma subdural, ¿cuál de las siguientes considera que es la actuación más adecuada?",
+        "opciones": {
+            "A": "Administrar carbón activado, si hace menos de 6 horas de la ingesta del anticoagulante oral.",
+            "B": "Control de coagulación y administrar idarucizumab como antídoto comercializado específico para dabigatrán disponible en el hospital.",
+            "C": "Administrar concentrado de complejo protrombínico (CCP) en dosis de 25-50 UI/kg, ya que la paciente tiene tratamiento anticoagulante con dabigatrán.",
+            "D": "Administrar vitamina K y plasma para reversión de la anticoagulación."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 74,
+            "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+        },
+        "explicacion": {
+            "correcta": "En un paciente anticoagulado con dabigatrán que presenta un hematoma subdural tras un traumatismo, la administración de idarucizumab es la opción más adecuada. Es un antídoto específico para la reversión del efecto anticoagulante del dabigatrán, permitiendo una intervención quirúrgica más segura si es necesaria. ",
+            "incorrectas": {
+                "A": "El carbón activado no es efectivo para la reversión del efecto anticoagulante del dabigatrán.",
+                "B": "Esta es la opción correcta.",
+                "C": "El concentrado de complejo protrombínico (CCP) se puede usar en ciertas situaciones de hemorragia por anticoagulantes orales, pero no es el antídoto específico para dabigatrán y su eficacia es menos predecible.",
+                "D": "La vitamina K y el plasma fresco congelado son útiles en la reversión de la anticoagulación por warfarina, pero no en el caso del dabigatrán."
+            }
+        }
+    },
+    {
+        "id_examen": 38,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de las siguientes manifestaciones electrocardiográficas NO es característica del síndrome del seno enfermo o disfunción del nodo sinusal (DNS)?",
+        "opciones": {
+            "A": "Síndrome de bradicardia-taquicardia.",
+            "B": "Bloqueo sinoauricular.",
+            "C": "Incompetencia cronotrópica.",
+            "D": "Bloqueo auriculoventricular Mobitz tipo I."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 47,
+            "tema": "Arritmias cardiacas. Taquiarritmias auriculares: Extrasistolia. Taquicardia paroxística supraventricular, Flutter. Fibrilación auricular. Taquiarritmias ventriculares: Extrasistolia. Taquicardia Ventricular. Fibrilación ventricular. Bradiarritmias."
+        },
+        "explicacion": {
+            "correcta": "El bloqueo auriculoventricular Mobitz tipo I (Wenckebach) se caracteriza por un alargamiento progresivo del intervalo PR hasta que se produce un bloqueo de la conducción. Aunque puede coexistir con otras alteraciones de la conducción, no es una manifestación *característica* del síndrome del seno enfermo, que implica alteraciones en la generación del impulso sinusal. Las otras opciones son manifestaciones comunes de la disfunción del nodo sinusal.",
+            "incorrectas": {
+                "A": "El síndrome bradicardia-taquicardia es una característica clave del síndrome del seno enfermo, con alternancia entre periodos de bradicardia y taquicardia.",
+                "B": "El bloqueo sinoauricular es la interrupción de la conducción del impulso desde el nodo sinusal, un componente fundamental del síndrome del seno enfermo.",
+                "C": "La incompetencia cronotrópica, la incapacidad del nodo sinusal para aumentar la frecuencia cardiaca en respuesta a la demanda fisiológica, es una manifestación cardinal del síndrome del seno enfermo.",
+                "D": "Esta es la opción correcta."
+            }
+        }
+    },
+    {
+        "id_examen": 39,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Señale la respuesta FALSA sobre las arritmias cardiacas:",
+        "opciones": {
+            "A": "La fibrilación auricular es la arritmia sostenida más frecuente, y la más prevalente en los servicios de urgencias.",
+            "B": "La torsades de pointes es una taquicardia ventricular polimorfa helicoidal, y el sulfato de magnesio está indicado en su tratamiento.",
+            "C": "Los nuevos anticoagulantes orales (NACO) son el tratamiento de primera elección de la fibrilación auricular de origen valvular.",
+            "D": "La bradicardia sinusal puede aparecer en pacientes sanos deportistas y delgados, y no precisa tratamiento si es asintomática."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 47,
+            "tema": "Arritmias cardiacas. Taquiarritmias auriculares: Extrasistolia. Taquicardia paroxística supraventricular, Flutter. Fibrilación auricular. Taquiarritmias ventriculares: Extrasistolia. Taquicardia Ventricular. Fibrilación ventricular. Bradiarritmias."
+        },
+        "explicacion": {
+            "correcta": "Los nuevos anticoagulantes orales (NACO) no son el tratamiento de primera elección en la fibrilación auricular de origen valvular.  En estos casos, se prefiere la anticoagulación con warfarina debido a un mayor riesgo de tromboembolismo.",
+            "incorrectas": {
+                "A": "La fibrilación auricular es, de hecho, la arritmia sostenida más frecuente.",
+                "B": "La torsades de pointes es una taquicardia ventricular polimorfa que se asocia a un intervalo QT prolongado, y el sulfato de magnesio es un tratamiento habitual.",
+                "C": "Esta es la opción correcta.",
+                "D": "La bradicardia sinusal asintomática en individuos sanos, deportistas y delgados no suele requerir tratamiento."
+            }
+        }
+    },
+    {
+        "id_examen": 40,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Un paciente de 22 años sufre caída de bicicleta con traumatismo en zona abdominal con manillar. A las pocas horas del accidente comienza con dolor intenso en hipocondrio izquierdo y acude a consultar a un Servicio de Urgencias. A la llegada, pálido y sudoroso, cifras de tensión arterial 82/54 mmHg y la frecuencia cardiaca de 120 latidos por minuto. ¿Qúe tipo de shock es el que con mayor probabilidad padece este paciente?",
+        "opciones": {
+            "A": "Séptico.",
+            "B": "Cardiogénico.",
+            "C": "Neurogénico.",
+            "D": "Hipovolémico."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 50,
+            "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El cuadro clínico del paciente (dolor abdominal intenso tras traumatismo, palidez, sudoración, hipotensión y taquicardia) es altamente sugestivo de shock hipovolémico debido a una hemorragia intraabdominal, probablemente por lesión esplénica dada la localización del dolor.  La hipotensión y taquicardia son manifestaciones compensatorias ante la hipovolemia.",
+            "incorrectas": {
+                "A": "El shock séptico se caracteriza por infección, fiebre y otros signos de sepsis. Aunque puede haber hipotensión y taquicardia, no se ajusta al contexto.",
+                "B": "El shock cardiogénico resulta de una insuficiencia cardiaca que impide el bombeo adecuado de sangre. No es lo más probable en este contexto.",
+                "C": "El shock neurogénico se caracteriza por la pérdida del tono vascular simpático.  No concuerda con el contexto.",
+                "D": "Esta es la opción correcta."
+            }
+        }
+    },
+    {
+        "id_examen": 41,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Señale cuál de las siguientes NO es una característica de un síncope cardiovascular:",
+        "opciones": {
+            "A": "Historia familiar de muerte súbita prematura de causa desconocida.",
+            "B": "Activación autonómica antes del síncope: palidez, sudoración, náusea/vómito.",
+            "C": "Aparición durante el esfuerzo o en supinación.",
+            "D": "Presencia de cardiopatía estructural o enfermedad arterial coronaria."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 51,
+            "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La activación autonómica (palidez, sudoración, náuseas/vómitos) es una manifestación frecuente PREVIA al síncope,  especialmente en los síncopes vasovagales o neuromediados.  No es una característica que defina exclusivamente a los síncopes de origen cardiovascular, que pueden presentarse de forma súbita sin estos síntomas premonitorios.",
+            "incorrectas": {
+                "A": "Una historia familiar de muerte súbita prematura de causa desconocida sugiere una posible base genética para arritmias cardiacas, aumentando el riesgo de síncope cardiovascular.",
+                "C": "El esfuerzo o la supinación pueden precipitar síncopes cardiovasculares, especialmente aquellos relacionados con alteraciones hemodinámicas o de la conducción cardíaca.",
+                "D": "Las cardiopatías estructurales y la enfermedad coronaria son causas frecuentes de síncope cardiovascular debido a la alteración del funcionamiento del corazón."
+            }
+        }
+    },
+    {
+        "id_examen": 42,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En relación con el manejo y tratamiento del síncope, ¿cuál de las siguientes afirmaciones es verdadera?",
+        "opciones": {
+            "A": "En el tratamiento del paciente con síncopes ortostáticos y riesgo de caída, los objetivos de presión arterial no varían de la población general.",
+            "B": "En el manejo del síncope en urgencias, la valoración del riesgo no se incluye en el proceso de tomas de decisión.",
+            "C": "En el manejo del síncope neuromediado se incluye el reconocimiento precoz de los síntomas prodrómicos, y la adopción de medidas de contrapresión.",
+            "D": "Hasta el 85% de los síncopes quedan filiados tras su valoración integral en el servicio de urgencias."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 51,
+            "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En el síncope neuromediado (vasovagal), el reconocimiento de los síntomas prodrómicos (mareo, náuseas, visión borrosa) permite al paciente adoptar medidas de contrapresión (sentarse, cruzar las piernas, presionar con fuerza los muslos) para prevenir o atenuar el episodio sincopal. Esta es una parte importante del manejo.",
+            "incorrectas": {
+                "A": "Los objetivos de presión arterial en pacientes con síncope ortostático y riesgo de caídas deben ajustarse individualmente, considerando factores como la edad, las comorbilidades y la tolerancia hemodinámica del paciente. No son los mismos que en la población general.",
+                "B": "La valoración del riesgo es fundamental en el manejo del síncope en urgencias, y determina las decisiones sobre la necesidad de pruebas complementarias y el seguimiento del paciente.",
+                "D": "Aunque una proporción significativa de síncopes se aclaran en urgencias, un porcentaje importante (mayor del 15%) requiere un estudio más amplio para establecer su etiología."
+            }
+        }
+    },
+    {
+        "id_examen": 43,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál es el fármaco de elección en la emergencia hipertensiva que se manifiesta como disección aórtica?",
+        "opciones": {
+            "A": "Nitroprusiato sódico.",
+            "B": "Fentolamina.",
+            "C": "Nitroglicerina.",
+            "D": "Labetalol."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 52,
+            "tema": "Otras urgencias cardiovasculares en urgencias: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En una disección aórtica, el objetivo es reducir la fuerza de contracción del corazón y la presión arterial para minimizar el cizallamiento en la aorta, reduciendo el riesgo de disección progresiva. El Labetalol es un betabloqueante y alfa-bloqueante que logra esto de forma eficaz.",
+            "incorrectas": {
+                "A": "El nitroprusiato sódico es un vasodilatador potente, pero su uso en la disección aórtica es controvertido debido a la posible reducción excesiva de la presión arterial, lo que puede empeorar la perfusión de los órganos.",
+                "B": "La fentolamina es un alfa-bloqueante que puede ser útil en algunos casos de crisis hipertensivas, pero no es el fármaco de elección para la disección aórtica.",
+                "C": "La nitroglicerina reduce principalmente la precarga, siendo menos eficaz para controlar la presión arterial en este contexto."
+            }
+        }
+    },
+    {
+        "id_examen": 44,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de las siguientes entidades NO se considera emergencia hipertensiva?",
+        "opciones": {
+            "A": "Edema agudo de pulmón.",
+            "B": "Disección aórtica.",
+            "C": "Accidente isquémico transitorio.",
+            "D": "Eclampsia."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 52,
+            "tema": "Otras urgencias cardiovasculares en urgencias: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica. Valoración, diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Un accidente isquémico transitorio (AIT) es una condición que requiere tratamiento urgente para prevenir un ictus, pero la hipertensión que lo acompaña no se considera una emergencia hipertensiva en sí misma.  El tratamiento se centra en la causa subyacente del AIT (por ejemplo, trombosis).",
+            "incorrectas": {
+                "A": "El edema agudo de pulmón es una emergencia hipertensiva que requiere una reducción rápida de la presión arterial para aliviar la carga cardíaca.",
+                "B": "La disección aórtica es una emergencia hipertensiva que requiere un tratamiento inmediato para prevenir la rotura aórtica.",
+                "D": "La eclampsia (convulsiones en mujeres embarazadas con hipertensión) es una emergencia hipertensiva que requiere atención inmediata."
+            }
+        }
+    },
+    {
+        "id_examen": 45,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Qué marcador bioquímico tiene utilidad como estratificación pronóstica en el tromboembolismo pulmonar agudo?",
+        "opciones": {
+            "A": "Dímero D.",
+            "B": "Troponina.",
+            "C": "Péptido natriurético (BNP).",
+            "D": "Las respuestas B) y C) son correctas."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 56,
+            "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "Tanto la troponina (para descartar daño miocárdico secundario a la embolia pulmonar) como el péptido natriurético (BNP, para evaluar la disfunción ventricular derecha) son útiles en la estratificación pronóstica del tromboembolismo pulmonar agudo.  La evaluación de ambos ayuda a determinar la gravedad del cuadro.",
+            "incorrectas": {
+                "A": "El dímero D es una prueba sensible pero no específica para la trombosis, su positividad no confirma el diagnóstico de tromboembolismo pulmonar. Es útil para descartarlo si es negativo.",
+                "B": "La troponina es un marcador útil pero no es el único. Su elevación sugiere daño miocárdico secundario a la embolia pulmonar.",
+                "C": "El BNP es un marcador útil pero no es el único. Su elevación sugiere disfunción ventricular derecha secundaria a la embolia pulmonar."
+            }
+        }
+    },
+    {
+        "id_examen": 46,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Una de las siguientes situaciones NO es criterio de interrupción de Ventilación Mecánica No Invasiva (VMNI):",
+        "opciones": {
+            "A": "Agitación psicomotriz de difícil control.",
+            "B": "Aparición de inestabilidad hemodinámica, arritmias ventriculares o infarto agudo de miocardio.",
+            "C": "Criterios de intubación orotraqueal.",
+            "D": "Frecuencia respiratoria > 30 rpm y pH < 7,20."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 105,
+            "tema": "Ventilación mecánica no invasiva en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La opción D, Frecuencia respiratoria > 30 rpm y pH < 7,20, NO es un criterio de interrupción de VMNI.  Si bien una frecuencia respiratoria alta y una acidosis severa indican una situación crítica, no son razones automáticas para detener la VMNI.  La decisión de interrumpir la VMNI se basa en una evaluación clínica global, considerando otros factores como la respuesta del paciente al tratamiento, la tolerancia a la VMNI y la presencia de complicaciones.",
+            "incorrectas": {
+                "A": "La agitación psicomotriz incontrolada dificulta la aplicación efectiva de la VMNI y puede ser una razón para interrumpirla. El paciente podría quitarse la mascarilla o empeorar su condición.",
+                "B": "La inestabilidad hemodinámica, arritmias ventriculares o infarto agudo de miocardio son situaciones que requieren atención inmediata y pueden obligar a interrumpir la VMNI para priorizar el tratamiento de estas complicaciones.",
+                "C": "Los criterios de intubación orotraqueal indican un fallo respiratorio grave que requiere ventilación mecánica invasiva, por lo que la VMNI se interrumpiría para proceder a la intubación."
+            }
+        }
+    },
+    {
+        "id_examen": 47,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En las terapias respiratorias no invasivas existen algunos parámetros que se son útiles a la hora de valorar la respuesta en el paciente. Seleccione la respuesta correcta:",
+        "opciones": {
+            "A": "El índice de ROX tiene utilidad para predecir el éxito de los pacientes con fallo respiratorio hipercápnico tratados con dos niveles de presión.",
+            "B": "La respuesta clínica y gasométrica a la hora del inicio de ventilación no se relaciona con mejor o peor pronóstico en pacientes tratados con BIPAP.",
+            "C": "La presencia de neumonía en un fallo respiratorio agudo es un dato que orienta hacia una buena evolución tras el inicio de VMNI en modo BIPAP.",
+            "D": "La relación entre saturación periférica de O2/fracción inspirada de O2 y la frecuencia respiratoria es un parámetro muy útil para predecir el fracaso de la oxigenoterapia de alto flujo con cánulas nasales en pacientes con neumonía."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 105,
+            "tema": "Ventilación mecánica no invasiva en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La opción D, La relación entre saturación periférica de O2/fracción inspirada de O2 y la frecuencia respiratoria es un parámetro muy útil para predecir el fracaso de la oxigenoterapia de alto flujo con cánulas nasales en pacientes con neumonía, es correcta.  El índice de hipoxemia (SpO2/FiO2) y la frecuencia respiratoria son parámetros clave para valorar la respuesta a la oxigenoterapia y predecir la necesidad de ventilación mecánica.",
+            "incorrectas": {
+                "A": "El índice de ROX es útil para predecir el éxito de la VMNI en pacientes con fallo respiratorio hipoxémico, pero no exclusivamente en los tratados con dos niveles de presión. Su valor predictivo es mayor en pacientes con insuficiencia respiratoria hipoxémica.",
+                "B": "La respuesta clínica y gasométrica al inicio de la VMNI sí se relaciona con el pronóstico. Una buena respuesta temprana indica una mayor probabilidad de éxito.",
+                "C": "La presencia de neumonía en un fallo respiratorio agudo no necesariamente indica una buena evolución con VMNI BIPAP.  Dependerá de la gravedad de la neumonía y la respuesta del paciente."
+            }
+        }
+    },
+    {
+        "id_examen": 48,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Con respecto a la oxigenoterapia, ¿qué respuesta considera verdadera?",
+        "opciones": {
+            "A": "Lo que define los sistemas de alto flujo es el poder predecir de forma fiable la FiO2 que damos al paciente.",
+            "B": "Una mascarilla con reservorio es un sistema de alto flujo.",
+            "C": "Al usar un sistema Venturi (mascarilla Ventimask®) fijaremos la FiO2 que queremos administrar al paciente y pondremos el número de litros de O2 que nos marca el fabricante, pero nunca más.",
+            "D": "Las gafas nasales siempre se deben de poner entre 1 y 3 l/min."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 53,
+            "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+        },
+        "explicacion": {
+            "correcta": "La opción A, Lo que define los sistemas de alto flujo es el poder predecir de forma fiable la FiO2 que damos al paciente, es correcta. Los sistemas de alto flujo, a diferencia de los de bajo flujo, proporcionan una FiO2 predecible y constante, independientemente de la frecuencia y profundidad respiratoria del paciente.",
+            "incorrectas": {
+                "B": "Una mascarilla con reservorio es un sistema de bajo flujo.  La FiO2 no es predecible y depende del flujo y la respiración del paciente.",
+                "C": "Aunque un sistema Venturi permite fijar la FiO2, el flujo de oxígeno puede ajustarse dentro de un rango para asegurar la correcta administración de la FiO2 deseada, no es un dato inamovible.",
+                "D": "El flujo de oxígeno en gafas nasales es variable, dependiendo de las necesidades del paciente. Puede ser superior a 3 l/min."
+            }
+        }
+    },
+    {
+        "id_examen": 49,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Con respecto al uso de ventilación mecánica no invasiva en la agudización de EPOC, señala la respuesta FALSA:",
+        "opciones": {
+            "A": "Aunque no existe una fuerte evidencia para su uso en este caso, suele ser muy utilizada.",
+            "B": "Se usa cuando existe trabajo respiratorio, taquipnea, pH menor de 7,35, pCO2 mayor de 45 y ausencia de respuesta al tratamiento convencional.",
+            "C": "El objetivo de su uso es el de aumentar la ventilación alveolar, y disminuir la acidosis respiratoria y el trabajo respiratorio.",
+            "D": "La interfase de elección será la máscara oronasal."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 105,
+            "tema": "Ventilación mecánica no invasiva en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La opción A, Aunque no existe una fuerte evidencia para su uso en este caso, suele ser muy utilizada, es FALSA. Si bien la evidencia para el uso de VMNI en la agudización de EPOC es controvertida y no tan robusta como en otras indicaciones,  es incorrecto afirmar que NO existe evidencia, si no que esta es menos contundente que en otros escenarios.",
+            "incorrectas": {
+                "B": "Esta opción describe correctamente las indicaciones para el uso de VMNI en la agudización de la EPOC.",
+                "C": "Este es el objetivo principal del uso de VMNI en la agudización de la EPOC.",
+                "D": "La máscara oronasal es una interfase comúnmente utilizada en VMNI para pacientes con EPOC."
+            }
+        }
+    },
+    {
+        "id_examen": 50,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante un paciente con disnea aguda, ¿cuál de las siguientes actuaciones realizaremos inicialmente?",
+        "opciones": {
+            "A": "Solicitar pruebas complementarias orientadas según sospecha clínica.",
+            "B": "Determinar el grado de disnea según la escala MRC.",
+            "C": "Valorar la existencia de inestabilidad hemodinámica.",
+            "D": "Determinar la existencia de criterios de ingreso."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 53,
+            "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+        },
+        "explicacion": {
+            "correcta": "La opción C, Valorar la existencia de inestabilidad hemodinámica, es la actuación inicial más adecuada ante un paciente con disnea aguda. La inestabilidad hemodinámica es una situación potencialmente mortal que requiere atención inmediata.  Antes de solicitar pruebas o escalar el tratamiento, se debe asegurar la estabilidad hemodinámica del paciente.",
+            "incorrectas": {
+                "A": "Solicitar pruebas complementarias es importante, pero debe hacerse después de estabilizar al paciente y obtener una anamnesis completa.",
+                "B": "Determinar el grado de disnea según la escala MRC es útil para la evaluación, pero no es la prioridad inicial.",
+                "D": "Determinar criterios de ingreso también es importante, pero debe hacerse después de la valoración inicial y la estabilización del paciente."
+            }
+        }
+    },
+    {
+        "id_examen": 51,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "La fase de presurización o de entrega de flujo en ventilación mecánica no invasiva en modo BIPAP (dos niveles de presión asistida/controlada) se caracteriza por todo lo que sigue, EXCEPTO:",
+        "opciones": {
+            "A": "La curva de flujo presenta un pico inicial y un descenso progresivo.",
+            "B": "El final de esta fase o paso a espiración suele ocurrir al caer el flujo por debajo de un porcentaje del pico inicial.",
+            "C": "Con las mismas condiciones en los parámetros del respirador, esta fase es más prolongada en un paciente con un trastorno restrictivo que en un paciente con EPOC.",
+            "D": "Se inicia, en las respiraciones asistidas, al detectarse una inspiración del paciente."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 105,
+            "tema": "Ventilación mecánica no invasiva en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En un paciente con trastorno restrictivo, la mecánica respiratoria está dificultada por la disminución de la compliance pulmonar.  Esto implica que la inspiración requiere un mayor esfuerzo y tiempo, prolongando la fase de presurización o de entrega de flujo en la ventilación mecánica no invasiva (BIPAP). En cambio, en un paciente con EPOC, la limitación al flujo aéreo se produce principalmente durante la espiración, y la fase inspiratoria suele ser más corta. Por lo tanto, la afirmación de que esta fase es más prolongada en un paciente con trastorno restrictivo que en uno con EPOC es incorrecta.",
+            "incorrectas": {
+                "A": "La curva de flujo en BIPAP refleja la entrega de flujo durante la inspiración.  Inicialmente, el flujo es alto para alcanzar rápidamente la presión establecida y luego disminuye gradualmente a medida que se alcanza la presión de soporte.",
+                "B": "El final de la fase inspiratoria y el paso a la espiración se determina mediante el flujo.  Cuando el flujo cae por debajo de un umbral predefinido, el respirador termina la inspiración y comienza la fase de expiración.",
+                "D": "En las respiraciones asistidas (en modo BIPAP), el respirador detecta el esfuerzo inspiratorio del paciente para iniciar la fase de presurización y entrega de flujo."
+            }
+        }
+    },
+    {
+        "id_examen": 52,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Respecto a la agudización de la enfermedad pulmonar obstructiva crónica (EPOC), ¿cuál de las siguientes respuestas es FALSA?",
+        "opciones": {
+            "A": "El diagnóstico de una agudización de la EPOC consta de 3 pasos esenciales: a) diagnóstico diferencial; b) establecer la gravedad; y c) identificar su etiología.",
+            "B": "Ante toda agudización de la EPOC está indicada administrar una pauta corta de corticoides.",
+            "C": "Es criterio de agudización grave una PCO2 superior de 45 mmHg en pacientes sin hipercapnia previa.",
+            "D": "La mayoría de las causas de agudización son las infecciones del árbol traqueobronquial."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 54,
+            "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias"
+        },
+        "explicacion": {
+            "correcta": "El tratamiento con corticoides en las agudizaciones de EPOC es controvertido, y no está indicado de forma sistemática en todas las agudizaciones.  La decisión de administrar corticoides debe basarse en la gravedad de la agudización y la respuesta del paciente. Una pauta corta de corticoides puede ser beneficiosa en pacientes con agudizaciones moderadas a graves, pero no está indicada en todas las situaciones.",
+            "incorrectas": {
+                "A": "El diagnóstico de una agudización de EPOC implica evaluar la presencia de una exacerbación, su gravedad y la etiología subyacente, ya sea infecciosa o no.",
+                "C": "Un aumento significativo de la PCO2 (por encima de 45 mmHg en pacientes sin hipercapnia crónica previa) es un signo de insuficiencia respiratoria hipercápnica grave y criterio de agudización grave.",
+                "D": "Las infecciones del tracto respiratorio inferior son la causa más frecuente de agudizaciones de EPOC."
+            }
+        }
+    },
+    {
+        "id_examen": 53,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Paciente traído a urgencias con agudización de EPOC, portando una mascarilla tipo Venturi con FiO2 al 28%, que presenta la siguiente gasometría: pH 7,28, pCO2 71 mmHg, pO2 61mmHg, EB 5. ¿Qué respuesta de las siguientes cree que es FALSA?",
+        "opciones": {
+            "A": "El paciente presenta una insuficiencia respiratoria global, en acidosis respiratoria.",
+            "B": "Si se encuentra con bajo nivel de consciencia, lo más probable es que se trate de una insuficiencia respiratoria de origen central secundaria a un ictus.",
+            "C": "Si no mejora tras el tratamiento inicial, deberíamos plantearnos lo antes posible el uso de ventilación mecánica no invasiva.",
+            "D": "Si mantiene una saturación de O2 en torno a 90%, no deberíamos elevar la FiO2."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 54,
+            "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias"
+        },
+        "explicacion": {
+            "correcta": "La gasometría arterial revela una acidosis respiratoria grave (pH 7.28, pCO2 71 mmHg) e hipoxemia (pO2 61 mmHg).  El bajo nivel de consciencia en este contexto es más probablemente resultado de la hipoxemia y la hipercapnia que afecta la función cerebral, no necesariamente un ictus.  Aunque un ictus puede causar alteraciones del nivel de conciencia, la gasometría apunta a una causa respiratoria.",
+            "incorrectas": {
+                "A": "La gasometría muestra claramente una insuficiencia respiratoria con acidosis respiratoria.",
+                "C": "La ventilación mecánica no invasiva (VMNI) está indicada en pacientes con insuficiencia respiratoria hipoxémica o hipercápnica grave que no responden al tratamiento médico inicial.",
+                "D": "Mantener una saturación de oxígeno alrededor del 90% en un paciente con acidosis respiratoria grave e hipoxemia es insuficiente y requiere un aumento en la FiO2 para mejorar la oxigenación."
+            }
+        }
+    },
+    {
+        "id_examen": 54,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de los siguientes fármacos es el tratamiento de elección para la infección bacteriana de vías respiratorias bajas en un paciente con EPOC grado III sin riesgo de infección por pseudomonas?",
+        "opciones": {
+            "A": "Claritromicina.",
+            "B": "Cefditoreno.",
+            "C": "Moxifloxacino.",
+            "D": "Azitromicina."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 54,
+            "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias"
+        },
+        "explicacion": {
+            "correcta": "El moxifloxacino es una fluoroquinolona de amplio espectro que cubre los patógenos respiratorios más comunes en las exacerbaciones de EPOC, incluyendo bacterias atípicas, sin cubrir Pseudomonas aeruginosa.  En un paciente con EPOC grado III sin riesgo de infección por Pseudomonas, es una opción adecuada.  Las otras opciones son menos adecuadas o tienen un espectro más limitado.",
+            "incorrectas": {
+                "A": "La claritromicina tiene actividad contra bacterias atípicas, pero su actividad contra bacterias grampositivas es menor que la del moxifloxacino.",
+                "B": "El cefditoreno es una cefalosporina de tercera generación con actividad contra bacterias grampositivas y algunas gramnegativas, pero su cobertura contra bacterias atípicas es limitada.",
+                "D": "La azitromicina tiene buena actividad contra bacterias atípicas, pero su actividad contra otras bacterias gramnegativas es menor que la del moxifloxacino."
+            }
+        }
+    },
+    {
+        "id_examen": 55,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Con respecto al tratamiento del paciente EPOC agudizado, señale la FALSA:",
+        "opciones": {
+            "A": "El objetivo de la oxigenoterapia es alcanzar una SatO2 entre el 88 y el 92%.",
+            "B": "En fase aguda es útil la asociación de un agonista betaadrenérgico de acción rápida (salbutamol o terbutalina) y un anticolinérgico de acción rápida (bromuro de ipratropio).",
+            "C": "La ventilación mecánica no invasiva está indicada siempre en caso de neumotórax no drenado.",
+            "D": "Se recomienda antibioterapia empírica en los enfermos que presenten esputo purulento, ante sospecha de infección bacteriana de vías bajas."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 54,
+            "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias"
+        },
+        "explicacion": {
+            "correcta": "La ventilación mecánica no invasiva (VMNI) no está indicada en caso de neumotórax no drenado, ya que la presión positiva puede empeorar el colapso pulmonar.  Un neumotórax requiere drenaje urgente.  Las otras opciones representan las recomendaciones adecuadas para el manejo de una agudización de EPOC.",
+            "incorrectas": {
+                "A": "El objetivo de la oxigenoterapia en una agudización de EPOC es mantener una saturación de oxígeno adecuada (generalmente entre 88% y 92%), evitando la hipoxemia, pero sin provocar hiperoxia.",
+                "B": "La combinación de broncodilatadores (beta-agonistas y anticolinérgicos) de acción rápida es un pilar fundamental en el tratamiento de las agudizaciones de EPOC.",
+                "D": "La antibioterapia empírica es importante en pacientes con signos de infección bacteriana de las vías aéreas bajas, como esputo purulento."
+            }
+        }
+    },
+    {
+        "id_examen": 56,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Los siguientes factores son de riesgo para sufrir una crisis asmática de riesgo vital, EXCEPTO:",
+        "opciones": {
+            "A": "Segunda crisis asmática en los últimos doce meses.",
+            "B": "Episodios previos de hospitalización en el último año.",
+            "C": "Abuso de agonista beta-2 de acción corta.",
+            "D": "Condiciones psicosociales que condicionan la adhesión al tratamiento"
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 55,
+            "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La opción A (Segunda crisis asmática en los últimos doce meses) NO es, por sí sola, un factor de riesgo de crisis asmática de riesgo vital. Si bien indica una mayor inestabilidad del asma y una mayor probabilidad de futuras exacerbaciones, no implica necesariamente una gravedad extrema inminente.  Los factores de riesgo de crisis asmática de riesgo vital se centran en la severidad de la crisis actual, la respuesta a tratamientos previos y la presencia de factores que empeoren la situación. Una segunda crisis en un año, sin más datos, no define el riesgo vital.",
+            "incorrectas": {
+                "B": "Episodios previos de hospitalización en el último año indican una gravedad significativa del asma y una mayor probabilidad de requerir hospitalización en futuras exacerbaciones, representando un factor de riesgo de crisis de riesgo vital.",
+                "C": "El abuso de agonistas beta-2 de acción corta indica una mala respuesta al tratamiento habitual y una posible gravedad subyacente del asma, sugiriendo un alto riesgo de crisis asmática de riesgo vital.",
+                "D": "Condiciones psicosociales que dificultan la adhesión al tratamiento, como la falta de recursos, el estrés o la falta de apoyo, contribuyen a un control deficiente del asma y aumentan el riesgo de una crisis de riesgo vital."
+            }
+        }
+    },
+    {
+        "id_examen": 57,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de los siguientes síntomas o signos NO presagian una parada cardiorrespiratoria inminente en un paciente con una crisis asmática?",
+        "opciones": {
+            "A": "Taquicardia.",
+            "B": "Hipotensión.",
+            "C": "Disminución del estado de conciencia.",
+            "D": "Tórax silente."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 55,
+            "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La taquicardia (opción A) es una respuesta fisiológica compensatoria a la hipoxemia y al esfuerzo respiratorio en una crisis asmática. Aunque una taquicardia significativa puede ser un signo de gravedad, su presencia por sí sola NO presagia una parada cardiorrespiratoria inminente. La hipotensión, la disminución del estado de conciencia y el tórax silente son indicativos de un fallo respiratorio inminente que puede llevar a una parada.",
+            "incorrectas": {
+                "B": "La hipotensión es un signo tardío de fallo respiratorio grave en una crisis asmática, indicando un deterioro importante y presagiando una parada cardiorrespiratoria inminente.",
+                "C": "La disminución del estado de conciencia refleja hipoxemia severa y acidosis, siendo un signo ominoso que precede a una parada cardiorrespiratoria.",
+                "D": "Un tórax silente indica un fallo respiratorio extremo, con ausencia de ruidos respiratorios por la dificultad extrema para ventilar, presagiando una parada cardiorrespiratoria inminente."
+            }
+        }
+    },
+    {
+        "id_examen": 58,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En un paciente con una neumonía adquirida en la comunidad, a la hora de decidir su ingreso, es útil la evaluación de factores pronósticos. En este sentido, seleccione la respuesta verdadera:",
+        "opciones": {
+            "A": "La valoración PSI (Pneumonia Severity Index) en urgencias no tiene ninguna utilidad a la hora de evaluar la indicación de ingreso.",
+            "B": "Los pacientes con PSI IV-V, en general, pueden ser dados de alta a domicilio.",
+            "C": "En la evaluación CURB-65, la concentración de anhídrido carbónico en sangre arterial o venosa no se evalúa.",
+            "D": "En la evaluación PSI, la concentración de anhídrido carbónico en sangre arterial o venosa no se evalúa."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 59,
+            "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+        },
+        "explicacion": {
+            "correcta": "La evaluación CURB-65 (Confusión, Urea >7 mmol/L, Respiración >30 rpm, Presión arterial sistólica <90 mmHg o diastólica <60 mmHg, Edad ≥65 años)  utiliza criterios clínicos para predecir la mortalidad por neumonía. La concentración de anhídrido carbónico (CO2) no se evalúa directamente en esta escala.",
+            "incorrectas": {
+                "A": "La valoración PSI (Pneumonia Severity Index) es una herramienta útil para estratificar el riesgo de mortalidad en pacientes con neumonía adquirida en la comunidad y ayuda a decidir sobre el ingreso hospitalario.",
+                "B": "Los pacientes con PSI IV-V tienen un alto riesgo de mortalidad y generalmente requieren ingreso hospitalario.",
+                "D": "La concentración de anhídrido carbónico (PaCO2) en sangre arterial sí se evalúa en el PSI, aportando información sobre la gravedad de la hipoxemia y la disfunción respiratoria."
+            }
+        }
+    },
+    {
+        "id_examen": 59,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál NO es un factor predisponente de neumonía aspirativa?",
+        "opciones": {
+            "A": "Coma etílico.",
+            "B": "Traumatismo craneoencefálico grave.",
+            "C": "Edad > 65 años.",
+            "D": "Demencia avanzada con disfagia."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 59,
+            "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+        },
+        "explicacion": {
+            "correcta": "La edad >65 años (opción C) es un factor de riesgo para muchas enfermedades, incluida la neumonía, pero no es un factor predisponente directo de neumonía aspirativa. La neumonía aspirativa está relacionada con la aspiración de contenido gástrico o de secreciones orofaríngeas a los pulmones. Los otros factores mencionados aumentan el riesgo de aspiración.",
+            "incorrectas": {
+                "A": "El coma etílico reduce el nivel de consciencia y el reflejo de la tos, facilitando la aspiración.",
+                "B": "Un traumatismo craneoencefálico grave puede causar alteraciones en el nivel de conciencia y la función deglutoria, aumentando el riesgo de aspiración.",
+                "D": "La demencia avanzada con disfagia dificulta la deglución y aumenta la posibilidad de aspiración de alimentos o saliva."
+            }
+        }
+    },
+    {
+        "id_examen": 60,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de los siguientes signos radiológicos NO aparece en una neumonía?",
+        "opciones": {
+            "A": "Desplazamiento de la cisura adyacente hacia la zona colapsada.",
+            "B": "Generalmente, distribución segmentaria o lobar.",
+            "C": "Broncograma aéreo.",
+            "D": "Aumento de la densidad pulmonar."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 59,
+            "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+        },
+        "explicacion": {
+            "correcta": "El desplazamiento de la cisura adyacente hacia la zona colapsada (opción A) es un hallazgo radiológico que se observa en un colapso pulmonar (atelectasia), no en una neumonía. En la neumonía, se observa un aumento de la densidad pulmonar en la zona afectada, a menudo con broncograma aéreo (aire en los bronquios).",
+            "incorrectas": {
+                "B": "La neumonía suele tener una distribución segmentaria o lobar, aunque puede ser parcheada.",
+                "C": "El broncograma aéreo, el aire visible en los bronquios rodeados de pulmón consolidado, es un signo radiológico característico de la neumonía.",
+                "D": "El aumento de la densidad pulmonar es un hallazgo radiológico común en la neumonía, debido a la consolidación del tejido pulmonar."
+            }
+        }
+    },
+    {
+        "id_examen": 61,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de los siguientes criterios de ingreso en una unidad de cuidados intensivos se considera un criterio mayor en un paciente con neumonía?",
+        "opciones": {
+            "A": "Confusión o desorientación.",
+            "B": "Cociente PaCO2/FiO2 igual o inferior a 250.",
+            "C": "Neumonía multilobar.",
+            "D": "Shock con necesidad de fármacos inotrópicos."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 59,
+            "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+        },
+        "explicacion": {
+            "correcta": "El shock con necesidad de fármacos inotrópicos es un criterio mayor de ingreso en UCI para un paciente con neumonía.  Indica una disfunción multiorgánica grave que requiere monitorización y soporte hemodinámico intensivos.",
+            "incorrectas": {
+                "A": "La confusión o desorientación puede ser un signo de gravedad en la neumonía, pero no se considera un criterio mayor para UCI por sí solo. Puede ser indicativo de otras complicaciones o severidad de la infección, pero no es tan determinante como el shock.",
+                "B": "El cociente PaCO2/FiO2 es un parámetro que evalúa la gravedad de la insuficiencia respiratoria, pero un valor igual o inferior a 250 no se considera un criterio mayor de ingreso en UCI para neumonía. Existen otros parámetros más importantes a considerar.",
+                "C": "La neumonía multilobar indica una extensión más amplia de la infección, pero por sí misma no es un criterio mayor de ingreso en UCI. La gravedad se mide por la respuesta del paciente y la disfunción orgánica, más allá de la extensión de la infección."
+            }
+        }
+    },
+    {
+        "id_examen": 62,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante un paciente que consulta por haber notado sangre tras toser, elija lo que considere que es FALSO:",
+        "opciones": {
+            "A": "Si el paciente está estable desde el punto de vista hemodinámico, lo primero que deberíamos intentar averiguar es si estamos ante una hemoptisis o ante otro origen del sangrado.",
+            "B": "Cuantificar el volumen del sangrado nos puede ayudar a tomar decisiones.",
+            "C": "El tratamiento con codeína puede ayudar a controlar el sangrado.",
+            "D": "En casi todos los pacientes se prescriben aerosoles (con las limitaciones en el momento actual por la pandemia), asociándose a un mejor pronóstico."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 57,
+            "tema": "Hemoptisis. Valoración, diagnóstico y actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El tratamiento con codeína para controlar el sangrado en un paciente con hemoptisis es FALSO. La codeína es un opiáceo que puede suprimir la tos, lo que podría parecer beneficioso inicialmente; sin embargo,  puede enmascarar la gravedad del sangrado y dificultar la expectoración de la sangre, lo que dificulta la evaluación del paciente.  No se considera un tratamiento para controlar el sangrado.",
+            "incorrectas": {
+                "A": "Es fundamental diferenciar entre hemoptisis y otros orígenes de sangrado (ej: epistaxis, sangrado digestivo). Si el paciente está estable, esta diferenciación es el primer paso para una adecuada evaluación.",
+                "B": "Cuantificar el volumen de sangrado es crucial para la valoración de la gravedad del cuadro y la toma de decisiones terapéuticas.",
+                "D": "Si bien los aerosoles pueden ser beneficiosos en algunos casos (por ej. para facilitar la expectoración), no siempre se prescriben, y su uso está sujeto a valoración clínica individual y no se asocia necesariamente a un mejor pronóstico en todos los casos. La pandemia ha afectado la disponibilidad y el manejo de los aerosoles, pero no cambia el hecho de que no son imprescindibles para todos los pacientes."
+            }
+        }
+    },
+    {
+        "id_examen": 63,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Son criterios de hemoptisis masiva los siguientes, EXCEPTO:",
+        "opciones": {
+            "A": "Pérdida sanguínea cuantificada de 250 ml en un periodo de 24 horas.",
+            "B": "Pérdida sanguínea cuantificada superior a 100 ml/hora.",
+            "C": "Inestabilidad hemodinámica.",
+            "D": "Insuficiencia respiratoria aguda."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 57,
+            "tema": "Hemoptisis. Valoración, diagnóstico y actuación en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La pérdida sanguínea cuantificada de 250 ml en 24 horas no se considera hemoptisis masiva, aunque es una cantidad significativa que requiere atención.  Los criterios de hemoptisis masiva implican un sangrado más rápido y abundante, que ponga en riesgo inmediato la vida del paciente.",
+            "incorrectas": {
+                "B": "La pérdida de más de 100 ml/hora es un criterio de hemoptisis masiva, representando un sangrado abundante y potencialmente letal.",
+                "C": "La inestabilidad hemodinámica es un signo inequívoco de hemoptisis masiva, indicando una pérdida de sangre significativa que compromete la función circulatoria.",
+                "D": "La insuficiencia respiratoria aguda puede ser una consecuencia de la hemoptisis masiva debido a la obstrucción de las vías aéreas por sangre, o por el propio proceso patológico que causa la hemoptisis."
+            }
+        }
+    },
+    {
+        "id_examen": 64,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Varón de 52 años que acude a Urgencias con un cuadro de un mes de evolución de tos seca irritativa, fiebre termometrada en domicilio de hasta 38ºC y dolor en hemitórax derecho de características pleuríticas. En la radiografía de tórax se observa derrame pleural derecho, por lo que se procede a toracocentesis diagnóstica, con análisis de líquido pleural que muestra recuento de neutrófilos 20%, linfocitos 51%, LDH elevada, proteínas > 3g/dL y glucosa normal. ¿Cuál le parece el diagnóstico más probable en este caso entre los siguientes?",
+        "opciones": {
+            "A": "Embolismo pulmonar.",
+            "B": "Insuficiencia cardíaca.",
+            "C": "Derrame pleural paraneumónico.",
+            "D": "Tuberculosis pulmonar."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 58,
+            "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "El cuadro clínico, junto con el análisis del líquido pleural (linfocitos predominantes, LDH elevada, proteínas >3g/dL y glucosa normal),  sugiere un derrame pleural de etiología tuberculosa.  La presencia de linfocitos es un dato clave que orienta hacia procesos inflamatorios crónicos como la tuberculosis.",
+            "incorrectas": {
+                "A": "El derrame pleural en el embolismo pulmonar suele ser pequeño y no presenta las características citológicas del líquido pleural descritas.",
+                "B": "Un derrame pleural por insuficiencia cardíaca suele presentar un trasudado con bajo contenido en proteínas y células.",
+                "C": "Un derrame pleural paraneumónico, asociado a neumonía, se caracteriza por un predominio de neutrófilos en el líquido pleural, a diferencia de lo observado en este caso."
+            }
+        }
+    },
+    {
+        "id_examen": 65,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál es la causa más frecuente de neumotórax secundario en un paciente con EPOC?",
+        "opciones": {
+            "A": "Rotura de bulla.",
+            "B": "Neumonía por Pneumocystis jiroveci.",
+            "C": "Necrosis pulmonar.",
+            "D": "Tuberculosis pulmonar."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 58,
+            "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "La rotura de una bulla es la causa más frecuente de neumotórax secundario en pacientes con EPOC. La EPOC causa cambios en el parénquima pulmonar que favorecen la formación de bullas (espacios llenos de aire) susceptibles de rotura.",
+            "incorrectas": {
+                "B": "La neumonía por Pneumocystis jiroveci puede causar neumonía, pero no es la causa más frecuente de neumotórax secundario en pacientes con EPOC.",
+                "C": "La necrosis pulmonar puede contribuir a la formación de neumotórax, pero es menos frecuente que la rotura de bulla en pacientes con EPOC.",
+                "D": "La tuberculosis pulmonar puede causar neumotórax, pero no es la causa más frecuente en pacientes con EPOC."
+            }
+        }
+    },
+    {
+        "id_examen": 66,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Un paciente varón de 75 años es traído por el 061 a urgencias como “Código Ictus”. Indique en cuál de las siguientes situaciones estaría contraindicada la administración de fibrinólisis intravenosa:",
+        "opciones": {
+            "A": "Hemorragia gastrointestinal hace 3 meses.",
+            "B": "Presencia de un meningioma en TAC craneal.",
+            "C": "Mejoría rápida de la clínica neurológica.",
+            "D": "TCE hace 6 meses."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 68,
+            "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La mejoría rápida de la clínica neurológica es una contraindicación para la administración de fibrinólisis intravenosa en un ictus.  La fibrinólisis se utiliza para disolver el coágulo que obstruye el vaso sanguíneo y causa el ictus. Si el paciente ya está mejorando, significa que el flujo sanguíneo se está restableciendo por sí solo o que la isquemia no es significativa, por lo que la fibrinólisis no es necesaria y podría ser perjudicial.",
+            "incorrectas": {
+                "A": "Una hemorragia gastrointestinal previa no es una contraindicación absoluta, aunque aumenta el riesgo de sangrado. Se debe valorar individualmente el riesgo-beneficio.",
+                "B": "La presencia de un meningioma en una TAC craneal no contraindica la fibrinólisis si no hay evidencia de sangrado. Se debe evaluar la ubicación del meningioma en relación con la zona afectada por el ictus.",
+                "D": "Un traumatismo craneoencefálico (TCE) previo, si ha cicatrizado adecuadamente (6 meses es un tiempo suficiente), no contraindica la fibrinólisis.  Se debe evaluar individualmente el riesgo."
+            }
+        }
+    },
+    {
+        "id_examen": 67,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En relación al manejo recomendado de un código ictus, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "Una puntuación de 10 en ASPECT (Alberta Stroke Program Early CT Score) significa TC normal (sin infarto establecido).",
+            "B": "La fibrinólisis será con rtPA o alteplasa ajustado al peso: Kg x 0,9 mg = dosis total a administrar, de la cual un 10 % será en forma de bolo lento (a pasar en un minuto aproximadamente) y, pasados 5 minutos, el 90 % restante en perfusión continua (a pasar en 2 horas).",
+            "C": "En caso de hemorragia intracraneal sintomática relacionada con la administración de rtPA, detendría la infusión del fibrinolítico, solicitaría estudio urgente de coagulación y pruebas cruzadas sanguíneas, y podría administrar crioprecipitados + plaquetas + fibrinógeno (si su nivel en sangre fuese < 100 mg/dl).",
+            "D": "La hipotensión arterial en un paciente con ACV obliga a descartar infarto agudo de miocardio, TEP, sepsis, hipovolemia, hemorragia interna o disección aórtica, y a administrar la terapia apropiada (cristaloides, hematíes, dopamina, etc.)."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 68,
+            "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+        },
+        "explicacion": {
+            "correcta": "La dosis de rtPA en fibrinólisis para ictus no es Kg x 0,9 mg. La dosis correcta se calcula considerando el peso del paciente y una dosis máxima, siguiendo las guías clínicas específicas.  La afirmación en la opción B describe un esquema de administración incorrecto. Además, las guías recomiendan administración de un bolo inicial más rápido que un minuto.",
+            "incorrectas": {
+                "A": "Una puntuación de 10 en la escala ASPECT indica ausencia de infarto en la TC.",
+                "C": "La descripción del manejo de una hemorragia intracraneal relacionada con rtPA es correcta: se debe detener la infusión, realizar estudio de coagulación y pruebas cruzadas, y administrar los componentes sanguíneos necesarios.",
+                "D": "La hipotensión arterial en un paciente con ACV requiere una investigación exhaustiva de las posibles causas, como las mencionadas, y el tratamiento adecuado."
+            }
+        }
+    },
+    {
+        "id_examen": 68,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante un paciente que se encuentra en coma con miosis bilateral, depresión respiratoria y reflejos oculocefálicos (ROC) y oculovestibulares (ROV) normales, ¿qué administraría?",
+        "opciones": {
+            "A": "Tiamina.",
+            "B": "Naloxona.",
+            "C": "Glucosa hipertónica.",
+            "D": "Flumazenil."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 66,
+            "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapéutica urgente"
+        },
+        "explicacion": {
+            "correcta": "La miosis bilateral (pupilas contraídas), depresión respiratoria y reflejos oculocefálicos y oculovestibulares normales sugieren una intoxicación por opiáceos. La naloxona es un antagonista de los opiáceos y revierte sus efectos.",
+            "incorrectas": {
+                "A": "La tiamina se utiliza en el tratamiento del síndrome de Wernicke-Korsakoff, asociado al alcoholismo.",
+                "C": "La glucosa hipertónica se utiliza en el tratamiento de la hipoglucemia.",
+                "D": "El flumazenil se utiliza en el tratamiento de la intoxicación por benzodiazepinas."
+            }
+        }
+    },
+    {
+        "id_examen": 69,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante un paciente de 67 años, sin deterioro cognitivo previo, que presenta alteración del nivel de conciencia, dificultad para centrar la atención, desorientación y alucinaciones, de unas 24 h de evolución:",
+        "opciones": {
+            "A": "Lo más probable es que estemos ante un caso de amnesia global transitoria.",
+            "B": "El tratamiento debería iniciarse inmediatamente con neurolépticos, y mantenerlo un mínimo de 6 meses o hasta ser visto en psiquiatría.",
+            "C": "El diagnóstico clínico inicial debería ser de síndrome confusional agudo.",
+            "D": "La técnica diagnóstica definitiva es la punción lumbar y el análisis del líquido céfalo raquídeo."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 92,
+            "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La presentación clínica describe un síndrome confusional agudo, que se caracteriza por alteración del nivel de conciencia, dificultad para concentrarse, desorientación y posibles alucinaciones.  Es un cuadro clínico que requiere una investigación exhaustiva para determinar la causa subyacente.",
+            "incorrectas": {
+                "A": "La amnesia global transitoria se caracteriza por un episodio amnésico repentino y generalmente autolimitado, sin otros síntomas neurológicos significativos.",
+                "B": "El tratamiento con neurolépticos debe estar justificado por la presencia de agitación o psicosis, y no debe ser rutinario. La duración del tratamiento depende de la causa del síndrome confusional.",
+                "D": "La punción lumbar puede ser necesaria para descartar meningitis o encefalitis como causa del síndrome confusional, pero no es la técnica diagnóstica definitiva."
+            }
+        }
+    },
+    {
+        "id_examen": 70,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de estos resultados del análisis de un líquido cefalorraquídeo NO se corresponde con el que sería habitual de una meningitis bacteriana?",
+        "opciones": {
+            "A": "Aspecto turbio.",
+            "B": "Pleocitosis polinuclear.",
+            "C": "Descenso de las proteínas por ruptura de la barrera hematoencefálica.",
+            "D": "Descenso de la glucorraquia."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 69,
+            "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "En una meningitis bacteriana, hay un aumento de las proteínas en el líquido cefalorraquídeo debido a la inflamación y a la ruptura de la barrera hematoencefálica.  Un descenso de las proteínas NO es habitual.",
+            "incorrectas": {
+                "A": "El LCR en una meningitis bacteriana suele ser turbio por la presencia de leucocitos y bacterias.",
+                "B": "La pleocitosis polinuclear (aumento de los neutrófilos) es característica de la meningitis bacteriana.",
+                "D": "En una meningitis bacteriana, hay un descenso de la glucorraquia debido al consumo de glucosa por las bacterias."
+            }
+        }
+    },
+    {
+        "id_examen": 71,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál de las siguientes manifestaciones clínicas NO se presenta en la miastenia gravis?",
+        "opciones": {
+            "A": "Diplopia.",
+            "B": "Parálisis pupilar.",
+            "C": "Ptosis parpebral.",
+            "D": "Insuficiencia respiratoria."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 90,
+            "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervico faciales. Síndrome vertiginoso. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La parálisis pupilar no es una manifestación clínica de la miastenia gravis.  La miastenia gravis es un trastorno neuromuscular autoinmune que causa debilidad muscular fluctuante.  Las manifestaciones clínicas típicas incluyen ptosis palpebral (caída del párpado), diplopia (visión doble) e incluso insuficiencia respiratoria por debilidad de los músculos respiratorios. La afectación de los músculos oculares es frecuente, pero la pupila, controlada por el sistema nervioso autónomo, generalmente no se ve afectada.",
+            "incorrectas": {
+                "A": "La diplopia es un síntoma común debido a la debilidad de los músculos oculares extraoculares.",
+                "C": "La ptosis palpebral es un signo característico debido a la debilidad del músculo elevador del párpado superior.",
+                "D": "La insuficiencia respiratoria puede ocurrir en casos graves debido a la debilidad de los músculos respiratorios."
+            }
+        }
+    },
+    {
+        "id_examen": 72,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Señale cuál de los siguientes fármacos sería de elección en un paciente con ausencias típicas:",
+        "opciones": {
+            "A": "Etosuximida.",
+            "B": "Topiramato.",
+            "C": "Oxcarbacepina.",
+            "D": "Levetiracetam."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 67,
+            "tema": "Crisis epilépticas. Tratamiento urgente de la crisis convulsiva."
+        },
+        "explicacion": {
+            "correcta": "La etosuximida es el fármaco de elección para el tratamiento de las ausencias típicas.  Las ausencias típicas son un tipo de crisis epiléptica caracterizada por breves episodios de pérdida de conciencia sin convulsiones motoras. La etosuximida es un fármaco anticonvulsivante específico para este tipo de crisis.",
+            "incorrectas": {
+                "B": "El topiramato es un anticonvulsivante utilizado para varios tipos de epilepsia, pero no es el fármaco de primera línea para las ausencias típicas.",
+                "C": "La oxcarbacepina es un anticonvulsivante útil para otros tipos de epilepsia, pero no es tan eficaz para las ausencias típicas.",
+                "D": "El levetiracetam es un anticonvulsivante de amplio espectro, pero no es la opción más eficaz para las ausencias típicas."
+            }
+        }
+    },
+    {
+        "id_examen": 73,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "De los siguientes cuadros clínicos, ¿cuál considera más característico de la hidrocefalia normotensiva en el anciano?",
+        "opciones": {
+            "A": "Crisis convulsivas, alteraciones de la marcha y pérdida de visión.",
+            "B": "Demencia, pérdida de visión e incontinencia de esfínteres.",
+            "C": "Incontinencia de esfínteres, pérdida de visión y alteraciones de la marcha.",
+            "D": "Demencia, incontinencia de esfínteres y alteraciones de la marcha."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 97,
+            "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+        },
+        "explicacion": {
+            "correcta": "La tríada clásica de demencia, incontinencia de esfínteres y alteraciones de la marcha es la más característica de la hidrocefalia normotensiva en el anciano. Aunque otras opciones pueden presentarse, esta combinación de síntomas es la más específica para este cuadro clínico.",
+            "incorrectas": {
+                "A": "Si bien las crisis convulsivas pueden ocurrir en algunos casos de hidrocefalia, no es un síntoma característico en la hidrocefalia normotensiva.",
+                "B": "La pérdida de visión puede estar presente, pero no forma parte de la tríada principal.",
+                "C": "La incontinencia y las alteraciones de la marcha son parte de la tríada, pero no se suele presentar una pérdida de visión predominante en la hidrocefalia normotensiva."
+            }
+        }
+    },
+    {
+        "id_examen": 74,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Indique la respuesta FALSA respecto al vértigo de origen central:",
+        "opciones": {
+            "A": "Evolución progresiva.",
+            "B": "Nistagmo de componente rápido hacia el oído sano.",
+            "C": "Inicio insidioso.",
+            "D": "Nistagmo vertical."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 90,
+            "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervico faciales. Síndrome vertiginoso. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En el vértigo de origen central, el nistagmo no suele tener un componente rápido hacia el oído sano. El nistagmo en el vértigo periférico (de origen en el oído interno) suele tener el componente rápido hacia el lado opuesto de la lesión, mientras que en el vértigo central (de origen en el SNC) es más variable y puede ser vertical o cambiar de dirección con facilidad.",
+            "incorrectas": {
+                "A": "El vértigo central puede tener una evolución progresiva, dependiendo de la causa subyacente.",
+                "C": "El inicio del vértigo central a menudo es insidioso, a diferencia del vértigo periférico que suele ser súbito.",
+                "D": "El nistagmo vertical es un hallazgo más común en el vértigo de origen central que en el periférico."
+            }
+        }
+    },
+    {
+        "id_examen": 75,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "¿Cuál es la medida terapéutica más importante en el tratamiento de la hipercalcemia aguda sintomática?",
+        "opciones": {
+            "A": "Bifosfonatos.",
+            "B": "Hidratación y diuresis alcalina.",
+            "C": "Denosumab.",
+            "D": "Corticoides."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 70,
+            "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La hidratación y diuresis alcalina son las medidas terapéuticas más importantes en el tratamiento de la hipercalcemia aguda sintomática.  La hidratación aumenta la excreción renal de calcio, y la diuresis alcalina ayuda a aumentar la excreción renal de calcio. Los otros tratamientos son adyuvantes o se utilizan en casos refractarios.",
+            "incorrectas": {
+                "A": "Los bifosfonatos son útiles para el tratamiento de la hipercalcemia crónica, pero su efecto es lento y no son ideales para la hipercalcemia aguda sintomática.",
+                "C": "El denosumab es un inhibidor de RANKL, útil en el manejo de la hipercalcemia, pero no es la primera línea de tratamiento en la forma aguda sintomática.",
+                "D": "Los corticoides pueden ser útiles en algunos casos específicos de hipercalcemia (por ejemplo, asociados a tumores), pero no son el tratamiento de primera línea para la hipercalcemia aguda sintomática."
+            }
+        }
+    },
+    {
+        "id_examen": 76,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Una vez calculada la dosis de insulina diaria necesaria en un paciente en urgencias, ¿cómo sería más correcta su distribución?",
+        "opciones": {
+            "A": "50% de la dosis como insulina basal y 50 % de insulina ultrarápida distribuida en comidas al 30%-40%-30 % con pautas de corrección.",
+            "B": "40% de la dosis como insulina basal y 60 % de insulina ultrarápida distribuida en comidas al 30-40-30 % con pautas de corrección.",
+            "C": "60% de la dosis como insulina basal y 40 % de insulina ultrarápida distribuida en comidas al 30-40-30 % con pautas de corrección.",
+            "D": "60% de la dosis como insulina basal y 20 % de insulina ultrarápida distribuida en comidas al 30-40-30 % y un 20% como pauta de corrección."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 72,
+            "tema": "Pautas de insulina en el paciente hospitalizado en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La distribución de la insulina en un 50% basal y 50% ultrarápida distribuida en las comidas (30-40-30%) con pautas de corrección es la más adecuada en urgencias.  Se busca un equilibrio entre cubrir las necesidades basales y ajustar la insulina rápida a las ingestas, permitiendo correcciones según la glucemia. Otras proporciones pueden llevar a hiper o hipoglucemias.",
+            "incorrectas": {
+                "B": "Una proporción de 40/60% desequilibra la cobertura basal, aumentando el riesgo de hipoglucemia nocturna.",
+                "C": "Una proporción de 60/40% deja desprotegidas las necesidades de insulina durante las comidas, aumentando riesgo de hiperglucemia postprandial.",
+                "D": "Una distribución con solo un 20% de insulina ultrarápida es insuficiente para cubrir las necesidades posprandiales y la corrección glucémica se realiza con una fracción de la insulina rápida y no solo con una proporción específica."
+            }
+        }
+    },
+    {
+        "id_examen": 77,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante un paciente que acuda a nuestras urgencias con clínica compatible con un cólico nefrítico, ¿cuál es respuesta FALSA?",
+        "opciones": {
+            "A": "Solicitaremos coagulación si creemos que se va a practicar un procedimiento instrumental.",
+            "B": "Solicitaremos ecografía abdominal en pacientes monorrenos.",
+            "C": "El tratamiento expulsivo con tamsulosina únicamente se indica en litiasis cálcicas de menos de 20 mm de diámetro o de eje mayor.",
+            "D": "Los espasmolíticos -como la butilescopolamina- no están recomendados."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 76,
+            "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo. Aspectos generales, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La tamsulosina, un alfa-bloqueante, está indicada en litiasis de menos de 10 mm, no de 20 mm, como afirma la opción C, por lo que es la respuesta FALSA.  Su uso se basa en la relajación de la musculatura ureteral para facilitar la expulsión de cálculos pequeños.",
+            "incorrectas": {
+                "A": "La coagulación es crucial antes de procedimientos instrumentales para controlar posibles hemorragias.",
+                "B": "En pacientes monorrenos, la ecografía es esencial para evaluar la función renal y la presencia de obstrucciones.",
+                "D": "Los espasmolíticos son ineficaces y a menudo se evitan por su poca evidencia de beneficio y efectos adversos."
+            }
+        }
+    },
+    {
+        "id_examen": 78,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En la Insuficiencia renal aguda (IRA), ¿qué enunciado es cierto?",
+        "opciones": {
+            "A": "La IRA prerrenal suele presentar una fracción de excreción de sodio (FeNa) >1%.",
+            "B": "La anemia normocítica normocroma es un hallazgo frecuente en la IRA.",
+            "C": "Es frecuente detectar alcalosis metabólica en la gasometría de un paciente con IRA.",
+            "D": "La terlipresina y la albúmina conforman la base del tratamiento médico en el síndrome hepatorrenal tipo 1."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 75,
+            "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La terlipresina y la albúmina son pilares del tratamiento del síndrome hepatorrenal tipo 1, una complicación grave de la cirrosis hepática.  La terlipresina constriñe las arteriolas esplácnicas y la albúmina aumenta el volumen intravascular.",
+            "incorrectas": {
+                "A": "En la IRA prerrenal, la FeNa suele ser <1%, reflejo de la reabsorción de sodio en un intento de conservar volumen.",
+                "B": "La anemia es frecuente en la IRA crónica, pero no suele ser un hallazgo temprano ni característico en la IRA aguda.",
+                "C": "La IRA suele causar acidosis metabólica, no alcalosis, debido a la reducción en la excreción de ácidos."
+            }
+        }
+    },
+    {
+        "id_examen": 79,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Respecto al tratamiento de la anafilaxia, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "La adrenalina es el fármaco de primera elección.",
+            "B": "El glucagón está indicado en pacientes en tratamiento con calcioantagonistas no dihidropirimidínicos.",
+            "C": "La metilprednisolona es útil para prevenir o disminuir las reacciones tardías.",
+            "D": "Podemos usar bolos de Ringer lactato en la reposición de volumen."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 102,
+            "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "El glucagón no es el tratamiento de primera línea en pacientes con intoxicación por calcioantagonistas no dihidropirimidínicos.  En estas situaciones se prefiere el tratamiento sintomático y de soporte, siendo el glucagón una opción en casos refractarios.",
+            "incorrectas": {
+                "A": "La adrenalina es fundamental en el manejo inicial de la anafilaxia por su acción vasoconstrictora y broncodilatadora.",
+                "C": "Los corticoides como la metilprednisolona, disminuyen la inflamación y previenen reacciones tardías.",
+                "D": "El Ringer lactato es un fluido adecuado para la reposición de volumen en la anafilaxia."
+            }
+        }
+    },
+    {
+        "id_examen": 80,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Respecto a las manifestaciones clínicas de la intoxicación aguda por bloqueadores beta, señale la respuesta INCORRECTA:",
+        "opciones": {
+            "A": "Bradicardia sinusal.",
+            "B": "Crisis convulsivas.",
+            "C": "Hipopotasemia.",
+            "D": "Hipocalcemia."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 101,
+            "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras. Tratamiento específico."
+        },
+        "explicacion": {
+            "correcta": "La hipopotasemia no es una manifestación típica de la intoxicación aguda por bloqueadores beta. Aunque pueden ocurrir alteraciones electrolíticas, la hipopotasemia no es una característica frecuente de este cuadro clínico.",
+            "incorrectas": {
+                "A": "La bradicardia sinusal es un efecto directo de los bloqueadores beta sobre el nodo sinusal.",
+                "B": "Las crisis convulsivas pueden ocurrir debido a la hipoxia cerebral causada por la bradicardia o la hipotensión.",
+                "D": "La hipocalcemia puede ocurrir en casos graves, aunque no es una característica principal."
+            }
+        }
+    },
+    {
+        "id_examen": 81,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Respecto a la neutropenia febril en el paciente oncológico, señale la respuesta INCORRECTA:",
+        "opciones": {
+            "A": "Las causas más frecuentes son las infecciones.",
+            "B": "No requieren ingreso hospitalario.",
+            "C": "Las medidas generales incluyen aislamiento de barrera inversa.",
+            "D": "El tratamiento de soporte se basa en la administración de factores estimulantes de colonias."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 83,
+            "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+        },
+        "explicacion": {
+            "correcta": "La neutropenia febril en pacientes oncológicos SIEMPRE requiere ingreso hospitalario debido al alto riesgo de infecciones graves y potencialmente mortales.  La administración de antibióticos de amplio espectro y la monitorización estrecha son cruciales.  Por lo tanto, la opción B es incorrecta.",
+            "incorrectas": {
+                "A": "Las infecciones son, de hecho, la causa más común de neutropenia febril en pacientes oncológicos, debido a la inmunosupresión.",
+                "C": "El aislamiento de barrera inversa es una medida fundamental para prevenir la infección en pacientes neutropénicos.",
+                "D": "Los factores estimulantes de colonias (CSF) son parte esencial del tratamiento de soporte para estimular la producción de neutrófilos."
+            }
+        }
+    },
+    {
+        "id_examen": 82,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Indique la enfermedad dermatológica de menor riesgo vital, en el listado siguiente:",
+        "opciones": {
+            "A": "Necrolisis epidérmica tóxica.",
+            "B": "Síndrome de Stevens-Johnson.",
+            "C": "Síndrome de la piel escaldada estafilocócica.",
+            "D": "Herpes simple extenso."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 102,
+            "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "De las opciones presentadas, el herpes simple extenso, aunque puede ser doloroso y causar molestias significativas, representa la menor amenaza para la vida en comparación con las otras opciones que implican potencialmente lesiones cutáneas graves y extensas con riesgo de sepsis e incluso muerte.",
+            "incorrectas": {
+                "A": "La necrolisis epidérmica tóxica (NET) es una reacción adversa a medicamentos que causa desprendimiento extenso de la piel, con alto riesgo de mortalidad.",
+                "B": "El síndrome de Stevens-Johnson es una reacción adversa a medicamentos similar a la NET, pero menos grave, aunque también con riesgo de mortalidad.",
+                "C": "El síndrome de la piel escaldada estafilocócica es una infección cutánea grave, especialmente en niños pequeños, que puede provocar deshidratación, sepsis y fallo multiorgánico."
+            }
+        }
+    },
+    {
+        "id_examen": 83,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Los factores predictivos de suicidio son múltiples, encontrándose entre ellos los siguientes, EXCEPTO:",
+        "opciones": {
+            "A": "Intentos de suicidio previos.",
+            "B": "Cáncer.",
+            "C": "Consumo de drogas.",
+            "D": "Embarazo."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 93,
+            "tema": "Depresión e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Si bien el cáncer, el consumo de drogas y los intentos previos de suicidio son factores de riesgo bien establecidos para el suicidio, el embarazo no se considera un factor de riesgo generalizado. De hecho, en algunos casos, el embarazo puede actuar como factor protector.",
+            "incorrectas": {
+                "A": "Los intentos de suicidio previos son un factor de riesgo extremadamente significativo para futuros intentos de suicidio.",
+                "B": "El cáncer y la enfermedad grave pueden llevar a la desesperación y aumentar el riesgo de suicidio.",
+                "C": "El abuso de drogas, especialmente el alcohol y las drogas psicoactivas, está fuertemente asociado con un mayor riesgo de suicidio."
+            }
+        }
+    },
+    {
+        "id_examen": 84,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Si un paciente consulta por pérdida brusca de la visión y dolor en un ojo, su primera sospecha diagnóstica será:",
+        "opciones": {
+            "A": "Oclusión arterial retiniana.",
+            "B": "Neuritis óptica.",
+            "C": "Hemorragia en el vítreo.",
+            "D": "Desprendimiento de retina."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 91,
+            "tema": "Exploración oftalmológica básica. Diagnóstico diferencial del ojo rojo. Pérdida brusca de visión. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La pérdida brusca de visión y el dolor ocular sugieren una neuritis óptica, inflamación del nervio óptico.  Aunque otras opciones pueden causar pérdida de visión, la combinación de pérdida súbita de visión y dolor es más indicativa de neuritis óptica.  Requiere evaluación urgente por oftalmólogo.",
+            "incorrectas": {
+                "A": "La oclusión arterial retiniana suele provocar una pérdida de visión súbita e indolora.",
+                "C": "Una hemorragia vítrea puede causar una disminución de la visión, pero generalmente no se acompaña de dolor intenso.",
+                "D": "El desprendimiento de retina puede causar pérdida de visión, a menudo descrita como un velo o cortina que cae sobre el campo visual,  pero generalmente no es doloroso al inicio."
+            }
+        }
+    },
+    {
+        "id_examen": 85,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el tratamiento del esguince de tobillo, señale la respuesta INCORRECTA:",
+        "opciones": {
+            "A": "Heparina de bajo peso molecular, si inmovilización.",
+            "B": "Grado I: Vendaje elástico, durante 3 semanas.",
+            "C": "Grado II: Férula enyesada, durante 3 semanas.",
+            "D": "Grado III: Botín de yeso, durante 4 semanas."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 87,
+            "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "En un esguince de tobillo de grado I, la inmovilización rígida no es necesaria. Un vendaje elástico proporciona soporte y compresión adecuados para controlar el edema y el dolor. La duración del vendaje elástico puede variar según la respuesta individual del paciente, pero 3 semanas es excesivo para un grado I. Es recomendable realizar una evaluación periódica para ajustar el tratamiento.",
+            "incorrectas": {
+                "A": "La heparina de bajo peso molecular se considera en casos de inmovilización prolongada para prevenir la trombosis venosa profunda, un riesgo conocido asociado a la inmovilización.",
+                "C": "Un esguince de grado II requiere una inmovilización más rígida, como una férula de yeso, para permitir la curación adecuada de los ligamentos parcialmente rotos.",
+                "D": "Un esguince de grado III implica una rotura completa de los ligamentos, necesitando una inmovilización más prolongada, como un botín de yeso, para una adecuada cicatrización."
+            }
+        }
+    },
+    {
+        "id_examen": 86,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Según las recomendaciones del Proceso Asistencial Integrado de la Atención al Trauma Grave (2ª edición, 2020), señale la respuesta INCORRECTA:",
+        "opciones": {
+            "A": "La compresión manual directa es la primera medida ante un sangrado activo externo.",
+            "B": "En pacientes con trauma grave con signos de shock hemorrágico, se debe administrar ácido tranexámico lo antes posible.",
+            "C": "En pacientes inconscientes se debe asumir daño de columna hasta que haya evidencia que lo excluya.",
+            "D": "Se recomienda la administración de metilprednisolona en el tratamiento de la lesión medular aguda"
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "La metilprednisolona no está recomendada en el tratamiento de la lesión medular aguda, ya que estudios han demostrado que no mejora los resultados funcionales a largo plazo y puede incluso tener efectos adversos.  El enfoque actual se centra en la estabilización de la columna vertebral, el manejo respiratorio y la prevención de complicaciones.",
+            "incorrectas": {
+                "A": "La compresión manual directa es el primer paso fundamental para controlar un sangrado externo activo antes de cualquier otra intervención.",
+                "B": "El ácido tranexámico se recomienda para reducir la mortalidad por hemorragia en pacientes con trauma grave y signos de shock hemorrágico.  Su administración temprana es crucial.",
+                "C": "En pacientes inconscientes, siempre se debe sospechar lesión de columna hasta que se demuestre lo contrario mediante estudios de imagen adecuados. La inmovilización es crucial."
+            }
+        }
+    },
+    {
+        "id_examen": 87,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Son signos de alerta, en un paciente con lesión medular cervical, todos los citados a continuación, EXCEPTO:",
+        "opciones": {
+            "A": "Priapismo.",
+            "B": "Hipertensión arterial.",
+            "C": "Bradicardia.",
+            "D": "Arreflexia."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 88,
+            "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La hipertensión arterial no es un signo habitual de lesión medular cervical. De hecho, suele observarse hipotensión por shock neurogénico.  Priapismo, bradicardia y arreflexia son signos que pueden estar presentes.",
+            "incorrectas": {
+                "A": "El priapismo puede ser un signo de lesión medular, indicando disfunción autonómica.",
+                "C": "La bradicardia es posible debido a la disfunción del sistema nervioso autónomo.",
+                "D": "La arreflexia (ausencia de reflejos) es un hallazgo común en la lesión medular."
+            }
+        }
+    },
+    {
+        "id_examen": 88,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el neumotórax a tensión pueden encontrase todos los siguientes hallazgos exploratorios, EXCEPTO:",
+        "opciones": {
+            "A": "Ingurgitación yugular con desviación contralateral de la tráquea.",
+            "B": "Disminución de la movilidad del hemitórax afectado.",
+            "C": "Matidez a la palpación del hemitórax afectado.",
+            "D": "Abolición del murmullo vesicular del hemitórax afectado."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 58,
+            "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+        },
+        "explicacion": {
+            "correcta": "En un neumotórax a tensión, la presión positiva en el espacio pleural colapsa el pulmón y desplaza las estructuras mediastínicas. Esto causa ingurgitación yugular y desviación de la tráquea.  Habrá disminución de la movilidad y abolición del murmullo vesicular en el lado afectado.  La matidez, sin embargo, es característica de un derrame pleural, no de un neumotórax a tensión, que presenta hipersonoridad.",
+            "incorrectas": {
+                "A": "La ingurgitación yugular y la desviación traqueal son signos cardinales de neumotórax a tensión.",
+                "B": "La disminución de la movilidad del hemitórax afectado es debido a la presión intratorácica elevada.",
+                "D": "La abolición del murmullo vesicular se debe al colapso pulmonar."
+            }
+        }
+    },
+    {
+        "id_examen": 89,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el manejo del shock hipovolémico por traumatismo abdominal, señale respuesta INCORRECTA:",
+        "opciones": {
+            "A": "Administración de Ringer lactato si coexiste un traumatismo craneoencefálico.",
+            "B": "Administración precoz de ácido tranexámico, en todo shock hipovolémico.",
+            "C": "Administración de hematíes, en función del grado de shock hipovolémico.",
+            "D": "La cirugía está incluida en la evaluación primaria."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "En un paciente con traumatismo craneoencefálico (TCE) y shock hipovolémico, se debe evitar la sobrecarga de líquidos con Ringer lactato, ya que esto puede aumentar la presión intracraneal y empeorar la condición neurológica.  Se recomiendan soluciones cristaloideas con precaución y monitorización estricta de la presión intracraneal. ",
+            "incorrectas": {
+                "B": "La administración precoz de ácido tranexámico está indicada en el shock hipovolémico para controlar la hemorragia.",
+                "C": "La administración de hematíes es parte del manejo del shock hipovolémico, dependiendo de la gravedad y la respuesta a la reanimación con fluidos.",
+                "D": "La cirugía forma parte de la evaluación primaria en el manejo del shock hipovolémico por traumatismo abdominal, especialmente si se sospecha hemorragia intraabdominal."
+            }
+        }
+    },
+    {
+        "id_examen": 90,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "De las siguientes afirmaciones señale la opción INCORRECTA respecto al síndrome de Guillain Barré (SGB):",
+        "opciones": {
+            "A": "En 2/3 de los pacientes existen antecedentes de virasis inespecíficas en las semanas previas al inicio de los síntomas, siendo más frecuente el Campylobacter jejunii.",
+            "B": "Los hallazgos clínicos que caracterizan al SGB son la arreflexia y la debilidad muscular simétrica de inicio en las extremidades inferiores, con más frecuencia que en las superiores.",
+            "C": "Es muy rara la afectación del sistema vegetativo.",
+            "D": "La complicación más temida es la debilidad de la musculatura respiratoria, que acontece en un tercio de los pacientes."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 69,
+            "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La afectación del sistema vegetativo es una característica común en el síndrome de Guillain-Barré, manifestándose con disfunciones como arritmias, fluctuaciones de la presión arterial y problemas de control de la vejiga e intestino.",
+            "incorrectas": {
+                "A": "Estudios epidemiológicos muestran una asociación significativa entre infecciones previas, especialmente por Campylobacter jejuni, y el desarrollo del SGB.",
+                "B": "La debilidad muscular simétrica y ascendente, comenzando en las piernas y extendiéndose a los brazos, con arreflexia, es una presentación clásica del SGB.",
+                "D": "La debilidad respiratoria es una complicación grave del SGB, que requiere ventilación mecánica en una proporción significativa de pacientes."
+            }
+        }
+    },
+    {
+        "id_examen": 91,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En el estudio de síndrome de hipertensión intracraneal, señale la respuesta que considere verdadera:",
+        "opciones": {
+            "A": "En su forma característica se manifiesta por cefalea hemicraneal, pulsátil, expansiva, de inicio brusco al comienzo.",
+            "B": "En la exploración física pueden encontrarse paresia del VI par craneal y signos de focalidad neurológica, siendo excepcional el edema de papila.",
+            "C": "Entre sus causas destacan: hematoma subdural, abscesos cerebrales, procesos expansivos intracraneales o la hipertensión arterial esencial.",
+            "D": "Ante un síndrome de hipertensión intracraneal está formalmente contraindicada la realización de una punción lumbar. Debe realizarse una tomografía computarizada craneal urgente."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 66,
+            "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapéutica urgente"
+        },
+        "explicacion": {
+            "correcta": "La punción lumbar está contraindicada en el síndrome de hipertensión intracraneal si existe sospecha de masa intracraneal debido al riesgo de herniación cerebral.  Una TC craneal urgente es necesaria para evaluar la presencia de una lesión ocupante de espacio antes de realizar cualquier procedimiento que pueda aumentar la presión intracraneal.",
+            "incorrectas": {
+                "A": "La cefalea en la hipertensión intracraneal suele ser difusa, no hemicraneal, y no necesariamente pulsátil o de inicio brusco.",
+                "B": "Si bien la paresia del VI par craneal y el edema de papila son hallazgos posibles, no son excepcionales.  Los signos de focalidad neurológica pueden estar presentes dependiendo de la localización de la causa subyacente.",
+                "C": "Si bien estas son causas posibles, la hipertensión arterial esencial por sí sola no causa síndrome de hipertensión intracraneal.  Habría que buscar otras causas."
+            }
+        }
+    },
+    {
+        "id_examen": 92,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "De las siguientes características diferenciales entre la diabetes mellitus (DM) tipo 1 y 2, ¿cuál es FALSA?",
+        "opciones": {
+            "A": "La DM-1 tiene marcada agregación familiar.",
+            "B": "La DM-2 se asocia a obesidad.",
+            "C": "La DM-2 suele tener un inicio insidioso.",
+            "D": "La DM-1 tiene tendencia a la cetosis."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 71,
+            "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia. Diabetes mellitus en situaciones especiales."
+        },
+        "explicacion": {
+            "correcta": "La diabetes mellitus tipo 1 (DM1) no tiene una marcada agregación familiar, a diferencia de la DM2.  La DM1 es una enfermedad autoinmune con una fuerte componente genética, pero no se caracteriza por una clara agregación familiar como la DM2.",
+            "incorrectas": {
+                "B": "La DM2 se asocia con frecuencia a obesidad, resistencia a la insulina y factores de riesgo metabólicos.",
+                "C": "La DM2 suele tener un inicio insidioso y asintomático, a menudo diagnosticada en etapas tardías.",
+                "D": "La DM1 se caracteriza por una deficiencia de insulina que lleva a la cetosis."
+            }
+        }
+    },
+    {
+        "id_examen": 93,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En relación con las urgencias tiroideas, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "La semiología de la crisis tirotóxica incluye hipertermia, alteración del sistema nervioso central, alteraciones cardiovasculares y alteraciones gastrointestinales.",
+            "B": "En caso de disminución del estado de conciencia hasta el coma profundo, en la tirotoxicosis grave, se debe sospechar una trombosis de senos venosos cerebrales por su alta prevalencia.",
+            "C": "En todo paciente con crisis mixedematosa lo usual es tener temperatura corporal normal.",
+            "D": "En el coma mixedematoso, la administración de corticoides debe realizarse siempre 30-60 minutos antes de iniciar el tratamiento con hormonas tiroideas, ya que en una emergencia es difícil descartar con seguridad el origen central del hipotiroidismo."
+        },
+        "respuesta_correcta": "C",
+        "clasificacion_temario": {
+            "id": 73,
+            "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "En la crisis mixedematosa, la temperatura corporal suele estar baja (hipotermia), no normal.  Es una manifestación del hipotiroidismo severo.",
+            "incorrectas": {
+                "A": "La crisis tirotóxica se caracteriza por hipertermia, entre otros síntomas.",
+                "B": "Si bien la trombosis de senos venosos cerebrales puede ocurrir en la tirotoxicosis grave, no es la causa más frecuente de disminución del estado de conciencia hasta el coma.",
+                "D": "La administración de corticoides antes de las hormonas tiroideas es una medida prudente en el coma mixedematoso para ayudar a contrarrestar la insuficiencia suprarrenal que a menudo acompaña al hipotiroidismo severo."
+            }
+        }
+    },
+    {
+        "id_examen": 94,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En relación a la hematuria, señale la respuesta FALSA:",
+        "opciones": {
+            "A": "La anticoagulación en rango terapéutico no predispone a la hematuria, de manera que, si estos pacientes presentan dicho síntoma, se debe buscar una lesión orgánica como causa de la misma.",
+            "B": "El sondaje vesical debe evitarse en la hematuria originada por anticoagulantes orales y en la de origen infeccioso sin coágulos. Asimismo, debe valorarse no sondar en la hematuria sin coágulos de otras causas, en ausencia de obstrucción urinaria y en casos autolimitados y recidivantes.",
+            "C": "En el diagnóstico diferencial, si la tira reactiva es positiva para sangre, pero en el sedimento no se hallan hematíes, pensaremos en una mioglobinuria o hemoglobinuria.",
+            "D": "La hematuria que aparece al comienzo de la micción, sugiere un posible origen supravesical."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 76,
+            "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo. Aspectos generales, diagnóstico y tratamiento urgente."
+        },
+        "explicacion": {
+            "correcta": "La hematuria inicial (al comienzo de la micción) sugiere una patología uretral, no supravesical. La hematuria terminal (al final de la micción) sugiere una patología prostática o vesical. La hematuria total (a lo largo de toda la micción) sugiere una patología renal o de los uréteres.",
+            "incorrectas": {
+                "A": "La anticoagulación, aunque puede causar hematuria microscópica, no explica la hematuria macroscópica. Siempre se debe buscar una causa orgánica.",
+                "B": "El sondaje vesical debe ser cuidadoso y está contraindicado en ciertas situaciones para evitar complicaciones, como en presencia de coágulos.",
+                "C": "Una tira reactiva positiva para sangre sin hematíes en el sedimento indica la presencia de pigmentos como mioglobina o hemoglobina."
+            }
+        }
+    },
+    {
+        "id_examen": 95,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Ante la sospecha de hemólisis (anemia hemolítica), solicitaremos los siguientes parámetros, MENOS:",
+        "opciones": {
+            "A": "Bilirrubina indirecta.",
+            "B": "Test de Coombs.",
+            "C": "LDH (lactato deshidrogenasa).",
+            "D": "Transferrina."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 74,
+            "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+        },
+        "explicacion": {
+            "correcta": "La transferrina es una proteína de transporte de hierro, no un parámetro habitual para evaluar la hemólisis.  La hemólisis conduce a un aumento de la bilirrubina indirecta, LDH y puede ser detectada con el test de Coombs.",
+            "incorrectas": {
+                "A": "La bilirrubina indirecta aumenta en la hemólisis debido al incremento de la degradación de la hemoglobina.",
+                "B": "El test de Coombs ayuda a identificar autoanticuerpos contra los eritrocitos.",
+                "C": "La LDH es una enzima intracelular que se libera al plasma en caso de daño celular, incluyendo la destrucción de eritrocitos."
+            }
+        }
+    },
+    {
+        "id_examen": 96,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En la atención al trauma grave, en pacientes con lesiones con sangrado activo, la secuencia de valoración es:",
+        "opciones": {
+            "A": "A-B-C-D-E.",
+            "B": "C-A-B-C-D-E.",
+            "C": "A-B-C.",
+            "D": "Todas son ciertas."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 42,
+            "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+        },
+        "explicacion": {
+            "correcta": "En trauma grave con sangrado activo, la prioridad es asegurar la vía aérea (A), luego la respiración (B), y finalmente la circulación (C).  La secuencia completa se amplía con la discapacidad (D) y la exposición (E), pero la prioridad inicial es ABC. Por lo tanto, la opción correcta es C-A-B-C-D-E, que prioriza la vía aérea y la respiración antes de la circulación, lo que es fundamental para asegurar la oxigenación y perfusión tisular.",
+            "incorrectas": {
+                "A": "Esta secuencia es incorrecta, ya que prioriza la vía aérea sobre la respiración y la circulación. En pacientes con sangrado activo, el control de la hemorragia es crucial.",
+                "C": "Esta secuencia es incompleta, no contempla todos los aspectos de la valoración inicial del trauma grave.",
+                "D": "Incorrecta porque las secuencias A-B-C-D-E y A-B-C son incompletas y no priorizan correctamente según la gravedad de la situación. La opción B prioriza la  oxigenación adecuada, crucial en presencia de sangrado."
+            }
+        }
+    },
+    {
+        "id_examen": 97,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En un paciente con antecedentes de intentos de suicidio previo, se consideran factores de alto riesgo de consumación todos los siguientes EXCEPTO uno:",
+        "opciones": {
+            "A": "Planificación.",
+            "B": "Impulsividad.",
+            "C": "Aparente “tranquilidad”.",
+            "D": "Método violento."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 93,
+            "tema": "Depresión e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La impulsividad, aunque puede ser un factor asociado a intentos de suicidio, no se considera un factor de *alto* riesgo en sí misma.  La planificación, la aparente tranquilidad (que enmascara una profunda desesperación) y la elección de un método violento, sí indican un mayor riesgo de consumación del suicidio.",
+            "incorrectas": {
+                "A": "La planificación detallada de un suicidio es un factor de alto riesgo, ya que demuestra una determinación significativa.",
+                "C": "Una aparente tranquilidad puede ser un signo engañoso de un riesgo inminente. A menudo, la persona que se suicida puede parecer más tranquila justo antes de cometer el acto.",
+                "D": "Un método violento usado en un intento de suicidio indica un mayor riesgo de consumación y gravedad de la situación."
+            }
+        }
+    },
+    {
+        "id_examen": 98,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "Sobre las Reglas de Ottawa aplicadas al traumatismo agudo de tobillo, indique la opción que considere INCORRECTA:",
+        "opciones": {
+            "A": "Es una herramienta útil para la correcta indicación de radiografías en los traumatismos de tobillo.",
+            "B": "La presencia de dolor en la zona maleolar no es imprescindible.",
+            "C": "Incluye la presencia de dolor a la palpación ósea del maléolo lateral o externo.",
+            "D": "Incluye incapacidad para dar 4 pasos seguidos sin ayuda con ese tobillo."
+        },
+        "respuesta_correcta": "B",
+        "clasificacion_temario": {
+            "id": 87,
+            "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "Las Reglas de Ottawa son una herramienta clínica para decidir si es necesario realizar radiografías en traumatismos de tobillo y pie. Un elemento clave es el dolor en la zona maleolar.  Si hay dolor a la palpación en el maleolo, se necesita radiografía. La ausencia de dolor hace innecesaria la radiografía en la mayoría de los casos. La opción B afirma erróneamente que el dolor en la zona maleolar no es imprescindible para la aplicación de las reglas.",
+            "incorrectas": {
+                "A": "Las Reglas de Ottawa son útiles para determinar la necesidad de radiografías de tobillo, reduciendo las radiografías innecesarias.",
+                "C": "El dolor a la palpación del maléolo es uno de los criterios de las Reglas de Ottawa.",
+                "D": "La incapacidad para caminar cuatro pasos es otro criterio de las Reglas de Ottawa."
+            }
+        }
+    },
+    {
+        "id_examen": 99,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "La maniobra de Phalen explora:",
+        "opciones": {
+            "A": "Síndrome del túnel carpiano",
+            "B": "Meniscopatía",
+            "C": "Tenosinovitis de De Quervain.",
+            "D": "Ninguna de las respuestas es correcta."
+        },
+        "respuesta_correcta": "A",
+        "clasificacion_temario": {
+            "id": 87,
+            "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración diagnóstico y tratamiento en urgencias."
+        },
+        "explicacion": {
+            "correcta": "La maniobra de Phalen consiste en flexionar las muñecas durante 60 segundos. La reproducción o exacerbación del dolor y parestesias en el territorio del nervio mediano indica un síndrome del túnel carpiano.",
+            "incorrectas": {
+                "B": "La meniscopatía se diagnostica con otras pruebas, como la exploración física detallada de la rodilla y pruebas de imagen.",
+                "C": "La tenosinovitis de De Quervain afecta a los tendones extensores del pulgar y se diagnostica con la prueba de Finkelstein.",
+                "D": "La maniobra de Phalen es una prueba específica para el síndrome del túnel carpiano."
+            }
+        }
+    },
+    {
+        "id_examen": 100,
+        "fuente": "Examen Médico/a de Familia en Unidades de Urgencia Hospitalaria Andalucía 2021",
+        "enunciado": "En relación con la atención al parto inminente, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+        "opciones": {
+            "A": "Se considera parto inminente cuando la mujer presenta pujos intensos con dilatación completa y presentación baja.",
+            "B": "Una puntuación en el test de Malina superior a 7 indica parto inminente",
+            "C": "No cortaremos el cordón umbilical si no disponemos de material estéril.",
+            "D": "En medio extrahospitalario, o en centros sin presencia de urgencias obstétricas, se realizará de forma sistemática episiotomía."
+        },
+        "respuesta_correcta": "D",
+        "clasificacion_temario": {
+            "id": 78,
+            "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia. Enfermedad inflamatoria pélvica. Vulvovaginitis. Anticoncepción de emergencia."
+        },
+        "explicacion": {
+            "correcta": "La episiotomía (incisión perineal) no se realiza de forma sistemática en partos inminentes en medios extrahospitalarios o centros sin urgencias obstétricas.  Se realiza solo si es médicamente necesario para facilitar el parto y evitar complicaciones graves para la madre o el recién nacido, en caso de sufrimiento fetal o distocia de hombros. La decisión debe ser individualizada y no sistemática.",
+            "incorrectas": {
+                "A": "Esta es la definición correcta de un parto inminente.",
+                "B": "Una puntuación alta en el test de Malina indica una mayor probabilidad de parto inminente.",
+                "C": "En ausencia de material estéril, es preferible no cortar el cordón umbilical para minimizar el riesgo de infección."
+            }
+        }
+    }
+]

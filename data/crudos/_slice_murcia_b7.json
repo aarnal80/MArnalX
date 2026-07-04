@@ -1,0 +1,218 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la intoxicación por colchicina (señale la respuesta falsa):",
+  "opciones": {
+   "A": "En la tercera fase aparece alopecia.",
+   "B": "Hay hipercalcemia e hipernatremia en la segunda fase.",
+   "C": "La aplasia medular se presenta entre los 2 y 7 días.",
+   "D": "La clínica se presenta en tres fases."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de las siguientes entidades sería una contraindicación para la lactancia materna?:",
+  "opciones": {
+   "A": "Hepatitis A.",
+   "B": "Hepatitis A y C.",
+   "C": "Hepatitis B y CMV.",
+   "D": "Ninguna de ellas representaría una contraindicación."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La fluidoterapia está indicada en el tratamiento de (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Shock hipovolémico, distributivo y obstructivo.",
+   "B": "Depleción hidrosalina moderada o grave.",
+   "C": "Descompensación hiperglucémica hiperosmolar no cetósica.",
+   "D": "Edema agudo de pulmón."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la respuesta falsa con relación al tratamiento farmacológico de la hemorragia digestiva alta:",
+  "opciones": {
+   "A": "La estabilidad química del omeprazol se mantiene solo durante 12 horas en perfusión continua.",
+   "B": "La terlipresina se utiliza en bolos intravenosos cada 4 horas.",
+   "C": "La administración de bolos intermitentes de omeprazol ha demostrado ser superior a la perfusión continua de dicho fármaco.",
+   "D": "La somatostatina puede provocar vómitos en el paciente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En una meningitis bacteriana, ¿qué dato NO esperamos encontrar en el análisis del LCR?:",
+  "opciones": {
+   "A": "Descenso de la glucorraquia.",
+   "B": "Aspecto turbio.",
+   "C": "Pleocitosis polinuclear.",
+   "D": "Descenso de la proteinorraquia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En un paciente oncológico con sensación nauseosa entre las 5 y 10 horas antes de empezar el ciclo citotóxico, ¿cuál sería el tratamiento más adecuado?:",
+  "opciones": {
+   "A": "Metoclopramida.",
+   "B": "Lorazepam.",
+   "C": "Metilprednisolona en bolo.",
+   "D": "Ondansetrón."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto al síndrome febril (neutropenia febril) en el paciente oncológico, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La neutropenia febril tiene en menos del 50% un foco claro y su etiología suele ser bacteriana.",
+   "B": "El recuento absoluto de granulocitos inferior a 500/ul.",
+   "C": "Temperatura superior a 38º en el momento de consulta.",
+   "D": "Las causas más frecuentes son las infecciones."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el shock hemorrágico, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La principal causa de shock en el trauma grave es la hemorragia.",
+   "B": "El aumento de la pérdida de sangre produce un aumento de la frecuencia cardiaca y disminución de la presión arterial.",
+   "C": "La clasificación del Advance Trauma LifeSupport (ATLS) sobre la gravedad de la hemorragia predice la mortalidad quirúrgica del paciente con trauma grave.",
+   "D": "Con el sangrado leve no hay cambios significativos en la frecuencia respiratoria o en el nivel de conciencia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La respuesta ocular conocida como \"ojos de muñeca\" en un/a paciente en coma indica:",
+  "opciones": {
+   "A": "Lesión protuberencial.",
+   "B": "Lesión bulbar.",
+   "C": "Lesión del sistema oculomotor derecho.",
+   "D": "Normalidad del tronco encefálico y del sistema oculomotor."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La fractura denominada del “boxeador “se caracteriza por:",
+  "opciones": {
+   "A": "Fractura de la base del quinto metacarpiano.",
+   "B": "Fractura de la falange distal del quinto metacarpiano.",
+   "C": "Fractura del cuello del quinto metacarpiano.",
+   "D": "Fractura de la falange proximal del quinto metacarpiano."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Es FALSO, en cuanto al índice de Truelove-Witts modificado:",
+  "opciones": {
+   "A": "Es el más utilizado para cuantificar el grado de actividad de la enfermedad de Crohn.",
+   "B": "Entre sus variables incluye la hemoglobina y la temperatura.",
+   "C": "Clasifica la actividad como leve, moderada y grave.",
+   "D": "Cuantifica deposiciones al día."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale cuál de los siguientes NO es un dato de laboratorio frecuente en el shock cardiogénico:",
+  "opciones": {
+   "A": "Aumento de la urea.",
+   "B": "pH superior a 7,35.",
+   "C": "Hiperglucemia.",
+   "D": "Hipoxemia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto al shock séptico, señale la opción FALSA:",
+  "opciones": {
+   "A": "Suele existir hipovolemia, por lo que reponer volumen es esencial.",
+   "B": "Los fármacos vasoconstrictores tienen un papel fundamental en este tipo de shock.",
+   "C": "Es fundamental tratar y drenar el foco infeccioso.",
+   "D": "La mortalidad de este tipo de shock es muy baja."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a la gastroenteritis aguda en la infancia y su tratamiento, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "En el tratamiento se debe incluir bebidas isotónicas preparados caseros o zumos de frutas.",
+   "B": "Se prefiere la hidratación intravenosa frente a la oral para minimizar la sintomatología cuanto antes.",
+   "C": "El tratamiento con soluciones de rehidratación oral (SRO) está indicada en el tratamiento de la deshidratación aguda, pero solo para deshidratación isotónica.",
+   "D": "Las bebidas isotónicas comerciales (tipo AQUARIUS) están contraindicadas por su alta osmolaridad, exceso de glucosa y déficit de sales, por lo que provoca una diarrea osmótica que agrava el cuadro."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Durante el embarazo se producen una serie de cambios en los datos de laboratorio:",
+  "opciones": {
+   "A": "Aumento de amilasemia mínimamente.",
+   "B": "Disminución de calcemia.",
+   "C": "Disminución del hematocrito.",
+   "D": "Disminución de la urea plasmática."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Paciente de 62 años, que acude a urgencias con dolor retroesternal de inicio súbito e intenso, rasgante y sensación de muerte, que irradia a la espalda, que presenta hipertensión arterial y ECG normal. Sospecha en primer lugar:",
+  "opciones": {
+   "A": "Hernia de hiato con reflujo importante y esperaría al resultado de la gastroscopia.",
+   "B": "Infarto agudo de ventrículo derecho y realizaría ECG incluyendo derivaciones V3R y V4R.",
+   "C": "Disección de aorta y realizaría un ecocardiograma transesofágico y un TAC.",
+   "D": "Embolismo pulmonar izquierdo por irradiación y le daría heparina."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "El marcapasos más clásico, el VVI, es un aparato que...:",
+  "opciones": {
+   "A": "Sensa en el ventrículo, estimula en el ventrículo y si detecta actividad se inhibe.",
+   "B": "Sensa en la aurícula, estimula en el ventrículo y si detecta actividad se inhibe.",
+   "C": "Sensa en el ventrículo, estimula en la aurícula y si detecta actividad se inhibe.",
+   "D": "Sensa en aurícula, estimula en la aurícula y si detecta actividad hace trigger."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la intoxicación por barbitúricos (señale la respuesta falsa):",
+  "opciones": {
+   "A": "La administración de carbón activado es útil incluso si el fenobarbital se ha administrado por vía iv.",
+   "B": "La dosis letal de pentobarbital es de 2 g.",
+   "C": "El lavado gástrico es útil en las primeras 4h tras la sobredosis.",
+   "D": "No es necesario adoptar las medidas generales de reanimación (CAB)."
+  },
+  "respuesta_correcta": "D"
+ }
+]

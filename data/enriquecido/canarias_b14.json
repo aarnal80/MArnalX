@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 287,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación a las anemias, señale la Respuesta Correcta:",
+  "opciones": {
+   "A": "Se considera una anemia moderada cuando la cifra de Hemoglobina está entre 6- 8 gr/dl",
+   "B": "Las alteraciones neurológicas como parestesias o ataxia, sugieren déficit de Vitamina B12",
+   "C": "El sulfato ferroso debe administrarse en la anemia ferropénica junto con inhibidores de la bomba de protones para favorecer la tolerabilidad",
+   "D": "Las anemias moderadas con buena tolerancia deben ser ingresadas siempre para realizar el estudio etiológico"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "El déficit de vitamina B12 provoca desmielinización de los cordones posteriores y laterales de la médula espinal, lo que se manifiesta como degeneración combinada subaguda con parestesias, ataxia, pérdida de sensibilidad propioceptiva y vibratoria. Estas manifestaciones neurológicas son características y orientadoras del déficit de cobalamina, aunque también pueden preceder a la anemia macrocítica.",
+   "incorrectas": {
+    "A": "La clasificación de severidad de la anemia sitúa la anemia leve con Hb >10 g/dl, moderada entre 8-10 g/dl y grave por debajo de 8 g/dl. Un rango de 6-8 g/dl correspondería a anemia grave, no moderada.",
+    "C": "El sulfato ferroso se absorbe mejor en medio ácido (en ayunas o con vitamina C). Los inhibidores de la bomba de protones elevan el pH gástrico y reducen la absorción del hierro, por lo que deben evitarse simultáneamente, no co-administrarse.",
+    "D": "Las anemias moderadas bien toleradas no requieren ingreso sistemático; pueden estudiarse de forma ambulatoria u hospitalaria según la causa sospechada y la situación clínica del paciente, sin que sea mandatorio el ingreso."
+   }
+  }
+ },
+ {
+  "id_examen": 288,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de éstas no es una causa habitual de anemia macrocítica?",
+  "opciones": {
+   "A": "Anemia hemolítica",
+   "B": "Déficit de vitamina B12",
+   "C": "Alcoholismo",
+   "D": "Hipotiroidismo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La anemia hemolítica es típicamente normocítica (VCM normal entre 80-100 fl), ya que la destrucción acelerada de hematíes maduros no altera el tamaño de los eritrocitos circulantes. La reticulocitosis reactiva puede elevar ligeramente el VCM, pero no es la causa habitual de macrocitosis franca y no se clasifica como anemia macrocítica.",
+   "incorrectas": {
+    "B": "El déficit de vitamina B12 altera la síntesis de ADN en los precursores eritroides, dando lugar a megaloblastosis y macrocitosis marcada (VCM frecuentemente >115 fl), siendo una causa clásica de anemia macrocítica.",
+    "C": "El alcoholismo produce macrocitosis por efecto tóxico directo sobre los eritroblastos, déficit nutricional de folato y B12, y hepatopatía alcohólica, siendo una causa frecuente de anemia macrocítica en urgencias.",
+    "D": "El hipotiroidismo produce macrocitosis de forma característica, probablemente por alteración en la eritropoyesis dependiente de tiroxina y posible asociación con déficit de vitamina B12 (por gastritis autoinmune asociada)."
+   }
+  }
+ },
+ {
+  "id_examen": 289,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Respecto al tratamiento de las anemias, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "El sulfato ferroso para el tratamiento de la anemia ferropénica, se administra preferente en ayunas, evitando su toma simultánea con inhibidores de la bomba de protones.",
+   "B": "La Vitamina B12 para el tratamiento de la anemia por déficit de la misma, se administra a dosis inicial de 1 ampolla cada 24 h por vía intramuscular durante la primera semana, para luego pasar 1 mg/semanal por la misma vía durante 1 o 2 meses siguientes, y 1 mg trimestral de manera indefinida como dosis de mantenimiento.",
+   "C": "En las anemias macrocíticas por déficit de vitamina B12, se dese administrar dicha vitamina B12 parenteral, evitando el uso conjunto con ácido fólico complementario, ya que puede agravar la clínica neurológica o agravarla.",
+   "D": "Las anemias hemolíticas por anticuerpos calientes, se deben tratar inicialmente con esteroides (prednisona a 1- 2 mg/kg/día vía oral), durante 3 semanas, con posterior descenso gradual."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es incorrecta porque el ácido fólico NO agrava la clínica neurológica del déficit de B12; al contrario, el tratamiento con ácido fólico solo (sin B12) puede enmascarar la anemia y permitir que progrese la neuropatía. El manejo correcto es administrar vitamina B12 parenteral junto con ácido fólico oral (5 mg/día) de forma complementaria para asegurar la eritropoyesis normal y evitar el déficit de folato reactivo.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: el sulfato ferroso se absorbe mejor en ayunas y en medio ácido, y los IBP reducen la acidez gástrica interfiriendo con su absorción, por lo que deben evitarse de forma simultánea.",
+    "B": "Esta afirmación es correcta y describe el esquema estándar de tratamiento con cianocobalamina parenteral: fase de inducción diaria la primera semana, semanal uno o dos meses, y mantenimiento trimestral indefinido en déficit por malabsorción.",
+    "D": "Esta afirmación es correcta: la anemia hemolítica autoinmune por anticuerpos calientes (IgG) se trata de primera línea con corticoides (prednisona 1-2 mg/kg/día) durante 3 semanas con descenso gradual posterior."
+   }
+  }
+ },
+ {
+  "id_examen": 290,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuáles son las hemorragias más frecuentes en los pacientes con hemofilia?",
+  "opciones": {
+   "A": "Hemorragias intracraneales.",
+   "B": "Hemorragia digestiva.",
+   "C": "Hematuria.",
+   "D": "Hemartros."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "Los hemartros (hemorragias intraarticulares) constituyen la manifestación hemorrágica más frecuente en la hemofilia, representando aproximadamente el 70-80% de todos los episodios hemorrágicos. Las articulaciones diana son rodillas, codos y tobillos. La hemartros repetida produce artropatía hemofílica crónica con destrucción articular progresiva.",
+   "incorrectas": {
+    "A": "Las hemorragias intracraneales son las más graves y potencialmente letales en la hemofilia, pero son poco frecuentes. Su aparición constituye una emergencia hematológica que requiere tratamiento inmediato con factor concentrado.",
+    "B": "La hemorragia digestiva puede ocurrir en pacientes con hemofilia, especialmente en presencia de lesiones gastrointestinales concomitantes, pero no es la localización más frecuente de sangrado.",
+    "C": "La hematuria puede aparecer espontáneamente en pacientes con hemofilia, pero es menos frecuente que los hemartros y generalmente de menor gravedad clínica."
+   }
+  }
+ },
+ {
+  "id_examen": 291,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿La hemofilia A se produce por un déficit cuantitativo o cualitativo, de qué factor de la coagulación?",
+  "opciones": {
+   "A": "Factor IX",
+   "B": "Factor X",
+   "C": "Factor VIII",
+   "D": "Factor VII"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La hemofilia A es una coagulopatía hereditaria ligada al cromosoma X causada por déficit cuantitativo o cualitativo del factor VIII de la coagulación (factor antihemofílico A). Es la forma más frecuente de hemofilia, representando el 80-85% de los casos. El factor VIII actúa como cofactor del factor IXa en la vía intrínseca de la coagulación, siendo esencial para la formación del complejo tenasa intrínseco.",
+   "incorrectas": {
+    "A": "El factor IX está implicado en la hemofilia B (enfermedad de Christmas), que es la segunda forma más frecuente de hemofilia y se presenta clínicamente de forma similar a la hemofilia A pero es genéticamente distinta.",
+    "B": "El déficit de factor X produce una coagulopatía autosómica recesiva diferente a las hemofilias clásicas, con alargamiento tanto del TTPA como del TP, patrón que no se observa en la hemofilia A.",
+    "D": "El déficit de factor VII produce una coagulopatía autosómica recesiva que se manifiesta con alargamiento aislado del tiempo de protrombina (TP) con TTPA normal, al contrario que la hemofilia A donde solo se alarga el TTPA."
+   }
+  }
+ },
+ {
+  "id_examen": 292,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes alteraciones analíticas NO debería aparecer en una reacción hemolítica aguda?",
+  "opciones": {
+   "A": "Hemoglobinemia",
+   "B": "Hemoglobinuria",
+   "C": "Prueba de Coomb directa positiva",
+   "D": "Hiperbilirrubinemia de predominio directo"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "En la hemólisis aguda, la destrucción de hematíes libera hemoglobina que se metaboliza a bilirrubina no conjugada (indirecta). Por tanto, la hiperbilirrubinemia esperada es de predominio INDIRECTO (no conjugado), ya que el hígado no puede conjugar toda la bilirrubina generada de forma aguda. La hiperbilirrubinemia de predominio directo (conjugado) es característica de colestasis o disfunción hepatocelular, no de hemólisis.",
+   "incorrectas": {
+    "A": "La hemoglobinemia (presencia de hemoglobina libre en plasma) aparece en la hemólisis intravascular aguda cuando la capacidad de unión de la haptoglobina se supera, siendo un marcador de hemólisis intravascular.",
+    "B": "La hemoglobinuria (hemoglobina en orina que le da color rojizo/marrón) se produce cuando la hemoglobinemia supera el umbral renal de reabsorción, siendo característica de hemólisis intravascular grave.",
+    "C": "La prueba de Coombs directa detecta anticuerpos o complemento unidos a la superficie del hematíe; es positiva en la anemia hemolítica autoinmune, que es una causa frecuente de reacción hemolítica aguda."
+   }
+  }
+ },
+ {
+  "id_examen": 293,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Con respecto al tratamiento de las anemias hemolíticas autoinmunitarias por anticuerpos calientes, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La esplenectomía y el empleo de inmunosupresores, se reservan para casos en los que no responden a corticoides",
+   "B": "Se tratan inicialmente con esteroides, tipo prednisona a dosis de 1- 2 mg/kg/día durante 3 semanas, para posterior descenso gradual",
+   "C": "Se debe asociar al tratamiento con esteroides, ácido fólico 5 mg/24horas",
+   "D": "Ante hemoglobina <8 mg/dl, está indicada la transfusión de concentrado de hematíes"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La afirmación D es incorrecta porque en la anemia hemolítica autoinmune por anticuerpos calientes, la transfusión no se indica de forma sistemática con Hb <8 g/dl. Dado que los anticuerpos reaccionan con antígenos presentes en todos los hematíes, la transfusión es técnicamente difícil (incompatibilidad serológica universal) y puede acelerar la hemólisis. Solo se transfunde en situaciones de compromiso hemodinámico grave y se utiliza la sangre menos incompatible disponible.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: la esplenectomía (que elimina el principal órgano de destrucción de hematíes opsonizados) y los inmunosupresores (azatioprina, ciclofosfamida, rituximab) se reservan para pacientes refractarios a corticoides.",
+    "B": "Esta afirmación es correcta: la prednisona a 1-2 mg/kg/día durante 3 semanas es el tratamiento de primera línea estándar para la anemia hemolítica autoinmune por anticuerpos calientes.",
+    "C": "Esta afirmación es correcta: el ácido fólico (5 mg/24h) se añade al tratamiento para compensar el mayor consumo de folato derivado del aumento de eritropoyesis reactiva a la hemólisis."
+   }
+  }
+ },
+ {
+  "id_examen": 294,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál no es una posible causa de anemia normocítica?",
+  "opciones": {
+   "A": "Anemia hemolítica",
+   "B": "Hemorragia aguda",
+   "C": "Anemia por insuficiencia renal",
+   "D": "Criogloblulinemia"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La crioglobulinemia es un trastorno en el que las inmunoglobulinas precipitan en frío, produciendo vasculitis, neuropatía, artritis y glomerulonefritis, pero no causa anemia normocítica de forma característica. Si produce anemia, esta generalmente se relaciona con la enfermedad de base subyacente (hepatitis C, mieloma, etc.) y no es un mecanismo directo de normocitosis.",
+   "incorrectas": {
+    "A": "La anemia hemolítica cursa típicamente con normocitosis, ya que la destrucción de hematíes maduros no altera el VCM. La reticulocitosis puede elevar ligeramente el VCM pero la clasificación es normocítica.",
+    "B": "La hemorragia aguda produce anemia normocítica normocrómica en las primeras horas, ya que se pierden hematíes de tamaño normal. La reticulocitosis compensadora aparece a los 5-7 días.",
+    "C": "La anemia de la insuficiencia renal crónica es normocítica normocrómica, producida por déficit de eritropoyetina endógena que reduce la estimulación de la eritropoyesis en la médula ósea."
+   }
+  }
+ },
+ {
+  "id_examen": 295,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Con respecto a las hemofilias, señale la incorrecta:",
+  "opciones": {
+   "A": "Son enfermedades congénitas, de carácter hereditario, que se transmiten de forma dominante, ligada al cromosoma X",
+   "B": "Se deben a un déficit cuantitativo o cualitativo en la síntesis del factor VIII (Hemofilia A) o del factor IX (hemofilia B)",
+   "C": "Las hemorragias más frecuentes son los hemartros (75%)",
+   "D": "Las hemorragias cutaneomucosas son menos frecuentes"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La afirmación A es incorrecta porque la hemofilia se transmite de forma RECESIVA ligada al cromosoma X, no dominante. Las mujeres portadoras (con un alelo defectuoso) generalmente no presentan clínica hemorrágica significativa, mientras que los varones hemicigóticos (XY) con el alelo defectuoso expresan la enfermedad. Si fuese dominante, las portadoras también serían enfermas.",
+   "incorrectas": {
+    "B": "Esta afirmación es correcta: la hemofilia A se debe a déficit de factor VIII y la hemofilia B (enfermedad de Christmas) a déficit de factor IX, ambos integrantes de la vía intrínseca de la coagulación.",
+    "C": "Esta afirmación es correcta: los hemartros representan aproximadamente el 70-80% de todos los episodios hemorrágicos en pacientes hemofílicos, siendo la manifestación clínica más característica.",
+    "D": "Esta afirmación es correcta: en la hemofilia, a diferencia de los trastornos de la hemostasia primaria (como la trombocitopenia), las hemorragias cutaneomucosas (petequias, equimosis superficiales) son menos frecuentes que las musculoesqueléticas profundas."
+   }
+  }
+ },
+ {
+  "id_examen": 296,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes causas de pancitopenias es primaria?",
+  "opciones": {
+   "A": "Hiperesplenismo",
+   "B": "Hemoglobinuria paroxística nocturna",
+   "C": "Paludismo",
+   "D": "Síndrome hemafagocítico"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La hemoglobinuria paroxística nocturna (HPN) es una causa primaria de pancitopenia, producida por una mutación somática adquirida del gen PIG-A en una célula madre hematopoyética, que genera un clon de células hematopoyéticas deficientes en proteínas de anclaje al GPI (entre ellas CD55 y CD59, inhibidoras del complemento). Esto provoca hemólisis intravascular crónica, trombosis y pancitopenia de origen central.",
+   "incorrectas": {
+    "A": "El hiperesplenismo es una causa secundaria (extrínseca) de pancitopenia, producida por secuestro y destrucción acelerada de células sanguíneas en un bazo hiperfuncionante, generalmente por hipertensión portal u otras causas de esplenomegalia.",
+    "C": "El paludismo (malaria) es una causa secundaria de pancitopenia de origen infeccioso; Plasmodium destruye hematíes, pero también puede producir trombocitopenia y leucopenia por mecanismos inmunológicos y de secuestro esplénico.",
+    "D": "El síndrome hemofagocítico es una causa secundaria de pancitopenia, desencadenado por infecciones (VEB, CMV), enfermedades autoinmunes o neoplasias; produce activación excesiva de macrófagos que fagocitan células hematopoyéticas."
+   }
+  }
+ },
+ {
+  "id_examen": 297,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el tratamiento inicial trombocitopenia inmunitaria idiopática crónica?",
+  "opciones": {
+   "A": "Rituximab",
+   "B": "Corticoides",
+   "C": "Esplenectomía",
+   "D": "Análogos de la trombopoyetina"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "Los corticoides (prednisona 1-2 mg/kg/día o dexametasona a altas dosis) son el tratamiento de primera línea de la trombocitopenia inmunitaria primaria (PTI) crónica. Actúan reduciendo la producción de anticuerpos antiplaquetarios, inhibiendo la fagocitosis esplénica de plaquetas opsonizadas y aumentando la producción plaquetaria. La mayoría de pacientes responden inicialmente, aunque las recaídas al descender la dosis son frecuentes.",
+   "incorrectas": {
+    "A": "El rituximab (anticuerpo anti-CD20) es una opción de segunda línea en la PTI refractaria o en recaída tras esplenectomía, no el tratamiento inicial de elección.",
+    "C": "La esplenectomía es un tratamiento de segunda línea reservado para la PTI crónica refractaria a corticoides, ya que elimina el principal órgano de destrucción plaquetaria y de producción de autoanticuerpos. No se usa como tratamiento inicial.",
+    "D": "Los análogos de la trombopoyetina (eltrombopag, romiplostim) son agonistas del receptor de TPO que estimulan la producción de plaquetas; se utilizan en PTI crónica refractaria a corticoides y esplenectomía, no como tratamiento de inicio."
+   }
+  }
+ },
+ {
+  "id_examen": 298,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La transfusión profiláctica de pool de plaquetas en pacientes adultos estable con trombocitopenia aguda de origen central, está indicada cuando el recuento de plaquetario es:",
+  "opciones": {
+   "A": "Siempre",
+   "B": "Inferior a 10000/microl",
+   "C": "Inferior a 20000/microl",
+   "D": "Inferior a 30000/microl"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "Las guías actuales establecen que la transfusión profiláctica de plaquetas en pacientes adultos hemodinámicamente estables con trombocitopenia de origen central (p.ej., aplasia medular post-quimioterapia) está indicada cuando el recuento es inferior a 10.000/microl, ya que por debajo de este umbral el riesgo de hemorragia espontánea grave (especialmente intracraneal) aumenta significativamente. Este umbral puede elevarse a 20.000/microl si existen factores de riesgo adicionales.",
+   "incorrectas": {
+    "A": "La transfusión de plaquetas no está indicada de forma indiscriminada. Se basa en umbrales de recuento, situación clínica y factores de riesgo, no de forma sistemática en todos los pacientes con cualquier grado de trombocitopenia.",
+    "C": "El umbral de 20.000/microl se aplica cuando existen factores de riesgo adicionales (fiebre, mucositis, coagulopatía, procedimiento invasivo inminente), no en el paciente estable sin complicaciones.",
+    "D": "El umbral de 30.000/microl se utiliza en situaciones de mayor riesgo hemorrágico o como umbral previo a procedimientos invasivos mayores, no como indicación profiláctica en el paciente estable."
+   }
+  }
+ },
+ {
+  "id_examen": 299,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes NO se considera un factor predisponente de complicaciones infecciosas en el paciente con neutropenia febril?",
+  "opciones": {
+   "A": "Ausencia de comorbilidades",
+   "B": "Rapidez del descenso en el número de neutrófilos",
+   "C": "Tratamiento previo con corticoides o inmunosupresores",
+   "D": "Alteración de la barrera cutaneomucosa"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido."
+  },
+  "explicacion": {
+   "correcta": "La ausencia de comorbilidades es un factor PROTECTOR, no predisponente. Los pacientes sin enfermedades de base tienen mejor estado general, mayor reserva funcional y menor riesgo de infecciones oportunistas. La presencia de comorbilidades (diabetes, hepatopatía, cardiopatía) sí aumenta el riesgo de complicaciones infecciosas en la neutropenia febril.",
+   "incorrectas": {
+    "B": "La rapidez del descenso del recuento neutrofílico es un factor de riesgo reconocido: cuanto más rápida es la caída, menor es la capacidad adaptativa del organismo y mayor el riesgo de infecciones graves.",
+    "C": "El tratamiento previo con corticoides o inmunosupresores deprime adicionalmente la inmunidad celular y humoral, sumándose al déficit de neutrófilos y aumentando el riesgo y la gravedad de las infecciones.",
+    "D": "La alteración de la barrera cutaneomucosa (mucositis, catéteres venosos centrales, lesiones cutáneas) elimina la primera línea de defensa contra microorganismos, facilitando la translocación bacteriana y las infecciones por gérmenes oportunistas."
+   }
+  }
+ },
+ {
+  "id_examen": 300,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de estos fármacos NO se ha asociado a neutropenia como efecto secundario?",
+  "opciones": {
+   "A": "Metamizol magnésico",
+   "B": "Anfotericina B",
+   "C": "Carbamacepina",
+   "D": "Amlodipino"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido."
+  },
+  "explicacion": {
+   "correcta": "El amlodipino es un bloqueante de los canales de calcio dihidropiridínico utilizado como antihipertensivo y antianginoso. No tiene efecto sobre la mielopoyesis ni se ha asociado de forma significativa a neutropenia como efecto adverso. Sus efectos secundarios principales son edemas maleolares, cefalea, rubefacción y palpitaciones.",
+   "incorrectas": {
+    "A": "El metamizol magnésico (dipirona) es el fármaco más conocido por su asociación con agranulocitosis/neutropenia grave de mecanismo inmunológico, aunque es un efecto idiosincrásico raro. Es una de las causas farmacológicas más importantes de neutropenia en España.",
+    "B": "La anfotericina B puede producir toxicidad hematológica incluyendo anemia (por supresión eritroide) y leucopenia/neutropenia, especialmente con formulaciones convencionales y a dosis altas.",
+    "C": "La carbamazepina es un antiepiléptico que puede producir leucopenia y neutropenia como efecto secundario; en casos graves puede causar aplasia medular. Requiere monitorización periódica del hemograma."
+   }
+  }
+ },
+ {
+  "id_examen": 301,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale lo incorrecto con respecto a la púrpura trombocitopénica trombótica:",
+  "opciones": {
+   "A": "Se trata de un síndrome microangiopático trombótico en el que se producen microtrombos plaquetarios hialinos en los pequeños vasos del sistema nervioso central, riñón, hígado, etc., con el consiguiente fallo orgánico isquémico, consumo de plaquetas y anemia hemolítica mecánica",
+   "B": "Debe sospecharse en un paciente que presente trombocitopenia (entre 10000- 50000/microl), anemia hemolítica, síntomas neurológicos fluctuantes (paresia, afectación de los pares craneales, crisis convulsivas), insuficiencia renal vs hematuria, y fiebre.",
+   "C": "El diagnóstico diferencial se estable con el síndrome hemolítico- urémico",
+   "D": "El tratamiento de elección son los corticoides y antiagregantes plaquetarios"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La afirmación D es incorrecta porque el tratamiento de elección de la PTT NO son los corticoides ni los antiagregantes. El tratamiento estándar es el recambio plasmático (plasmaféresis con plasma fresco congelado), que elimina los anticuerpos anti-ADAMTS13 y aporta la proteasa deficiente. Los antiagregantes están contraindicados por el riesgo de sangrado en un paciente con trombocitopenia grave.",
+   "incorrectas": {
+    "A": "Esta descripción es correcta: la PTT es una microangiopatía trombótica mediada por déficit de ADAMTS13 (proteasa del factor von Willebrand) que provoca microtrombos plaquetarios con isquemia orgánica, hemólisis microangiopática y trombocitopenia por consumo.",
+    "B": "Esta descripción es correcta: la pentada clásica de PTT incluye trombocitopenia, anemia hemolítica microangiopática, síntomas neurológicos fluctuantes, insuficiencia renal y fiebre, aunque no siempre están presentes los cinco elementos.",
+    "C": "Esta afirmación es correcta: el diagnóstico diferencial principal de la PTT es el síndrome hemolítico-urémico (SHU), que comparte la microangiopatía trombótica pero predomina en la afectación renal y habitualmente afecta a niños tras infección por E. coli productora de toxina Shiga."
+   }
+  }
+ },
+ {
+  "id_examen": 302,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En cuanto al tratamiento antibiótico empírico en las neutropenias señale lo INCORRECTO.",
+  "opciones": {
+   "A": "En la neutropenia grave con fiebre, sin signos de sepsis ni foco infeccioso aparente, el tratamiento de elección es la monoterapia con una de las siguientes alternativas: Imipenem, Meropenem, Piperazilina- tazobactam, Ceftazima o Cefepima.",
+   "B": "En caso de enterocolitis o infección perirrectal, se recomienda añadir al betalactámico elegido, Metronidazol 500 mg/8 horas.",
+   "C": "Se debe añadir un aminoglucósido a la monoterapia con betalactámico elegido (Imipenem, Meropenem, Piperazilina- tazobactam, Ceftazima o Cefepima), cuando existen criterios de sepsis grave o shock séptico, o sospecha de infección por cocos gram positivos pendiente de tipificar.",
+   "D": "Si persiste la fiebre al 5º día, se revalúa el paciente, y se solicitan TAC de alta resolución, antígeno de galactomanano, nuevos hemocultivos y cultivos de muestras de cualquier foco accesible potencialmente infectado."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es incorrecta porque cuando se sospecha infección por cocos gram positivos (bacteriemia por catéter, infección de piel/mucosa, mucositis grave) se debe añadir VANCOMICINA (o teicoplanina/daptomicina), no un aminoglucósido. Los aminoglucósidos se añaden al betalactámico ante sospecha de infección por bacilos gram negativos multirresistentes o en situaciones de shock séptico para ampliar espectro y efecto sinérgico, no ante sospecha de grampositivos.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: las guías internacionales (IDSA, SEMC) recomiendan la monoterapia con betalactámico de amplio espectro (carbapenémico o piperacilina-tazobactam o cefalosporina antipseudomónica) como tratamiento empírico inicial en neutropenia febril sin sepsis ni foco identificado.",
+    "B": "Esta afirmación es correcta: la enterocolitis neutropénica y la infección perirrectal son infecciones en las que participan anaerobios, por lo que se añade metronidazol al betalactámico elegido para cubrir este espectro.",
+    "D": "Esta afirmación es correcta: la persistencia de fiebre al 5º día obliga a reevaluar al paciente y descartar infección fúngica invasiva, especialmente aspergilosis, mediante TAC torácico de alta resolución y determinación de galactomanano, además de revisar los cultivos microbiológicos."
+   }
+  }
+ },
+ {
+  "id_examen": 303,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes no es una causa de poliglobulina?",
+  "opciones": {
+   "A": "Policitemia Vera",
+   "B": "Talasemia minor",
+   "C": "Tumor de Wilms",
+   "D": "Hipotiroidismo"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "El hipotiroidismo produce anemia (normocítica o macrocítica), no poliglobulia. La disminución de tiroxina reduce la eritropoyesis y el metabolismo basal, disminuyendo el consumo de oxígeno y por tanto la estimulación eritropoyética. Es una causa de anemia, opuesta a la poliglobulia.",
+   "incorrectas": {
+    "A": "La policitemia vera es la causa primaria más frecuente de poliglobulia, producida por una mutación en JAK2 que genera proliferación autónoma de la serie eritroide independiente de la eritropoyetina.",
+    "B": "La talasemia minor puede asociarse a poliglobulia compensadora con eritrocitosis (aumento del número de hematíes pequeños e hipocrómicos como mecanismo adaptativo para mantener el transporte de oxígeno), aunque la hemoglobina puede estar normal o ligeramente baja.",
+    "C": "El tumor de Wilms (nefroblastoma) es una causa de poliglobulia secundaria por producción ectópica de eritropoyetina, al igual que otros tumores renales (hipernefroma), hepatomas y hemangioblastomas cerebelosos."
+   }
+  }
+ },
+ {
+  "id_examen": 304,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes no es una causa de linfocitosis?",
+  "opciones": {
+   "A": "Leucemia aguda linfoblástica",
+   "B": "Hipertiroidismo",
+   "C": "Síndrome de Guillain Barré",
+   "D": "Alcoholismo crónico"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "El alcoholismo crónico se asocia con leucopenia y neutropenia (por toxicidad medular directa del etanol, déficit nutricional y esplenomegalia con hiperesplenismo), no con linfocitosis. La linfopenia es más frecuente en el alcohólico crónico debido a la inmunosupresión asociada.",
+   "incorrectas": {
+    "A": "La leucemia aguda linfoblástica produce linfocitosis por proliferación clonal de linfoblastos inmaduros en sangre periférica, siendo una causa neoplásica característica de linfocitosis extrema.",
+    "B": "El hipertiroidismo puede producir linfocitosis relativa o absoluta por estimulación del sistema inmune mediada por hormonas tiroideas, y se asocia frecuentemente con enfermedades autoinmunes que cursan con linfocitosis.",
+    "C": "El síndrome de Guillain-Barré, como enfermedad mediada por respuesta inmune (autoinmune), puede asociarse a linfocitosis reactiva durante la fase aguda de activación inmunológica, además de pleocitosis linfocitaria en el LCR."
+   }
+  }
+ },
+ {
+  "id_examen": 305,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale en qué valores deben mantenerse los niveles de INR (International Normalized Rations) para que la coagulación sea eficaz y se minimicen los efectos secundarios, en el grupo de pacientes que presentan fibrilación auricular crónica de causa no reumática, y que han padecido recientemente un episodio de isquemia cerebral.",
+  "opciones": {
+   "A": "Inferior a 1.",
+   "B": "Entre 1 y 2.",
+   "C": "Entre 2 y 3.",
+   "D": "Entre 3 y 5."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "El rango terapéutico estándar de INR para la anticoagulación con antagonistas de la vitamina K (acenocumarol, warfarina) en fibrilación auricular no valvular es de 2-3. Este rango proporciona una reducción eficaz del riesgo de tromboembolismo cerebral (>60-70%) con un riesgo hemorrágico aceptable. En pacientes con FA no reumática y antecedente de isquemia cerebral, el beneficio anticoagulante es especialmente relevante dada la alta tasa de recurrencia.",
+   "incorrectas": {
+    "A": "Un INR inferior a 1 indica hipercoagulabilidad (valores normales), sin efecto anticoagulante. En estos pacientes el riesgo de nuevo ictus cardioembólico sería máximo y sin protección farmacológica.",
+    "B": "Un INR entre 1 y 2 está por debajo del umbral terapéutico; la protección antitrombótica es insuficiente y el riesgo de ictus cardioembólico no se reduce de forma adecuada.",
+    "D": "Un INR entre 3 y 5 está sobreanticoagulado; el riesgo de hemorragia grave (intracraneal, digestiva) supera al beneficio antitrombótico adicional. Solo se utiliza este rango en indicaciones muy específicas como prótesis valvulares mecánicas de alto riesgo."
+   }
+  }
+ },
+ {
+  "id_examen": 306,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál sería el tratamiento de elección para el tratamiento de un paciente neoplásico con tratamiento quimioterápico activo, con una trombocitopenia moderada y diagnóstico de una trombosis venosa profunda en miembro inferior derecho?",
+  "opciones": {
+   "A": "Bemiparina",
+   "B": "Enoxaparina",
+   "C": "Fondaparinux",
+   "D": "Tirzaparina"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "El fondaparinux es un pentasacárido inhibidor selectivo del factor Xa que no interacciona con el factor plaquetario 4 (FP4), por lo que tiene menor riesgo de trombocitopenia inducida por heparina (TIH). En pacientes oncológicos con trombocitopenia moderada que desarrollan TVP, el fondaparinux es la opción preferida porque su mecanismo de acción no depende de la unión a plaquetas y tiene menor riesgo de complicaciones hemorrágicas en este contexto. Las HBPM (bemiparina, enoxaparina, tinzaparina) son también opciones en oncología, pero el fondaparinux tiene ventajas en el contexto de trombocitopenia.",
+   "incorrectas": {
+    "A": "La bemiparina es una HBPM de primera generación con buena relación beneficio-riesgo, utilizada en profilaxis y tratamiento tromboembólico, pero en pacientes neoplásicos con trombocitopenia, el fondaparinux es preferible por su perfil de seguridad plaquetaria.",
+    "B": "La enoxaparina es la HBPM más utilizada en oncología (estudios CLOT), pero en presencia de trombocitopenia moderada, el riesgo hemorrágico obliga a considerar alternativas como el fondaparinux con menor interacción plaquetaria.",
+    "D": "La tinzaparina (no tirzaparina) es otra HBPM con evidencia en el tratamiento del tromboembolismo en pacientes neoplásicos, pero comparte los mismos inconvenientes que otras HBPM en el contexto de trombocitopenia por interacción con plaquetas."
+   }
+  }
+ },
+ {
+  "id_examen": 307,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La administración de Idarucizumab se utiliza para la reversión rápida del efecto anticoagulante. ¿De cuáles de los siguientes anticoagulantes de acción directa?:",
+  "opciones": {
+   "A": "Edoxabán",
+   "B": "Dabigatrán",
+   "C": "Apixabán",
+   "D": "Rivaroxabán"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "El idarucizumab (Praxbind) es un fragmento de anticuerpo monoclonal humanizado (Fab) que se une con alta afinidad al dabigatrán libre y unido a la trombina, neutralizando su efecto anticoagulante de forma rápida y completa. Es el antídoto específico aprobado para la reversión urgente del dabigatrán (inhibidor directo de la trombina) en situaciones de sangrado grave o cirugía urgente.",
+   "incorrectas": {
+    "A": "El edoxabán es un inhibidor directo del factor Xa. Su antídoto específico es el andexanet alfa (que también revierte apixabán y rivaroxabán), no el idarucizumab.",
+    "C": "El apixabán es un inhibidor directo del factor Xa. Su reversión se realiza con andexanet alfa o, en ausencia de este, con concentrado de complejo protrombínico (CCP). El idarucizumab no tiene efecto sobre los inhibidores del factor Xa.",
+    "D": "El rivaroxabán es un inhibidor directo del factor Xa. Al igual que apixabán y edoxabán, su antídoto específico es el andexanet alfa, no el idarucizumab, que es exclusivo para el dabigatrán."
+   }
+  }
+ },
+ {
+  "id_examen": 308,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la afirmación INCORRECTA en cuanto a las indicaciones de transfusión:",
+  "opciones": {
+   "A": "La necesidad de transfusión no depende del volumen del sangrado, del tiempo de evolución, situación hemodinámica y antecedentes del paciente",
+   "B": "Hemoglobina igual o inferior a 6 gr/dl casi siempre requiere transfusión",
+   "C": "En la Anemia crónica la transfusión generalmente no debe realizarse cuando la concentración de Hb es superior a 10 gr/dl",
+   "D": "Con hemoglobina entre 6 y 8 gr/dl estaría indicada la transfusión en pacientes con factores de riesgo o síntomas de hipoxemia o descompensación"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Transfusiones."
+  },
+  "explicacion": {
+   "correcta": "La afirmación A es claramente incorrecta porque la decisión de transfundir SÍ depende de todos esos factores: el volumen y la velocidad del sangrado, el tiempo de evolución (la anemia crónica se tolera mejor que la aguda), la situación hemodinámica (taquicardia, hipotensión, síntomas de hipoperfusión) y los antecedentes del paciente (cardiopatía isquémica, insuficiencia respiratoria). La transfusión no es una decisión basada únicamente en un valor de hemoglobina aislado.",
+   "incorrectas": {
+    "B": "Esta afirmación es correcta: con Hb igual o inferior a 6 g/dl, la mayoría de guías recomiendan la transfusión de forma prácticamente universal, dado el riesgo elevado de hipoperfusión tisular grave.",
+    "C": "Esta afirmación es correcta: en la anemia crónica bien tolerada, los mecanismos compensadores (aumento del gasto cardiaco, redistribución del flujo, aumento del 2,3-DPG) permiten una buena adaptación; con Hb >10 g/dl generalmente no está justificada la transfusión.",
+    "D": "Esta afirmación es correcta: con Hb entre 6 y 8 g/dl, la indicación de transfusión es individualizada y depende de la presencia de factores de riesgo (cardiopatía isquémica, EPOC, insuficiencia cardiaca) o síntomas atribuibles a la anemia."
+   }
+  }
+ }
+]

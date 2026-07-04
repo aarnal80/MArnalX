@@ -1,0 +1,521 @@
+[
+  {
+    "id_examen": 111,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Qué hora asumiremos como hora de inicio de los síntomas?",
+    "opciones": {
+      "A": "La hora en la que se despidió de sus amigos tras la cena.",
+      "B": "A las 7:40 a.m.",
+      "C": "A las 8:00 a.m.",
+      "D": "A las 9:00 a.m."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 68,
+      "tema": "Ictus/código ictus"
+    },
+    "explicacion": {
+      "correcta": "En el manejo del ictus isquémico, la hora de inicio de síntomas se define como el último momento conocido en que el paciente estaba asintomático y en buenas condiciones ('last seen well'). Si el paciente se dormía asintomático y amaneció con síntomas, el inicio se retrotrae al último momento en que fue visto sin síntomas, que es cuando se despidió de sus amigos tras la cena. Esto es crítico para calcular la ventana terapéutica de la fibrinólisis (4,5 horas).",
+      "incorrectas": {
+        "B": "Las 7:40 a.m. sería la hora en que el paciente o alguien lo encontró con síntomas, no el último momento conocido asintomático. Usar esta hora sobreestimaría el tiempo real de evolución del ictus.",
+        "C": "Las 8:00 a.m. podría corresponder a la hora de alerta o llamada de emergencias, no al inicio real de síntomas ni al último momento asintomático conocido.",
+        "D": "Las 9:00 a.m. podría corresponder a la hora de llegada al servicio de urgencias u otro hito asistencial, siendo aún más tardía que el inicio real del evento."
+      }
+    }
+  },
+  {
+    "id_examen": 112,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "El paciente, que vive en zona rural, es trasladado por el SUAP al Hospital comarcal que se encuentra a 20 minutos de su localidad. De las siguientes medidas iniciales que debe de aplicar, ¿cuál es la MENOS indicada?",
+    "opciones": {
+      "A": "Canalizar vía venosa en miembro no parético.",
+      "B": "Realizar glucemia capilar.",
+      "C": "Poner gafas nasales a 1.5 L/min de forma sistemática.",
+      "D": "Asegurar vía aérea, ventilación, circulación."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 68,
+      "tema": "Ictus/código ictus"
+    },
+    "explicacion": {
+      "correcta": "La administración sistemática de oxígeno suplementario en el ictus agudo NO está indicada si la saturación de oxígeno es normal (mayor o igual a 94-95%). Las guías actuales (AHA/ESO) desaconsejan la oxigenoterapia rutinaria en pacientes no hipóxicos con ictus, ya que no aporta beneficio y puede ser perjudicial. Solo se administra si SatO2 menor del 94%. Además, el uso de flujo bajo (1,5 L/min) con gafas nasales de forma indiscriminada no tiene evidencia de beneficio.",
+      "incorrectas": {
+        "A": "Canalizar la vía venosa en el miembro no parético es correcto para evitar dificultades de acceso vascular y posibles complicaciones en el miembro afectado.",
+        "B": "La glucemia capilar es imprescindible para descartar hipoglucemia, que puede simular un ictus, y para ajustar el tratamiento (la hiperglucemia empeora el pronóstico neurológico).",
+        "D": "Asegurar vía aérea, ventilación y circulación es el primer paso del manejo de cualquier urgencia vital, incluyendo el ictus agudo."
+      }
+    }
+  },
+  {
+    "id_examen": 113,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "A su llegada al hospital comarcal, el paciente presenta tensión arterial 195/115, saturación de oxígeno de 96%, glucemia capilar de 188 mg/dl, y electrocardiograma en Fibrilación Auricular a 90 lpm. De las siguientes medidas a realizar, ¿cuál de las siguientes NO está indicada?",
+    "opciones": {
+      "A": "Labetalol 20 mgr i.v. en 1-2 minutos.",
+      "B": "AAS 300 mgr más HBPM a dosis profilácticas.",
+      "C": "Retirar gafas nasales.",
+      "D": "Insulina rápida vía subcutánea."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 68,
+      "tema": "Ictus/código ictus"
+    },
+    "explicacion": {
+      "correcta": "La combinación de AAS 300 mg más HBPM a dosis profilácticas NO está indicada en la fase aguda del ictus isquémico cuando se plantea fibrinólisis. El AAS en monoterapia puede considerarse si no se va a fibrinolisar, pero la anticoagulación con HBPM en la fase hiperaguda junto con antiagregación aumenta el riesgo hemorrágico y está contraindicada especialmente antes/durante la trombólisis. En este caso, con FA y posibilidad de trombólisis, la anticoagulación precoz no está indicada.",
+      "incorrectas": {
+        "A": "Labetalol i.v. está indicado si la TA es mayor o igual a 185/110 mmHg y se va a administrar fibrinólisis, o en emergencia hipertensiva con ictus. Con TA 195/115 y posibilidad de fibrinólisis, bajar la TA es necesario.",
+        "C": "Retirar las gafas nasales está indicado dado que la SatO2 es del 96% (normal), y la oxigenoterapia no está indicada de forma sistemática en el ictus agudo sin hipoxia.",
+        "D": "La insulina rápida subcutánea puede estar indicada si la glucemia supera 140-180 mg/dl, ya que la hiperglucemia en el ictus agudo empeora el pronóstico neurológico."
+      }
+    }
+  },
+  {
+    "id_examen": 114,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Al aplicar la escala NIHSS (National institute of Health Stroke Scale) obtiene una puntuación de 7 puntos (afasia global: 2+2+3). ¿Qué haría en estos momentos?",
+    "opciones": {
+      "A": "TAC craneal de perfusión urgente.",
+      "B": "Iniciar inmediatamente, como primera acción, fibrinolisis i.v. con rt-PA 0.9 mg/kg, 10% en 2 min y resto en perfusión durante 60 min.",
+      "C": "Traslado al hospital de referencia sin necesidad de administración de fibrinolítico.",
+      "D": "Las respuestas A) y B) son correctas."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 68,
+      "tema": "Ictus/código ictus"
+    },
+    "explicacion": {
+      "correcta": "Ante un ictus isquémico agudo con NIHSS de 7 puntos (déficit moderado), en un hospital comarcal sin capacidad de trombectomía, el primer paso es realizar un TAC craneal urgente (preferiblemente de perfusión si está disponible) para descartar hemorragia, valorar extensión del infarto y decidir si hay indicación de fibrinólisis o si se trata de una oclusión de gran vaso que requiere trombectomía mecánica en hospital de referencia. No se debe iniciar fibrinólisis antes de tener el TAC.",
+      "incorrectas": {
+        "B": "Iniciar fibrinólisis antes de obtener el TAC craneal es incorrecto y potencialmente peligroso, ya que no se ha descartado una hemorragia intracraneal, que es contraindicación absoluta.",
+        "C": "El traslado inmediato sin ninguna prueba de imagen ni decisión terapéutica es incorrecto; se debe estabilizar y obtener TAC para tomar la decisión óptima (fibrinólisis in situ más traslado para trombectomía si procede, o traslado directo según protocolo).",
+        "D": "Es incorrecta porque la opción B por sí sola es incorrecta (no se puede fibrinolisar sin TAC previo), aunque la A sea correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 115,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Al recibir la TAC craneal se informa como presencia de hiperdensidad de ACM (arteria cerebral media) izquierda (M1). La puntuación de la escala NIHSS apenas ha mejorado (6 puntos), presentando las siguientes constantes: tensión arterial 205/115, glucemia 140 y satO2 del 97%. ¿Cómo actuaría en este momento?",
+    "opciones": {
+      "A": "Administración de perfusión de rt-PA a 0,9 mg/kg.",
+      "B": "Administrar antihipertensivo de manera urgente.",
+      "C": "Derivación a hospital de referencia para plantear posible trombectomía.",
+      "D": "Las respuestas A) y C) son correctas."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 68,
+      "tema": "Ictus/código ictus"
+    },
+    "explicacion": {
+      "correcta": "La TAC muestra hiperdensidad en M1 de la ACM izquierda, lo que indica oclusión de gran vaso. La TA es 205/115 mmHg, que supera el umbral de 185/110 mmHg necesario para poder administrar fibrinólisis de forma segura. Por tanto, la prioridad inmediata es administrar antihipertensivo (labetalol iv) para bajar la TA por debajo de ese umbral, lo que permitirá después administrar rt-PA y/o derivar para trombectomía. Sin controlar la TA no se puede fibrinolisar con seguridad.",
+      "incorrectas": {
+        "A": "Administrar rt-PA con TA de 205/115 mmHg supera el umbral de seguridad (185/110 mmHg) y está contraindicado hasta conseguir reducir la TA. No es la primera acción.",
+        "C": "La derivación para trombectomía está indicada (oclusión de gran vaso), pero no es la acción inmediata prioritaria; primero hay que controlar la TA para poder administrar el fibrinolítico si procede, y luego derivar.",
+        "D": "Es incorrecta porque la opción A no puede realizarse antes de controlar la TA, y la derivación tampoco es la acción más urgente en este momento."
+      }
+    }
+  },
+  {
+    "id_examen": 116,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Qué puntuación le corresponde según la escala de Coma de Glasgow?",
+    "opciones": {
+      "A": "14 puntos.",
+      "B": "13 puntos.",
+      "C": "12 puntos.",
+      "D": "11 puntos."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "La Escala de Coma de Glasgow evalúa tres parámetros: apertura ocular (O: 1-4), respuesta verbal (V: 1-5) y respuesta motora (M: 1-6). Según el contexto clínico descrito (TCE), la puntuación de 12 puntos corresponde a una combinación típica como O3+V4+M5 u otra equivalente, lo que indica un nivel de consciencia alterado moderado.",
+      "incorrectas": {
+        "A": "14 puntos representaría una afectación leve de la conciencia (TCE leve), no compatible con los datos clínicos descritos en el caso.",
+        "B": "13 puntos también corresponde a TCE leve según la mayoría de clasificaciones (GCS 13-15), no compatible con la gravedad del cuadro.",
+        "D": "11 puntos implicaría una afectación más grave, no concordante con los datos clínicos del caso presentado."
+      }
+    }
+  },
+  {
+    "id_examen": 117,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Según su gravedad, en función de la puntuación en la escala de Glasgow, ¿cómo lo clasificamos?",
+    "opciones": {
+      "A": "TCE leve.",
+      "B": "TCE moderado.",
+      "C": "TCE grave.",
+      "D": "Ninguna de las anteriores."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "La clasificación del TCE según la Glasgow Coma Scale es: leve (GCS 13-15), moderado (GCS 9-12) y grave (GCS menor o igual a 8). Con una puntuación de 12 puntos, el paciente se clasifica como TCE moderado.",
+      "incorrectas": {
+        "A": "TCE leve corresponde a GCS 13-15. Una puntuación de 12 ya queda fuera de este rango.",
+        "C": "TCE grave corresponde a GCS menor o igual a 8. Una puntuación de 12 no alcanza esa gravedad.",
+        "D": "Sí existe una clasificación aplicable (TCE moderado), por lo que esta opción es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 118,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Qué exploración complementaría de urgencia estaría indicada?",
+    "opciones": {
+      "A": "TC craneal.",
+      "B": "TC cervical.",
+      "C": "Rx craneal.",
+      "D": "Las opciones A) y B) son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "En un TCE moderado (GCS 9-12) está indicado realizar tanto TC craneal como TC cervical de forma urgente. El TC craneal es imprescindible para detectar lesiones intracraneales (hematoma epidural, subdural, contusión, etc.). El TC cervical es obligatorio porque en todo TCE moderado-grave hay riesgo de lesión cervical asociada que debe descartarse antes de movilizar al paciente.",
+      "incorrectas": {
+        "A": "El TC craneal por sí solo es insuficiente en el TCE moderado, ya que no valora la columna cervical, cuya lesión es frecuente y potencialmente grave en este contexto.",
+        "B": "El TC cervical aislado tampoco es suficiente, pues no detecta las lesiones intracraneales que pueden amenazar la vida.",
+        "C": "La Rx craneal ha sido desplazada por el TC en el TCE moderado-grave, ya que tiene muy baja sensibilidad para lesiones intracraneales y prácticamente no aporta información útil en este contexto."
+      }
+    }
+  },
+  {
+    "id_examen": 119,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Respecto a las intervenciones en este paciente, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Debería evitarse una saturación de O2 < 90%.",
+      "B": "La hiperventilación profiláctica prolongada es recomendable.",
+      "C": "El objetivo hemodinámico es mantener la presión arterial sistólica > 110 mm Hg.",
+      "D": "Los cristaloides isotónicos son los fluidos intravenosos de elección."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "La hiperventilación profiláctica prolongada en el TCE está contraindicada. Aunque la hiperventilación reduce la PCO2 y provoca vasoconstricción cerebral reduciendo la PIC, este efecto es transitorio y la vasoconstricción sostenida puede causar isquemia cerebral secundaria. Solo se acepta la hiperventilación como medida temporal de rescate ante herniación cerebral inminente, nunca de forma profiláctica ni prolongada.",
+      "incorrectas": {
+        "A": "Es correcto evitar SatO2 menor del 90% en el TCE, ya que la hipoxia empeora gravemente el pronóstico neurológico (lesión secundaria).",
+        "C": "Mantener PAS mayor de 110 mmHg es un objetivo hemodinámico correcto en el TCE para asegurar una adecuada presión de perfusión cerebral.",
+        "D": "Los cristaloides isotónicos (suero fisiológico 0,9%) son los fluidos de elección en el TCE. Se evitan las soluciones hipotónicas (como el suero glucosado) porque aumentan el edema cerebral."
+      }
+    }
+  },
+  {
+    "id_examen": 120,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "El paciente presenta vómitos \"en escopetazo\", con posterior deterioro del nivel de conciencia (Glasgow 8 puntos), PA 160/100 mmHg, Frecuencia cardiaca 45 lpm. Respecto a las medidas terapéuticas recomendadas en estos momentos, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Intubación orotraqueal y ventilación mecánica.",
+      "B": "Manitol 0,25-1 g/kg en bolo intravenoso.",
+      "C": "Dexametasona 8 mg en bolo intravenoso.",
+      "D": "Levetiracetam intravenoso como profilaxis de convulsión."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "La dexametasona NO está indicada en el TCE. Los corticoides están contraindicados en el TCE grave porque no reducen la presión intracraneal de origen traumático y han demostrado aumentar la mortalidad (estudio CRASH). Solo están indicados en el edema cerebral vasogénico asociado a tumores o abscesos, no en el TCE.",
+      "incorrectas": {
+        "A": "La intubación orotraqueal y ventilación mecánica están indicadas con GCS menor o igual a 8 para proteger la vía aérea y controlar la ventilación en el TCE grave.",
+        "B": "El manitol (0,25-1 g/kg en bolo iv) es el tratamiento osmótico de elección para reducir la presión intracraneal en el TCE grave con signos de herniación.",
+        "D": "El levetiracetam intravenoso se utiliza como profilaxis anticomicial en el TCE grave durante la primera semana, siendo una opción aceptada en las guías actuales."
+      }
+    }
+  },
+  {
+    "id_examen": 121,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Con los datos de la historia clínica, ¿qué exploración complementaria solicitaría en primer lugar?",
+    "opciones": {
+      "A": "TC craneal.",
+      "B": "Rx columna dorsolumbar.",
+      "C": "Calcemia y proteínas totales.",
+      "D": "Sodio y creatinina en orina."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 70,
+      "tema": "Equilibrio ácido-base/trastornos hidroelectrolíticos"
+    },
+    "explicacion": {
+      "correcta": "El contexto clínico (probable hipercalcemia, posiblemente en paciente oncológico con dolor óseo) orienta a solicitar en primer lugar calcemia y proteínas totales. La hipercalcemia es una urgencia metabólica que puede presentarse con síntomas neurológicos, digestivos y cardíacos. La calcemia total debe interpretarse junto con las proteínas totales (o albúmina) para corregir la calcemia ajustada. Es la prueba diagnóstica más rentable en este contexto.",
+      "incorrectas": {
+        "A": "El TC craneal no es la primera exploración a solicitar si el cuadro clínico orienta a una causa metabólica como la hipercalcemia, salvo que haya signos neurológicos focales o de herniación.",
+        "B": "La Rx de columna dorsolumbar puede ser útil en el estudio de lesiones óseas, pero no es la primera prueba a solicitar cuando la sospecha principal es metabólica.",
+        "D": "El sodio y creatinina en orina son útiles para estudio de disnatremias o síndrome nefrótico, pero no son la primera prueba en el contexto clínico descrito."
+      }
+    }
+  },
+  {
+    "id_examen": 122,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Cuál de las siguientes medidas se incluye en el tratamiento de esta paciente?",
+    "opciones": {
+      "A": "Solución glucosada.",
+      "B": "Cloruro potásico.",
+      "C": "Furosemida.",
+      "D": "Las opciones B) y C) son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 70,
+      "tema": "Equilibrio ácido-base/trastornos hidroelectrolíticos"
+    },
+    "explicacion": {
+      "correcta": "En el tratamiento de la hipercalcemia grave, el pilar fundamental es la hidratación con suero salino fisiológico (no glucosado) a alta dosis para favorecer la calciuresis. La furosemida (diurético de asa) puede añadirse tras hidratación correcta para aumentar la excreción renal de calcio. El cloruro potásico se añade porque la furosemida provoca hipopotasemia que debe corregirse. Ambas medidas (B y C) forman parte del tratamiento estándar de la hipercalcemia.",
+      "incorrectas": {
+        "A": "La solución glucosada no está indicada en la hipercalcemia; se prefiere el suero salino fisiológico (NaCl 0,9%) porque favorece la excreción renal de calcio por competición tubular."
+      }
+    }
+  },
+  {
+    "id_examen": 123,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Cuál de los siguientes fármacos es de elección para tratar a esta paciente?",
+    "opciones": {
+      "A": "Ácido zoledrónico.",
+      "B": "Hidrocortisona.",
+      "C": "Metilprednisolona.",
+      "D": "Las opciones B) y C) son correctas."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 70,
+      "tema": "Equilibrio ácido-base/trastornos hidroelectrolíticos"
+    },
+    "explicacion": {
+      "correcta": "El ácido zoledrónico es un bisfosfonato potente que inhibe la resorción ósea osteoclástica y es el fármaco de elección en la hipercalcemia maligna (hipercalcemia asociada a cáncer). Se administra por vía intravenosa y tiene un efecto sostenido. Es el tratamiento más eficaz para reducir la calcemia de forma duradera en este contexto.",
+      "incorrectas": {
+        "B": "La hidrocortisona (y otros corticoides) se usa en la hipercalcemia por sarcoidosis, linfomas o hipervitaminosis D, pero no es el fármaco de elección en la hipercalcemia maligna por metástasis óseas.",
+        "C": "La metilprednisolona, al igual que la hidrocortisona, tiene un papel limitado en la hipercalcemia maligna típica y no es el tratamiento de primera elección.",
+        "D": "La combinación de hidrocortisona y metilprednisolona no es el tratamiento de elección en la hipercalcemia maligna; el ácido zoledrónico es claramente superior."
+      }
+    }
+  },
+  {
+    "id_examen": 124,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "La paciente refiere dolor en columna lumbar de características mecánicas, y con una intensidad en la escala visual analógica de 8/10. Está tratada con Paracetamol 1 g/6 horas y Naproxeno 500 mg/8 horas, ambos por vía oral. ¿Qué tratamiento para el dolor iniciamos?",
+    "opciones": {
+      "A": "Indometacina.",
+      "B": "Tramadol.",
+      "C": "Metamizol.",
+      "D": "Dexketoprofeno trometamol."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo/crónico/oncológico"
+    },
+    "explicacion": {
+      "correcta": "La paciente ya está tomando un analgésico de primer escalón (paracetamol) y un AINE (naproxeno) a dosis plenas con EVA de 8/10, lo que indica que el dolor no está controlado con los analgésicos del primer escalón de la escalera analgésica de la OMS. El siguiente paso es subir al segundo escalón: opioides débiles, siendo el tramadol el representante más utilizado. Añadir otro AINE no ofrece beneficio adicional significativo cuando ya hay uno pautado.",
+      "incorrectas": {
+        "A": "La indometacina es un AINE y añadirla cuando ya se toma naproxeno no aporta beneficio analgésico adicional y aumenta el riesgo de efectos adversos gastrointestinales y renales.",
+        "C": "El metamizol también es un analgésico del primer escalón; su adición cuando ya hay paracetamol y AINE en dosis plenas no es el paso correcto.",
+        "D": "El dexketoprofeno trometamol es un AINE, por lo que añadirlo a naproxeno duplica la terapia antiinflamatoria sin mejoría significativa del dolor y con mayor riesgo de toxicidad."
+      }
+    }
+  },
+  {
+    "id_examen": 125,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Al cabo de 2 horas, la paciente refiere el dolor con una intensidad en la escala visual analógica de 7/10. ¿Qué fármaco estaría indicado prescribirle en esta situación?",
+    "opciones": {
+      "A": "Tramadol.",
+      "B": "Fentanilo.",
+      "C": "Dexametasona.",
+      "D": "Las opciones contempladas en las respuestas B) y C) son correctas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo/crónico/oncológico"
+    },
+    "explicacion": {
+      "correcta": "Tras iniciar tramadol (segundo escalón) y persistir dolor de EVA 7/10 a las 2 horas, el siguiente paso es escalar al tercer escalón con un opioide potente (fentanilo) y añadir un corticoide (dexametasona), que en el dolor oncológico por compresión o metástasis óseas reduce el edema peritumoral y tiene efecto analgésico coadyuvante. La combinación de fentanilo más dexametasona está indicada en este contexto de dolor oncológico refractario.",
+      "incorrectas": {
+        "A": "El tramadol ya fue prescrito en la pregunta anterior como segundo escalón; si persiste EVA 7/10 a las 2 horas, el tramadol ha fracasado y no es correcto mantenerse en el mismo escalón sin escalar el tratamiento."
+      }
+    }
+  },
+  {
+    "id_examen": 126,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Qué actuación estaría indicada a continuación?",
+    "opciones": {
+      "A": "Garantizar la permeabilidad de la vía aérea.",
+      "B": "Monitorizar la tensión arterial, frecuencia cardiaca, saturación de oxígeno.",
+      "C": "Determinar glucemia capilar.",
+      "D": "Valorar nivel de conciencia y pupilas."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "SVA politraumatizado/shock hipovolémico"
+    },
+    "explicacion": {
+      "correcta": "En la valoración primaria del politraumatizado (ABCDE del ATLS), la primera prioridad siempre es la vía aérea (A: Airway). Garantizar la permeabilidad de la vía aérea con control cervical es el primer paso irrenunciable antes de cualquier otra maniobra, porque sin vía aérea permeable el paciente fallecerá en minutos independientemente del resto de medidas.",
+      "incorrectas": {
+        "B": "La monitorización de constantes (circulación) corresponde al paso C del ABCDE, que se realiza después de asegurar la vía aérea y la ventilación.",
+        "C": "La glucemia capilar forma parte de la evaluación secundaria o de medidas diagnósticas complementarias, no del primer paso de la valoración primaria.",
+        "D": "La valoración neurológica (nivel de conciencia y pupilas) corresponde al paso D (Disability) del ABCDE, que se realiza después de asegurar A, B y C."
+      }
+    }
+  },
+  {
+    "id_examen": 127,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "El paciente muestra una marcada ingurgitación yugular izquierda, hipoventilación en hemitórax izquierdo con timpanismo. PA 80/40 mmHg, FC 120 lpm, SatO2 92%, FR 25 rpm. ¿Cuál sería la actitud prioritaria correcta?",
+    "opciones": {
+      "A": "Toracotomía.",
+      "B": "Drenaje torácico.",
+      "C": "Pericardiocentesis.",
+      "D": "Intubación orotraqueal y ventilación mecánica."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "El cuadro descrito (ingurgitación yugular, hipoventilación más timpanismo en hemitórax izquierdo, hipotensión, taquicardia, hipoxia) es diagnóstico de neumotórax a tensión izquierdo. El tratamiento de elección es la descompresión inmediata mediante drenaje torácico (tubo de tórax) en el 5º espacio intercostal línea axilar media. En situación de emergencia extrema se puede hacer toracocentesis de alivio con aguja, pero el tratamiento definitivo es el drenaje torácico.",
+      "incorrectas": {
+        "A": "La toracotomía es una intervención quirúrgica mayor que no está indicada como primera medida en el neumotórax a tensión; el drenaje torácico es suficiente y más rápido.",
+        "C": "La pericardiocentesis está indicada en el taponamiento cardíaco, que presenta ingurgitación yugular bilateral, tonos cardíacos apagados e hipotensión (tríada de Beck), sin timpanismo ni hipoventilación unilateral.",
+        "D": "La intubación orotraqueal puede ser necesaria, pero no es la medida prioritaria en el neumotórax a tensión; si se intuba antes de drenar, la ventilación con presión positiva puede empeorar dramáticamente el neumotórax a tensión."
+      }
+    }
+  },
+  {
+    "id_examen": 128,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Tras la actuación anterior, el paciente no mejora significativamente. Está sudoroso. PA 80/50 mmHg, FC 120 lpm, relleno capilar 3 segundos. ¿Qué estaría indicado hacer sin demora?",
+    "opciones": {
+      "A": "Canalización una vía venosa central.",
+      "B": "Soluciones cristaloides.",
+      "C": "Soluciones coloides.",
+      "D": "Todas las anteriores."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "SVA politraumatizado/shock hipovolémico"
+    },
+    "explicacion": {
+      "correcta": "Tras drenar el neumotórax y persistir shock (PA 80/50, FC 120, relleno capilar 3 segundos), el diagnóstico es shock hipovolémico por hemorragia asociada (hemotórax probable). El tratamiento inmediato es la reposición de volumen con soluciones cristaloides isotónicas (suero fisiológico o Ringer lactato) en bolos rápidos. Las guías actuales del ATLS establecen los cristaloides como primera línea en el shock hemorrágico del traumatizado.",
+      "incorrectas": {
+        "A": "La canalización de una vía venosa central puede ser necesaria posteriormente, pero no es la medida prioritaria sin demora; primero se deben canalizar dos vías periféricas de grueso calibre y comenzar la reposición de volumen.",
+        "C": "Las soluciones coloides (albúmina, gelatinas, dextranos) no son de primera elección en el shock hemorrágico según las guías actuales del ATLS, que priorizan los cristaloides isotónicos.",
+        "D": "No todas las opciones son correctas de manera simultánea como primera medida; los cristaloides son la respuesta prioritaria e inmediata."
+      }
+    }
+  },
+  {
+    "id_examen": 129,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Tras la actuación anterior, el paciente evoluciona favorablemente. PA 110/60 mmHg, FC 100 lpm. ¿Qué valoración estaría indicada a continuación?",
+    "opciones": {
+      "A": "Escala de coma de Glasgow.",
+      "B": "Valoración de pupilas.",
+      "C": "Signos de lesión cerebral o medular.",
+      "D": "Todas las anteriores."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "SVA politraumatizado/shock hipovolémico"
+    },
+    "explicacion": {
+      "correcta": "Una vez estabilizado el paciente hemodinámicamente (paso C del ABCDE), el siguiente paso es el paso D (Disability): valoración neurológica completa. Esto incluye la Escala de Coma de Glasgow, la evaluación pupilar (tamaño, simetría, reactividad) y la búsqueda de signos de lesión cerebral o medular. Las tres opciones forman parte de la evaluación neurológica estándar en el politraumatizado.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 130,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Qué prueba complementaria es el \"gold estándar\", si está disponible de forma inmediata?",
+    "opciones": {
+      "A": "Rx tórax.",
+      "B": "Ecografía FAST.",
+      "C": "Tomografía axial computarizada (TAC) de tórax con contraste.",
+      "D": "TAC de tórax sin contraste."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "El TAC de tórax con contraste es el gold standard para el diagnóstico de las lesiones torácicas en el politraumatizado estabilizado, incluyendo hemotórax, neumotórax, contusión pulmonar, lesiones aórticas y mediastínicas. El contraste es fundamental para detectar lesiones vasculares (aorta, grandes vasos) que pueden ser letales.",
+      "incorrectas": {
+        "A": "La Rx de tórax es una prueba rápida y de primera línea, pero tiene baja sensibilidad para muchas lesiones torácicas importantes (hemotórax pequeño, contusión pulmonar, lesiones aórticas). No es el gold standard.",
+        "B": "La ecografía FAST (Focused Assessment with Sonography in Trauma) es útil para detectar líquido libre pericárdico y abdominal de forma rápida, pero tiene limitaciones para valorar el parénquima pulmonar y las lesiones vasculares mediastínicas.",
+        "D": "El TAC de tórax sin contraste es inferior al TAC con contraste porque no permite valorar adecuadamente las lesiones vasculares (aorta, grandes vasos), que son las más graves en el traumatismo torácico."
+      }
+    }
+  },
+  {
+    "id_examen": 131,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "¿Qué actuación está indicada?",
+    "opciones": {
+      "A": "Carbón activado.",
+      "B": "Diuresis forzada.",
+      "C": "Flumazenilo.",
+      "D": "Todas las anteriores."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas (etanol/psicofármacos/drogas/CO/causticos)"
+    },
+    "explicacion": {
+      "correcta": "En la intoxicación por benzodiacepinas (u otros psicofármacos) con ingesta reciente, el carbón activado está indicado para reducir la absorción del tóxico si el paciente está consciente y puede proteger la vía aérea, o tras asegurarla. Es la medida de descontaminación digestiva más eficaz y segura en este contexto.",
+      "incorrectas": {
+        "B": "La diuresis forzada no está indicada en la intoxicación por benzodiacepinas porque estos fármacos tienen alta unión a proteínas plasmáticas y no se eliminan eficazmente por vía renal con esta técnica.",
+        "C": "El flumazenilo es el antídoto de las benzodiacepinas, pero su uso sistemático no está indicado de entrada: puede precipitar convulsiones en pacientes dependientes, tiene vida media corta y puede causar efecto rebote. Se reserva para situaciones específicas de compromiso vital severo."
+      }
+    }
+  },
+  {
+    "id_examen": 132,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+    "enunciado": "Durante su estancia en urgencias, la paciente presenta deterioro neurológico (Escala de Glasgow 10 puntos) y respiratorio (Frecuencia Respiratoria 10 respiraciones por minuto.) ¿Qué medidas terapéuticas están indicadas?",
+    "opciones": {
+      "A": "Intubación endotraqueal + ventilación mecánica + Flumazenilo 0,3 mg bolo intravenoso (i.v.) cada 30 segundos.",
+      "B": "Intubación endotraqueal + ventilación mecánica + Flumazenilo 0,6 mg bolo i.v. cada 30 segundos.",
+      "C": "Ventilación bolsa-mascarilla + Flumazenilo 0,3 mg bolo i.v. cada 30 segundos.",
+      "D": "Ventilación bolsa-mascarilla + Flumazenilo 0,6 mg bolo i.v. cada 30 segundos."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas (etanol/psicofármacos/drogas/CO/causticos)"
+    },
+    "explicacion": {
+      "correcta": "Con GCS 10 y FR 10 rpm (bradipnea sin parada respiratoria), la medida inicial es la ventilación con bolsa-mascarilla (ventilación de soporte) junto con la administración de flumazenilo como antídoto de las benzodiacepinas. La dosis estándar de flumazenilo es 0,3 mg en bolo iv cada 30-60 segundos (hasta un máximo de 2 mg). No está indicada la intubación inmediata si el paciente mantiene cierto nivel de conciencia y la ventilación con bolsa-mascarilla es eficaz; la intubación se reserva si no hay respuesta al flumazenilo o deterioro progresivo.",
+      "incorrectas": {
+        "A": "La intubación endotraqueal no está indicada de primera línea si la ventilación con bolsa-mascarilla es suficiente y se puede revertir la intoxicación con flumazenilo. La dosis de 0,3 mg es correcta, pero la intubación prematura es innecesaria en este estadio.",
+        "B": "La intubación endotraqueal no está justificada de inicio, y la dosis de flumazenilo de 0,6 mg en bolo es mayor que la recomendada (0,3 mg), lo que aumenta el riesgo de efectos adversos como convulsiones.",
+        "D": "La ventilación con bolsa-mascarilla es correcta, pero la dosis de flumazenilo de 0,6 mg en bolo supera la dosis estándar recomendada de 0,3 mg por bolo."
+      }
+    }
+  }
+]

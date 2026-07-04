@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Acude un paciente a Urgencias por presentar disnea y tos con expectoración purulenta de varios días de evolución. Como antecedentes personales destacan EPOC severo con obstrucción grave al flujo aéreo y al menos 5 agudizaciones en este último año, habiendo precisado realizar varios ciclos prolongados de corticoides. No tiene alergias medicamentosas. Con los datos aportados, señale cuál de entre los siguientes, es el tratamiento antibiótico de primera elección:",
+  "opciones": {
+   "A": "Ceftazidima 2 g/8 h IV.",
+   "B": "Ceftriaxona 1-2 g/24 h IV.",
+   "C": "Amoxicilina-Ac. clavulánico 1 g/8 h IV.",
+   "D": "Cefuroxima 1-2 g/8 h IV."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Una paciente de 86 años, sin antecedentes relevantes, es atendida en la Unidad de Urgencias Hospitalarias tras presentar un cuadro de presumible autoinmune. En el Triaje, tras detectar una frecuencia cardíaca baja, se realiza un ECG que fue mostrado al facultativo responsable. ¿De qué tipo de arritmia se trata? Señale la correcta. [Se incluye imagen de ECG en el enunciado]",
+  "opciones": {
+   "A": "Bloqueo sinoauricular de segundo grado tipo I.",
+   "B": "Bloqueo de 2º grado Mobitz II (Wenckebach).",
+   "C": "Flutter auricular con respuesta ventricular lenta.",
+   "D": "Bloqueo auriculoventricular de tercer grado o completo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Las lesiones de la muñeca y de la mano son frecuentes y habitualmente debidas a traumatismos o heridas. En las fracturas de escafoides es cierto que (indique la respuesta VERDADERA):",
+  "opciones": {
+   "A": "La no identificación de lesiones entrañas como tumefacción, hematoma, deformidad, o enrojecimiento en la valoración inicial, excluye la presencia de lesión ósea.",
+   "B": "En la exploración física, la compresión axial del primer, segundo o tercer dedo asociado a oposición cubital dolorosa (telescopaje positivo) nos hará sospechar de lesión a nivel hueso escafoides.",
+   "C": "Ante la sospecha de lesión de escafoides, las proyecciones radiológicas básicas de la muñeca (anteroposterior y lateral) son diagnósticos, sin precisar de proyecciones más específicas, como es la proyección para escafoides.",
+   "D": "En caso de alta sospecha diagnóstica no correlacionada con resultados radiológicos, se realizará inmovilización solo con vendaje compresivo, no precisando férula de yeso y realizará una nueva radiografía en 15 días."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La dosis anticoagulante de Enoxaparina para el tratamiento de la TVP con función renal normal sería:",
+  "opciones": {
+   "A": "1 mg/kg/día. No usar si FG < 15 ml/min.",
+   "B": "1 mg/kg/día. No usar si FG < 15 ml/min.",
+   "C": "100 UI/kg/12 h o 150 UI/kg/día.",
+   "D": "175 UI/kg/día."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En ocasiones, ante el hallazgo de derrame pleural en urgencias, se debe realizar el análisis del líquido pleural (LP) para diferenciar entre trasudado y exudado. Para ello, se utilizan los conocidos \"criterios de light\". Señale el criterio que no forma parte de dichos Criterios de Light.",
+  "opciones": {
+   "A": "Cociente entre proteínas del LP y suero superior a 0,4.",
+   "B": "Cociente de proteínas entre el LP y el suero superior a 0,5.",
+   "C": "Cociente de lactato deshidrogenasa (LDH) entre LP y suero superior a 0,6.",
+   "D": "LDH del LP superior a 0,45 veces el límite superior de la LDH sérica normal del laboratorio."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Se conoce como hipertermia a:",
+  "opciones": {
+   "A": "La situación donde la temperatura es mayor de 43°C.",
+   "B": "La situación donde la temperatura es mayor de 39°C.",
+   "C": "La situación donde la temperatura es mayor de 41°C.",
+   "D": "La situación donde la temperatura es mayor de 38°C."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Varón de 52 años con antecedentes de HTA, DLP. Acude a urgencias por fiebre de 39°C de 48h de evolución, así como desorientación y somnolencia. En la exploración física rigidez de nuca. Tras PL se diagnostica de meningitis aguda bacteriana. El inicio de tratamiento antibiótico empírico es:",
+  "opciones": {
+   "A": "Ceftriaxona 2g/12h + vancomicina 10-20mg/kg/8-12h +/- rifampicina 600/12h + ampicilina 2g/8h.",
+   "B": "Ceftriaxona 2g/12h + vancomicina 10-20mg/kg/8-12h +/- rifampicina 600/12h.",
+   "C": "Ciprofloxacino 400mg/12h + ampicilina 2g/8h Ceftriaxona 2g/12h + vancomicina 10-20mg/kg/8-12h +/- rifampicina600/12h + ampicilina 2g/8h.",
+   "D": "Gentamicina 240mg/12."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Si hablamos acerca de las infecciones del tracto urinario (ITU), señale lo CORRECTO:",
+  "opciones": {
+   "A": "Sospecharemos prostatitis ante la presencia de secreción por meato uretral, mucopurulenta o purulenta.",
+   "B": "Una urocultivo superficial negativo descarta la necesidad de tratamiento no se recomienda realizar urocultivo.",
+   "C": "La bacteriuria asintomática se define por un crecimiento bacteriano ≥ 10⁵ UFC/mL en dos muestras consecutivas en mujeres y en cualquier muestra en hombres, en la orina de mitad de una micción.",
+   "D": "La incapacidad para mantener la hidratación oral o tomar medicamentos orales y las dudas con respecto a la adherencia del paciente al tratamiento antibiótico no son criterios de ingreso hospitalario en un paciente con ITU."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "No se considera temperatura de neutropenia febril a:",
+  "opciones": {
+   "A": "Elevación de la temperatura > 38,3°C de manera aislada o bien de 38°C durante una hora que ocurre en un paciente con recuento de neutrófilos ≤ 500 células/mL (o < 1.000 células si se espera que vayan a ser < 500 en las siguientes 24-48 horas).",
+   "B": "Elevación de la temperatura > 39,3°C de manera aislada o bien de 38,7°C durante una hora que ocurre en un paciente con recuento de neutrófilos ≤ 500 células/mL (o < 1.000 células si se espera que vayan a ser < 500 en las siguientes 24-48 horas).",
+   "C": "Elevación de la temperatura de 38,3°C de manera aislada o bien de 38°C durante una hora que ocurre en un paciente con recuento de neutrófilos ≤ 1.500 células/mL.",
+   "D": "Elevación de la temperatura de 37,3°C de manera aislada o bien de 37°C durante una hora que ocurre en un paciente con recuento de neutrófilos ≤ 500 células/mL (o < 1.000 células si se espera que vayan a ser < 500 en las siguientes 24-48 horas)."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿Cuál de las siguientes acciones NO es un objetivo de manejo de la sepsis en la primera hora, según las directrices actuales?",
+  "opciones": {
+   "A": "Administración temprana de antibióticos de amplio espectro.",
+   "B": "Dictar líquidos intravenosos adecuados para optimizar la perfusión tisular.",
+   "C": "Realizar pruebas microbiológicas antes de iniciar el tratamiento antibiótico.",
+   "D": "Administrar dosis de corticosteroides sistémicos si hay hipotensión persistente a pesar de la reanimación inicial."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Llega a urgencias un paciente con cefalea de inicio brusco que describe como el peor dolor que ha tenido en su vida tras levantar un mueble en el trabajo, horas después ha comenzado con náuseas y vómitos y su compañero dice que parecía que se le iba la cabeza. De las siguientes ¿cuál es la aproximación diagnóstica inicial?",
+  "opciones": {
+   "A": "Estado postcrítico.",
+   "B": "Encefailitis.",
+   "C": "Rotura de aneurisma sacular.",
+   "D": "Trombosis venosa cerebral."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Un paciente con los siguientes miembros superiores en extensión, aproximación y rotación interna y los miembros inferiores en extensión indica:",
+  "opciones": {
+   "A": "Estado postcrítico.",
+   "B": "Rigidez de decorticación.",
+   "C": "Rigidez de descerebración.",
+   "D": "Lesión pretubuloanimal inferior."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿Cuál de las siguientes afirmaciones va verdadera sobre las recomendaciones sobre el manejo urgente de la Trombosis Venosa Superficial (TVS)?",
+  "opciones": {
+   "A": "Una trombosis superficial de longitud mayor de 3 cm de longitud y situada a menos de 5 cm indicado tratamiento con Fondaparinux 2,5mg 1 vez al día 30 a 45 días.",
+   "B": "Una trombosis superficial de 5 cm que afecta a la vena safena menor y que está localizada a 5 cm del cayado requiere ser tratada con anticoagulación de la misma pauta que la trombosis venosa profunda.",
+   "C": "Los síntomas de acción directa en el flujo ambulatorio de la TVS en pacientes con TVS en pacientes adultos tratados con anticoagulación a dosis terapéuticas al menos 3 meses.",
+   "D": "En los pacientes con TVS a veces será indicado la necesidad de diálisis en el episodio subintratable o dosis terapéuticas al menos 3 meses."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Acerca de la hemorragia subaracnoidea (HSA) señala la opción FALSA:",
+  "opciones": {
+   "A": "Los dolores aliviantes no está indicado la bronquitis en pacientes en adolescentes, náuseas, vómitos y rigidez de nuca.",
+   "B": "El el paciente tiene una temperatura de 39°C, una frecuencia cardíaca de 118 lpm y una frecuencia respiratoria de 22 rpm, en el contexto de sospecha de HSA en la causa del dolor educacional, cumple criterios de SIRS (síndrome de respuesta inflamatoria sistémica).",
+   "C": "Ante la sospecha de acción directa por parte del cuadro clínico que presenta el paciente, siempre aparece encontrar virus invites de arritmias en sangre viscosa.",
+   "D": "Recomendamos mantener la hidratación oral o tomar medicamentos orales y las dudas con respecto a que la ruptura de un aneurisma en el episodio subintratable o dosis terapéuticas al menos 3 meses."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "¿Cuál de las siguientes opciones, relativas a las recomendaciones antibióticas sobre el punto CURB-65, es INCORRECTA para el manejo de la neumonía adquirida en la comunidad?",
+  "opciones": {
+   "A": "Para pacientes con neumonía y un puntuaje CURB-65 de 0-1, se recomienda inicio del tratamiento empírico con cefalosporinas de segunda generación como cefuroxima.",
+   "B": "Para pacientes con neumonía y un puntuaje CURB-65 de 3 más, se recomienda el tratamiento empírico con cefalosporinas de tercera generación más azitromicina o fluoroquinolonas respiratorias.",
+   "C": "La elección del tratamiento antibiótico para la neumonía no se ve influenciada por el puntaje CURB-65, ya que todos los pacientes requieren un cultivo previo para evaluar la gravedad de la enfermedad.",
+   "D": "Para pacientes con neumonía y un puntuaje CURB-65 de 1, se recomienda inicio del tratamiento empírico con cefalosporinas de segunda generación como cefuroxima."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Acude a Urgencias un paciente de 56 años de edad, con antecedente de mareo recurrente no filiado, por haber sufrido un síncope mientras estaba en bipedestación. La recuperación ha sido completa, y tiene la exploración física como la que se muestra a continuación. Ante los siguientes hallazgos normales, a excepción de la que se logran recodar 2000 células (65% PMN), glucosa 50 y proteínas 130. Según todos estos datos, ¿qué agente etiológico de los siguientes habría que tener menos en cuenta a la hora de instaurar un tratamiento empírico?",
+  "opciones": {
+   "A": "Solicitud urgente de angioTC pulmonar para despistar de Tromboembolismo Pulmonar.",
+   "B": "Solicitud de evaluación ecocardiográfica urgente por sospecha de hipertrofia de Ventrículo Izquierdo.",
+   "C": "Solicitud de evaluación urgente por cardiología, para tomar y evaluar electrocardiológico.",
+   "D": "Solicitud de tratamiento urgente por parte de la ecocardiografía, utilizando coronario agudo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En un paciente con la sospecha de diabetes ¿en qué valor de glucosa en ayunas se determina que la respuesta correcta es la descripción y los síntomas que la definen como \"Puntuaje de Reynolds\"? Señale la respuesta correcta sobre los signos y síntomas que la definen:",
+  "opciones": {
+   "A": "Fiebre, ictericia, dolor abdominal, confusión mental, shock y fiebre.",
+   "B": "Ictericia, fiebre, dolor abdominal, confusión mental, shock y fiebre.",
+   "C": "Ictericia, fiebre, confusión mental, dolor abdominal y paraplejia.",
+   "D": "Ictericia, fiebre, confusión mental, dolor abdominal y paraplejia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Varón de 74 años. Hipertensión de 40 años de evolución con mal control. Consulta por episodio de pérdida de conocimiento y al explorarlo: fiebre (objetivo: se palpan hipoglucemia a hipocondrio izquierdo, en el brazo izquierdo). Presenta disfagia de esfuerzo. TA: E342, FC 110 lpm. ¿Cuál sería el diagnóstico más probable?",
+  "opciones": {
+   "A": "Neumonia basal derecha.",
+   "B": "Apendicitis aguda.",
+   "C": "Aneurisma de aorta abdominal.",
+   "D": "Obstrucción intestinal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En un paciente que consulta por hematoquecia y en el cual, tras una primera aproximación diagnóstica, la hemorragia digestiva baja (HDB) (señale lo CORRECTO según la CURB-65):",
+  "opciones": {
+   "A": "Al tratarse de una HDB, la evaluación del estado hemodinámico no es prioritario y pasa a un segundo plano.",
+   "B": "El foco origen es más probable que sea distal al ligamento de Treitz.",
+   "C": "Al tratarse de una HDB, sabremos que todos los pacientes inestables requieren diálisis al tratamiento empírico.",
+   "D": "Al tratarse de una HDB, sabremos que el foco más probable sea distal al ligamento de Treitz."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "Os acuerdo con la clasificación funcional NYHA de la insuficiencia cardíaca, un paciente en que la actividad física que puede realizar se inferiría a la habitual, de modo que está limitado notablemente por la disnea, diríamos que es:",
+  "opciones": {
+   "A": "Clase I.",
+   "B": "Clase II.",
+   "C": "Clase III.",
+   "D": "Clase IV."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "La hemorragia digestiva es el sangrado más frecuente en los pacientes anticoagulados, todos los fármacos ACOD se asocian a un incremento en el riesgo de hemorragia gastrointestinal mayor, con diferentes magnitudes, de los siguientes ACOD señale el de mayor perfil respecto a la hemorragia digestiva:",
+  "opciones": {
+   "A": "Rivaroxaban 20mg/24h.",
+   "B": "Dabigatran 150mg/12h.",
+   "C": "Apixaban 5mg/12h.",
+   "D": "Edoxaban 60mg/24h."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2024",
+  "enunciado": "En la radiografía de tórax de un paciente con disnea y frecuentemente encontramos derrame pleural que ocupa más de la mitad de la pleura, con frecuentes bronquitis. Dicha imagen, aunque INCORRECTA:",
+  "opciones": {
+   "A": "Quilotórax tuberculosis.",
+   "B": "Hidrotorax.",
+   "C": "Derrame Quilotorácico.",
+   "D": "Empiema."
+  },
+  "respuesta_correcta": "C"
+ }
+]

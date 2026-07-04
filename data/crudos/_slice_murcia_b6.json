@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La intoxicación por metanol (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Puede producir ceguera irreversible.",
+   "B": "No precisa ingreso en UCI.",
+   "C": "Nunca debe utilizarse el fomepizol en su tratamiento.",
+   "D": "El carbón activado es elección en su tratamiento."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Sistemas de información en los Servicios de Urgencias (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Son una herramienta indispensable para la los sistemas de calidad y seguridad del paciente.",
+   "B": "El triaje no forma parte de sus aplicaciones básicas.",
+   "C": "El sistema de administración y gestión de pacientes es un sistema independiente del sistema de información.",
+   "D": "La historia clínica del paciente no tiene valor en este sistema."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale, de entre los siguientes patrones de dolor torácico, el que MÁS oriente a origen pericárdico:",
+  "opciones": {
+   "A": "Opresión retroesternal iniciada con el esfuerzo que cede con el reposo.",
+   "B": "Dolor tipo pinchazo que aumenta de intensidad con la palpación superficial de la zona.",
+   "C": "Dolor retroesternal que aumenta con la inspiración profunda y se alivia inclinando el cuerpo hacia delante.",
+   "D": "Dolor a punta de dedo en parrilla costal con disnea acompañante."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Se consideran síncopes de alto riesgo (señale la respuesta INCORRECTA):",
+  "opciones": {
+   "A": "Los síncopes que se desencadenan en decúbito.",
+   "B": "Los síncopes de duración prolongada.",
+   "C": "Los síncopes neuromediados.",
+   "D": "Los síncopes asociados a dolor torácico o disnea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Se define como fiebre tumoral aquella fiebre que aparece en pacientes oncológicos y que cumple con todos los siguientes criterios, EXCEPTO:",
+  "opciones": {
+   "A": "La fiebre se produce por liberación de pirógenos endógenos por las células tumorales.",
+   "B": "Se caracteriza por fiebre de alto grado.",
+   "C": "La fiebre es de predominio vespertino y sin tiritona ni escalofríos.",
+   "D": "Es más frecuente en pacientes con tumores hematológicos, como leucemias agudas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Un paciente de 25 años consulta por un cuadro sincopal brusco mientras jugaba un partido de fútbol. Un hermano murió súbitamente a los 12 años. ¿Cuál de las siguientes patologías cree que es la causa más probable?:",
+  "opciones": {
+   "A": "Miocardiopatía hipertrófica.",
+   "B": "Estenosis mitral silente.",
+   "C": "Hipertensión pulmonar idiopática.",
+   "D": "Síndrome de QT corto."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la lesión más propia de los esquiadores denominada “lesión del guardabosques”, es VERDADERO que:",
+  "opciones": {
+   "A": "Se produce por una caída sobre el pulgar en aducción.",
+   "B": "Rotura del ligamento colateral cubital del primer dedo de la mano.",
+   "C": "Fractura de la base del metacarpiano del primer dedo de la mano.",
+   "D": "Luxación metacarpofalángica del primer dedo de la mano."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál es la aplicación de los GFH (Grupo Funcional Homogéneo)?:",
+  "opciones": {
+   "A": "Sirven para que el hospital se divida en unidades de asistencia sanitaria dependientes de un jefe de servicio.",
+   "B": "Constituyen las unidades mínimas de gestión de un hospital, a las que se imputan los gastos de modo inconfundible.",
+   "C": "Sirven para dividir el hospital según sus funciones médica, enfermería y gestión.",
+   "D": "Constituyen las unidades mínimas para la atención de problemas de los enfermos que representan un mayor coste."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Tras una paracentesis de un paciente con ascitis, se encuentra un líquido pajizo con proteínas 2g/dl (algo disminuidas), 250 leucocitos con más del 50% de linfocitos. ¿Cuál de los siguientes sería el diagnóstico más probable?:",
+  "opciones": {
+   "A": "Cirrosis hepática.",
+   "B": "Tuberculosis.",
+   "C": "Neoplasia.",
+   "D": "Peritonitis bacteriana espontánea."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Los fármacos de segunda línea para el manejo de una crisis epiléptica en urgencias son:",
+  "opciones": {
+   "A": "Diazepam a dosis de 10 mg intravenoso en adultos.",
+   "B": "Midazolam a dosis de 0.1 mg /kg intravenoso.",
+   "C": "Levetiracetam en dosis de 500 a 1500 mg/12h intravenoso.",
+   "D": "Clonazepam a dosis de 1 a 2 mg por vía intravenosa lenta en adultos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "El penfigoide ampolloso se caracteriza por todo lo siguiente EXCEPTO:",
+  "opciones": {
+   "A": "Suele aparecer en ancianos y casi siempre en mayores de 60 años.",
+   "B": "Se caracteriza por ampollas tensas, con habones que forman placas.",
+   "C": "No hay afectación de mucosas.",
+   "D": "El signo de Nikolski es positivo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Soporte vital pediátrico (señale la respuesta correcta):",
+  "opciones": {
+   "A": "La secuencia de maniobras de RCP es diferente a la del adulto.",
+   "B": "Podemos iniciar las maniobras de RCP en cualquier posición en la que esté el niño.",
+   "C": "Hay que pedir ayuda a los Servicios de Emergencias y solicitar un DESA.",
+   "D": "No es preciso la apertura de la vía aérea."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿En cuál de las siguientes localizaciones de un IAM es más frecuente que aparezca BAV de 2° o 3° permanente?:",
+  "opciones": {
+   "A": "Anteroseptal.",
+   "B": "Posteroinferior.",
+   "C": "Inferior y de VD.",
+   "D": "No transmural."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En las intoxicaciones graves por litio (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Hipertensión.",
+   "B": "Asistolia.",
+   "C": "Litemia: 2.5 - 3.5.",
+   "D": "Se elimina mayoritariamente de forma hepática."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Las causas del síncope cardiaco obstructivo son todas las siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Bradiarritmias.",
+   "B": "Disección aórtica.",
+   "C": "Estenosis aórtica.",
+   "D": "Hipertensión pulmonar primaria."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En todas las siguientes entidades están afectadas las mucosas EXCEPTO en:",
+  "opciones": {
+   "A": "Necrólisis epidérmica tóxica.",
+   "B": "Síndrome de Stevens-Johnson.",
+   "C": "Síndrome de la piel escaldada estafilocócica.",
+   "D": "Liquen plano."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Soporte vital básico en adultos (señale la respuesta correcta):",
+  "opciones": {
+   "A": "La secuencia de las maniobras de reanimación cardiopulmonar es ABC.",
+   "B": "La secuencia de las maniobras de reanimación cardiopulmonar es BCA.",
+   "C": "La secuencia de las maniobras de reanimación cardiopulmonar es CAB.",
+   "D": "La secuencia de las maniobras de reanimación cardiopulmonar es CBA."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la exploración del paciente con diplopía binocular, indique la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La diplopía horizontal al leer indica lesión del músculo recto medial.",
+   "B": "La diplopía vertical al mirar hacia abajo sugiere afectación del III o IV par.",
+   "C": "La diplopía en la mirada hacia arriba puede sugerir afectación del oblicuo superior.",
+   "D": "Las mononeuropatías isquémicas producen afectación del grupo muscular de un sólo par craneal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto al estatus epiléptico establecido, es FALSO que:",
+  "opciones": {
+   "A": "Es una emergencia médica.",
+   "B": "Tiene una importante morbimortalidad.",
+   "C": "El manejo correcto implica, además de las medidas generales, la administración de fármacos de primera línea seguido o simultáneamente de la segunda línea.",
+   "D": "La administración de la tercera línea farmacológica no precisa tener al paciente con intubación orotraqueal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Factores de riego de malos tratos en el anciano (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Edad avanzada.",
+   "B": "Dependencia física y emocional del cuidador.",
+   "C": "Deterioro cognitivo y alteraciones de la conducta.",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿En qué intoxicación no será útil el flumazenilo? (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Paroxetina.",
+   "B": "Lorazepam.",
+   "C": "Diazepam.",
+   "D": "Clorazepato dipotásico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Los edemas en un síndrome nefrítico agudo suelen comenzar:",
+  "opciones": {
+   "A": "Extremidades inferiores.",
+   "B": "Escroto.",
+   "C": "Abdomen.",
+   "D": "Periorbitarios."
+  },
+  "respuesta_correcta": "D"
+ }
+]

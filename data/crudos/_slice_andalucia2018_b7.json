@@ -1,0 +1,254 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5: Un paciente de 68 años acude a Urgencias por cuadro febril y malestar general. En el Triage: TA 130/70, FC 130 lpm, FR 25 rpm, SaO2 del 98%, Tª 38.7ºC, Glucemia 145 mgrs/dl, con nivel de consciencia normal con palidez y frialdad acra y relleno capilar lento > 3 segundos.\nSeñale nivel de prioridad.",
+  "opciones": {
+   "A": "Nivel I",
+   "B": "Nivel II",
+   "C": "Nivel III",
+   "D": "Nivel IV"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): En el caso anterior. ¿Debería activarse el CODIGO SEPSIS?",
+  "opciones": {
+   "A": "No, dada la estabilidad hemodinámica y neurológica.",
+   "B": "No, pues no reúne criterios de sepsis grave",
+   "C": "Si, ya que según escala qSOFA ampliado existe riesgo de sepsis grave.",
+   "D": "Depende de ellos antecedentes del paciente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): El paciente no presenta antecedentes de interés y en la exploración física no encontramos datos sobre foco infeccioso. ¿Cuál sería su actuación inicial?",
+  "opciones": {
+   "A": "Canalizar vía venosa grueso calibre y solicitar analítica.",
+   "B": "Administrar antitérmicos",
+   "C": "Búsqueda del foco",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): ¿Qué pruebas analíticas solicitaría?",
+  "opciones": {
+   "A": "Hemograma, Bioquímica básica y coagulación.",
+   "B": "Hemograma, Bioquímica básica, Coagulación y Hemocultivos.",
+   "C": "Hemograma, Bioquímica básica, Coagulación, Hemocultivos, PCR y Procalcitonina.",
+   "D": "Hemograma, Bioquímica básica, Coagulación, Hemocultivos, PCR, Procalcitonina y Lactato."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): ¿Qué más haría?",
+  "opciones": {
+   "A": "Administrar antibioterapia empírica según foco sospechado.",
+   "B": "Administrar O2.",
+   "C": "Sondaje vesical para urocultivo previo a antibioterapia.",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): Tras las medidas anteriores el paciente presenta TA 80/40, FC 110 lpm. La fiebre ha disminuido con antitérmicos, SaO2 del 98%, continua con frialdad distal y relleno capilar lento. No ha orinado aún. Está consciente aunque algo bradipsiquico. ¿Qué actuación realizaría en este momento?",
+  "opciones": {
+   "A": "Modificar antibiótico",
+   "B": "Comenzar con expansión de volumen con suero salino (30 mil/KG/minuto) hasta 2000-2500 y ver respuesta.",
+   "C": "Iniciar drogas vasoactivas por la vía periférica: Noradrenalina 0.04 Microgr./Kg/minuto.",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): Continua con TA 80/60 ¿Qué haría?",
+  "opciones": {
+   "A": "Canalizar vía central para PVC.",
+   "B": "Iniciar drogas vaso activas: Norafrenalina 0.04 microgramos/Kg/minuto.",
+   "C": "Sonda vesical si no la había hecho antes.",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): Recibe el resultado de la analítica con Hb 9 gr/l, leucopenia con neutrofília relativa, Creat. 1,4 mgrs/dl, Plaquetas 69.000. Actividad protrombina 80%. TPTA algo alargado. Lactato de 5 mmol/l, pH 7.25, CO3H- de 14. Oligoanúrico. Sedimento con nitratos positivos y presencia de bacterias. Vía central canalizada con PVC + 7. Rx de tórax sin hallazgos. ¿Qué actitud tomaría?",
+  "opciones": {
+   "A": "Aumentar dosis de noradrenalina cada 10-15 minutos hasta PAM >. 65 mmHg.",
+   "B": "Transfundir plaquetas.",
+   "C": "Transfundir hematíes.",
+   "D": "Administrar bicarbonato 1 molar 1 meq./Kg de peso."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): El paciente tras las medidas anteriores, continua con TA 90/60. Oligoanuria. La PVC esta en + 12, la SvO2 es del 50% y se escuchan algunos estertores. SaO2 del 98%. FC 100 lpm. Hay cianosis, con palidez, sudación y frialdad acra. Consciente con FR 20 rpm. No excesivo trabajo respiratorio. La noradrenalina esta a 2 microgramos/Hg/minuto. ¿Qué haría?",
+  "opciones": {
+   "A": "VMNI (ventilación mecánica no invasiva).",
+   "B": "Añadir Dobutamina 5 microgr./Kg.",
+   "C": "Sedorelajación, intubación orotraqueal y ventilación mecánica.",
+   "D": "Añadir dopamina a dosis de 5 microgr./Kg/minuto."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 5 (continuación): El paciente 1 hora después, continua hipotenso 90/50, FC 100 lpm, obnubilado, taquipneico a 25 rpm con uso de musculatura accesoria. SaO2 del 91% con O2 suplementario. Diuresis 20 cc/hora. Persiste intensa frialdad y palidez acra. Control analítico: pH 7.21. CO3H- 17. Lactato 8 mmol/litro. ¿Qué más haría?",
+  "opciones": {
+   "A": "Nueva carga de cristaloides 500 cc en 30 minutos",
+   "B": "VMNI",
+   "C": "Sedorelajación, intubación orotraqueal y ventilación mecánica.",
+   "D": "Administrar bicarbonato 1 molar 1 meq./Kg de peso."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6: Una paciente de 65 años es remitida a Urgencias de hospital Nivel III por DCCU por cuadro de caída brusca al suelo, con apertura ocular espontánea sin respuesta a preguntas y asimetría comisura bucal y debilidad hemicuerpo derecho de 70 minutos evolución. Independiente para vida diaria. TA 180/100. FC 80 l/m arrítmico. Afebril. SaO2 del 98%. EKG con FA a 100 lpm. Glucemia 143 mgrs/dl. Ingresa en Sala de Críticos.\n¿Qué medidas iniciales realizaría?",
+  "opciones": {
+   "A": "Cursar analítica con Bioquímica, Hemograma y Coagulación.",
+   "B": "Asegurar vía aérea.",
+   "C": "Glucemia capilar",
+   "D": "Todas la anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): Glucemia capilar 140 mgrs/dl. Se ha cursado analítica. ¿Qué postura adoptaría en este momento?",
+  "opciones": {
+   "A": "Administra O2",
+   "B": "Iniciar percusión insulina.",
+   "C": "Avisar a Radiólogo para TAC urgente notificando CODIGO ICTUS.",
+   "D": "Labetalol 20 mgrs IV para control HTA"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): Usted aplica escala NIH y obtiene 17 puntos. ¿Qué haría?",
+  "opciones": {
+   "A": "Acompañar al paciente a Sala de Radiología para ver resultado TAC y programar actitud.",
+   "B": "Solicitar completar historia a familia",
+   "C": "Informar y solicitar consentimiento informado fibrinólisis si fuese preciso.",
+   "D": "Todas la anteriores son ciertas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): La TAC demuestra signo de isquemia cerebral difusa en territorio de arteria cerebral media izquierda sin área de necrosis. ¿Qué haría en este momento?",
+  "opciones": {
+   "A": "Regreso a Sala de Críticos para iniciar tratamiento trombolítico.",
+   "B": "Acetil salicílico 200 mgrs VO",
+   "C": "Desestimada fibrinólisis por resultado de TAC.",
+   "D": "Solicitar ANGIOTAC in situ o en su defecto ecodoppler de TSA sin demorar neurofibrinolisis."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): Radiólogo nos informa TAC: Signo de afectación de arteria cerebral media izquierda difuso sin zona de necrosis y estima un valor en escala ASPECTS de 6. Llevamos 40 minutos desde la recepción del paciente en el Hospital. ¿Qué haría?",
+  "opciones": {
+   "A": "Neurofibrinolisis con rt-PA 0.9 mgrs/KG/minuto. 10% dosis en 3-5 minutos y resto en perfusión en una hora",
+   "B": "Neurofibrinolisis con 7000 UI de Tecneteplase en 15 segundos.",
+   "C": "Neurofibrinolisis con rt-PA a mitad de dosis por riesgo de sangrado.",
+   "D": "Contraindicada neurofibrinolisis por la TAC y valorar Trombectomia."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): Se ha decidido tratamiento fibrinolítico, ¿qué medidas realizaría ahora?",
+  "opciones": {
+   "A": "Seguimiento clínico con toma de constantes cada 15 minutos durante 2 horas, después cada 30 minutos durante 6 horas y después cada hora 24 horas.",
+   "B": "Ver respuesta a neurofibrinolisis y si no hay mejora evidente pasada una hora considerar trombectomia.",
+   "C": "Necesidad de ANGIOTAC urgente",
+   "D": "Se desestima trombectomia por ASPES =6."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): Se realiza ANGIOTAC y demuestra obstrucción casi completa de territorio M1 de ACM izquierda completa y obstrucción incompleta de carótida interna izquierda. ¿Qué haría ahora?",
+  "opciones": {
+   "A": "Seguimiento clínico. Desestimada trombectomía por ESCALA ASPES = 6.",
+   "B": "Esperar evolución 60 minutos y si NO mejoría evidente considerar trombectomía.",
+   "C": "Consultar con Neurólogo de hospital de referencia para considerar trombectomía urgente.",
+   "D": "AngioRNM urgente si se dispone de ella para ver territorio viable."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 6 (continuación): La paciente empeora de nuevo con hemiplejia severa y afasia mixta con valor escala NIH de 20. ¿Qué haría?",
+  "opciones": {
+   "A": "Solicitar nuevo TAC",
+   "B": "Remitir lo antes posible a hospital de referencia para trombectomía urgente",
+   "C": "Hacer neurofibrinolisis si no lo había hecho antes",
+   "D": "Administra manitol 20% en 20 minutos por sospecha de edema cerebral post revascularización."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CUESTIONARIO RESERVA. Indique la respuesta verdadera en la indicación del uso de bicarbonato sódico durante el paro cardíaco",
+  "opciones": {
+   "A": "Intoxicación por antidepresivos tricíclicos",
+   "B": "Hiperkaliemia",
+   "C": "Acidosis grave con pH arterial < 7.10 o exceso de base < -10 mmol/L",
+   "D": "Todas son indicaciones correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CUESTIONARIO RESERVA. Según la Ley 2/2010, la limitación del esfuerzo terapéutico consiste en:",
+  "opciones": {
+   "A": "La intervención sanitaria destinada a mantener las constantes vitales de la persona, independientemente de que dicha intervención actúe o no terapéuticamente sobre la enfermedad que amenaza la vida.",
+   "B": "El inicio o mantenimiento de medidas de soporte vital u otras intervenciones carentes de utilidad clínica, que únicamente prolongan la vida en pacientes en situación terminal, sin posibilidades reales de mejora.",
+   "C": "La administración de fármacos para reducir la conciencia de la persona en situación terminal o de agonía, para aliviar adecuadamente síntomas refractarios, previo consentimiento informado en los términos establecidos en la ley.",
+   "D": "La retirada o no instauración de una medida de soporte vital o de cualquier otra intervención que, dado el mal pronostico, constituye, a juicio de los sanitarios implicados, algo fútil, que solo contribuye a prolongar una situación clínica carente de expectativas de mejoría."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CUESTIONARIO RESERVA. Señale la respuesta correcta sobre los derechos de los pacientes en situación de incapacidad recogidos en la Ley 2/2010",
+  "opciones": {
+   "A": "La situación de incapacidad de un paciente exime al médico de informarle y de hacer que participe en el proceso de toma de decisiones",
+   "B": "El médico responsable es quien debe valorar si un paciente pudiera encontrarse en una situación de incapacidad de hecho que le impida decidir por sí mismo.",
+   "C": "Para la interpretación de la voluntad de los pacientes no se tendrán en cuenta los deseos expresados previamente a la situación de incapacidad.",
+   "D": "La sentencia judicial es el único documento que recoge el alcance y las limitaciones de la incapacidad de hecho"
+  },
+  "respuesta_correcta": "B"
+ }
+]

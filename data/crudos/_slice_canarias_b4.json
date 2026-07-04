@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Qué actividad puede demorarse no tiene que realizarse en el momento del triaje?",
+  "opciones": {
+   "A": "Glucemia en triaje caso de síndrome confusional agudo",
+   "B": "Determinación de FR y saturación de O2 en triaje en caso de disnea",
+   "C": "Todas las actividades mencionadas son necesarias que se realicen en el momento del triaje",
+   "D": "ECG en triaje caso de síncope"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El Consejo Español de Triage Prehospitalario y Hospitalario (CETPH) ha diseñado una cadena asistencial en incidentes con múltiples víctimas (IMV) ¿Cuál de los objetivos de los cuatro eslabones de la cadena NO es correcto?",
+  "opciones": {
+   "A": "Durante el triaje avanzado: realizar la derivación rápida y eficiente",
+   "B": "En el área de rescate: proteger y alertar.",
+   "C": "Durante el triaje básico: realizar las maniobras salvadoras.",
+   "D": "Durante el triage avanzado: realizar la estabilización"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿De entre las siguientes víctimas cuál NO tiene riesgo de muerte inmediata (10 minutos) o precoz (2 horas)?",
+  "opciones": {
+   "A": "Hemoneumotórax",
+   "B": "Laceración hepática",
+   "C": "Contusión esplénica",
+   "D": "Fractura de pelvis"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el objetivo principal del triaje en un incidente con múltiples víctimas según el Advanced Trauma Life Support (ATLS) del Comité de Trauma del Colegio Americano de Cirujanos?",
+  "opciones": {
+   "A": "Estabilizar las lesiones críticas de inmediato",
+   "B": "Determinar la gravedad de las lesiones en cada víctima",
+   "C": "Priorizar la atención médica basada en la gravedad de las lesiones",
+   "D": "Coordinar la evacuación de las víctimas al centro de atención adecuado"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el objetivo principal de la organización del incidente en un manejo efectivo de múltiples víctimas según el Advanced Trauma Life Support (ATLS) del Comité de Trauma del Colegio Americano de Cirujanos?",
+  "opciones": {
+   "A": "Proporcionar tratamiento definitivo a todas las víctimas en el lugar del incidente",
+   "B": "Minimizar el tiempo de respuesta y evacuación de las víctimas",
+   "C": "Establecer un área de triaje segura para la atención médica inicial",
+   "D": "Coordinar la colaboración de los diferentes servicios de emergencia"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el principio básico en la distribución de recursos médicos limitados durante un incidente con múltiples víctimas según el Advanced Trauma Life Support (ATLS) del Comité de Trauma del Colegio Americano de Cirujanos?",
+  "opciones": {
+   "A": "Priorizar a los pacientes con lesiones más graves",
+   "B": "Asignar recursos a los pacientes más jóvenes primero",
+   "C": "Distribuir los recursos de manera equitativa entre todas las víctimas",
+   "D": "Evaluar la capacidad de recuperación de cada paciente individualmente"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Qué nivel PRIORIDAD se le asigna a un paciente varón de 80 años con un ICTUS TRANSITORIO en el servicio de urgencias hospitalario?",
+  "opciones": {
+   "A": "Nivel de PRIORIDAD 1",
+   "B": "Nivel de PRIORIDAD 2",
+   "C": "Nivel de PRIORIDAD 3",
+   "D": "No es necesario su traslado al servicio de urgencias hospitalario"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Qué nivel PRIORIDAD se le asigna a un paciente varón de 80 años con ICTUS CON DISMINUCIÓN DEL NIVEL DE CONSCIENCIA en el servicio de urgencias hospitalario?",
+  "opciones": {
+   "A": "Nivel de PRIORIDAD 1",
+   "B": "Nivel de PRIORIDAD 2",
+   "C": "Nivel de PRIORIDAD 3",
+   "D": "No es necesario su traslado al servicio de urgencias hospitalario"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Qué nivel PRIORIDAD se le asigna a un paciente varón de 80 años con ICTUS DE MÁS DE 24 HORAS DE EVOLUCIÓN CON SITUACIÓN VITAL PREVIA INDEPENDIENTE en el servicio de urgencias hospitalario?",
+  "opciones": {
+   "A": "Nivel de PRIORIDAD 1",
+   "B": "Nivel de PRIORIDAD 2",
+   "C": "Nivel de PRIORIDAD 3",
+   "D": "No es necesario su traslado al servicio de urgencias hospitalario"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante una mujer de raza negra de 50 años con cefalea intensa de inicio súbito que presenta 15 puntos en la Escala de Coma de Glasgow, rigidez de nuca, sin déficit motor y que en el TC craneal no se evidencia una hemorragia subaracnoidea, ¿cuál es la primera prueba complementaria que realizaría de entre las siguientes?",
+  "opciones": {
+   "A": "Punción lumbar",
+   "B": "Angio-TC",
+   "C": "Arteriografía",
+   "D": "RM cerebral y medular"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante una mujer de 78 años traslada desde su domicilio en ambulancia de soporte vital básico, refiere su hija “que su madre es independiente, que la ve que se toma sus pastillas, tanto por la mañana como por la noche para su hipertensión arterial, diabetes, tiroides, colesterol y para el insomnio, que su madre lleva unos 2 días apática, muy deprimida y muy lenta, que no se ha caído, no ha ingerido tóxicos y que cuando llegó del trabajo la encuentra en su cama y que le cuesta mucho que le conteste”. A la llegada al servicio de Urgencias hospitalario (SUH) está con aspecto mixematoso, saturando basalmente al 93%, TA 100/60, FC 60, con 12 puntos en la escala de Coma de Glasgow (O3, V3, M6), sin rigidez de nuca, sin focalidad motora, glucemia 70 mg/dL, antes de administrar precozmente levotiroxina y actocortina ¿qué realizaría primero de entre las siguientes actividades a la llegada al SUH?",
+  "opciones": {
+   "A": "Medir la temperatura corporal",
+   "B": "Administrar precozmente ceftriaxona y aciclovir",
+   "C": "Realizar electrocardiograma",
+   "D": "Preparar para realizar punción lumbar"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En caso de hipertensión intracraneal (HIC) ¿qué NO está indicado en el servicio de Urgencias hospitalario?",
+  "opciones": {
+   "A": "Realizar punción lumbar con fines terapéuticos.",
+   "B": "Administrar dexametasona en bolo inicial de 20-40 mg y dosis posterior de 4-8 mg/12 h.",
+   "C": "Descartar HIC si no hay bradicardia asociada a hipertensión arterial.",
+   "D": "Utilizar sueros hipotónicos."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La crisis tónico-clónica generalizada es indicativa de GRAVEDAD en las siguientes circunstancias EXCEPTO en:",
+  "opciones": {
+   "A": "En el síndrome de embolia grasa asociado a traumatismos y en no asociado a traumatismos",
+   "B": "Cuando aparece midriasis bilateral, síndrome confusional poscrítico y fiebre en lactantes.",
+   "C": "Cuando la crisis dura más de 30 minutos.",
+   "D": "Cuando entre las crisis repetidas no se recupera por más de 30 minutos el estado neurológico previo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La intubación endotraqueal, como medida inmediata, puede evitarse EXCEPTO en uno de los siguientes casos de coma, ¿cuál es?",
+  "opciones": {
+   "A": "Paciente sin enfermedad terminal o avanzada y con GCS de 7 puntos.",
+   "B": "Paciente en coma que no consigue una SatO2 > 90 % con oxígeno suplementario.",
+   "C": "Paciente en coma que no se consigue una SatO2 > 90 % con oxígeno suplementario, con vómito reciente y reflejo tusígeno y faríngeo pobres.",
+   "D": "Paciente en coma con gran infarto hemisférico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre el código ictus en Canarias ¿cuál afirmación es FALSA?",
+  "opciones": {
+   "A": "El código Ictus extrahospitalario está implantado en Canarias a través del teléfono de emergencias 112.",
+   "B": "El código ictus extrahospitalario puede ser activado tras comunicarse con el 112, y tanto por personal sanitario como no sanitario.",
+   "C": "El código Ictus intrahospitalario también se activa cuando el paciente está ingresado en planta de hospitalización.",
+   "D": "El código Ictus intrahospitalario se produce como consecuencia de la aplicación del código extrahospitalario o a la llegada de un ictus a la puerta de urgencia del hospital."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Todas estas afirmaciones sobre el ictus son falsas EXCEPTO una, señálese:",
+  "opciones": {
+   "A": "Se define como accidente isquémico transitorio (AIT) el déficit neurológico focal que no deja evidencia en la neuroimagen, habitualmente sin que tenga importancia la duración del déficit en la evidencia en la neuroimagen.",
+   "B": "El ictus hemorrágico tiene como etiología más frecuente es la hipertensión arterial y, por ello, es más frecuente que el ictus isquémico.",
+   "C": "La anticoagulación terapéutica cuando está indicada, se inicia antes de las 48 horas.",
+   "D": "En el ictus isquémico sin criterios de revascularización y riesgo de aspiración, se administra acetilsalicilato de lisina i.v. (450 mg/día; 1/2 ampolla) como alternativa al ácido acetilsalicílico vía oral y al clopidogrel vía oral."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes características NO define al síndrome confusional agudo?",
+  "opciones": {
+   "A": "Cursa con agitación psicomotriz pero no con somnolencia o letargo.",
+   "B": "Su origen es orgánico y suele ser reversible.",
+   "C": "Alteración aguda de déficit de atención y de evolución fluctuante.",
+   "D": "Es sinónimo de delirio o encefalopatía tóxico-metabólica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes síntomas o signos clínicos NO se corresponde con la posible neuralgia afectada?",
+  "opciones": {
+   "A": "Dolor retroocular con visión borrosa: Neuralgia del nervio oculomotor (par craneal III)",
+   "B": "Dolor punzante y paroxístico en la región facial: Neuralgia del nervio trigémino (par craneal V)",
+   "C": "Dolor intenso y pulsátil en la región occipital: Neuralgia occipital (generalmente relacionada con el nervio occipital mayor, que no es un par craneal)",
+   "D": "Dolor en la mandíbula con dificultad para abrir la boca: Neuralgia del nervio glosofaríngeo (par craneal X)"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Sobre las cefaleas cuál es CIERTA?",
+  "opciones": {
+   "A": "Los síndromes de cefalea primaria son: migraña, cefalea de tensión y cefalea en racimos.",
+   "B": "Las causas de cefaleas secundarias en Urgencias son: atribuida a infecciones fuera del SNC, atribuida a toxicidad por sustancia, abuso o abstinencia, a atribuida a emergencia hipertensiva, psicógena, después de la punción lumbar.",
+   "C": "No solicitar una tomografía computarizada (TC) sin contraste urgente a un paciente con criterios de alarma en su presentación puede ser considerado como una mala praxis en la actuación médica, aunque una TC en solitario no excluye completamente la patología cerebral grave de riesgo vital.",
+   "D": "Todas son ciertas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "De los síntomas o signos indicativos de una posible cefalea secundaria (Sociedad Española y Americana de Neurología) y sus criterios de alarma cuáles no son criterios de solicitud de tomografía computarizada (TC) urgente?",
+  "opciones": {
+   "A": "Cefalea en pacientes que dudan del diagnóstico, en quienes existe una marcada ansiedad o que expresan temor ante un eventual proceso intracraneal grave",
+   "B": "Cefalea refractaria a un tratamiento teóricamente correcto",
+   "C": "Cefalea de presentación predominantemente nocturna",
+   "D": "Todas las anteriores tienen criterios para solicitud de una TC urgente"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál NO es cierta de las siguientes afirmaciones sobre el síndrome confusional agudo (SCA)?",
+  "opciones": {
+   "A": "A menudo en ancianos es infradiagnosticado en las formas hipoactivas (somnolencia o letargo).",
+   "B": "Es habitual la fluctuación en cuestión de minutos u horas desde una presentación hiperactiva (agitación psicomotriz o hipervigilia) hacia la presentación hipoactiva (somnolencia o letargo).",
+   "C": "Los cambios de ubicación, la realización de pruebas diagnósticas o la falta de acompañamiento familiar no se consideran un factor precipitante del SCA durante su estancia en Urgencias.",
+   "D": "El tratamiento farmacológico es mejor evitar su uso, pues puede empeorar el SCA, y administrar como tratamiento sintomático en caso de que el comportamiento del paciente entrañe peligrosidad o interfiera con los cuidados médicos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre el síndrome meníngeo agudo es CIERTA?",
+  "opciones": {
+   "A": "El signo de la rigidez de nuca conlleva no solo rigidez sino también dolor a la flexión y a la rotación del cuello.",
+   "B": "La tinción de Gram es una técnica de detección tardía por lo que no tiene relevancia en el tratamiento antibiótico en Urgencias",
+   "C": "En una mujer de 18 años con síndrome meníngeo agudo, fiebre, rash y otalgia de 24 horas se puede esperar por el resultado del LCR antes de ponerle cefotaxima y vancomicina para evitar la yatrogenia.",
+   "D": "Todas son falsas"
+  },
+  "respuesta_correcta": "D"
+ }
+]

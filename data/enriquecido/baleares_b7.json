@@ -1,0 +1,574 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿En qué estado se encuentra un paciente en coma rígido con los miembros superiores en extensión, aproximación y rotación interna y los miembros inferiores en extensión?",
+  "opciones": {
+   "A": "Estado postcrítico.",
+   "B": "Rigidez de decorticación.",
+   "C": "Rigidez de descerebración.",
+   "D": "Síndrome conversivo."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La rigidez de descerebración se caracteriza por la extensión, adducción (aproximación) y rotación interna de los miembros superiores junto con extensión de los miembros inferiores y flexión plantar. Indica lesión a nivel del tronco del encéfalo (entre el núcleo rojo y el núcleo vestibular), por debajo del mesencéfalo. La rigidez de decorticación (B) produce flexión de los miembros superiores y extensión de los inferiores, indicando lesión por encima del mesencéfalo (a nivel diencefálico). El estado postcrítico (A) es un periodo de somnolencia tras una crisis convulsiva. El síndrome conversivo (D) tiene una causa psicógena.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el caso de un paciente que acude a urgencias y en la exploración presenta habla fluente, mala comprensión del lenguaje, incapacidad para la repetición y disnomia, semiológicamente presenta un cuadro compatible con...",
+  "opciones": {
+   "A": "...afasia de Broca.",
+   "B": "...afasia de conducción.",
+   "C": "...afasia transcortical sensitiva.",
+   "D": "...afasia de Wernicke."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 68,
+   "grupo": "especifico",
+   "titulo": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La afasia de Wernicke (afasia sensorial o receptiva) se caracteriza por: habla fluente (a veces logorreica) pero con parafasias, mala comprensión del lenguaje (tanto oral como escrito), incapacidad para la repetición y anomia/disnomia (dificultad para encontrar palabras). Es producida por lesión del área de Wernicke en el lóbulo temporal superior izquierdo. La afasia de Broca (A) produce habla no fluente con buena comprensión. La afasia de conducción (B) produce habla fluente con buena comprensión pero incapacidad para la repetición y disnomia (similar, pero sin el grave déficit comprensivo de Wernicke). La afasia transcortical sensitiva (C) preserva la repetición.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa respecto al estupor:",
+  "opciones": {
+   "A": "Es una alteración de la conciencia.",
+   "B": "Supone un estado reversible por estímulos moderados.",
+   "C": "Se utiliza este término en los estados de mutismo y de reducción de la actividad motora.",
+   "D": "En el ámbito de la neurología es un estado que precede al coma."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la B. El estupor neurológico es un estado de marcada depresión de la conciencia del que el paciente solo puede ser despertado mediante estímulos INTENSOS (dolorosos o repetidos y enérgicos), no por estímulos moderados. Una vez retirado el estímulo, el paciente vuelve al estado de inconsciencia. Las demás son correctas: el estupor es una alteración de la conciencia (A); en psiquiatría se usa para estados de mutismo y reducción motora (C), aunque en neurología tiene el sentido descrito; neurológicamente es un grado previo al coma (D), entre la somnolencia-obnubilación y el coma propiamente dicho.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Existen varios términos semiológicos que tienen en cuenta el patrón respiratorio de un paciente en coma. Si se observa que en un paciente, tras un periodo de apnea, se producen respiraciones que aumentan progresivamente de amplitud y frecuencia y luego disminuyen progresivamente hasta otro episodio de apnea, ¿a qué patrón corresponde?",
+  "opciones": {
+   "A": "Taquipnea.",
+   "B": "Platipnea.",
+   "C": "Respiración de Kussmaul.",
+   "D": "Respiración de Cheyne-Stokes."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El patrón descrito —ciclos que alternan apnea con respiraciones de amplitud y frecuencia creciente luego decreciente— es la respiración de Cheyne-Stokes (D). Se produce por lesión diencefálica bilateral o por insuficiencia cardiaca, que origina fluctuaciones en la pCO2 y el estímulo respiratorio central. La taquipnea (A) es simplemente frecuencia respiratoria elevada. La platipnea (B) es la disnea en posición erecta. La respiración de Kussmaul (C) es una respiración profunda y regular, típica de la acidosis metabólica grave (cetoacidosis diabética), sin el patrón cíclico ni las apneas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la respuesta incorrecta sobre los cuidados iniciales en el abordaje de un paciente en coma:",
+  "opciones": {
+   "A": "Mantener la permeabilidad de la vía aérea.",
+   "B": "Vigilar la frecuencia respiratoria, el patrón de ventilación y los signos de hipoxemia.",
+   "C": "Mantener una presión arterial media por encima de 70 mmHg.",
+   "D": "Está contraindicado el uso de labetalol y nitroprusiato en todos los casos."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la D. El labetalol y el nitroprusiato NO están contraindicados en todos los casos; de hecho, son fármacos utilizados en el manejo de la hipertensión arterial grave en pacientes con patología neurológica aguda (por ejemplo, en la encefalopatía hipertensiva o el ictus hemorrágico con hipertensión severa). La D sería correcta solo en circunstancias muy específicas. Las opciones A (permeabilidad de vía aérea), B (monitorización respiratoria) y C (mantener PAM > 70 mmHg para asegurar la perfusión cerebral) son medidas correctas en el abordaje inicial del paciente en coma.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre el líquido cefalorraquídeo:",
+  "opciones": {
+   "A": "El líquido cefalorraquídeo normal es claro, transparente, tiene una presión de apertura de 5-20 cm H2O y contiene un máximo de 5 células/mm3, que habitualmente son mononucleares.",
+   "B": "La proporción de glucorraquia respecto a la glucemia capilar es del 100 % y tiene 50-100 mg/dL de proteínas.",
+   "C": "Un perfil linfocitario con glucorraquia normal orienta al diagnóstico de meningitis de origen bacteriano.",
+   "D": "Un perfil leucocitario polimorfonuclear con glucorraquia disminuida orienta al diagnóstico de meningitis de origen vírico."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 69,
+   "grupo": "especifico",
+   "titulo": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La opción A describe correctamente las características del LCR normal: aspecto claro y transparente, presión de apertura de 5-20 cmH2O, máximo de 5 células/mm3 de predominio mononuclear (linfocitos). La B es incorrecta: la glucorraquia normal es el 60-70% (no el 100%) de la glucemia, y las proteínas normales son 15-45 mg/dL (no 50-100). La C es incorrecta: el perfil linfocitario con glucorraquia normal orienta a meningitis VIRAL (no bacteriana). La D es incorrecta: el perfil polimorfonuclear con glucorraquia disminuida orienta a meningitis BACTERIANA (no vírica).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Plantéese el caso de una joven de 20 años que acude al servicio de urgencias porque, después de levantarse y mirarse al espejo, ha notado debilidad en toda la mitad derecha de la cara (incluida la frente) al cerrar el párpado y al sonreír. La afectación está acompañada de disgeusia, hiperacusia y dolor mastoideo ipsilateral. Sin déficit de fuerza ni sensitivo en extremidades ni alteraciones del habla. Señale la afirmación correcta respecto a este caso:",
+  "opciones": {
+   "A": "El diagnóstico más probable es una placa desmielinizante en la hemiprotuberancia contralateral y la exploración complementaria más necesaria es una resonancia magnética craneal.",
+   "B": "Los corticoides por la vía oral son de elección en el tratamiento de esta paciente.",
+   "C": "Debe ser considerada la fibrinolisis endovenosa si el tiempo de evolución es inferior a tres horas.",
+   "D": "Lo más probable es que el cuadro sea irreversible."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 68,
+   "grupo": "especifico",
+   "titulo": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "El caso describe una parálisis facial periférica (afectación de toda la hemicara incluyendo la frente) con síntomas acompañantes de disgeusia, hiperacusia y dolor mastoideo ipsilateral, sin déficit de extremidades, compatible con parálisis de Bell (parálisis facial periférica idiopática). El tratamiento de elección es la prednisona oral (corticoides sistémicos) iniciada precozmente (opción B). La A es incorrecta: la placa desmielinizante causaría afectación del VII par a nivel de la protuberancia, pero la parálisis facial CENTRAL no afecta la frente. La fibrinolisis (C) no está indicada en este cuadro. El pronóstico es generalmente favorable (D incorrecta): la mayoría de los casos se recuperan espontáneamente.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre las crisis epilépticas postraumáticas:",
+  "opciones": {
+   "A": "Son habituales inmediatamente después de un traumatismo craneal.",
+   "B": "Las lesiones penetrantes y la gravedad de la lesión son factores que favorecen estas crisis.",
+   "C": "Está indicado el tratamiento anticomicial profiláctico.",
+   "D": "Tras un par de años de riesgo más alto, los pacientes con lesiones graves tienen el mismo riesgo que la población general."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial del examen indica A como respuesta correcta. Sin embargo, cabe señalar que las crisis postraumáticas inmediatas (dentro de los primeros 30 minutos) no son especialmente habituales en todos los TCE, sino que se producen con mayor frecuencia en los TCE graves o con lesiones penetrantes. La B también es una afirmación correcta desde el punto de vista clínico (las lesiones penetrantes y la gravedad favorecen las crisis). El tratamiento anticomicial profiláctico (C) está indicado solo en la fase aguda (primera semana) en TCE graves, no de forma crónica. Los pacientes con lesiones graves mantienen riesgo elevado de epilepsia más allá de 2 años (D incorrecta).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre los tratamientos específicos del coma reversible:",
+  "opciones": {
+   "A": "La dextrosa se utiliza en los casos de coma hipoglucémico.",
+   "B": "La tiamina se utiliza en los casos de encefalopatía de Wernicke.",
+   "C": "La rifampicina se utiliza en los casos de encefalopatía hepática.",
+   "D": "La ventilación mecánica se utiliza en los casos de encefalopatía hipercápnica."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la C. En la encefalopatía hepática, el tratamiento específico NO es la rifampicina, sino la lactulosa (para reducir la producción intestinal de amonio) y la rifaximina (un antibiótico no absorbible que reduce la flora bacteriana intestinal productora de amonio). La rifampicina es un antibiótico sistémico que se usa en tuberculosis, brucelosis y meningitis, no en encefalopatía hepática. Las demás son correctas: la dextrosa en el coma hipoglucémico (A), la tiamina en la encefalopatía de Wernicke —siempre antes de la glucosa— (B) y la ventilación mecánica en la encefalopatía hipercápnica (D).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes no es un tipo de síndrome lacunar?",
+  "opciones": {
+   "A": "Síndrome motor puro.",
+   "B": "Hemiparesia atáxica.",
+   "C": "Torpeza en las manos y disartria.",
+   "D": "Hemiplejia izquierda."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 68,
+   "grupo": "especifico",
+   "titulo": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "Los síndromes lacunares clásicos son: 1) hemimotor puro (cápsula interna posterior o protuberancia), 2) hemisensitivo puro (tálamo), 3) sensitivo-motor (unión cápsula-tálamo), 4) hemiparesia atáxica (brazo posterior de cápsula o protuberancia) y 5) disartria-mano torpe (protuberancia o cápsula). La hemiplejia izquierda aislada (D) no constituye por sí misma un síndrome lacunar específico; es simplemente una descripción de un déficit motor unilateral que puede obedecer a múltiples etiologías. Las opciones A (motor puro), B (hemiparesia atáxica) y C (torpeza de mano y disartria) sí son síndromes lacunares reconocidos.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes es uno de los objetivos del control de los signos vitales en los casos de ictus agudo?",
+  "opciones": {
+   "A": "Tensión arterial por debajo de 185/105 mmHg.",
+   "B": "Temperatura por debajo de 38 °C.",
+   "C": "Glucemia por debajo de 170 mg/dL.",
+   "D": "Saturación de oxígeno por encima del 93 %."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 68,
+   "grupo": "especifico",
+   "titulo": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "En el ictus isquémico agudo candidato a fibrinólisis, el umbral de tensión arterial que debe mantenerse por debajo de 185/110 mmHg es un objetivo establecido de las guías (opción A: < 185/105 mmHg es la cifra mencionada). Los demás valores son inexactos: la temperatura objetivo en el ictus agudo es < 37,5°C (no 38°C, B); la glucemia objetivo es < 140-180 mg/dL (no 170, aunque este es un valor intermedio aceptable, la clave oficial marca A como correcta); y la SatO2 objetivo es > 94-95% (no 93%, D). El control de la TA por debajo de 185/105 mmHg es el criterio exigido antes de administrar rtPA.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el servicio de urgencias, ¿cuál es la actitud menos adecuada en un caso de hemorragia subaracnoidea?",
+  "opciones": {
+   "A": "Iniciar un tratamiento anticomicial preventivo.",
+   "B": "Si el cuadro es muy sugestivo y el resultado de la TC craneal es normal, hay que hacer una punción lumbar.",
+   "C": "Si se confirma la hemorragia, hay que solicitar una angiotomografía computarizada craneal con carácter urgente.",
+   "D": "Hay que corregir las posibles alteraciones de la coagulación."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 68,
+   "grupo": "especifico",
+   "titulo": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "El tratamiento anticomicial preventivo (profiláctico) en la hemorragia subaracnoidea aneurismática NO está recomendado de forma rutinaria por las guías actuales (actitud menos adecuada, opción A), ya que no ha demostrado reducir la incidencia de crisis epilépticas y puede aumentar los efectos adversos. Solo se usa en el periodo perioperatorio inmediato en algunos centros. Las demás actitudes son correctas: la punción lumbar cuando la TC es negativa y la sospecha clínica es alta (B, para detectar xantocromía), la angio-TC urgente para identificar el aneurisma (C) y la corrección de coagulopatías (D) son medidas adecuadas en urgencias.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta correcta según las escalas de valoración de la sepsis en un hombre de 67 años con fiebre 38,7°C, TA 80/40 mmHg, FC 120 lpm, FR 30 rpm, SatO2 94%, GCS 13, tras resección transuretral de próstata hace 2 días:",
+  "opciones": {
+   "A": "Con la escala quick SOFA < 2.",
+   "B": "Con la escala MEWS < 5 puntos.",
+   "C": "Con la escala NEWS 2 media: 6 puntos.",
+   "D": "Con la escala quick SOFA > 2."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "El qSOFA (quick SOFA) puntúa tres criterios: FR ≥ 22 rpm (1 punto), alteración del nivel de conciencia (GCS < 15, 1 punto) e hipotensión (TAS ≤ 100 mmHg, 1 punto). Este paciente tiene los tres criterios positivos, por lo que el qSOFA es 3 (> 2), no < 2 (A incorrecta) ni > 2 de la forma ambigua expresada. La clave oficial indica C (NEWS 2 media: 6 puntos) como correcta, lo que implica que la puntuación NEWS 2 calculada es de 6. La D dice qSOFA > 2 pero en rigor el qSOFA máximo es 3, y el paciente puntúa 3. La opción correcta según el examen es C (NEWS 2 = 6 puntos, riesgo medio-alto).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Hacia qué diagnóstico orientan los resultados de la analítica (creatinina 7,2 mg/dL, bilirrubina 2,3, PCR 23, procalcitonina 10 ng/mL, pH 6,9, láctico 8,0 mmol/L, nitritos positivos con abundantes microorganismos y leucocituria)?",
+  "opciones": {
+   "A": "Cetoacidosis diabética con fiebre.",
+   "B": "Diverticulitis aguda.",
+   "C": "Sepsis de origen renal.",
+   "D": "Cólico biliar complicado."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "El conjunto de hallazgos (procalcitonina muy elevada de 10 ng/mL, lacticidemia de 8 mmol/L, acidosis metabólica grave con pH 6,9, disfunción renal con creatinina 7,2 mg/dL, nitritos positivos con leucocituria y abundantes microorganismos en sedimento) orienta claramente a una sepsis de origen urinario/renal (opción C) en el contexto posquirúrgico (resección transuretral de próstata). La cetoacidosis diabética (A) cursaría con hiperglucemia y cuerpos cetónicos. La diverticulitis (B) tendría foco abdominal sin sedimento urinario patológico. El cólico biliar complicado (D) daría alteraciones biliares en la analítica.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta correcta de acuerdo con los datos de la gasometría (pH 6,9; pO2 57; pCO2 24; HCO3 12; EB -23; láctico 8,0 mmol/L):",
+  "opciones": {
+   "A": "Acidemia metabólica e insuficiencia respiratoria.",
+   "B": "Acidosis metabólica e insuficiencia respiratoria normocápnica.",
+   "C": "Acidosis metabólica con alcalosis respiratoria compensadora.",
+   "D": "Acidemia láctica."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 70,
+   "grupo": "especifico",
+   "titulo": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Los datos gasométricos muestran: pH 6,9 (acidemia), HCO3 12 mEq/L (bajo, acidosis metabólica), pCO2 24 mmHg (baja, hipocapnia). La pCO2 baja indica hiperventilación compensadora de la acidosis metabólica (alcalosis respiratoria compensadora), que es la respuesta fisiológica esperada (opción C). La fórmula de compensación: pCO2 esperada = 1,5 × HCO3 + 8 ± 2 = 1,5 × 12 + 8 = 26 mmHg; el paciente tiene 24 mmHg, dentro del rango de compensación adecuada. No hay insuficiencia respiratoria propiamente dicha (A y B incorrectas). La D es incompleta: aunque hay acidemia láctica, la descripción completa del trastorno es C.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación falsa sobre la procalcitonina:",
+  "opciones": {
+   "A": "Es un biomarcador utilizado para valorar la gravedad y la mortalidad en los procesos sépticos.",
+   "B": "Ayuda a distinguir la sepsis de un síndrome de respuesta inflamatoria sistémica (SRIS) no infeccioso gracias a que alcanza una sensibilidad del 98 % y una especificidad de más del 90 % si los valores son superiores a 10 ng/mL.",
+   "C": "No se eleva en los casos de shock cardiogénico o de carcinoma de pulmón.",
+   "D": "Se recomienda hacer una nueva determinación a las 8-12 horas y a las 24 horas para comprobar la variación y estimar la mejoría o la progresión de la infección."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la C. La procalcitonina puede elevarse en situaciones no infecciosas como el shock cardiogénico, el carcinoma de pulmón de célula pequeña (que puede producir ectópicamente calcitonina y sus precursores), los grandes quemados, los traumatismos graves y las cirugías mayores. Por tanto, no es exclusivamente un marcador de infección bacteriana, aunque su especificidad es mayor en este contexto. Las opciones A (biomarcador de gravedad en sepsis), B (sensibilidad y especificidad a valores > 10 ng/mL) y D (determinaciones seriadas para monitorización) son afirmaciones correctas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Después de trasladar al paciente al área de críticos con monitorización no invasiva, hay que iniciar el tratamiento de resucitación con...",
+  "opciones": {
+   "A": "...500 mL de suero fisiológico en la primera hora.",
+   "B": "...suero fisiológico a ritmo de 30 mL/kg en las primeras tres horas.",
+   "C": "...500 mL de lactato de Ringer en la primera hora.",
+   "D": "...500 mL de Isofundin® en la primera hora."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "Según las guías Surviving Sepsis Campaign (SSC) 2021, la resucitación inicial con fluidos en la sepsis con hipoperfusión tisular debe realizarse con al menos 30 mL/kg de cristaloides isotónicos (suero fisiológico 0,9% o similar) en las primeras 3 horas (opción B). La administración de solo 500 mL en la primera hora (A, C, D) es insuficiente. La elección del cristaloides puede ser suero fisiológico o soluciones balanceadas (Ringer lactato, PlasmaLyte), pero el volumen de 30 mL/kg en 3 horas es el estándar de las guías internacionales.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Dados los valores de la gasometría (pH 6,9; HCO3 12; EB -23), señale la respuesta correcta sobre el tratamiento que debe administrarse en la fase de resucitación:",
+  "opciones": {
+   "A": "Perfusión de bicarbonato 1/6 M a través de una vía periférica.",
+   "B": "Perfusión de bicarbonato 1M (a una dosis de 1 mEq/kg).",
+   "C": "No hay que añadir bicarbonato.",
+   "D": "Hay que añadir una perfusión de suero glucosado al 10 % con insulina."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "Con un pH de 6,9 y déficit de bases de -23, la acidosis metabólica es muy severa. Las guías actuales (SSC 2021) recomiendan considerar la administración de bicarbonato sódico en pacientes con acidosis metabólica grave (pH < 7,15) e insuficiencia renal aguda con el fin de mejorar la función hemodinámica y reducir el uso de vasopresores. En este caso, la corrección con bicarbonato 1M a dosis de 1 mEq/kg (opción B) está indicada dado el pH extremadamente bajo de 6,9. La perfusión 1/6 M (A) es más diluida y de uso más controvertido. La opción C (no administrar) sería inadecuada con pH tan bajo. La D (suero glucosado con insulina) no tiene indicación aquí.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación correcta sobre el tratamiento antibiótico en el caso clínico descrito:",
+  "opciones": {
+   "A": "Debe iniciarse lo antes posible: se recomienda antes de la primera hora desde el diagnóstico, hasta un máximo de tres horas.",
+   "B": "La dosis inicial debe estar ajustada a la función renal.",
+   "C": "La dosis inicial debe ser plena.",
+   "D": "Las respuestas a) y c) son correctas."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La opción correcta es D porque tanto A como C son afirmaciones correctas: el antibiótico debe iniciarse lo antes posible (idealmente en la primera hora del diagnóstico de sepsis, con un máximo de 3 horas) y la primera dosis siempre debe ser la dosis completa o de carga (no reducida), independientemente de la función renal. La reducción de dosis por insuficiencia renal aplica a las dosis de mantenimiento, no a la dosis inicial. Iniciar con dosis reducida retrasaría la consecución de niveles terapéuticos y empeoraría el pronóstico. La B (ajustar la dosis inicial a la función renal) es incorrecta por este motivo.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Bajo la sospecha diagnóstica y el foco de infección (sepsis de origen renal/urológico), ¿cuál es el tratamiento antibiótico adecuado en este caso clínico?",
+  "opciones": {
+   "A": "4 g de piperacilina tazobactam cada 8 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+   "B": "2 g de piperacilina tazobactam cada 12 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+   "C": "1 g de meropenem cada 8 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+   "D": "2 g de ceftriaxona cada 24 horas +/- 15 mg/kg de amikacina en una dosis única diaria."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial del examen indica B como correcta. En la sepsis de origen urológico sin factores de riesgo de multirresistencia, piperacilina-tazobactam es una opción de amplio espectro adecuada. La dosis estándar de piperacilina-tazobactam es 4 g cada 6-8 horas (no 2 g cada 12 h como indica B, que sería una dosis y pauta atípicas). La ceftriaxona 2 g/24h + amikacina (D) es también una pauta aceptada para infección urinaria complicada. El meropenem (C) se reserva para sospecha de multirresistencia. La respuesta correcta según el examen es B, aunque en la práctica la dosificación de piperacilina-tazobactam estándar es 4 g/6-8h.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes no es una de las variables dinámicas que deben revisarse tras la resucitación inicial, según las recomendaciones de las guías internacionales de sepsis, y que indicarían fracaso?",
+  "opciones": {
+   "A": "Diuresis < 50 mL/h.",
+   "B": "Presión arterial media > 65 mmHg.",
+   "C": "Aclaramiento de lactato < 20 %.",
+   "D": "Insuficiencia respiratoria con PaO2/FiO2 < 300 (en ausencia de neumonía)."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La PAM > 65 mmHg (B) es el OBJETIVO de resucitación (indicador de éxito), no un criterio de fracaso. Las guías SSC recomiendan mantener una PAM ≥ 65 mmHg como meta hemodinámica. Los criterios de fracaso de la resucitación incluyen: persistencia de oliguria (diuresis < 0,5 mL/kg/h ≈ < 30-40 mL/h, A); aclaramiento de lactato insuficiente (< 10-20% en la primera hora, C); y persistencia de disfunción orgánica como insuficiencia respiratoria con PaO2/FiO2 < 300 (D). Por tanto, la B (PAM > 65 mmHg) es la que NO indica fracaso sino éxito de la resucitación.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 154,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación falsa de acuerdo con las guías Surviving Sepsis Campaign de 2021:",
+  "opciones": {
+   "A": "La sepsis es una disfunción orgánica potencialmente mortal, causada por una respuesta inadecuada del huésped a una infección documentada clínica y/o microbiológicamente.",
+   "B": "La sepsis grave se mantiene en la actualidad como definición.",
+   "C": "La sepsis es dependiente del tiempo y, por lo tanto, es una emergencia médica.",
+   "D": "La sepsis es una de las principales causas de mortalidad en todo el mundo."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la B. Con la publicación de las definiciones Sepsis-3 en 2016, el término «sepsis grave» fue ELIMINADO como categoría diferenciada. Actualmente solo se reconocen dos categorías: sepsis (disfunción orgánica por respuesta del huésped a la infección) y shock séptico (subconjunto de sepsis con hipotensión refractaria a fluidos que requiere vasopresores y lactatemia ≥ 2 mmol/L). Las opciones A, C y D son afirmaciones correctas según las guías SSC 2021: la definición de sepsis (A), su carácter de emergencia tiempo-dependiente (C) y su impacto global en mortalidad (D).",
+   "incorrectas": {}
+  }
+ }
+]

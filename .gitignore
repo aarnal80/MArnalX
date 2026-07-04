@@ -1,0 +1,28 @@
+# Python portable (runtime local, no versionar)
+.python-portable/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Análisis de calidad: lotes de trabajo y backups (regenerables)
+batches/
+*.bak

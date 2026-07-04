@@ -1,0 +1,182 @@
+[
+  {
+    "n": 88,
+    "enunciado": "En las pruebas de laboratorio de un paciente con sospecha de pancreatitis aguda (PA): a) El hemograma, la bilirrubina y la creatinina son las únicas analíticas necesarias, ya que nos orientan acerca de la gravedad del cuadro. b) Debido a la mayor producción de insulina y la disminución de la liberación de glucagón, glucocorticoides y catecolaminas, no suele haber hipoglucemia que justifique la realización del test de sobrecarga oral de glucosa. c) La lipasa sérica tiene mayor sensibilidad y especificidad que la amilasa en el diagnóstico de PA. d) En relación con las enzimas hepáticas, la elevación de la GPT (ALT), el cociente GPT/GOT>1, y ausencia de los niveles de fosfatasa alcalina orientarían hacia la etiología alcohólica de la pancreatitis.",
+    "opciones": {
+      "A": "El hemograma, la bilirrubina y la creatinina son las únicas analíticas necesarias, ya que nos orientan acerca de la gravedad del cuadro.",
+      "B": "Debido a la mayor producción de insulina y la disminución de la liberación de glucagón, glucocorticoides y catecolaminas, no suele haber hipoglucemia que justifique la realización del test de sobrecarga oral de glucosa.",
+      "C": "La lipasa sérica tiene mayor sensibilidad y especificidad que la amilasa en el diagnóstico de PA.",
+      "D": "En relación con las enzimas hepáticas, la elevación de la GPT (ALT), el cociente GPT/GOT>1, y ausencia de los niveles de fosfatasa alcalina orientarían hacia la etiología alcohólica de la pancreatitis."
+    }
+  },
+  {
+    "n": 89,
+    "enunciado": "Paciente dado de alta por neumotórax espontáneo primario, al que acuden por disnea y fiebre de 38,5°C. En el laboratorio no confirman que se detectan enterobacterias no sensibles a los antibióticos de primera línea, pero sí indica que el nivel de la GPT está elevado. Señale la respuesta correcta: a) Probióticos de Saccharomyces boulardii 1 sobre / día. b) Amoxicilina-clavulánico (TMX-SMX) (160/800mg) c/12h durante 3-5 días. c) Vancomicina 125 mg v/ó v.o. durante 10 días. d) Fidaxomicina 200 mg c/12 h v.o. durante 10 días.",
+    "opciones": {
+      "A": "Probióticos de Saccharomyces boulardii 1 sobre / día.",
+      "B": "Amoxicilina-clavulánico (TMX-SMX) (160/800mg) c/12h durante 3-5 días.",
+      "C": "Vancomicina 125 mg v/ó v.o. durante 10 días.",
+      "D": "Fidaxomicina 200 mg c/12 h v.o. durante 10 días."
+    }
+  },
+  {
+    "n": 90,
+    "enunciado": "Entre los criterios para realizar profilaxis antibiótica con predominio perfil hepático, ¿cuál de las siguientes afirmaciones tiene predominio con perfil hepático? a) Fármacos. b) Síndrome de Crigher-Najar. c) Hiperbilirrubinemia. d) Norfloxacino 400mg c/12h durante 7 días.",
+    "opciones": {
+      "A": "Fármacos.",
+      "B": "Síndrome de Crigher-Najar.",
+      "C": "Hiperbilirrubinemia.",
+      "D": "Norfloxacino 400mg c/12h durante 7 días."
+    }
+  },
+  {
+    "n": 91,
+    "enunciado": "¿Cuándo se debe realizar profilaxis antibiótica para la peritonitis bacteriana espontánea (PBE)? a) Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, ya que presentan mayor riesgo de infección. b) Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, y/o función renal alterada. c) En algunos pacientes con ascitis puede ser útil la administración de albúmina nebulizada, a fin de que se presente mayor riesgo de ser la vía de administración de adrenalina nebulizada. d) a y b son correctas.",
+    "opciones": {
+      "A": "Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, ya que presentan mayor riesgo de infección.",
+      "B": "Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, y/o función renal alterada.",
+      "C": "En algunos pacientes con ascitis puede ser útil la administración de albúmina nebulizada, a fin de que se presente mayor riesgo de ser la vía de administración de adrenalina nebulizada.",
+      "D": "a y b son correctas."
+    }
+  },
+  {
+    "n": 92,
+    "enunciado": "En relación con el diagnóstico etiológico de la acidosis metabólica. Señale la respuesta correcta: a) El anión gap (AG) elevado en las situaciones en que el anión gap es normal, los aniones no cuantificables son el bicarbonato, y puede ocurrir en situaciones clínicas como pérdidas de bicarbonato digestivas o renales. b) El anión gap elevado se produce en situaciones en que el anión gap es normal. c) En las acidosis con AG elevado, la causa más frecuente es la cetoacidosis. d) a y b son correctas.",
+    "opciones": {
+      "A": "El anión gap (AG) elevado en las situaciones en que el anión gap es normal, los aniones no cuantificables son el bicarbonato, y puede ocurrir en situaciones clínicas como pérdidas de bicarbonato digestivas o renales.",
+      "B": "El anión gap elevado se produce en situaciones en que el anión gap es normal.",
+      "C": "En las acidosis con AG elevado, la causa más frecuente es la cetoacidosis.",
+      "D": "a y b son correctas."
+    }
+  },
+  {
+    "n": 93,
+    "enunciado": "En relación con la tensión de los apéndices testiculares: a) La crisis trómbica se torna más frecuente en varones de 8-15 años. b) En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarse al diagnóstico de esta patología, ¿cuál de los siguientes parámetros no le parece correcto según la Clasificación Japonesa de Tiroides 2016? c) El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves y. d) El tratamiento apropiado es: propiltiouracilo (PTU) o Metimazol (150-500mg cada 6h), Propranolol, Dexametasona 2 mg/6h iv, Yoduro de potasio 500-1000mg cada 8h.",
+    "opciones": {
+      "A": "La crisis trómbica se torna más frecuente en varones de 8-15 años.",
+      "B": "En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarse al diagnóstico de esta patología, ¿cuál de los siguientes parámetros no le parece correcto según la Clasificación Japonesa de Tiroides 2016?",
+      "C": "El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves.",
+      "D": "El tratamiento apropiado es: propiltiouracilo (PTU) o Metimazol (150-500mg cada 6h), Propranolol, Dexametasona 2 mg/6h iv, Yoduro de potasio 500-1000mg cada 8h."
+    }
+  },
+  {
+    "n": 94,
+    "enunciado": "En relación con la torsión de los apéndices testiculares, señale cuál es la afirmación CORRECTA: a) Dolor intenso de aparición brusca, que se acompaña de irritabilidad e inquietud motora. b) El diagnóstico del paciente y y su traumatología (craneofacial) se debe evitar el uso de neurolépticos. c) En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos. d) En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida.",
+    "opciones": {
+      "A": "Dolor intenso de aparición brusca, que se acompaña de irritabilidad e inquietud motora.",
+      "B": "El diagnóstico del paciente y su traumatología (craneofacial) se debe evitar el uso de neurolépticos.",
+      "C": "En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos.",
+      "D": "En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida."
+    }
+  },
+  {
+    "n": 95,
+    "enunciado": "Un varón de 26 años acude al servicio de urgencias, traído por sus familiares, por fiebre, alteración del nivel de conciencia, taquicardia, agitación, ansiedad y delirio. Como antecedente refieren hipertiroidismo mal controlado y cirugía de rodilla hace una semana. Señale la respuesta incorrecta sobre la enfermedad de este paciente:",
+    "opciones": {
+      "A": "La crisis tirotóxica o tormenta tiroidea es una condición rara y potencialmente mortal (8-25 %) resultante de una respuesta exagerada del organismo a una elevación aguda de hormonas tiroideas.",
+      "B": "En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarnos al diagnóstico de esta enfermedad, posteriormente modificadas por la Asociación Japonesa de Tiroides 2016.",
+      "C": "El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves y potencialmente mortales en un paciente con evidencia bioquímica de hipertiroidismo (elevación de T4 libre y/o T3 con TSH disminuida o si el hipertiroidismo es central, normal o aumentada).",
+      "D": "El tratamiento apropiado es: Tratamiento de soporte, Diltiazem, Metamizol (preferiblemente propiltiouracilo (PTU)) e Hidrocortisona (100mg cada 8h)."
+    }
+  },
+  {
+    "n": 96,
+    "enunciado": "¿Qué NO esperaríamos encontrar en un paciente con un cuadro compatible con cetoacidosis diabética?",
+    "opciones": {
+      "A": "Glucemia en plasma de 950 mg/dL.",
+      "B": "pH de 7,19.",
+      "C": "Cuerpos cetónicos de 0,3 mmol/L.",
+      "D": "Osmolaridad plasmática elevada."
+    }
+  },
+  {
+    "n": 97,
+    "enunciado": "La diátesis hemorrágica se define como estado en el que el paciente presenta un sangrado espontáneo o desproporcionado para la lesión que padece por un desequilibrio entre la hemostasia y fibrinolisis. En cuanto al diagnóstico más frecuente según la edad del paciente, no es cierto:",
+    "opciones": {
+      "A": "Al nacimiento niños o niñas con clínica hemorrágica (sangrado de cordón) y pruebas básicas normales, hay que pensar en un déficit del factor XIII.",
+      "B": "En el primer año de vida, en niñas con hematomas o sangrados, pensar en Enfermedad de Von Willebrand.",
+      "C": "En el primer año de vida, en niños con hematomas pensar en Enfermedad de Von Willebrand y hemofilia.",
+      "D": "En adultos valorar alteraciones de la hemostasia secundaria cuando presenta pruebas de laboratorio básicas normales, teniendo en cuenta la función hepática y renal."
+    }
+  },
+  {
+    "n": 98,
+    "enunciado": "Varón de 55 años diagnosticado de Ca Epidermoide de Ca de pulmón y en tratamiento con quimioterapia. Lleva 5 días. Acude a urgencias por fiebre de 38,5°C desde hace 3 días. Su objetivo neutropenia de 300ml. Procalcitonina < 0,05 mg/ml. Resto de analítica sin alteraciones. Se muestra condensación. Al iniciar el tratamiento antibiótico empírico, el paciente es alérgico a la penicilina, ¿cuál de las siguientes pautas le parece la más adecuada? a) Gentamicina + Ciprofloxacino o Levofloxacino. b) Meropenem + moxifloxacino. c) Aztreonam + Vancomicina. d) Aztreonam + Vancomicina.",
+    "opciones": {
+      "A": "Gentamicina + Ciprofloxacino o Levofloxacino.",
+      "B": "Meropenem + moxifloxacino.",
+      "C": "Aztreonam + Vancomicina.",
+      "D": "Aztreonam + Vancomicina."
+    }
+  },
+  {
+    "n": 99,
+    "enunciado": "Un paciente oncológico, de 72 años, tratado con quimioterapia, acude a urgencias por presentar en su exploración física destacan taquipnea, presión arterial baja, temperatura >38,5°C. La muestra condensación. Al iniciar el tratamiento antibiótico empírico, al paciente es alérgico a la penicilina, ¿cuál de las siguientes pautas le parece la más adecuada? a) Gentamicina + Ciprofloxacino o Levofloxacino. b) Meropenem + moxifloxacino. c) Aztreonam + Vancomicina. d) Aztreonam + Vancomicina.",
+    "opciones": {
+      "A": "Gentamicina + Ciprofloxacino o Levofloxacino.",
+      "B": "Meropenem + moxifloxacino.",
+      "C": "Aztreonam + Vancomicina.",
+      "D": "Aztreonam + Vancomicina."
+    }
+  },
+  {
+    "n": 100,
+    "enunciado": "En cuanto al tratamiento más efectivo de la obstrucción uretral, ¿cuál es la respuesta correcta? a) Tratamiento médico con antiinflamatorios junto a Diltiazen. b) La trombosis de la vena renal ocurre en bifurcaciones arteriales. c) La trombosis es la causa más frecuente en los miembros superiores. d) a, b, c) son correctas.",
+    "opciones": {
+      "A": "Tratamiento médico con antiinflamatorios junto a Diltiazen.",
+      "B": "La trombosis de la vena renal ocurre en bifurcaciones arteriales.",
+      "C": "La trombosis es la causa más frecuente en los miembros superiores.",
+      "D": "a, b, c son correctas."
+    }
+  },
+  {
+    "n": 101,
+    "enunciado": "En la atención de un paciente con dolor en una extremidad, en el que sospechamos una oclusión arterial aguda por un trombo, ¿cuál de las siguientes afirmaciones le parece incorrecta? a) Taquipnea con hiperventilación. b) La embolia arterial suele ocurrir en bifurcaciones arteriales. c) La trombosis es la causa más frecuente en los miembros superiores. d) La trombosis de los vasos de los miembros superiores.",
+    "opciones": {
+      "A": "Taquipnea con hiperventilación.",
+      "B": "La embolia arterial suele ocurrir en bifurcaciones arteriales.",
+      "C": "La trombosis es la causa más frecuente en los miembros superiores.",
+      "D": "La trombosis de los vasos de los miembros superiores."
+    }
+  },
+  {
+    "n": 102,
+    "enunciado": "Varón de 80 años remitido a urgencias desde el centro de salud por dolor abdominal, sin antecedentes. En la exploración se aprecia TA 13/02. En la exploración de la página TA 13/02 (pa, satO2 90%, frecuencia 75/min). Ante un diagnóstico más frecuente según su edad del paciente, ¿cuál de las siguientes sería la respuesta correcta? a) Síndrome embolismo/trombótico: Hidratación + benzodiazepinas. b) Síndrome embolismo/trombótico. Antibiótico específico: Naloxona. c) Síndrome embolismo/trombótico. Antibiótico específico: Flumazenilo y naloxona. d) Síndrome sedativo. Antídoto específico: Naloxona.",
+    "opciones": {
+      "A": "Síndrome embolismo/trombótico: Hidratación + benzodiazepinas.",
+      "B": "Síndrome embolismo/trombótico. Antibiótico específico: Naloxona.",
+      "C": "Síndrome embolismo/trombótico. Antibiótico específico: Flumazenilo y naloxona.",
+      "D": "Síndrome sedativo. Antídoto específico: Naloxona."
+    }
+  },
+  {
+    "n": 103,
+    "enunciado": "En relación con la acatisia, señale la falsa: a) Se da habitualmente en pacientes ancianos. b) El tratamiento de la exploración brusca, que se acompaña de irritabilidad e inquietud motora. c) Se da normalmente al comienzo del tratamiento con neurolépticos. d) El tratamiento es con Diazepam.",
+    "opciones": {
+      "A": "Se da habitualmente en pacientes ancianos.",
+      "B": "El tratamiento de la exploración brusca, que se acompaña de irritabilidad e inquietud motora.",
+      "C": "Se da normalmente al comienzo del tratamiento con neurolépticos.",
+      "D": "El tratamiento es con Diazepam."
+    }
+  },
+  {
+    "n": 104,
+    "enunciado": "En el tratamiento con psicofármacos de un paciente con síndrome confusional agudo en urgencias, ¿cuál de las siguientes recomendaciones no le parece adecuada? a) Amoxicilina-clavulánico/Amiodarona 875/125mg 8h es la primera línea de tratamiento en el 'síndrome de delirium', sobre todo ante elevada comorbilidad y/o politerapia. b) En enfermedad/es neurológicas (ictus y traumatismo craneofacial) se debe evitar el uso de neurolépticos. c) En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos. d) En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida.",
+    "opciones": {
+      "A": "Amoxicilina-clavulánico/Amiodarona 875/125mg 8h es la primera línea de tratamiento en el 'síndrome de delirium', sobre todo ante elevada comorbilidad y/o politerapia.",
+      "B": "En enfermedad/es neurológicas (ictus y traumatismo craneofacial) se debe evitar el uso de neurolépticos.",
+      "C": "En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos.",
+      "D": "En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida."
+    }
+  },
+  {
+    "n": 105,
+    "enunciado": "En la intoxicación por cianuro, ¿cuál de las siguientes NO es una manifestación tardía (30-60 min)? a) Taquipnea con hiperventilación. b) Cefalea. c) Convulsiones. d) Extrasístoles ventriculares.",
+    "opciones": {
+      "A": "Taquipnea con hiperventilación.",
+      "B": "Cefalea.",
+      "C": "Convulsiones.",
+      "D": "Extrasístoles ventriculares."
+    }
+  }
+]

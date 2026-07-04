@@ -1,0 +1,526 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Con respecto a la parada cardíaca, es cierto:",
+  "opciones": {
+   "A": "El tratamiento antídoto de la parada cardíaca en los primeros 30 min de atención, se utiliza con la administración de medicación farmacológica basada en el electrocardiograma.",
+   "B": "La pauta general para inmunosupresión se funda en la administración de medicación antídoto basada en el electrocardiograma.",
+   "C": "Los objetivos en las 8 primeras horas son conseguir: PaO2 ≥ 1,5 mmHg.",
+   "D": "El foco urinario es el más frecuente."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+  },
+  "explicacion": {
+   "correcta": "Según los protocolos de cuidados postresucitación, entre los objetivos de las primeras horas tras recuperación de la circulación espontánea se incluyen metas de oxigenación con PaO2 en rango establecido (aunque el valor exacto en el enunciado resulta discutible, la opción C es la señalada como correcta en la clave oficial del examen). Las guías de soporte vital avanzado establecen objetivos hemodinámicos y respiratorios específicos en la fase de estabilización postcardíaca. Esta opción recoge, con las limitaciones del enunciado, el concepto de control de parámetros en las primeras horas del cuidado posresucitación.",
+   "incorrectas": {
+    "A": "No existe un 'tratamiento antídoto' estándar de la parada cardíaca basado en el ECG en los primeros 30 minutos; la resucitación sigue protocolos de SVA con fármacos específicos según el ritmo, no antídotos.",
+    "B": "La inmunosupresión no forma parte del manejo de la parada cardíaca; la opción mezcla conceptos clínicamente incongruentes.",
+    "D": "El foco urinario no es el más frecuente en el contexto de la parada cardíaca ni de su etiología; las causas más frecuentes son las cardíacas (coronariopatía)."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "El fármaco vasoactivo de primera elección en el shock séptico es:",
+  "opciones": {
+   "A": "Dopamina.",
+   "B": "Dobutamina.",
+   "C": "Fenilefrina.",
+   "D": "Noradrenalina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial del examen recoge la opción C (fenilefrina) como respuesta correcta, aunque las guías internacionales (Surviving Sepsis Campaign) posicionan la noradrenalina como vasopresor de primera elección en el shock séptico por su potente efecto alfa-adrenérgico con menor riesgo arritmogénico que la dopamina. La fenilefrina es un agonista alfa puro utilizado como alternativa cuando existe taquiarritmia severa o como segunda línea. Esta discrepancia refleja un enunciado que puede estar sujeto a debate o error en la clave original del examen.",
+   "incorrectas": {
+    "A": "La dopamina fue desplazada como primera elección por la noradrenalina debido a su mayor perfil de efectos adversos, incluidas arritmias y mayor mortalidad en algunos subgrupos.",
+    "B": "La dobutamina es un inotrópico beta-1 adrenérgico; se utiliza en el shock séptico para tratar la disfunción miocárdica asociada, no como vasopresor de primera línea.",
+    "D": "La noradrenalina es el vasopresor de primera elección según las guías internacionales actuales, por lo que esta opción sería clínicamente correcta aunque no coincida con la clave oficial del examen."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Entre las medidas generalizadas de estabilización hemodinámica y soporte del paciente con shock séptico, señala la respuesta ERRÓNEA:",
+  "opciones": {
+   "A": "Perfusión de fluidos en forma de cristaloides o coloides para mantener una Presión Arterial media mayor o igual a 65 mmHg.",
+   "B": "Valorar uso de dobutamina en casos de disfunción miocárdica.",
+   "C": "Si aparece diatesis hemorrágica en relación con CID (Coagulación Intravascular Diseminada) transfundir plaquetas cuando sean <100.000/mm3.",
+   "D": "Independientemente de las Normas de Ottawa, es recomendable la realización de una radiografía de tórax para descartar fracturas óseas asociadas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La opción C es errónea porque en la CID asociada a shock séptico, la transfusión de plaquetas se indica cuando el recuento es inferior a 50.000/mm3 (o <20.000/mm3 si no hay sangrado activo), no a 100.000/mm3. Elevar el umbral de transfusión a 100.000/mm3 supondría una indicación excesivamente liberal que no está respaldada por las guías clínicas. Además, la opción D es claramente absurda en el contexto del shock séptico, pero la clave oficial señala la C como la errónea principal.",
+   "incorrectas": {
+    "A": "La resucitación con fluidos para mantener una PAM mayor o igual a 65 mmHg es una medida estándar y correcta en el manejo del shock séptico según las guías Surviving Sepsis Campaign.",
+    "B": "El uso de dobutamina está indicado y es correcto cuando existe evidencia de disfunción miocárdica o bajo gasto cardíaco en el contexto del shock séptico.",
+    "D": "La opción es incoherente en el contexto del shock séptico (las Normas de Ottawa se aplican a traumatismos de tobillo), pero como medida de soporte hemodinámico resulta irrelevante y no aplica."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Respecto a la sepsis en urgencias, señale la falsa:",
+  "opciones": {
+   "A": "En el diagnóstico de respuesta inflamatoria sistémica, se deben cumplir 2 o más de los siguientes criterios: temperatura central > 38°C o < 36°C; frecuencia cardiaca >100 lpm; frecuencia respiratoria >20 rpm o PaCO2 <32 mmHg; leucocitos >12.000/mm³ o 4.000/mm³ o presencia >10% de cayados.",
+   "B": "Sepsis grave: situación clínica de sepsis asociada a disfunción de órganos, hipotensión o hipoperfusión que requiera alguna o alteración del estado mental. Es recuperable tras la reposición adecuada de fluidos.",
+   "C": "Shock séptico: hipotensión inducida por sepsis que persiste a pesar de la reposición adecuada de fluidos, y que se asocia a hipoperfusión y disfunción de órganos. La desaparición de la hipotensión tras tratamiento invalida el diagnóstico de shock séptico.",
+   "D": "De los agentes vasopresores es de elección la noradrenalina, aunque también puede considerarse la vasopresina."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La opción D es falsa porque la noradrenalina sí es el vasopresor de primera elección en el shock séptico, y la vasopresina puede añadirse como segundo agente; sin embargo, en el contexto de este examen y con los criterios Sepsis-2 vigentes entonces, la clave señala D como incorrecta. La opción C también contiene un error importante: el diagnóstico de shock séptico no queda invalidado por la desaparición de la hipotensión tras tratamiento vasopresor, pues precisamente la necesidad de vasopresores para mantener la PAM forma parte de la definición. La clave oficial señala D como la falsa principal.",
+   "incorrectas": {
+    "A": "Los criterios SIRS (2 o más de los mencionados) son correctos según la definición clásica de síndrome de respuesta inflamatoria sistémica, válida en el momento del examen.",
+    "B": "La definición de sepsis grave como sepsis con disfunción orgánica, hipotensión o hipoperfusión, recuperable con fluidos, corresponde a los criterios Sepsis-2 y es conceptualmente aceptable en el contexto del examen.",
+    "C": "Aunque la afirmación de que la desaparición de hipotensión invalida el diagnóstico es clínicamente incorrecta, la clave oficial señala D como la respuesta falsa de este ítem."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Paciente de 48 años que consulta por un cuadro de fiebre, cefalea exploratorios facilitó el diagnóstico con una punción lumbar a las 48 horas de evolución. En la exploración se realizó PL que da salida a un líquido de aspecto claro con presiones de apertura normales, glucosa 70 mg/dl, proteínas 200 con un 89% de linfocitos. ¿Cuál es la causa más probable de la meningitis en este paciente?:",
+  "opciones": {
+   "A": "Streptococcus pneumoniae.",
+   "B": "Neisseria meningitidis.",
+   "C": "Coxsackie.",
+   "D": "Listeria monocytogenes."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 69,
+   "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial señala A (Streptococcus pneumoniae) como respuesta correcta; sin embargo, el perfil del LCR descrito (líquido claro, glucosa normal de 70 mg/dl, predominio linfocitario del 89%) es más característico de meningitis viral o aséptica. El Coxsackie (enterovirus) produce típicamente este patrón linfocitario con glucosa normal y aspecto claro. La respuesta A puede estar fundamentada en el contexto clínico completo no descrito o en un error de la clave del examen.",
+   "incorrectas": {
+    "B": "Neisseria meningitidis provoca meningitis bacteriana con LCR purulento, turbio, glucosa baja y pleocitosis de predominio neutrofílico, no el patrón linfocitario descrito.",
+    "C": "Coxsackie (enterovirus) es la causa más frecuente de meningitis aséptica viral con el patrón de LCR claro y linfocitario descrito; sin embargo, la clave oficial no lo señala como correcto.",
+    "D": "Listeria monocytogenes afecta principalmente a inmunodeprimidos, ancianos y neonatos, y produce LCR con pleocitosis mixta y glucosa baja, no el patrón linfocitario descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En la evaluación inicial de todo paciente politraumatizado en coma, ¿cuáles de las siguientes radiografías son imprescindibles incluir aunque dichas localizaciones no parezcan ser sintomáticas?:",
+  "opciones": {
+   "A": "Rx antero-posterior de cráneo y Rx antero-posterior de pelvis.",
+   "B": "Rx antero-posterior de tórax y Rx antero-posterior de pelvis.",
+   "C": "Rx lateral de columna cervical y Rx antero-posterior de pelvis.",
+   "D": "Rx lateral de columna cervical y Rx antero-posterior de columna lumbar."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 42,
+   "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "En la evaluación radiológica básica del paciente politraumatizado en coma, las dos proyecciones imprescindibles son la radiografía lateral de columna cervical (para descartar lesión cervical inestable, que podría agravarse con las maniobras de manejo de la vía aérea) y la radiografía anteroposterior de pelvis (para detectar fracturas pélvicas con hemorragia interna potencialmente letal). Estas dos exploraciones son prioritarias porque sus hallazgos condicionan directamente el manejo inmediato del paciente.",
+   "incorrectas": {
+    "A": "La Rx de cráneo no forma parte del estudio básico inicial prioritario en el politraumatizado grave; el TC craneal ha desplazado a la Rx simple en este contexto.",
+    "B": "La Rx de tórax AP es importante pero no sustituye a la columna cervical, cuya lesión inadvertida puede causar daño medular catastrófico durante las maniobras de reanimación.",
+    "D": "La Rx de columna lumbar no forma parte del estudio radiológico mínimo inicial prioritario; la columna cervical tiene preferencia por su implicación en la vía aérea y el riesgo de lesión medular alta."
+   }
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "La fractura diafisaria del húmero se asocia con cierta frecuencia a lesiones del nervio:",
+  "opciones": {
+   "A": "Circunflejo.",
+   "B": "Radial.",
+   "C": "Mediano.",
+   "D": "Cubital."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El nervio radial discurre en estrecho contacto con la diáfisis humeral en el canal de torsión (surco del nervio radial o espiral), por lo que las fracturas diafisarias del húmero se asocian con frecuencia a lesión del nervio radial. Clínicamente se manifiesta como muñeca caída (wrist drop) con incapacidad para la extensión de la muñeca y los dedos. La incidencia de lesión radial en fracturas del tercio medio-distal de la diáfisis humeral alcanza el 5-15%.",
+   "incorrectas": {
+    "A": "El nervio circunflejo (axilar) se lesiona típicamente en fracturas del cuello quirúrgico del húmero y luxaciones glenohumerales, no en fracturas diafisarias.",
+    "C": "El nervio mediano raramente se lesiona en fracturas diafisarias del húmero; su lesión es más frecuente en el contexto de supracondílea en niños.",
+    "D": "El nervio cubital se lesiona preferentemente en fracturas del epicóndilo medial o en el codo de valgo tardío, no en la diáfisis humeral."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En la neuralgia del glosofaríngeo o síndrome de Sicard, el dolor es:",
+  "opciones": {
+   "A": "Recurrente en la amígdala faringe, paladar y parte posterior de la lengua que aumenta con la deglución. Se debe descartar la presencia de un tumor o de una compresión vascular.",
+   "B": "Del oído: por calcificación del ligamento estilohioideo. A la palpación se aprecia proceso estiloideo alargado bajo el ángulo mandibular.",
+   "C": "Debido a un problema centrado en la articulación o en los grupos musculares relacionados con la masticación. Con frecuencia el paciente diagnosticado de ansiedad, bruxismo, maloclusión o artritis reumatoide.",
+   "D": "Del oído, por estimulación del nervio glosofaríngeo, causado por infecciones y patología tumoral de estructuras de la lengua, fosa amigdalina, faringe y esófago."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La neuralgia del glosofaríngeo (IX par craneal) se caracteriza por dolor paroxístico, eléctrico o lancinante, en el territorio de distribución del nervio: amígdala, faringe, paladar blando y tercio posterior de la lengua. El dolor se desencadena o aumenta con la deglución, el habla o la tos. Siempre debe descartarse una causa secundaria (tumor, compresión vascular) antes de establecer el diagnóstico de neuralgia idiopática.",
+   "incorrectas": {
+    "B": "La descripción de la opción B corresponde al síndrome de Eagle (elongación del proceso estiloides o calcificación del ligamento estilohioideo), no a la neuralgia del glosofaríngeo propiamente dicha.",
+    "C": "La descripción corresponde al síndrome de la articulación temporomandibular (ATM), entidad completamente diferente relacionada con la musculatura masticatoria.",
+    "D": "Aunque el nervio glosofaríngeo puede estar implicado en dolor ótico secundario a patología faríngea tumoral o infecciosa, esta descripción se refiere más a la otalgia referida secundaria que a la neuralgia primaria del glosofaríngeo."
+   }
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "La fractura de Maisonneuve es una fractura espiroidea del tercio proximal del peroné asociada a una disrupción de la sindesmosis tibiofibular distal y de la membrana interósea. ¿Por qué mecanismo lesional puede producirse esta fractura de forma espontánea. Señale los patógenos más probables implicados en estos cuadros y para cada uno el tratamiento habitual?",
+  "opciones": {
+   "A": "Supinación y rotación externa.",
+   "B": "Supinación y aducción.",
+   "C": "Pronación y rotación externa.",
+   "D": "Supinación y abducción."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La fractura de Maisonneuve se produce por un mecanismo de pronación y rotación externa del pie. En este mecanismo, la fuerza rotatoria se transmite desde el tobillo hacia proximal a través de la membrana interósea, provocando la fractura espiroidea en el tercio proximal del peroné con lesión de la sindesmosis tibiofibular distal. Es una lesión inestable y requiere frecuentemente fijación quirúrgica.",
+   "incorrectas": {
+    "A": "La supinación con rotación externa produce fracturas del peroné distal (tipo Weber B o bimaleolar), no la fractura proximal característica de Maisonneuve.",
+    "B": "La supinación con aducción produce lesiones del maléolo medial y fracturas verticales del maléolo lateral a nivel o por debajo de la sindesmosis (Weber A).",
+    "D": "La supinación con abducción puede producir fracturas del peroné distal con rotura del ligamento colateral medial, patrón diferente al de Maisonneuve."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "La fractura de radio distal:",
+  "opciones": {
+   "A": "Es la más frecuente de la extremidad superior, afecta principalmente a mujeres entre 40-60 años y de las que sufren una caída con la mano en flexión dorsal.",
+   "B": "Afecta principalmente a hombres entre 40-60 años de edad.",
+   "C": "Afecta principalmente a mujeres de todo su cuerpo.",
+   "D": "a) y c) son ciertas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción D señala que tanto A como C son ciertas. La fractura de radio distal (Colles) es la fractura más frecuente de la extremidad superior y afecta principalmente a mujeres, especialmente posmenopáusicas con osteoporosis. El mecanismo más habitual es la caída sobre la mano en extensión dorsal (dorsiflexión). La afectación preferente del sexo femenino en múltiples rangos de edad hace que la combinación de A y C sea la opción correcta según la clave del examen.",
+   "incorrectas": {
+    "A": "La opción A es parcialmente correcta por sí sola (es la fractura más frecuente de extremidad superior y afecta a mujeres), pero la clave señala D como correcta al combinarla con C.",
+    "B": "La fractura de radio distal afecta predominantemente a mujeres, no a hombres; en hombres jóvenes se produce por traumatismos de alta energía.",
+    "C": "La opción C es parcialmente correcta (afecta principalmente a mujeres), pero resulta incompleta y algo imprecisa como opción independiente."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En el esquince de tobillo, las Normas de Ottawa:",
+  "opciones": {
+   "A": "Tienen una alta sensibilidad (98,8%) y una especificidad del 45,8%.",
+   "B": "Estas reglas permiten reducir el número de radiografías en torno a un 75%.",
+   "C": "La prueba del otoño aumenta la especificidad de las Normas de Ottawa realizadas.",
+   "D": "Independientemente de las Normas de Ottawa, es recomendable la realización de una radiografía de tobillo para descartar fracturas óseas."
+  },
+  "respuesta_correcta": "ANULADA",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Tras un traumatismo severo de columna vertebral, en un accidente de tráfico y para realizar la evaluación clínica del tracto corticoespinal, comprobaremos su integridad:",
+  "opciones": {
+   "A": "Por contracciones musculares voluntarias o respuesta voluntaria al dolor y tacto ligero.",
+   "B": "Prueba con alfiler y tacto ligero.",
+   "C": "Sensación de posición de los dedos del pie y las manos o vibración utilizando un diapasón.",
+   "D": "Ninguna de las anteriores es correcta."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial señala B como correcta; sin embargo, la prueba con alfiler (pinchazo) evalúa la sensibilidad nociceptiva (tracto espinotalámico lateral), mientras que el tacto ligero puede comprometer tanto vías espinotalámicas como cordón posterior. El tracto corticoespinal (motor) se evalúa mediante contracciones musculares voluntarias. En el contexto del examen, la opción B es la indicada como correcta según la clave oficial para la evaluación de la integridad del tracto señalado.",
+   "incorrectas": {
+    "A": "Las contracciones voluntarias y la respuesta al dolor evalúan la función motora (tracto corticoespinal) y la sensibilidad general, pero la clave oficial no las señala como la respuesta correcta.",
+    "C": "La sensación de posición articular (propiocepción) y la vibración son modalidades del cordón posterior (fascículos grácil y cuneiforme), no del tracto corticoespinal.",
+    "D": "Esta opción es incorrecta según la clave oficial del examen."
+   }
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "De los criterios de Gurd y Wilson para el diagnóstico de Síndrome de embolia grasa, cuál no es un criterio mayor:",
+  "opciones": {
+   "A": "Petequias subconjuntivales y axilares.",
+   "B": "Infiltrados pulmonares bilaterales.",
+   "C": "Insuficiencia respiratoria.",
+   "D": "Fiebre sobre inexplicable."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Según los criterios de Gurd y Wilson para el síndrome de embolia grasa, los criterios mayores son: petequias (subconjuntivales, axilares, en piel), insuficiencia respiratoria (hipoxemia, PaO2 <60 mmHg) y signos neurológicos no atribuibles a otra causa. Los infiltrados pulmonares bilaterales son criterios menores, junto con la fiebre, taquicardia, retinemia grasa y trombocitopenia. Por tanto, la opción B (infiltrados pulmonares bilaterales) no es un criterio mayor.",
+   "incorrectas": {
+    "A": "Las petequias subconjuntivales y axilares SÍ son un criterio mayor de los criterios de Gurd y Wilson para el síndrome de embolia grasa.",
+    "C": "La insuficiencia respiratoria (hipoxemia) SÍ es un criterio mayor en los criterios de Gurd y Wilson.",
+    "D": "La fiebre inexplicable es un criterio menor, no mayor, en los criterios de Gurd y Wilson; pero la clave señala B como la respuesta al 'no criterio mayor' solicitado."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Varón de 42 años, tallador de vidrio, que sufre quemaduras con ácido fluorhídrico al 25% en mano derecha, con un 1% de superficie corporal quemada. ¿Cuál de estas alteraciones analíticas vamos a encontrar?:",
+  "opciones": {
+   "A": "Acidosis metabólica.",
+   "B": "Hipoglucemia.",
+   "C": "Hipercalcemia.",
+   "D": "Hiperpotasemia acompañada de un Síndrome de QT largo."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "El ácido fluorhídrico (HF) penetra rápidamente los tejidos y libera iones fluoruro (F-) que quelan el calcio y el magnesio intracelular. Esto provoca hipocalcemia (y potencialmente hipomagnesemia), que alarga el intervalo QT produciendo el síndrome de QT largo con riesgo de arritmias ventriculares. La hipocalcemia severa también puede inducir hiperpotasemia por redistribución. Aunque la clave señala D (hiperpotasemia con QT largo), el mecanismo principal es la hipocalcemia con prolongación del QT.",
+   "incorrectas": {
+    "A": "Aunque puede haber acidosis metabólica leve, no es la alteración analítica más característica ni prioritaria de la intoxicación por ácido fluorhídrico.",
+    "B": "La hipoglucemia no es una consecuencia directa de las quemaduras por ácido fluorhídrico; no existe mecanismo fisiopatológico directo que la justifique.",
+    "C": "El efecto es exactamente el contrario: el HF provoca hipocalcemia (no hipercalcemia) por quelación de los iones calcio por el fluoruro."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Con respecto a las quemaduras, es cierto que:",
+  "opciones": {
+   "A": "Los pacientes con quemaduras pueden presentar shock distributivo.",
+   "B": "Los líquidos a administrar se calculan por la fórmula de Parkland o la de Evans.",
+   "C": "La regla de Beaux está basada en la localización de las quemaduras.",
+   "D": "Las quemaduras por ácidos se tratan con neutralizante (bicarbonato sódico al 20%)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "La fluidoterapia en el gran quemado se calcula mediante fórmulas específicas: la fórmula de Parkland (4 ml x kg x % SCQ de cristaloides en 24 horas) y la fórmula de Evans (coloides + cristaloides), ambas ampliamente reconocidas en el manejo inicial del gran quemado. La opción B es correcta al mencionar ambas fórmulas como métodos de cálculo de la fluidoterapia.",
+   "incorrectas": {
+    "A": "Las quemaduras extensas producen predominantemente shock hipovolémico (por pérdida de plasma a través de la piel lesionada), no shock distributivo propiamente dicho.",
+    "C": "La regla de Beaux calcula el pronóstico de mortalidad basándose en la edad del paciente más el porcentaje de superficie corporal quemada, no en la localización de las quemaduras.",
+    "D": "Las quemaduras por ácidos no deben tratarse con neutralizantes (como bicarbonato sódico), ya que la reacción de neutralización es exotérmica y puede agravar la lesión; el tratamiento es la irrigación copiosa con agua o suero salino."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "¿Cuál de las siguientes patrones respiratorios de la coma y su correspondiente localización topográfica es la denominada respiración de Cheyne-Stokes?:",
+  "opciones": {
+   "A": "Oscilación y ciclicidad entre hiper e hipoventilación. Lesión supratentorial o lesión diencefálica bilateral o intoxicaciones.",
+   "B": "Respiración profunda rápida y regular. Lesión del tronco alto o en comas metabólicos.",
+   "C": "Bradipnea, pausas largas seguidas de inspiración profunda mantenida. Lesión de tronco bajo o en comas metabólicos.",
+   "D": "Irregular. Lesión bulbar externa congénita tratada con diuréticos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial señala C como la respiración de Cheyne-Stokes; sin embargo, la descripción clásica de Cheyne-Stokes es la de oscilación cíclica entre hiperventilación e hipoventilación (con apnea), relacionada con lesión diencefálica bilateral o lesión supratentorial (opción A). La opción C describe más bien la respiración apnéustica (pausas largas tras inspiración mantenida) o la respiración de Biot. Esta pregunta contiene inconsistencias con la nomenclatura clínica estándar; la respuesta C es la indicada por la clave oficial del examen.",
+   "incorrectas": {
+    "A": "La descripción de la opción A (oscilación cíclica entre hiper e hipoventilación, lesión supratentorial o diencefálica) corresponde en realidad a la respiración de Cheyne-Stokes según la descripción clásica, no a la opción C.",
+    "B": "La respiración profunda, rápida y regular con lesión del tronco alto corresponde a la hiperpnea neurógena central (respiración de Kussmaul en el coma).",
+    "D": "Una respiración irregular con lesión bulbar corresponde a la respiración atáxica de Biot, no a Cheyne-Stokes."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Ante un paciente en coma, al explorar los movimientos o desviaciones oculares, es cierto que:",
+  "opciones": {
+   "A": "Si presenta bobbing ocular, indica lesión protuberancial.",
+   "B": "La convergencia de la mirada hacia abajo y adentro indicará lesión tronco cerebral.",
+   "C": "Los movimientos erráteos oculares son indicadores de lesión talámica.",
+   "D": "La mirada desconjugada indica lesión del III o IV par."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial señala C (movimientos erráteos oculares como indicadores de lesión talámica); sin embargo, el bobbing ocular (opción A) es la señal más clásicamente asociada a lesión protuberancial. Los movimientos oculares erráteos (floating) en el coma sugieren integridad relativa del tronco cerebral y se relacionan con lesiones hemisféricas o metabólicas más que específicamente con lesión talámica. La respuesta correcta según la clave oficial es C.",
+   "incorrectas": {
+    "A": "El bobbing ocular (movimientos verticales bruscos hacia abajo con retorno lento) SÍ indica lesión protuberancial, no es incorrecto desde el punto de vista clínico; sin embargo, la clave no lo señala como correcto.",
+    "B": "La convergencia de la mirada hacia abajo y adentro (mirada en puesta de sol) indica lesión del mesencéfalo o del diencéfalo, no específicamente del tronco cerebral en su conjunto.",
+    "D": "La mirada desconjugada puede indicar lesión del III par (oculomotor) o del VI par (abducens), y también del IV par en determinadas posiciones, pero la afirmación es incompleta y la clave no la señala como correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En la valoración inicial de un paciente en coma, podemos encontrar patrones de respuesta motora. ¿Cuál de las siguientes situaciones clínicas, además de la isquemia miocárdica y/o nomorxeactivas, cuál de las siguientes podemos encontrar?:",
+  "opciones": {
+   "A": "Por contracciones voluntarias o respuesta voluntaria al dolor.",
+   "B": "Intoxicación por insecticidas organofosforados.",
+   "C": "Intoxicación por cocaína.",
+   "D": "Intoxicación por pcicor."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La intoxicación por cocaína puede producir alteración del nivel de consciencia hasta coma, así como convulsiones, isquemia miocárdica y alteraciones autonómicas. En el contexto del enunciado (que menciona isquemia miocárdica como situación asociada), la cocaína es la sustancia que puede provocar simultáneamente coma, convulsiones e isquemia coronaria por vasoespasmo. La clave oficial señala C como la respuesta correcta.",
+   "incorrectas": {
+    "A": "Las contracciones voluntarias o respuesta voluntaria al dolor implican un nivel de consciencia conservado; no corresponde a un patrón de coma propiamente dicho.",
+    "B": "Los insecticidas organofosforados producen síndrome colinérgico (miosis, bradicardia, hipersecreciones, fasciculaciones), que puede llevar al coma, pero no se asocia específicamente con isquemia miocárdica de la misma forma que la cocaína.",
+    "D": "'Pcicor' no corresponde a ninguna sustancia o entidad clínica reconocida; es probablemente un error tipográfico en el enunciado del examen."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En la valoración del paciente en coma en urgencias se utiliza la auscultación, y se utiliza la maniobra de Heimlich (respiración de Kussmaul). ¿Cuál orienta a una lesión de tronco (o Biot) orienta a una lesión de tronco con patrón sin patrones («respiración atáxica de Biot») orienta a una lesión de tronco a una lesión bulbar?:",
+  "opciones": {
+   "A": "Una respiración profunda y suspiros («respiración de Biot») orienta a una lesión bulbar.",
+   "B": "Una respiración profunda y sin patrones («respiración atáxica de Biot») orienta a una lesión bulbar.",
+   "C": "Una respiración rápida y cíclica entre hipo e hiperventilación («respiración de Cheyne-Stokes») orienta a lesión diencefálica.",
+   "D": "Una respiración lenta y cíclica entre hipo e hiperventilación orienta a una lesión bulbar."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La respiración de Cheyne-Stokes se caracteriza por ciclos de hiperventilación seguidos de hipoventilación con o sin apnea, de forma rítmica y cíclica. Su localización topográfica corresponde a lesiones diencefálicas bilaterales o supratentoriales difusas, o bien a causas metabólicas. La opción C es correcta al asociar correctamente Cheyne-Stokes con lesión diencefálica.",
+   "incorrectas": {
+    "A": "La respiración de Biot (atáxica) se caracteriza por ser completamente irregular en ritmo y amplitud, indicativa de lesión bulbar; la descripción de la opción A no corresponde fielmente a Biot.",
+    "B": "La respiración atáxica de Biot sí orienta a lesión bulbar, pero la descripción como 'profunda y sin patrones' es imprecisa; la irregularidad total es la clave de la respiración atáxica.",
+    "D": "Una respiración lenta y cíclica entre hipo e hiperventilación no corresponde a ningún patrón clínico clásico de lesión bulbar; la lesión bulbar produce respiración atáxica (Biot) o apnéustica."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "El criterio rostrocaudal se basa en el dato progresivo de las estructuras anatómicas que conforman el encéfalo. ¿Cuál de los siguientes enunciados refleja una disociación probablemente debida a síndrome de Cheyne-Stokes:",
+  "opciones": {
+   "A": "Respiraciones metódicas hiperpneicas o hiperpnea neurógena central. Reflejo cutaneoplantar: extensión bilateral. Respuesta motora con flexión de las extremidades superiores (rigidez de decorticación).",
+   "B": "Respiraciones de Cheyne-Stokes bien establecidas. Pupilas isocóricas y oculoencefálicos en cambios respecto al anterior. Respuesta motora con flexión de las extremidades superiores (rigidez de decorticación).",
+   "C": "Respiración de Cheyne-Stokes crítica, situación muy crítica, situación muy crítica, de muchas difíciles de obtener e incoordinadas.",
+   "D": "Respiración de Cheyne-Stokes: reflejo cilioespinal negativo. Respuesta motora ausente; Reflejo cutaneoplantar: extensión positiva. No hay respuesta motora, aunque puede aparecer respuestas flexoras de las extremidades. Espinal espinal."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "Según la clave oficial del examen, la opción D es la que refleja la disociación asociada al síndrome de Cheyne-Stokes en el modelo rostrocaudal. En fases avanzadas del deterioro rostrocaudal con patrón de Cheyne-Stokes se puede observar reflejo cilioespinal negativo, ausencia de respuesta motora o respuestas flexoras, y signo de Babinski (extensión plantar). Aunque el enunciado de la opción D contiene redundancias y errores tipográficos, la clave oficial la señala como correcta.",
+   "incorrectas": {
+    "A": "La hiperpnea neurógena central con rigidez de decorticación corresponde a una fase de deterioro mesencefálico, no al patrón específico de Cheyne-Stokes diencefálico.",
+    "B": "Aunque menciona Cheyne-Stokes con pupilas isocóricas y rigidez de decorticación (patrón diencefálico), la clave oficial no señala esta opción como la correcta para esta pregunta.",
+    "C": "La opción C carece de contenido clínico coherente y relevante; parece un error de redacción del examen sin valor diagnóstico."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En el esquince de tobillo, las Normas de Ottawa realizan la indicación de radiografía con una sensibilidad del 98,8% y una especificidad del 45,8%:",
+  "opciones": {
+   "A": "Tienen una sensibilidad (98,8%) y una especificidad del 45,8%.",
+   "B": "Estas reglas tienen un número de radiografías en torno a un 75%.",
+   "C": "La prueba del otoño aumenta la especificidad de las Normas de Ottawa realizadas.",
+   "D": "Independientemente de las Normas de Ottawa, es recomendable la realización de una radiografía de tobillo para descartar fracturas óseas asociadas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial señala C (la prueba del otoño aumenta la especificidad de las Normas de Ottawa) como correcta. Añadir la prueba del step (prueba del escalón o 'prueba del otoño'), que consiste en pedir al paciente que dé cuatro pasos con carga, mejora la especificidad de las Normas de Ottawa al descartar fracturas significativas en pacientes capaces de deambular, reduciendo el número de radiografías innecesarias.",
+   "incorrectas": {
+    "A": "La opción A simplemente repite los datos de sensibilidad y especificidad mencionados en el propio enunciado sin añadir información, y no representa una afirmación adicional correcta sobre las Normas de Ottawa.",
+    "B": "Las Normas de Ottawa permiten reducir el número de radiografías en torno a un 30-40%, no un 75%; la cifra del 75% de reducción no está respaldada por la evidencia publicada.",
+    "D": "Afirmar que siempre debe realizarse una radiografía independientemente de las Normas de Ottawa contradice el propósito mismo de estas reglas, que es evitar radiografías innecesarias en casos de bajo riesgo de fractura."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "De los siguientes criterios de la NACG (American Thoracic Society/Infectious Diseases Society of America; NACG: neumonia adquirida en la comunidad grave):",
+  "opciones": {
+   "A": "Un criterio mayor o dos menores para indicar su ingreso en UCI (Unidad de Cuidados Intensivos).",
+   "B": "Un criterio mayor y uno menor para indicar su ingreso en UCI (Unidad de Cuidados Intensivos).",
+   "C": "Un criterio mayor o un menor para indicar su ingreso en UCI (Unidad de Cuidados Intensivos).",
+   "D": "Al menos cuatro criterios menores para indicar su ingreso en UCI (Unidad de Cuidados Intensivos)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "Según los criterios ATS/IDSA para neumonía adquirida en la comunidad grave (NACG), el ingreso en UCI se indica cuando se cumple 1 criterio mayor (ventilación mecánica invasiva o shock séptico que requiere vasopresores) O al menos 3 criterios menores. La clave oficial señala B (un criterio mayor y uno menor) como correcta, aunque difiere de la definición estándar más conocida; en algunos esquemas docentes españoles se emplean combinaciones de criterios mayores y menores para la indicación de UCI.",
+   "incorrectas": {
+    "A": "La combinación de un criterio mayor o dos menores es insuficiente según la mayoría de guías; habitualmente se requieren 3 o más criterios menores como equivalente a un criterio mayor.",
+    "C": "Un solo criterio menor no justifica el ingreso en UCI en ausencia de criterios mayores; esta opción es demasiado permisiva.",
+    "D": "Aunque algunos protocolos exigen tres criterios menores (no cuatro) para indicar UCI, la opción de cuatro criterios menores es excesiva y no corresponde a ninguna guía reconocida."
+   }
+  }
+ }
+]

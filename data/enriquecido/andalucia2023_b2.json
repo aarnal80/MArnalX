@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Un niño de 7 años es trasladado al Servicio de Urgencias por sus padres, varios minutos después de caer a través de una ventana. Presenta sangrado profuso por una herida de 6 cm localizada en la región media del muslo derecho. El manejo inmediato de la herida consiste en:",
+  "opciones": {
+   "A": "Aplicar presión directa en la arteria femoral a nivel de la ingle.",
+   "B": "Aplicar un torniquete.",
+   "C": "Desbridar el tejido desvitalizado.",
+   "D": "Compresión manual directa."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Heridas. Quemaduras. Síndrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "La compresión manual directa sobre la herida es la maniobra de primera línea para el control del sangrado activo en cualquier herida hemorrágica. Permite reducir de forma inmediata el flujo sanguíneo hacia la zona lesionada favoreciendo la hemostasia mecánica. Es una técnica sencilla, efectiva y aplicable de inmediato sin material adicional, siendo el estándar de atención inicial en urgencias pediátricas y adultos.",
+   "incorrectas": {
+    "A": "La presión sobre la arteria femoral proximal (punto de compresión inguinal) es una maniobra de segundo escalón cuando la compresión directa no es posible o no es suficiente; no es la actuación de primera elección ante una herida sangrante accesible.",
+    "B": "El torniquete se reserva para hemorragias masivas de extremidades que no ceden con compresión directa, o en situaciones de amputación traumática. En una herida de muslo con sangrado sin compromiso vital inmediato confirmado, la compresión directa debe intentarse primero.",
+    "C": "El desbridamiento del tejido desvitalizado es un procedimiento diferido que se realiza una vez controlada la hemorragia y estabilizado el paciente; realizarlo de forma inmediata retrasaría el control del sangrado y aumentaría el riesgo."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de las siguientes características, en la exploración física, NO suele estar presente en un paciente con sospecha de shock?",
+  "opciones": {
+   "A": "Palidez y frialdad cutánea.",
+   "B": "Oliguria (diuresis < 0,5 mL/kg/h).",
+   "C": "Relleno capilar menor de 2 segundos.",
+   "D": "Alteración del estado de conciencia (obnubilación, confusión)."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 50,
+   "tema": "Shock. Concepto, etiología, valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "En el shock, la hipoperfusión periférica provoca vasoconstricción cutánea compensadora, lo que enlentece el relleno capilar por encima de 2 segundos (relleno capilar PROLONGADO, no acortado). Un relleno capilar menor de 2 segundos es normal, por lo que su presencia va en contra del diagnóstico de shock. Así, esta opción es la que habitualmente NO está presente.",
+   "incorrectas": {
+    "A": "La palidez y frialdad cutánea son manifestaciones clásicas del shock por vasoconstricción periférica compensadora que redistribuye el flujo hacia órganos vitales; sí están presentes habitualmente.",
+    "B": "La oliguria (diuresis < 0,5 mL/kg/h) refleja la hipoperfusión renal característica del shock y es un criterio diagnóstico importante; sí está presente en el shock establecido.",
+    "D": "La alteración del estado de conciencia (obnubilación, confusión) traduce la hipoperfusión cerebral y es un signo frecuente en el shock; su presencia refuerza el diagnóstico."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Paciente varón de 57 años que consulta en el Servicio de Urgencias por sufrir, de madrugada, dolor epigástrico súbito asociado a náuseas y vómitos de sangre, con deposiciones melénicas. Niega toma de antiinflamatorios no esteroideos de forma habitual. ¿Cuál de las siguientes actuaciones NO estaría indicada?",
+  "opciones": {
+   "A": "Colocar de forma rutinaria una sonda nasogástrica para lavados con suero frío.",
+   "B": "Canalizar 2 vías periféricas de calibre grueso, que permitan la infusión rápida.",
+   "C": "Reponer la volemia con cristaloides.",
+   "D": "Solicitar sangre en reserva (al menos 2 concentrados de hematíes)."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta y baja."
+  },
+  "explicacion": {
+   "correcta": "La colocación rutinaria de sonda nasogástrica para lavado con suero frío no está indicada en la hemorragia digestiva alta. Los lavados gástricos con suero frío han demostrado no mejorar la hemostasia ni el pronóstico, y pueden provocar hipotermia, aumentar el sangrado por vasoconstricción refleja o retrasar el tratamiento endoscópico. Las guías actuales desaconsejan esta práctica como medida sistemática.",
+   "incorrectas": {
+    "B": "La canalización de dos vías periféricas de grueso calibre es la primera medida en cualquier hemorragia digestiva activa, permitiendo la infusión rápida de fluidos y hemoderivados; está claramente indicada.",
+    "C": "La reposición de volemia con cristaloides (suero fisiológico o Ringer lactato) es una medida básica de resucitación en la hemorragia digestiva aguda para mantener la perfusión tisular mientras se preparan los hemoderivados; está indicada.",
+    "D": "Solicitar sangre en reserva (mínimo 2 concentrados de hematíes) es fundamental ante una hemorragia digestiva activa con compromiso hemodinámico, para disponer de hemoderivados con la mínima demora; está indicado."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación con el reinicio de tratamiento antiagregante y anticoagulante tras hemorragia digestiva aguda gastrointestinal, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "En los pacientes con doble tratamiento antiagregante, se recomienda mantener la antiagregación con ácido acetilsalicílico y suspender el clopidogrel durante un periodo corto de tiempo, ya que esto no aumenta significativamente el riesgo de complicaciones cardiovasculares.",
+   "B": "Se recomienda reiniciar el tratamiento anticoagulante en pacientes con riesgo tromboembólico bajo en los primeros 3 días después del episodio hemorrágico.",
+   "C": "En los pacientes con estigmas de hemostasia reciente, puede reiniciarse el tratamiento antiagregante de forma segura a partir del tercer día después de la endoscopia.",
+   "D": "Los pacientes con un riesgo tromboembólico moderado o alto, son los que se podrían beneficiar del reinicio más precoz de la anticoagulación."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta y baja."
+  },
+  "explicacion": {
+   "correcta": "La afirmación B es falsa porque precisamente son los pacientes con riesgo tromboembólico BAJO los que pueden permitirse esperar más tiempo para reiniciar la anticoagulación, dado que su riesgo de evento trombótico es menor. Las guías recomiendan el reinicio precoz (en los primeros días) para los pacientes con riesgo tromboembólico ALTO o MODERADO, no para los de riesgo bajo, en quienes puede diferirse más la reintroducción del anticoagulante.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: en la doble antiagregación, mantener AAS y suspender temporalmente el segundo antiagregante (clopidogrel) es la estrategia recomendada, ya que preserva parte de la protección cardiovascular con menor riesgo hemorrágico que mantener ambos.",
+    "C": "Esta afirmación es correcta: tras hemostasia endoscópica con estigmas de hemostasia reciente (coágulo adherido o vaso visible), el reinicio del antiagregante a partir del tercer día es seguro y reduce el riesgo cardiovascular sin aumentar significativamente el riesgo de resangrado.",
+    "D": "Esta afirmación es correcta: son los pacientes con riesgo tromboembólico moderado o alto (fibrilación auricular con CHA2DS2-VASc elevado, prótesis valvular mecánica, TEP reciente) quienes más se benefician del reinicio precoz de la anticoagulación por el elevado riesgo de evento trombótico."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Paciente de 72 años con implante de marcapasos una semana antes de la asistencia en Urgencias. Acude consultando por mareos y palpitaciones ocasionales. No síncope. No disnea. No dolor torácico. Se ingresa con monitorización electrocardiográfica, que se muestra en la siguiente imagen: ¿Cuál de los siguientes es el diagnóstico correcto?",
+  "opciones": {
+   "A": "Fallo de captura ventricular",
+   "B": "Fallo de estimulación.",
+   "C": "Infradetección.",
+   "D": "Marcapasos normofuncionante."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 48,
+   "tema": "Bradiarritmias. Bloqueos auriculoventriculares."
+  },
+  "explicacion": {
+   "correcta": "El fallo de captura ventricular ocurre cuando el marcapasos genera el estímulo eléctrico (se observan espículas de marcapasos en el ECG) pero éste no consigue despolarizar el miocardio ventricular, por lo que tras la espícula no aparece complejo QRS. Es una disfunción frecuente en el periodo precoz tras el implante, por desplazamiento del electrodo, edema en la zona de contacto o umbral elevado. La clínica de mareos y palpitaciones a la semana del implante es compatible.",
+   "incorrectas": {
+    "B": "El fallo de estimulación (fallo de salida) implica que el marcapasos no genera los impulsos eléctricos cuando debería, de modo que no aparecen espículas en el ECG en los momentos en que se esperarían; es un fallo diferente al de captura.",
+    "C": "La infradetección ocurre cuando el marcapasos no detecta correctamente la actividad eléctrica nativa del corazón y genera estímulos inapropiados en momentos en que no debería (compitiendo con la actividad propia); el patrón ECG es diferente al fallo de captura.",
+    "D": "Un marcapasos normofuncionante muestra espículas seguidas consistentemente de complejos QRS (en el modo correspondiente), lo que no es el caso en este paciente con síntomas a la semana del implante."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Acude a Urgencias un paciente con historia previa de ingesta habitual de alcohol que presenta deterioro clínico importante, ascitis a tensión, ictericia y cuadro clínico de encefalopatía hepática, sin diagnóstico previo conocido. ¿Cuál de las siguientes afirmaciones es la correcta?",
+  "opciones": {
+   "A": "No se debe realizar paracentesis evacuadora, tan solo diagnóstica, hasta obtener el diagnóstico etiológico de la hepatopatía del paciente.",
+   "B": "Solo se debe realizar la paracentesis una vez descartada la PBE (peritonitis bacteriana espontánea), por el riesgo de diseminación.",
+   "C": "Hasta obtener un diagnóstico específico de la hepatopatía, no se debe realizar paracentesis evacuadora, ante el riesgo de enfermedad que contraindique la paracentesis.",
+   "D": "Se debe realizar paracentesis diagnóstica por ser un primer episodio de ascitis, y además evacuadora si la situación clínica del paciente así lo precisa."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Ante un primer episodio de ascitis está siempre indicada la paracentesis diagnóstica para analizar el líquido ascítico, descartar PBE y orientar la etiología. Además, si hay ascitis a tensión con compromiso hemodinámico o respiratorio, está indicada la paracentesis evacuadora independientemente de que el diagnóstico etiológico definitivo no esté establecido. La espera innecesaria podría agravar la situación clínica del paciente.",
+   "incorrectas": {
+    "A": "Esperar al diagnóstico etiológico para realizar la paracentesis evacuadora no está justificado cuando hay ascitis a tensión con deterioro clínico; el análisis del líquido obtenido en la paracentesis ya aporta información diagnóstica etiológica.",
+    "B": "La paracentesis diagnóstica es precisamente la herramienta para descartar PBE, no una contraindicación hasta haberla excluido por otro método; la PBE no contraindica la paracentesis, al contrario, es su indicación más urgente.",
+    "C": "No existe razón para diferir la paracentesis evacuadora ante ascitis a tensión sin un diagnóstico previo; la hepatopatía crónica alcohólica es la etiología más probable en este contexto clínico y raramente existen contraindicaciones absolutas a la paracentesis."
+   }
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "De los siguientes, ¿cuál es un criterio electrocardiográfico mayor de alto riesgo en un paciente con síncope?",
+  "opciones": {
+   "A": "Patrones atípicos de Brugada.",
+   "B": "Bradicardia sinusal asintomática.",
+   "C": "Bloqueo AV de segundo grado Mobitz II o de tercer grado.",
+   "D": "Ondas épsilon sugestivas de miocardiopatía arritmogénica ventricular derecha."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Síncope. Concepto, etiología, valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "El bloqueo AV de segundo grado Mobitz II y el bloqueo AV de tercer grado (bloqueo completo) son criterios electrocardiográficos mayores de alto riesgo en el síncope según las guías ESC. Estos bloqueos pueden provocar asistolia o bradicardia severa que expliquen el síncope y conllevan riesgo de muerte súbita, por lo que requieren ingreso hospitalario urgente e implante de marcapasos.",
+   "incorrectas": {
+    "A": "Los patrones ATÍPICOS de Brugada son criterios menores o de riesgo indeterminado; son los patrones TÍPICOS (tipo 1) de Brugada los que constituyen criterios mayores de alto riesgo en el síncope.",
+    "B": "La bradicardia sinusal asintomática es un hallazgo frecuente en personas sanas (especialmente deportistas) y no se considera un criterio de alto riesgo en el síncope; su relevancia clínica es baja sin otros hallazgos asociados.",
+    "D": "Las ondas épsilon sugestivas de miocardiopatía arritmogénica ventricular derecha son criterios de riesgo, pero se consideran criterios menores o hallazgos que precisan confirmación diagnóstica adicional, no criterios electrocardiográficos mayores de alto riesgo inmediato."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de las siguientes pruebas de imagen NO está indicada para el estudio de un posible cuerpo extraño a nivel esofágico?",
+  "opciones": {
+   "A": "Radiografía anteroposterior y lateral de cuello con técnica de partes blandas.",
+   "B": "Radiografía posteroanterior y lateral de tórax.",
+   "C": "Tomografía computarizada.",
+   "D": "Estudio radiológico con bario."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "El estudio radiológico con bario está contraindicado en la sospecha de cuerpo extraño esofágico porque el contraste baritado puede impregnar el cuerpo extraño y dificultar la visión endoscópica posterior, además de aumentar el riesgo de broncoaspiración si existe perforación. Tampoco añade información diagnóstica relevante respecto a las otras pruebas disponibles y puede interferir con la endoscopia terapéutica.",
+   "incorrectas": {
+    "A": "La radiografía de cuello en proyecciones AP y lateral con técnica de partes blandas permite identificar cuerpos extraños radiopacos y signos indirectos como enfisema subcutáneo o ensanchamiento de tejidos preesofágicos; está indicada como primera prueba.",
+    "B": "La radiografía de tórax PA y lateral permite detectar cuerpos extraños en el esófago torácico, identificar complicaciones como neumotórax, derrame pleural o mediastinitis; está indicada en el estudio inicial.",
+    "C": "La TC es la prueba con mayor sensibilidad para detectar cuerpos extraños no radiopacos, valorar la posición exacta y detectar complicaciones como perforación o colecciones; está indicada cuando las radiografías simples son negativas o ante sospecha de complicaciones."
+   }
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el diagnóstico radiológico de la obstrucción intestinal, ¿cuál de las siguientes asociaciones NO es correcta?",
+  "opciones": {
+   "A": "Asas distendidas de localización periférica, con evidencia de haustras, sugiere obstrucción de intestino grueso.",
+   "B": "El signo del asa centinela sugiere la presencia de un vólvulo.",
+   "C": "La presencia de aerobilia, con o sin cálculo, generalmente de localización en la válvula ileocecal, junto a niveles hidroaéreos de localización central, sugieren íleo biliar.",
+   "D": "Asas distendidas de localización central, con válvulas o pliegues de Kerckring y ausencia de gas en colon y recto, sugieren obstrucción de intestino delgado."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 64,
+   "tema": "Oclusión/suboclusión intestinal. Apendicitis aguda."
+  },
+  "explicacion": {
+   "correcta": "El signo del asa centinela (asa intestinal aislada y distendida adyacente a un órgano inflamado) es un signo radiológico inespecífico que indica inflamación peritoneal localizada; se asocia clásicamente a pancreatitis aguda, apendicitis o colecistitis, NO a vólvulo. El vólvulo de sigma produce el característico signo del 'grano de café' o 'omega', y el vólvulo de ciego otros patrones distintos.",
+   "incorrectas": {
+    "A": "Esta asociación es correcta: el colon distendido presenta haustras (pliegues incompletos que no cruzan toda la luz) y ocupa la periferia del abdomen, lo que es característico de la obstrucción de intestino grueso.",
+    "C": "Esta asociación es correcta: la tríada de aerobilia + cálculo ectópico + niveles hidroaéreos de intestino delgado (tríada de Rigler) es el hallazgo clásico del íleo biliar, donde un cálculo biliar grande fistuliza hacia el intestino y lo obstruye habitualmente en la válvula ileocecal.",
+    "D": "Esta asociación es correcta: las asas de intestino delgado distendidas se localizan centralmente, muestran los pliegues de Kerckring (válvulas conniventes que cruzan toda la luz) y en la obstrucción completa no hay gas distal en colon ni recto."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Con respecto a los criterios de gravedad de pancreatitis aguda, según BISAP (Beside Index of Severity in Acute Pancreatitis), ¿cuál de los siguientes es FALSO?",
+  "opciones": {
+   "A": "Edad mayor de 50 años.",
+   "B": "Disminución del estado de conciencia.",
+   "C": "Presencia de derrame pleural en la radiografía de tórax.",
+   "D": "Síndrome de respuesta inflamatoria sistémica definido por la presencia de dos o más de los siguientes criterios: FC > 90 lpm; temperatura > 38ºC o < 36ºC; FR > 20 rpm o PaCO2 inferior a 32 mmHg; leucocitos > 12.000 o inferior a 4.000, o más de un 10% de cayados."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda."
+  },
+  "explicacion": {
+   "correcta": "El criterio de edad en la escala BISAP es edad mayor de 60 años, no mayor de 50 años como indica la opción A. Los cinco criterios del BISAP son: BUN > 25 mg/dL, alteración del estado de conciencia (confusión), SRIS, edad > 60 años y derrame pleural. La opción A es por tanto falsa al indicar el umbral erróneo de 50 años.",
+   "incorrectas": {
+    "B": "La disminución del estado de conciencia (Impaired mental status, la I del acrónimo BISAP) es efectivamente uno de los cinco criterios de la escala; esta afirmación es correcta.",
+    "C": "La presencia de derrame pleural en la radiografía de tórax (Pleural effusion, la P del acrónimo BISAP) es uno de los cinco criterios de la escala; esta afirmación es correcta.",
+    "D": "El SRIS definido por la presencia de dos o más de los criterios enumerados (taquicardia, alteración térmica, taquipnea/hipocapnia, alteración leucocitaria) corresponde exactamente a la S del acrónimo BISAP; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el taponamiento cardiaco ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "El diagnóstico siempre se debe realizar a través de pruebas de imagen, como la Resonancia Nuclear Magnética o la Tomografía Axial Computarizada.",
+   "B": "Ante la sospecha de taponamiento, se debe hacer un ecocardiograma para evaluar el tamaño, la localización y el impacto hemodinámico.",
+   "C": "La pericardiocentesis guiada por ecocardiograma es la técnica de elección habitual para el drenaje.",
+   "D": "El abordaje quirúrgico se reserva para cuatro situaciones: disección aórtica tipo A, rotura de pared libre tras infarto de miocardio, traumatismo torácico grave y reciente, y hemopericardio iatrogénico cuando el sangrado no se pueda controlar por acceso percutáneo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: HTA urgente/emergente, síndrome aórtico agudo, pericarditis, taponamiento cardiaco, isquemia arterial aguda."
+  },
+  "explicacion": {
+   "correcta": "La afirmación A es falsa porque el diagnóstico de taponamiento cardiaco es fundamentalmente clínico (tríada de Beck: hipotensión, ingurgitación yugular, ruidos cardiacos apagados) y ecocardiográfico. La RMN y la TAC no son las pruebas de elección; la ecocardiografía es la prueba de imagen de referencia por su rapidez, disponibilidad a pie de cama y capacidad para guiar la pericardiocentesis. Afirmar que el diagnóstico SIEMPRE debe realizarse por RMN o TAC es incorrecto.",
+   "incorrectas": {
+    "B": "Es correcto que ante sospecha de taponamiento se deba realizar ecocardiograma para evaluar el tamaño del derrame, su localización y el impacto hemodinámico (colapso de cavidades derechas, variación respiratoria de flujos); es la prueba de imagen de elección.",
+    "C": "La pericardiocentesis guiada por ecocardiograma es efectivamente la técnica de elección para el drenaje del taponamiento cardiaco, por su seguridad y precisión en la punción; esta afirmación es correcta.",
+    "D": "Las cuatro indicaciones de abordaje quirúrgico mencionadas (disección aórtica tipo A, rotura de pared libre post-IAM, traumatismo torácico reciente, hemopericardio iatrogénico incontrolable) son las reconocidas en las guías europeas; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Dentro de los síntomas clásicos del derrame pericárdico se encuentran todos los siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Fiebre.",
+   "B": "Disnea de esfuerzo.",
+   "C": "Ortopnea.",
+   "D": "Dolor torácico."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: HTA urgente/emergente, síndrome aórtico agudo, pericarditis, taponamiento cardiaco, isquemia arterial aguda."
+  },
+  "explicacion": {
+   "correcta": "La fiebre no es un síntoma clásico del derrame pericárdico per se; el derrame pericárdico puede aparecer en múltiples contextos etiológicos y sus síntomas son fundamentalmente mecánicos o compresivos. La fiebre es un síntoma de la pericarditis inflamatoria/infecciosa subyacente, pero no del derrame pericárdico como entidad clínica. Los síntomas clásicos del derrame son disnea de esfuerzo, ortopnea y dolor torácico por compresión de estructuras adyacentes.",
+   "incorrectas": {
+    "B": "La disnea de esfuerzo es un síntoma clásico del derrame pericárdico, producida por la compresión del parénquima pulmonar adyacente y la reducción del gasto cardiaco cuando el derrame es significativo; sí está presente habitualmente.",
+    "C": "La ortopnea es un síntoma frecuente en el derrame pericárdico moderado-grande, ya que en decúbito el derrame se redistribuye y aumenta la compresión cardiaca; sí es un síntoma clásico.",
+    "D": "El dolor torácico, generalmente de características pleuríticas (aumenta con la inspiración y en decúbito supino, mejora sentado hacia delante), es un síntoma clásico asociado al derrame pericárdico, especialmente cuando hay pericarditis concomitante; sí está presente."
+   }
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En un paciente con clínica de dolor torácico asociado a roce pericárdico, elevación del segmento ST y derrame pericárdico, junto con elevación de marcadores de daño miocárdico, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "Se recomienda la Resonancia Magnética cardiaca para confirmar afección miocárdica.",
+   "B": "Se recomienda hospitalización para el diagnóstico y la monitorización de los pacientes con afección miocárdica.",
+   "C": "La afección miocárdica en la pericarditis tiene mal pronóstico, y evoluciona hacia insuficiencia cardiaca o muerte.",
+   "D": "Los corticoides se prescriben como segunda opción en casos de contraindicación, intolerancia o fracaso del AAS o los AINE."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: HTA urgente/emergente, síndrome aórtico agudo, pericarditis, taponamiento cardiaco, isquemia arterial aguda."
+  },
+  "explicacion": {
+   "correcta": "La afección miocárdica en la miopericarditis generalmente tiene BUEN pronóstico con tratamiento adecuado en la mayoría de los casos, especialmente cuando está asociada a infección viral. La evolución hacia insuficiencia cardiaca grave o muerte es infrecuente. Afirmar que tiene mal pronóstico y que evoluciona habitualmente hacia insuficiencia cardiaca o muerte es una afirmación falsa que no se corresponde con la evidencia clínica actual.",
+   "incorrectas": {
+    "A": "La RMN cardiaca está efectivamente recomendada para confirmar la afección miocárdica en la pericarditis (miopericarditis), ya que permite detectar edema e inflamación miocárdica con alta sensibilidad y especificidad; esta afirmación es correcta.",
+    "B": "La hospitalización para monitorización electrocardiográfica, control de marcadores y estabilización del paciente con miopericarditis está efectivamente recomendada en las guías; esta afirmación es correcta.",
+    "D": "Los corticoides son la segunda línea de tratamiento en la pericarditis, indicados cuando hay contraindicación, intolerancia o fracaso del AAS y los AINE (primera línea), o en la pericarditis de causa autoinmune; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En paciente con diagnóstico de hepatopatía crónica asociada a hipertensión portal, que acude a Urgencias por presentar cambios de la personalidad o disminución de la memoria, desorientación temporoespacial, bradipsiquia y asterixis, ¿cuál es el grado de encefalopatía en el que podemos clasificar al paciente?",
+  "opciones": {
+   "A": "Encefalopatía grado I.",
+   "B": "Encefalopatía grado II.",
+   "C": "Encefalopatía grado III.",
+   "D": "Encefalopatía grado IV."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Según la clasificación de West Haven, el grado II de encefalopatía hepática se caracteriza por letargia, desorientación temporoespacial, cambios de conducta o personalidad, alteraciones cognitivas moderadas (bradipsiquia, dificultad de concentración) y asterixis. Este cuadro corresponde exactamente a la sintomatología descrita: cambios de personalidad, pérdida de memoria, desorientación y asterixis, con el paciente aún consciente y orientable.",
+   "incorrectas": {
+    "A": "El grado I incluye síntomas leves como euforia o ansiedad leve, dificultad de concentración sutil y alteraciones del ritmo sueño-vigilia, sin desorientación franca ni asterixis marcada; es menos severo que el cuadro descrito.",
+    "C": "El grado III se caracteriza por somnolencia o estupor importantes, confusión marcada, comportamiento extraño y respuesta a estímulos verbales conservada pero muy reducida; el paciente descrito presenta desorientación pero no estupor, por lo que no alcanza este grado.",
+    "D": "El grado IV corresponde al coma hepático, con ausencia de respuesta a estímulos o respuesta solo a estímulos dolorosos; el paciente descrito está consciente y presenta asterixis, por lo que no corresponde a grado IV."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el paciente con cirrosis hepática, señale la respuesta verdadera:",
+  "opciones": {
+   "A": "Los diuréticos recomendados incluyen Espironolactona, de 50 a 200 mg/día, y Amilorida, de 5 a 10 mg/día.",
+   "B": "La Lactulosa es la base del tratamiento para la encefalopatía hepática, y se administra por vía oral o bien, por sonda nasogástrica.",
+   "C": "El Acetaminofeno se puede usar para aliviar el dolor a corto plazo, a una dosis reducida de 2 g en total por día.",
+   "D": "Todas las anteriores son verdaderas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Las tres afirmaciones son correctas: la espironolactona (50-200 mg/día) y la amilorida (5-10 mg/día) son diuréticos ahorradores de potasio recomendados en la ascitis cirrótica; la lactulosa es el tratamiento base de la encefalopatía hepática, administrable por vía oral o sonda nasogástrica para acidificar el colon y reducir la absorción de amoniaco; y el paracetamol (acetaminofeno) a dosis reducidas (máximo 2 g/día) puede usarse para analgesia a corto plazo en cirróticos, siendo preferible a los AINEs que deterioran la función renal.",
+   "incorrectas": {
+    "A": "Esta afirmación es individualmente correcta: espironolactona 50-200 mg/día y amilorida 5-10 mg/día son las dosis recomendadas de diuréticos ahorradores de potasio en la cirrosis; por sí sola no sería la respuesta completa.",
+    "B": "Esta afirmación es individualmente correcta: la lactulosa es el pilar del tratamiento de la encefalopatía hepática, administrada por vía oral o SNG a dosis tituladas para conseguir 2-3 deposiciones blandas al día; por sí sola tampoco sería la respuesta completa.",
+    "C": "Esta afirmación es individualmente correcta: el paracetamol a dosis máxima de 2 g/día es el analgésico de elección en el cirrótico para uso a corto plazo, evitando AINEs y opioides siempre que sea posible; por sí sola tampoco sería la respuesta completa."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el tratamiento de la diarrea aguda en el niño, solo una de las medidas propuestas es correcta:",
+  "opciones": {
+   "A": "Hay que recomendar una dieta astringente pobre en fibra hasta su resolución.",
+   "B": "Se recomienda la retirada de la lactancia materna en los lactantes.",
+   "C": "Se debe recomendar rehidratación oral durante 4-6 horas, y realimentación posterior con dieta normal evitando los períodos prolongados de ayuno.",
+   "D": "Se recomienda reducir de entrada el aporte de lactosa los primeros días de la diarrea."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Síndrome diarreico agudo."
+  },
+  "explicacion": {
+   "correcta": "El manejo actual de la diarrea aguda en el niño se basa en la rehidratación oral con soluciones de rehidratación oral (SRO) durante 4-6 horas seguida de realimentación precoz con dieta normal adaptada a la edad, evitando el ayuno prolongado. Esta estrategia reduce la duración y severidad del cuadro, mantiene la nutrición y favorece la recuperación de la mucosa intestinal, según las guías ESPGHAN.",
+   "incorrectas": {
+    "A": "La dieta astringente pobre en fibra está obsoleta y no está recomendada en las guías actuales pediátricas; la realimentación precoz con dieta normal es superior y acelera la recuperación sin prolongar la diarrea.",
+    "B": "La lactancia materna debe MANTENERSE sin interrupción durante la diarrea aguda en lactantes; aportla factores inmunológicos protectores y no debe suspenderse bajo ningún concepto durante los episodios diarreicos.",
+    "D": "La restricción sistemática de lactosa no está indicada en la diarrea aguda del niño previamente sano, salvo en casos de diarrea severa prolongada con sospecha de intolerancia secundaria; la retirada rutinaria no está justificada por las guías actuales."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Con respecto a la definición de síncope, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El síncope es consecuencia de una caída de la presión arterial sistémica con reducción general del flujo sanguíneo cerebral.",
+   "B": "Se caracteriza por amnesia durante el periodo de inconsciencia, control motor anómalo, falta de respuesta y duración corta.",
+   "C": "El síncope se origina como consecuencia de una actividad cerebral excesivamente anormal.",
+   "D": "La recuperación del síncope se produce de forma espontánea."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Síncope. Concepto, etiología, valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es falsa porque el síncope NO se origina por actividad cerebral excesivamente anormal (eso caracteriza las crisis epilépticas), sino exactamente lo contrario: se produce por hipoperfusión cerebral transitoria que provoca una reducción o cese momentáneo de la actividad cerebral normal. La diferencia conceptual con la epilepsia es fundamental: en el síncope hay hipofunción cerebral por isquemia, mientras que en la epilepsia hay hiperfunción neuronal anormal.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: el síncope resulta de una caída de la presión arterial sistémica que reduce globalmente el flujo sanguíneo cerebral por debajo del umbral necesario para mantener la conciencia; es el mecanismo fisiopatológico central.",
+    "B": "Esta afirmación es correcta: el síncope se caracteriza por pérdida transitoria de conciencia con amnesia del episodio, pérdida del tono postural, duración breve y recuperación espontánea; son los criterios diagnósticos definitorios.",
+    "D": "Esta afirmación es correcta: la recuperación espontánea es una característica definitoria del síncope; si no hay recuperación espontánea se trataría de otra entidad (parada cardiaca, coma, etc.)."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el tratamiento del edema agudo de pulmón, ¿cuál de los siguientes NO corresponde a uno de los tres pilares básicos?",
+  "opciones": {
+   "A": "El oxígeno, administrado como presión positiva continua en las vías respiratorias, ventilación con presión positiva no invasiva y/o cánula nasal de alto flujo.",
+   "B": "La Dopamina, como tratamiento vasopresor de primera línea en caso de edema agudo de pulmón con gasto cardíaco bajo.",
+   "C": "El tratamiento con diuréticos intravenosos (iv).",
+   "D": "El tratamiento con vasodilatadores iv si la presión arterial sistólica es alta."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón."
+  },
+  "explicacion": {
+   "correcta": "Los tres pilares del tratamiento del edema agudo de pulmón son: soporte respiratorio con oxígeno/VMNI/CNAF, diuréticos intravenosos y vasodilatadores intravenosos (si la PA sistólica lo permite). La dopamina NO es uno de los tres pilares básicos; es un fármaco vasopresor/inotrópico que se reserva para situaciones de bajo gasto con hipotensión refractaria, no como tratamiento de primera línea del edema agudo de pulmón convencional.",
+   "incorrectas": {
+    "A": "El soporte respiratorio con oxígeno administrado mediante CPAP, VMNI o cánula nasal de alto flujo es el primer pilar del tratamiento del edema agudo de pulmón, ya que corrige la hipoxemia y reduce el trabajo respiratorio; sí es uno de los pilares básicos.",
+    "C": "Los diuréticos intravenosos (furosemida iv) constituyen el segundo pilar del tratamiento, promoviendo la diuresis y reduciendo la congestión pulmonar; sí son uno de los pilares básicos.",
+    "D": "Los vasodilatadores intravenosos (nitratos, nitroprusiato) son el tercer pilar cuando la PA sistólica es elevada (> 90-110 mmHg), ya que reducen la pre y postcarga cardiacas mejorando el gasto cardiaco y la congestión pulmonar; sí son uno de los pilares básicos."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el diagnóstico diferencial del dolor abdominal en niños, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opciones": {
+   "A": "La torsión testicular/ovárica es la patología quirúrgica más frecuente en edad escolar.",
+   "B": "En las niñas en edad puberal, se debe incluir siempre un test de embarazo.",
+   "C": "En la invaginación intestinal nunca se objetivan productos patológicos (sangre o moco) en las heces.",
+   "D": "La TAC abdominal es la prueba de imagen a realizar de forma rutinaria en todo proceso abdominal del niño."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, asma, neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "En cualquier niña en edad puberal que consulte por dolor abdominal agudo debe realizarse sistemáticamente un test de embarazo, ya que el embarazo ectópico es una causa potencialmente fatal que puede presentarse con dolor abdominal y que puede pasar desapercibida sin esta prueba. Esta recomendación figura en todas las guías de manejo del dolor abdominal pediátrico en urgencias.",
+   "incorrectas": {
+    "A": "La patología quirúrgica más frecuente en edad escolar que produce dolor abdominal es la apendicitis aguda, no la torsión testicular/ovárica; esta última es importante pero menos frecuente como causa global.",
+    "C": "En la invaginación intestinal, la presencia de heces en 'jalea de grosella' (sangre mezclada con moco) es un signo clásico tardío que aparece hasta en el 50% de los casos; afirmar que nunca se objetivan productos patológicos es incorrecto.",
+    "D": "La TAC abdominal no es la prueba de primera línea rutinaria en el dolor abdominal del niño debido a la exposición a radiación ionizante; la ecografía abdominal es la prueba de imagen preferida en pediatría, reservando la TC para casos seleccionados con sospecha de complicaciones."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación con las dosificaciones de fármacos en pediatría, ¿cuál de las siguientes respuestas es FALSA?",
+  "opciones": {
+   "A": "Debería utilizarse, siempre que sea posible, la vía de administración menos cruenta.",
+   "B": "Debemos esperar al diagnóstico etiológico antes de iniciar el tratamiento analgésico.",
+   "C": "Se debe reevaluar el efecto y cambio en la intensidad del dolor tras 30-60 minutos de administrar el analgésico.",
+   "D": "Si en la reevaluación del dolor no se objetiva mejoría, valorar cambiar la pauta escogida."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico."
+  },
+  "explicacion": {
+   "correcta": "Esperar al diagnóstico etiológico antes de iniciar el tratamiento analgésico es una afirmación falsa y contraria a las guías actuales de manejo del dolor en pediatría. El tratamiento analgésico debe iniciarse precozmente en urgencias para aliviar el sufrimiento del paciente; la analgesia precoz no enmascara el diagnóstico y mejora la valoración clínica al permitir una exploración más cooperativa y fiable.",
+   "incorrectas": {
+    "A": "Utilizar la vía de administración menos cruenta (oral, intranasal, tópica) siempre que sea posible es una recomendación correcta en pediatría para minimizar el dolor y la ansiedad asociados al procedimiento; esta afirmación es verdadera.",
+    "C": "La reevaluación a los 30-60 minutos tras la administración del analgésico es una práctica correcta y recomendada para evaluar la eficacia del tratamiento y ajustarlo si es necesario; esta afirmación es verdadera.",
+    "D": "Si en la reevaluación no se objetiva mejoría suficiente del dolor, está indicado revisar y modificar la pauta analgésica (escalar en la escalera analgésica, cambiar de fármaco o añadir un segundo analgésico); esta afirmación es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Entre los aspectos más destacados en soporte vital avanzado, según las Guías Clínicas del ERC 2021, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+  "opciones": {
+   "A": "La prioridad son las compresiones torácicas de alta calidad con las mínimas interrupciones, la desfibrilación precoz, y el tratamiento de las causas reversibles.",
+   "B": "Los pacientes con parada cardiaca, tanto intrahospitalaria como extrahospitalaria, no presentan signos premonitorios.",
+   "C": "Administrar adrenalina de forma precoz para la parada cardiaca no desfibrilable.",
+   "D": "Utilice técnicas de vía aérea básica o avanzada. Solo los reanimadores con una elevada tasa de éxito deben intentar la intubación traqueal."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado adulto y niño. DEA."
+  },
+  "explicacion": {
+   "correcta": "La afirmación B es incorrecta según las guías ERC 2021, que reconocen que MUCHOS pacientes con parada cardiaca SÍ presentan signos premonitorios en las horas previas (especialmente en la parada intrahospitalaria). Precisamente por ello, las guías ERC 2021 hacen especial hincapié en la detección precoz del deterioro clínico y en los sistemas de respuesta rápida para prevenir la parada cardiaca intrahospitalaria.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta según el ERC 2021: las compresiones torácicas de calidad con mínimas interrupciones, la desfibrilación precoz y el tratamiento de las causas reversibles (las 4H y 4T) son los pilares fundamentales del SVA.",
+    "C": "Esta afirmación es correcta: en la parada cardiaca con ritmo no desfibrilable (AESP y asistolia), la administración precoz de adrenalina (1 mg iv) en cuanto se establezca el acceso vascular está recomendada por el ERC 2021.",
+    "D": "Esta afirmación es correcta: las guías ERC 2021 recomiendan que la intubación traqueal sea intentada solo por reanimadores con alta tasa de éxito para evitar interrupciones prolongadas de las compresiones; para los demás, se prefieren técnicas de vía aérea básica."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de estos factores se considera de riesgo para infección por enterobacterias productoras de BLEE (β-lactamasas de espectro extendido)?",
+  "opciones": {
+   "A": "Edad > de 65 años.",
+   "B": "Hipertensión arterial.",
+   "C": "Tratamiento antibiótico en los 12 meses previos.",
+   "D": "Ser personal sanitario."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 81,
+   "tema": "Síndrome febril adulto no inmunodeprimido. Resistencia bacteriana."
+  },
+  "explicacion": {
+   "correcta": "La edad avanzada (> 65 años) es un factor de riesgo reconocido para infección por enterobacterias productoras de BLEE, junto con otros como hospitalización previa, residencia en centro sociosanitario, uso reciente de antibióticos (especialmente cefalosporinas o fluoroquinolonas), instrumentación urológica, diabetes mellitus o infecciones urinarias de repetición. Los pacientes mayores tienen mayor exposición a entornos sanitarios y tratamientos antibióticos previos que seleccionan cepas resistentes.",
+   "incorrectas": {
+    "B": "La hipertensión arterial por sí sola no es un factor de riesgo reconocido para infección por enterobacterias BLEE; no implica exposición a antibióticos ni a entornos con alta presión selectiva de resistencias.",
+    "C": "El tratamiento antibiótico en los 3-6 meses previos (no en los 12 meses) es el intervalo habitualmente reconocido como factor de riesgo en la mayoría de las guías; un periodo de 12 meses es demasiado amplio como umbral estándar, aunque algunos estudios lo incluyen. Esta opción es menos específica y precisa que la opción A como factor de riesgo primario.",
+    "D": "Ser personal sanitario no es un factor de riesgo establecido per se para infección por BLEE; puede existir colonización por contacto con pacientes portadores, pero no es el factor de riesgo para infección activa que contemplan los criterios clínicos habituales."
+   }
+  }
+ }
+]

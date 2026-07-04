@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a síndrome febril en los pacientes usuarios de drogas por vía parenteral señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El tratamiento de elección en un paciente con endocarditis y usuario de drogas por vía parenteral es cloxacilina y ceftriaxona.",
+   "B": "La candida es el germen más frecuentemente involucrado en los pacientes consumidores de heroína por vía parenteral.",
+   "C": "La leishmania presenta una vía de entrada por el intercambio de útiles de inyección.",
+   "D": "Dentro de las causas frecuentes de síndrome febril en los usuarios de drogas vía parenteral y además infección conocida por VIH se encuentra la tuberculosis."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En un/a paciente en coma, que presenta midriasis arreactiva unilateral, sugiere:",
+  "opciones": {
+   "A": "Lesión bulbar.",
+   "B": "Lesión en el mesencéfalo.",
+   "C": "Herniación del uncus del temporal.",
+   "D": "Lesión del VI par craneal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, en su artículo 22 establece 3 excepciones a la voluntariedad de los reconocimientos médicos para los trabajadores. Indique cuál NO es una de ellas:",
+  "opciones": {
+   "A": "Para evaluar las incidencias advertidas por el responsable del servicio, en el ejercicio de sus facultades de supervisión y ordenación de los recursos humanos.",
+   "B": "Para verificar si el estado de salud del trabajador puede constituir un peligro para él mismo, para los demás trabajadores o para otras personas relacionadas con la empresa.",
+   "C": "Cuando así esté establecido en una disposición legal en relación con la protección de riesgos específicos y actividades de especial peligrosidad.",
+   "D": "Para evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Ante un paciente con agitación psicomotriz, curso fluctuante y fiebre, ¿cuál de las siguientes actuaciones le parece correcta en los Servicios de Urgencias?:",
+  "opciones": {
+   "A": "Diagnosticarla de origen psiquiátrico.",
+   "B": "Sospechar de una causa orgánica del mismo.",
+   "C": "Realizar un TAC craneal.",
+   "D": "B y C son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Entre las manifestaciones clínicas de una quemadura eléctrica (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Quemadura cutánea.",
+   "B": "Fibrilación ventricular.",
+   "C": "Luxaciones articulares.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De las siguientes afirmaciones sobre la hemorragia subaracnoidea espontánea (HSA), señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "La ausencia de signos meníngeos descarta la HSA.",
+   "B": "El líquido cefalorraquídeo (LCR), macroscópicamente, puede ser hemorrágico o no.",
+   "C": "El TC craneal urgente realizado en las primeras 24h de evolución, diagnostica hasta el 80% de los casos.",
+   "D": "La determinación del Dímero D en LCR no es útil en la rutina diagnóstica de la HSA."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la opción FALSA con respecto a las arritmias que pueden aparecer en la fase aguda del infarto:",
+  "opciones": {
+   "A": "El RIVA suele indicar reperfusión y no precisa tratamiento específico.",
+   "B": "La aparición de un bloqueo AV que responda favorablemente a atropina hace pensar en origen suprahisiano.",
+   "C": "La fibrilación ventricular es la causa más frecuente de muerte en el IAM antes de llegar al hospital.",
+   "D": "La aparición de una fibrilación ventricular en las primeras 12 horas de un infarto es indicación de desfibrilador automático implantable."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la respuesta falsa en relación con el diazepam:",
+  "opciones": {
+   "A": "La absorción por vía intramuscular es errática.",
+   "B": "Su inicio de acción es a largo plazo superados los 60 minutos desde su toma.",
+   "C": "La vida media también es larga de 20-50 h.",
+   "D": "La dosis diaria oscila entre 4-40 mg/24h."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Intoxicación etílica aguda (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Puede producir coma y muerte en casos de más de 5 g/l de alcohol en sangre.",
+   "B": "Debemos controlar las cifras de glucemia.",
+   "C": "En la intoxicación grave administraremos tiamina (Vit B1).",
+   "D": "La cetoacidosis alcohólica es típica de las intoxicaciones agudas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Ante una paciente joven en urgencias sin antecedentes de interés que presenta cuadro de ansiedad, ¿cuál sería el tratamiento de primera elección?:",
+  "opciones": {
+   "A": "Diazepam por vía oral.",
+   "B": "Alprazolam por vía intravenosa.",
+   "C": "Diazepam por vía intramuscular.",
+   "D": "Escitalopram por vía oral."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En un varón de 76 años, con larga historia de hipertensión arterial bien controlada con diuréticos, que desarrolla bruscamente hipertensión severa de difícil control, ¿qué situación clínica debe sospecharse?:",
+  "opciones": {
+   "A": "Hiperaldosteronismo primario.",
+   "B": "Pielonefritis.",
+   "C": "Hipertensión renovascular.",
+   "D": "Consumo de AINEs."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En los pacientes afectos de un shock acetaldehídico (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Debe utilizarse fomepizol como antídoto.",
+   "B": "Suele producirse en pacientes en tratamiento con fármacos interdictores como el disulfiram.",
+   "C": "En su tratamiento se utilizan antihistamínicos y corticoides.",
+   "D": "Se trata de una reacción similar a la anafiláctica secundaria a una hipersensibilidad al alcohol."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a las crisis de ausencia típicas, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Suelen iniciarse en la infancia entre los 4 y 8 años.",
+   "B": "Pertenecen al grupo de epilepsias generalizadas genéticas.",
+   "C": "Consisten en episodios breves de disminución o abolición del estado de conciencia.",
+   "D": "A diferencia de las atípicas, suelen tener pérdida del tono postural."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Son características del dolor irruptivo todas las siguientes afirmaciones, EXCEPTO:",
+  "opciones": {
+   "A": "Exacerbación transitoria del dolor bien controlado en las últimas 48 horas.",
+   "B": "Es el que aparece al final del efecto de la dosis en el tratamiento del dolor crónico.",
+   "C": "Puede ser incidental o idiopático.",
+   "D": "Es de inicio rápido y duración variable."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la exploración física de un/a paciente con hemorragia subaracnoidea espontánea (HSA), señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Una parálisis del III par aislada puede indicar rotura de una aneurisma en la comunicante posterior.",
+   "B": "La ausencia de rigidez de nuca descarta la HSA.",
+   "C": "La elevación de la temperatura corporal mejora el pronóstico.",
+   "D": "Lo más frecuente es que aparezca déficit neurológico desde el inicio del cuadro."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La hidroxicobalamina (vitamina B12) es el tratamiento de elección en la intoxicación por (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Antidepresivos tricíclicos.",
+   "C": "Paracetamol.",
+   "D": "Cianuro."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De las situaciones que se describen a continuación, ¿cuál NO precisa medicación parenteral para reducir inmediatamente la tensión arterial?:",
+  "opciones": {
+   "A": "Eclampsia.",
+   "B": "Disección aórtica, con TA de 220/135.",
+   "C": "Fracaso renal agudo con oligoanuria en el contexto de crisis hipertensiva.",
+   "D": "Accidente cerebrovascular arterial agudo con disfasia y hemiparesia, sin progresión en las últimas 8 horas y con TA de 200/110."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Sólo una de las siguientes afirmaciones es CIERTA respecto al uso de betabloqueantes en la insuficiencia cardiaca:",
+  "opciones": {
+   "A": "No deben emplearse en pacientes con bloqueo auriculoventricular avanzado.",
+   "B": "Deben ser la primera línea de tratamiento, antes de IECAs o diuréticos.",
+   "C": "Están contraindicados en pacientes con insuficiencia cardiaca crónica estable en grado funcional III.",
+   "D": "Son de especial utilidad en pacientes con edema pulmonar importante."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a la hemorragia subaracnoidea espontánea, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Puede haber síntomas premonitorios los días previos.",
+   "B": "Puede asociarse a pérdida de conciencia transitoria.",
+   "C": "Como factores de riesgo importantes son la hipertensión arterial, anticonceptivos hormonales y el tabaquismo.",
+   "D": "El signo más frecuente es la parálisis del VI par craneal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de los siguientes microorganismos es MÁS FRECUENTEMENTE causa de miocarditis?:",
+  "opciones": {
+   "A": "Citomegalovirus.",
+   "B": "Virus Coxsackie.",
+   "C": "Estafilococo dorado.",
+   "D": "Estreptococo viridans."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de los siguientes enunciado respecto al síndrome febril en la infancia considera CIERTO?:",
+  "opciones": {
+   "A": "La afectación del estado general, la presencia de leucocitos en orina y una procalcitonia de < 0.5 NH/dl se asocia a mayor riesgo de infección bacteriana invasora en mayores de 3 semanas.",
+   "B": "Una tira reactiva de orina negativa y un sedimento urinario normal no excluyen una ITU, sobre todo en menores de 6 meses.",
+   "C": "Está indicado alternar antitérmicos, ya que sus efectos beneficiosos se potencian.",
+   "D": "La fiebre es el motivo de consulta más frecuente en pediatría en menores de tres años y consultan por un proceso de larga evolución y su causa principal son infecciones bacterianas que precisan tratamiento."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Es un síntoma de la intoxicación digitálica (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Náuseas.",
+   "B": "Diarrea.",
+   "C": "Bradicardia.",
+   "D": "Todos ellos pueden ser síntomas de la intoxicación digitálica."
+  },
+  "respuesta_correcta": "D"
+ }
+]

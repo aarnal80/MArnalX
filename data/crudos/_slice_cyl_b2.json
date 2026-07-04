@@ -1,0 +1,244 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿En cuál de las siguientes circunstancias está indicada la antibioterapia en la obstrucción intestinal?",
+  "opciones": {
+   "A": "Íleo paralítico.",
+   "B": "En toda obstrucción intestinal.",
+   "C": "En la obstrucción intestinal en la que se sospeche afectación vascular."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de las siguientes no es causa de obstrucción intestinal mecánica?",
+  "opciones": {
+   "A": "Obstrucción de la luz intestinal por cálculos biliares.",
+   "B": "Isquemia intestinal de origen trombótico.",
+   "C": "Adherencias posquirúrgicas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Indique cuál de los siguientes fármacos está indicado en la litiasis ureteral con fines expulsivos:",
+  "opciones": {
+   "A": "Desketoprofeno trometamol en dosis de 50 mg cada 8 horas.",
+   "B": "Metamizol magnésico en dosis de 2g cada 8 horas.",
+   "C": "Tamsulosina en dosis de 0,4 mg cada 24 horas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale de entre las siguientes exploraciones complementarias en el diagnóstico de una perforación esofágica cuál está contraindicada:",
+  "opciones": {
+   "A": "Radiografía con contraste hidrosoluble (gastrografía).",
+   "B": "Tomografía computarizada.",
+   "C": "Endoscopia digestiva alta."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál no es causa de hiperbilirrubinemia de predominio indirecto?:",
+  "opciones": {
+   "A": "Cirrosis biliar primaria.",
+   "B": "Sepsis.",
+   "C": "Hemólisis."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale la afirmación INCORRECTA en cuanto a las indicaciones de transfusión:",
+  "opciones": {
+   "A": "La necesidad de transfusión no depende del volumen del sangrado, del tiempo de evolución, situación hemodinámica y antecedentes del paciente.",
+   "B": "Hemoglobina igual o inferior a 6 gr/dl siempre requiere transfusión.",
+   "C": "En la Anemia crónica la transfusión generalmente no debe realizarse cuando la concentración de Hb es superior a 10 gr/dl."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación a las Anemias, señale la afirmación CORRECTA:",
+  "opciones": {
+   "A": "Las alteraciones neurológicas como parestesias o ataxia, sugieren déficit de Vitamina B12.",
+   "B": "El sulfato ferroso debe administrarse en la anemia ferropénica junto con inhibidores de la bomba de protones para favorecer la tolerabilidad.",
+   "C": "Las anemias moderadas con buena tolerancia deben ser ingresadas siempre para realizar el estudio etiológico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la Necrolisis epidérmica tóxica:",
+  "opciones": {
+   "A": "Se produce por una reacción adversa a fármacos.",
+   "B": "Las mucosas suelen afectarse.",
+   "C": "Deben utilizarse en su tratamiento los Antibióticos y corticoides por vía tópica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "La triada clásica de la Encefalopatía de Wernicke incluye:",
+  "opciones": {
+   "A": "Nistagmo y oftalmoplejia, incontinencia de esfínteres y ataxia.",
+   "B": "Nistagmo y oftalmoplejia, ceguera central y ataxia.",
+   "C": "Nistagmo y oftalmoplejia, cambio del estado mental y ataxia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el tratamiento de la intoxicación aguda por ingestión de cáusticos, señale la FALSA:",
+  "opciones": {
+   "A": "El lavado gástrico y la administración de carbón activado están contraindicados.",
+   "B": "La terapia dilucional con agua o leche no se recomienda.",
+   "C": "No es necesario realizar Radiografía de tórax y simple de abdomen."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale la respuesta CORRECTA en relación a la Neuritis óptica:",
+  "opciones": {
+   "A": "Es típica la mácula de color rojo cereza.",
+   "B": "Hay que descartar Esclerosis Múltiple y arteritis de la temporal.",
+   "C": "No ocasiona pérdida de visión."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Si ante una exploración ocular encontramos signos como una importante disminución de la agudeza visual, un descenso de la presión intraocular (PIO), una alteración de la forma de la pupila, edema conjuntival y aplanamiento de la cámara anterior, pensaremos en:",
+  "opciones": {
+   "A": "Una abrasión ocular.",
+   "B": "Una perforación del globo ocular.",
+   "C": "Una queratoconjuntivitis actínica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el absceso periamigdalino, señale la CORRECTA:",
+  "opciones": {
+   "A": "Es más frecuente en ancianos.",
+   "B": "Clínicamente presenta escaso dolor de garganta y disfagia.",
+   "C": "Presenta abombamiento unilateral de la amígdala hacia la línea media."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál no es un vértigo periférico?",
+  "opciones": {
+   "A": "Enfermedad de Méniere.",
+   "B": "Esclerosis múltiple.",
+   "C": "Síndrome de Ramsey-Hunt."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación al embarazo ectópico, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Suele cursar con la triada clásica de amenorrea, metrorragia y dolor.",
+   "B": "La ecografía generalmente detecta con nitidez un saco gestacional en el anejo.",
+   "C": "El tratamiento definitivo puede ser quirúrgico o médico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Son datos clínicos indicativos de Síndrome confusional agudo de causa somática, todos EXCEPTO:",
+  "opciones": {
+   "A": "Curso fluctuante.",
+   "B": "Alucinaciones auditivas.",
+   "C": "Alucinaciones visuales y táctiles."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación a la anafilaxia (por picadura de himenóptero), señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El diagnóstico de anafilaxia se basa eminentemente en las pruebas complementarias.",
+   "B": "Todo paciente con anafilaxia (afectación laríngea, crisis de broncoespasmo) debe ingresar en el área de observación de urgencias.",
+   "C": "La adrenalina no es el fármaco de primera elección en el tratamiento de la anafilaxia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale la FALSA respecto a las quemaduras térmicas:",
+  "opciones": {
+   "A": "Para el cálculo de la superficie corporal quemada total el sistema recomendado en la actualidad por su precisión es la planilla de Lund y Browder.",
+   "B": "Si el estado de inmunización de la vacunación antitetánica es desconocido se administrará la vacuna y además inmunoglobulina.",
+   "C": "Si es necesaria la relajación muscular además de la sedoanalgesia, debe utilizarse, como primera elección la succinilcolina."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Respecto al tratamiento inicial del Shock séptico, es cierto:",
+  "opciones": {
+   "A": "La Noradrenalina no es el fármaco vasopresor de elección en el shock séptico.",
+   "B": "Se recomienda la administración precoz de antibiótico intravenoso, dentro de la primera hora tras el diagnóstico.",
+   "C": "Los coloides son de primera elección en la reposición de volumen en el shock séptico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de las siguientes propuestas no se considera criterio de ingreso hospitalario en el Síndrome febril?:",
+  "opciones": {
+   "A": "Paciente pluripatológico con fiebre > 38º.",
+   "B": "Fiebre de más de 21 días, aunque no presente criterios de gravedad.",
+   "C": "Síndrome febril sin foco clínico que presente criterios clínicos o analíticos de gravedad, independientemente del tiempo de evolución."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "De los siguientes, ¿cuál es el germen causal más frecuente en abscesos de cuero cabelludo, tronco y extremidades?",
+  "opciones": {
+   "A": "Staphylococcus aureus.",
+   "B": "Escherichia coli.",
+   "C": "Proteus mirabilis."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante un paciente que ha sufrido un TCE, que abre los ojos de forma espontánea, intenta hablar, pero sin sentido y retira la mano tras un estímulo doloroso tendría una puntuación en la Escala de Glasgow de:",
+  "opciones": {
+   "A": "9.",
+   "B": "11.",
+   "C": "14."
+  },
+  "respuesta_correcta": "B"
+ }
+]

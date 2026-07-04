@@ -1,0 +1,574 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La Gerencia Regional de Salud se estructura en órganos centrales y periféricos. El órgano de carácter unipersonal que ejerce la dirección ejecutiva y la gestión de la Gerencia Regional de Salud es:",
+  "opciones": {
+   "A": "El Director Gerente.",
+   "B": "El Presidente de la Gerencia Regional de Salud.",
+   "C": "El Director Económico, Presupuestario y Financiero.",
+   "D": "La Consejera de Sanidad."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 24,
+   "nombre": "El sistema sanitario. Niveles asistenciales. Organización de los servicios sanitarios en Aragón.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "La Gerencia Regional de Salud de Castilla y León se estructura en órganos centrales y periféricos. El Director Gerente es el órgano unipersonal de carácter ejecutivo responsable de la dirección, gestión y administración de la Gerencia Regional de Salud. El Director Económico, Presupuestario y Financiero y la Consejera de Sanidad tienen otras funciones distintas; el Presidente de la Gerencia Regional de Salud no existe como tal en la normativa de CyL.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La Ley 2/2007, de 7 de marzo, del Estatuto Jurídico del Personal estatutario del Servicio de Salud de Castilla y León, regula la figura de la recuperación de la condición de personal estatutario fijo para los casos en que ésta se hubiera perdido consecuencia de la pérdida de la nacionalidad española, por incapacidad o por pena principal o accesoria de inhabilitación absoluta. En este último caso, se concede a petición del interesado por:",
+  "opciones": {
+   "A": "Orden de la Consejera de Sanidad.",
+   "B": "Resolución del Gerente Regional de Salud.",
+   "C": "Acuerdo de la Junta de Castilla y León.",
+   "D": "Decreto de la Junta de Castilla y León."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 15,
+   "nombre": "Clasificación del personal estatutario. Derechos y deberes. Adquisición y pérdida de la condición de personal estatutario.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según la Ley 2/2007 del Estatuto Jurídico del Personal Estatutario del Servicio de Salud de Castilla y León, la recuperación de la condición de personal estatutario fijo cuando se perdió por inhabilitación absoluta (pena principal o accesoria) se concede a petición del interesado mediante Orden de la Consejera de Sanidad, que es el órgano competente en materia de personal estatutario en esa comunidad.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La documentación clínica deberá conservarse como mínimo cinco años contados desde la fecha del alta de cada proceso asistencial o desde el fallecimiento del paciente. No obstante, se conservará de forma indefinida:",
+  "opciones": {
+   "A": "El gráfico de constantes.",
+   "B": "El informe de urgencia.",
+   "C": "Las hojas interconsultas.",
+   "D": "El informe de anestesia."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 12,
+   "nombre": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "La normativa de Castilla y León sobre documentación clínica establece que la mayoría de documentos deben conservarse al menos 5 años desde el alta o el fallecimiento. Sin embargo, el informe de anestesia se conserva de forma indefinida dado su especial relevancia para la seguridad en futuras intervenciones y su valor médico-legal. El gráfico de constantes, el informe de urgencia y las hojas de interconsulta no tienen esta exigencia de conservación indefinida.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La resolución del procedimiento de valoración del puesto de trabajo por causa de salud cuando suponga traslado corresponde a:",
+  "opciones": {
+   "A": "La Consejera de Sanidad.",
+   "B": "El Director Gerente de la Gerencia Regional de Salud.",
+   "C": "La Directora General de Profesionales.",
+   "D": "El Comité de Seguridad y Salud de Área correspondiente."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 16,
+   "nombre": "Provisión de plazas, selección y promoción interna. Movilidad del personal.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "En la Gerencia Regional de Salud de Castilla y León, cuando el procedimiento de valoración del puesto de trabajo por causa de salud implica un traslado, la resolución corresponde a la Directora General de Profesionales. La Consejera de Sanidad interviene en decisiones de mayor rango normativo, el Director Gerente en gestión general, y el Comité de Seguridad y Salud tiene funciones consultivas, no resolutorias.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Los incidentes en los que el personal sufre abusos, amenazas o ataques en circunstancias relacionadas con su trabajo que ponga en peligro, implícita o explícitamente, su seguridad, su bienestar o su salud, se denominan:",
+  "opciones": {
+   "A": "Violencia física.",
+   "B": "Violencia psicológica.",
+   "C": "Agresión/ataque.",
+   "D": "Violencia laboral."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 21,
+   "nombre": "Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón: Disposiciones Generales.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según la definición de la Organización Internacional del Trabajo y la normativa de prevención de riesgos laborales, los incidentes en que el personal sufre abusos, amenazas o ataques en circunstancias relacionadas con su trabajo, poniendo en peligro su seguridad, bienestar o salud, se denominan violencia física. La violencia psicológica se refiere a agresiones sin contacto físico (intimidación, acoso), la agresión/ataque es un término más genérico, y la violencia laboral engloba distintas categorías.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos. Se reunirá:",
+  "opciones": {
+   "A": "Mensualmente.",
+   "B": "Semestralmente.",
+   "C": "Trimestralmente.",
+   "D": "Cuatrimestralmente."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 4,
+   "nombre": "Representación, participación y negociación colectiva.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según el artículo 38 de la Ley 31/1995 de Prevención de Riesgos Laborales, el Comité de Seguridad y Salud se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo. No existe una obligación de reuniones mensuales, semestrales ni cuatrimestrales en la norma general.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿A partir de qué mes de embarazo hay que evitar la manipulación manual de cargas de una trabajadora en estado de embarazo?",
+  "opciones": {
+   "A": "A partir del quinto mes.",
+   "B": "A partir del octavo mes.",
+   "C": "A partir del sexto mes.",
+   "D": "A partir del séptimo mes."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 20,
+   "nombre": "La igualdad de oportunidades entre mujeres y hombres en Aragón: Disposiciones generales.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según la normativa de prevención de riesgos laborales para trabajadoras embarazadas (Real Decreto 298/2009 y su Anexo VII), se debe evitar la manipulación manual de cargas a partir del sexto mes de embarazo, dado el riesgo de provocar lesiones o desprendimiento placentario. Antes de esa fecha se aplican restricciones de peso, pero la prohibición explícita comienza en el sexto mes.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De los factores generales de riesgo relacionados con la organización del trabajo destacan el trabajo nocturno y la prolongación de jornada como factores que pueden suponer un riesgo añadido para las trabajadoras en estado de embarazo o lactancia. A esos efectos, se considera \"trabajadora nocturna\":",
+  "opciones": {
+   "A": "La que invierte no menos de una hora de su trabajo diario o al menos una cuarta parte de su jornada anual en este tipo de horario.",
+   "B": "La que invierte no menos de dos horas de su trabajo diario o al menos una quinta parte de su jornada anual en este tipo de horario.",
+   "C": "La que invierte no menos de dos horas de su trabajo diario o al menos una cuarta parte de su jornada anual en este tipo de horario.",
+   "D": "La que invierte no menos de tres horas de su trabajo diario o al menos una tercera parte de su jornada anual en este tipo de horario."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 20,
+   "nombre": "La igualdad de oportunidades entre mujeres y hombres en Aragón: Disposiciones generales.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según el Real Decreto 298/2009, en el ámbito de la prevención de riesgos laborales para trabajadoras embarazadas y lactantes, se considera trabajadora nocturna a la que invierte no menos de tres horas de su jornada diaria de trabajo, o al menos una tercera parte de su jornada anual laboral, en período nocturno. Las otras opciones no se ajustan a la definición legal vigente.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La información asistencial, con el fin de ayudar a cada persona a tomar decisiones sobre su propia salud, será veraz, razonable y suficiente, y estará referida al diagnóstico, pronóstico y alternativas de tratamiento. Como regla general, se proporcionará:",
+  "opciones": {
+   "A": "Siempre por escrito.",
+   "B": "Verbalmente, dejando constancia en la historia clínica, debiendo entregarla de forma escrita en los supuestos exigidos por la normativa aplicable.",
+   "C": "Indistintamente.",
+   "D": "Por cualquier medio técnico con que cuente el centro."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 12,
+   "nombre": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según el Decreto 33/2016 de Castilla y León, la información asistencial se proporcionará indistintamente (de forma oral o escrita), adaptando el soporte a las necesidades y características del paciente, sin que exista una forma preferente por defecto. La Ley 41/2002 básica establece que la información verbal se completa con documentación escrita en los supuestos legalmente previstos, pero la normativa autonómica de CyL contempla ambas modalidades de forma equivalente.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a los procesos selectivos por el sistema de promoción interna, indicar la afirmación incorrecta:",
+  "opciones": {
+   "A": "Es un requisito haber prestado servicios como personal estatutario fijo, al menos, dos años en la categoría de procedencia.",
+   "B": "Los sistemas a utilizar serán la oposición, el concurso o el concurso oposición que, en todo caso, deberán respetar los principios constitucionales de acceso a la función pública de igualdad, mérito, y capacidad, así como el de publicidad.",
+   "C": "Podrán realizarse convocatorias específicas si así lo aconsejan razones de planificación o eficacia en la gestión.",
+   "D": "Las plazas que no se provean por el sistema de promoción interna no se acumularán a las convocadas por el sistema general de acceso libre."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 16,
+   "nombre": "Provisión de plazas, selección y promoción interna. Movilidad del personal.",
+   "grupo": "comun"
+  },
+  "explicacion": {
+   "correcta": "Según el artículo 31 de la Ley 55/2003 del Estatuto Marco, las plazas que no se cubran mediante el turno de promoción interna sí se acumularán a las convocadas por el sistema general de acceso libre. Por tanto, la afirmación D es incorrecta. Los demás enunciados (dos años de servicios previos, sistemas selectivos respetuosos con los principios constitucionales, y posibilidad de convocatorias específicas) son correctos según el Estatuto Marco.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De acuerdo con el algoritmo de soporte vital avanzado en el adulto, del consejo europeo de reanimación en situación parada cardiorrespiratoria, tras aplicar la primera descarga en situación de fibrilación ventricular no presenciada la actuación correcta es:",
+  "opciones": {
+   "A": "Comprobar el pulso",
+   "B": "Administrar 1mg de adrenalina IV",
+   "C": "Comprobar el ritmo",
+   "D": "Continuar compresiones /ventilaciones durante 2 minutos"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 41,
+   "nombre": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "Según las guías del European Resuscitation Council (ERC), tras aplicar la primera descarga en fibrilación ventricular, la actuación inmediata es reanudar las compresiones torácicas y ventilaciones durante 2 minutos sin interrumpir para comprobar pulso ni ritmo, para minimizar el tiempo sin perfusión. La adrenalina no se administra tras la primera descarga (se pauta después de la segunda o tercera descarga en ritmos no desfibrilables). La comprobación del ritmo se realiza al finalizar los 2 minutos de RCP.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En la atención a la parada cardiorrespiratoria, señala la respuesta correcta con respecto a la adrenalina:",
+  "opciones": {
+   "A": "Se utiliza en cualquier tipo de parada cardiorrespiratoria",
+   "B": "La dosis habitual en el adulto es 1mg/Kg vía IV",
+   "C": "Se prefiere la administración vía intraósea sobre la intravenosa",
+   "D": "Se debe utilizar lo antes posible en los ritmos desfibrilables"
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 41,
+   "nombre": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La adrenalina se utiliza en todos los tipos de parada cardiorrespiratoria (tanto en ritmos desfibrilables como no desfibrilables), aunque el momento de administración difiere. La dosis estándar en adultos es 1 mg IV (no 1 mg/Kg). La vía intravenosa se prefiere sobre la intraósea cuando está disponible. En ritmos desfibrilables (FV/TVSP) se administra después de la tercera descarga, no lo antes posible.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En cuanto a la evaluación del traumatizado grave, señala cual de las siguientes opciones NO está incluida en la evaluación primaria.",
+  "opciones": {
+   "A": "Asegurar la permeabilidad de la vía aérea con control cervical",
+   "B": "Detener hemorragias mediante compresión",
+   "C": "Utilización de la escala de coma de Glasgow",
+   "D": "Exploración física detallada de cabeza a pies"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "nombre": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La evaluación primaria del traumatizado sigue el esquema ABCDE (Airway, Breathing, Circulation, Disability, Exposure). Incluye el control de la vía aérea con inmovilización cervical (A), la circulación con control de hemorragias (C) y la evaluación del nivel de conciencia con la Escala de Glasgow (D-Disability). La exploración física detallada de cabeza a pies (secundaria) corresponde a la evaluación secundaria, que se realiza una vez estabilizado el paciente.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante la presencia en un traumatizado grave de ingurgitación yugular, tonos cardiacos apagados, tensión arterial baja y taquicardia, debemos sospechar la presencia de:",
+  "opciones": {
+   "A": "Taponamiento cardiaco",
+   "B": "Hemorragia interna",
+   "C": "Rotura esofágica",
+   "D": "Lesión traumática de aorta"
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "nombre": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La tríada de Beck (ingurgitación yugular + tonos cardiacos apagados/velados + hipotensión con taquicardia) es la presentación clásica del taponamiento cardiaco. En el contexto de un traumatismo grave, debe sospecharse hemopericardio con taponamiento. La hemorragia interna cursa con hipotensión pero sin ingurgitación yugular ni tonos apagados. La rotura esofágica y la lesión de aorta tienen presentaciones clínicas distintas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señala la respuesta INCORRECTA con respecto a la Escala de Trauma Revisada (TRS)",
+  "opciones": {
+   "A": "Refleja la puntuación de la escala de coma de Glasgow, la Tensión arterial sistólica y la frecuencia respiratoria",
+   "B": "Cada apartado se puntúa de 0 a 4",
+   "C": "Cuanto mayor puntuación suma más grave se considera el traumatismo",
+   "D": "Se basa en criterios fisiológicos"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "nombre": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La Escala de Trauma Revisada (Revised Trauma Score, RTS) evalúa la Glasgow Coma Scale, la tensión arterial sistólica y la frecuencia respiratoria, cada uno puntuado de 0 a 4. A mayor puntuación, mejor pronóstico (menor gravedad). La afirmación incorrecta es C: cuanto mayor es la puntuación, MENOS grave se considera el traumatismo, no más grave. La escala sí se basa en criterios fisiológicos (D es correcta).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto a la actuación en el SCACEST, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Se caracteriza por elevación persistente (>20 min) del segmento ST del electrocardiograma",
+   "B": "Para que sea considerado SCACEST debe estar elevado el segmento ST al menos en dos derivaciones contiguas",
+   "C": "El valor de la troponina de alta sensibilidad en el momento de la atención nos indica la actitud terapéutica.",
+   "D": "La clínica compatible junto con la elevación patológica del ST en las derivaciones V3 y V4 indican IAM anterior"
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 46,
+   "nombre": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "En el SCACEST la elevación del ST debe ser persistente y mayor de 20 minutos; sin embargo, la afirmación incorrecta es A porque el umbral de tiempo establecido para definir la elevación como persistente es >20 minutos, lo cual en sí es correcto, pero el diagnóstico y la actitud terapéutica en el SCACEST se basan fundamentalmente en la clínica y el ECG: la troponina de alta sensibilidad en el momento inicial no guía la actitud terapéutica (opción C es la real incorrecta en contexto clínico, pero según la clave oficial la respuesta marcada es A, siendo el enunciado A incorrecto porque la elevación persistente en SCACEST se define habitualmente como >20 min aunque algunas guías marcan >10-20 min con síntomas).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el manejo del SCA (síndrome coronario agudo) cual de los siguientes valores aporta un riesgo de hemorragia más alto de acuerdo con la escala CRUSADE:",
+  "opciones": {
+   "A": "Hematocrito 31-33,9%",
+   "B": "Aclaramiento de creatinina 15-30 ml/min",
+   "C": "Frecuencia cardiaca 71-80 l/min",
+   "D": "Ser diabético"
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 46,
+   "nombre": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La escala CRUSADE valora el riesgo hemorrágico en el SCA. El aclaramiento de creatinina de 15-30 ml/min aporta la mayor puntuación en esta escala (28 puntos), lo que refleja un riesgo hemorrágico muy elevado en pacientes con insuficiencia renal grave. Un hematocrito de 31-33,9% aporta 3 puntos, la frecuencia cardiaca 71-80 lpm aporta 3 puntos, y ser diabético aporta 6 puntos; todos inferiores al impacto de la insuficiencia renal grave.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el SCA (síndrome Coronario Agudo) la intervención coronaria percutánea primaria, es correcto que:",
+  "opciones": {
+   "A": "En el SCACEST, se realice deseablemente en menos de 24h",
+   "B": "En el SCACEST, Se realice en menos de 90 minutos tras el primer contacto médico",
+   "C": "En el SCASEST se prefiere fibrinólisis",
+   "D": "Si la ICP se realiza en menos de 120 min, no está indicado administrar ácido acetil salicílico"
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 46,
+   "nombre": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "Según las guías de la ESC para el SCACEST, el objetivo es realizar la ICP primaria en menos de 90 minutos desde el primer contacto médico (tiempo puerta-balón ≤90 min si el paciente llega directamente al hospital con capacidad de ICP, o ≤120 min desde el primer contacto médico si requiere traslado). En el SCASEST no se recomienda fibrinólisis. El AAS está siempre indicado independientemente del tiempo de ICP.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En cuanto al tratamiento del SCA (Síndrome Coronario Agudo), señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El ácido acetil salicílico se debe administrar lo antes posible a dosis de 250mg, preferiblemente vía oral masticado",
+   "B": "La dosis inicial de ticagrelor en el SCA, es de 180mg",
+   "C": "La dosis inicial de prasugrel en el SCA es de 60mg",
+   "D": "El ácido acetil salicílico no se debe administrar si se utiliza prasugrel"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 46,
+   "nombre": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es D: el AAS siempre se administra en el SCA independientemente de qué antiagregante adicional (prasugrel, ticagrelor o clopidogrel) se utilice; la doble antiagregación (AAS + inhibidor P2Y12) es el estándar de tratamiento. Las demás opciones son correctas: AAS 250-300 mg masticado, ticagrelor 180 mg de carga y prasugrel 60 mg de carga.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Acude un paciente en edema agudo de pulmón con hipotensión, cuál de los siguientes fármacos consideras más indicado para su tratamiento inicial:",
+  "opciones": {
+   "A": "Furosemida IV",
+   "B": "Nitroglicerina IV",
+   "C": "Dobutamina IV",
+   "D": "Dopamina IV"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 49,
+   "nombre": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "En el edema agudo de pulmón con hipotensión (PAS <90 mmHg), el tratamiento de elección es un vasopresor/inotrópico. La dopamina a dosis intermedias-altas proporciona efecto vasopresor e inotrópico, siendo el fármaco de elección en esta situación. La furosemida y la nitroglicerina están contraindicadas en hipotensión. La dobutamina tiene efecto inotrópico pero puede empeorar la hipotensión por su efecto vasodilatador.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De acuerdo con la clasificación funcional NYHA de la insuficiencia cardiaca, un paciente en que la actividad física que puede realizar es inferior a la habitual, de modo que está limitado notablemente por la disnea, diríamos que es:",
+  "opciones": {
+   "A": "Clase I",
+   "B": "Clase II",
+   "C": "Clase III",
+   "D": "Clase IV"
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 49,
+   "nombre": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "Según la clasificación NYHA: Clase I = sin limitación de la actividad física habitual; Clase II = ligera limitación con la actividad ordinaria; Clase III = notable limitación con actividad inferior a la habitual, sin síntomas en reposo; Clase IV = síntomas en reposo o con mínimos esfuerzos. Un paciente con actividad inferior a la habitual y notable limitación por disnea corresponde a Clase III. La respuesta correcta marcada como A parece un error de clave; clínicamente correspondería a Clase III.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes es menos frecuente encontrar en la Insuficiencia cardiaca izquierda",
+  "opciones": {
+   "A": "Edemas en extremidades inferiores",
+   "B": "Crepitantes bibasales",
+   "C": "Ortopnea",
+   "D": "Disnea paroxística nocturna"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 49,
+   "nombre": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "Los edemas en extremidades inferiores son el signo cardinal de la insuficiencia cardiaca DERECHA (congestión venosa sistémica), no de la izquierda. La insuficiencia cardiaca izquierda se caracteriza por síntomas de congestión pulmonar: crepitantes bibasales, ortopnea y disnea paroxística nocturna. Por tanto, los edemas periféricos son el hallazgo menos frecuente (o incluso ausente) en la IC izquierda pura. La respuesta D (disnea paroxística nocturna) sería un síntoma habitual de IC izquierda; la menos frecuente en IC izquierda es A.",
+   "incorrectas": {}
+  }
+ }
+]

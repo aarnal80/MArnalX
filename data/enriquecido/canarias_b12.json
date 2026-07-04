@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 243,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Todas las siguientes son causas de hiperamilasemia, excepto:",
+  "opciones": {
+   "A": "Rotura de embarazo ectópico",
+   "B": "Parotiditis",
+   "C": "Tratamiento con opioides",
+   "D": "Administración de contrastes iodados"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda"
+  },
+  "explicacion": {
+   "correcta": "La administración de contrastes iodados NO es una causa de hiperamilasemia. La amilasa puede elevarse por múltiples causas pancreáticas y extrapancreáticas, pero los contrastes iodados no figuran entre ellas. Por tanto, es la excepción que pide el enunciado.",
+   "incorrectas": {
+    "A": "La rotura de embarazo ectópico sí produce hiperamilasemia debido a la liberación de amilasa de origen tubárico y peritoneal, constituyendo una causa extrapancreática reconocida.",
+    "B": "La parotiditis es una causa clásica de hiperamilasemia de origen salival (isoenzima S), no pancreática, y debe tenerse en cuenta en el diagnóstico diferencial.",
+    "C": "Los opioides (especialmente la morfina) producen espasmo del esfínter de Oddi y aumento de la presión ductal, lo que eleva la amilasa sérica."
+   }
+  }
+ },
+ {
+  "id_examen": 244,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes hallazgos ecográficos esperaría encontrar en una colecistitis aguda?",
+  "opciones": {
+   "A": "Presencia de barro biliar",
+   "B": "Engrosamiento de la pared vesicular >6 mm",
+   "C": "Signo Cullen positivo",
+   "D": "Dilatación de la vía biliar intrahepática"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis"
+  },
+  "explicacion": {
+   "correcta": "El barro biliar (o lodo biliar) es un hallazgo ecográfico muy frecuente en la colecistitis aguda, junto con los cálculos. La ecografía es la prueba de imagen de primera elección y muestra además engrosamiento de pared, líquido perivesicular y signo de Murphy ecográfico. El barro biliar es material ecogénico sin sombra acústica que se desplaza con los cambios de posición.",
+   "incorrectas": {
+    "B": "El engrosamiento de pared vesicular patológico se considera a partir de 3-4 mm, no de 6 mm; además puede verse en otras condiciones como hipoalbuminemia o hepatitis, por lo que no es específico de colecistitis aguda.",
+    "C": "El signo de Cullen (equimosis periumbilical) es un signo clínico de pancreatitis grave con hemorragia retroperitoneal, no un hallazgo ecográfico ni propio de la colecistitis.",
+    "D": "La dilatación de la vía biliar intrahepática sugiere obstrucción biliar (coledocolitiasis, colangitis, neoplasia), no colecistitis aguda no complicada."
+   }
+  }
+ },
+ {
+  "id_examen": 245,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la incorrecta con respecto al síndrome hepatorrenal",
+  "opciones": {
+   "A": "Complicación grave que puede aparecer en paciente con cirrosis y ascitis",
+   "B": "El tratamiento de elección es el trasplante hepático",
+   "C": "La lesión renal que se produce es de origen prerrenal por vasodilatación",
+   "D": "Deben suspenderse la administración de diuréticos"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis"
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la C: la lesión renal del síndrome hepatorrenal NO es de origen prerrenal clásico, sino que se produce por vasoconstricción renal intensa (no vasodilatación renal) secundaria a la vasodilatación esplácnica. El riñón es estructuralmente normal pero funcionalmente falla por la redistribución hemodinámica característica de la hipertensión portal avanzada.",
+   "incorrectas": {
+    "A": "Es correcto que el síndrome hepatorrenal es una complicación grave que aparece típicamente en pacientes con cirrosis hepática avanzada y ascitis, siendo el tipo 1 el de mayor mortalidad.",
+    "B": "Es correcto que el trasplante hepático es el único tratamiento definitivo del síndrome hepatorrenal, ya que revierte la disfunción renal al restaurar la función hepática.",
+    "D": "Es correcto que deben suspenderse los diuréticos en el síndrome hepatorrenal, ya que agravan la depleción de volumen y la hipoperfusión renal."
+   }
+  }
+ },
+ {
+  "id_examen": 246,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Dentro de las principales causas de colestasis intrahepáticas, no figura:",
+  "opciones": {
+   "A": "Hepatitis C",
+   "B": "Cirrosis o enfermedad hepática de origen alcohólica",
+   "C": "El hígado graso",
+   "D": "Coledocolitiasis"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis"
+  },
+  "explicacion": {
+   "correcta": "La coledocolitiasis es una causa de colestasis EXTRAhepática, no intrahepática. Produce obstrucción del colédoco distal, fuera del parénquima hepático. Las colestasis intrahepáticas son las que tienen su origen dentro del propio hígado (hepatitis, cirrosis, hígado graso, fármacos, etc.).",
+   "incorrectas": {
+    "A": "La hepatitis C es una causa reconocida de colestasis intrahepática, ya que la inflamación del parénquima hepático altera la secreción biliar a nivel de los hepatocitos y los canalículos biliares.",
+    "B": "La cirrosis y la enfermedad hepática alcohólica producen daño en el hepatocito y los canalículos biliares, causando colestasis intrahepática.",
+    "C": "El hígado graso (esteatosis hepática) puede asociarse a colestasis intrahepática, especialmente en formas avanzadas o cuando coexiste con esteatohepatitis no alcohólica."
+   }
+  }
+ },
+ {
+  "id_examen": 247,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La presencia de un líquido ascítico de aspecto turbio; con proteínas > 2.5 g/dl; Cociente Amilasa sérica/amilasa en líquido ascítico <1.1, leucocitos >500/microlitro y con Polimorfonucleares >50%, sugiere como diagnóstico:",
+  "opciones": {
+   "A": "Peritonitis bacteriana espontánea",
+   "B": "Peritonitis bacteriana secundaria",
+   "C": "Neoplasia",
+   "D": "Tuberculosis"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis"
+  },
+  "explicacion": {
+   "correcta": "El perfil descrito (proteínas >2.5 g/dl, cociente amilasa sérica/ascítica <1.1, leucocitos >500/µL con PMN >50% y aspecto turbio) es característico de la peritonitis bacteriana secundaria (PBS). A diferencia de la peritonitis bacteriana espontánea (PBE), la PBS cumple al menos 2 de los criterios de Runyon: proteínas >1 g/dl, glucosa <50 mg/dl y LDH superior al límite normal sérico, indicando una fuente secundaria como perforación visceral.",
+   "incorrectas": {
+    "A": "La peritonitis bacteriana espontánea cursa con PMN >250/µL pero con proteínas bajas (<1 g/dl) y glucosa normal en el líquido ascítico, sin cumplir los criterios de Runyon para PBS.",
+    "C": "La ascitis neoplásica suele tener proteínas elevadas pero predominio linfocitario, LDH muy alta y puede mostrar células malignas en citología; no presenta este perfil de PMN predominante.",
+    "D": "La tuberculosis peritoneal produce ascitis con predominio linfocitario, proteínas elevadas y adenosina deaminasa (ADA) alta, no con el perfil de PMN predominante descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 248,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La acidosis metabólica con anión gap aumentado, pueden ser producidas por todas las siguientes causas menor una. Señálela:",
+  "opciones": {
+   "A": "Cetoacidosis diabética.",
+   "B": "Acidosis láctica.",
+   "C": "Diarrea aguda.",
+   "D": "Insuficiencia renal aguda."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La diarrea aguda produce acidosis metabólica con anión GAP NORMAL (hiperclorémica), no con anión GAP aumentado. Esto se debe a la pérdida de bicarbonato por las heces, que es compensada por retención de cloro, manteniendo el anión GAP dentro de la normalidad. Es el prototipo de acidosis metabólica normoclorémica con GAP normal.",
+   "incorrectas": {
+    "A": "La cetoacidosis diabética produce acidosis metabólica con anión GAP aumentado por acumulación de cetoácidos (acetoacetato y beta-hidroxibutirato) que son ácidos no medibles en el GAP estándar.",
+    "B": "La acidosis láctica produce acidosis metabólica con anión GAP aumentado por acumulación de lactato, un anión no incluido en la fórmula del anión GAP.",
+    "D": "La insuficiencia renal aguda produce acidosis metabólica con anión GAP aumentado por retención de ácidos orgánicos (fosfatos, sulfatos) que el riñón no puede excretar."
+   }
+  }
+ },
+ {
+  "id_examen": 249,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes neoplasias no es causa habitual de hiponatremia por síndrome inadecuado de secreción de hormona antidiurética (SIADH)?",
+  "opciones": {
+   "A": "Glioblastoma multiforme.",
+   "B": "Carcinoma de próstata.",
+   "C": "Carcinoma de pulmón.",
+   "D": "Adenocarcinoma pancreático."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "El carcinoma de próstata no es una causa habitual de SIADH paraneoplásico. Las neoplasias que con mayor frecuencia producen SIADH son el carcinoma microcítico de pulmón (la causa paraneoplásica más frecuente), tumores del SNC, carcinoma pancreático y timomas, entre otros. El cáncer de próstata puede producir hiponatremia por otros mecanismos, pero no por SIADH paraneoplásico habitualmente.",
+   "incorrectas": {
+    "A": "El glioblastoma multiforme, como tumor del sistema nervioso central, puede producir SIADH por afectación directa de los centros hipotalámicos reguladores de la secreción de ADH.",
+    "C": "El carcinoma de pulmón, especialmente el microcítico (células pequeñas), es la causa paraneoplásica de SIADH más frecuente, ya que las células tumorales secretan ADH de forma ectópica.",
+    "D": "El adenocarcinoma pancreático es una causa reconocida de SIADH paraneoplásico, aunque menos frecuente que el carcinoma microcítico de pulmón."
+   }
+  }
+ },
+ {
+  "id_examen": 250,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación a las alteraciones del equilibrio ácido- básico señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La sangre venosa refleja el grado de acidosis con la misma exactitud que la arterial.",
+   "B": "El mecanismo compensador de la acidosis metabólica es la disminución del PaCO2 por hiperventilación.",
+   "C": "La acidosis metabólica con Anión GAP normal se denomina también normoclorhémica",
+   "D": "Una de las causas de acidosis metabólica con anión GAP elevado es la cetoacidosis diabética."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la C: la acidosis metabólica con anión GAP normal se denomina HIPERclorémica (no normoclorémica). Cuando el bicarbonato desciende sin acumulación de ácidos no medibles, el riñón retiene cloro para mantener la electroneutralidad, elevando el cloro sérico. Por tanto, el término correcto es acidosis metabólica hiperclorémica con GAP normal.",
+   "incorrectas": {
+    "A": "Es correcto que la gasometría venosa refleja adecuadamente el pH y el grado de acidosis, siendo aceptable para el manejo clínico en urgencias, aunque con ligeras diferencias respecto a la arterial (pH venoso ~0.03-0.05 unidades inferior).",
+    "B": "Es correcto que la compensación respiratoria de la acidosis metabólica consiste en hiperventilación con descenso del PaCO2 (ecuación de Henderson-Hasselbalch), cuantificable con la fórmula de Winters.",
+    "D": "Es correcto que la cetoacidosis diabética es una causa prototípica de acidosis metabólica con anión GAP elevado por acumulación de cuerpos cetónicos (acetoacetato y beta-hidroxibutirato)."
+   }
+  }
+ },
+ {
+  "id_examen": 251,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Respecto a las alteraciones de los trastornos hidroelectrolíticos, señale la",
+  "opciones": {
+   "A": "La hiponatremia se clasifica como grave en concentraciones séricas inferiores a 115 meq/l, o cuando, independientemente de la natremia existan síntomas neurológicos acompañantes.",
+   "B": "La hipopotasemia se clasifica como grave si la concentración de potasio sérico se encuentra entre 2.5- 2.9 meq/l.",
+   "C": "En la hipernatremia, la corrección de déficit de agua debe realizarse rápidamente en las primeras 5 horas.",
+   "D": "En la hiperpotasemia no está indicada la retirada de IECAs o ARA- II."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La hiponatremia grave se define por concentraciones séricas de sodio menores de 115-120 mEq/L, O cuando existen síntomas neurológicos graves (convulsiones, coma, deterioro del nivel de conciencia) independientemente del valor de natremia. Esta clasificación tiene implicaciones terapéuticas directas, ya que la hiponatremia grave sintomática requiere corrección urgente con suero salino hipertónico.",
+   "incorrectas": {
+    "B": "La hipopotasemia grave se define con potasio sérico inferior a 2.5 mEq/L, no entre 2.5-2.9 mEq/L (que correspondería a hipopotasemia moderada). Esta distinción es clínicamente relevante para el ritmo y la vía de reposición.",
+    "C": "En la hipernatremia, la corrección debe realizarse de forma LENTA (no en 5 horas), a un ritmo máximo de 10-12 mEq/L en 24 horas, para evitar el edema cerebral por corrección brusca en una situación de adaptación osmótica neuronal.",
+    "D": "En la hiperpotasemia sí está indicada la retirada de IECAs y ARA-II, ya que estos fármacos disminuyen la secreción de aldosterona y favorecen la retención de potasio, agravando la hiperpotasemia."
+   }
+  }
+ },
+ {
+  "id_examen": 252,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Entre las causas de hipopotasemia, se encuentran todas excepto:",
+  "opciones": {
+   "A": "Diarrea",
+   "B": "Hiperaldosteronismo.",
+   "C": "Insuficiencia suprarrenal",
+   "D": "Alcalosis metabólica de cualquier causa"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La insuficiencia suprarrenal NO causa hipopotasemia sino HIPERpotasemia. El déficit de aldosterona característico de la insuficiencia suprarrenal primaria (enfermedad de Addison) produce retención de potasio y pérdida de sodio, causando hiperpotasemia, hiponatremia e hipotensión. Es por tanto la excepción que pide el enunciado.",
+   "incorrectas": {
+    "A": "La diarrea es una causa frecuente de hipopotasemia por pérdida de potasio en las heces, especialmente en diarreas secretoras abundantes.",
+    "B": "El hiperaldosteronismo (primario o secundario) produce hipopotasemia por aumento de la excreción renal de potasio mediada por aldosterona en el túbulo colector.",
+    "D": "La alcalosis metabólica de cualquier causa produce hipopotasemia por desplazamiento del potasio al interior celular (intercambio K+/H+) y por aumento de la excreción renal de potasio."
+   }
+  }
+ },
+ {
+  "id_examen": 253,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Con respecto a la hipermagnesemia, ¿cuál de los siguientes enunciados es incorrecto?",
+  "opciones": {
+   "A": "Se considera hipermagnesemia grave, cifras de magnesio >5 mg/dl",
+   "B": "La causa más frecuente de hipermagnesemia es la insuficiencia renal grave, asociado al aporte externo de magnesio, generalmente a través de antiácidos y laxantes.",
+   "C": "La hipermagnesemia severa puede provocar coma por depresión del sistema venoso central.",
+   "D": "En el tratamiento de la hipermagnesemia grave se debe administrar gluconato cálcico al 10% o cloruro cálcico al 10% en bolo intravenoso lento"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la C: la hipermagnesemia severa provoca depresión del sistema nervioso CENTRAL (SNC), no del sistema venoso central. El magnesio actúa como antagonista del calcio y depresor de la transmisión neuromuscular y neuronal, pudiendo causar somnolencia, letargia y coma por depresión del SNC, así como bloqueo neuromuscular.",
+   "incorrectas": {
+    "A": "Es correcto que se considera hipermagnesemia grave con cifras superiores a 5 mg/dl (o aproximadamente >4 mEq/L), nivel a partir del cual pueden aparecer manifestaciones clínicas graves.",
+    "B": "Es correcto que la causa más frecuente de hipermagnesemia es la insuficiencia renal grave combinada con aporte exógeno de magnesio (antiácidos con hidróxido de magnesio, laxantes), ya que el riñón es la principal vía de eliminación del magnesio.",
+    "D": "Es correcto que el tratamiento de urgencia de la hipermagnesemia grave incluye la administración de calcio (gluconato cálcico 10% o cloruro cálcico 10%) en bolo IV lento, que antagoniza los efectos del magnesio a nivel neuromuscular y cardíaco."
+   }
+  }
+ },
+ {
+  "id_examen": 254,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Para el diagnóstico diferencial de qué procesos utilizaría el anión gap?",
+  "opciones": {
+   "A": "Acidosis y alcalosis metabólica",
+   "B": "Entre grupos de acidosis metabólica",
+   "C": "Acidosis metabólica y respiratoria",
+   "D": "Acidosis y alcalosis respiratoria"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "El anión GAP (AG = Na - [Cl + HCO3], normal 8-12 mEq/L) se utiliza para diferenciar entre los distintos tipos de acidosis metabólica: con GAP elevado (por acumulación de ácidos no medibles: cetoacidosis, acidosis láctica, insuficiencia renal, intoxicaciones) versus con GAP normal o hiperclorémica (por pérdida de bicarbonato: diarrea, acidosis tubular renal, aporte de ácidos clorhídricos). No sirve para distinguir acidosis de alcalosis ni trastornos respiratorios.",
+   "incorrectas": {
+    "A": "El anión GAP no se utiliza para diferenciar acidosis de alcalosis metabólica; para ello se emplea directamente el pH y el bicarbonato sérico en la gasometría.",
+    "C": "La diferenciación entre acidosis metabólica y respiratoria se realiza mediante la gasometría arterial (pH, pCO2 y bicarbonato), no mediante el anión GAP.",
+    "D": "La diferenciación entre acidosis y alcalosis respiratoria se realiza mediante el pH y el pCO2 en la gasometría, no mediante el anión GAP."
+   }
+  }
+ },
+ {
+  "id_examen": 255,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la alteración cardiológica característica de la hipocalcemia?",
+  "opciones": {
+   "A": "Descenso del Segmento ST",
+   "B": "Aparición de ondas U",
+   "C": "Ondas T picudas y simétricas",
+   "D": "Prolongación del intervalo QT"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La hipocalcemia produce prolongación del intervalo QT (QTc) en el ECG, lo que predispone a arritmias graves como la torsades de pointes. Esta prolongación se debe al enlentecimiento de la fase 2 del potencial de acción cardíaco (fase de meseta), que depende del calcio. El intervalo QT largo es el hallazgo ECG más característico y clínicamente relevante de la hipocalcemia.",
+   "incorrectas": {
+    "A": "El descenso del segmento ST no es característico de la hipocalcemia; se observa en isquemia subendocárdica, pericarditis o como efecto de digoxina.",
+    "B": "Las ondas U son características de la hipopotasemia, no de la hipocalcemia. Aparecen tras la onda T y representan la repolarización tardía del sistema His-Purkinje.",
+    "C": "Las ondas T picudas y simétricas (en tienda de campaña) son características de la HIPERpotasemia, no de la hipocalcemia."
+   }
+  }
+ },
+ {
+  "id_examen": 256,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿En cuál de los siguientes procesos aparece el Signo de Trousseau?",
+  "opciones": {
+   "A": "Hipercalcemia",
+   "B": "Hipomagnesemia",
+   "C": "Hipocalcemia",
+   "D": "Hipermagnesemia"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "El signo de Trousseau es un signo de tetania latente característico de la hipocalcemia. Se provoca inflando el manguito de tensión arterial por encima de la presión sistólica durante 3 minutos, lo que produce espasmo carpopedal (flexión del pulgar y los dedos con extensión de los dedos). Es positivo cuando la hipocalcemia produce hiperexcitabilidad neuromuscular.",
+   "incorrectas": {
+    "A": "La hipercalcemia produce clínica opuesta: hipotonía, debilidad muscular, estreñimiento y alteraciones del nivel de conciencia; no produce tetania ni signo de Trousseau.",
+    "B": "La hipomagnesemia puede acompañar y agravar la hipocalcemia (el magnesio es necesario para la secreción de PTH), por lo que puede coexistir con el signo de Trousseau, pero el signo es propio de la hipocalcemia, no de la hipomagnesemia per se.",
+    "D": "La hipermagnesemia produce depresión del sistema nervioso central y bloqueo neuromuscular (efectos opuestos a la tetania), no el signo de Trousseau."
+   }
+  }
+ },
+ {
+  "id_examen": 257,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes enunciados con respecto a la administración de la Calcitonina para el tratamiento de la Hipercalcemia aguda sintomática NO es cierta?",
+  "opciones": {
+   "A": "Tiene una acción antirresortiva, con lo disminuye la concentración sérica de calcio",
+   "B": "El tratamiento debe mantenerse de 5 a 7 días",
+   "C": "Se puede administrar por vía intramuscular y subcutánea",
+   "D": "Su indicación fundamental es el tratamiento de la hipercalcemia aguda secundaria al hiperparatiroidismo"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos"
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la B: la calcitonina no debe mantenerse durante 5-7 días porque desarrolla taquifilaxia (escape o refractariedad) típicamente a las 48-72 horas de su administración. Su efecto hipocalcemiante se pierde rápidamente por regulación negativa de sus receptores. Por ello se usa como medida inicial urgente mientras actúan los bisfosfonatos, que tienen un efecto más duradero.",
+   "incorrectas": {
+    "A": "Es correcto que la calcitonina tiene acción antirresortiva al inhibir la actividad osteoclástica, disminuyendo la liberación de calcio óseo y reduciendo la calcemia.",
+    "C": "Es correcto que la calcitonina se puede administrar por vía intramuscular y subcutánea, además de intranasal, lo que permite su uso en diferentes contextos clínicos.",
+    "D": "Es correcto que la calcitonina está indicada principalmente en la hipercalcemia aguda sintomática, especialmente la de origen paratiroideo o maligno, como tratamiento de rescate inmediato."
+   }
+  }
+ },
+ {
+  "id_examen": 258,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Qué síntoma es más frecuente y característico de la Insuficiencia suprarrenal crónica primaria?",
+  "opciones": {
+   "A": "Hipotensión arterial.",
+   "B": "Anorexia.",
+   "C": "Hiperpigmentación difusa.",
+   "D": "Confusión."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "La hiperpigmentación difusa es el síntoma más característico y específico de la insuficiencia suprarrenal primaria (enfermedad de Addison). Se produce por el aumento compensatorio de ACTH y pro-opiomelanocortina (POMC), que estimulan los receptores de melanocortina en los melanocitos. Es especialmente evidente en pliegues, cicatrices, mucosa oral y zonas fotoexpuestas, y permite distinguirla de la insuficiencia suprarrenal secundaria.",
+   "incorrectas": {
+    "A": "La hipotensión arterial es frecuente en la insuficiencia suprarrenal primaria (por déficit de aldosterona y cortisol), pero es un signo compartido con otras patologías y no es el más característico ni específico.",
+    "B": "La anorexia y pérdida de peso son síntomas comunes en la insuficiencia suprarrenal crónica, pero son inespecíficos y no distinguen la insuficiencia suprarrenal primaria de la secundaria.",
+    "D": "La confusión puede aparecer en la crisis addisoniana aguda pero no es el síntoma más frecuente ni el más característico de la insuficiencia suprarrenal crónica primaria en fase estable."
+   }
+  }
+ },
+ {
+  "id_examen": 259,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hay una serie de situaciones que pueden desencadenar una crisis tirotóxica. Todas son CORRECTAS menos una:",
+  "opciones": {
+   "A": "Tiroiditis de Hashimoto",
+   "B": "Gestación",
+   "C": "Intoxicación por organofosforados",
+   "D": "Administración de amiodarona"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "La tiroiditis de Hashimoto (tiroiditis autoinmune crónica) es la causa más frecuente de HIPOtiroidismo, no de crisis tirotóxica. Aunque en fases iniciales puede producir tirotoxicosis transitoria (Hashitoxicosis) por liberación de hormona almacenada, no es un desencadenante de la crisis tirotóxica en el sentido clínico habitual. La crisis tirotóxica se desencadena por situaciones de estrés en pacientes con hipertiroidismo previo.",
+   "incorrectas": {
+    "B": "La gestación puede desencadenar o agravar el hipertiroidismo (por efecto estimulante de la HCG sobre el receptor de TSH) y precipitar una crisis tirotóxica, especialmente en el primer trimestre.",
+    "C": "La intoxicación por organofosforados produce una estimulación colinérgica masiva que, junto con el estrés sistémico que provoca, puede desencadenar una crisis tirotóxica en pacientes con hipertiroidismo subyacente.",
+    "D": "La amiodarona contiene una gran carga de yodo y puede desencadenar tirotoxicosis (tipo 1 por exceso de yodo, o tipo 2 por tiroiditis destructiva), que puede evolucionar a crisis tirotóxica."
+   }
+  }
+ },
+ {
+  "id_examen": 260,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 49 años. Antecedentes personales de Fibrilación Auricular en tratamiento con amiodarona. Acude por un cuadro de fiebre de 38º, agitación, vómitos y diarrea. A la exploración presenta una taquicardia sinusal 130 lpm, ¿cuál es el diagnóstico más probable en este paciente?",
+  "opciones": {
+   "A": "Crisis mixedematosa",
+   "B": "Shock cardiogénico",
+   "C": "Crisis tirotóxica",
+   "D": "Síndrome de Liddle"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "El cuadro es altamente sugestivo de crisis tirotóxica: paciente en tratamiento con amiodarona (fármaco con alto contenido en yodo que puede inducir hipertiroidismo), con fiebre, agitación, síntomas gastrointestinales (vómitos, diarrea) y taquicardia sinusal de 130 lpm. La crisis tirotóxica es una emergencia endocrina que cursa con hipermetabolismo extremo y disfunción multiorgánica, y la amiodarona es un desencadenante reconocido.",
+   "incorrectas": {
+    "A": "La crisis mixedematosa es la forma grave del hipotiroidismo y cursa con bradicardia, hipotermia, somnolencia y coma, exactamente lo opuesto al cuadro descrito de taquicardia, fiebre y agitación.",
+    "B": "El shock cardiogénico cursa con hipotensión, signos de bajo gasto (frialdad, oliguria, mala perfusión) y no justifica la fiebre, agitación y clínica digestiva del caso.",
+    "D": "El síndrome de Liddle es una canalopatía renal hereditaria que produce hipertensión, hipopotasemia y alcalosis metabólica; no produce el cuadro agudo febril con taquicardia y síntomas digestivos descritos."
+   }
+  }
+ },
+ {
+  "id_examen": 261,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La crisis Addisoniana o Insuficiencia suprarrenal aguda es una emergencia médica. ¿Cuál de estos tratamientos no es el adecuado?",
+  "opciones": {
+   "A": "Perfusión de insulina rápida",
+   "B": "Hidrocortisona intravenosa",
+   "C": "Dexametasona intravenosa",
+   "D": "Tratamiento de la depleción hidrosalina para corregir la deshidratación y la hiponatremia"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "La perfusión de insulina rápida NO está indicada en la crisis addisoniana y puede ser perjudicial. La crisis addisoniana puede cursar con hipoglucemia (por déficit de cortisol), por lo que la insulina agravaría aún más la hipoglucemia. El tratamiento correcto incluye corticoides IV (hidrocortisona o dexametasona), reposición agresiva de volumen con suero salino 0.9%, corrección de hipoglucemia con glucosa y tratamiento del factor precipitante.",
+   "incorrectas": {
+    "B": "La hidrocortisona IV (100 mg en bolo y luego 200-400 mg/24h en perfusión) es el tratamiento de elección de la crisis addisoniana por tener efecto glucocorticoide y mineralcorticoide.",
+    "C": "La dexametasona IV es una alternativa válida a la hidrocortisona cuando se quiere preservar la estimulación con ACTH para el diagnóstico posterior, ya que no interfiere con el cortisol plasmático medido.",
+    "D": "La corrección de la depleción hidrosalina con suero salino 0.9% es fundamental en la crisis addisoniana, ya que el déficit de aldosterona produce pérdida renal de sodio, deshidratación e hipotensión severa."
+   }
+  }
+ },
+ {
+  "id_examen": 262,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes no es un predictor de mortalidad en la crisis mixedematosa?",
+  "opciones": {
+   "A": "Hipertermia refractaria a pesar del tratamiento",
+   "B": "Necesidad de ventilación mecánica.",
+   "C": "Hipotensión y bradicardia en el momento del diagnóstico",
+   "D": "Baja puntuación en la escala de Glasgow"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "La hipertermia refractaria NO es un predictor de mortalidad en la crisis mixedematosa porque la crisis mixedematosa cursa precisamente con HIPOtermia (no hipertermia). La hipotermia severa sí es un factor de mal pronóstico en la crisis mixedematosa. La hipertermia refractaria es más propia de la crisis tirotóxica. Por tanto, la hipertermia como predictor de mortalidad no aplica al cuadro del hipotiroidismo grave.",
+   "incorrectas": {
+    "B": "La necesidad de ventilación mecánica es un predictor de mal pronóstico en la crisis mixedematosa, refleja hipoventilación grave con hipercapnia y fallo respiratorio, condición de alta mortalidad.",
+    "C": "La hipotensión y la bradicardia en el momento del diagnóstico son predictores de mortalidad en la crisis mixedematosa, ya que indican compromiso hemodinámico severo por el hipotiroidismo extremo.",
+    "D": "La baja puntuación en la escala de Glasgow (alteración del nivel de conciencia) es un predictor reconocido de mortalidad en la crisis mixedematosa, reflejando la afectación neurológica grave por hipotiroidismo profundo."
+   }
+  }
+ },
+ {
+  "id_examen": 263,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes signos NO es característico del hipertiroidismo?",
+  "opciones": {
+   "A": "Hiperreflexia",
+   "B": "Temblor fino",
+   "C": "Bradicardia",
+   "D": "Hipertensión arterial"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "La bradicardia NO es característica del hipertiroidismo; al contrario, el hipertiroidismo produce TAQUIcardia sinusal (a menudo el síntoma más frecuente) y predispone a fibrilación auricular. El exceso de hormona tiroidea aumenta la frecuencia cardíaca al potenciar los efectos adrenérgicos sobre el corazón. La bradicardia es característica del HIPOtiroidismo.",
+   "incorrectas": {
+    "A": "La hiperreflexia osteotendinosa sí es característica del hipertiroidismo, resultado del aumento del tono adrenérgico y la hiperexcitabilidad neuromuscular producida por el exceso de hormona tiroidea.",
+    "B": "El temblor fino distal es un signo clásico del hipertiroidismo, producido por el aumento del tono adrenérgico y el estado hipermetabólico. La pregunta pide el signo NO característico, que es la bradicardia (opción C).",
+    "D": "La hipertensión arterial (especialmente sistólica, con aumento de la presión de pulso) sí es característica del hipertiroidismo por el aumento del gasto cardíaco y la vasodilatación periférica."
+   }
+  }
+ },
+ {
+  "id_examen": 264,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes alteraciones analíticas no se detecta habitualmente en el hipotiroidismo?",
+  "opciones": {
+   "A": "Aumento de la concentración sérica de creatinina",
+   "B": "Cifras normales de urea plasmática",
+   "C": "Elevación de transaminasas",
+   "D": "Hiponatremia con hiperosmolaridad"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa"
+  },
+  "explicacion": {
+   "correcta": "La hiponatremia con HIPERosmolaridad no se detecta en el hipotiroidismo. El hipotiroidismo produce hiponatremia HIPOosmolar (por retención de agua libre secundaria a SIADH funcional y disminución de la filtración glomerular). La combinación de hiponatremia con hiperosmolaridad es contradictoria desde el punto de vista fisiopatológico en este contexto y no corresponde al patrón analítico del hipotiroidismo.",
+   "incorrectas": {
+    "A": "El aumento de creatinina sérica sí se detecta en el hipotiroidismo, por disminución de la filtración glomerular secundaria al bajo gasto cardíaco y a la reducción del flujo plasmático renal.",
+    "B": "Las cifras normales de urea son habituales en el hipotiroidismo porque, aunque la filtración glomerular está reducida, el catabolismo proteico también disminuye (estado hipometabólico), por lo que la producción de urea es menor.",
+    "C": "La elevación de transaminasas (especialmente AST y ALT) es frecuente en el hipotiroidismo por miopatía hipotiroidea y afectación hepática; también puede elevarse la CPK como marcador de miopatía."
+   }
+  }
+ }
+]

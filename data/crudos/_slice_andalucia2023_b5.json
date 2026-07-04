@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "De las siguientes aseveraciones respecto al tratamiento de la hipocalcemia aguda sintomática, indique la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Se trata con Gluconato Cálcico por vía intravenosa.",
+   "B": "Es preferible la administración de Gluconato Cálcico, ya que la extravasación accidental de Cloruro Cálcico puede producir necrosis tisular.",
+   "C": "El Gluconato Cálcico se puede administrar conjuntamente con bicarbonato sódico si existiese acidosis metabólica asociada.",
+   "D": "Simultáneamente se administra Calcio por vía oral asociado a Calcitriol."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de los siguientes fármacos NO forma parte del tratamiento de la hiperpotasemia moderada?",
+  "opciones": {
+   "A": "Solución glucosada hipertónica con Insulina.",
+   "B": "Gluconato Cálcico.",
+   "C": "Bicarbonato Sódico 1 M.",
+   "D": "Furosemida."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Varón de 37 años que cursa con cefalea unilateral, intensa y localizada a nivel supraorbitario, de 15 a 45 minutos de duración, y que se le presentan de 1 a 8 veces al día. Los ataques se acompañan de inyección conjuntival, lagrimeo, congestión nasal, rinorrea, sudoración facial y miosis, estrictamente en región izquierda. ¿Qué diagnóstico es el más probable?",
+  "opciones": {
+   "A": "Cefalea hemicránea paroxística.",
+   "B": "Neuralgia del trigémino.",
+   "C": "Cefalea en racimos.",
+   "D": "Cefalea punzante idiopática."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Mujer de 58 años que acude a Urgencias presentando diplopia al mirar en ciertas direcciones, ptosis parpebral y midriasis unilateral arreactiva. A la exploración del ojo derecho, no puede moverse hacia arriba, ni hacia abajo ni hacia dentro. Al realizar la TC craneal aparece una lesión compatible con un aneurisma. Indique la estructura afectada:",
+  "opciones": {
+   "A": "III par craneal derecho.",
+   "B": "IV par craneal derecho.",
+   "C": "III par craneal izquierdo.",
+   "D": "IV par craneal izquierdo."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Varón de 82 años que acude a Urgencias presentando fiebre, disminución del nivel de conciencia, confusión mental, mioclonías, crisis epilépticas y disfasia. La TAC craneal presenta en región occipital izquierda 2 pequeñas lesiones isquémicas de perfil crónico, sin imágenes de sangrado, y el líquido cefalorraquídeo ha mostrado una pleocitosis linfocitaria moderada. El diagnóstico más probable es:",
+  "opciones": {
+   "A": "Meningitis bacteriana.",
+   "B": "Encefalitis viral.",
+   "C": "Enfermedad de Creutzfeldt Jakob.",
+   "D": "Síndrome de Ramsay Hunt."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Ante un estatus epiléptico establecido, ¿cuál de estos fármacos NO considera de segunda elección?",
+  "opciones": {
+   "A": "Levetiracetam.",
+   "B": "Lacosamida.",
+   "C": "Valproato.",
+   "D": "Fenobarbital."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Tras la realización de una espirometría después de la inhalación de broncodilatadores a un paciente con EPOC, se detecta un volumen espiratorio forzado en el primer segundo (FEV1) de un 70%. ¿Qué grado funcional corresponde?",
+  "opciones": {
+   "A": "Grado I.",
+   "B": "Grado II.",
+   "C": "Grado III.",
+   "D": "Grado IV."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Indique la respuesta FALSA en relación con la medicación de control que se utiliza para el tratamiento después de una crisis asmática:",
+  "opciones": {
+   "A": "Los agonistas betaadrenérgicos de acción prolongada pueden administrarse en monoterapia o asociados a corticoides inhalados.",
+   "B": "Los corticoides inhalados como monoterapia solo están indicados en la crisis leve con buena respuesta terapéutica.",
+   "C": "El uso de dispositivos que combinan, en dosis fijas, un corticoide inhalado y un betaadrenérgico de acción prolongada, mejora el cumplimiento del tratamiento por parte del paciente y el control de la enfermedad.",
+   "D": "Una pauta corta de corticoides está indicada incluso en las crisis leves, ya que proporciona una mejoría rápida y evita recaídas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación a los modos ventilatorios en Ventilación No Invasiva, indique la respuesta correcta:",
+  "opciones": {
+   "A": "Los modos ventilatorios más usados son los controlados por volumen.",
+   "B": "A diferencia de la ventilación invasiva, las resistencias en la vía aérea superior son variables.",
+   "C": "El modo más utilizado es el de dos niveles de presión ciclado por tiempo.",
+   "D": "La ventilación proporcional asistida es un modo cada vez más utilizado."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Ante el resultado del análisis de un líquido pleural, ¿cuál de las siguientes características NO se corresponde con un exudado?",
+  "opciones": {
+   "A": "pH inferior a 7,30.",
+   "B": "Proteínas superiores a 3 g/dl.",
+   "C": "Lactato deshidrogenasa superior a 200 UI/ml.",
+   "D": "Glucosa en líquido pleural igual o similar a la sérica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Durante la fase aguda de una agudización de la EPOC, ¿qué fármaco de los siguientes NO estaría indicado de manera sistemática?",
+  "opciones": {
+   "A": "Salbutamol.",
+   "B": "Teofilina.",
+   "C": "Bromuro de Ipratropio.",
+   "D": "Terbutalina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Dentro de los criterios diagnósticos del MINOCA (Myocardial Infarction with Non- Obstructive Coronary Arteries), indique la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Detección de, al menos, un valor elevado de troponina por encima del percentil 99.",
+   "B": "Alteraciones en el segmento ST.",
+   "C": "Angiografía con lesiones significativas (> 50%).",
+   "D": "Ausencia de otros procesos que producen daño miocárdico. SAS_MÉDICO/A DE FAMILIA EN UNIDADES DE URGENCIA HOSPITALARIA 2023 / TURNO LIBRE CUESTIONARIO PRÁCTICO CASO PRÁCTICO 1: Paciente varón de 78 años, traído al Servicio de Urgencias hospitalario por un Equipo Móvil del Servicio de Urgencias de Atención Primaria, con disnea intensa, cianosis generalizada, tiraje supraclavicular, Presión Arterial (PA) 190/110 mmHg, Frecuencia Cardiaca (FC) 130 sístoles por minuto (spm), Frecuencia Respiratoria 30 respiraciones por minuto (rpm), Saturación de oxígeno (Sat O2) 80%. Auscultación respiratoria con sibilantes en mitad de campos superiores y crepitantes basales. Antecedentes Personales: Diabetes Mellitus, EPOC Gold II, Hipertensión Arterial, Valvulopatía mitral. Tratamiento habitual: Gliclazida 30 mg por vía oral (pvo)/24h, Metformina 850 mg pvo/8h, Carvedilol 25 mg pvo/24h, Amlodipino 10 mg/Olmesartan 40 mg pvo cada 24 h, Seretide 50/500mcg 1 inhalación (inh)/12h y Tiotropio 2 inh/24 h."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Con qué terapia NO iniciaría el tratamiento de este paciente?",
+  "opciones": {
+   "A": "Corticoides intravenoso (iv).",
+   "B": "Diuréticos iv.",
+   "C": "Ventilación Mecánica No Invasiva (VMNI).",
+   "D": "Vasodilatadores iv."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "La gasometría arterial muestra pH 7,30, PCO2 80 mmHg, PO2 56 mmHg, SatO2 85%. ¿Cuál sería la terapia respiratoria inicial?",
+  "opciones": {
+   "A": "CPAP con presión de 10 cmH2O.",
+   "B": "Oxigenoterapia en Reservorio a 15 litros por minuto, FiO2 90%.",
+   "C": "BiPAP con parámetros IPAP 14 cmH2O y EPAP 5 cmH2O.",
+   "D": "Intubación endotraqueal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Señale la exploración complementaria que aporta más valor al diagnóstico de este paciente:",
+  "opciones": {
+   "A": "Radiología de tórax.",
+   "B": "NT-proBNP.",
+   "C": "Ecocardiografía.",
+   "D": "Dímero D."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "El paciente presenta Presión Arterial Sistólica (PAS) de 90 mmHg y está sudoroso, con frialdad distal y pulso filiforme. ¿Qué tratamiento farmacológico está indicado iniciar?",
+  "opciones": {
+   "A": "Amiodarona.",
+   "B": "Calcioantagonistas.",
+   "C": "Noradrenalina.",
+   "D": "Dopamina."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación al tratamiento, si el paciente continúa con PAS < 90 mmHg, indique la respuesta FALSA:",
+  "opciones": {
+   "A": "El Cloruro Mórfico se debe evitar, ya que se asocia con una mayor frecuencia de ventilación mecánica, hospitalización prolongada, más ingresos en la unidad de cuidados intensivos y mayor mortalidad.",
+   "B": "Administrar diuréticos a dosis bajas, e incrementar según respuesta del paciente.",
+   "C": "Estaría indicado administrar un bolo intravenoso de inhibidores de la fosfodiesterasa tipo 3 o Levosimendán.",
+   "D": "Está indicado tratamiento con fármacos inotrópicos. CASO PRÁCTICO 2: Se trata de una mujer de 68 años de edad, con oxigenoterapia crónica domiciliaria a 1,5 litros/minuto (l/min) durante 24 horas al día, que atendemos en su domicilio. La paciente refiere presentar empeoramiento súbito de su disnea hasta hacerse de reposo, tendencia al sueño y frecuencia respiratoria de 30 respiraciones por minuto (rpm). Refiere el familiar que lleva 3 días de evolución con fiebre de hasta 38,5ºC, aumento de la tos y de la expectoración, que es más espesa y de coloración verdosa. Revisando su historia clínica, encontramos una espirometría realizada en su centro de salud hace un mes con los siguientes resultados: el FEV1 (volumen espiratorio forzado en el primer segundo) es de 35% del teórico, y un cociente FEV1/FVC (capacidad vital forzada) postbroncodilatación era de 0,5. También existe registro de una puntuación en la escala de disnea modificada del Medical Research Council (mMRC) de 3 en situación basal, y una puntuación en el cuestionario CAT (COPD Assessment Test) de 11. La paciente refiere clínica similar a la actual hace 11 meses, que no precisó ingreso hospitalario."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cómo clasificaría a esta paciente a partir de los datos de la historia clínica?",
+  "opciones": {
+   "A": "EPOC. Grado 3. Grupo E de la Gold (agudizador y sintomático).",
+   "B": "EPOC. Grado 3. Grupo B de la Gold (no agudizador y sintomático).",
+   "C": "EPOC. Grado 4. Grupo D de la Gold (no agudizador y asintomático).",
+   "D": "EPOC. Grado 4. Grupo B de la Gold (no agudizador y sintomático)."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Respecto a la derivación de este paciente al hospital, ¿qué respuesta es la correcta?",
+  "opciones": {
+   "A": "Todas las agudizaciones de EPOC requieren valoración hospitalaria.",
+   "B": "En caso de tener una saturación de oxígeno mayor del 92% con gafas nasales a 1,5 l/min, no requiere derivación.",
+   "C": "Por ser un EPOC grave (FEV1 < 50%), la agudización requiere asistencia hospitalaria.",
+   "D": "La imposibilidad de controlar la enfermedad en domicilio no es un criterio de derivación."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Cuando usted explora a la paciente, presenta fiebre de 38,5ºC, tensión arterial (TA) de 137/84 mmHg, frecuencia respiratoria de 35 rpm, saturación -con gafas nasales a 1,5 l/min- del 78%, y una auscultación con una disminución generalizada del murmullo vesicular, roncus y sibilancias. Se extrae una gasometría arterial que muestra un pH de 7,36, una PaO2 de 48, una PaCO2 de 57 y un CO3H de 28. ¿Qué haría en este momento?",
+  "opciones": {
+   "A": "Adecuar el método de oxigenación teniendo en cuenta el trabajo respiratorio y la respuesta de la saturación de la paciente.",
+   "B": "Administrar la FiO2 necesaria para conseguir una saturación por encima del 95%.",
+   "C": "Ante el riesgo de COVID-19, siempre usar una mascarilla reservorio durante el traslado.",
+   "D": "CPAP a 4 cmH2O con una FiO2 del 50%."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "La paciente ha sido trasladada con mascarilla reservorio al hospital. A su llegada presenta una saturación del 100 %. Se repite la gasometría arterial y presenta un pH de 7,32, una PO2 107, una PCO2 de 78 y un CO3H de 29. Se opta por retirar la mascarilla reservorio y se coloca una mascarilla tipo Venturi con una FiO2 del 28%. Tras unos minutos, la saturación se mantiene estable en el 82%. Señale la actuación más correcta:",
+  "opciones": {
+   "A": "Aumentar la FiO2 de la mascarilla tipo Venturi por encima del 28% hasta mantener una saturación del 95%.",
+   "B": "Aumentar la FiO2 de la mascarilla tipo Venturi por encima del 28% hasta mantener una saturación del 85-90%.",
+   "C": "Colocar una BiPAP con una PS (presión de soporte) menor de 6 cmH2O.",
+   "D": "Colocar una BiPAP con una PS (presión de soporte) al menos de 10 cmH2O."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "La paciente, tras tratamiento en observación con corticoides intravenosos, antibiótico y broncodilatadores, ha mejorado clínicamente. Tras 8 horas de estancia en área de observación mantiene saturación del 95% con gafas nasales a 1,5 l/min. En la analítica destaca una leucocitosis de 13.32 x 10^3/µL, con un 82% de neutrófilos, y una eosinofilia de 302 /μl. La radiografía de tórax no muestra imágenes de condensación. Con vistas al alta, revisamos su tratamiento broncodilatador previo al ingreso que consistía en un LABA (ß2-miméticos inhalados de acción prolongada) más un LAMA (anticolinérgicos inhalados de acción prolongada). Señale la respuesta correcta:",
+  "opciones": {
+   "A": "Mantener la antibioterapia en domicilio hasta completar la pauta. Añadir un SABA de rescate. Prescribir una pauta de corticoides en descenso.",
+   "B": "Al tratarse de una agudización de origen infeccioso, no prescribir corticoides inhalados por riesgo de neumonía.",
+   "C": "Mantener la antibioterapia en domicilio hasta completar la pauta. Prescribir una pauta oral de Prednisona durante 5-7 días. Añadir un corticoide inhalado a su tratamiento broncodilatador previo y programar una revisión.",
+   "D": "Mantener la antibioterapia en domicilio hasta completar la pauta. Prescribir una pauta oral de Prednisona durante 5-7 días. Añadir un corticoide inhalado a su tratamiento broncodilatador previo durante 30 días y programar una revisión. CASO PRACTICO 3: Avisan por episodio de dolor torácico en domicilio, en varón de 71 años. A la llegada del equipo de emergencias (13 min), encuentra al paciente postrado en un sillón con una mano en el pecho, pálido y sudoroso, refiriendo dolor centrotorácico opresivo irradiado a brazo izquierdo y náuseas. El hijo comenta que ha comenzado con dicha clínica hace 25 min, mientras veía un partido de fútbol en televisión. Antecedentes Personales: No alergias medicamentosas conocidas. HTA. DM tipo II. Sin cardiopatía previa conocida. Accidente isquémico transitorio (AIT) en 2020 sin secuelas. Tratamiento domiciliario: Ramipril 5 mgr 1 comp/24 horas. Metformina 850 mgr 1 comp/24 horas, AAS (Ácido acetil salicílico) 100 mgr 1 comp/24 horas. Exploración Física: Tensión arterial 178/93 mmHg, Frecuencia cardiaca de 88 lpm (latidos por minuto), Saturación Oxígeno 97% basal. Afebril. Eupneico en reposo con frecuencia respiratoria de 15 rpm (respiraciones por minuto). Consciente, orientado y colaborador, regular estado general. Pálido y sudoroso. Auscultación cardíaca: tonos rítmicos, sin soplos. Auscultación pulmonar: murmullo vesicular conservado. No crepitantes. Abdomen: blando y depresible, no doloroso a la palpación; no defensa abdominal. Miembros inferiores: no edemas, no signos de TVP (trombosis venosa profunda). Pulsos conservados."
+  },
+  "respuesta_correcta": "C"
+ }
+]

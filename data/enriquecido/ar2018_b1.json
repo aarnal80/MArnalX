@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Los años de vida ganados ajustados por calidad (AVAC) se usan en los estudios de:",
+  "opciones": {
+   "A": "Coste-Utilidad.",
+   "B": "Coste-Beneficio.",
+   "C": "Coste-Efectividad.",
+   "D": "Coste-Eficacia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 30, "tema": "Evaluación de Tecnologías Sanitarias: Procedimientos de evaluación. Cartera de Servicios del Sistema Nacional de Salud."},
+  "explicacion": {
+   "correcta": "Los AVAC (QALY) combinan cantidad y calidad de vida en una única medida de resultado, y son la unidad propia de los análisis de coste-utilidad. La clave para resolver esta pregunta es asociar 'ajustados por calidad' con la 'utilidad', que pondera los años de vida por un factor de calidad entre 0 y 1.",
+   "incorrectas": {
+    "B": "En el análisis coste-beneficio tanto los costes como los resultados se expresan en unidades monetarias, no en AVAC.",
+    "C": "El análisis coste-efectividad mide los resultados en unidades clínicas naturales (años de vida ganados, mmHg, casos evitados), sin ajustar por calidad.",
+    "D": "El coste-eficacia no es una categoría de evaluación económica estandarizada con los AVAC como unidad; la unidad de calidad de vida define el coste-utilidad."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En la gestión por procesos, la representación gráfica de la estructura de procesos de un sistema se denomina:",
+  "opciones": {
+   "A": "Diagrama de flujos.",
+   "B": "Mapa de procesos.",
+   "C": "Sistema operativo.",
+   "D": "Diagrama de Pareto."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 37, "tema": "Evaluación y mejora de la calidad. Modelos de Gestión de la Calidad. Diseño de un programa de calidad."},
+  "explicacion": {
+   "correcta": "El mapa de procesos es la representación gráfica global que muestra la estructura y las interrelaciones del conjunto de procesos (estratégicos, operativos y de apoyo) de una organización. Conviene diferenciarlo del diagrama de flujo, que detalla un único proceso paso a paso.",
+   "incorrectas": {
+    "A": "El diagrama de flujo representa la secuencia de actividades de un proceso concreto, no la estructura global de todos los procesos del sistema.",
+    "C": "Sistema operativo es un término informático y no corresponde a ninguna herramienta de la gestión por procesos.",
+    "D": "El diagrama de Pareto es una herramienta de priorización (regla 80/20) para ordenar problemas por frecuencia, no para representar la estructura de procesos."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Indicar la respuesta INCORRECTA en relación con los tipos de nombramiento de personal estatutario temporal, en la regulación contenida en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+  "opciones": {
+   "A": "De carácter eventual.",
+   "B": "De sustitución",
+   "C": "De interinidad",
+   "D": "De alta dirección."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 14, "tema": "Ley 55/2003 del Estatuto Marco de personal Estatutario de los Servicios de Salud (I). Principios generales, estructura, contenidos."},
+  "explicacion": {
+   "correcta": "El artículo 9 de la Ley 55/2003 establece tres tipos de nombramiento de personal estatutario temporal: interino, eventual y de sustitución. El 'nombramiento de alta dirección' no existe en este artículo, por lo que es la afirmación INCORRECTA que pide la pregunta. Conviene memorizar la tríada interino-eventual-sustitución.",
+   "incorrectas": {
+    "A": "El nombramiento eventual sí es uno de los tipos previstos (art. 9), para prestación de servicios de naturaleza temporal, coyuntural o extraordinaria.",
+    "B": "El nombramiento de sustitución es uno de los tres tipos legales, para cubrir a un titular con reserva de plaza.",
+    "C": "El nombramiento de interinidad está expresamente recogido en el art. 9 para plaza vacante cuando se desee su provisión con carácter temporal."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre la potencia de un test es cierta?",
+  "opciones": {
+   "A": "Es independiente del tamaño muestral.",
+   "B": "Es específico de cada tipo de prueba estadística.",
+   "C": "Es la capacidad que tiene un test de encontrar diferencias significativas.",
+   "D": "Es equivalente al error alfa."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 26, "tema": "Metodología de la Investigación: El método científico. Diseño de un proyecto de investigación. Estadística aplicada a los estudios de Medicina."},
+  "explicacion": {
+   "correcta": "La potencia estadística (1 - beta) es la probabilidad de detectar una diferencia o efecto cuando este realmente existe, es decir, la capacidad del test de encontrar diferencias estadísticamente significativas. Es el complementario del error tipo II (beta).",
+   "incorrectas": {
+    "A": "Es falsa: la potencia aumenta al aumentar el tamaño muestral, por lo que sí depende de él.",
+    "B": "La potencia es un concepto general de contraste de hipótesis, no una propiedad exclusiva de un tipo concreto de prueba estadística.",
+    "D": "La potencia se relaciona con el error beta (1 - beta), no con el error alfa, que es la probabilidad de falso positivo (error tipo I)."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "El artículo 122 de la ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas establece que el plazo para la interposición del recurso de alzada, si el acto fuera expreso será:",
+  "opciones": {
+   "A": "Un mes.",
+   "B": "Dos meses.",
+   "C": "Tres meses.",
+   "D": "Cuatro meses."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 8, "tema": "Los interesados en el procedimiento administrativo. Cómputo de plazos. Revisión de actos en vía administrativa: Revisión de oficio y recursos administrativos."},
+  "explicacion": {
+   "correcta": "El artículo 122 de la Ley 39/2015 fija el plazo del recurso de alzada en un mes si el acto es expreso, y en tres meses si el acto es presunto (silencio administrativo), contados desde el día siguiente a aquel en que se produzcan los efectos del silencio. El dato clave a recordar es la pareja 1 mes (expreso) / 3 meses (presunto).",
+   "incorrectas": {
+    "B": "Dos meses es el plazo del recurso contencioso-administrativo frente a actos expresos, no del recurso de alzada.",
+    "C": "Tres meses es el plazo del recurso de alzada cuando el acto es presunto (silencio), no cuando es expreso.",
+    "D": "Cuatro meses no corresponde a ningún plazo de recurso administrativo previsto en el artículo 122."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes NO tienen la consideración de fuente de acceso público según el artículo 3 de la Ley de Protección de datos de carácter personal?",
+  "opciones": {
+   "A": "Los repertorios telefónicos en los términos previstos por su normativa específica.",
+   "B": "Los ficheros creados por las Fuerzas y Cuerpos de Seguridad que contengan datos de carácter personal recogidos para fines administrativos.",
+   "C": "Los diarios y boletines oficiales.",
+   "D": "Las listas de personas pertenecientes a grupos de profesionales que contengan únicamente los datos de nombre, título, profesión, actividad, grado académico, dirección e indicación de su pertenencia al grupo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 5, "tema": "El régimen jurídico de la protección de datos de carácter personal: Disposiciones generales. Principios de la protección de datos."},
+  "explicacion": {
+   "correcta": "El artículo 3.j de la antigua LOPD 15/1999 enumeraba como fuentes de acceso público el censo promocional, los repertorios telefónicos, las listas de colegios profesionales y los diarios y boletines oficiales y medios de comunicación. Los ficheros policiales con datos recogidos para fines administrativos NO son fuente de acceso público, sino datos de acceso restringido. La pregunta se basa en la normativa LOPD vigente en 2018.",
+   "incorrectas": {
+    "A": "Los repertorios telefónicos, en los términos de su normativa específica, sí figuran expresamente como fuente de acceso público.",
+    "C": "Los diarios y boletines oficiales están incluidos de forma explícita entre las fuentes de acceso público.",
+    "D": "Las listas de profesionales con datos limitados (nombre, título, profesión, etc.) son una fuente de acceso público recogida en la ley."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "La evidencia científica que se requiere para elaborar una guía de práctica clínica puede proceder de tres tipos de fuentes de información, ¿cuál NO es correcta?",
+  "opciones": {
+   "A": "Guías de práctica clínica.",
+   "B": "Revisiones sistemáticas y otras síntesis de la evidencia científica.",
+   "C": "Estudios con evidencia de sesgos.",
+   "D": "Estudios primarios."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 33, "tema": "Aplicación de las evidencias a la toma de decisiones clínicas. Guías clínicas. Proyecto Guía-Salud."},
+  "explicacion": {
+   "correcta": "Para elaborar una guía de práctica clínica las fuentes de evidencia son tres: otras guías de práctica clínica, revisiones sistemáticas/síntesis de evidencia y estudios primarios. Los 'estudios con evidencia de sesgos' no constituyen una fuente válida; precisamente se descartan o se penaliza su calidad metodológica, por lo que es la opción incorrecta solicitada.",
+   "incorrectas": {
+    "A": "Las guías de práctica clínica ya existentes son una de las tres fuentes legítimas de evidencia para elaborar una nueva guía.",
+    "B": "Las revisiones sistemáticas y otras síntesis de la evidencia son la fuente de mayor nivel y una de las tres reconocidas.",
+    "D": "Los estudios primarios (ensayos clínicos, estudios observacionales) constituyen la tercera fuente de evidencia."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Según el artículo 64 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario cuando acceda a plaza de formación sanitaria especializada mediante residencia, será declarado en situación de:",
+  "opciones": {
+   "A": "Servicio activo.",
+   "B": "Excedencia voluntaria",
+   "C": "Servicios Especiales",
+   "D": "Comisión de servicios."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 18, "tema": "Jornada de trabajo, permisos y licencias. Situaciones del personal estatutario."},
+  "explicacion": {
+   "correcta": "El artículo 64 de la Ley 55/2003 establece que el personal estatutario fijo será declarado en situación de servicios especiales, entre otros supuestos, cuando acceda a plaza de formación sanitaria especializada mediante residencia. Esta situación protege sus derechos (reserva de plaza, cómputo de antigüedad) mientras se forma.",
+   "incorrectas": {
+    "A": "El servicio activo es la situación ordinaria de desempeño del puesto; al pasar a la residencia se cambia precisamente a servicios especiales.",
+    "B": "La excedencia voluntaria no conlleva reserva de plaza ni se aplica al acceso a formación especializada por residencia.",
+    "D": "La comisión de servicios es un mecanismo de provisión temporal de otro puesto, no la situación administrativa prevista para el acceso a la residencia."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos órganos administrativos centrales NO pertenece a la estructura del Servicio Aragonés de Salud?",
+  "opciones": {
+   "A": "Dirección de Área de Coordinación Asistencial.",
+   "B": "Dirección de Área de Farmacia.",
+   "C": "Dirección de Área Económico Administrativa.",
+   "D": "Dirección de Área de Recursos Humanos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 25, "tema": "Estructura del Departamento de Sanidad de Aragón y del Servicio Aragonés de la Salud. Los Sectores sanitarios."},
+  "explicacion": {
+   "correcta": "Según la estructura orgánica de los servicios centrales del Servicio Aragonés de Salud, existen las Direcciones de Área de Coordinación Asistencial, Económico Administrativa y de Recursos Humanos, dependientes de la Dirección Gerencia. No existe como tal una Dirección de Área de Farmacia entre estos órganos centrales, por lo que es la respuesta correcta.",
+   "incorrectas": {
+    "A": "La Dirección de Área de Coordinación Asistencial sí forma parte de la estructura de servicios centrales del Salud.",
+    "C": "La Dirección de Área Económico Administrativa es uno de los órganos centrales del Servicio Aragonés de Salud.",
+    "D": "La Dirección de Área de Recursos Humanos pertenece a la estructura central del Salud."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En el análisis de indicadores sanitarios, el concepto de complejidad de la casuística se refiere a:",
+  "opciones": {
+   "A": "Los avances tecnológicos de la atención sanitaria.",
+   "B": "Las diferencias en las características y necesidades de los pacientes atendidos.",
+   "C": "La complejidad de las técnicas estadísticas de análisis.",
+   "D": "Los cambios en los sistemas y tecnologías de la información."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 37, "tema": "Evaluación y mejora de la calidad. Modelos de Gestión de la Calidad. Diseño de un programa de calidad."},
+  "explicacion": {
+   "correcta": "La complejidad de la casuística (case-mix) hace referencia a la diversidad de tipos y gravedad de los pacientes atendidos, es decir, a las diferencias en sus características clínicas y necesidades asistenciales. Es la base del ajuste por casuística que permite comparar resultados entre centros con poblaciones distintas.",
+   "incorrectas": {
+    "A": "Los avances tecnológicos describen la dotación o modernización de los servicios, no la mezcla de pacientes (case-mix).",
+    "C": "La complejidad estadística de los métodos de análisis es un aspecto metodológico ajeno al concepto de casuística clínica.",
+    "D": "Los cambios en sistemas de información se refieren a la infraestructura de datos, no a las características de los pacientes atendidos."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estas exploraciones, NO es necesaria, en un estudio inicial de síndrome confusional agudo?",
+  "opciones": {
+   "A": "Sedimento de orina.",
+   "B": "Radiografía de tórax.",
+   "C": "TAC cerebral.",
+   "D": "Gasometría venosa."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 92, "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "El síndrome confusional agudo (delirium) es habitualmente de causa sistémica/metabólica o infecciosa, por lo que el estudio inicial básico busca causas tratables: sedimento (infección urinaria), radiografía de tórax (foco respiratorio), gasometría (hipoxia, alteraciones metabólicas), glucemia e iones. La TAC cerebral NO es necesaria de rutina en el estudio inicial; se reserva para focalidad neurológica, traumatismo o ausencia de causa identificada.",
+   "incorrectas": {
+    "A": "El sedimento de orina sí está indicado de inicio, porque la infección urinaria es una causa frecuente de delirium, sobre todo en ancianos.",
+    "B": "La radiografía de tórax es parte del estudio básico, ya que una neumonía o insuficiencia respiratoria pueden desencadenar el cuadro.",
+    "D": "La gasometría venosa permite detectar hipoxemia, hipercapnia o trastornos del equilibrio ácido-base como causa, por lo que es necesaria."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Hacia cuál de estas posibilidades diagnósticas orientaría, como primera opción, un paciente en situación de shock con presión venosa central elevada y al que todavía NO se ha realizado ninguna reposición de volumen?",
+  "opciones": {
+   "A": "Fractura inestable de pelvis.",
+   "B": "Rotura de víscera abdominal.",
+   "C": "Lesión medular aguda.",
+   "D": "Taponamiento cardíaco."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 50, "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "Una presión venosa central (PVC) elevada en un paciente en shock al que aún no se ha repuesto volumen orienta a shock obstructivo o cardiogénico. El taponamiento cardíaco impide el llenado ventricular y eleva las presiones de llenado (PVC alta, ingurgitación yugular), encajando con el patrón descrito (triada de Beck).",
+   "incorrectas": {
+    "A": "La fractura inestable de pelvis produce shock hemorrágico/hipovolémico, que cursa con PVC baja por pérdida de volumen.",
+    "B": "La rotura de víscera abdominal causa hemorragia y shock hipovolémico, con PVC disminuida, no elevada.",
+    "C": "La lesión medular aguda produce shock neurogénico (vasodilatación y bradicardia), con PVC típicamente baja o normal, no elevada."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Indique cuál de las siguientes variables del CMBDU (conjunto mínimo básico de datos Urgencia) NO es de triaje, según el Manual de Organización y Funcionamiento de los Servicios Hospitalarios de Urgencias de Aragón:",
+  "opciones": {
+   "A": "Número de reevaluaciones.",
+   "B": "Motivo de la readmisión.",
+   "C": "Readmisión en 48h.",
+   "D": "Visita en sala rápida, ambulantes o alta resolución."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 109, "tema": "Manual de organización y funcionamiento de los Servicios de Urgencia hospitalarios de la Comunidad Autónoma de Aragón."},
+  "explicacion": {
+   "correcta": "Según el Manual de Organización y Funcionamiento de los Servicios de Urgencias de Aragón, entre las variables de triaje del CMBDU figuran el número de reevaluaciones, el motivo de readmisión y la visita en sala rápida/alta resolución, mientras que la 'readmisión en 48 h' se considera una variable de tipo administrativo/de calidad y no propiamente de triaje, siendo por ello la respuesta correcta.",
+   "incorrectas": {
+    "A": "El número de reevaluaciones sí es una variable de triaje, pues refleja la actividad del proceso de clasificación.",
+    "B": "El motivo de la readmisión está incluido entre las variables de triaje del CMBDU.",
+    "D": "La visita en sala rápida, ambulantes o alta resolución se recoge como variable asociada al triaje."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Varón de 75 años, sin antecedentes de interés, que presenta desde hace una hora afasia motora con desviación de la comisura bucal y desorientación. NIHSS 6 puntos. Rankin 0 puntos. Se le realiza TC cerebral que informan sin patología, con ASPECT 10, angioTC cerebral no visualiza trombo. Señale la respuesta CORRECTA.",
+  "opciones": {
+   "A": "No está indicada la fibrinolisis, ya que el angioTC cerebral no demuestra trombo.",
+   "B": "En este caso al tener un NIHSS bajo no está indicada la fibrinolisis.",
+   "C": "Podemos descartar un ictus, ya que los estudios con TC cerebral son normales.",
+   "D": "Es candidato a fibrinolisis con alteplasa si no existen contraindicaciones."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 68, "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "Se trata de un ictus isquémico agudo de 1 hora de evolución (dentro de la ventana terapéutica de 4,5 h), con clínica deficitaria incapacitante (afasia), Rankin previo 0 y TC sin hemorragia ni signos precoces extensos (ASPECTS 10). Cumple criterios para fibrinolisis intravenosa con alteplasa salvo contraindicaciones, que es la conducta correcta.",
+   "incorrectas": {
+    "A": "La fibrinolisis intravenosa no requiere demostrar el trombo en angioTC; la ausencia de oclusión visible no la contraindica.",
+    "B": "Un NIHSS de 6 con afasia es un déficit incapacitante; la fibrinolisis está indicada y no debe negarse solo por la puntuación.",
+    "C": "Un TC normal no descarta un ictus isquémico agudo, ya que en las primeras horas suele ser normal; el diagnóstico es clínico."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Ante una Catastrofe, el Triaje Internacional se basa en la catalogación del paciente con un código de colores. En función de dicho código ¿a que pacientes se considera de actuación NO urgente?",
+  "opciones": {
+   "A": "Amarillo y Rojo.",
+   "B": "Verde y Negro.",
+   "C": "Amarillo y Negro.",
+   "D": "Verde y Amarillo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 107, "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."},
+  "explicacion": {
+   "correcta": "En el triaje de catástrofes por colores, el rojo es prioridad inmediata (extrema urgencia) y el amarillo urgente (diferible). El verde corresponde a leves (no urgentes, pueden esperar) y el negro a fallecidos o sin posibilidad de supervivencia, por lo que ninguno de los dos requiere actuación urgente: la respuesta es verde y negro.",
+   "incorrectas": {
+    "A": "El rojo es la máxima prioridad (atención inmediata), por lo que no puede considerarse de actuación no urgente.",
+    "C": "El amarillo es urgente (prioridad 2), de modo que no encaja en la categoría de no urgente.",
+    "D": "Aunque el verde es no urgente, el amarillo sí es urgente, lo que invalida esta combinación."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Con respecto a las pruebas complementarias en el cólico renal, señale la respuesta correcta:",
+  "opciones": {
+   "A": "El TAC helicoidal sin contraste es la prueba de imagen más sensible y específica.",
+   "B": "En todos los pacientes con cólico renal debe realizarse una ecografía abdominal reglada.",
+   "C": "Es imprescindible realizar analítica básica de sangre en el cólico renal simple.",
+   "D": "El 60% de los cálculos renales son radiopacos."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 76, "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo."},
+  "explicacion": {
+   "correcta": "El TAC helicoidal sin contraste es la prueba de imagen de elección en la litiasis renoureteral por su elevada sensibilidad y especificidad, detectando cálculos de casi cualquier composición (incluidos los radiotransparentes) y permitiendo valorar la obstrucción. Es el patrón de referencia diagnóstico actual.",
+   "incorrectas": {
+    "B": "No es preciso realizar ecografía reglada a todos los pacientes; el cólico simple no complicado puede manejarse clínicamente sin imagen urgente.",
+    "C": "En el cólico renal simple no complicado la analítica de sangre no es imprescindible; se reserva para cuadros complicados (fiebre, riñón único, deterioro de función renal).",
+    "D": "El dato es incorrecto: la mayoría de los cálculos (en torno al 80-90%, los cálcicos) son radiopacos, no el 60%."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta INCORRECTA en relación con el Síndrome de Menière:",
+  "opciones": {
+   "A": "Crisis de vértigo rotatorio de unas horas de duración acompañado de náuseas y vómitos.",
+   "B": "Acúfenos.",
+   "C": "Intervalos asintomáticos entre crisis.",
+   "D": "No presentan hipoacusia."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 90, "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."},
+  "explicacion": {
+   "correcta": "El síndrome de Menière se define por la triada clásica de vértigo episódico, acúfenos e hipoacusia neurosensorial fluctuante (con sensación de plenitud ótica). Afirmar que NO presentan hipoacusia es falso, porque la hipoacusia es un componente esencial del cuadro, de ahí que sea la respuesta incorrecta solicitada.",
+   "incorrectas": {
+    "A": "Es correcta: las crisis de vértigo rotatorio de minutos a horas con cortejo vegetativo (náuseas y vómitos) son típicas del Menière.",
+    "B": "Es correcta: los acúfenos forman parte de la triada característica de la enfermedad.",
+    "C": "Es correcta: el curso es recurrente, con intervalos asintomáticos entre las crisis."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "De las siguientes afirmaciones respecto a la clínica del coma mixedematoso, señale la INCORRECTA:",
+  "opciones": {
+   "A": "Son factores precipitantes traumatismos, intervenciones quirúrgicas, quemaduras e IAM.",
+   "B": "Si la temperatura es normal debemos sospechar infección o sepsis.",
+   "C": "La insuficiencia cardiaca congestiva es frecuente y se asocia a derrame pericárdico.",
+   "D": "Se pueden asociar alteraciones psiquiátricas tipo paranoia y alucinaciones."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 73, "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "En el coma mixedematoso la afirmación a marcar como INCORRECTA es la C: aunque el hipotiroidismo grave puede acompañarse de derrame pericárdico, la insuficiencia cardiaca congestiva NO es un hallazgo frecuente ni la regla del cuadro; predominan la hipotermia, la bradicardia y la depresión del nivel de conciencia. La pregunta busca el enunciado que sobredimensiona la insuficiencia cardiaca.",
+   "incorrectas": {
+    "A": "Es correcta: traumatismos, cirugía, quemaduras, infecciones y el IAM actúan como factores precipitantes del coma mixedematoso.",
+    "B": "Es correcta: dado que la hipotermia es característica, una temperatura normal debe hacer sospechar una infección/sepsis concomitante que la enmascare.",
+    "D": "Es correcta: el hipotiroidismo grave puede cursar con alteraciones psiquiátricas (la clásica 'locura mixedematosa' con paranoia y alucinaciones)."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes medidas es INCORRECTA en el tratamiento de la pancreatitis aguda?",
+  "opciones": {
+   "A": "En el manejo del dolor se usan pirazolonas y opiáceos.",
+   "B": "Se recomienda hidratación intravenosa agresiva, si la situación cardiaca lo permite, en las 12-24 primeras horas.",
+   "C": "Nutrición parenteral precoz.",
+   "D": "No se recomienda el uso de antibióticos de forma profiláctica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 63, "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "En la pancreatitis aguda la nutrición de elección es la enteral precoz (que preserva la barrera intestinal y reduce complicaciones infecciosas), no la parenteral. La nutrición parenteral se reserva para cuando la enteral no es tolerada o es insuficiente, por lo que afirmar 'nutrición parenteral precoz' es la medida incorrecta.",
+   "incorrectas": {
+    "A": "Es correcta: el control del dolor con analgésicos como metamizol (pirazolonas) y opiáceos es parte del tratamiento.",
+    "B": "Es correcta: la fluidoterapia intravenosa precoz y agresiva en las primeras 12-24 h, ajustada a la tolerancia cardiaca, es una recomendación clave.",
+    "D": "Es correcta: no se recomienda la antibioterapia profiláctica de rutina en la pancreatitis aguda, ni siquiera en la necrotizante estéril."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la afirmación correcta en relación con el tratamiento de un enfermo en situación de coma de origen indeterminado:",
+  "opciones": {
+   "A": "No se aconseja la administración rutinaria de flumazenilo ya que puede producir convulsiones en pacientes con consumo crónico de benzodiazepinas.",
+   "B": "Si se descarta hipoglucemia la administración de glucosa hipertónica mejora el deterioro neuronal.",
+   "C": "La naloxona no está indicada en pacientes con examen neurológico no sugestivo de coma estructural que presenten miosis, depresión respiratoria y estigmas de venopunción.",
+   "D": "Ante la confirmación o sospecha de hipertensión intracraneal se deben administrar siempre corticoides endovenosos."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 66, "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."},
+  "explicacion": {
+   "correcta": "El flumazenilo no debe administrarse de forma rutinaria en el coma de origen indeterminado porque en consumidores crónicos de benzodiazepinas (o intoxicaciones mixtas con proconvulsivantes) puede precipitar convulsiones y un síndrome de abstinencia grave. Su uso debe ser muy selectivo, lo que hace correcta la afirmación A.",
+   "incorrectas": {
+    "B": "Es falsa: si se ha descartado la hipoglucemia, administrar glucosa hipertónica no aporta beneficio e incluso puede ser perjudicial en el tejido neuronal isquémico.",
+    "C": "Es falsa: precisamente la triada de miosis, depresión respiratoria y estigmas de venopunción sugiere intoxicación opioide, donde la naloxona SÍ está indicada.",
+    "D": "Es falsa: los corticoides no están indicados de forma sistemática en la hipertensión intracraneal; solo son útiles en el edema vasogénico tumoral, no en todas las causas."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En la sospecha de meningitis aguda bacteriana, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+  "opciones": {
+   "A": "Debe extraerse sangre y hemocultivos previamente a la punción lumbar.",
+   "B": "Iniciar antibioterapia empírica tras los hemocultivos antes de la punción lumbar.",
+   "C": "Utilizar bolo de corticoides previo o a la vez que el antibiótico.",
+   "D": "Administrar fenitoina para profilaxis de crisis convulsiva."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 69, "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "En la meningitis bacteriana aguda no se recomienda la profilaxis anticonvulsivante rutinaria con fenitoína; los antiepilépticos solo se usan si aparecen crisis. Por tanto, administrar fenitoína de forma profiláctica es la afirmación incorrecta solicitada.",
+   "incorrectas": {
+    "A": "Es correcta: se extraen hemocultivos antes de iniciar el antibiótico para aumentar el rendimiento microbiológico.",
+    "B": "Es correcta: no debe demorarse el antibiótico empírico esperando la punción lumbar; se administra tras los hemocultivos si hay retraso o contraindicación de la PL.",
+    "C": "Es correcta: la dexametasona debe administrarse antes o junto a la primera dosis de antibiótico para reducir complicaciones (sobre todo en neumococo)."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos criterios es mayor, en el diagnóstico diferencial de las taquicardias con QRS ancho, a favor de una taquicardia ventricular?",
+  "opciones": {
+   "A": "Irregularidad RR.",
+   "B": "Disociación auriculo ventricular.",
+   "C": "Inicio del QRS rápido (intervalo RS en precordiales < 100 mseg).",
+   "D": "Imagen de bloqueo de rama derecha trifásico en V1-V2."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 47, "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."},
+  "explicacion": {
+   "correcta": "La disociación auriculoventricular (actividad auricular y ventricular independientes) es un criterio mayor y muy específico de taquicardia ventricular, junto con los latidos de captura y de fusión. Su presencia prácticamente confirma el origen ventricular de una taquicardia de QRS ancho.",
+   "incorrectas": {
+    "A": "La irregularidad del RR orienta más a fibrilación auricular conducida con aberrancia, no es criterio de TV (la TV suele ser regular).",
+    "C": "Un intervalo RS corto (<100 ms) en precordiales orienta a origen supraventricular; es el RS prolongado (>100 ms) el que apoya la TV (criterio de Brugada).",
+    "D": "Una morfología trifásica típica de bloqueo de rama derecha en V1-V2 sugiere conducción aberrante supraventricular; las morfologías atípicas son las que apoyan la TV."
+   }
+  }
+ }
+]

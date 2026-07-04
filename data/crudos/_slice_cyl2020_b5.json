@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la reacción hemolítica aguda postransfusional:",
+  "opciones": {
+   "A": "La reacción hemolítica aguda es el efecto adverso más grave",
+   "B": "Los hematíes transfundidos son destruidos masivamente por anticuerpos presentes en el plasma del receptor",
+   "C": "El uso de la dopamina no está indicado en su tratamiento",
+   "D": "La causa más frecuente es la incompatibilidad ABO"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Mujer de 40 años que acude a urgencias por un cuadro de afectación del estado general, placas eritematosa, dolorosas, de superficie irregular (\"en montaña rusa\"), localizados en cara, cuello y parte superior del tronco. ¿Cuál de los siguientes cuadros es el más probable?:",
+  "opciones": {
+   "A": "Eritema nudoso",
+   "B": "Síndrome de Sweet",
+   "C": "Púrpura de Schönlein-Henoch",
+   "D": "Granuloma piógeno"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Varón de 70 años que presenta ampollas tensas en abdomen, axilas e ingles, sin afectación mucosa ni del estado general y signo de Nikolsky negativo. Le diagnosticaremos de:",
+  "opciones": {
+   "A": "Pénfigo vulgar",
+   "B": "Psoriasis guttata",
+   "C": "Penfigoide ampolloso",
+   "D": "Eritema exudativo multiforme"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la Necrolisis epidérmica tóxica:",
+  "opciones": {
+   "A": "Se produce por una reacción adversa a fármacos",
+   "B": "El signo de Nikolsky es positivo",
+   "C": "Las mucosa suelen afectarse",
+   "D": "Deben utilizarse en su tratamiento los Antibióticos y corticoides por vía tópica"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente con intoxicación por Cocaína, señale la INCORRECTA:",
+  "opciones": {
+   "A": "Si presenta crisis convulsivas el tratamiento de elección es el midazolam",
+   "B": "En el caso de arritmias los B-bloqueantes están contraindicados",
+   "C": "Entre las manifestaciones clínicas de la intoxicación aguda pueden aparecer euforia, miosis, hipertermia, agitación y coma",
+   "D": "La diuresis ácida y la hemodiálisis son ineficaces"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La triada clásica de la Encefalopatía de Wernicke incluye:",
+  "opciones": {
+   "A": "Nistagmo y oftalmoplejia, incontinencia de esfínteres y ataxia",
+   "B": "Nistagmo y oftalmoplejia, parálisis facial y ataxia",
+   "C": "Nistagmo y oftalmoplejia, ceguera central y ataxia",
+   "D": "Nistagmo y oftalmoplejia, cambio del estado mental y ataxia"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el tratamiento de la intoxicación aguda por ingestión de cáusticos, señale la FALSA:",
+  "opciones": {
+   "A": "El lavado gástrico y la administración de carbón activado están contraindicados",
+   "B": "La terapia dilucional con agua o leche no se recomienda",
+   "C": "Los ácidos producen daño tisular por necrosis de coagulación",
+   "D": "No es necesario realizar Radiografía de tórax y simple de abdomen"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta CORRECTA en la intoxicación aguda por salicilatos:",
+  "opciones": {
+   "A": "La manifestaciones clínicas de la intoxicación aguda aparecen después de un periodo de latencia de 2h",
+   "B": "La dosis tóxica de salicilatos en el adulto es de 10 gr",
+   "C": "La glucemia debe seriarse debido al riesgo de hiperglucemia en esta intoxicación",
+   "D": "Está contraindicado el lavado gástrico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Pertenecen al grupo de insecticidas organofosforados, todas menos:",
+  "opciones": {
+   "A": "Paration",
+   "B": "Malation",
+   "C": "DDT",
+   "D": "Albicarb"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En las intoxicaciones por setas señale la FALSA:",
+  "opciones": {
+   "A": "Producen síntomas colinérgicos",
+   "B": "Producen síntomas atropínicos",
+   "C": "Si los síntomas aparecen después de transcurridos 6 horas se trata, generalmente, de intoxicaciones leves",
+   "D": "Si presentan hemorragias se administra plasma fresco y vitamina K"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la FALSA en relación a la intoxicación por cianuro:",
+  "opciones": {
+   "A": "El cianuro se produce por la combustión de materias plásticas y espumas de poliuretano",
+   "B": "Origina acidosis láctica con Anión GAP elevado",
+   "C": "La hidroxicobalamina (B12) asociada o no a tiosulfato sódico es el tratamiento de elección",
+   "D": "No produce alteraciones electrocardiográficas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la FALSA en la intoxicación por monóxido de carbono:",
+  "opciones": {
+   "A": "La afinidad de la Hb para el monóxido de carbono es unas 200-300 veces mayor que para el O2",
+   "B": "La pulsioximetría, que determina la saturación periférica de O2, tiene un alto valor",
+   "C": "Entre las complicaciones más importantes están el Edema agudo de pulmón y el Infarto agudo de miocardio",
+   "D": "En las víctimas de incendios puede existir intoxicación conjunta por monóxido y cianuro"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El carbón activado no está indicado en la intoxicación por:",
+  "opciones": {
+   "A": "Intoxicación por Salicilatos",
+   "B": "Intoxicación por Benzodiacepinas",
+   "C": "Intoxicación por Litio",
+   "D": "Intoxicación por B-bloqueantes"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta CORRECTA en relación a la Neuritis óptica:",
+  "opciones": {
+   "A": "Es típica la mácula de color rojo cereza",
+   "B": "Hay que descartar Esclerosis Múltiple y arteritis de la temporal",
+   "C": "No ocasiona pérdida de visión",
+   "D": "La papila óptica no se encuentra afectada"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante un paciente que ha presentado síntomas previos de miodesopsias o fotopsias y aparece una disminución de la visión y una amputación del campo visual, generalmente como \"una cortina\", pensaremos en:",
+  "opciones": {
+   "A": "Una uveítis posterior",
+   "B": "Una hemorragia vítrea",
+   "C": "Un desprendimiento de retina",
+   "D": "Una Neuritis óptica"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Si ante una exploración ocular encontramos signos como una importante disminución de la agudeza visual, un descenso de la presión intraocular (PIO), un alteración de la forma de la pupila, edema conjuntival y aplanamiento de la cámara anterior, pensaremos en:",
+  "opciones": {
+   "A": "Una abrasión ocular",
+   "B": "Una perforación del globo ocular",
+   "C": "Una queratoconjuntivitis actínica",
+   "D": "Una laceración conjuntival"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el absceso periamigdalino señale la CORRECTA:",
+  "opciones": {
+   "A": "Es más frecuente en ancianos",
+   "B": "Clínicamente presenta escaso dolor de garganta y disfagia",
+   "C": "Presenta abombamiento unilateral de la amígdala hacia la línea media",
+   "D": "Precisa drenaje quirúrgico y antibioterapia con Ciprofloxacino"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál no es un vértigo periférico?",
+  "opciones": {
+   "A": "Enfermedad de Méniere",
+   "B": "Neuronitis vestibular",
+   "C": "Esclerosis múltiple",
+   "D": "Síndrome de Ramsey-Hunt"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La otitis externa maligna es producida por:",
+  "opciones": {
+   "A": "Chlamydia trachomatis",
+   "B": "Estreptococo B-hemolítico del grupo A",
+   "C": "Streptococcus pyogenes",
+   "D": "Pseudomona aeruginosa"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación al embarazo ectópico, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Su localización más frecuente es la porción ampular o ístmica de la trompa uterina",
+   "B": "Suele cursar con la triada clásica de amenorrea, metrorragia y dolor",
+   "C": "La ecografía generalmente detecta con nitidez un saco gestacional en el anejo",
+   "D": "El tratamiento definitivo puede ser quirúrgico o médico"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a las hemorragias del segundo y tercer trimestre del embarazo, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "En el desprendimiento de placenta normoinserta, la afectación fetal no depende de la cantidad de placenta desprendida",
+   "B": "La cirugía uterina previa no es un factor de riesgo de la placenta previa",
+   "C": "La clínica del desprendimiento de placenta normoinserta, cursa con hemorragia vaginal abundante y ausencia de dolor abdominal",
+   "D": "Ante una paciente con placenta previa que está estable y el feto no está afectado se debe adoptar una actitud expectante para conseguir la madurez pulmonar"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la patología vulvovaginal:",
+  "opciones": {
+   "A": "La tricomoniasis no está considerada como infección de transmisión sexual",
+   "B": "La vaginitis más frecuente está producida por cándida",
+   "C": "El principal motivo de consulta por una vaginosis bacteriana es la leucorrea y el mal olor",
+   "D": "El tratamiento del primer episodio del herpes genital se realiza con antivírico oral, ya que la vía tópica no está recomendada"
+  },
+  "respuesta_correcta": "C"
+ }
+]

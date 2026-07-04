@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 23,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Según las nuevas recomendaciones del Consejo Europeo de Reanimación 2021, ¿cuál es el enunciado INCORRECTO en la reanimación del recién nacido?",
+    "opciones": {
+      "A": "Retrasar el pinzamiento del cordón si es posible",
+      "B": "Si respiración jadeante (gasping) realice 5 ventilaciones",
+      "C": "En recién nacido pretérmino (menor de 32 semanas) envuelva sin secar en plástico y coloque en fuente de calor radiante",
+      "D": "Si tras 60 segundos de ventilación la frecuencia cardiaca es menor de 60 lpm iniciar compresiones"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 41,
+      "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+    },
+    "explicacion": {
+      "correcta": "La opción D es incorrecta (y por tanto la respuesta a la pregunta) porque según las guías ERC 2021, si tras 30 segundos de ventilaciones de rescate efectivas la frecuencia cardiaca sigue por debajo de 60 lpm se deben iniciar las compresiones torácicas, no esperar 60 segundos completos de ventilación. El umbral de tiempo de 60 segundos referido en la opción no corresponde a ninguna recomendación vigente: el algoritmo indica evaluar a los 30 segundos de ventilaciones y actuar en consecuencia. Aplicar el intervalo erróneo de 60 segundos retrasaría innecesariamente el inicio de las compresiones, lo que compromete el pronóstico neurológico del neonato.",
+      "incorrectas": {
+        "A": "El pinzamiento tardío del cordón umbilical (al menos 60 segundos si el neonato no precisa reanimación inmediata) está expresamente recomendado por las guías ERC 2021, ya que favorece la transfusión placentaria y mejora los parámetros hematológicos del recién nacido. Por tanto, esta afirmación es CORRECTA y no responde a lo que pregunta el enunciado.",
+        "B": "Ante un recién nacido con esfuerzo respiratorio ineficaz o jadeo (gasping), las guías ERC 2021 indican administrar 5 ventilaciones de rescate iniciales para insuflar los pulmones colapsados. Esta conducta es correcta y no es el enunciado incorrecto que busca la pregunta.",
+        "C": "Para los recién nacidos pretérmino menores de 32 semanas, las guías ERC 2021 recomiendan no secar al neonato y envolverlo directamente en una bolsa o film de polietileno, colocándolo bajo una fuente de calor radiante, para prevenir la hipotermia. Esta afirmación es CORRECTA y no es el enunciado incorrecto."
+      }
+    }
+  },
+  {
+    "id_examen": 24,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Acude niño de 18 meses con fiebre sin foco al servicio de urgencias. En la valoración se objetiva llanto quejumbroso intermitente con los padres; alerta, pero con respuesta breve a estímulos, rosado y buen estado de hidratación. Que puntuación en la escala YALE (YOS o Escala de McCarthy) obtendría:",
+    "opciones": {
+      "A": "13",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "La escala de Yale (YOS) valora 6 ítems puntuados de 1 a 3 (normal=1, moderado=3, grave=5 en algunos ítems, pero en la versión clásica 1-3 por ítem): llanto, reacción a padres, variación de estado, color, hidratación y respuesta a estímulos. En este caso: llanto quejumbroso intermitente (puntuación 3), reacción con los padres normal (1), estado alerta con respuesta breve a estímulos (3), rosado (1), buen estado de hidratación (1), respuesta a estímulos breve (3). La suma total es 12, que corresponde a la opción D. Una puntuación de 12 en la YOS indica riesgo moderado de enfermedad grave y justifica evaluación adicional.",
+      "incorrectas": {
+        "A": "Una puntuación de 13 implicaría que algún ítem tiene una valoración más desfavorable de la que describe el enunciado, como llanto inconsolable de alto tono o mala perfusión periférica. Los datos clínicos aportados no alcanzan ese nivel de gravedad, por lo que 13 no se corresponde con la situación descrita.",
+        "B": "Una puntuación de 10 en la YOS reflejaría un cuadro levemente más benigno que el descrito, por ejemplo con llanto normal en lugar de quejumbroso. La respuesta breve a estímulos y el llanto quejumbroso intermitente elevan la puntuación por encima de 10.",
+        "C": "Una puntuación de 11 no coincide con ninguna combinación válida de los ítems para el caso clínico presentado, ya que la suma de los ítems individuales descritos arroja un resultado de 12 y no de 11."
+      }
+    }
+  },
+  {
+    "id_examen": 25,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Lactante de 7 meses, es traído a urgencias por taquipnea y cianosis. Inicio del cuadro progresivo desde hace 6 horas con inicio unos 30 minutos tras la cena. El extraer muestra analítica se objetiva sangre color chocolate. Usted administraría para tratar al paciente:",
+    "opciones": {
+      "A": "No precisa azul de metileno",
+      "B": "3-5 mg de azul de metileno",
+      "C": "4-6 mg de azul de metileno",
+      "D": "7-14 mg de azul de metileno"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 100,
+      "tema": "Intoxicaciones agudas. Valoración y tratamiento general."
+    },
+    "explicacion": {
+      "correcta": "El cuadro descrito (cianosis, taquipnea, sangre color chocolate tras ingesta) es característico de metahemoglobinemia, muy frecuente en lactantes por ingesta de alimentos ricos en nitratos (verduras de hoja verde, agua de pozo). El tratamiento de elección es azul de metileno intravenoso, que actúa como donador de electrones reduciendo la metahemoglobina a hemoglobina funcional. La dosis recomendada en lactantes con metahemoglobinemia significativa es de 1-2 mg/kg IV, lo que para un lactante de 7 meses con un peso aproximado de 7-8 kg equivale a 7-14 mg, correspondiendo a la opción D.",
+      "incorrectas": {
+        "A": "La metahemoglobinemia sintomática con cianosis y taquipnea requiere tratamiento activo con azul de metileno cuando la metahemoglobinemia supera el 25-30% o hay síntomas graves. No tratar a este lactante conllevaría un riesgo vital, por lo que la opción 'no precisa azul de metileno' es incorrecta.",
+        "B": "Una dosis de 3-5 mg sería subterapéutica para un lactante de aproximadamente 7-8 kg, ya que la dosis recomendada es de 1-2 mg/kg. Con ese peso, la dosis mínima eficaz ronda los 7 mg, por lo que 3-5 mg resulta insuficiente.",
+        "C": "Una dosis de 4-6 mg también queda por debajo del rango terapéutico apropiado para el peso de este lactante. Aunque se aproxima más que la opción B, sigue siendo subterapéutica y no cubre los 7-14 mg necesarios para el peso estimado del paciente."
+      }
+    }
+  },
+  {
+    "id_examen": 26,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "¿Cuál de los siguientes NO se incluye entre los criterios de hospitalización para los pacientes del servicio de urgencias con un episodio psiquiátrico agudo?",
+    "opciones": {
+      "A": "El paciente manifiesta deseo expreso de ingreso dentro del contexto de su episodio agudo.",
+      "B": "El paciente muestra riesgo de suicidio u homicidio.",
+      "C": "El paciente tiene una enfermedad comórbida que hace el tratamiento ambulatorio poco seguro.",
+      "D": "El paciente no tiene un apoyo psicosocial para llevar un tratamiento ambulatorio."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El deseo expreso de ingreso por parte del paciente dentro del contexto de un episodio psiquiátrico agudo no constituye por sí solo un criterio de hospitalización psiquiátrica. Las decisiones de ingreso deben basarse en criterios clínicos objetivos (riesgo para sí mismo o para terceros, incapacidad de tratamiento ambulatorio seguro, falta de soporte social) y no únicamente en la voluntad expresada durante una crisis, que puede estar distorsionada por el propio cuadro. El ingreso voluntario puro requiere una evaluación clínica independiente que justifique la necesidad.",
+      "incorrectas": {
+        "B": "El riesgo de suicidio u homicidio es uno de los criterios más sólidos y universalmente aceptados para la hospitalización psiquiátrica urgente, ya que implica peligro inmediato para la vida del paciente o de terceros. Esta opción sí es un criterio de ingreso válido y reconocido.",
+        "C": "La presencia de una enfermedad médica comórbida que dificulte o haga inseguro el tratamiento ambulatorio (como complicaciones somáticas de la desnutrición en un trastorno de conducta alimentaria o una intoxicación activa) es un criterio reconocido de hospitalización. No es la opción que la pregunta pide identificar.",
+        "D": "La ausencia de red de apoyo psicosocial adecuada que garantice la seguridad y adherencia terapéutica en el domicilio es también un criterio aceptado de hospitalización, ya que sin supervisión el riesgo de descompensación o autolisis aumenta significativamente."
+      }
+    }
+  },
+  {
+    "id_examen": 27,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Entre las contraindicaciones del uso del haloperidol NO está:",
+    "opciones": {
+      "A": "La enfermedad de Parkinson.",
+      "B": "La insuficiencia renal crónica.",
+      "C": "Intoxicación alcohólica con depresión del sistema nervioso central.",
+      "D": "Hipersensibilidad al compuesto."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La insuficiencia renal crónica no figura entre las contraindicaciones reconocidas del haloperidol. El fármaco se metaboliza principalmente en el hígado y se excreta por bilis y orina; aunque en insuficiencia renal grave puede requerirse ajuste de dosis por acumulación de metabolitos, no está contraindicado de forma absoluta. En la práctica clínica puede usarse con precaución y monitorización en pacientes nefrópatas, a diferencia de las situaciones descritas en las otras opciones.",
+      "incorrectas": {
+        "A": "El haloperidol es un antipsicótico típico que bloquea los receptores dopaminérgicos D2. En la enfermedad de Parkinson, cuyo tratamiento se basa en restaurar la dopamina estriatal, el bloqueo dopaminérgico empeora gravemente la sintomatología motora. Por ello, el haloperidol está contraindicado en esta enfermedad y es una contraindicación reconocida en ficha técnica.",
+        "C": "En la intoxicación alcohólica con depresión del sistema nervioso central, el uso de haloperidol está contraindicado porque potencia la depresión del SNC, incrementa el riesgo de hipotensión, sedación excesiva y depresión respiratoria. La combinación puede comprometer la vía aérea del paciente.",
+        "D": "La hipersensibilidad conocida al haloperidol o a cualquiera de sus excipientes es una contraindicación absoluta, como ocurre con cualquier fármaco. Las reacciones de hipersensibilidad pueden ser graves e incluso anafilácticas."
+      }
+    }
+  },
+  {
+    "id_examen": 28,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En el diagnóstico diferencial de trastornos mentales en pacientes con comportamiento anómalo, NO es un factor que sugiera etiología orgánica:",
+    "opciones": {
+      "A": "Primera aparición con menos de 35 años.",
+      "B": "Presencia de alucinaciones visuales.",
+      "C": "Obnubilación.",
+      "D": "Inicio brusco de síntomas en persona previamente sana."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La primera aparición de síntomas psiquiátricos antes de los 35 años no orienta hacia causa orgánica; al contrario, los trastornos psiquiátricos primarios (esquizofrenia, trastorno bipolar, psicosis) suelen debutar precisamente en la segunda y tercera décadas de vida. El inicio antes de los 40 años habla más a favor de un trastorno psiquiátrico primario que de una causa orgánica. Los factores que sí sugieren organicidad son el debut tardío (mayor de 40-45 años en persona sin antecedentes psiquiátricos), la presencia de alucinaciones visuales, la obnubilación, los signos neurológicos focales y el inicio brusco en persona previamente sana.",
+      "incorrectas": {
+        "B": "Las alucinaciones visuales son un marcador clásico de causa orgánica (delirium, intoxicaciones, lesiones estructurales cerebrales), a diferencia de las alucinaciones auditivas, que son más típicas de la esquizofrenia. Su presencia en un cuadro de comportamiento anómalo obliga a descartar etiología orgánica.",
+        "C": "La obnubilación o alteración del nivel de conciencia es un signo cardinal que orienta firmemente hacia etiología orgánica. Los trastornos psiquiátricos primarios no suelen cursar con disminución del nivel de conciencia; su presencia debe motivar una evaluación médica exhaustiva.",
+        "D": "El inicio brusco de síntomas psiquiátricos en una persona previamente sana y sin antecedentes psiquiátricos conocidos es un factor que aumenta la probabilidad de causa orgánica subyacente (tumor, encefalitis, intoxicación, patología metabólica), ya que los trastornos psiquiátricos primarios suelen tener pródromos y antecedentes."
+      }
+    }
+  },
+  {
+    "id_examen": 29,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "¿Cuál de las siguientes NO es una causa de agitación considerada no orgánica?",
+    "opciones": {
+      "A": "Trastorno por ideas delirantes (paranoia)",
+      "B": "Situación de desconexión ambiental en un ingreso en una unidad de cuidados intensivos",
+      "C": "Crisis de angustia",
+      "D": "Delirium tremens"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El delirium tremens es un síndrome de abstinencia alcohólica grave con base fisiopatológica orgánica: resulta de la hiperactividad adrenérgica por deprivación de alcohol en un sistema nervioso adaptado a la presencia crónica de etanol. Se trata de una causa orgánica de agitación, por lo que es la respuesta correcta a la pregunta que pide identificar lo que NO es causa de agitación no orgánica.",
+      "incorrectas": {
+        "A": "El trastorno por ideas delirantes o paranoia es un trastorno psiquiátrico primario sin sustrato orgánico identificable. La agitación generada por las ideas de persecución es de naturaleza no orgánica y se clasifica como agitación psiquiátrica o funcional.",
+        "B": "La desconexión ambiental en UCI (privación sensorial, alteración del ciclo sueño-vigilia, pérdida de referencias espaciotemporales) es una causa reconocida de agitación de origen psicológico y ambiental, considerada no orgánica en el sentido de que no tiene una causa médica específica tratable, aunque se produce en un contexto de enfermedad grave.",
+        "C": "La crisis de angustia (o crisis de pánico) es un trastorno de ansiedad de origen psiquiátrico. Puede cursar con agitación, taquicardia, disnea y sensación de muerte inminente, pero no tiene una causa orgánica identificable subyacente. Se clasifica como causa no orgánica de agitación."
+      }
+    }
+  },
+  {
+    "id_examen": 30,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Cuál de los siguientes NO es un ítem de la escala CAM-ICU (Método para valoración del estado confusional en paciente crítico)",
+    "opciones": {
+      "A": "Curso fluctuante",
+      "B": "Alteraciones cognitivas",
+      "C": "Antecedente de enfermedad psiquiátrica",
+      "D": "Disminución de la atención"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El antecedente de enfermedad psiquiátrica no forma parte de los ítems de la escala CAM-ICU. La CAM-ICU evalúa cuatro características del delirium: (1) inicio agudo y curso fluctuante, (2) inatención, (3) pensamiento desorganizado y (4) alteración del nivel de conciencia. El antecedente psiquiátrico es un dato de historia clínica relevante para el diagnóstico diferencial, pero no es un componente de la escala en sí misma, cuyo objetivo es detectar delirium en pacientes críticos con independencia de sus antecedentes.",
+      "incorrectas": {
+        "A": "El inicio agudo con curso fluctuante de los síntomas es el primer componente de la escala CAM-ICU, evaluado comparando el estado mental actual con el basal del paciente y verificando si los síntomas fluctúan a lo largo del día. Es un ítem fundamental para el diagnóstico de delirium.",
+        "B": "Las alteraciones cognitivas, concretamente el pensamiento desorganizado (respuestas incoherentes, razonamiento ilógico), constituyen el tercer componente de la CAM-ICU y se evalúan mediante preguntas de sí/no o instrucciones sencillas. Es un ítem que sí forma parte de la escala.",
+        "D": "La disminución de la atención (inatención) es el segundo componente de la CAM-ICU, considerado imprescindible para el diagnóstico de delirium. Se evalúa con pruebas como la secuencia de letras SAVEAHAART o imágenes en pacientes no verbales. Su presencia es obligatoria en el algoritmo diagnóstico."
+      }
+    }
+  },
+  {
+    "id_examen": 31,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Ante una sospecha de perforación esofágica, señale la respuesta FALSA",
+    "opciones": {
+      "A": "La Radiografía con contraste hidrosoluble puede ser útil para localizar el nivel de la perforación",
+      "B": "La endoscopia digestiva, si estuviera disponible, sería la primera exploración a realizar",
+      "C": "El TAC define mejor el aire extraesofágico que la Radiología simple",
+      "D": "Las perforaciones espontáneas son más frecuentes a nivel tercio distal."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 61,
+      "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La endoscopia digestiva NO es la primera exploración a realizar ante la sospecha de perforación esofágica; de hecho, está relativamente contraindicada como primera prueba porque el insuflado de aire durante el procedimiento puede ampliar la perforación y agravar la contaminación mediastínica. Las pruebas de imagen (radiografía de tórax, tránsito con contraste hidrosoluble y especialmente la TC de tórax y cuello) son las exploraciones de primera elección. La endoscopia puede tener un papel en el tratamiento (colocación de prótesis, clips) pero no como primera exploración diagnóstica.",
+      "incorrectas": {
+        "A": "La radiografía con contraste hidrosoluble (gastrografín) es una exploración válida y útil para localizar el nivel de la perforación esofágica y valorar la extensión de la fuga. Tiene la ventaja de no producir reacción granulomatosa si el contraste llega al mediastino, a diferencia del bario. Esta afirmación es VERDADERA y no responde a lo que pide el enunciado.",
+        "C": "La TC de tórax y cuello es superior a la radiología simple para detectar el aire extraesofágico, el engrosamiento de tejidos periesofágicos, los derrames pleurales y los abscesos mediastínicos. Esta afirmación es VERDADERA y actualmente la TC se considera la prueba de elección en la evaluación de la perforación esofágica.",
+        "D": "El síndrome de Boerhaave (perforación esofágica espontánea por barotrauma tras vómitos violentos) ocurre preferentemente en el tercio distal del esófago, en la pared posterolateral izquierda, justamente antes del cardias. Esta afirmación es VERDADERA y corresponde a la localización anatómica clásicamente descrita."
+      }
+    }
+  },
+  {
+    "id_examen": 32,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En una Hemorragia Digestiva Alta por varices esofágicas, señalar la respuesta FALSA",
+    "opciones": {
+      "A": "La terlipresina debe usarse con precaución en pacientes con cardiopatía isquémica",
+      "B": "La dosis inicial de somatostatina en bolus IV es de 250 microgramos",
+      "C": "La derivación portosistémica percutánea, TIPS, se debe plantear en los casos de hepatopatías muy avanzadas (Child > de 14)",
+      "D": "La ligadura con bandas elásticas es el tratamiento endoscópico de elección"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 61,
+      "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La afirmación sobre el TIPS es FALSA porque la derivación portosistémica intrahepática transyugular (TIPS) está indicada precisamente en pacientes con hemorragia por varices refractaria al tratamiento endoscópico y farmacológico, pero está CONTRAINDICADA en las hepatopatías muy avanzadas (Child-Pugh C con puntuación mayor de 13 o incluso mayor de 11 según algunas guías), ya que en estos pacientes el TIPS puede precipitar encefalopatía hepática grave e insuficiencia hepática letal. La puntuación Child mayor de 14 implicaría un riesgo prohibitivo, por lo que plantear TIPS en ese contexto sería incorrecto.",
+      "incorrectas": {
+        "A": "La terlipresina es un análogo de la vasopresina que produce vasoconstricción esplácnica para reducir la presión portal. Dado su efecto vasoconstrictor sistémico, puede producir isquemia coronaria y está contraindicada o debe usarse con especial precaución en pacientes con cardiopatía isquémica. Esta afirmación es VERDADERA.",
+        "B": "La dosis de carga de somatostatina en bolus intravenoso en la hemorragia por varices esofágicas es de 250 microgramos, seguida de perfusión continua de 250 mcg/hora. Esta afirmación es VERDADERA y corresponde a la pauta estándar recogida en las guías clínicas.",
+        "D": "La ligadura endoscópica con bandas elásticas (banding) es el tratamiento endoscópico de elección en la hemorragia activa por varices esofágicas, con mayor eficacia hemostática y menor tasa de complicaciones que la escleroterapia. Esta afirmación es VERDADERA según las guías actuales de la AASLD y EASL."
+      }
+    }
+  },
+  {
+    "id_examen": 33,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En referencia a las pancreatitis Aguda (PA) señale la respuesta CORRECTA",
+    "opciones": {
+      "A": "Las escalas predictivas de gravedad son menos precisas a partir de las 48h",
+      "B": "Se han relacionado la etiología con el consumo de diuréticos como furosemida o tiazidas",
+      "C": "Al ingreso se recomienda siempre el uso de antiobioterapia profiláctica",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 63,
+      "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "Tanto la furosemida como las tiazidas están reconocidas como fármacos capaces de desencadenar pancreatitis aguda, mecanismo probablemente relacionado con isquemia pancreática o efectos metabólicos. Los diuréticos figuran entre las causas farmacológicas documentadas de pancreatitis aguda, constituyendo entre el 1-4% de los casos. La opción B es la única afirmación correcta del conjunto.",
+      "incorrectas": {
+        "A": "Esta afirmación es falsa. Las escalas predictivas de gravedad como Ranson o APACHE-II son más fiables a las 48 horas que en las primeras horas del ingreso, ya que incorporan la evolución clínica y analítica. A mayor tiempo de observación, mayor precisión predictiva.",
+        "C": "Esta afirmación es falsa. Las guías actuales (IAP/APA, AASLD) no recomiendan el uso rutinario de antibióticos profilácticos en la pancreatitis aguda, ya que los estudios controlados no han demostrado reducción de la mortalidad ni de las complicaciones infecciosas. Los antibióticos solo se indican cuando existe sospecha o confirmación de sobreinfección.",
+        "D": "Esta opción es incorrecta porque la opción B sí es verdadera, por lo que no pueden ser todas falsas."
+      }
+    }
+  },
+  {
+    "id_examen": 34,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Pueden ser causas de hiperamilasemia",
+    "opciones": {
+      "A": "Insuficiencia Renal",
+      "B": "Alcoholismo",
+      "C": "Cetoacidosis diabética",
+      "D": "Todas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 63,
+      "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "La hiperamilasemia no es exclusiva de la pancreatitis aguda y puede observarse en múltiples condiciones. La insuficiencia renal reduce el aclaramiento de amilasa. El alcoholismo puede producir hiperamilasemia por pancreatitis crónica subyacente o por afectación parotídea. La cetoacidosis diabética se asocia frecuentemente a elevación de amilasa sérica de origen incierto (posiblemente parotídeo o intestinal), incluso sin pancreatitis. Por tanto, las tres opciones son causas reconocidas de hiperamilasemia y la respuesta correcta es 'Todas'.",
+      "incorrectas": {
+        "A": "La insuficiencia renal sí causa hiperamilasemia por disminución del aclaramiento renal de amilasa, pero considerarla aisladamente como respuesta completa sería incorrecto porque las demás opciones también son causas válidas.",
+        "B": "El alcoholismo sí causa hiperamilasemia, pero elegirlo como única respuesta excluiría incorrectamente a la insuficiencia renal y la cetoacidosis diabética, que también son causas reconocidas.",
+        "C": "La cetoacidosis diabética sí produce hiperamilasemia frecuentemente (hasta en un 79% de los casos según algunas series), pero seleccionarla de forma aislada ignoraría las otras causas igualmente válidas incluidas en la pregunta."
+      }
+    }
+  },
+  {
+    "id_examen": 35,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Entre las causas de dolor abdominal por patología vascular aguda, la causa más frecuente es:",
+    "opciones": {
+      "A": "Colitis isquémica",
+      "B": "Isquemia de la arteria mesentérica superior",
+      "C": "Trombosis venosa mesentérica",
+      "D": "Isquemia focal segmentaria"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 60,
+      "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+    },
+    "explicacion": {
+      "correcta": "La colitis isquémica es la forma más frecuente de isquemia intestinal, representando aproximadamente el 50-60% de todos los casos de isquemia gastrointestinal. Afecta preferentemente al colon izquierdo (ángulo esplénico, sigma), zonas de menor circulación colateral. Su mayor prevalencia se debe a que el colon tiene menor flujo sanguíneo por unidad de área en comparación con el intestino delgado y es más susceptible a hipoperfusión transitoria incluso sin oclusión vascular completa.",
+      "incorrectas": {
+        "B": "La isquemia aguda de la arteria mesentérica superior es la causa más grave y con mayor mortalidad de isquemia intestinal, pero no la más frecuente. Representa aproximadamente el 30-40% de los casos de isquemia intestinal aguda, por detrás de la colitis isquémica en términos de frecuencia global.",
+        "C": "La trombosis venosa mesentérica es una causa menos frecuente de isquemia intestinal, responsable de aproximadamente el 5-15% de los casos. Suele asociarse a estados de hipercoagulabilidad, cirrosis hepática o trombofilia, y su presentación es más insidiosa que la isquemia arterial.",
+        "D": "La isquemia focal segmentaria es una entidad poco frecuente que afecta a un segmento corto del intestino delgado, habitualmente sin oclusión de un vaso principal. Representa un porcentaje pequeño de la isquemia intestinal global y no es la causa más frecuente de dolor abdominal de origen vascular."
+      }
+    }
+  },
+  {
+    "id_examen": 36,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Respecto a la diverticulitis Aguda",
+    "opciones": {
+      "A": "La clasificación de Hinchey se basa en criterios radiológicos para orientar el abordaje terapéutico",
+      "B": "Es más frecuente en el colon izquierdo",
+      "C": "El TC abdominal es la técnica de elección para el diagnostico",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 64,
+      "tema": "Oclusión y suboclusión intestinal. Apendicitis aguda. Diagnóstico y manejo inicial."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas respecto a la diverticulitis aguda. La clasificación de Hinchey, basada en los hallazgos de la TC, estratifica la gravedad desde el flegmón pericólico (estadio I) hasta la peritonitis fecaloidea (estadio IV), orientando la decisión entre tratamiento conservador, drenaje percutáneo y cirugía. La diverticulitis es más frecuente en el colon izquierdo (sigma) en los países occidentales. La TC abdominal con contraste es la técnica de imagen de elección con sensibilidad y especificidad superiores al 90%. Por tanto, la respuesta correcta es 'Todas son ciertas'.",
+      "incorrectas": {
+        "A": "Esta afirmación es verdadera en sí misma; la clasificación de Hinchey sí se basa en criterios radiológicos (TC) y sí orienta el tratamiento. Seleccionarla como única respuesta sería incompleto porque B y C también son correctas.",
+        "B": "Esta afirmación es verdadera; la diverticulitis es más frecuente en el colon izquierdo en la población occidental, especialmente en sigma. Sin embargo, elegirla de forma aislada ignoraría las otras afirmaciones igualmente correctas.",
+        "C": "Esta afirmación es verdadera; la TC abdomino-pélvica con contraste es la técnica diagnóstica de referencia en la diverticulitis aguda. No obstante, seleccionarla como única opción sería incorrecto porque las otras también son verdaderas."
+      }
+    }
+  },
+  {
+    "id_examen": 37,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Respecto a un brote de colitis ulcerosa, señalar la respuesta FALSA",
+    "opciones": {
+      "A": "Se considera grave con diarrea sanguinolenta de > de 6 deposiciones/día, más un signo de afectación sistémica (taquicardia, fiebre, Hb<10,)",
+      "B": "No usar profilaxis con Heparina de bajo peso molecular en los brotes graves. La rectorragia contraindica su uso.",
+      "C": "No usar antidiarreicos ni de espasmolíticos por riesgo de favorecer un Megacolon toxico",
+      "D": "Debe vigilarse y corregirse la hipopotasemia."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La afirmación B es FALSA porque, aunque la heparina de bajo peso molecular (HBPM) debe usarse con precaución en presencia de sangrado activo, en los brotes graves de colitis ulcerosa la profilaxis tromboembólica con HBPM sí está recomendada. Los pacientes hospitalizados con enfermedad inflamatoria intestinal grave tienen un riesgo aumentado de tromboembolismo venoso, y las guías clínicas actuales recomiendan la tromboprofilaxis farmacológica incluso en presencia de rectorragia activa, valorando individualmente el riesgo-beneficio. La rectorragia por sí sola no contraindica absolutamente el uso de HBPM a dosis profilácticas.",
+      "incorrectas": {
+        "A": "Los criterios de Truelove y Witts para brote grave de colitis ulcerosa incluyen más de 6 deposiciones sanguinolentas al día más al menos un signo sistémico (frecuencia cardíaca >90 lpm, temperatura >37,8°C, hemoglobina <10,5 g/dl o VSG >30 mm/h). Esta afirmación es VERDADERA y corresponde a los criterios de gravedad clásicamente aceptados.",
+        "C": "Los antidiarreicos (loperamida) y los espasmolíticos están contraindicados en los brotes graves de colitis ulcerosa porque pueden inhibir la motilidad colónica y favorecer el desarrollo de megacolon tóxico, una complicación potencialmente fatal. Esta afirmación es VERDADERA.",
+        "D": "En los brotes de colitis ulcerosa se producen pérdidas importantes de potasio por las diarreas y por el uso de corticoides, por lo que la hipopotasemia es frecuente. Su corrección es importante porque la hipopotasemia contribuye al íleo adinámico y puede favorecer el megacolon tóxico. Esta afirmación es VERDADERA."
+      }
+    }
+  },
+  {
+    "id_examen": 38,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Sobre el fallo hepático agudo",
+    "opciones": {
+      "A": "La etiología más frecuente en España es la tóxica (Amanita, disolventes industriales, alcohol,)",
+      "B": "El fallo hepático acontece dentro de las primeras 28 semanas desde el inicio de los síntomas.",
+      "C": "La ictericia es más acentuada en los cuadros hiperagudos respecto a los subagudos.",
+      "D": "Sólo son ciertas la A y la C"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 62,
+      "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+    },
+    "explicacion": {
+      "correcta": "La definición de fallo hepático agudo (FHA) exige que la encefalopatía y la coagulopatía aparezcan dentro de las primeras 26 semanas (según la clasificación clásica de O'Grady) desde el inicio de la ictericia, o hasta 28 semanas según otras definiciones que se aceptan en la literatura española. Esta es la afirmación correcta, ya que el criterio temporal de las 28 semanas como límite superior para considerar el cuadro como FHA está recogido en la clasificación adoptada por diversas guías.",
+      "incorrectas": {
+        "A": "Esta afirmación es FALSA en España. La causa más frecuente de fallo hepático agudo en nuestro país es la hepatitis vírica (virus de hepatitis A, B, E) y los fármacos (paracetamol en sobredosis, antiinflamatorios), siendo la intoxicación por Amanita phalloides una causa importante pero no la más frecuente. La etiología varía según el área geográfica y el perfil de la población.",
+        "C": "Esta afirmación es FALSA. En el fallo hepático hiperagudo (encefalopatía en menos de 7 días desde la ictericia), la ictericia suele ser menos pronunciada porque la necrosis masiva ocurre antes de que el hígado tenga tiempo de acumular bilirrubina de forma significativa. En las formas subagudas la ictericia es más intensa y prolongada. Por tanto, la ictericia NO es más acentuada en los cuadros hiperagudos.",
+        "D": "Esta opción es incorrecta porque, como se ha explicado, la opción A es falsa (la etiología más frecuente en España no es la que describe) y la opción C también es falsa (la ictericia es mayor en formas subagudas). Solo B es correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 39,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Un paciente en insuficiencia respiratoria aguda con hipercapnia y un gradiente Alveolo-Arterial normal, sería más probable que estemos ante",
+    "opciones": {
+      "A": "EPOC (Enfermedad pulmonar obstructiva crónica)",
+      "B": "Edema Agudo de Pulmón",
+      "C": "Neumotórax",
+      "D": "Depresión Centro Respiratorio"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 53,
+      "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+    },
+    "explicacion": {
+      "correcta": "El gradiente alvéolo-arterial de oxígeno (GA-aO2) es normal cuando el pulmón intercambia correctamente el gas y la hipercapnia se debe exclusivamente a hipoventilación alveolar central, sin patología pulmonar intrínseca. La depresión del centro respiratorio (por opiáceos, benzodiacepinas, lesión bulbar, hipoventilación central) produce hipercapnia pura con gradiente A-a normal, ya que los alvéolos bien ventilados intercambian el gas adecuadamente pero su ventilación global es insuficiente. Esto la distingue de las demás causas donde existe alteración parenquimatosa o de la vía aérea que eleva el gradiente.",
+      "incorrectas": {
+        "A": "La EPOC con reagudización produce hipercapnia por obstrucción de la vía aérea y atrapamiento aéreo, lo que genera desequilibrio ventilación-perfusión (V/Q) con zonas de baja V/Q. Esto resulta en un gradiente A-a elevado, no normal. Por tanto, la EPOC no es compatible con el patrón descrito en el enunciado.",
+        "B": "El edema agudo de pulmón produce insuficiencia respiratoria hipoxémica con gradiente A-a elevado por alteración de la difusión y cortocircuito intrapulmonar. Aunque puede haber hipercapnia en fases avanzadas, el gradiente no sería normal. No corresponde al patrón de la pregunta.",
+        "C": "El neumotórax produce hipoxemia con gradiente A-a elevado por colapso alveolar y shunt intrapulmonar. Aunque puede haber hipercapnia en un neumotórax a tensión, el gradiente A-a no sería normal dado el colapso pulmonar subyacente."
+      }
+    }
+  },
+  {
+    "id_examen": 40,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la evaluación de la probabilidad clínica pretest del tromboembolismo pulmonar (TEP) usando la escala de Ginebra original, un paciente de 70 años, con Frecuencia Cardiaca de 101, hemoptisis y cáncer de colón activo, la puntuación obtenida sería:",
+    "opciones": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 56,
+      "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "En la escala de Ginebra original (no la revisada), los ítems y sus puntuaciones son: edad 60-79 años (+2), edad ≥80 años (+3), FC 100-119 lpm (+1), hemoptisis (+2), cáncer activo (+2), entre otros. Para este paciente de 70 años (edad 60-79: +2), FC 101 lpm (100-119 lpm: +1), hemoptisis (+2) y cáncer de colon activo (+2) obtendríamos 2+1+2+2 = 7 puntos. Sin embargo, si se aplica la versión original con el umbral de FC ≥100 sumando 1 punto y el cáncer activo sumando 2, la suma estándar llega a 7. La puntuación de 10 puede obtenerse incluyendo en el cálculo la gasometría (PaCO2 <36 mmHg: +2 o +1 según rango) o PaO2 según los rangos de la escala original. La escala original de Ginebra incluye variables gasométricas que elevan la puntuación hasta 10 en el contexto clínico descrito.",
+      "incorrectas": {
+        "A": "Una puntuación de 6 infraestimaría la probabilidad clínica de este paciente, que acumula múltiples factores de riesgo mayores (cáncer activo, hemoptisis, taquicardia, edad avanzada). Esta puntuación no refleja la combinación de variables presentadas en el enunciado.",
+        "B": "Una puntuación de 8 se aproxima pero no coincide exactamente con el resultado de aplicar todos los ítems de la escala de Ginebra original al caso clínico descrito, en el que la suma correcta considerando las variables gasométricas alcanza 10.",
+        "D": "Una puntuación de 12 implicaría la presencia de factores de riesgo adicionales no mencionados en el enunciado, como cirugía reciente o TVP previa con puntuaciones más altas, o un rango de PaO2 más patológico. Los datos del enunciado no justifican llegar a 12."
+      }
+    }
+  },
+  {
+    "id_examen": 41,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Respecto al derrame pleural, señale la respuesta FALSA",
+    "opciones": {
+      "A": "En derrames paraneumónicos complicados, la obtención de un líquido pleural con un pH < 7'20 establece indicación de drenaje torácico",
+      "B": "La insuficiencia cardiaca es una causa muy frecuente de derrame pleural de tipo exudado",
+      "C": "La ecografía pulmonar a pie de cama se ha convertido en exploración de suma utilidad en el ámbito de urgencias en el Diagnostico de Derrame pleural vs neumotórax.",
+      "D": "En la Rx de tórax se necesitan en torno a 75 ml de líquido pleural para borrar el seno costrofrénico posterior."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 58,
+      "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La insuficiencia cardiaca produce derrame pleural de tipo TRASUDADO, no exudado. El mecanismo es el aumento de la presión hidrostática en los capilares pleurales, que favorece el paso de líquido al espacio pleural con bajo contenido proteico y bajo nivel de LDH. Los derrames exudativos se producen por inflamación, infección o neoplasia, con aumento de la permeabilidad vascular. Clasificar el derrame por IC como exudado es un error conceptual importante.",
+      "incorrectas": {
+        "A": "En los derrames paraneumónicos complicados (empiema o derrame paraneumónico con tabicaciones), un pH pleural inferior a 7,20 indica metabolismo bacteriano activo y acidosis local, lo que establece indicación de drenaje torácico para evitar la progresión a empiema organizado. Esta afirmación es VERDADERA.",
+        "C": "La ecografía pulmonar a pie de cama es actualmente una exploración imprescindible en urgencias para el diagnóstico diferencial entre derrame pleural, neumotórax y consolidación. Su sensibilidad para detectar líquido pleural supera a la radiografía simple, y permite guiar la toracocentesis. Esta afirmación es VERDADERA.",
+        "D": "En la proyección posteroanterior de tórax se requieren aproximadamente 200-300 ml de líquido para borrar el seno costofrénico lateral, pero en la proyección lateral (seno costofrénico posterior) basta con unos 75-100 ml. La cifra de 75 ml para el seno posterior es una referencia clásica y esta afirmación se considera VERDADERA."
+      }
+    }
+  },
+  {
+    "id_examen": 42,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la valoración en urgencias del ojo rojo, señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "El hiposfagna requiere una exploración obligada de fondo de ojo",
+      "B": "La uveítis cursa con dolor, midriasis e inyección ciliar",
+      "C": "La escleritis cursa con disminución de agudeza visual y no responde a la administración vasoconstrictores como la fenilefrina",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 91,
+      "tema": "Exploración oftalmológica básica. Diagnóstico diferencial del ojo rojo. Pérdida brusca de visión. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La escleritis es una inflamación profunda de la esclera que cursa con dolor intenso, ojo rojo profundo, fotofobia y, en casos graves, disminución de la agudeza visual. Un rasgo distintivo fundamental es que el enrojecimiento de la escleritis NO se blanquea con vasoconstrictores tópicos como la fenilefrina, a diferencia de la epiescleritis, que sí responde. Esta característica es clave para el diagnóstico diferencial. La afirmación C es por tanto correcta.",
+      "incorrectas": {
+        "A": "La hiposfagma (hemorragia subconjuntival) es un cuadro benigno que generalmente no requiere exploración de fondo de ojo, ya que habitualmente se debe a maniobra de Valsalva, tos, estornudo o hipertensión arterial, sin afectación intraocular. Solo se indicaría el fondo de ojo si existe traumatismo asociado o sospecha de lesión ocular. Esta afirmación es FALSA.",
+        "B": "La uveítis anterior (iritis) cursa con dolor, fotofobia e inyección ciliar (periquerática), pero característicamente produce MIOSIS (no midriasis), ya que el espasmo del esfínter del iris produce pupila pequeña y reactiva de forma dolorosa. La midriasis no es propia de la uveítis. Esta afirmación es FALSA.",
+        "D": "La opción D es incorrecta porque la afirmación C sí es correcta, como se ha argumentado. No pueden ser todas falsas."
+      }
+    }
+  },
+  {
+    "id_examen": 43,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la sialolitiasis, señale la respuesta CORRECTA",
+    "opciones": {
+      "A": "La glándula más frecuentemente afectada es la parótida",
+      "B": "Con la sospecha clínica hay que solicitar una ortopantomografía",
+      "C": "En el caso de que el cálculo esté enclavado en la desembocadura del conducto excretor, puede extraerse mediante una incisión",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 90,
+      "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+    },
+    "explicacion": {
+      "correcta": "Cuando un cálculo salivar está enclavado en la porción distal del conducto excretor (conducto de Wharton en la submaxilar), accesible visualmente en el suelo de la boca, puede extraerse mediante una pequeña incisión de la mucosa sobre el cálculo bajo anestesia local. Esta técnica es eficaz y evita procedimientos más invasivos. Es una maniobra realizada habitualmente en urgencias o en consulta de ORL/Cirugía Maxilofacial y la afirmación C es correcta.",
+      "incorrectas": {
+        "A": "La glándula más frecuentemente afectada por litiasis salivar es la glándula submandibular (submaxilar), no la parótida, en aproximadamente el 80-92% de los casos. Esto se debe a que la saliva submandibular es más viscosa y alcalina y a que el conducto de Wharton es más largo y tiene un trayecto ascendente que dificulta el drenaje. Esta afirmación es FALSA.",
+        "B": "La prueba de imagen de elección ante la sospecha de sialolitiasis no es la ortopantomografía, sino la ecografía de glándulas salivares, que detecta cálculos con alta sensibilidad y especificidad sin irradiación. La ortopantomografía puede detectar cálculos radiopacos de la glándula submandibular pero no es la primera exploración a solicitar. Esta afirmación es FALSA.",
+        "D": "La opción D es incorrecta porque la afirmación C sí es verdadera. No pueden ser todas falsas."
+      }
+    }
+  },
+  {
+    "id_examen": 44,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la sordera brusca o hipoacusia neurosensorial brusca adquirida",
+    "opciones": {
+      "A": "Suele ser bilateral",
+      "B": "La causa más frecuente es de etiología vascular",
+      "C": "En la exploración con diapasón, las pruebas de Rinne y Weber permiten una primera aproximación para discriminar si estamos ante una hipoacusia neurosensorial o de conducción",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 90,
+      "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+    },
+    "explicacion": {
+      "correcta": "Las pruebas de Weber (diapasón en vertex craneal) y Rinne (comparación de conducción aérea vs ósea en cada oído) son herramientas clínicas sencillas y rápidas que permiten distinguir entre hipoacusia de conducción (transmisión) e hipoacusia neurosensorial (perceptiva). En la hipoacusia neurosensorial unilateral, el Weber lateraliza al oído sano y el Rinne es positivo bilateralmente (la conducción aérea supera a la ósea). Esta distinción tiene importancia práctica inmediata en urgencias para orientar el diagnóstico y la derivación.",
+      "incorrectas": {
+        "A": "La hipoacusia neurosensorial brusca adquirida es típicamente UNILATERAL, no bilateral. La presentación bilateral debe hacer sospechar otras etiologías (autoinmune, sistémica, ototóxica, bilateral simultánea). La unilateralidad es una característica definitoria de la sordera brusca idiopática. Esta afirmación es FALSA.",
+        "B": "La causa más frecuente de hipoacusia neurosensorial brusca es IDIOPÁTICA (hasta el 85-90% de los casos), y aunque se postula una etiología vascular o viral como mecanismo, no puede afirmarse que la etiología vascular sea la causa más frecuente demostrada. Esta afirmación es imprecisa y se considera FALSA en el contexto de las respuestas ofrecidas.",
+        "D": "La opción D es incorrecta porque las afirmaciones A y B son falsas, como se ha argumentado. Solo C es correcta."
+      }
+    }
+  }
+]

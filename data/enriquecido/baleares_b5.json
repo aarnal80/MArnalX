@@ -1,0 +1,574 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de los diagnósticos siguientes es el más probable?",
+  "opciones": {
+   "A": "Neumonía viral por el SARS-CoV-2 (COVID-19).",
+   "B": "Síndrome de agudización de la EPOC con neumonía.",
+   "C": "Insuficiencia cardiaca aguda.",
+   "D": "Enfermedad tromboembólica pulmonar."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 54,
+   "grupo": "especifico",
+   "titulo": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El paciente exfumador con disnea progresiva, expectoración purulenta, tratamiento habitual con fluticasona/vilanterol (combinación para EPOC) y SatO2 del 92% presenta un cuadro típico de reagudización de EPOC. Sin embargo, la respuesta marcada como correcta en el examen es la A (COVID-19). Desde el punto de vista clínico, el perfil (exfumador con EPOC documentado implícitamente por el tratamiento, expectoración amarillenta) orienta más a agudización de EPOC, pero la clave de respuestas oficial del examen indica la opción A como correcta, posiblemente en el contexto del periodo pandémico en que se elaboró la pregunta. Las opciones B, C y D constituyen las respuestas incorrectas: la agudización de EPOC con neumonía, la insuficiencia cardiaca aguda y el tromboembolismo pulmonar son diagnósticos diferenciales que deben descartarse pero no son la respuesta indicada por el examen.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación falsa respecto a los parámetros iniciales de la ventilación mecánica no invasiva en modo BiPAP:",
+  "opciones": {
+   "A": "Los valores ideales de IPAP se sitúan entre 15 y 20 cm de H2O.",
+   "B": "Los valores iniciales de IPAP se sitúan entre 8 y 12 cm de H2O.",
+   "C": "Se aumenta la IPAP hasta conseguir disminuir la frecuencia respiratoria (< 25 rpm) y un volumen tidal entre 3 y 5 mL/kg de peso ideal.",
+   "D": "Los niveles habituales de EPAP oscilan entre 4 y 8 cm de H2O."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 105,
+   "grupo": "especifico",
+   "titulo": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la C. En la VMNI con BiPAP, el objetivo de ajuste de la IPAP es conseguir una frecuencia respiratoria inferior a 25 rpm y un volumen tidal de 6-8 mL/kg de peso ideal (no de 3-5 mL/kg como indica erróneamente la opción C; ese rango de 3-5 mL/kg correspondería a estrategias de protección pulmonar en ventilación invasiva). Las demás afirmaciones son correctas: los valores iniciales de IPAP de 8-12 cmH2O (B), los valores ideales de 15-20 cmH2O (A) y la EPAP habitual de 4-8 cmH2O (D) son parámetros estándar de inicio de VMNI en BiPAP.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿En qué caso no está indicada la profilaxis tromboembólica en el síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "En las agudizaciones graves.",
+   "B": "En las agudizaciones muy graves.",
+   "C": "En las agudizaciones moderadas con un paciente activo.",
+   "D": "En las agudizaciones moderadas con un paciente inactivo."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 54,
+   "grupo": "especifico",
+   "titulo": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La profilaxis tromboembólica en las agudizaciones de EPOC se indica cuando el paciente presenta inmovilización o factores de riesgo trombótico adicionales. En las agudizaciones moderadas con un paciente activo (capaz de deambular), el riesgo tromboembólico no justifica la profilaxis con heparina de bajo peso molecular, por lo que no está indicada (opción C correcta). En cambio, las agudizaciones graves (A), muy graves (B) o las moderadas con paciente inactivo o encamado (D) sí requieren profilaxis dado el mayor riesgo de tromboembolismo venoso.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación falsa sobre la ventilación mecánica no invasiva:",
+  "opciones": {
+   "A": "Debe aplicarse sin demora a los pacientes con edema agudo de pulmón cardiogénico o insuficiencia cardiaca hipertensiva que presenten trabajo respiratorio importante (FR > 25 rpm y/o SpO2 < 90%).",
+   "B": "Está indicada en los casos de edema agudo de pulmón en modo CPAP.",
+   "C": "Está indicada en los casos de edema agudo de pulmón en pacientes de EPOC en modo BiPAP.",
+   "D": "Consigue mejorar la función ventricular izquierda al aumentar la postcarga."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 105,
+   "grupo": "especifico",
+   "titulo": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la D. La VMNI (tanto CPAP como BiPAP) mejora la función ventricular izquierda al REDUCIR la postcarga (no aumentarla), ya que la presión positiva intratorácica disminuye el retorno venoso y la tensión parietal del ventrículo izquierdo, lo que beneficia al corazón insuficiente. Las opciones A, B y C son correctas: la VMNI está indicada en el edema agudo de pulmón cardiogénico con trabajo respiratorio importante (A), preferentemente en modo CPAP en edema pulmonar (B), y en modo BiPAP en pacientes con EPOC subyacente que desarrollan edema pulmonar (C).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación correcta sobre los parámetros compensatorios del equilibrio ácido-base:",
+  "opciones": {
+   "A": "En la alcalosis respiratoria, por cada descenso de 10 mmHg de la pCO2 la concentración de HCO3- disminuye 6 mEq/L si el trastorno es agudo.",
+   "B": "En la alcalosis respiratoria, por cada descenso de 10 mmHg de la pCO2 la concentración de HCO3- disminuye 2 mEq/L si el trastorno es crónico.",
+   "C": "En la acidosis respiratoria, por cada aumento de 10 mmHg de la pCO2 la concentración de HCO3- aumenta 5 mEq/L si el trastorno es agudo.",
+   "D": "En la acidosis respiratoria, por cada aumento de 10 mmHg de la pCO2 la concentración de HCO3- aumenta 3,5 mEq/L si el trastorno es crónico."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 70,
+   "grupo": "especifico",
+   "titulo": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La compensación renal en la acidosis respiratoria crónica consiste en un aumento del HCO3- de 3,5 mEq/L por cada 10 mmHg de aumento de la pCO2 (opción D, correcta). Las fórmulas estándar de compensación son: alcalosis respiratoria aguda: descenso de HCO3- de 2 mEq/L por cada 10 mmHg de descenso de pCO2 (no 6 como dice A); alcalosis respiratoria crónica: descenso de HCO3- de 5 mEq/L por cada 10 mmHg (no 2 como dice B); acidosis respiratoria aguda: aumento de HCO3- de 1 mEq/L por cada 10 mmHg de aumento de pCO2 (no 5 como dice C).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación correcta:",
+  "opciones": {
+   "A": "Polipnea: inspiración profunda y prolongada.",
+   "B": "Hiperpnea: disnea que se produce en la posición de decúbito supino.",
+   "C": "Platipnea: disnea que se produce en la posición de decúbito lateral.",
+   "D": "Trepopnea: disnea que se produce en la posición erecta o vertical y que se alivia en la posición de decúbito."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 53,
+   "grupo": "especifico",
+   "titulo": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+  },
+  "explicacion": {
+   "correcta": "La polipnea se define como respiración rápida y superficial (aumento de la frecuencia respiratoria), aunque la opción A la describe como 'inspiración profunda y prolongada', que correspondería más a la respiración de Kussmaul. Sin embargo, es la opción señalada como correcta por el examen. Las demás son incorrectas: la hiperpnea es la disnea en decúbito supino (eso es ortopnea); la platipnea es la disnea en posición erecta que mejora en decúbito (no lateral); la trepopnea es la disnea en decúbito lateral que mejora en el lado contrario, no la disnea en posición erecta.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de los parámetros siguientes no se incluye en el índice DECAF que se recomienda utilizar para valorar el riesgo de mortalidad en el síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "Disnea.",
+   "B": "Leucocitosis.",
+   "C": "Consolidación.",
+   "D": "Fibrilación auricular."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 54,
+   "grupo": "especifico",
+   "titulo": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El índice DECAF es un score pronóstico de mortalidad en las agudizaciones de EPOC cuyo acrónimo corresponde a: D (Dyspnoea/Disnea según escala eMRCD), E (Eosinopenia), C (Consolidation/Consolidación radiológica), A (Acidemia con pH < 7,30), F (Atrial Fibrillation/Fibrilación auricular). La leucocitosis (opción B) NO forma parte del índice DECAF. Las opciones A (disnea), C (consolidación) y D (fibrilación auricular) sí están incluidas en el índice.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál es el parámetro clínico que da más valor a la puntuación de la escala PESI?",
+  "opciones": {
+   "A": "Frecuencia respiratoria.",
+   "B": "Edad.",
+   "C": "Cáncer.",
+   "D": "Alteración del estado mental."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 56,
+   "grupo": "especifico",
+   "titulo": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La escala PESI (Pulmonary Embolism Severity Index) asigna diferentes puntuaciones a sus variables. La alteración del estado mental (desorientación, letargia, estupor o coma) es el parámetro clínico puntual que más puntos suma (60 puntos), siendo el de mayor peso entre los parámetros clínicos. La edad (1 punto por año), el cáncer (30 puntos) y la frecuencia respiratoria ≥ 30 rpm (20 puntos) también puntúan, pero ninguno alcanza el peso de la alteración del estado mental en el cálculo del riesgo de mortalidad a 30 días.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la respuesta correcta sobre la primera actuación que deben llevar a cabo los sanitarios de la ambulancia de SVA en este caso (hombre de 43 años víctima de accidente de circulación a 110 km/h con signos de hipoperfusión distal, respuesta confusa, obedece órdenes verbales):",
+  "opciones": {
+   "A": "Canalizar dos vías al paciente y transfundirle cristaloides en bolo a razón de 500 mL en 30 minutos, dado que presenta signos evidentes de shock.",
+   "B": "Iniciar la valoración primaria para descartar posibles lesiones potencialmente mortales para el paciente.",
+   "C": "Ordenar al equipo de rescate que asegure la zona antes de iniciar la asistencia y utilizar los medios de protección individual establecidos.",
+   "D": "Ordenar la organización inmediata del traslado de la víctima dado su evidente estado de gravedad."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "El primer paso en la atención a cualquier víctima de accidente de tráfico es garantizar la seguridad de la escena: el equipo de rescate debe asegurar la zona y los sanitarios deben utilizar los equipos de protección individual antes de acercarse al paciente (opción C). Solo después de verificar la seguridad puede iniciarse la valoración primaria (ABCDE). Iniciar directamente la fluidoterapia (A), la valoración primaria (B) o el traslado (D) sin asegurar previamente la escena pone en riesgo al equipo asistencial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las respuestas siguientes no es un factor de riesgo para la identificación de un paciente con lesiones potencialmente graves y la decisión de trasladarlo al centro más adecuado?",
+  "opciones": {
+   "A": "Gran deformidad del habitáculo con necesidad de excarcelación durante más de veinte minutos.",
+   "B": "Caída de un adulto desde seis metros de altura.",
+   "C": "Evidencia de única fractura de un hueso largo.",
+   "D": "Coexistencia de fallecidos en el mismo compartimento de la víctima."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "Los criterios de mecanismo lesional para activar el protocolo de traumatismo grave incluyen: accidente a alta velocidad, necesidad de excarcelación prolongada (más de 20 minutos), caída desde más de 3 metros en adultos (o 6 metros en algunas guías), fallecidos en el mismo compartimento, etc. La presencia de una única fractura de un hueso largo (C) sin otros factores de riesgo no constituye por sí sola un criterio de traslado a centro de trauma de nivel superior, al contrario que las opciones A, B y D.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la respuesta falsa sobre la enfermedad traumática:",
+  "opciones": {
+   "A": "Actualmente es considerada una verdadera epidemia del siglo XXI dado el importante impacto que genera en los países desarrollados.",
+   "B": "En los países desarrollados, la mortalidad es significativamente superior en la franja de edad de adultos jóvenes (18-44 años).",
+   "C": "El concepto de distribución trimodal de la muerte en la enfermedad traumática hace referencia a los tres periodos en que se produce la muerte de una persona que ha sufrido un accidente. El primer periodo, conocido como «hora de oro», es aquel en el que se centran todos los esfuerzos de los programas de atención en politraumatismo grave.",
+   "D": "La estrategia en que se basan los programas de atención a pacientes politraumatizados graves es tratar primero la lesión que amenaza más la vida de la persona accidentada."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la C. En la distribución trimodal de la muerte traumática, el PRIMER pico (segundos a minutos del accidente) corresponde a muertes inmediatas por lesiones devastadoras, sobre las que apenas puede actuarse. El SEGUNDO pico (las primeras horas, la «hora de oro») es el que concentra los esfuerzos de los programas de atención al politraumatismo. El TERCER pico (días o semanas después) corresponde a muertes por sepsis o fracaso multiorgánico. Por tanto, la 'hora de oro' no corresponde al primer periodo, sino al segundo.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación más adecuada en relación con el caso clínico descrito (hombre de 43 años politraumatizado, clasificado como prioridad nivel I en triaje hospitalario):",
+  "opciones": {
+   "A": "Se trata de un caso de riesgo bajo, independientemente del nivel de urgencia asignado en el triaje hospitalario, y no requiere una actuación protocolizada de traumatismo grave.",
+   "B": "Se trata de un paciente con lesiones potencialmente graves que requieren una actuación protocolizada y sistematizada identificando y abordando las más graves.",
+   "C": "El paciente es un politraumatizado grave y está en shock, por lo que hay que avisar al quirófano para trasladarlo inmediatamente desde el mismo servicio de urgencias y hacerle una laparotomía exploradora.",
+   "D": "Claramente el paciente presenta lesiones graves, de modo que la primera actuación debe ser hacerle una tomografía computarizada (TC) completa para conocer el alcance de las lesiones."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "Un paciente politraumatizado clasificado como prioridad I (máxima urgencia) requiere una actuación protocolizada y sistematizada siguiendo el protocolo ATLS/SVA, identificando y abordando primero las lesiones más graves (opción B). La opción A es incorrecta porque niega la gravedad. La C es incorrecta porque traslada directamente a quirófano sin evaluación previa completa. La D es incorrecta porque realizar una TC completa como primera actuación puede ser una pérdida de tiempo preciosa en un paciente inestable; la prioridad es la estabilización hemodinámica.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre el protocolo de SVA para los casos de traumatismo grave:",
+  "opciones": {
+   "A": "Es un conjunto ordenado de tareas multidisciplinarias que permite identificar a los pacientes potencialmente graves, evaluar el patrón lesional y determinar qué pruebas complementarias son necesarias para completar la evaluación, todo ello encaminado a la evaluación priorizada de las lesiones del paciente.",
+   "B": "Es prioritario identificar las lesiones graves durante la primera fase de la valoración (valoración primaria) y las menos graves en la secundaria, y deben iniciarse la reanimación y el tratamiento una vez finalizadas ambas fases.",
+   "C": "La valoración secundaria permite componer el patrón de lesiones asociadas al traumatismo con el objetivo de determinar las pruebas complementarias.",
+   "D": "Saber qué pruebas son necesarias y relevantes dependiendo de la exploración y la situación del paciente es una competencia imprescindible para todo clínico que atienda a estos pacientes."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la B. En el protocolo ATLS/SVA para traumatismo grave, la reanimación y el tratamiento de las lesiones identificadas se inician SIMULTÁNEAMENTE con la valoración primaria, no al finalizar ambas fases de valoración. El principio fundamental es «tratar mientras se valora»: identificar la lesión que amenaza la vida y actuar de inmediato sobre ella sin esperar a completar toda la evaluación. Las demás afirmaciones (A, C, D) son correctas según el protocolo estándar de atención al politraumatizado.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: El nivel de conciencia de los pacientes politraumatizados se determina por medio de la escala de coma de Glasgow (CGS). Señale la respuesta correcta en relación con el caso clínico descrito (respondía de forma confusa, obedecía a las órdenes verbales abriendo los ojos):",
+  "opciones": {
+   "A": "La puntuación en la CGS es de 9 (O = 3, V = 5, M = 1).",
+   "B": "La puntuación en la CGS es de 13 (O = 3, V = 6, M = 4).",
+   "C": "La puntuación en la CGS es de 15 (O = 4, V = 5, M = 6).",
+   "D": "La puntuación en la CGS es de 13 (O = 3, V = 4, M = 6)."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "Aplicando la Escala de Coma de Glasgow al caso: apertura ocular a órdenes verbales = O3; respuesta verbal confusa = V4; obedece órdenes verbales = M6. Total: 3 + 4 + 6 = 13 puntos, correspondiente a la opción D (O=3, V=4, M=6). La opción B también suma 13 pero con V=6 (orientado) y M=4 (retirada), que no corresponden al caso. La opción A (9 puntos) y la C (15 puntos, máximo) no corresponden a la clínica descrita.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa en relación con el control adecuado de la vía aérea en un caso de traumatismo grave:",
+  "opciones": {
+   "A": "La causa más frecuente de obstrucción de la vía aérea es el nivel de conciencia bajo.",
+   "B": "El objetivo principal es permitir la ventilación y la oxigenación adecuadas. Si la víctima de un accidente está orientada y habla correctamente, eso indica que la vía aérea es permeable y que tiene una buena perfusión cerebral.",
+   "C": "El mal control de la vía aérea hace más difícil cualquier maniobra efectiva de reanimación posterior y aumenta la probabilidad de lesiones neurológicas irreversibles.",
+   "D": "Forma parte de las acciones que deben llevarse a cabo en la valoración secundaria."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la D. El control y manejo de la vía aérea es la primera prioridad de la valoración PRIMARIA (letra A del ABCDE), no de la valoración secundaria. La valoración secundaria es una exploración cefalocaudal más detallada que se realiza una vez estabilizado el paciente. Las opciones A (depresión del nivel de conciencia como causa más frecuente de obstrucción), B (paciente orientado y que habla = vía aérea permeable y perfusión cerebral adecuada) y C (consecuencias del mal control de vía aérea) son afirmaciones correctas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta en relación con el shock en los pacientes politraumatizados:",
+  "opciones": {
+   "A": "En el shock de grado I se estiman pérdidas entre el 30 % y el 40 % del volumen de sangre, de modo que se requiere transfusión de hemoderivados.",
+   "B": "El primer paso en el abordaje y el tratamiento del shock es reconocerlo: los signos más sensibles son la taquicardia y las características del pulso distal.",
+   "C": "La caída de la tensión arterial se produce en el shock de grado II, en que la pérdida de sangre es superior al 40 %, lo cual requiere perfusión de concentrado de hematíes, plasma y plaquetas en proporción 1:2:2.",
+   "D": "La prioridad en los casos de politraumatismo con shock hemorrágico es hacer una prueba de imagen que identifique la zona sangrante y la necesidad de intervenir quirúrgicamente."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La opción correcta es la B: el primer paso es reconocer el shock, y la taquicardia y el pulso distal débil o filiforme son los signos más precoces y sensibles. La A es incorrecta: el shock grado I implica pérdidas de hasta el 15% del volumen sanguíneo, no del 30-40% (que corresponde al grado III); la transfusión no es necesaria en grado I. La C es incorrecta: la caída de TA ocurre en el grado III (pérdida del 30-40%), no en el II; además la proporción de hemoderivados en transfusión masiva es 1:1:1. La D es incorrecta: la prioridad es el control del sangrado y la reanimación, no la imagen diagnóstica.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las respuestas siguientes no es una de las lesiones que deterioran de forma significativa la ventilación a corto plazo y que deben identificarse en la valoración primaria?",
+  "opciones": {
+   "A": "Hemotórax masivo.",
+   "B": "Neumotórax a tensión.",
+   "C": "Fracturas costales múltiples.",
+   "D": "Neumotórax abierto."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las lesiones torácicas que deben identificarse y tratarse en la valoración primaria (amenazas inmediatas a la vida) son: neumotórax a tensión, neumotórax abierto, hemotórax masivo, tórax inestable con contusión pulmonar, taponamiento cardiaco y obstrucción de vía aérea. Las fracturas costales múltiples (C), aunque importantes, no se consideran una lesión que comprometa inmediatamente la ventilación de forma aislada en la valoración primaria; su repercusión fisiológica (tórax inestable) es la que puede aparecer en la primaria, no la fractura costal simple o múltiple por sí sola.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los siguientes signos ecográficos realizados en el box de reanimación de un paciente politraumatizado en decúbito supino descarta con una especificidad cercana al 100 % un neumotórax traumático del área explorada?",
+  "opciones": {
+   "A": "Presencia de deslizamiento pleural.",
+   "B": "Existencia de líneas A anterior.",
+   "C": "Presencia de líneas B anterior.",
+   "D": "Visualización del pulso del pulmón."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 106,
+   "grupo": "especifico",
+   "titulo": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "La presencia de deslizamiento pleural (lung sliding) en la ecografía torácica descarta con una especificidad cercana al 100% la presencia de neumotórax en la zona explorada, ya que el deslizamiento pleural indica que las dos hojas pleurales están en contacto y se deslizan entre sí durante la ventilación, lo que es incompatible con la presencia de aire en el espacio pleural. Las líneas A (B) pueden aparecer tanto en pulmón normal como en neumotórax. Las líneas B (C) son artefactos que surgen de la interfaz pleural y su presencia descarta neumotórax pero también indica patología pulmonar. El pulso del pulmón (D) es otro signo ecográfico que descarta neumotórax pero es menos específico.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las escalas siguientes utilizadas en la enfermedad traumática predice con más exactitud el pronóstico de mortalidad?",
+  "opciones": {
+   "A": "Trauma Score Revisado (TRS).",
+   "B": "Trauma Score (TS).",
+   "C": "Injury Severity Score (ISS).",
+   "D": "Abbreviated Injury Scale (AIS)."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La pregunta plantea cuál de estas escalas predice con más exactitud el pronóstico de mortalidad. Aunque el ISS (Injury Severity Score) es la escala anatómica más utilizada para predecir mortalidad en politraumatismo, y el Trauma Score Revisado (RTS) es la fisiológica más empleada, la clave oficial del examen indica la AIS (Abbreviated Injury Scale) como respuesta correcta. La AIS es en realidad la escala de base sobre la que se calcula el ISS, pero en el contexto de este examen se indica como la que mejor predice el pronóstico de mortalidad.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál es el mecanismo lesional más frecuente en la fractura cervical C1, conocida como «fractura de Jefferson»?",
+  "opciones": {
+   "A": "Hiperextensión cervical.",
+   "B": "Compresión axial.",
+   "C": "Rotación y flexión lateral.",
+   "D": "Distracción cervical."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 88,
+   "grupo": "especifico",
+   "titulo": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La fractura de Jefferson (fractura estallido del atlas, C1) se produce por un mecanismo de compresión axial pura sobre el cráneo, que transmite la fuerza verticalmente hacia abajo sobre el atlas, provocando la rotura del anillo del C1 en varios puntos (generalmente cuatro). El mecanismo típico es una caída desde altura con impacto sobre el vértex craneal, o un golpe directo sobre la cabeza con el cuello en posición neutra. La hiperextensión (A), la rotación-flexión lateral (C) y la distracción (D) son mecanismos de otras fracturas cervicales.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál es la sospecha más probable en el caso de un paciente politraumatizado con tensión arterial de 86/50 mmHg, frecuencia cardiaca de 45 lpm y piel caliente?",
+  "opciones": {
+   "A": "Shock hemorrágico de grado III.",
+   "B": "Shock obstructivo causado por un taponamiento cardiaco.",
+   "C": "Shock medular causado por una lesión por encima de la vértebra T5.",
+   "D": "El traumatismo torácico de alta energía le ha provocado una lesión cardiaca que ha causado un shock cardiogénico."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La triada de hipotensión + bradicardia + piel caliente (vasodilatación periférica) en un politraumatizado es característica del shock medular (neurogénico), producido por lesiones medulares por encima de T5 o T6, que provocan la pérdida del tono simpático con vasodilatación y bradicardia relativa. El shock hemorrágico (A) cursa con taquicardia y vasoconstricción (piel fría). El taponamiento cardiaco (B) produce taquicardia, ingurgitación yugular y ruidos cardiacos apagados (triada de Beck). El shock cardiogénico (D) también produce taquicardia compensadora y piel fría.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Con qué signos típicos se sospecha una hipertensión intracraneal?",
+  "opciones": {
+   "A": "Nivel bajo de conciencia, bradicardia e hipertensión arterial.",
+   "B": "Nivel bajo de conciencia, taquicardia e hipertensión arterial.",
+   "C": "Amnesia retrógrada, bradicardia e hipotensión arterial.",
+   "D": "Hipertensión arterial, amnesia y taquicardia."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La hipertensión intracraneal grave se manifiesta con la tríada de Cushing: hipertensión arterial sistémica (reflejo de Cushing para mantener la perfusión cerebral), bradicardia (respuesta vagal refleja a la hipertensión) y alteración del patrón respiratorio, junto con deterioro del nivel de conciencia (opción A). La taquicardia (B y D) no forma parte de esta tríada. La hipotensión (C) es incompatible con el reflejo de Cushing. La amnesia retrógrada es un síntoma de conmoción cerebral leve, no de hipertensión intracraneal grave.",
+   "incorrectas": {}
+  }
+ }
+]

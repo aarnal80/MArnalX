@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II: Niña de 20 meses con 12 Kg que es llevada a urgencias del hospital por sus padres por fiebre de varios días. ¿Qué debe valorarse en primer lugar en el triaje?",
+  "opciones": {
+   "A": "Temperatura.",
+   "B": "Tensión arterial",
+   "C": "Triángulo de evaluación pediátrica.",
+   "D": "SO2"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Presenta temperatura timpánica de 39ºC, respira rápido, tiene aleteo nasal, tiende a dormirse a pesar de estimularla y la piel tiene aspecto moteado con manchitas rojas en la cara. ¿Qué nivel de prioridad tiene?",
+  "opciones": {
+   "A": "Nivel 1",
+   "B": "Nivel 2",
+   "C": "Nivel 3",
+   "D": "Nivel 4"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Presenta a los estímulos gemidos, relleno capilar > 3 seg, pulso braquial débil, petequias >2mm no limitadas al territorio de la vena cava superior y ausencia de signos meníngeos. ¿Ante qué escala clínica de valoración de riesgo nos encontramos en este momento?",
+  "opciones": {
+   "A": "YIOS > 7",
+   "B": "YALE < 16",
+   "C": "YIOS < 7",
+   "D": "YALE >16"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Con todos estos datos nos encontramos con alta sospecha de:",
+  "opciones": {
+   "A": "Sepsis.",
+   "B": "SRIS.",
+   "C": "Sepsis grave.",
+   "D": "Shock séptico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): ¿Qué no estaría indicado realizar a continuación?",
+  "opciones": {
+   "A": "Monitorización.",
+   "B": "Activación del Código Sepsis.",
+   "C": "Iniciar tratamiento de Sepsis grave.",
+   "D": "Con estos datos no es necesario priorizar actuaciones a seguir."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Se le ha administrado O2 y está monitorizada, presentando FR 40 rpm, FC 160 lpm, TA 60/35 y SO2 92%. De la siguiente secuencia de actuaciones señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Canalizar dos vías periféricas o en su defecto una vía central.",
+   "B": "Extracción de analítica: hemocultivo, hemograma, iones, calcio, urea, creatinina, transaminasa, gasometría, lactato y coagulación.",
+   "C": "Administrar 240cc de Suero Fisiológico en 5-10 minutos, de forma repetida hasta logro de objetivos.",
+   "D": "Valorar periódicamente la necesidad de intubación según el estado de consciencia, la situación cardio-respiratoria y la respuesta al tratamiento."
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Señale la incorrecta de los siguientes enunciados respecto al manejo terapéutico:",
+  "opciones": {
+   "A": "Tras la estabilización inicial se realizarán precozmente otras exploraciones complementarias o cultivos para localizar el foco.",
+   "B": "La antibioterapia debe realizarse en la primera hora y siempre tras la obtención de los cultivos.",
+   "C": "Tras la estabilización inicial se realizará Rx tórax.",
+   "D": "Corregir hipocalcemia/hipoglucemia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): A los 15 minutos presenta FC 165lpm, FR 40 rpm, TA 65/30, SO2 95%, relleno capilar > 2 segundos. ¿Qué cree que no estaría indicado en este momento?",
+  "opciones": {
+   "A": "Seguir optimizando el aporte volumétrico.",
+   "B": "Administrar Dopamina.",
+   "C": "Administrar Adrenalina o Noradrenalina si no hay respuesta con Dopamina o Dobutamina.",
+   "D": "Administrar Hidrocortisona."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Ante todos los datos anteriores ¿qué antibioterapia empírica considera más adecuada?",
+  "opciones": {
+   "A": "Ampicilina 600mg IV.",
+   "B": "Imipenen 300mg IV + Amikacina 180mg IV +/- Vancomicina 120 mg IV.",
+   "C": "Cefotaxima 900 mg IV.",
+   "D": "Amoxicilina-Clavulánico 300mg IV."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO II (continuación): Mientras esperan la medicación en la sala de espera los padres gritan porque la niña no responde y se le mueve el cuerpo. ¿En este momento qué prioridad hay que darle?",
+  "opciones": {
+   "A": "Nivel 2.",
+   "B": "Nivel 3.",
+   "C": "Nivel 1.",
+   "D": "Nivel 4."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III: Varón de 61 años, presenta estando en reposo, dolor interescapular, irradiado a hemitórax derecho, sudoración, náuseas, vómitos y disnea de 15 minutos. Desde el centro coordinador se alerta a equipo 061. AP: DM tipo 2, HTA, AIT, Cardiopatía hipertensiva, IRC. TA 158/95 mmHg. Sat O2 90%. EKG: ascenso de ST en I AVL V2-V4. ¿Qué es lo primero que debe hacer el equipo en domicilio?",
+  "opciones": {
+   "A": "Iniciamos perfusión de drogas vasoactivas.",
+   "B": "Monitorización ECG y realizamos ECG de 12 derivaciones.",
+   "C": "Administramos AAS y Cafinitrina sublingual.",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): En EKG se objetiva ritmo sinusal con ascenso de ST en I AVL V2-V4. ¿Qué actitud tomaremos si estamos a 30 minutos del centro hospitalario útil?",
+  "opciones": {
+   "A": "Reperfusión mediante Fibrinolisis inmediata",
+   "B": "Angioplastia primaria a la llegada al hospital",
+   "C": "Doble antiagregación y esperar",
+   "D": "Traslado al hospital para curva enzimática"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): ¿Cómo podemos evitar retrasos en la reperfusión?",
+  "opciones": {
+   "A": "Solicitar helicóptero para traslado",
+   "B": "Ir directamente al hospital. No hace falta avisar al centro coordinador.",
+   "C": "Contacto y traslado directo a la sala de hemodinámica, sin pasar por Urgencias.",
+   "D": "Presionar al conductor de la ambulancia para que corra más"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): Todos los hospitales y servicios de urgencias que participen en la atención de pacientes con IAMCEST deben registrar y monitorizar el tiempo de retraso. Indique la verdadera:",
+  "opciones": {
+   "A": "Desde el primer contacto médico al primer ECG menor o igual a 10 min",
+   "B": "Tiempo para angioplastia primaria menor o igual a 90 min",
+   "C": "Tiempo para angioplastia primaria menor o igual a 60 min si el paciente se presenta en los primeros 120 min desde el inicio de los síntomas o directamente a un centro con capacidad para realizar ICP.",
+   "D": "Todas son verdaderas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): ¿Qué tratamiento antiagregante empleamos?",
+  "opciones": {
+   "A": "No podemos utilizar doble antiagregación en este paciente. Tuvo un AIT",
+   "B": "Ya tomaba AAS, así está bien.",
+   "C": "Debemos conocer el riesgo hemorrágico, mediante Escala CRUSADE.",
+   "D": "Solo importa el riesgo isquémico"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): ¿Qué fármacos utilizamos como tratamiento antiagregante?",
+  "opciones": {
+   "A": "AAS 300 mg + Clopidogrel 600 mg",
+   "B": "AAS 300 mg + Ticagrelor 180 mg",
+   "C": "AAS 300 mg + Prasugrel 10 mg",
+   "D": "AAS 300 mg"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): ¿Debemos utilizar anticoagulantes?",
+  "opciones": {
+   "A": "No hace falta, vamos a ICP.",
+   "B": "Cuando hacemos fibrinólisis solo debemos anticoagular con enoxaparina",
+   "C": "Siempre debemos anticoagular hasta la revascularización.",
+   "D": "Está indicado tratamiento anticoagulante de rutina postprocedimiento tras ICP"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): ¿Qué anticoagulantes debemos utilizar?",
+  "opciones": {
+   "A": "La enoxaparina es preferible cuando hagamos fibrinólisis",
+   "B": "Si el paciente va a ICP no se puede utilizar bivalirudina",
+   "C": "El fondaparinux es un anticoagulante preferible en ICP",
+   "D": "La HNF ya no se utiliza."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): En cuanto al tiempo de mantenimiento de la antiagregación, señale la falsa:",
+  "opciones": {
+   "A": "El AAS debemos mantenerlo de forma indefinida",
+   "B": "La doble antiagregación durante seis meses",
+   "C": "Si el paciente está anticoagulado utilizaremos clopidogrel.",
+   "D": "Actualmente se está valorando de forma individualizada, en función del riesgo isquémico y el riesgo hemorrágico del paciente"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO III (continuación): La arritmia más frecuente en el IAMCEST es:",
+  "opciones": {
+   "A": "Fibrilación Auricular",
+   "B": "Taquicardia ventricular No sostenida",
+   "C": "Bloqueo AV de alto grado",
+   "D": "Fibrilación ventricular"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO IV: Paciente politraumatizado en Box de Críticos tras accidente de tráfico. No ha podido canalizar vía por agitación psicomotriz intensa. Se le ha administrado 10 mgrs. de midazolan intranasal. Presenta hematoma frontal y facial, porta Collarín cervical tipo Philadelphia, no respuesta verbal, ojos cerrados sin obedecer ordenes y agitación intensa. Abundantes restos hemáticos en camisa y pantalón, moviliza los MMSS pero no los MMII. ¿Cual sería su actitud inicial mas correcta?",
+  "opciones": {
+   "A": "Contención mecánica y canalizar vía venosa para sedación química.",
+   "B": "Intentar auscultar para descartar neumotórax y tratar como causa de la agitación.",
+   "C": "Canalizar vía venosa para administración rápida de fluidos por shock.",
+   "D": "Valorar pupilas para descartar consumo de tóxicos."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO IV (continuación): Una vez que la agitación se ha controlado, ¿cuál es el siguiente paso que daría?",
+  "opciones": {
+   "A": "Comprobar y asegurar permeabilidad de la vía aérea.",
+   "B": "Toma de TA y SaO2.",
+   "C": "Auscultar al paciente.",
+   "D": "Hacer glucemia capilar."
+  },
+  "respuesta_correcta": "A"
+ }
+]

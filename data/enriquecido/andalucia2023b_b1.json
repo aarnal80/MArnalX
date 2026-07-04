@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "La Constitución Española señala que los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad, en su artículo:",
+  "opciones": {
+   "A": "50.",
+   "B": "51.",
+   "C": "52.",
+   "D": "53."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 1, "tema": "Constitución/Estatuto Autonomía"},
+  "explicacion": {
+   "correcta": "El artículo 50 de la Constitución Española establece que los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Este artículo forma parte del Capítulo III del Título I dedicado a los principios rectores de la política social y económica. Es un mandato constitucional directo a los poderes públicos para la protección económica de las personas mayores.",
+   "incorrectas": {
+    "B": "El artículo 51 CE regula la defensa de los consumidores y usuarios, garantizando su seguridad, salud y legítimos intereses económicos; no tiene relación con pensiones ni con la tercera edad.",
+    "C": "El artículo 52 CE hace referencia a las organizaciones profesionales que contribuyen a la defensa de intereses económicos propios, sin relación con las pensiones de la tercera edad.",
+    "D": "El artículo 53 CE regula las garantías de los derechos y libertades fundamentales, estableciendo los mecanismos de tutela y protección de los derechos reconocidos en el Título I."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "La Junta de Andalucía es la institución en que se organiza políticamente el autogobierno de la Comunidad Autónoma, y está integrada por el Parlamento de Andalucía, la Presidencia de la Junta y el Consejo de Gobierno. Además, el Estatuto de Autonomía de nuestra Comunidad (Ley Orgánica 2/2007, de 19 de marzo) establece que otras instituciones y órganos regulados en el mismo texto legal forman parte también de la organización de la Junta de Andalucía, y entre estos se encuentra:",
+  "opciones": {
+   "A": "Defensor del Pueblo Andaluz.",
+   "B": "Consejo de Trasparencia.",
+   "C": "Cámara de Comercio de Andalucía.",
+   "D": "Consejo de Radiotelevisión Pública de Andalucía."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 1, "tema": "Constitución/Estatuto Autonomía"},
+  "explicacion": {
+   "correcta": "El Defensor del Pueblo Andaluz está expresamente reconocido en el Estatuto de Autonomía de Andalucía (LO 2/2007) como institución propia de la Junta de Andalucía, regulada directamente en el Título IV del Estatuto. Su función es supervisar la actividad de la Administración autonómica en defensa de los derechos y libertades de la ciudadanía andaluza.",
+   "incorrectas": {
+    "B": "El Consejo de Transparencia y Protección de Datos de Andalucía es un organismo independiente creado por legislación sectorial posterior, pero no está configurado como institución de la Junta en el propio texto del Estatuto de Autonomía.",
+    "C": "La Cámara de Comercio de Andalucía es una corporación de derecho público que representa intereses empresariales y comerciales, sin formar parte de la organización institucional de la Junta de Andalucía recogida en el Estatuto.",
+    "D": "El Consejo Audiovisual de Andalucía tiene naturaleza de organismo regulador del sector audiovisual y se rige por legislación sectorial específica; no está contemplado como institución propia de la Junta en el texto estatutario."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Los pinchazos accidentales constituyen un importante problema de salud laboral por su relativa alta frecuencia (son el accidente con riesgo biológico más corriente) y por las consecuencias que pueden comportar desde el punto de vista de contagio. Todas las siguientes son recomendaciones básicas que deben seguirse para evitar accidentes de este tipo, EXCEPTO:",
+  "opciones": {
+   "A": "Desechar las pipetas de vidrio con el borde roto.",
+   "B": "No manipular residuos en el interior de los contenedores, ya que estos pueden contener en su interior agujas y material punzante o cortante.",
+   "C": "No volver a encapsular las agujas ya usadas.",
+   "D": "Usar guantes desechables para cualquier manipulación de material sanitario."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 34, "tema": "Seguridad paciente"},
+  "explicacion": {
+   "correcta": "Usar guantes desechables para cualquier manipulación de material sanitario es una recomendación excesivamente amplia que no se corresponde con las guías de bioseguridad para prevención de pinchazos. Los guantes protegen del contacto con fluidos biológicos pero no evitan los pinchazos con objetos punzantes, ya que no son resistentes a perforaciones. Las recomendaciones específicas para prevenir pinchazos son otras: no reencapuchar agujas, no manipular los contenedores, desechar material roto correctamente.",
+   "incorrectas": {
+    "A": "Desechar las pipetas de vidrio con el borde roto es una recomendación básica correcta para evitar cortes y exposición accidental a material biológico contaminado en el entorno sanitario y de laboratorio.",
+    "B": "No manipular residuos en el interior de los contenedores es una medida preventiva correcta, ya que los contenedores pueden contener agujas y material punzante depositado previamente que podría provocar un pinchazo accidental.",
+    "C": "No volver a encapsular las agujas usadas es una de las recomendaciones más relevantes para la prevención de pinchazos accidentales, ya que la maniobra de reencapuchado es una de las causas más frecuentes de este tipo de accidente."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El Estatuto Marco del personal estatutario de los servicios de salud (Ley 55/2003), señala en su artículo 10, como principal instrumento de configuración y cohesión del Sistema Nacional de Salud (SNS), y que conocerá, debatirá y, en su caso, emitirá recomendaciones sobre los criterios para la coordinación de la política de recursos humanos del SNS:",
+  "opciones": {
+   "A": "A la Comisión de Recursos Humanos del Sistema Nacional de Salud.",
+   "B": "Al Consejo Interterritorial del Sistema Nacional de Salud.",
+   "C": "Al Ministerio de Sanidad.",
+   "D": "Al Foro Marco para el Diálogo Social."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 14, "tema": "Estatuto Marco I (principios)"},
+  "explicacion": {
+   "correcta": "El artículo 10 de la Ley 55/2003 (Estatuto Marco) designa al Consejo Interterritorial del SNS como el principal instrumento de configuración y cohesión del Sistema Nacional de Salud, siendo el órgano que conocerá, debatirá y emitirá recomendaciones sobre los criterios de coordinación de la política de recursos humanos del SNS. El Consejo Interterritorial es el foro permanente de coordinación y cooperación entre el Estado y las comunidades autónomas en materia sanitaria.",
+   "incorrectas": {
+    "A": "La Comisión de Recursos Humanos del SNS es un órgano técnico dependiente del Consejo Interterritorial que aborda aspectos específicos de los recursos humanos, pero el artículo 10 del Estatuto Marco no la señala como principal instrumento de cohesión del SNS.",
+    "C": "El Ministerio de Sanidad tiene competencias de coordinación general, pero el artículo 10 del Estatuto Marco no le atribuye específicamente la función de conocer y emitir recomendaciones sobre la política de recursos humanos del SNS en los términos descritos.",
+    "D": "El Foro Marco para el Diálogo Social es el órgano de participación sindical y negociación colectiva en el SNS, pero no es el instrumento principal de configuración y cohesión del SNS señalado en el artículo 10."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Referido a la obtención por primera vez de la Tarjeta Sanitaria de Andalucía, todas las siguientes afirmaciones son ciertas, EXCEPTO:",
+  "opciones": {
+   "A": "Supone el registro del solicitante en la Base de Datos de personas usuarias (BDU).",
+   "B": "Al solicitar la tarjeta es imprescindible que el/la ciudadano/a señale el centro de atención primaria y profesional de medicina de familia o pediatría que desea.",
+   "C": "Requiere la acreditación de la residencia en Andalucía mediante certificado de empadronamiento.",
+   "D": "Es necesario presentar el modelo de solicitud, cumplimentado, en un centro de atención primaria."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 25, "tema": "Estructura Consejería/Servicio Salud"},
+  "explicacion": {
+   "correcta": "Al solicitar la Tarjeta Sanitaria de Andalucía por primera vez no es imprescindible que el ciudadano indique expresamente el centro de atención primaria y el profesional que desea. La asignación de médico y centro de salud se realiza de forma automática según el domicilio de empadronamiento, sin que el solicitante deba especificarlo como requisito obligatorio en el momento de la solicitud inicial; puede solicitarlo posteriormente.",
+   "incorrectas": {
+    "A": "Es cierto: la obtención de la tarjeta sanitaria supone el registro del solicitante en la Base de Datos de Usuarios (BDU), que es el registro centralizado del SAS que identifica a los ciudadanos con derecho a cobertura sanitaria en Andalucía.",
+    "C": "Es cierto: se requiere acreditar la residencia en Andalucía, habitualmente mediante certificado de empadronamiento, como condición para acceder a la cobertura del Servicio Andaluz de Salud.",
+    "D": "Es cierto: para obtener la tarjeta sanitaria por primera vez es necesario presentar el modelo oficial de solicitud cumplimentado en un centro de atención primaria, que actúa como punto de tramitación habitual."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Los profesionales del Servicio Andaluz de Salud (SAS) están asegurados mediante un contrato de seguro de responsabilidad que garantiza las consecuencias económicas a las que vendría obligado a indemnizar por haber causado daños y perjuicios a un tercero en la actividad prestada para el SAS. ¿Cuál de las siguientes afirmaciones sobre esta cobertura es cierta?",
+  "opciones": {
+   "A": "Si un profesional del SAS es considerado responsable por cualquier actuación amparada por el contrato de seguro de responsabilidad, que no sea causada por una intención de producir voluntariamente un daño a un tercero, no tendrá que abonar cantidad alguna.",
+   "B": "Los profesionales del SAS están siempre asegurados, ya que ante cualquier situación, tanto la responsabilidad civil profesional como la responsabilidad patrimonial está cubierta por la empresa de seguros que tenga contratada el Organismo.",
+   "C": "En caso de recibir una reclamación, hay que comunicar la misma directamente al Servicio de Gerencia de Riesgos del SAS.",
+   "D": "Todos los profesionales del SAS cuentan con la defensa de los letrados del Servicio Andaluz de Salud, por lo que no está previsto que el profesional elija a su propio abogado."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 11, "tema": "Ley Ordenación Profesiones Sanitarias"},
+  "explicacion": {
+   "correcta": "La cobertura del seguro de responsabilidad del SAS ampara al profesional ante actuaciones no dolosas realizadas en el ejercicio de su actividad asistencial para el organismo. Si el profesional es declarado responsable por una actuación cubierta (es decir, sin intención de causar daño), la póliza asume la indemnización y el profesional no debe abonar cantidad alguna. La cobertura excluye expresamente los daños causados de forma dolosa o intencionada.",
+   "incorrectas": {
+    "B": "No es cierto que los profesionales estén siempre asegurados ante cualquier situación. La póliza tiene exclusiones importantes, entre ellas los actos dolosos, las actuaciones fuera del ámbito asistencial del SAS y otras circunstancias previstas en el contrato, por lo que la cobertura no es absoluta.",
+    "C": "La comunicación de una reclamación sigue un protocolo institucional establecido que normalmente implica notificar a la dirección del centro o a los servicios jurídicos del área; no se realiza directamente al Servicio de Gerencia de Riesgos como primer paso.",
+    "D": "No es exacto que todos los profesionales del SAS carezcan de opción de elegir su propio abogado. En circunstancias donde los intereses del profesional puedan divergir de los institucionales, especialmente en procedimientos penales, el profesional puede tener derecho a una defensa jurídica propia."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Referido a los indicadores de salud, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opciones": {
+   "A": "Un indicador puede ser algo tan simple como un número absoluto de eventos, o un cálculo complejo, como la esperanza de vida al nacer o la tasa de fecundidad.",
+   "B": "Los indicadores de salud deben ser mediciones relativas, que están compuestos por un numerador y un denominador que, por lo general, se refieren al mismo período y el mismo lugar.",
+   "C": "Son mediciones absolutas: la razón, la proporción, la tasa y los llamados odds.",
+   "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 27, "tema": "Epidemiología"},
+  "explicacion": {
+   "correcta": "Los indicadores de salud no tienen que ser necesariamente mediciones relativas: pueden ser números absolutos simples (por ejemplo, número total de muertes) o cálculos complejos como la esperanza de vida al nacer o la tasa de fecundidad. La definición de indicador de salud es amplia e incluye cualquier medida que permita evaluar el estado de salud de una población o un aspecto concreto del sistema sanitario.",
+   "incorrectas": {
+    "B": "Es incorrecto que los indicadores de salud deban ser siempre mediciones relativas con numerador y denominador. Los números absolutos de eventos (recuentos) también son indicadores válidos y ampliamente utilizados en epidemiología y salud pública.",
+    "C": "Es incorrecto clasificar la razón, la proporción, la tasa y los odds como mediciones absolutas. Todas ellas son mediciones relativas, ya que relacionan un numerador con un denominador; son lo contrario de medidas absolutas.",
+    "D": "No pueden ser correctas todas las anteriores porque las opciones B y C contienen afirmaciones erróneas sobre la naturaleza y clasificación de los indicadores de salud."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "La tasa de fecundidad es un buen indicador de la conducta reproductiva de la población, que además no se ve afectado por la estructura etaria. ¿Cómo se calcula?",
+  "opciones": {
+   "A": "Numero de nacidos vivos en un año / número de mujeres a mitad de ese año.",
+   "B": "Número de embarazos en un año / número de mujeres entre 15 y 49 años a mitad de ese año.",
+   "C": "Número de nacidos vivos en un año / número de mujeres entre 15 y 49 años a mitad de ese año.",
+   "D": "Promedio de hijos que cada mujer dejaría al cumplir los 50 años."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 27, "tema": "Epidemiología"},
+  "explicacion": {
+   "correcta": "La tasa de fecundidad general se calcula dividiendo el número de nacidos vivos en un año entre el número de mujeres en edad fértil (15-49 años) a mitad de ese año. Al restringir el denominador a las mujeres en edad reproductiva, el indicador elimina la influencia de la estructura etaria de la población total, lo que lo hace más específico de la conducta reproductiva que la tasa bruta de natalidad.",
+   "incorrectas": {
+    "A": "Esta fórmula corresponde a la tasa bruta de natalidad, que usa el total de mujeres (o de población) como denominador sin restricción de edad, por lo que sí se ve afectada por la estructura etaria y es menos específica de la conducta reproductiva.",
+    "B": "Esta fórmula es incorrecta porque usa embarazos en lugar de nacidos vivos. La tasa de fecundidad se basa en nacidos vivos; incluir los embarazos incorporaría abortos espontáneos y pérdidas fetales, distorsionando el indicador.",
+    "D": "Esta definición corresponde al Índice Sintético de Fecundidad (ISF), que estima el número medio de hijos por mujer a lo largo de toda su vida fértil; es un indicador diferente de la tasa general de fecundidad."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre la desviación estándar es correcta?",
+  "opciones": {
+   "A": "La desviación estándar es la medida de dispersión más común, que indica cuán dispersos están los datos con respecto a la media.",
+   "B": "En una muestra de valores, mientras mayor sea la desviación estándar de una variable, menor será la dispersión de los datos de dicha variable.",
+   "C": "El símbolo σ (sigma) se utiliza frecuentemente para representar la desviación estándar de una muestra.",
+   "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 26, "tema": "Investigación/estadística"},
+  "explicacion": {
+   "correcta": "La desviación estándar (DE) es efectivamente la medida de dispersión más utilizada en estadística descriptiva. Cuantifica cuánto se alejan los valores individuales de la media del conjunto; una DE grande indica mayor dispersión y una DE pequeña indica que los datos están más concentrados alrededor de la media.",
+   "incorrectas": {
+    "B": "Esta afirmación invierte la relación correcta: a mayor desviación estándar, MAYOR es la dispersión de los datos, no menor. La desviación estándar es directamente proporcional a la variabilidad de la distribución.",
+    "C": "El símbolo σ (sigma minúscula) representa la desviación estándar POBLACIONAL, no la muestral. La desviación estándar de una muestra se representa con la letra 's' minúscula. Esta distinción tiene importancia en estadística inferencial.",
+    "D": "No pueden ser correctas todas las respuestas anteriores porque las opciones B y C contienen errores conceptuales sobre la interpretación y notación de la desviación estándar."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Usted está llevando a cabo un análisis de la casuística de su unidad en el último año, con los datos que le han proporcionado desde el Servicio de Información y Calidad, y quiere comprobar si la mortalidad hospitalaria está relacionada con los días de la semana. En concreto, teniendo datos de los pacientes hospitalizados y de los éxitus habidos durante el ingreso hospitalario, así como de la fecha y hora de fallecimiento en cada caso, se plantea responder a la siguiente pregunta operativa: ¿es diferente la proporción de mortalidad (razón de Nº de pacientes fallecidos/Nº de pacientes ingresados) si se comparan fines de semana (desde las 00 horas del sábado hasta las 8 horas del lunes) con resto de los días de la semana (desde las 8.01 horas del lunes a las 23.59 horas del viernes)?. Para llevar a cabo esta comparación entre las dos variables así definidas, recurrirá a ¿qué test de contraste de hipótesis?",
+  "opciones": {
+   "A": "Test T de Student.",
+   "B": "Test Chi cuadrado.",
+   "C": "Regresión lineal simple.",
+   "D": "Regresión logística multivariante."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 26, "tema": "Investigación/estadística"},
+  "explicacion": {
+   "correcta": "El test Chi cuadrado es el test de contraste adecuado para comparar proporciones (variables categóricas) entre dos grupos independientes. En este caso se compara la proporción de mortalidad (variable categórica dicotómica: fallecido/no fallecido) entre dos grupos de días (fin de semana vs. días laborables), lo que constituye exactamente el escenario para una tabla de contingencia 2x2 analizada con Chi cuadrado.",
+   "incorrectas": {
+    "A": "El test T de Student compara medias de variables cuantitativas continuas entre dos grupos, no proporciones entre grupos. No es apropiado para comparar variables dicotómicas como el estado vital.",
+    "C": "La regresión lineal simple analiza la relación entre dos variables cuantitativas continuas para predecir una a partir de la otra; no es el método adecuado para comparar proporciones entre grupos categóricos.",
+    "D": "La regresión logística multivariante es útil para ajustar por múltiples covariables simultáneamente sobre una variable binaria, pero para una comparación simple de dos proporciones sin ajuste, el Chi cuadrado es suficiente y más parsimonioso."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Qué prueba de las siguientes emplearía para evaluar una posible asociación o relación entre dos variables cuantitativas?",
+  "opciones": {
+   "A": "T de Student.",
+   "B": "Chi cuadrado.",
+   "C": "Regresión lineal simple.",
+   "D": "ANOVA."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 26, "tema": "Investigación/estadística"},
+  "explicacion": {
+   "correcta": "La regresión lineal simple es el método estadístico adecuado para evaluar la asociación o relación entre dos variables cuantitativas continuas. Permite determinar si existe una relación lineal entre ellas, cuantificar su dirección y magnitud, y predecir el valor de una variable a partir de la otra. El coeficiente de correlación de Pearson es la medida complementaria habitual de la fuerza de la asociación.",
+   "incorrectas": {
+    "A": "La T de Student compara las medias de una variable cuantitativa entre dos grupos independientes (o muestras pareadas), no analiza la relación entre dos variables cuantitativas.",
+    "B": "El Chi cuadrado evalúa la asociación entre dos variables categóricas (cualitativas nominales u ordinales), no es apropiado para analizar la relación entre dos variables cuantitativas continuas.",
+    "D": "El ANOVA compara las medias de una variable cuantitativa entre tres o más grupos definidos por una variable categórica; tampoco sirve para evaluar la relación entre dos variables cuantitativas."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Plantea hacer un estudio de investigación sobre una de las patologías que con más frecuencia se atiende en las consultas generales de su unidad clínica, partiendo de la premisa de que \"seguro que dispondrá de una muestra grande en la que podrá hacer múltiples análisis y comparaciones\". Al final, después de un trabajo recopilatorio que le ha supuesto un gran esfuerzo a usted y a sus residentes, ha conseguido identificar a 364 pacientes que cumplirían con el diagnóstico de la patología concreta que pretenden analizar, y ahora se disponen a recoger múltiples variables demográficas, clínicas y evolutivas (en total 74 variables) en una Hoja de Recogida de Datos que ha diseñado para ello. Sobre este estudio de investigación y su diseño, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opciones": {
+   "A": "Es un estudio que, aunque no demasiado bien planificado, tiene un diseño de cohorte retrospectiva, y se podrán hacer análisis de factores etiológicos y pronósticos de la enfermedad en cuestión.",
+   "B": "Como se conoce qué pacientes de la muestra han fallecido, se hará un diseño de casos y controles para evaluar los factores relacionados con la mortalidad en esta enfermedad.",
+   "C": "En principio es un diseño de tipo descriptivo, y cualquier comparación entre variables recogidas en esta serie de pacientes debe, además de minimizarse, tener sentido a la luz de los conocimientos actualizados en dicha enfermedad y someterse a la máxima prudencia a la hora de sacar conclusiones.",
+   "D": "Por la cantidad de variables recogidas, seguro que habrá de recurrirse a los análisis multivariantes al hacer comparaciones estadísticas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 26, "tema": "Investigación/estadística"},
+  "explicacion": {
+   "correcta": "El estudio descrito es una serie de casos (diseño descriptivo) sin grupo control definido ni hipótesis analítica a priori. Las comparaciones entre las 74 variables recogidas a posteriori generan un grave problema de comparaciones múltiples, aumentando exponencialmente el riesgo de hallazgos espurios por azar. Por ello deben minimizarse y siempre interpretarse con extrema cautela, fundamentándose en el conocimiento clínico previo.",
+   "incorrectas": {
+    "A": "No es un estudio de cohorte retrospectiva, ya que no hay una exposición definida a priori ni un grupo comparador. Una cohorte requiere la identificación de grupos según exposición y el seguimiento de su evolución para comparar la incidencia de eventos.",
+    "B": "Para realizar un estudio de casos y controles válido sería necesario seleccionar explícitamente casos (fallecidos) y controles (no fallecidos) con criterios rigurosos de emparejamiento, y buscar retrospectivamente los factores de exposición. El estudio descrito no tiene esa estructura de diseño.",
+    "D": "Tener muchas variables recogidas no implica que deban usarse necesariamente análisis multivariantes. El uso de estos análisis depende de los objetivos del estudio y de hipótesis previas justificadas; realizar múltiples análisis no planificados en un estudio descriptivo es precisamente el problema metodológico que señala la opción correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Está evaluando un brote epidémico con 60 afectados (vómitos y diarreas), y tiene datos de las 300 personas que estuvieron a riesgo, pues fue una celebración a puerta cerrada en un restaurante. De 70 personas que recuerdan haber tomado unas tartaletas con ensaladilla, 50 tienen síntomas de gastroenteritis aguda (GEA); mientras que en los restantes 230 invitados, que no tomaron dichos canapés (o no lo recuerdan bien) hay 10 con GEA. Con estos datos se pueden calcular diferentes indicadores; pero, ¿cuál de los siguientes es la odds ratio de GEA asociada al consumo de tartaletas de ensaladilla?",
+  "opciones": {
+   "A": "OR = (50 x 220) / (10 x 20) = 55.",
+   "B": "OR = 50 / 10 = 5.",
+   "C": "OR = (50 / 70) / (10 / 230) = 16.4.",
+   "D": "Ninguno de los anteriores."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 28, "tema": "Medidas asociación/sesgos"},
+  "explicacion": {
+   "correcta": "La Odds Ratio se calcula con la fórmula (a×d)/(b×c) de la tabla 2x2: expuestos con GEA (a=50), expuestos sin GEA (b=70-50=20), no expuestos con GEA (c=10), no expuestos sin GEA (d=230-10=220). OR = (50×220)/(20×10) = 11000/200 = 55. Una OR de 55 indica que quienes comieron las tartaletas tuvieron 55 veces más odds de desarrollar GEA en comparación con quienes no las consumieron.",
+   "incorrectas": {
+    "B": "OR = 50/10 = 5 no es la fórmula de la Odds Ratio; simplemente divide los casos entre expuestos y no expuestos sin considerar los no enfermos en cada grupo, lo que no representa ninguna medida epidemiológica estándar de asociación.",
+    "C": "OR = (50/70)/(10/230) = 16,4 corresponde al Riesgo Relativo (RR) o razón de riesgos, que divide las proporciones de enfermos entre expuestos y no expuestos. Es una medida válida pero diferente de la Odds Ratio.",
+    "D": "No es correcto que ninguna de las opciones sea la OR; la opción A aplica correctamente la fórmula cruzada de la tabla de contingencia 2x2 para calcular la Odds Ratio."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En la metodología de diseño de los PAIs (Procesos Asistenciales Integrados), ¿qué es cierto referido al \"limite final\"?",
+  "opciones": {
+   "A": "La salida del proceso puede producirse en cualquiera de los niveles asistenciales.",
+   "B": "En los procesos crónicos, el límite final es siempre el fallecimiento del paciente.",
+   "C": "En los procesos agudos, suele ser difícil establecer con precisión el límite final.",
+   "D": "Todas las respuestas anteriores son ciertas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 37, "tema": "Gestión calidad"},
+  "explicacion": {
+   "correcta": "En la metodología de los Procesos Asistenciales Integrados (PAI) del sistema sanitario andaluz, el límite final o salida del proceso puede producirse en cualquiera de los niveles asistenciales: atención primaria, especializada u hospitalaria. Lo determinante es que se hayan cumplido los criterios de salida definidos para ese PAI concreto, independientemente del nivel en que se encuentre el paciente en ese momento.",
+   "incorrectas": {
+    "B": "En los procesos crónicos el límite final no es siempre el fallecimiento del paciente. Puede ser la estabilización clínica, el alta a otro recurso asistencial, la transferencia a cuidados paliativos u otro hito asistencial definido en el PAI específico.",
+    "C": "En los procesos agudos suele ser más sencillo establecer el límite final (alta hospitalaria, resolución del episodio agudo, etc.), siendo los procesos crónicos donde la definición del límite final puede resultar más difusa por la continuidad de la enfermedad.",
+    "D": "No pueden ser ciertas todas las anteriores porque las opciones B y C contienen afirmaciones incorrectas respecto a la metodología PAI."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "La precisión de las pruebas diagnósticas se define en relación con un \"método ideal\" (o gold estándar) aceptado, que define el presunto estado real del paciente, y la exactitud de la nueva prueba para distinguir entre la enfermedad y la salud se determina en relación con los resultados del estándar de referencia y se resume en cuatro estimaciones. ¿Cuál de las siguientes afirmaciones, sobre estas estimaciones, es INCORRECTA?",
+  "opciones": {
+   "A": "La sensibilidad -o tasa de resultados positivos verdaderos de una nueva prueba- es la proporción de pacientes con la enfermedad (definida por el gold estándar) que tienen un resultado positivo en la nueva prueba.",
+   "B": "La proporción de pacientes con enfermedad que tienen una prueba negativa, es la tasa de resultados negativos falsos, que se calcula como (1 - especificidad).",
+   "C": "Entre los pacientes sin enfermedad, la proporción de casos con pruebas negativas corresponde a la especificidad, o tasa de resultados negativos verdaderos.",
+   "D": "La especificidad, o tasa de negativos verdaderos, refleja qué tan bien la prueba nueva identifica en forma correcta a los pacientes sin la enfermedad."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 29, "tema": "Ensayos clínicos/validez diagnóstica"},
+  "explicacion": {
+   "correcta": "La afirmación B es INCORRECTA porque la tasa de falsos negativos (enfermos con prueba negativa) se calcula como (1 - sensibilidad), no como (1 - especificidad). La sensibilidad mide la proporción de enfermos detectados por la prueba; por tanto, los falsos negativos son los enfermos no detectados, y su proporción es 1 menos la sensibilidad. (1 - especificidad) es la tasa de falsos positivos, un concepto completamente diferente.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: la sensibilidad es VP/(VP+FN), es decir, la proporción de verdaderos enfermos que dan positivo en la prueba, también llamada tasa de verdaderos positivos.",
+    "C": "Esta afirmación es correcta: la especificidad es VN/(VN+FP), es decir, la proporción de verdaderos sanos que dan negativo en la prueba, también llamada tasa de verdaderos negativos.",
+    "D": "Esta afirmación es correcta: la especificidad refleja la capacidad de la prueba para identificar correctamente a los pacientes sin enfermedad, minimizando los falsos positivos."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El manejo inicial en urgencias de un paciente hemodinámicamente estable, con taquicardia regular de complejo QRS estrecho, puede incluir:",
+  "opciones": {
+   "A": "Maniobras vagales.",
+   "B": "Adenosina.",
+   "C": "Verapamilo.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 47, "tema": "Taquiarritmias"},
+  "explicacion": {
+   "correcta": "En el paciente hemodinámicamente estable con taquicardia regular de QRS estrecho (habitualmente una taquicardia supraventricular paroxística), las guías ESC y AHA contemplan como opciones válidas: las maniobras vagales (primera medida; Valsalva, masaje del seno carotídeo), la adenosina iv (fármaco de elección por su vida media ultracorta y alta eficacia en TSV) si fracasan las maniobras vagales, y los calcioantagonistas no dihidropiridínicos como el verapamilo en pacientes sin contraindicaciones. Las tres opciones son por tanto correctas.",
+   "incorrectas": {
+    "A": "Las maniobras vagales son la primera medida correcta pero no son la única opción disponible; forman parte de un algoritmo escalonado que incluye fármacos si no son eficaces.",
+    "B": "La adenosina es una opción farmacológica válida y de primera línea, pero tampoco es la única opción correcta en este contexto clínico.",
+    "C": "El verapamilo iv es válido en TSV estable sin contraindicaciones (evitar en preexcitación, insuficiencia cardiaca grave o hipotensión), pero no es la única opción correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Dentro de las manifestaciones agudas de las malformaciones cardíacas y su tratamiento, ¿cuál de las siguientes es la FALSA?:",
+  "opciones": {
+   "A": "El riesgo de endocarditis infecciosa (EI) de los pacientes con cardiopatía congénita del adulto es menor que para la población general.",
+   "B": "La insuficiencia cardiaca es una complicación frecuente que afecta al 20-50% de los pacientes con cardiopatía congénita y es su principal causa de muerte.",
+   "C": "El trasplante cardiopulmonar se aplica a pacientes con cardiopatía congénita que tengan hipertensión arterial pulmonar irreversible, como el síndrome de Eisenmenger.",
+   "D": "Después de evaluar la causa del episodio y excluir las causas reversibles, está indicado el implante de un DAI para los adultos con cardiopatía congénita que han sobrevivido a parada cardiaca por FV o TV no tolerada hemodinámicamente."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 52, "tema": "Urgencias cardiovasculares (HTA/aórtico/pericarditis/taponamiento)"},
+  "explicacion": {
+   "correcta": "La afirmación A es FALSA: los pacientes con cardiopatía congénita del adulto tienen un riesgo de endocarditis infecciosa MAYOR que la población general, no menor. Las malformaciones estructurales crean turbulencias y zonas de daño endotelial que predisponen a la colonización bacteriana. Las guías ESC de endocarditis infecciosa reconocen la cardiopatía congénita como uno de los principales factores de riesgo para EI.",
+   "incorrectas": {
+    "B": "Es verdadera: la insuficiencia cardiaca afecta al 20-50% de los adultos con cardiopatía congénita y representa su principal causa de mortalidad, especialmente en lesiones complejas o con reparación incompleta.",
+    "C": "Es verdadera: el trasplante cardiopulmonar combinado es una opción terapéutica indicada en pacientes con cardiopatía congénita e hipertensión pulmonar irreversible como el síndrome de Eisenmenger, cuando se han agotado otras alternativas.",
+    "D": "Es verdadera: las guías de cardiopatías congénitas del adulto recomiendan el implante de DAI en prevención secundaria tras parada cardiaca por FV o TV hemodinámicamente no tolerada, una vez excluidas las causas reversibles."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En relación al diagnóstico de pancreatitis aguda mediante pruebas de laboratorio, ¿cuál es la respuesta FALSA?",
+  "opciones": {
+   "A": "La lipasa es la prueba de diagnóstico preferida, ya que es más precisa.",
+   "B": "La amilasa sérica normal excluye el diagnóstico de pancreatitis aguda.",
+   "C": "Niveles de lipasa o amilasa de, al menos, dos o tres veces el límite superior del normal, apoyan el diagnóstico de pancreatitis aguda.",
+   "D": "Hay muchas fuentes de amilasa extrapancreática, por lo que es relativamente inespecífica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 63, "tema": "Pancreatitis aguda"},
+  "explicacion": {
+   "correcta": "La afirmación B es FALSA: una amilasa sérica normal NO excluye el diagnóstico de pancreatitis aguda. Existen situaciones en las que la amilasa puede estar dentro de la normalidad, como en la pancreatitis alcohólica crónica agudizada (con escaso parénquima funcionante), en la pancreatitis hipertrigliceridémica (donde la hiperlipemia puede interferir en el análisis) o cuando el paciente consulta tardíamente y los niveles ya se han normalizado. Por eso la lipasa, con mayor sensibilidad y permanencia elevada, es el biomarcador preferido.",
+   "incorrectas": {
+    "A": "Es verdadera: la lipasa sérica es la prueba de laboratorio preferida para el diagnóstico de pancreatitis aguda porque tiene mayor sensibilidad y especificidad que la amilasa, permanece elevada durante más tiempo (hasta 14 días) y es más pancreato-específica.",
+    "C": "Es verdadera: el criterio diagnóstico bioquímico de pancreatitis aguda requiere que la lipasa o amilasa superen al menos 2-3 veces el límite superior de la normalidad en el contexto clínico compatible.",
+    "D": "Es verdadera: la amilasa tiene múltiples fuentes extrapancreáticas (glándulas salivales, intestino, ovario, etc.), por lo que puede elevarse en procesos no pancreáticos como parotiditis, perforación intestinal o embarazo ectópico, limitando su especificidad."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Paciente de 30 años que sufre atropello por automóvil mientras circula en bicicleta. En la atención inicial en el área de críticos presenta frecuencia cardiaca 115 latidos por minuto y presión arterial 110/75 mmHg con relleno capilar de 2,5 segundos. Con estos datos, ¿cuál de las siguientes afirmaciones considera que es la correcta?",
+  "opciones": {
+   "A": "Se ha producido una pérdida de más del 50% de la volemia, y precisa reposición de volumen y sangre.",
+   "B": "Se ha producido una pérdida entre un 15 y un 30% de la volemia, y precisa reposición de volumen.",
+   "C": "Se ha producido una pérdida del 40% de la volemia, y requiere tratamiento quirúrgico.",
+   "D": "Se ha producido una pérdida del 30% de la volemia, y precisa reposición de volumen y sangre."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 42, "tema": "SVA politrauma/shock hipovolémico"},
+  "explicacion": {
+   "correcta": "Según la clasificación ATLS del shock hemorrágico, los hallazgos de este paciente (FC 115 lpm, PA 110/75 mmHg conservada, relleno capilar ligeramente prolongado a 2,5 s, consciente) corresponden a un shock clase II, que implica una pérdida de volemia del 15-30% (aproximadamente 750-1500 mL). En clase II la presión arterial se mantiene compensada gracias a la vasoconstricción, y el tratamiento inicial es la reposición con cristaloides sin necesidad de transfusión sanguínea.",
+   "incorrectas": {
+    "A": "Una pérdida mayor del 50% correspondería a un shock clase IV con compromiso vital extremo: FC muy elevada (>140 lpm), hipotensión marcada, alteración grave de la consciencia y piel muy malperfundida, hallazgos incompatibles con los de este paciente.",
+    "C": "Una pérdida del 40% correspondería a shock clase III-IV con hipotensión significativa, FC >120 lpm y deterioro del nivel de consciencia. Este paciente mantiene una PA de 110/75 mmHg, incompatible con esa magnitud de pérdida.",
+    "D": "Una pérdida del 30% (límite superior de clase II/inicio de clase III) cursaría con hallazgos algo más graves, y en clase III sería necesaria la transfusión. Los signos de este paciente no alcanzan ese grado de deterioro."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En la atención inicial a un paciente que acaba de sufrir un accidente de tráfico, lo encontramos consciente y, en toma de constantes, presenta una presión arterial sistólica de 70 mmHg y una frecuencia cardiaca de 45 latidos por minuto. Además, la piel de las extremidades está caliente. ¿Cuál es la causa más probable de shock?",
+  "opciones": {
+   "A": "Shock hipovolémico.",
+   "B": "Shock cardiogénico.",
+   "C": "Shock neurogénico.",
+   "D": "Shock séptico."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 50, "tema": "Shock"},
+  "explicacion": {
+   "correcta": "La tríada de hipotensión + bradicardia + vasodilatación periférica (piel caliente) en el contexto de un traumatismo es el cuadro clásico del shock neurogénico, causado por lesión medular que interrumpe el control simpático vascular. La pérdida del tono simpático produce vasodilatación periférica (piel caliente) y bradicardia paradójica por predominio vagal, diferenciándolo de todos los demás tipos de shock que cursan con taquicardia refleja como mecanismo compensador.",
+   "incorrectas": {
+    "A": "El shock hipovolémico se caracteriza por taquicardia compensatoria y vasoconstricción periférica (piel fría, pálida, sudorosa, con relleno capilar enlentecido), hallazgos opuestos a los presentes en este paciente.",
+    "B": "El shock cardiogénico también cursa con taquicardia compensatoria, vasoconstricción periférica (piel fría, sudorosa) y habitualmente signos de congestión pulmonar. La bradicardia y piel caliente son incompatibles con este diagnóstico en este contexto.",
+    "D": "El shock séptico distributivo puede causar vasodilatación y piel caliente, pero se acompaña de taquicardia (no bradicardia) y requiere un foco infeccioso; en el contexto de un traumatismo agudo reciente es prácticamente imposible."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En los pacientes con diagnóstico de Síndrome de Marfan, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "Los bloqueadores beta están contraindicados en los pacientes con síndrome de Marfan.",
+   "B": "El riesgo de disección tipo A aumenta claramente cuando el diámetro de la raíz aórtica es mayor o igual a 50 mm.",
+   "C": "La hipertensión arterial en reposo o durante el ejercicio es común, incluso después del éxito del tratamiento.",
+   "D": "La cirugía profiláctica de la raíz aórtica es el único tratamiento definitivo para prevenir la disección aórtica en el síndrome de Marfan."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 52, "tema": "Urgencias cardiovasculares (HTA/aórtico/pericarditis/taponamiento)"},
+  "explicacion": {
+   "correcta": "La afirmación A es FALSA: los betabloqueantes NO están contraindicados en el síndrome de Marfan; al contrario, son el tratamiento farmacológico de primera línea. Reducen la frecuencia cardiaca y la presión diferencial, disminuyendo el estrés hemodinámico sobre la pared aórtica y enlenteciendo la progresión de la dilatación. Los antagonistas del receptor de angiotensina II (como el losartán) son una alternativa o complemento con efecto adicional sobre el sistema TGF-beta implicado en la fisiopatología.",
+   "incorrectas": {
+    "B": "Es verdadera: el umbral de diámetro de raíz aórtica ≥50 mm constituye el principal criterio para indicar cirugía profiláctica en el síndrome de Marfan, ya que el riesgo de disección tipo A aumenta marcadamente a partir de ese diámetro según las guías ESC.",
+    "C": "Es verdadera: la hipertensión arterial es frecuente en pacientes con síndrome de Marfan y puede persistir incluso tras la cirugía exitosa de la raíz aórtica, siendo necesario el control farmacológico continuado a largo plazo.",
+    "D": "Es verdadera: la cirugía profiláctica de sustitución de la raíz aórtica (técnica de David o de Bentall según el caso) es el único tratamiento definitivo para prevenir la disección aórtica tipo A en el síndrome de Marfan."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En la realización de un tacto rectal se objetiva la presencia de prolapso hemorroidal por el orificio anal, de aparición con la defecación, y que requiere reducción manual. ¿Qué grado de prolapso acabamos de definir?",
+  "opciones": {
+   "A": "Grado I.",
+   "B": "Grado II.",
+   "C": "Grado III.",
+   "D": "Grado IV."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 60, "tema": "Dolor abdominal agudo"},
+  "explicacion": {
+   "correcta": "Según la clasificación de Goligher para la enfermedad hemorroidal interna, el grado III se define por hemorroides que prolapsan a través del orificio anal con la defecación o el esfuerzo y NO se reducen espontáneamente, requiriendo reducción manual por el paciente o el médico. La necesidad de reducción manual es el criterio diferenciador clave respecto al grado II (reducción espontánea) y al grado IV (irreducible).",
+   "incorrectas": {
+    "A": "Las hemorroides de grado I sangran durante la defecación pero no prolapsan al exterior del canal anal; están limitadas al interior sin protrusión visible.",
+    "B": "Las hemorroides de grado II prolapsan con la defecación o el esfuerzo pero se reducen espontáneamente sin necesidad de maniobra manual alguna, a diferencia del grado III.",
+    "D": "Las hemorroides de grado IV están permanentemente prolapsadas y son irreducibles tanto espontánea como manualmente, representando la forma más avanzada y el estadio que más frecuentemente requiere tratamiento quirúrgico urgente."
+   }
+  }
+ }
+]

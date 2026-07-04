@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta INCORRECTA en relación con el mecanismo de una quemadura producida por electricidad:",
+  "opciones": {
+   "A": "En las electrotérmicas se identifica el punto de entrada y de salida.",
+   "B": "La producidas por llamarada o fulguración suelen ser superficiales.",
+   "C": "Cuando no existe contacto entre la víctima y el conductor no se pueden producir quemaduras aunque se produzca un arco de alto voltaje.",
+   "D": "Si es electricidad de alto voltaje no son útiles las escalas de valoración de la superficie corporal debido al daño tisular en profundidad."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA respecto al síncope neuromediado?",
+  "opciones": {
+   "A": "Puede ser, vasopresor, cardioinhibidor o mixto.",
+   "B": "No hay pródromos.",
+   "C": "Suele haber un desencadenante.",
+   "D": "Es frecuente post esfuerzo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "La fiebre \"hectica o en agujas\" es un subtipo de la fiebre:",
+  "opciones": {
+   "A": "Sostenida.",
+   "B": "Recurrente.",
+   "C": "Intermitente.",
+   "D": "Remitente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta correcta, en relación con la fractura vertebral osteoporótica:",
+  "opciones": {
+   "A": "Con frecuencia se producen tras traumatismos de baja energía.",
+   "B": "El segmento vertebral más afectado es L3-L5.",
+   "C": "La incidencia es más alta en varones.",
+   "D": "El tratamiento quirúrgico es la primera opción terapéutica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la isquemia mesentérica aguda:",
+  "opciones": {
+   "A": "Afecta más frecuentemente a pacientes en 7ª y 8ª década de la vida.",
+   "B": "La fibrilación auricular consituye un factor de riesgo.",
+   "C": "La lactacidemia tiene poco valor en su diagnóstico.",
+   "D": "Dolor desproporcionado respecto a los hallazgos de la exploración clínica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cúal de los siguientes fármacos NO se utiliza por vía subcutánea en el paciente paliativo?",
+  "opciones": {
+   "A": "Oxicodona.",
+   "B": "Ranitidina.",
+   "C": "Calcitonina.",
+   "D": "Clorpromazina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En relación con la administración de vasopresores en la reanimación de una parada cardiaca, señale la respuesta correcta:",
+  "opciones": {
+   "A": "La vasopresina ha demostrado mayor beneficio clínico que la adrenalina.",
+   "B": "En la parada cardiaca por ritmo no desfibrilable de inicio es razonable administrar Adrenalina lo antes posible tras el inicio del paro cardiaco.",
+   "C": "La utilización de vasopresores sólo está indicada en la parada cardiaca por ritmos desfibrilables.",
+   "D": "La combinación de vasopresina y adrenalina es superior a la adrenalina sola en dosis estándar."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Qué es cierto respecto al idarucizumab?",
+  "opciones": {
+   "A": "Es una agente reversor útil para todos los anticoagulantes de acción directa, indistintamente de su mecanismo de acción.",
+   "B": "Solo se puede utilizar en cirugía urgente para el control cercano de la coagulación.",
+   "C": "La dosis recomendada es de 5 gr / iv repartidos en dos viales de 2,5 gr.",
+   "D": "Siempre hay que utilizarlo con soporte de hemoderivados y complejo protombínico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Mujer de 78 años, anticoagulada con Sintrom por fibrilación auricular crónica, sin otros antecedentes de interés. Rankin 1. Remitida por presentar cuadro de hemiparesia derecha y afasia global, NIHSS 16 puntos. Se ha despertado de la siesta con la clínica. Última vez vista asintomática 3 horas antes de su llegada a Urgencias. INR 1,6. Señale la respuesta correcta:",
+  "opciones": {
+   "A": "No se activará código ictus ya que el inicio de los síntomas es desconocido.",
+   "B": "No se activará código ictus, porque en este caso la fibrinolisis está contraindicada al tomar sintrom.",
+   "C": "Activaríamos código ictus, y en ausencia de contraindicaciones, es candidata a fibrinolisis intravenosa con alteplasa.",
+   "D": "Activaríamos código ictus, pero no es candidata a fibrinolisis por NIHSS alto."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál NO es una propiedad de las sulfonilureas en el tratamiento de la Diabetes?",
+  "opciones": {
+   "A": "Son secretagogos potentes.",
+   "B": "Están contraindicadas en alérgicos a sulfamidas.",
+   "C": "Asociadas a pioglitazona, producen una disminución significativa del peso.",
+   "D": "Las de liberación prolongada tiene menor riesgo de hipoglucemias."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos fármacos NO está indicado en el algoritmo de bradicardia en el adulto?",
+  "opciones": {
+   "A": "Dopamina en perfusión iv.",
+   "B": "Adrenalina en perfusión iv.",
+   "C": "Atropina 1 mg iv en bolo.",
+   "D": "Bicarbonato 1 M, 10 mg por Kg de peso en bolo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Si recibimos en nuestra Unidad de Urgencias un gran quemado en un incendio doméstico con quemaduras de tercer grado que afectan al 30% de la superficie corporal incluyendo cabeza y cuello con lesiones por inhalación, debemos considerar las siguientes actuaciones, EXCEPTO:",
+  "opciones": {
+   "A": "El control de dolor es prioritario desde el inicio de la terapia, siendo de elección la vía intravenosa y administrando analgesia de tercer escalón si es preciso.",
+   "B": "Un punto crucial del manejo es mantener una vía aérea permeable y proceder a IOT si la situación lo requiere.",
+   "C": "Una causa de muerte en las primeras 24 horas puede ser el shock hipovolémico por lo que se promulga una resucitación hemodinámica agresiva inicialmente con cristaloides monitorizando estrictamente la diuresis.",
+   "D": "No se considera indicada la vacunación antitetánica ni la administración profiláctica de antibióticos en el caso de las quemaduras respiratorias."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de los siguientes tratamientos NO está indicado en el tratamiento de Botulismo en el adulto?",
+  "opciones": {
+   "A": "Lavado gástrico y carbón activado.",
+   "B": "Purgantes salinos con magnesio y una irrigación intestinal con polietilenglicol.",
+   "C": "Suero antitoxina equina trivalente.",
+   "D": "Metronidazol."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Una hiponatremia con sodio urinario < 20 mEq/l estaría ocasionada por:",
+  "opciones": {
+   "A": "Diuréticos.",
+   "B": "Bicarbonaturia.",
+   "C": "Nefropatía pierde sal",
+   "D": "Quemaduras."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Con relación a los criterios de gravedad de las Guías Tokio (2013), indique cuál de los siguientes se corresponde con una colecistitis aguda moderada:",
+  "opciones": {
+   "A": "Leucocitosis 15000/mm3.",
+   "B": "Duración de los síntomas > 48h.",
+   "C": "Peritonitis Biliar.",
+   "D": "Plaquetas < 100000/mm3."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "¿Cuál de estos fenómenos clínicos o fisiológicos NO se considera dentro del síndrome de respuesta inflamatoria sistémica?",
+  "opciones": {
+   "A": "Temperatura.",
+   "B": "Frecuencia respiratoria.",
+   "C": "Hipocapnia.",
+   "D": "Oliguria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En los pacientes con hipotermia, a medida que desciende la temperatura corporal, van apareciendo cambios en el registro del electrocardiograma. ¿Cuál de las siguientes alteraciones se observa en la hipotermia leve?",
+  "opciones": {
+   "A": "Bradicardia sinusal con inversión de la onda T y QT ancho.",
+   "B": "Onda J de Osborn en el complejo QRS.",
+   "C": "Fibrilación auricular.",
+   "D": "Arritmias ventriculares."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Calcular las escalas CHA2DS2 VASc y HAS BLED, en un paciente con fibrilación auricular, mujer de 76 años, diabética en tratamiento con insulina, con enfermedad arterial periférica, en tratamiento con antiagregantes y antagonistas del calcio:",
+  "opciones": {
+   "A": "CHA2DS2 Vasc de 5 y HAS BLED de 2.",
+   "B": "CHA2DS2 Vasc de 6 y HAS BLED de 3.",
+   "C": "CHA2DS2 Vasc de 5 y HAS BLED de 3.",
+   "D": "CHA2DS2 Vasc de 4 y HAS BLED de 2."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Señale la respuesta FALSA respecto a las bronquiolitis:",
+  "opciones": {
+   "A": "El agente etiológico predominante es el virus sincitial respiratorio.",
+   "B": "Los lavados nasales con suero y la elevación de la cabecera 30º son medidas que mejoran la sintomatología.",
+   "C": "Los corticoides nebulizados como dosis única (2g) de budesonida han demostrado beneficio.",
+   "D": "La utilización de salbutamol nebulizado tiene una eficacia dudosa."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En los casos de hipotermia grave, ¿qué parámetros de los siguientes NO es típico observar en la analítica sanguínea solicitada en Urgencias?",
+  "opciones": {
+   "A": "Leucocitosis.",
+   "B": "Hiperglucemia.",
+   "C": "Hiperpotasemia.",
+   "D": "Trombopenia."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "Ante una sospecha de meningitis aguda, ¿cuál de las siguientes respuestas es INCORRECTA?",
+  "opciones": {
+   "A": "El inicio de tratamiento antibiótico no se debe demorar y debe realizarse en los primeros 30 minutos.",
+   "B": "Se realizará TAC craneal antes de punción lumbar en pacientes con deterioro del nivel de conciencia.",
+   "C": "Ante un LCR con glucorraquía 30% de la glucemia, 150 células/mm3 de predominio mononuclear y proteína 80mg/dl pensaremos como primera posibilidad en una meningitis vírica.",
+   "D": "Si se detecta en LCR cocos Gram negativos sugiere como primera posibilidad Nisseria meningitidis."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen Médico Urgencia Hospitalaria Aragón 2018",
+  "enunciado": "En relación con la derivación de la vía urinaria superior en un paciente con uropatía obstructiva, señale la respuesta correcta:",
+  "opciones": {
+   "A": "La cistostomía suprapúbica (talla vesical) es el procedimiento más simple para derivar la vía urinaria superior.",
+   "B": "El catéter doble J se utiliza para derivar la vía urinaria desde la pelvis renal directamente al exterior por vía percutánea.",
+   "C": "Está indicada de urgencia en pacientes con obstrucción ureteral y signos de sepsis urinaria.",
+   "D": "Se considera siempre un procedimiento programado."
+  },
+  "respuesta_correcta": "C"
+ }
+]

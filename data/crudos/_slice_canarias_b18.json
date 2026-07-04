@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 375,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el desprendimiento de retina es falso que:",
+  "opciones": {
+   "A": "Se diagnostica mediante fondo de ojo",
+   "B": "Cursa con pérdida brusca de la visión",
+   "C": "Suele ser bilateral",
+   "D": "El paciente puede presentar síntomas previos de miodesopsias o fotopsias"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 376,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En las lesiones oculares químicas, señala la Respuesta Correcta:",
+  "opciones": {
+   "A": "Las quemaduras por álcalis son más graves que las causadas por ácidos",
+   "B": "Eliminar por completo el agente agresor de la superficie ocular mediante lavado abundante debe ser la primera medida del tratamiento",
+   "C": "Como tratamiento inicial para disminuir el cuadro inflamatorio está indicado el uso de corticoides tópicos",
+   "D": "Todas las anteriores son ciertas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 377,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el absceso periamigdalino, señale la correcta:",
+  "opciones": {
+   "A": "Es más frecuente en ancianos",
+   "B": "Clínicamente presenta escaso dolor de garganta y disfagia",
+   "C": "Presenta abombamiento unilateral de la amígdala hacia la línea media",
+   "D": "Precisa drenaje quirúrgico y antibioterapia con ciprofloxacino"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 378,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál no es etiología de un vértigo periférico?:",
+  "opciones": {
+   "A": "Enfermedad de Méniere",
+   "B": "Neuronitis vestibular",
+   "C": "Esclerosis múltiple",
+   "D": "Síndrome de Ramsey-Hunt"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 379,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La otitis externa maligna es producida por:",
+  "opciones": {
+   "A": "Chlamydia Trachomatis",
+   "B": "Estreptococo B-hemolítico del grupo A",
+   "C": "Streptococcus Pyogenes",
+   "D": "Pseudomona Aeruginosa"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 380,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la respuesta incorrecta en relación con el síndrome de Méniere:",
+  "opciones": {
+   "A": "Crisis de vértigo rotatorio de unas horas de duración acompañado de náuseas y vómitos",
+   "B": "Acúfenos",
+   "C": "Intervalos asintomáticos entre crisis",
+   "D": "No presentan hipoacusia"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 381,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el vértigo periférico es típico:",
+  "opciones": {
+   "A": "Sensación de caída no de giro",
+   "B": "Diplopía y disfagia",
+   "C": "El nistagmus se inhibe con la fijación visual",
+   "D": "El nistagmus no se inhibe con la fijación visual"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 382,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la otitis media del adulto, al inicio el tímpano se mostrará:",
+  "opciones": {
+   "A": "Perforado central o totalmente",
+   "B": "Perforado marginalmente",
+   "C": "Opaco, abombado y congestivo",
+   "D": "Pálido o normal"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 383,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Son causa de vértigo periférico todas las siguientes excepto:",
+  "opciones": {
+   "A": "Enfermedad de Méniere",
+   "B": "Cuerpos extraños en oído externo",
+   "C": "Vértigo paroxístico benigno",
+   "D": "Todas las anteriores producen vértigo periférico"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 384,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una maniobra exploratoria de Dix-Hallpike positiva es útil para el diagnóstico de:",
+  "opciones": {
+   "A": "Neuropatía diabética",
+   "B": "Vértigo postural paroxístico benigno",
+   "C": "Síndrome de Parkinson",
+   "D": "Ataxia cerebelosa"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 385,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El tratamiento inmediato tras una perforación timpánica de origen traumático por una explosión cercana debe ser:",
+  "opciones": {
+   "A": "Tratamiento con gotas anestésicas locales más antibiótico por vía oral",
+   "B": "Cirugía inmediata",
+   "C": "Actitud expectante, remitir a consultas externas de ORL para seguimiento",
+   "D": "Tratamiento con antibióticos por vía oral solamente"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 386,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación al embarazo ectópico, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Su localización más frecuente es la porción ampular o ístmica de la trompa uterina",
+   "B": "Suele cursar con la triada clásica de amenorrea, metrorragia y dolor",
+   "C": "La ecografía generalmente detecta con nitidez un saco gestacional en el anejo",
+   "D": "El tratamiento definitivo puede ser quirúrgico o médico"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 387,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación a las hemorragias del segundo y tercer trimestre del embarazo, señale la Respuesta Correcta:",
+  "opciones": {
+   "A": "En el desprendimiento de placenta normoinserta, la afectación fetal no depende de la cantidad de placenta desprendida",
+   "B": "La cirugía uterina previa no es un factor de riesgo de la placenta previa",
+   "C": "La clínica del desprendimiento de placenta normoinserta, cursa con hemorragia vaginal abundante y ausencia de dolor abdominal",
+   "D": "Ante una paciente con placenta previa que está estable y el feto no está afectado se debe adoptar una actitud expectante para conseguir la madurez pulmonar"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 388,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la respuesta incorrecta respecto a la patología vulvovaginal:",
+  "opciones": {
+   "A": "La tricomoniasis no está considerada como infección de transmisión sexual",
+   "B": "La vaginitis más frecuente está producida por cándida",
+   "C": "El principal motivo de consulta por una vaginosis bacteriana es la leucorrea y el mal olor",
+   "D": "El tratamiento del primer episodio del herpes genital se realiza con antivírico oral, ya que la vía tópica no está recomenda"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 389,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el tratamiento de la preeclampsia grave, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La prevención farmacológica de convulsiones se hace con sulfato de magnesio",
+   "B": "La hidralazina no está contraindicada en enfermedad coronaria",
+   "C": "El labetalol está contraindicado en bradicardia materna inferior a 60 latidos por minuto",
+   "D": "Se finaliza la gestación si es mayor de 35 semanas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 390,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación con la atención del parto inminente, ¿cuál de las siguientes afirmaciones es incorrecta?",
+  "opciones": {
+   "A": "Se considera parto inminente cuando la mujer presenta pujos intensos con dilatación completa y presentación baja",
+   "B": "Cuando el cordón deja de latir se colocan 2 pinzas a unos cuantos centímetros del abdomen del niño y se corta entre ellas",
+   "C": "Tras el alumbramiento el útero debe palparse duro y por debajo del ombligo",
+   "D": "En medio extrahospitalario o en centros sin presencia de urgencias obstétricas se realizará de forma sistemática episiotomía"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 391,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una paciente de 32 años con un cuadro clínico de sangrado menstrual irregular, dismenorrea, dispareunia y una esterilidad de 3 años de evolución, presenta una analítica hormonal normal y un estudio ecográfico transvaginal que informa de formaciones quísticas ováricas bilaterales de 4 centímetros ¿Cuál sería la orientación diagnóstica?",
+  "opciones": {
+   "A": "Síndrome adherencial pélvico",
+   "B": "Hemorragia uterina disfuncional",
+   "C": "Síndrome del ovario poliquístico",
+   "D": "Endometriosis"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 392,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Primigesta de 32 años que acude a urgencias refiriendo sangrado genital y prueba de embarazo en farmacia positiva. Se realiza exploración ginecológica y los hallazgos ecográficos y analíticos sugieren el diagnóstico de mola ¿Cuál sería el tratamiento de elección?:",
+  "opciones": {
+   "A": "Quimioterapia con metotrexate",
+   "B": "Legrado uterino total",
+   "C": "Histerectomía con doble anexectomía",
+   "D": "Histerectomía simple conservando ovarios"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 393,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la preeclampsia grave, señale la correcta:",
+  "opciones": {
+   "A": "El tratamiento de elección es el nitroprusiato sódico",
+   "B": "El tratamiento de elección es la nitroglicerina",
+   "C": "El tratamiento de elección es nifedipino sublingual",
+   "D": "El tratamiento de elección es el labetalol"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 394,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la eclampsia son correctas todas excepto:",
+  "opciones": {
+   "A": "Administración de sulfato de magnesio intravenoso",
+   "B": "No requiere ingreso hospitalario",
+   "C": "Parto inmediato mediante cesárea",
+   "D": "Si las crisis no se controlan con sulfato de magnesio se puede usar midazolam"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 395,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En un paciente que acude al Servicio de Urgencias por un brote de esquizofrenia ¿Cuál de las siguientes manifestaciones alucinatorias es más frecuente que presente?:",
+  "opciones": {
+   "A": "Alucinaciones auditivas",
+   "B": "Alucinaciones visuales",
+   "C": "Alucinaciones sensitivas táctiles",
+   "D": "Alucinaciones olfativas"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 396,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Los factores predictivos de suicidio son múltiples, encontrándose entre ellos los siguientes, excepto:",
+  "opciones": {
+   "A": "Intentos de suicidio previos",
+   "B": "Cáncer",
+   "C": "Consumo de drogas",
+   "D": "Embarazo"
+  },
+  "respuesta_correcta": "D"
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta incorrecta en relación con la natriuresis",
+  "opciones": {
+   "A": "Los diuréticos disminuyen de manera selectiva la reabsorción de cloruro de sodio en sitios específicos de la neurona, lo que hace que aumente la excreción urinaria de cloruro de sodio.",
+   "B": "La gran carga filtrada de solutos endógenos como glucosa y urea puede disminuir la reabsorción tubular de cloruro de sodio y agua y culminar en diuresis osmótica",
+   "C": "Fármacos, como el antibiótico trimetoprim y la pentamidina, inhiben la reabsorción tubular distal de Na+ lo que conduce a pérdida urinaria de cloruro de sodio",
+   "D": "La lesión tubular aguda o la neuropatía obstructiva suelen aumentar la reabsorción tubular distal de cloruro de sodio y agua."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "El microorganismo que más a menudo produce artritis infecciosa es:",
+  "opciones": {
+   "A": "Treponema pallidum.",
+   "B": "Mycobacterium tuberculosis.",
+   "C": "Neisseria meningitidis.",
+   "D": "Staphylococcus aureus."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Una mujer de 30 años es traída a urgencias inconsciente después de una crisis convulsiva. Al llegar a urgencias, presenta taquicardia, hipotensión, midriasis y sequedad de mucosas. En el electrocardiograma se observa un ensanchamiento del QRS y alteraciones del segmento ST. Había iniciado tratamiento con amitriptilina hacia tres semanas por ánimo deprimido. ¿Cuál es el tratamiento inicial más adecuado?",
+  "opciones": {
+   "A": "Control de la vía aerea y ventilación mecánica, coger via venosa y administrar naloxona intravenosa",
+   "B": "Control de la vía aerea y ventilación mecánica, coger vía venosa y administrar bicarbonato sódico intravenoso",
+   "C": "Control de la vía aerea y ventilación mecánica, coger vía venosa y administrar Flumazenil intravenoso",
+   "D": "Control de la vía aerea y ventilación mecánica, coger vía venosa y administrar N-acetilcisteína intravenosa"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 77 años acude a la consulta por astenia y pérdida de peso. Tiene exploración normal y análisis en los que llama la atención una T4L 0,08 ng/dL con TSH 4 μg/mL. Cuál de las siguientes afirmaciones le parece correcta.",
+  "opciones": {
+   "A": "Se trata de un hipotiroidismo primario",
+   "B": "Los datos son compatibles con una tiroiditis",
+   "C": "La sospecha es de patología hipofisaria",
+   "D": "Debe iniciarse tratamiento con hormona tiroidea por estar sintomático"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En relación a las recomendaciones sobre el tiempo de la administración de antibióticos en caso de sepsis, según el riesgo estimado por la escala NEWS 2, señale la correcta.",
+  "opciones": {
+   "A": "Para las personas con alto riesgo, deben administrarse en las dos primeras horas.",
+   "B": "Para las personas de riesgo moderado, deben administrarse en las dos primeras horas.",
+   "C": "Para las personas con bajo riesgo, deben administrarse en las seis primeras horas.",
+   "D": "Con independencia del nivel de riesgo, deben administrarse en las dos primeras horas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón con polaquiuria, enuresis y sed persistente, pesa 75 Kg, en situación basal tiene un volumen de diuresis de 4 litros/día con osmolaridad de 250 mOsm/L, la determinación de vasopresina plasmática basal es de 0,8 pg/mL (normal 1-5 pg/mL). La RM hipofisaria es normal. Cuál de las siguientes te parece correcta.",
+  "opciones": {
+   "A": "Diabetes insípida nefrogénica",
+   "B": "Polidipsia primaria",
+   "C": "Diabetes insípida hipofisaria",
+   "D": "Diabetes mellitus"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Avisan de la Urgencia para valorar a un paciente de 65 años, alcohólico crónico, que acude por vómitos. Se encuentra confuso (Glasgow Coma Scale de 11/15), hipotenso y taquicárdico. En la analítica de sangre destaca: pH 7.30, glucosa 45 mg/dl, sodio 116 mmol/L, potasio 3,5 mmol/L, cloro 66 mmol/L, Bicarbonato 15 mmol/L, pCO2 (arterial) 30 mmHg, creatinina 2 mg/dl, osmolalidad 290 mOsm/kg, BUN 10 mg/dl. ¿Cuál de las siguientes opciones le parece la más correcta?",
+  "opciones": {
+   "A": "El paciente presenta una acidosis metabólica con anión GAP elevado y una alcalosis metabólica concomitante",
+   "B": "El paciente debe ser tratado inmediatamente con bicarbonato intravenoso",
+   "C": "La causa más probable de la acidosis metabólica que presenta son los vómitos y la contracción de volumen",
+   "D": "Se debe hacer una sesión de hemodiálisis urgente para poder corregir sus trastornos"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 60 años con diagnóstico de EPOC que comenta que no puede caminar al paso de su esposa de su misma edad, ¿que grado de disnea según la escala mMRC tiene?",
+  "opciones": {
+   "A": "Grado 1",
+   "B": "Grado 2",
+   "C": "Grado 3",
+   "D": "Grado 4"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Con respecto al tratamiento farmacológico en pacientes obesos. ¿Cuál es la respuesta incorrecta?",
+  "opciones": {
+   "A": "El tratamiento farmacológico esta indicado en pacientes obesos con IMC>30 o en pacientes con sobrepeso con IMC entre 27-29.9 y comorbilidad asociada (hipertensión, dislipemia, apnea obstructiva del sueño, prediabetes o DM tipo 2)",
+   "B": "El uso de semaglutide 4 mg subcutáneo semanal se asocia a mayores pérdidas globales de peso que el uso de liraglutide 3 mg subcutáneo diario.",
+   "C": "Se consideran fármacos de primera línea los péptidos análogos de GLP-1 semaglutide y liraglutide y el agonista dual de receptor GLP-1 y GIP tirzepatida.",
+   "D": "Se ha demostrado en diferentes ensayos que tanto semaglutide a dosis de 2,4 mg semanal como liraglutide a dosis de 3 mg subcutáneo diario reducen el riesgo de eventos cardiovasculares de forma significativa en adultos no diabéticos con enfermedad cardiovascular establecida."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuándo se recomienda iniciar el tratamiento antirretroviral en pacientes con infección por VIH?",
+  "opciones": {
+   "A": "Solo cuando el recuento de CD4+ cae por debajo de 200 células/μL.",
+   "B": "Inmediatamente después del diagnóstico, independientemente del recuento de CD4+.",
+   "C": "Cuando aparecen síntomas clínicos de sida.",
+   "D": "Después de una infección oportunista."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Una mujer de 38 años, diagnosticada de lupus eritematoso sistémico (LES) hace 6 años, presenta artritis y debilidad persistente, a pesar de recibir hidroxicloroquina y corticosteroides. ¿Cuál de los siguientes tratamientos biológicos está aprobado para el manejo de su condición?",
+  "opciones": {
+   "A": "Rituximab",
+   "B": "Belimumab",
+   "C": "Tocilizumab",
+   "D": "Abatacept"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En un paciente con resistencia farmacológica comprobada a varios antirretrovirales, ¿cuál es la estrategia recomendada?",
+  "opciones": {
+   "A": "Monoterapia con un fármaco nuevo.",
+   "B": "Combinación de al menos dos fármacos nuevos.",
+   "C": "Suspender el tratamiento temporalmente.",
+   "D": "Cambiar solo uno de los fármacos del régimen actual."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "La fiebre de origen desconocido se define actualmente como:",
+  "opciones": {
+   "A": "Fiebre sin foco mayor de 38.3ºC de más de tres semanas a pesar de una valoración intra-hospitalaria.",
+   "B": "Fiebre sin foco mayor de 38.3ºC en al menos dos ocasiones, de más de tres semanas, sin compromiso inmunitario conocido.",
+   "C": "Fiebre sin foco mayor de 38.3ºC en al menos dos ocasiones, de más de tres semanas, a pesar de una valoración intrahospitalaria.",
+   "D": "Fiebre mayor de 38.3ºC al menos en dos ocasiones, de más de tres semanas, y diagnóstico incierto a pesar de una semana de valoración intrahospitalaria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 154,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de las siguientes afirmaciones con respecto a la respuesta inmune frente a SARS-CoV-2 ES CORRECTA?",
+  "opciones": {
+   "A": "Existe una fuerte inmunidad cruzada con otros coronavirus catarrales clásicos mediada por células CD4",
+   "B": "SARS-CoV-2 induce una respuesta inmune celular CD4+ y CD8+ que se mantiene por más de 6 meses tras la infección aguda",
+   "C": "SARS-CoV-2 induce una respuesta humoral contra la proteina S que es ineficaz por la presencia de zonas hipervariables en esa región del virus",
+   "D": "Se ha demostrado la presencia de niveles persistentemente elevados de anticuerpos frente a SARS-CoV-2 más de un año tras la infección aguda"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 155,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En cuanto a la nefritis intersticial crónica, señale cual de estas alteraciones metabólicas no suele ser causa de esta enfermedad:",
+  "opciones": {
+   "A": "Hipercalcemia crónica.",
+   "B": "Hiperpotasemia crónica.",
+   "C": "Hiperuricemia crónica.",
+   "D": "Hiperoxaluria primaria y secundaria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 156,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Cual de las siguientes entidades no se considera una glomerulonefritis proliferativa:",
+  "opciones": {
+   "A": "GN membranosa.",
+   "B": "GN mesangial.",
+   "C": "GN postestreptocócica.",
+   "D": "GN membranoproliferativa."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 157,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de las siguientes características es más típica de la osteoartritis en comparación con la artritis reumatoide?",
+  "opciones": {
+   "A": "Simetría de las articulaciones afectadas",
+   "B": "Rigidez matutina prolongada",
+   "C": "Daño articular en manos y pies",
+   "D": "Afectación predominantemente en articulaciones de carga"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 158,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 86 años con antecedentes de Insuficiencia cardiaca clase funcional NYHA III y anemia por sangrado digestivo crónico con hemoglobina basal en torno a 9,5 mg/dl. Tiene un Barthel 55 y un Pfeiffer de 1. Vive con su hermana desde que enviudó. Ingresa por descompensación de insuficiencia cardiaca, desarrollando un síndrome confusional hipoactivo. En relación al pronóstico de esta paciente señale la correcta.",
+  "opciones": {
+   "A": "Tiene un índice PROFUND bajo y por lo tanto una probabilidad de fallecimiento menor del 14% al año.",
+   "B": "Tiene un índice PROFUND bajo-intermedio y por lo tanto una probabilidad de fallecimiento del 30% al año",
+   "C": "Tiene un índice PROFUND intermedio-alto y por lo tanto una probabilidad de fallecimiento del 50% al año.",
+   "D": "Tiene un índice PROFUND alto y por lo tanto una probabilidad de fallecimiento del 60% al año."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 159,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "La enfermedad por IgG4 es una enfermedad fibroinflamatoria con afectación multisistémica, con una anatomía patológica característica. ¿Cuál de los siguientes enunciados en relación con esta entidad es verdadero?",
+  "opciones": {
+   "A": "Es característica la presencia de granulomas caseificantes",
+   "B": "Para poder realizar el diagnóstico, los niveles de IgG4 en sangre periférica deben estar siempre elevados",
+   "C": "Las características histopatológicas distintivas de la enfermedad por IgG4 son un infiltrado linfoplasmocítico denso, flebitis obliterante y un infiltrado eosinofílico de leve a moderado",
+   "D": "La afectación pancreática en esta enfermedad es muy rara"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 160,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 82 años que acude sin familiares por bajo nivel de conciencia, TA 130/60, Tª 34,2º, satura 95%, eupneica, tolera decúbito, edema facial y en MMII, frialdad cutánea, no tiene ingurgitación yugular. En los análisis tiene Hb 10,5 g/dL, VCM 102 fl, resto de series normales, Na 125 mEq/dL, K 4,5 mEq/dL, creatinina 1.1 mg/dL. En el ECG tiene ritmo sinusal a 55 lpm con bajo voltaje y en la Rx de tórax derrame pleural derecho. Qué exploración complementaria le daría el diagnóstico.",
+  "opciones": {
+   "A": "Determinación de NT-ProBNP",
+   "B": "Determinación de TSH",
+   "C": "Determinación de procalcitonina",
+   "D": "Determinación de cociente proteínas/creatinina en orina"
+  },
+  "respuesta_correcta": "B"
+ }
+]

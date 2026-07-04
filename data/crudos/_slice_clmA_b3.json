@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente con neutropenia en urgencias se quiere descartar la existencia de una posible infección bacteriana. ¿Qué biomarcador de respuesta inflamatoria e infección (aunque no se conozca el foco) orientará con mayor probabilidad a la existencia de bacteriemia? Señale la correcta:",
+  "opciones": {
+   "A": "Procalcitonina > 4 ng/ml.",
+   "B": "Proteína C reactiva > 7 días.",
+   "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de los siguientes no se considera vértigo periférico?",
+  "opciones": {
+   "A": "Esclerosis Múltiple.",
+   "B": "Enfermedad de Ménière.",
+   "C": "Vértigo posicional paroxístico benigno.",
+   "D": "Neuritis vestibular."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De las siguientes, cuál NO es una indicación de endoscopia urgente:",
+  "opciones": {
+   "A": "Esclerosis Múltiple.",
+   "B": "Hematemesis o melenas recientes.",
+   "C": "Vértigo posicional paroxístico benigno.",
+   "D": "Todas las anteriores son indicación de ingreso."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles son los indicadores de ingreso en el servicio de urgencias hospitalario? Señale la respuesta correcta:",
+  "opciones": {
+   "A": "En aquellos pacientes en los que se haya descartado su estabilización estuviese prevista en su domicilio.",
+   "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa.",
+   "C": "Aunque la exploración sea normal, se debe ingresar con neurología por posible crisis epiléptica.",
+   "D": "Todas las anteriores son indicación de ingreso."
+  },
+  "respuesta_correcta": "Anulada"
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles son los indicadores de ingreso del síncope en urgencias hospitalario? Señale la respuesta correcta:",
+  "opciones": {
+   "A": "En aquellos pacientes con síncope de etiología no cardiaca de etiología espontánea.",
+   "B": "Disnea aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurológicas.",
+   "C": "Ascitis refractaria al tratamiento.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "El síndrome confusional agudo o delirio es una disfunción mental a menudo reversible que se manifiesta como una alteración del nivel de consciencia con una menor capacidad para enfocar, sostener o desviar la atención, así como otros trastornos cognitivos y neuropsiquiátricos. Puede ocurrir a cualquier edad, pero es mucho más frecuente en pacientes que son ancianos y tienen un estado mental previo. Su manejo en urgencias se recomienda:",
+  "opciones": {
+   "A": "El desarrollo del anciano es independiente de las características físicas de la sala de urgencias.",
+   "B": "Las restricciones físicas son preferibles a la terapia física, ocupacional o farmacológica.",
+   "C": "Para mejorar las gafas, dentaduras o audífonos para que el paciente escuche o su pérdida.",
+   "D": "Las restricciones físicas son preferibles a la terapia física, ocupacional o farmacológica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la situación esperada de resolución en los siguientes circunstancias, EXCEPTO en:",
+  "opciones": {
+   "A": "Moxifloxacino 400 mg cada 12 horas por 7 días.",
+   "B": "Ciprofloxacino 400 mg cada 12 horas por 7 días más Azitromicina 500 mg al día más Azitromicina 500 mg al día por 5 días.",
+   "C": "Amoxicilina 1 g cada 8 horas por 7 días.",
+   "D": "Amoxicilina-clavulánico 875/125mg/8h por 7 días."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En una intoxicación aguda, el uso de carbón activado se debe emplear EXCEPTO en:",
+  "opciones": {
+   "A": "Diverticulitis aguda.",
+   "B": "Apendicitis aguda.",
+   "C": "Pancreatitis aguda.",
+   "D": "Divertículo de Meckel."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las intoxicaciones agudas, el uso de carbón activado se debe emplear EXCEPTO en:",
+  "opciones": {
+   "A": "Ascitis bacteriana espontánea.",
+   "B": "Intoxicación aguda por benzodiacepinas.",
+   "C": "Ascitis refractaria al tratamiento.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál es el fármaco más usado en urgencias para el tratamiento del dolor agudo?",
+  "opciones": {
+   "A": "Fentanilo IV: 100mg igual a 10mg de morfina.",
+   "B": "Morfina: 0,5 mg/kg/h IV.",
+   "C": "Meperidina IV: 0,5-1mg/kg/h.",
+   "D": "Ninguna de las opciones correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de estas afirmaciones es una urgencia oncológica?",
+  "opciones": {
+   "A": "Síndrome de lisis tumoral porque suele considerarse como un síndrome de respuesta inflamatoria secundaria.",
+   "B": "Metástasis cerebrales, las cuales empeoran el pronóstico.",
+   "C": "Crisis convulsiva.",
+   "D": "Ninguna de las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Según el estudio EVADUR (2010) que analizó la incidencia de eventos adversos en los pacientes de los Servicios de Urgencias hospitalarios españoles como consecuencia de la asistencia prestada y conocer sus posibles causas: El 12 % de los pacientes estuvieron afectados por un incidente de seguridad clínica, frecuentemente evitable. La causa más frecuentemente detectada fue:",
+  "opciones": {
+   "A": "Error en el diagnóstico.",
+   "B": "Error en el diagnóstico médico.",
+   "C": "Atención inadecuada al paciente.",
+   "D": "Atención inadecuada al paciente médico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Respecto a la Ventilación Mecánica no Invasiva (todo una es cierta):",
+  "opciones": {
+   "A": "Es recomendada en situaciones de respiración agónica.",
+   "B": "Es muy eficaz en caso de agitación del paciente.",
+   "C": "Es muy eficaz en caso de agitación del paciente.",
+   "D": "Es muy eficaz en caso de obstrucción debido al sueño."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de los siguientes no es un protocolo de ecografía en el punto de cuidado?:",
+  "opciones": {
+   "A": "ECOFAST.",
+   "B": "BLUE.",
+   "C": "RUSH.",
+   "D": "FEEL."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Ante una agresión sexual, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El médico forense debe estar presente en la exploración física del caso (y será responsable de la toma de muestras durante la exploración).",
+   "B": "El médico de urgencias tiene la prueba oportuna y tiene la responsabilidad de la toma de muestras durante la exploración.",
+   "C": "La realización de esta exploración es obligatoria independientemente de que la mujer quiera o no prestar declaración.",
+   "D": "No se debe realizar la exploración física a las víctimas de agresión sexual."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de estas enfermedades es de declaración obligatoria urgente?",
+  "opciones": {
+   "A": "Fiebre (Rábica).",
+   "B": "Rabia.",
+   "C": "Hepatitis D.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles de las siguientes bacterias se asocian más comúnmente con las mordeduras de perro?",
+  "opciones": {
+   "A": "Estreptococo.",
+   "B": "Pasteurella.",
+   "C": "Staphylococcus.",
+   "D": "Fusobacterium."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la atención urgente del paciente anciano, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Un dolor abdominal puede confundirse con el de muchas enfermedades como digestivas o osteoarticulares.",
+   "B": "La localización del dolor abdominal es menor, de localización poco precisa y los signos de irritación peritoneal son escasos.",
+   "C": "La palpación del abdomen puede ocultar signos de peritonitis.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La corriente alterna suele ser más peligrosa que la continua.",
+   "B": "Toda persona electrocutada es potencialmente peligrosa (rescatador).",
+   "C": "La presencia de arritmiasindica que el paciente inconsciente electrocutado no representa un alto riesgo de muerte.",
+   "D": "La corriente de alta tensión puede dar lugar a una lesión que puede ser secundaria a la lesión autónoma."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Conforme al apartado 3.2 de la Resolución de 26/10/2010, para la aplicación del artículo 13.5 de la Ley 10/2010, de Protección Jurídica del Menor a los profesionales pertenecientes al Servicio de Salud de Castilla-La Mancha que sean sospechosos de nuevo acceso a plazas de las mismas características, el nombramiento de nuevo acceso a plazas exigirá:",
+  "opciones": {
+   "A": "Anteriormente a su nombramiento certificación negativa del Registro Central de Delincuentes Sexuales.",
+   "B": "Posteriormente a su nombramiento autorización al Sescam para solicitar la certificación del Registro Central de Delincuentes Sexuales.",
+   "C": "Previamente al nombramiento certificación negativa del Registro Central de Delincuentes Sexuales y autorización al Sescam para solicitar dicho certificado.",
+   "D": "No se exigirá certificación negativa del Registro Central de Delincuentes Sexuales."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las Directrices de la Organización Mundial de la Salud para la bradicardia observada en situación de agitación, señale a qué clase pertenece la administración de Amiofilina IV lenta:",
+  "opciones": {
+   "A": "Guía estándar para diagnóstico de la bradicardia observada.",
+   "B": "La determinación de Dímero-D posee un elevado valor predictivo positivo en el diagnóstico de la trombosis venosa profunda.",
+   "C": "Los suplementos venosos superficiales deben tratarse como trombosis venosas profundas.",
+   "D": "El tratamiento inicial con heparina de bajo peso molecular anticoagulación durante 1 semana, iniciar tratamiento con Acenocumarol."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un varón de 63 años sufre un traumatismo torácico y abdominal por accidente con salida de la vía en su vehículo, sin cinturón de seguridad y acude al servicio de urgencias hospitalario por su propio medio con signos de shock hemorrágico (Forrest 8a-b), el único IBP que ha demostrado ser eficaz en prevención secundaria de la recidiva hemorrágica es omeprazol. En la exploración se aprecia una perforación con tomografía computarizada normal. Su compañero realiza una exploración ecográfica y le informa que tiene un patrón sospechoso de mínimos derrames pleurales:",
+  "opciones": {
+   "A": "Los signos vitales son: FC-118 lpm; FR 32 lpm; Sat O2 98 %.",
+   "B": "Todo derrame pleural masivo tiene indicación de tubo de drenaje.",
+   "C": "El patrón en la pleura tiene igual sensibilidad que la Rx Tórax en la identificación de mínimos derrames pleurales.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ }
+]

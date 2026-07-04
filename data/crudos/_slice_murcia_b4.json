@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En relación con la embriaguez patológica (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Aparece tras la ingesta de una escasa cantidad de alcohol.",
+   "B": "Se desarrolla de forma brusca.",
+   "C": "Cursa con alteraciones conductuales.",
+   "D": "Se da en pacientes con consumo crónico de alcohol."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el tratamiento de la preeclampsia grave la paciente precisa tratamiento y entre ellos podemos encontrar:",
+  "opciones": {
+   "A": "Prevención de convulsiones con sulfato magnesio en dosis de 4 g por vía intravenosa.",
+   "B": "Finalización del embarazo independientemente de la edad gestacional en todas las situaciones, aunque no existan complicaciones.",
+   "C": "El objetivo del tratamiento es conseguir PAS por debajo de 120.",
+   "D": "El tratamiento puede ser ambulatorio."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el tratamiento de la crisis aguda de migraña NO está indicado:",
+  "opciones": {
+   "A": "Antiinflamatorios no esteroideos.",
+   "B": "Triptanes.",
+   "C": "Propanolol.",
+   "D": "Antieméticos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál es el tratamiento de primera elección de la colitis pseudomembranosa?:",
+  "opciones": {
+   "A": "Vancomicina intravenosa.",
+   "B": "Vancomicina oral.",
+   "C": "Azitromicina oral.",
+   "D": "Clindamicina intravenosa."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Dentro de los criterios clínicos del síndrome de HELLP podemos encontrar todos los siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Anemia hemolítica.",
+   "B": "Aumento de bilirrubina.",
+   "C": "Elevación de la ALT y la AST por encima del doble del límite alto de la normalidad.",
+   "D": "Disminución del LDH < 600 UI/L."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Según la Ley 3/2009, de 11 de mayo, de los derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia, todas aquellas personas que, por razón de sus funciones, tengan acceso a información confidencial, están obligadas al secreto profesional, debiendo guardar la debida reserva y confidencialidad de la información a la que accedan:",
+  "opciones": {
+   "A": "Incluso una vez finalizada su actividad profesional.",
+   "B": "Transcurridos 30 años de la finalización de su actividad profesional.",
+   "C": "Transcurridos 20 años de la finalización de su actividad profesional.",
+   "D": "Transcurridos 10 años de la finalización de su actividad profesional."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de las siguientes combinaciones forma el trípode en el que se asienta el tratamiento farmacológico de la mayoría de los pacientes con insuficiencia cardíaca y disfunción ventricular?:",
+  "opciones": {
+   "A": "Betabloqueantes, calcioantagonistas e IECAs.",
+   "B": "IECAs, diuréticos y calcioantagonistas.",
+   "C": "Diuréticos, betabloqueantes e IECAs.",
+   "D": "Betabloqueantes, antagonistas de los receptores de la angiotensina (ARA-II) e IECAs."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la respuesta CORRECTA en el tratamiento de la rabdomiólisis:",
+  "opciones": {
+   "A": "Infusión de solución salina que contenga potasio si la concentración sérica de CK es menor de 1000 U/l.",
+   "B": "Administración de manitol y diuréticos cuando la concentración sérica de CK es mayor de 5000 U/l.",
+   "C": "Alcalinización de la orina mediante bicarbonato 1M intravenoso para mantener un pH urinario por encima de 6.5.",
+   "D": "Si existe depleción de volumen, debe de administrarse furosemida a dosis de 20 mg/6h intravenosa."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Entre los cambios fisiológicos a nivel cardiovascular en la mujeres embazadas podemos encontrar todos los siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Disminución de la presión arterial tanto sistólica como diastólica.",
+   "B": "Aumento del índice cardiotorácico.",
+   "C": "Desplazamiento de la punta cardiaca a la derecha.",
+   "D": "Aumento de frecuencia cardiaca."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La diuresis alcalina es un método eficaz sobre todo en la intoxicación por (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Cobre.",
+   "C": "Antidepresivos.",
+   "D": "Salicilatos."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cómo actúan las soluciones hiperosmolares en el paciente intoxicado? (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Neutralizan el tóxico.",
+   "B": "Aumentan la eliminación del toxico presente en la luz gastrointestinal.",
+   "C": "Ayudan a extaer el toxico ya absorbido.",
+   "D": "Estimulan el vaciado gástrico del tóxico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En el tratamiento en Urgencias de una descompensación hiperglucémica no cetósica, incluiríamos todo lo siguiente EXCEPTO:",
+  "opciones": {
+   "A": "Perfusión de insulina de acción rápida a dosis de 0.1UI/kg/h mientras la glucemia sea superior a 300 mg/dl descartando cifras de potasio sérico inferiores a 3.3 mEq/l.",
+   "B": "Si la concentración sérica de potasio está entre 3.3 y 5.5 mEq/l, se administra cloruro potásico en dosis de 20 mEq/h durante las primeras 2 horas.",
+   "C": "El déficit de bicarbonato se calcula mediante la fórmula 0.3 x kg de peso x exceso de bases, resultando la cantidad de ml o mEq del preparado comercial de bicarbonato sódico 1/6 M, para administrar en 1 hora.",
+   "D": "Durante las 2 primeras horas se administran de 500 a 1000 ml del suero elegido calculando los litros a reponer en 24h y añadiendo las necesidades basales requeridas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Todos los siguientes fármacos se consideran opiáceos mayores, EXCEPTO:",
+  "opciones": {
+   "A": "Fentanilo.",
+   "B": "Tapentadol.",
+   "C": "Tramadol.",
+   "D": "Oxicodona."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a la intoxicación aguda por paracetamol (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Los niveles plasmáticos de paracetamol no son fiables hasta pasadas 4 horas de la ingesta.",
+   "B": "La acidosis metabólica es un factor de mal pronóstico.",
+   "C": "La N-acetilcisteína es el antídoto específico.",
+   "D": "El fallo cardiorrespiratorio precoz es muy frecuente en este tipo de intoxicación."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Qué fármaco utilizaría en el tratamiento agudo de una apoplejía hipofisaria?:",
+  "opciones": {
+   "A": "Estrógenos o testosterona, según el sexo del paciente.",
+   "B": "Glucocorticoides solubles.",
+   "C": "Hormonas tiroideas.",
+   "D": "PTH hidrosoluble."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De los siguientes procesos, señale cuál produce una cefalea aguda localizada:",
+  "opciones": {
+   "A": "Síndrome de hipertensión intracraneal.",
+   "B": "Emergencia hipertensiva.",
+   "C": "Glaucoma agudo de ángulo estrecho.",
+   "D": "Absceso cerebral."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a los pacientes que sufren quemaduras químicas (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Hay que garantizar la seguridad de los rescatadores y del personal sanitario que realizan la asistencia inicial al paciente que ha sufrido una quemadura química.",
+   "B": "Se debe descontaminar a la víctima lo más precozmente posible.",
+   "C": "Se debe identificar el agente implicado a la mayor brevedad.",
+   "D": "No se debe desvestir a la víctima."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a la descompensación hiperglucémica no cetósica, indique la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Es un síndrome clínico-analítico que se produce con relativa frecuencia en los pacientes con diabetes mellitus tipo I.",
+   "B": "Se caracteriza por glucemia superior a 600 mg/dl asociado a disminución del nivel de conciencia con ausencia de cetoacidosis intensa.",
+   "C": "Suele asociarse a valores analíticos de cetonemia o cetonuria muy elevados.",
+   "D": "No reviste gravedad alguna y su mortalidad es muy baja."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "El glucagón es el antídoto de (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Salicilatos.",
+   "B": "Benzodiacepinas.",
+   "C": "Antidepresivos tricíclicos.",
+   "D": "Betabloqueantes."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Sobre la embolia arterial aguda, una de las siguientes afirmaciones es FALSA. Señálela:",
+  "opciones": {
+   "A": "La trombosis mural de la arteria aorta puede producir embolismos arteriales.",
+   "B": "La tasa de conservación de la extremidad es más frecuente que en la trombosis arterial.",
+   "C": "Frecuentemente, el paciente se encuentra en fibrilación auricular.",
+   "D": "Su localización más frecuente es la arteria humeral."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a la definición de shock séptico, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "No se recomienda la determinación de lactato en estos procesos.",
+   "B": "En el shock séptico existe una necesidad de vasopresores para mantener presión arterial media por encima de 65 mmHg.",
+   "C": "En cuento a los valores en hematimetría la leucositosis es el hallazgo más frecuente.",
+   "D": "La antibioterapia debe iniciarse en la primera hora."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En referencia a la hipotermia (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Se define como temperatura central menor a 32ºC.",
+   "B": "Puede deberse a la exposición al frío sin la protección adecuada.",
+   "C": "En la hipotermia grave, si la temperatura central inicial es de 26ºC, sin recalentar, consideramos al paciente muerto.",
+   "D": "No se debe utilizar fluidoterapia a 40-42ºC para tratar una hipotermia grave."
+  },
+  "respuesta_correcta": "B"
+ }
+]

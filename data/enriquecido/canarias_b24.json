@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 507,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Las indicaciones de tratamiento quirúrgico para las fracturas vertebrales son:",
+    "opciones": {
+      "A": "Fracaso tratamiento ortopédico",
+      "B": "Déficit neurológico establecido y completo",
+      "C": "Fracturas inestables",
+      "D": "Todas ellas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las indicaciones de cirugía en fracturas vertebrales son múltiples y complementarias. El fracaso del tratamiento ortopédico, las fracturas inestables y el déficit neurológico establecido y completo son todas ellas indicaciones reconocidas para la intervención quirúrgica, ya sea para estabilizar la columna, descomprimir estructuras neurológicas o corregir deformidades progresivas. Por tanto, la opción D es la única respuesta completa y correcta.",
+      "incorrectas": {
+        "A": "El fracaso del tratamiento ortopédico es una indicación válida, pero no es la única; al considerarla de forma aislada se excluyen otras indicaciones igualmente importantes como la inestabilidad o el déficit neurológico.",
+        "B": "El déficit neurológico establecido y completo puede ser indicación quirúrgica para estabilización o para intentar descompresión precoz, pero tomarlo como respuesta única omite las otras indicaciones igualmente válidas.",
+        "C": "Las fracturas inestables constituyen una indicación clara de cirugía para prevenir el daño neurológico secundario, pero tampoco son la única indicación, por lo que esta opción es incompleta."
+      }
+    }
+  },
+  {
+    "id_examen": 508,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La presencia del reflejo bulbo-cavernoso indica:",
+    "opciones": {
+      "A": "Resolución shock medular y que la posible lesión es irreversible",
+      "B": "Presencia de función motora y sensitiva normal",
+      "C": "Se mantiene la capacidad de movimientos contra gravedad",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El reflejo bulbocavernoso es un arco reflejo sacro (S3-S4) cuya presencia indica que el periodo de shock medular ha finalizado. Cuando este reflejo está presente y persiste la ausencia de función motora y sensitiva por debajo de la lesión, ello confirma que la lesión medular es completa e irreversible desde el punto de vista neurológico.",
+      "incorrectas": {
+        "B": "La presencia del reflejo bulbocavernoso no implica función motora ni sensitiva normal; únicamente confirma la integridad del arco reflejo sacro y la resolución del shock medular, siendo compatible con lesión completa.",
+        "C": "La capacidad de movimiento contra gravedad depende de la preservación de vías motoras voluntarias, algo que el reflejo bulbocavernoso no evalúa ni garantiza.",
+        "D": "No todas las opciones son correctas; B y C describen situaciones de función neurológica conservada que no se derivan de la presencia de este reflejo."
+      }
+    }
+  },
+  {
+    "id_examen": 509,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Ante un lesionado medular, que presenta en la radiografiá transoral de odontoides una fractura del cuello de la apófisis odontoides del axis, señale lo correcto",
+    "opciones": {
+      "A": "Se manifiesta clínicamente por cervicalgia irradiada a la zona retroauricular",
+      "B": "Es una lesión inestable",
+      "C": "Se produce por mecanismo de hiperflexión o hiperextensión",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La fractura del cuello (tipo II) de la apófisis odontoides del axis reúne todas las características mencionadas: se produce por mecanismos de hiperflexión o hiperextensión, se considera una lesión inestable por la ausencia de soporte óseo suficiente, y clínicamente cursa con cervicalgia irradiada a la región retroauricular por irritación de las raíces C2. Por ello, la respuesta D engloba correctamente todas las afirmaciones.",
+      "incorrectas": {
+        "A": "La cervicalgia retroauricular es una manifestación real de esta fractura, pero considerarla como única respuesta excluye los aspectos biomecánicos e inestabilidad, igualmente correctos.",
+        "B": "La inestabilidad es una característica fundamental de esta fractura, pero no es la única afirmación verdadera, lo que hace incompleta esta opción de forma aislada.",
+        "C": "El mecanismo de hiperflexión-hiperextensión es correcto, pero tomarlo como única respuesta omite la inestabilidad y la presentación clínica característica."
+      }
+    }
+  },
+  {
+    "id_examen": 510,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes circunstancias NO se relaciona con un mayor riesgo de lesión raquimedular en el paciente politraumatizado?",
+    "opciones": {
+      "A": "Embriaguez",
+      "B": "Impacto por encima de las clavículas",
+      "C": "Impacto con desaceleración brusca",
+      "D": "Utilización de casco protector en motoristas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El uso de casco protector en motoristas es una medida de seguridad que reduce el riesgo de traumatismo craneoencefálico y cervical, por lo que su utilización disminuye —en lugar de aumentar— el riesgo de lesión raquimedular. No constituye un factor de riesgo sino un factor protector.",
+      "incorrectas": {
+        "A": "La embriaguez altera el nivel de conciencia y puede impedir la protección refleja del cuello ante impactos, incrementando el riesgo de lesión raquimedular.",
+        "B": "Los traumatismos por encima de las clavículas implican transmisión directa de fuerzas a la columna cervical, siendo uno de los mecanismos clásicos de lesión medular cervical.",
+        "C": "La desaceleración brusca genera fuerzas de inercia sobre la columna que pueden provocar fracturas o luxaciones vertebrales con lesión medular asociada."
+      }
+    }
+  },
+  {
+    "id_examen": 511,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale cuál de las siguientes aseveraciones es correcta respecto a los corticoides en el tratamiento de la lesión medular aguda traumática",
+    "opciones": {
+      "A": "Se recomiendan corticoides a altas dosis",
+      "B": "Se recomiendan corticoides a dosis bajas, estandard",
+      "C": "No recomiendan",
+      "D": "Solo se recomiendan en traumatismos medulares penetrantes"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las guías clínicas actuales (AANS, ACS-TQIP) no recomiendan el uso de corticoides en la lesión medular aguda traumática. Los estudios NASCIS II y III inicialmente sugirieron beneficio con metilprednisolona a altas dosis, pero análisis posteriores demostraron que los riesgos (infección, hemorragia gastrointestinal, sepsis) superan los beneficios neurológicos, por lo que su uso ha sido desaconsejado en las guías modernas.",
+      "incorrectas": {
+        "A": "El uso de metilprednisolona a altas dosis fue una práctica antigua basada en estudios NASCIS hoy superados; las guías actuales han retirado esta recomendación debido a la relación beneficio-riesgo desfavorable.",
+        "B": "Los corticoides a dosis estándar tampoco tienen indicación en la lesión medular aguda traumática; ninguna pauta de corticoides está actualmente recomendada para esta indicación.",
+        "D": "Precisamente en los traumatismos medulares penetrantes (arma de fuego, arma blanca) los corticoides están contraindicados por el elevado riesgo de complicaciones infecciosas en heridas contaminadas."
+      }
+    }
+  },
+  {
+    "id_examen": 512,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale cuál de las siguientes es la causa más frecuente de lesión medular en nuestro medio",
+    "opciones": {
+      "A": "Accidente de tráfico",
+      "B": "Caídas",
+      "C": "Agresiones",
+      "D": "Zambullidas"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En España y en el contexto europeo actual, las caídas —especialmente en personas mayores— han desplazado a los accidentes de tráfico como la primera causa de lesión medular. El envejecimiento de la población y la mejora en las medidas de seguridad vial explican este cambio epidemiológico, siendo las caídas accidentales la etiología más frecuente en nuestro medio.",
+      "incorrectas": {
+        "A": "Los accidentes de tráfico fueron históricamente la primera causa de lesión medular, pero han perdido ese primer puesto en países con buenas políticas de seguridad vial, situándose ahora por detrás de las caídas en muchos registros nacionales.",
+        "C": "Las agresiones (heridas por arma de fuego o arma blanca) representan una causa menos frecuente en nuestro medio en comparación con los países anglosajones, donde la violencia armada tiene mayor incidencia.",
+        "D": "Las zambullidas en agua poco profunda son una causa reconocida de lesión cervical alta, pero representan una minoría de los casos totales de lesión medular."
+      }
+    }
+  },
+  {
+    "id_examen": 513,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El manejo terapéutico del shock medular por lesión medular NO incluye:",
+    "opciones": {
+      "A": "Fluidoterapia intravenosa",
+      "B": "Corticoides",
+      "C": "Administración de noradrenalina",
+      "D": "Administración de agentes vasocativos"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El shock medular (shock neurogénico) se trata con fluidoterapia IV para restaurar la volemia y con vasopresores como noradrenalina o dopamina para mantener la presión de perfusión medular (PAM objetivo ≥85-90 mmHg). Los corticoides no forman parte del tratamiento del shock medular ni de la lesión medular aguda traumática en las guías actuales, siendo la única opción que no está indicada.",
+      "incorrectas": {
+        "A": "La fluidoterapia intravenosa es el primer paso en el manejo del shock neurogénico para corregir la hipovolemia relativa provocada por la vasodilatación periférica secundaria a la pérdida del tono simpático.",
+        "C": "La noradrenalina es el vasopresor de elección en el shock neurogénico por lesión medular, ya que actúa sobre receptores alfa-adrenérgicos para aumentar las resistencias vasculares periféricas y mantener la presión arterial.",
+        "D": "Los agentes vasoactivos en general (noradrenalina, dopamina, fenilefrina) son pilares fundamentales del tratamiento del shock neurogénico cuando la fluidoterapia sola es insuficiente para mantener la presión de perfusión medular."
+      }
+    }
+  },
+  {
+    "id_examen": 514,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes manifestaciones son propias al shock medular?",
+    "opciones": {
+      "A": "Respiración diafragmatica",
+      "B": "Hipotensión arterial",
+      "C": "Bardicardia",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El shock neurogénico (medular) se caracteriza por la triada de hipotensión, bradicardia y vasodilatación periférica, resultado de la pérdida del tono simpático. Cuando la lesión es cervical alta, la parálisis de los músculos intercostales obliga a que la respiración sea exclusivamente diafragmática (C3-C5). Por tanto, las tres manifestaciones descritas son propias de esta entidad.",
+      "incorrectas": {
+        "A": "La respiración diafragmática aislada es una manifestación real del shock medular cervical alto, pero al seleccionarla como única respuesta se omiten la hipotensión y la bradicardia, igualmente características.",
+        "B": "La hipotensión es consecuencia directa de la vasodilatación periférica por pérdida simpática, pero no es la única manifestación; la bradicardia y el patrón respiratorio también forman parte del cuadro.",
+        "C": "La bradicardia ocurre por pérdida de la inervación simpática cardíaca (T1-T4) con predominio vagal relativo, pero tampoco es la única manifestación propia del shock medular."
+      }
+    }
+  },
+  {
+    "id_examen": 515,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes es un signo de alerta de lesión medular aguda en un paciente victima de un impacto traumático?",
+    "opciones": {
+      "A": "Priapismo",
+      "B": "Vómitos",
+      "C": "Dolor lumbar",
+      "D": "Taquicardia con sudoración profusa"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El priapismo postraumático es un signo patognomónico de lesión medular grave. Se produce por la pérdida del control simpático sobre la musculatura lisa vascular peneana, con predominio parasimpático, lo que provoca una erección persistente e involuntaria. Su presencia en el contexto de un traumatismo debe alertar inmediatamente sobre una posible lesión medular.",
+      "incorrectas": {
+        "B": "Los vómitos son un síntoma inespecífico que puede aparecer en el traumatismo craneoencefálico, intoxicaciones o dolor intenso, pero no constituyen un signo específico de lesión medular.",
+        "C": "El dolor lumbar es muy frecuente en traumatismos menores y patología degenerativa; aunque puede acompañar a fracturas vertebrales, por sí solo no es un signo específico de lesión medular aguda.",
+        "D": "La taquicardia con sudoración profusa sugiere un estado de shock hipovolémico o respuesta adrenérgica al dolor, mientras que la lesión medular típicamente produce bradicardia e incapacidad para sudar por debajo de la lesión."
+      }
+    }
+  },
+  {
+    "id_examen": 516,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Las fracturas vertebrales en la infancia se producen fundamentalmente por:",
+    "opciones": {
+      "A": "Accidentes trafico",
+      "B": "Maltrato",
+      "C": "Caídas a cierta altura",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En la edad pediátrica, las fracturas vertebrales tienen una etiología múltiple que incluye los accidentes de tráfico (con o sin uso de cinturón de seguridad), el maltrato infantil (síndrome del niño zarandeado o traumatismos directos) y las caídas desde cierta altura. Los tres mecanismos están reconocidos como causas fundamentales en la literatura pediátrica, por lo que la opción D es la única respuesta completa.",
+      "incorrectas": {
+        "A": "Los accidentes de tráfico son una causa importante en la infancia, pero no la única; el maltrato y las caídas tienen una relevancia comparable en pediatría.",
+        "B": "El maltrato infantil debe considerarse siempre ante fracturas vertebrales en niños pequeños sin mecanismo traumático claro, pero su consideración aislada excluye los otros mecanismos igualmente frecuentes.",
+        "C": "Las caídas a cierta altura son una causa frecuente de fractura vertebral en edad escolar, pero no agotan la etiología pediátrica, en la que el maltrato y los accidentes de tráfico también son relevantes."
+      }
+    }
+  },
+  {
+    "id_examen": 517,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El tratamiento de las fracturas vertebrales en la infancia suele ser:",
+    "opciones": {
+      "A": "Tratamiento conservador",
+      "B": "Tratamiento quirúrgico",
+      "C": "Cifoplastia",
+      "D": "Ninguna de ellas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La gran mayoría de las fracturas vertebrales en la infancia son estables y, gracias a la mayor elasticidad del esqueleto pediátrico y al potencial de remodelación ósea, responden satisfactoriamente al tratamiento conservador (reposo relativo, analgesia, inmovilización con ortesis cuando está indicado). La cirugía queda reservada para los casos con inestabilidad grave o compromiso neurológico.",
+      "incorrectas": {
+        "B": "El tratamiento quirúrgico es excepcional en fracturas vertebrales pediátricas y solo se indica ante inestabilidad grave, déficit neurológico progresivo o fracaso del tratamiento conservador.",
+        "C": "La cifoplastia es una técnica mínimamente invasiva utilizada en fracturas osteoporóticas del adulto mayor; no está indicada en la población pediátrica, cuyo hueso tiene gran capacidad de remodelación.",
+        "D": "Sí existe un tratamiento establecido y de primera elección: el conservador, por lo que esta opción es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 518,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El tratamiento quirúrgico en las fracturas osteoporóticas está indicado en:",
+    "opciones": {
+      "A": "Deformidad progresiva con cifosis marcada y dolor refractario",
+      "B": "Inestabilidad vertebral con o sin déficit neurológico asociado",
+      "C": "Cuando generan estenosis del canal",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En las fracturas vertebrales osteoporóticas, el tratamiento quirúrgico está justificado cuando el tratamiento conservador fracasa o cuando se presentan complicaciones graves: deformidad progresiva con cifosis severa y dolor intratable, inestabilidad vertebral (con o sin compromiso neurológico) y estenosis del canal raquídeo con o sin clínica neurológica. Las tres situaciones son indicaciones bien establecidas, por lo que D es la respuesta correcta.",
+      "incorrectas": {
+        "A": "La cifosis progresiva con dolor refractario es una indicación real, pero limitarse a ella excluye la inestabilidad y la estenosis del canal, que también justifican la cirugía.",
+        "B": "La inestabilidad vertebral es una indicación clara, pero no es la única; la deformidad dolorosa intratable y la estenosis del canal también requieren consideración quirúrgica.",
+        "C": "La estenosis del canal con compromiso neurológico es indicación de descompresión quirúrgica, pero igualmente no agota las indicaciones de cirugía en fracturas osteoporóticas."
+      }
+    }
+  },
+  {
+    "id_examen": 519,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Ante la sospecha de una fractura vertebral por fragilidad, en la Rx simple se pueden observar varios patrones de fractura:",
+    "opciones": {
+      "A": "Acuñamiento anterior",
+      "B": "Aplastamiento uniforme",
+      "C": "Aplastamiento central",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La radiología simple de las fracturas vertebrales osteoporóticas puede mostrar tres patrones morfológicos distintos: acuñamiento anterior (el más frecuente, con pérdida de altura de la cortical anterior), aplastamiento uniforme o vertebra plana (colapso global del cuerpo vertebral) y aplastamiento central o en bicóncavo (pérdida de altura central con preservación relativa de los márgenes). Los tres patrones son reconocidos y pueden coexistir.",
+      "incorrectas": {
+        "A": "El acuñamiento anterior es el patrón más común y bien conocido de fractura vertebral osteoporótica, pero no es el único morfotipo que puede verse en la radiografía simple.",
+        "B": "El aplastamiento uniforme (vértebra plana) es un patrón propio de fracturas por fragilidad severas, pero considerarlo de forma aislada omite el acuñamiento y el aplastamiento central.",
+        "C": "El aplastamiento central produce la morfología característica en lente bicóncava, hallazgo clásico en osteoporosis, pero tampoco es el único patrón posible."
+      }
+    }
+  },
+  {
+    "id_examen": 520,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál es el segmento vertebral más afectado en las fracturas osteoporóticas?",
+    "opciones": {
+      "A": "L1-L5",
+      "B": "T7-L2",
+      "C": "T1-T12",
+      "D": "L4-L5"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El segmento T7-L2, que corresponde a la unión toracolumbar, es la zona de mayor prevalencia de fracturas osteoporóticas. Esta región concentra las máximas fuerzas de compresión axial por situarse en la transición entre la columna torácica rígida (fijada por la caja torácica) y la columna lumbar más móvil, lo que genera una zona de especial vulnerabilidad mecánica en el hueso osteoporótico.",
+      "incorrectas": {
+        "A": "El segmento L1-L5 (columna lumbar completa) incluye vértebras frecuentemente afectadas, pero el epicentro epidemiológico real de las fracturas osteoporóticas se sitúa en la unión toracolumbar, no en toda la región lumbar.",
+        "C": "La columna torácica alta (T1-T12 de forma genérica) está parcialmente incluida, pero el segmento T1-T6 tiene menor frecuencia de fractura osteoporótica porque la caja torácica proporciona una fijación adicional que distribuye las cargas.",
+        "D": "L4-L5 es un segmento con alta prevalencia de hernia discal y patología degenerativa, pero no constituye el nivel de mayor incidencia de fracturas por fragilidad osteoporótica."
+      }
+    }
+  },
+  {
+    "id_examen": 521,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La mayoria de los pacientes con fracturas vertebrales se tratan mediante:",
+    "opciones": {
+      "A": "Descompresión anterior",
+      "B": "Descompresión posterior",
+      "C": "Inmovilización y deambulación precoz",
+      "D": "Ninguna de las anteriores"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La mayoría de las fracturas vertebrales (especialmente las estables, sin déficit neurológico) se tratan de forma conservadora mediante inmovilización con ortesis o corsé y deambulación precoz. La movilización temprana reduce el riesgo de complicaciones del decúbito (tromboembolismo, úlceras, atrofia muscular) y mejora los resultados funcionales a largo plazo.",
+      "incorrectas": {
+        "A": "La descompresión anterior es un procedimiento quirúrgico indicado en casos seleccionados con compromiso del canal vertebral desde la parte anterior (generalmente fragmento de cuerpo vertebral retropulsado); no es el tratamiento mayoritario.",
+        "B": "La descompresión posterior está indicada cuando existe compresión neurológica posterior o inestabilidad que requiera instrumentación, representando una minoría de los casos de fractura vertebral.",
+        "D": "Existe un tratamiento establecido y ampliamente utilizado (el conservador con inmovilización y deambulación precoz), por lo que afirmar que ninguna de las anteriores es correcta resulta erróneo."
+      }
+    }
+  },
+  {
+    "id_examen": 522,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La realización de RX dinámicas de la columna cervical deben de realizarse solo si:",
+    "opciones": {
+      "A": "Tras la realización de estudios previos se tiene la certeza de que no hay signos de inestabilidad",
+      "B": "Existe mala alineación de las apófisis espinosas en la proyección AP",
+      "C": "Se sospecha fractura de odontoides",
+      "D": "Deben de realizarse de entrada"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las radiografías dinámicas (en flexión-extensión) de la columna cervical implican movimiento activo del cuello y pueden ser peligrosas si existe inestabilidad oculta. Por este motivo, solo deben realizarse tras haber descartado mediante estudios previos (radiografía estática, TC) la presencia de fracturas o signos de inestabilidad, y siempre con la colaboración consciente del paciente, nunca de forma pasiva.",
+      "incorrectas": {
+        "B": "La mala alineación de apófisis espinosas en proyección AP es un signo radiológico de sospecha de lesión, que precisamente contraindica realizar radiografías dinámicas hasta completar el estudio con TC o RM.",
+        "C": "La sospecha de fractura de odontoides es una contraindicación absoluta para las radiografías dinámicas; ante esta sospecha deben realizarse TC con reconstrucciones y/o RM, nunca movilización dinámica.",
+        "D": "Realizar radiografías dinámicas de entrada, antes de descartar inestabilidad, podría provocar o agravar una lesión medular en un paciente con fractura no diagnosticada."
+      }
+    }
+  },
+  {
+    "id_examen": 523,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En el manejo de un paciente con esguince cervical tras un accidente de tráfico, una de las siguientes afirmaciones NO es correcta:",
+    "opciones": {
+      "A": "El estudio radiológico debe incluir radiografiás AP, L y transoral para descartar lesión",
+      "B": "El tratamiento en la fase aguda consiste en AINES, relajantes musculares, calor seco local e inmovilización de la columna cervical con collarín al menos 15 días.",
+      "C": "La listesis anterior mayor de 3,5mm en vertebras superiores a C4 es un signo radiográfico de gravedad",
+      "D": "La separación anormal entre apofisis espinosas o fractura horizontal en ellas es signo radiológico de gravedad"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La opción B es incorrecta porque la inmovilización prolongada con collarín (15 días o más) en el esguince cervical está desaconsejada en las guías actuales. La evidencia demuestra que la movilización precoz, combinada con fisioterapia activa, produce mejores resultados funcionales que la inmovilización prolongada. El collarín, si se usa, debe limitarse a los primeros días (máximo 3-7 días) y siempre asociado a movilización activa precoz.",
+      "incorrectas": {
+        "A": "La evaluación radiológica estándar del esguince cervical incluye proyecciones AP, lateral y transoral (para visualizar la odontoides), lo cual es correcto y está indicado para descartar fracturas no diagnosticadas clínicamente.",
+        "C": "Una listesis anterior superior a 3,5 mm en vértebras por encima de C4 supera el umbral de normalidad y es considerado signo radiológico de inestabilidad ligamentosa significativa, lo cual es correcto.",
+        "D": "La separación anormal entre apófisis espinosas o la fractura horizontal de las mismas indica lesión del complejo ligamentoso posterior, siendo un signo radiológico de inestabilidad de gravedad reconocida, lo cual también es correcto."
+      }
+    }
+  },
+  {
+    "id_examen": 524,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale la Respuesta Correcta sobre una fractura por compresión simple a nivel de la columna vertebral:",
+    "opciones": {
+      "A": "Suelen ser lesiones estables",
+      "B": "Afectan al pilar anterior vertebral",
+      "C": "La altura de la porción posterior del cuerpo vertebral no esta afectada",
+      "D": "Todas las anteriores son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La fractura por compresión simple o acuñamiento afecta exclusivamente al pilar anterior (columna anterior de Denis), preservando el pilar posterior y la altura de la pared posterior del cuerpo vertebral. Al no afectar el complejo ligamentoso posterior ni retropulsar fragmentos al canal, se considera una lesión estable. Las tres afirmaciones (estabilidad, afectación solo del pilar anterior y preservación de la pared posterior) son simultáneamente ciertas.",
+      "incorrectas": {
+        "A": "La estabilidad de las fracturas por compresión simple es correcta, pero al seleccionarla sola se omiten las características morfológicas que la definen (afectación del pilar anterior con preservación de la pared posterior).",
+        "B": "La afectación exclusiva del pilar anterior es el elemento definitorio de este tipo de fractura, pero por sí solo no recoge la información sobre estabilidad ni la integridad de la pared posterior.",
+        "C": "La preservación de la altura de la pared posterior diferencia la fractura por compresión simple del estallido vertebral, pero tampoco es suficiente como respuesta única sin mencionar su estabilidad y localización."
+      }
+    }
+  },
+  {
+    "id_examen": 525,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La fractura-luxación de Bennet es la fractura de:",
+    "opciones": {
+      "A": "Base del primer metacarpiano",
+      "B": "Cuello del quinto metacarpiano",
+      "C": "Olécranon",
+      "D": "Estiloides radial"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La fractura de Bennett es una fractura-luxación intraarticular de la base del primer metacarpiano (pulgar), en la que un fragmento medial permanece en su posición mientras el resto del metacarpiano es desplazado proximalmente por la tracción del abductor largo del pulgar. Es la fractura más frecuente de la base del primer metacarpiano y requiere reducción e inmovilización, frecuentemente quirúrgica.",
+      "incorrectas": {
+        "B": "La fractura del cuello del quinto metacarpiano se denomina fractura del boxeador (Boxer's fracture), y se produce típicamente por un puñetazo con el puño cerrado; no guarda relación con la fractura de Bennett.",
+        "C": "La fractura de olécranon se produce en el codo, habitualmente por caída sobre el codo flexionado o por avulsión del tríceps; no tiene relación con la fractura de Bennett.",
+        "D": "La fractura de la estiloides radial (fractura de Hutchinson o fractura del chófer) afecta a la muñeca y se produce por impacto directo o transmisión axial a través del escafoides; es una entidad distinta."
+      }
+    }
+  },
+  {
+    "id_examen": 526,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La fractura diafiasria del húmero se asocia con cierta frecuencia a lesiones del nervio:",
+    "opciones": {
+      "A": "Circunflejo",
+      "B": "Radial",
+      "C": "Mediano",
+      "D": "Cibital"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El nervio radial discurre en íntimo contacto con la diáfisis humeral en el canal de torsión (surco radial o espiral), lo que lo hace especialmente vulnerable en las fracturas del tercio medio y distal del húmero. La lesión del nervio radial se manifiesta como parálisis en extensión (muñeca caída o wrist drop) y anestesia en el dorso de la primera comisura interdigital.",
+      "incorrectas": {
+        "A": "El nervio circunflejo (axilar) rodea el cuello quirúrgico del húmero y puede lesionarse en fracturas proximales o luxaciones glenohumeral, no en fracturas diafisarias.",
+        "C": "El nervio mediano discurre por el compartimento anterior del brazo y se lesiona con mayor frecuencia en fracturas supracondíleas del húmero en niños o en traumatismos de la fosa antecubital, no en fracturas diafisarias.",
+        "D": "El nervio cubital (ulnar) puede lesionarse en fracturas del epicóndilo medial o del tercio distal del húmero, pero su asociación con las fracturas diafisarias es significativamente menos frecuente que la del nervio radial."
+      }
+    }
+  },
+  {
+    "id_examen": 527,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Según la clasificación de Rockwood y Matsen, señale que tipo de luxación acromioclavicular corresponde a una luxación posterior, con rotura completa de los ligamentos acromio y coracoclaviculares, así como del deltoides y del trapecio con desplazamiento posterior de la clavícula:",
+    "opciones": {
+      "A": "Tipo I",
+      "B": "Tipo II",
+      "C": "Tipo III",
+      "D": "Tipo IV"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En la clasificación de Rockwood, el tipo IV es la luxación acromioclavicular con desplazamiento posterior de la clavícula que penetra o atraviesa el músculo trapecio. Se caracteriza por rotura completa de los ligamentos acromioclavicular y coracoclavicular, y de las inserciones musculares del deltoides y trapecio, con la clavícula desplazada dorsalmente. Esta dirección de desplazamiento posterior lo distingue del tipo III (desplazamiento superior).",
+      "incorrectas": {
+        "A": "El tipo I corresponde a un esguince leve de los ligamentos acromioclaviculares sin rotura completa y sin desplazamiento articular; es la forma más leve y no implica inestabilidad.",
+        "B": "El tipo II implica rotura completa del ligamento acromioclavicular con el ligamento coracoclavicular intacto o con esguince; existe subluxación vertical de la articulación pero sin desplazamiento posterior.",
+        "C": "El tipo III presenta rotura completa de los ligamentos acromioclavicular y coracoclavicular, con la clavícula desplazada superiormente (entre el 25-100% del ancho clavicular), pero sin el componente de desplazamiento posterior característico del tipo IV."
+      }
+    }
+  },
+  {
+    "id_examen": 528,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes respuestas es correcta en relación a la fractura del escafoides carpiano?",
+    "opciones": {
+      "A": "Se produce por caída sobre la mano extendida",
+      "B": "Existe tumefacción y dolor a la palpación en la tabaquera anatómica, que se intensifica con movimientos de lateralización radial de la mano",
+      "C": "Siempre es visible en la radiografiá dese el inicio.",
+      "D": "Su tratamiento ortopédico requiere inmovilización muy breve de 4 semanas"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El hallazgo clínico más característico y fiable de la fractura de escafoides es el dolor y la tumefacción en la tabaquera anatómica (fosa entre el extensor largo y el abductor largo del pulgar), que se intensifica con la desviación radial de la muñeca. Este signo tiene alta sensibilidad y debe llevar a la sospecha diagnóstica aunque la radiografía inicial sea normal.",
+      "incorrectas": {
+        "A": "Si bien la caída sobre la mano extendida (FOOSH: fall on outstretched hand) es un mecanismo de fractura de escafoides, también lo son otros mecanismos de compresión axial con la muñeca en extensión y desviación radial; la opción A no es incorrecta por el mecanismo en sí, pero la opción B describe el hallazgo clínico más específico y definitorio.",
+        "C": "La fractura de escafoides es notoriamente oculta en la radiografía inicial hasta en un 20-30% de los casos, pudiendo no ser visible hasta pasados 7-14 días cuando la reabsorción ósea perilesional la hace evidente; de ahí la necesidad de TC o RM ante sospecha clínica con Rx negativa.",
+        "D": "El tratamiento ortopédico de la fractura de escafoides requiere inmovilización prolongada de 8 a 12 semanas (o más según la localización y desplazamiento), no solo 4 semanas, debido a la vascularización precaria del polo proximal que ralentiza la consolidación."
+      }
+    }
+  }
+]

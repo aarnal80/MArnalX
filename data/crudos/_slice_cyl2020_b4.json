@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale de entre las siguientes exploraciones complementarias en el diagnóstico de una perforación esofágica cuál está contraindicada:",
+  "opciones": {
+   "A": "Radiografía con contraste hidrosoluble (gastrografía).",
+   "B": "Radiografía anteroposterior y lateral cervical.",
+   "C": "Tomografía computarizada.",
+   "D": "Endoscopia digestiva alta."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a la Ascitis señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Se denomina Ascitis a la acumulación de líquido serofibrinoso libre en la cavidad peritoneal en cantidad superior a 100 ml",
+   "B": "La dosis de albúmina recomendada al realizar una paracentesis evacuadora es de un frasco de 50 ml (10 gr) por cada 1,5L de líquido ascítico extraído",
+   "C": "La administración de Aminoglucósidos no está contraindicada en la Peritonitis bacteriana espontánea",
+   "D": "La cuantía de líquido ascítico evacuado no debe superar los 5L para evitar disfunciones hidroelectrolíticas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente con ictericia es aconsejable el ingreso hospitalario en las siguientes circunstancias, EXCEPTO en:",
+  "opciones": {
+   "A": "Encefalopatía hepática",
+   "B": "Sepsis de cualquier localización",
+   "C": "Hepatitis aguda con actividad de protrombina inferior al 50%",
+   "D": "Enfermedad de Gilbert"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál no es causa de hiperbilirrubinemia de predominio indirecto?:",
+  "opciones": {
+   "A": "Cirrosis biliar primaria",
+   "B": "Gilbert",
+   "C": "Sepsis",
+   "D": "Hemólisis"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a las alteraciones del equilibrio ácido-básico señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La sangre venosa refleja el grado de acidosis con la misma exactitud que la arterial",
+   "B": "El mecanismo compensador de la acidosis metabólica es la disminución del a PaCO2 por hiperventilación",
+   "C": "La acidosis metabólica con Anión GAP normal se denomina también normoclorémica",
+   "D": "Una de las causa de acidosis metabólica con Anión GAP elevado es la cetoacidosis diabética"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a las alteraciones de los trastornos hidroelectrolíticos señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "La hiponatremia se clasifica como grave en concentraciones séricas inferiores a 115 meq/l, o cuando, independientemente de la natremia existan síntomas neurológicos acompañantes",
+   "B": "La hipopotasemia se clasifica como grave si la concentración de potasio sérico se encuentra entre 2,5-2,9 meq/l",
+   "C": "En la hipernatremia la corrección del déficit de agua debe realizarse rápidamente en las primeras 5 horas",
+   "D": "En la hiperpotasemia no está indicada la retirada de IECAs o ARA-II"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Entre las causa de Hipopotasemia se encuentran todas, menos:",
+  "opciones": {
+   "A": "Diarrea",
+   "B": "Insuficiencia suprarrenal",
+   "C": "Alcalosis metabólica de cualquier causa",
+   "D": "Hiperaldosteronismo"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Varón de 49 años. Antecedentes personales de Fibrilación auricular en tratamiento con amiodarona. Acude por un cuadro de fiebre de 38ºC, agitación, vómitos y diarrea. En la exploración taquicardia sinusal a 130 lpm. ¿Cuál es el diagnóstico más probable en este paciente?:",
+  "opciones": {
+   "A": "Crisis mixedematosa",
+   "B": "Shock cardiogénico",
+   "C": "Crisis tirotóxica",
+   "D": "Síndrome de Liddle"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La crisis addisoniana o insuficiencia suprarrenal aguda es una emergencia médica. ¿Cuál de estos tratamientos no es el adecuado?:",
+  "opciones": {
+   "A": "Perfusión de insulina rápida",
+   "B": "Tratamiento de la depleción hidrosalina para corregir la deshidratación y la hiponatremia",
+   "C": "Hidrocortisona iv",
+   "D": "Dexametasona iv"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Hay una serie de situaciones que pueden desencadenar una crisis tirotóxica. Todas son CORRECTAS menos una:",
+  "opciones": {
+   "A": "Administración de contrastes yodados",
+   "B": "Intoxicación por insecticidas organofosforados",
+   "C": "Síndrome de la vena cava superior",
+   "D": "Gestación"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Es cierto en la Cetoacidosis diabética que:",
+  "opciones": {
+   "A": "Se presenta habitualmente en enfermos con DM tipo 2",
+   "B": "Siempre debe administrarse bicarbonato sódico",
+   "C": "La acidosis metabólica se produce como consecuencia de acumulación de cuerpos cetónicos en la sangre",
+   "D": "La perfusión de insulina se suspenderá con cifras de glucemia inferiores a 250 mgrs/dl"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a la descompensación hiperglucémica hiperosmolar no cetósica, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Se da en los diabéticos tipo 2",
+   "B": "La glucemia (mgrs/dl) será inferior a 600",
+   "C": "La velocidad de instauración es en días",
+   "D": "La cetonemia/cetonuria serán negativas o positivas débiles"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la patología diabética:",
+  "opciones": {
+   "A": "Se considera cetonemia grave cuando es superior a 2 mmol/l",
+   "B": "Más del 90% de las hipoglucemias son exógenas o inducidas",
+   "C": "La hiperventilación (respiración de Kussmaul) forma parte de los síntomas y signos característicos de la cetoacidosis diabética",
+   "D": "Si la clínica neurológica persiste 30 minutos después de la normalización de la glucemia, habrás que descartar otras alteraciones metabólicas o lesiones estructurales cerebrales"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la orientación diagnóstica de las monoartritis:",
+  "opciones": {
+   "A": "La artritis séptica presenta un comienzo súbito",
+   "B": "La espondilitis anquilosante es predominante en el sexo femenino",
+   "C": "La artritis microcristalina tiene más incidencia en adultos mayores de 50 años",
+   "D": "La gota se localiza en mayor frecuencia en la primera articulación MTF"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Requieren ingreso hospitalario todos los pacientes, menos:",
+  "opciones": {
+   "A": "Pacientes con líquido sinovial con 2000 leucocitos/microL (30%) PMN",
+   "B": "Pacientes con monoartritis séptica",
+   "C": "Pacientes con monoartritis aguda febril con duda diagnóstica",
+   "D": "Pacientes con evidencia de líquido sinovial hemático, con trastornos de la coagulación sanguínea demostrado"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la afirmación INCORRECTA en cuanto a las indicaciones de transfusión:",
+  "opciones": {
+   "A": "La necesidad de transfusión no depende del volumen del sangrado, del tiempo de evolución, situación hemodinámica y antecedentes del paciente",
+   "B": "Hemoglobina igual o inferior a 6 gr/dl siempre requiere transfusión",
+   "C": "En la Anemia crónica la transfusión generalmente no debe realizarse cuando la concentración de Hb es superior a 10 gr/dl",
+   "D": "Con hemoglobina entre 6 y 8 gr/dl estaría indicada la transfusión en pacientes con factores de riesgo o síntomas de hipoxemia o descompensación"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Dentro de las principales causas de Anemia normocítica está:",
+  "opciones": {
+   "A": "La Anemia hemolítica",
+   "B": "Déficit de Vitamina B12",
+   "C": "Síndrome mielodisplásico",
+   "D": "Consumo de alcohol"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a las Anemias, señale la afirmación CORRECTA:",
+  "opciones": {
+   "A": "Se considera una anemia moderada cuando la cifra de Hemoglobina está entre 6-8 grs/dl",
+   "B": "Las alteraciones neurológicas como parestesias o ataxia, sugieren déficit de Vitamina B12",
+   "C": "El sulfato ferroso debe administrarse en la anemia ferropénica junto con inhibidores de la bomba de protones para favorecer la tolerabilidad",
+   "D": "Las anemias moderadas con buena tolerancia deben ser ingresadas siempre para realizar el estudio etiológico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la Trombocitopenia inmunitaria primaria:",
+  "opciones": {
+   "A": "Es un tipo de Trombocitopenia inmunitaria adquirida cuyo diagnóstico es de exclusión",
+   "B": "En su forma aguda con frecuencia va precedida de un cuadro vírico prodrómico",
+   "C": "En su forma crónica la esplenomegalia es muy frecuente",
+   "D": "Habitualmente el recuento plaquetario es menor en la forma aguda que en la crónica"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes afirmaciones son incorrectas respecto a la Púrpura Trombocitopénica Trombótica (PTT)?:",
+  "opciones": {
+   "A": "La PTT es un síndrome microangiopático trombótico con afectación de pequeño vaso",
+   "B": "Esta enfermedad no requiere ingreso hospitalario",
+   "C": "El tratamiento de elección es la plasmaféresis más corticoides y antiagregantes plaquetarios con reposición de plasma fresco congelado",
+   "D": "Debe sospecharse ante un paciente que presente trombocitopenia (10.000-50.000/microL)"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La administración de Idarucizumab se utiliza para la reversión rápida del efecto anticoagulante. ¿De cuál de los siguientes anticoagulantes de acción directa?:",
+  "opciones": {
+   "A": "Apixabán",
+   "B": "Edoxabán",
+   "C": "Ribaroxabán",
+   "D": "Dabigatrán"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la anticoagulación oral con fármacos antivitamina K, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Con INR > 5 sin sangrado, se debe dejar de tomar el fármaco y control en 2 días",
+   "B": "Ante un sangrado menor (epistaxis…) con un INR en rango terapéutico, se requiere control local del sangrado y supresión del fármaco 24h",
+   "C": "En un sangrado mayor se debe suspender el fármaco antivitamina K, administrar vitamina K y concentrado protrombínico según el INR y el peso del paciente",
+   "D": "Ante ausencia de sangrado con un INR elevado < 5, se debe dejar de tomar el fármaco 1-2 días y control en una semana"
+  },
+  "respuesta_correcta": "B"
+ }
+]

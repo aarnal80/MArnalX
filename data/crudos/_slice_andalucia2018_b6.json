@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 2 (continuación): Tras intensa sueroterapia presenta TA de 80/50, FC 140, SO2 97%, se palpa pulso radial débil. Por sondaje vesical presenta salida inicial de hematuria franca con stop posterior. La ecografía FAST descarta hemoperitoneo y aprecia hematoma en hemiabdomen inferior que parece ser de la pared, estando la vejiga vacía. En este momento qué estaría indicado:",
+  "opciones": {
+   "A": "Transfundir concentrados de hematíes sin cruzar.",
+   "B": "Transfundir concentrados de plaquetas.",
+   "C": "Realizar pruebas cruzadas por si es necesario transfundir.",
+   "D": "Administrar 500cc de coloides."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 2 (continuación): Señale la incorrecta respecto a las pruebas complementarias que deberían de estar realizadas ya:",
+  "opciones": {
+   "A": "TAC craneal",
+   "B": "Rx tórax",
+   "C": "Rx columna cervical",
+   "D": "Rx pelvis"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 2 (continuación): Se consigue aumentar TA a 105/60mmHg y se traslada al paciente al servicio de radiodiagnóstico. TAC abdominal con resultado de aneurisma de aorta abdominal de 5,5cm, fractura multifragmentaria de sínfisis de pubis y de ramas isquio e iliopubianas derechas, con gran hematoma en espacio de Retzius, fractura de pala ilíaca y cresta ilíaca izq. con hematoma adyacente. Al regresar a la sala de críticos presenta TA 70/30mmHg. ¿Qué cree que no estaría indicado?",
+  "opciones": {
+   "A": "Canalizar vía central, sueroterapia, transfusiones, drogas vasoactivas y control radiográfico.",
+   "B": "Trasladar inmediatamente a quirófano.",
+   "C": "Cinturón pélvico y activación de protocolo quirúrgico.",
+   "D": "Arteriografía."
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3: Paciente de 45 años trasladado a urgencias por equipo de emergencias tras accidente de motocicleta ocurrido una hora antes. Antecedentes: No alergias, diabetes tipo I, fumador.\nSeñale la respuesta correcta.",
+  "opciones": {
+   "A": "Avisar desde el centro coordinador del traslado de un Trauma grave al centro Hospitalario receptor",
+   "B": "En el hospital poner en marcha el código trauma grave",
+   "C": "Desde el hospital estará alertado el equipo multidisciplinar que esté fijado por el Comité de Trauma grave",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): ¿Cuál de las siguientes afirmaciones es la correcta en la valoración inicial del paciente en la sala de críticos?",
+  "opciones": {
+   "A": "La ecografía con protocolo FAST realizada por personal entrenado sería la técnica de elección a realizar",
+   "B": "TAC de tórax urgente",
+   "C": "Realizar TAC de Abdomen urgente.",
+   "D": "Todas las anteriores son ciertas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): En este paciente la puntuación obtenida en el RTS (Trauma Score Revisada) seria:",
+  "opciones": {
+   "A": "12",
+   "B": "11",
+   "C": "9",
+   "D": "3"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): Ante la situación de este paciente. ¿Qué medida no se debería realizar durante el traslado a centro útil?",
+  "opciones": {
+   "A": "Inmovilización de la fractura",
+   "B": "Reposición rápida de la volemia con al menos 2000 ml de suero glucosado al 5%",
+   "C": "Colocación de collarín cervical.",
+   "D": "Monitorización cardiaca."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): Si en la eco-FAST encontramos imagen anecoica en el espacio Morrison y el paciente tras una reposición adecuada de volemia no conseguimos estabilización hemodinámica:",
+  "opciones": {
+   "A": "Sospecharemos trauma hepático o renal derecho con sangrado activo",
+   "B": "Sospecharemos neumotórax derecho",
+   "C": "A y B son correctas",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): Si el paciente comienza con empeoramiento de su disnea, abolición del murmullo vesicular derecho y distensión de venas del cuello, indique la opción correcta.",
+  "opciones": {
+   "A": "Realizaremos una Rx de tórax urgente",
+   "B": "Realizaremos TAC Toraco-abdominal urgente",
+   "C": "Colocaremos de inmediato un catéter del numero 14 en el 2º espacio intercostal en la línea medioclavicular del hemitorax derecho",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): ¿Cuál de las afirmaciones es cierta respecto al dolor?",
+  "opciones": {
+   "A": "Se debe priorizar el tratamiento del dolor",
+   "B": "En este paciente el control del dolor pasará a un segundo plano hasta conseguir una estabilización",
+   "C": "Se analgesiará adaptando la dosificación y la elección del fármaco a la situación del paciente",
+   "D": "Son correctas A y C"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): Si tras reposición de volemia adecuada conseguimos estabilidad hemodinámica y en Eco-FAST imagen anecoica en espacio de Morrison ¿Cuál sería la actitud a seguir para valoración del traumatismo abdominal?",
+  "opciones": {
+   "A": "Realización de TAC de abdomen",
+   "B": "Laparotomía exploradora.",
+   "C": "Actitud expectante con monitorización y repetición de Eco-FAST a los 30 minutos",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 3 (continuación): Si en este paciente tenemos un resultado de TAC de abdomen con hematoma intraparenquimatoso de menos de 2 cm de diámetro, ¿cuál de las respuestas siguientes sería verdadera?",
+  "opciones": {
+   "A": "En pacientes con estabilidad hemodinámica, exploración abdominal sin peritonismo y eco-FAST negativa se optará por un tratamiento conservador",
+   "B": "En pacientes con eco-FAST positiva se sentará una indicación quirúrgica en todos los casos",
+   "C": "En pacientes con inestabilidad hemodinámica, eco-FAST negativa y aparición de peritonismo a la exploración, se indicará de entrada tratamiento conservador, hasta ver evolución.",
+   "D": "Todas son verdaderas"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4: Varón de 80 años, Diabetes Mellitus, cólicos nefríticos de repetición, ingresado hace 2 meses por Pielonefritis aguda tratada con Ceftriaxona en contexto de litiasis renal derecha (se colocó catéter doble J retirado por mala tolerancia), cistitis hace 15 días tratada con Ciprofloxacino. Acude por fiebre hasta 39º desde hace 24h, dolor en fosa renal derecha y orinas oscuras y malolientes. A su llegada: 30 respiraciones por minuto, PA 70/50, buen nivel de conciencia con Glasgow de 15.\nSeñale en relación a este caso cuál de las siguientes opciones es falsa.",
+  "opciones": {
+   "A": "En urgencias es muy útil realizar qSOFA en una primera valoración",
+   "B": "Con los datos aportados, no se puede calcular en este momento, el valor de SOFA",
+   "C": "El calculo de qSOFA en este paciente es de 2",
+   "D": "No se puede calcular qSOFA porque falta el dato de la frecuencia cardiaca"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): En cuanto a la valoración en triaje, señale la verdadera.",
+  "opciones": {
+   "A": "Se activaría código sepsis",
+   "B": "Estamos ante una patología tiempo dependiente por lo que se adjudicaría Prioridad 1",
+   "C": "El paciente quedaría adjudicado al circuito de críticos",
+   "D": "Todas son verdaderas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): En cuanto al primer paso a seguir con este paciente, señale la verdadera.",
+  "opciones": {
+   "A": "Resucitación adecuada con fluidos con el objetivo de obtener control adecuado de PA",
+   "B": "Administración de antitérmicos",
+   "C": "Inicio de Ventilación mecánica no invasiva",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): En cuanto a las pruebas microbiológicas indicadas señale la respuesta falsa.",
+  "opciones": {
+   "A": "No está indicado realizar hemocultivos por su baja rentabilidad",
+   "B": "Se realizará urocultivo",
+   "C": "Se realizará hemocultivos antes de iniciar tratamiento antibiótico",
+   "D": "Las pruebas microbiológicas se deben de tomar con rapidez y no retrasar la primera dosis de antibioterapia que debe estar administrada en los primeros 60 minutos."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): Se realiza TAC de Abdomen y se observa gran dilatación pelvis renal derecha y liquido libre perirrenal de pequeña cuantía provocada por calculo impactado en la salida de uréter derecho. El paciente presenta Creatinina de 3. ¿Qué medida es la mas adecuada?",
+  "opciones": {
+   "A": "Realización de nefrostomía percutánea derecha urgente",
+   "B": "Maximizar tratamiento médico, por ahora no se requiere intervencionismo",
+   "C": "Colocar catéter doble J",
+   "D": "Ninguna es una medida adecuada"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): En cuanto a la elección del antibiótico, señale la verdadera.",
+  "opciones": {
+   "A": "Estamos ante una infección del tracto urinario (ITU) nosocomial",
+   "B": "Estamos ante una ITU complicada sin factores de riesgo para bacterias resistentes",
+   "C": "El paciente presenta factores de riesgo para Infección por enterobacterias portadoras de Betalactamasas de espectro extendido",
+   "D": "En este caso la probabilidad de que Escherichia Colli sea la responsable de la ITU es del 90%"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): ¿Qué antibioterapia elegiría de forma empírica?",
+  "opciones": {
+   "A": "Ceftriaxona",
+   "B": "Amoxicilina clavulánico",
+   "C": "Moxifloxacino",
+   "D": "Ertapenem+Amikacina"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): El paciente evoluciona mal, con hipotensión mantenida PA sistólica 70mmHg y PA diastólica 40mmHg, a pesar de una adecuada fluidoterapia deterioro de la función renal creatinina 5,2 mg/dl, Bilirrubina total 4,5 a expensa de Bilirrubina directa, aumento de LDH GOT y GPT. PCR 350. ¿Cuál de las siguientes medidas no es adecuada?",
+  "opciones": {
+   "A": "Iniciar tratamiento con perfusión de fármacos vasoactivos",
+   "B": "Sería útil determinación de acido láctico",
+   "C": "Sería útil la determinación de procalcitonina",
+   "D": "Asociar coloides a la fluidoterapia con cristaloides"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): El paciente presenta diuresis menor de 500ml en 24 horas con PA media de 55 con Dopamina 12mcg/kg/minuto y con acido láctico de 8 mmol/l. Señale en esta situación la respuesta verdadera",
+  "opciones": {
+   "A": "El paciente presenta Shock séptico",
+   "B": "La puntuación de la escala SOFA es menor de 2",
+   "C": "El paciente presenta una sepsis grave",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 4 (continuación): En cuanto al objetivo de la fluidoterapia y de las drogas vasoactivas en este caso señale la verdadera",
+  "opciones": {
+   "A": "Mantener una PA sistólica mayor de 100mmHg y una PA diastólica mayor de 60 mmHg y un ácido láctico menor de 10 mmol/l",
+   "B": "Mantener una PA sistólica mayor de 120mmHg y una PA diastólica mayor de 80 mmHg y un ácido láctico menor de 5 mmol/l",
+   "C": "Mantener una PA media mayor o igual de 65 mmHg y un ácido láctico menor o igual a 2 mmol/l",
+   "D": "Mantener una PA media mayor o igual 60 mmHg y un ácido láctico menor de 4 mmol/l"
+  },
+  "respuesta_correcta": "C"
+ }
+]

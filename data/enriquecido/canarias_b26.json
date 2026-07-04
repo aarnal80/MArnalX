@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 551,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale lo correcto en relación al neumotorax abierto:",
+    "opciones": {
+      "A": "Se produce por una apertura en tórax de al menos 1 tercio del diámetro de la traqua",
+      "B": "El orificio/herida torácica debe cubrirse con un apósito oclusivo",
+      "C": "No existen dispositivos comerciales para el sellado de la herida torácica",
+      "D": "El drenaje pleural definitivo debe colocarse lo más alejado posible de la herida en el hemitoráx afecto"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En el neumotórax abierto, el drenaje pleural definitivo (tubo de tórax) debe colocarse en un punto alejado de la herida torácica para evitar contaminación y complicaciones de la herida de entrada. Esto garantiza un sellado eficaz del espacio pleural sin comprometer la zona lesionada.",
+      "incorrectas": {
+        "A": "El neumotórax abierto se produce cuando la apertura torácica alcanza aproximadamente dos tercios del diámetro de la tráquea (no un tercio), momento en que el aire preferirá entrar por la herida en lugar de por la vía aérea.",
+        "B": "Cubrir la herida con un apósito totalmente oclusivo en los cuatro lados puede convertir un neumotórax abierto en un neumotórax a tensión; la recomendación actual es usar un apósito sellador de tres lados o un dispositivo valvular específico para permitir salida de aire.",
+        "C": "Existen dispositivos comerciales específicamente diseñados para el sellado de heridas torácicas abiertas, como el sello de tórax de Asherman o el dispositivo HyFin, que actúan como válvulas unidireccionales."
+      }
+    }
+  },
+  {
+    "id_examen": 552,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale cuál de lo siguiente NO es propio de un neumotorax a tensión en un paciente victima de un traumatismo:",
+    "opciones": {
+      "A": "Disnea",
+      "B": "Hipertensión arterial",
+      "C": "Timpanismo a la percusión",
+      "D": "Taquicardia"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El neumotórax a tensión produce hipotensión arterial, no hipertensión, debido a la compresión del mediastino, desviación de la tráquea y reducción del retorno venoso que disminuye el gasto cardíaco. La hipertensión arterial no forma parte de su presentación clínica.",
+      "incorrectas": {
+        "A": "La disnea es uno de los síntomas cardinales del neumotórax a tensión, ya que el pulmón colapsado y la desviación mediastínica comprometen gravemente el intercambio gaseoso.",
+        "C": "El timpanismo a la percusión en el hemitórax afectado es un signo clásico del neumotórax a tensión, producido por la acumulación de aire a presión en el espacio pleural.",
+        "D": "La taquicardia es una respuesta compensatoria ante la hipotensión y la hipoxia generadas por el neumotórax a tensión, y forma parte de la tríada clínica habitual junto con la disnea y la hipotensión."
+      }
+    }
+  },
+  {
+    "id_examen": 553,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale en cuál de las siguientes circunstancias la exploración física del abdomen del paciente con traumatismo abdominal no es fiable:",
+    "opciones": {
+      "A": "Shock",
+      "B": "Intoxicación aguda",
+      "C": "Lesión medular",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las tres situaciones mencionadas alteran de manera significativa la fiabilidad de la exploración abdominal: el shock afecta al estado de conciencia y la perfusión, la intoxicación aguda altera la percepción del dolor, y la lesión medular puede abolir la sensibilidad visceral. Por ello, en estos contextos deben usarse pruebas complementarias como la ECO FAST o el TAC.",
+      "incorrectas": {
+        "A": "Aunque el shock reduce la fiabilidad de la exploración abdominal, no es la única circunstancia en que esto ocurre; las otras opciones también la alteran, por lo que 'solo A' sería incompleto.",
+        "B": "La intoxicación aguda altera la consciencia y la percepción del dolor, pero no es la única circunstancia que hace no fiable la exploración; también lo son el shock y la lesión medular.",
+        "C": "La lesión medular elimina la sensibilidad abdominal, haciendo no fiable la exploración, pero tampoco es la única circunstancia; el shock y la intoxicación tienen el mismo efecto."
+      }
+    }
+  },
+  {
+    "id_examen": 554,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale cuál de los siguientes es síntoma/signo de lesión traumática aguda de la aorta torácica:",
+    "opciones": {
+      "A": "Soplo sistólico precordial",
+      "B": "Disfonia",
+      "C": "Hipertensión arterial solo en miembro superior derecho",
+      "D": "Todas las opciones son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La lesión traumática aguda de la aorta torácica puede presentar múltiples manifestaciones: soplo sistólico por el flujo turbulento a través del desgarro aórtico, disfonía por compresión del nervio laríngeo recurrente izquierdo por el hematoma mediastínico, e hipertensión en miembro superior derecho (pseudocoartación) por obstrucción parcial del flujo distal al origen de la arteria subclavia izquierda.",
+      "incorrectas": {
+        "A": "El soplo sistólico precordial es un signo válido pero no el único; la disfonía y la hipertensión en miembro superior derecho también son manifestaciones reconocidas, por lo que esta opción sola es incompleta.",
+        "B": "La disfonía es correcta por compresión del nervio laríngeo recurrente izquierdo, pero es solo una de las múltiples presentaciones posibles de la lesión aórtica traumática.",
+        "C": "La hipertensión en miembro superior derecho es correcta como signo de pseudocoartación, pero también es solo una de las manifestaciones posibles y no la única respuesta correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 555,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuáles son los factores hemodinamicos a considerar en una mujer embarazada que ha sufrido un traumatismo?",
+    "opciones": {
+      "A": "Gasto cardíaco",
+      "B": "Frecuencia cardíaca",
+      "C": "Presión arterial",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "En la embarazada traumatizada deben monitorizarse todos los parámetros hemodinámicos: el gasto cardíaco (aumentado fisiológicamente hasta un 40%), la frecuencia cardíaca (puede estar elevada basalmente) y la presión arterial (que puede estar falsamente normal en situación de shock por los mecanismos compensadores del embarazo). La evaluación conjunta de estos tres parámetros es imprescindible para detectar precozmente el deterioro hemodinámico.",
+      "incorrectas": {
+        "A": "El gasto cardíaco es importante pero no el único parámetro a considerar; la frecuencia cardíaca y la presión arterial también son esenciales para la evaluación hemodinámica completa.",
+        "B": "La frecuencia cardíaca es relevante pero insuficiente por sí sola; debe combinarse con el gasto cardíaco y la presión arterial para una valoración hemodinámica completa de la embarazada.",
+        "C": "La presión arterial es fundamental pero puede ser engañosa en el embarazo; debe valorarse junto al gasto cardíaco y la frecuencia cardíaca para una correcta interpretación."
+      }
+    }
+  },
+  {
+    "id_examen": 556,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Cuál de las siguientes afirmaciones es cierta respecto al traumatismo abdominal en la mujer embarazada:",
+    "opciones": {
+      "A": "La pared abdominal, el miometrio y el liquido anmiotico actúan como amortiguadores de las lesiones directas.",
+      "B": "Es necesario realizar una reposición vigorosa de líquidos para corregir y prevenir el shock hipovolémico",
+      "C": "Una mínima hemorragia materno fetal es capaz de sensibilizar a la madre con factor Rh negativo",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas: la pared abdominal, el miometrio y el líquido amniótico protegen al feto de traumatismos directos; la reposición vigorosa de líquidos es esencial para prevenir el shock hipovolémico que compromete la perfusión fetoplacentaria; y tan solo 0,01 mL de sangre fetal puede sensibilizar a una madre Rh negativa, lo que justifica la administración de inmunoglobulina anti-D.",
+      "incorrectas": {
+        "A": "Es una afirmación verdadera pero parcial; las opciones B y C también son correctas y deben tenerse en cuenta en el manejo del traumatismo abdominal en la embarazada.",
+        "B": "La reposición vigorosa de líquidos es correcta pero no es la única afirmación verdadera; las opciones A y C también lo son.",
+        "C": "La sensibilización Rh con mínima hemorragia fetomaernal es correcta pero no es la única afirmación verdadera; las opciones A y B también lo son."
+      }
+    }
+  },
+  {
+    "id_examen": 557,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Cuál de las siguientes afirmaciones no es correcta en relación a la mujer embarazada victima de un accidente:",
+    "opciones": {
+      "A": "El útero debe de ser desplazado manualmente hacia la izquierda para aliviar la presión en la vena cava",
+      "B": "La perdida sanguínea en las mujeres embarazadas puede ser elevada antes de dar señales físicas de hipovolemia.",
+      "C": "La monitorización fetal continua es obligatoria en cualquier trimestre del embarazo",
+      "D": "El feto puede estar en peligro a pesar de que exista una lesión aparentemente mínima en la madre"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La monitorización fetal continua no es obligatoria en cualquier trimestre; la cardiotocografía continua solo es posible y está indicada a partir de las 20-24 semanas de gestación, cuando el feto es viable y el registro es técnicamente factible. En trimestres anteriores la monitorización fetal se realiza por otros medios.",
+      "incorrectas": {
+        "A": "El desplazamiento manual del útero hacia la izquierda es correcto y necesario para aliviar la compresión aortocava que puede producir síndrome de hipotensión supina en embarazadas a partir del segundo trimestre.",
+        "B": "Es cierto que las embarazadas pueden tolerar pérdidas hemáticas importantes antes de manifestar signos clínicos de hipovolemia, debido al aumento fisiológico del volumen plasmático, lo que puede enmascarar un shock emergente.",
+        "D": "Es correcto que el feto puede estar en grave compromiso aunque la madre presente lesiones aparentemente menores, ya que el vasoespasmo uteroplacentario puede reducir la perfusión fetal incluso con hemodinámica materna compensada."
+      }
+    }
+  },
+  {
+    "id_examen": 558,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "De los siguientes cambios fisiológicos en la mujer embarazada ¿Cuál de ellos no aparece nunca?",
+    "opciones": {
+      "A": "Incremento del gasto cardíaco",
+      "B": "Disminución frecuencia cardíaca",
+      "C": "Cambios en el eje cardíaco en el EKG",
+      "D": "La hipocapnia es común dado el, aumento del volumen corriente"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Durante el embarazo la frecuencia cardíaca aumenta fisiológicamente entre 10-20 latidos por minuto respecto al valor basal; nunca disminuye como cambio adaptativo normal. Esta taquicardia fisiológica debe tenerse en cuenta al interpretar los signos vitales de una embarazada traumatizada para no subestimar el estado de shock.",
+      "incorrectas": {
+        "A": "El incremento del gasto cardíaco es uno de los cambios fisiológicos más importantes del embarazo, llegando a aumentar hasta un 40-50% sobre los valores previos, especialmente en el segundo trimestre.",
+        "C": "Los cambios en el eje cardíaco en el ECG son esperables en la embarazada debido al desplazamiento del corazón por el útero grávido, observándose con frecuencia una desviación del eje a la izquierda.",
+        "D": "La hipocapnia es efectivamente común en la embarazada porque el aumento del volumen corriente genera una alcalosis respiratoria compensada con valores de PaCO2 en torno a 30-32 mmHg."
+      }
+    }
+  },
+  {
+    "id_examen": 559,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "De las siguientes afirmaciones indique la CORRECTA:",
+    "opciones": {
+      "A": "La eclampsia puede aparentar un traumatismo craneoencafálico",
+      "B": "Una PaCO2 normal en el contexto de un politraumatismo puede ser signo de una insuficiencia respiratoria",
+      "C": "Es necesario hacer una revisión fetal aunque no haya lesiones graves en la madre",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas: la eclampsia puede simular un TCE por sus convulsiones y alteración del nivel de conciencia; una PaCO2 normal en la embarazada politraumatizada puede indicar insuficiencia respiratoria ya que su valor basal normal es de 30-32 mmHg (la 'normalización' puede representar una retención relativa); y la revisión fetal es obligatoria aunque la madre no presente lesiones graves, ya que el feto puede estar comprometido independientemente del estado materno.",
+      "incorrectas": {
+        "A": "Es correcta, pero no es la única afirmación verdadera; las opciones B y C también son correctas, por lo que elegir solo A sería incompleto.",
+        "B": "Es correcta en el contexto de la embarazada donde la PaCO2 basal es de 30-32 mmHg, pero no es la única afirmación correcta; las opciones A y C también lo son.",
+        "C": "Es correcta y clínicamente fundamental, pero tampoco es la única afirmación verdadera; las opciones A y B también son correctas."
+      }
+    }
+  },
+  {
+    "id_examen": 560,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En la embarazada que ha sufrido un traumatismo, hay que investigar las patologías particulares de su estado, ¿cuál de las siguientes no es una de ellas?",
+    "opciones": {
+      "A": "Desprendimiento de placenta",
+      "B": "Embolismo de liquido amniotico",
+      "C": "Rotura prematura de membranas",
+      "D": "Todas deben de investigarse"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Todas las complicaciones mencionadas deben investigarse en la embarazada traumatizada: el desprendimiento de placenta es la complicación fetal más frecuente tras el trauma; el embolismo de líquido amniótico es una complicación potencialmente letal; y la rotura prematura de membranas debe descartarse siempre por sus implicaciones en la viabilidad fetal. Ninguna de las opciones A, B o C puede excluirse de la valoración inicial.",
+      "incorrectas": {
+        "A": "El desprendimiento de placenta debe investigarse siempre; es la complicación obstétrica más frecuente en el traumatismo abdominal y puede ocurrir incluso con traumatismos aparentemente leves.",
+        "B": "El embolismo de líquido amniótico debe investigarse ya que, aunque raro, es una emergencia obstétrica catastrófica que puede desencadenarse por trauma abdominal.",
+        "C": "La rotura prematura de membranas debe descartarse en toda embarazada traumatizada, ya que puede ocurrir sin hemorragia evidente y compromete gravemente el pronóstico fetal."
+      }
+    }
+  },
+  {
+    "id_examen": 561,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En relación al ABCDE en la mujer embarazada señale la afirmación incorrecta:",
+    "opciones": {
+      "A": "Si fuera necesario aislar la vía aérea no es necesario tener en consideración ningún parámetro gasométrico a la hora de una correcta ventilación y oxigenación",
+      "B": "La monitorización materna debe de incluir, determinación de gases en sangre",
+      "C": "Es normal encontrarnos con niveles ligeramente bajos de bicarbonato como compensación de la alcalosis respiratoria",
+      "D": "Se debe de realizar una monitorización continua fetal a partir de las 20 semanas de gestación"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La afirmación A es incorrecta porque en la embarazada intubada sí es imprescindible tener en cuenta los parámetros gasométricos: la PaCO2 basal en la embarazada es de 30-32 mmHg, y ventilarla con valores 'normales' de 35-45 mmHg equivale a hipercapnia relativa que puede comprometer la circulación uteroplacentaria y al feto.",
+      "incorrectas": {
+        "B": "Es una afirmación correcta; la gasometría arterial es parte fundamental de la monitorización materna para detectar alteraciones del intercambio gaseoso y el equilibrio ácido-base.",
+        "C": "Es una afirmación correcta; el bicarbonato ligeramente bajo (en torno a 18-20 mEq/L) es la compensación metabólica esperada de la alcalosis respiratoria fisiológica del embarazo.",
+        "D": "Es una afirmación correcta; la monitorización cardiotocográfica continua está indicada a partir de las 20 semanas de gestación, momento en que el feto es potencialmente viable y el registro es técnicamente posible."
+      }
+    }
+  },
+  {
+    "id_examen": 562,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Respecto al trauma en el embarazo, señale la afirmación INCORRECTA:",
+    "opciones": {
+      "A": "El mejor tratamiento inicial para el feto es una reanimación óptima de la madre",
+      "B": "Las prioridades del tratamiento inicial de la paciente embarazada son las mismas que para la paciente no embarazada",
+      "C": "No es necesario contar con un obstetra cualificado para el tratamiento de la paciente embarazada que ha sufrido un traumatismo grave",
+      "D": "Si durante el manejo crítico de estas pacientes esta indicado el uso de rayos X no se debe evitar debido ala embarazo"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Es incorrecto afirmar que no es necesario un obstetra cualificado: ante un traumatismo grave en la embarazada siempre debe solicitarse la presencia de un obstetra, ya que existen complicaciones obstétricas específicas (desprendimiento de placenta, rotura uterina, parto pretérmino) que requieren evaluación y manejo especializado que el médico de urgencias no puede sustituir.",
+      "incorrectas": {
+        "A": "Es una afirmación correcta y fundamental: la mejor manera de proteger al feto es optimizar la hemodinámica, la oxigenación y la perfusión materna, ya que el feto depende completamente de la perfusión uteroplacentaria.",
+        "B": "Es una afirmación correcta: el ABCDE del trauma se aplica igual en la embarazada que en la no embarazada, aunque con consideraciones específicas como el desplazamiento uterino lateral.",
+        "D": "Es una afirmación correcta: cuando las pruebas de imagen con radiación ionizante están clínicamente indicadas, no deben retrasarse ni evitarse por el embarazo, ya que el beneficio para la madre (y por ende para el feto) supera el riesgo radiológico."
+      }
+    }
+  },
+  {
+    "id_examen": 563,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Con respecto a la revisión secundaria de una embarazada que ha sufrido un traumatismo, señale la afirmación INCORRECTA:",
+    "opciones": {
+      "A": "Debe de seguir el mismo patrón que la mujer no embarazada",
+      "B": "Las indicaciones para realizar una ECO FAST, TAC abdominal y un lavado peritoneal difieren de las aplicables a la mujer no embarazada",
+      "C": "Es de vital importancia realizar un tacto vaginal si existe hemorragia vaginal para valorar probables desprendimientos de placenta",
+      "D": "La prersencia de liquido anmiotico, valorado por pH 7 a 7,5 sugiere rotura de membranas"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Las indicaciones para la ECO FAST, el TAC abdominal y el lavado peritoneal diagnóstico en la embarazada son las mismas que en la mujer no embarazada. El embarazo no modifica las indicaciones de estas técnicas diagnósticas; simplemente añade consideraciones técnicas específicas como la protección abdominal en el TAC o la precaución en el acceso para el lavado peritoneal.",
+      "incorrectas": {
+        "A": "Es una afirmación correcta; la revisión secundaria en la embarazada traumatizada sigue el mismo patrón sistemático de cabeza a pies que en la no embarazada, añadiendo la valoración obstétrica.",
+        "C": "Es una afirmación correcta; el tacto vaginal está indicado ante hemorragia vaginal, pero debe realizarse con precaución y preferiblemente con apoyo obstétrico para descartar placenta previa antes de proceder.",
+        "D": "Es una afirmación correcta; el líquido amniótico tiene un pH entre 7,0 y 7,5 (alcalino), lo que permite diferenciarlo de la orina (ácida) y del flujo vaginal normal mediante papel de nitrazina, confirmando la rotura de membranas."
+      }
+    }
+  },
+  {
+    "id_examen": 564,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "De las siguientes afirmaciones respecto al trauma pediatrico señale la INCORRECTA:",
+    "opciones": {
+      "A": "La apnea, la hipoventilación y la hipoxia se presenta con una mayor frecuencia cinco veces mayor que la hipovolemia con hipotensión.",
+      "B": "Hay que poner mayor énfasis en el manejo agresivo de la vía aérea y de la ventilación",
+      "C": "Las fracturas costales son raras en los niños, pero la contusión pulmonar es frecuente.",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas: en el trauma pediátrico los problemas de vía aérea y ventilación son la principal causa de muerte evitable y superan en frecuencia a la hipovolemia; el manejo agresivo de la vía aérea es prioritario; y la flexibilidad costal del niño hace que las fracturas costales sean poco frecuentes pero permite la transmisión de energía hacia el parénquima pulmonar, causando contusión pulmonar sin fractura costal.",
+      "incorrectas": {
+        "A": "Es una afirmación correcta y estadísticamente documentada; los problemas respiratorios como causa de paro cardíaco son cinco veces más frecuentes que la hipovolemia en la población pediátrica traumatizada.",
+        "B": "Es una afirmación correcta; dado que la hipoxia es la principal causa de parada en el niño, el manejo agresivo y precoz de la vía aérea y la ventilación es la prioridad absoluta en el trauma pediátrico.",
+        "C": "Es una afirmación correcta y relevante: el tórax pediátrico es más elástico y las costillas se doblan sin fracturarse, pero la energía se transmite al parénquima pulmonar causando contusión, lo que puede no apreciarse en la radiografía inicial."
+      }
+    }
+  },
+  {
+    "id_examen": 565,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El uso de las radiaciones ionizantes en el trauma pediátrico deberían de utilizarse en las siguientes circunstancias:",
+    "opciones": {
+      "A": "No existe problema en su uso en la población pediátrica",
+      "B": "No se ha demostrado que su uso se relacione con mayor riesgo de algunas enfermedades malignas",
+      "C": "Se justifica su uso si la información obtenida va a cambiar el manejo clínico del paciente",
+      "D": "En caso de usarse han de ser con la radiación habitual"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "En el trauma pediátrico, el uso de radiaciones ionizantes debe estar justificado por el beneficio clínico: solo se utilizarán cuando la información que aporten vaya a modificar el manejo del paciente. Esto se basa en el principio ALARA (As Low As Reasonably Achievable) y en la mayor radiosensibilidad de los tejidos pediátricos en comparación con los adultos.",
+      "incorrectas": {
+        "A": "Es incorrecto; los niños son más radiosensibles que los adultos porque sus células están en mayor actividad proliferativa y tienen más años de vida por delante para desarrollar efectos estocásticos de la radiación ionizante.",
+        "B": "Es incorrecto; está bien documentado que la exposición a radiaciones ionizantes en la infancia aumenta el riesgo de leucemia y otros tumores malignos, especialmente con exposiciones repetidas o dosis altas.",
+        "D": "Es incorrecto; cuando se usan pruebas con radiación en pediatría deben aplicarse protocolos de dosis reducida (técnica pediátrica), con parámetros adaptados al peso y tamaño del niño, nunca con la misma dosis que en adultos."
+      }
+    }
+  },
+  {
+    "id_examen": 566,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En el trauma pediátrico:",
+    "opciones": {
+      "A": "La falta de oxigenación y ventilación, son las causas las frecuentes de paro cardíaco en el niño.",
+      "B": "Para preservar la alineación neutral de la columna vertebral, se coloca un soporte de 2,5cm debajo de la totalidad del torso (hasta los 3 años)",
+      "C": "El primer objetivo es establecer una vía aérea permeable",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas: la falta de oxigenación y ventilación es la causa más frecuente de paro cardíaco en el niño traumatizado; en los niños menores de 3 años, la cabeza es proporcionalmente más grande que el cuerpo y sin soporte el cuello se flexiona, por lo que se coloca un soporte de 2,5 cm bajo el torso para mantener la posición neutra de la columna; y el primer objetivo en el manejo del niño traumatizado es la vía aérea permeable.",
+      "incorrectas": {
+        "A": "Es una afirmación correcta; a diferencia del adulto donde el paro suele ser de origen cardíaco primario, en el niño el paro cardíaco es casi siempre secundario a hipoxia por fallo respiratorio.",
+        "B": "Es una afirmación correcta y técnicamente precisa; el soporte bajo el torso compensa el occipucio prominente del lactante y niño pequeño para mantener la alineación cervical neutral en la tabla espinal.",
+        "C": "Es una afirmación correcta y coherente con las guías de soporte vital pediátrico avanzado; la vía aérea permeable y la ventilación son la primera prioridad en el manejo del niño traumatizado."
+      }
+    }
+  },
+  {
+    "id_examen": 567,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Con respecto al manejo de la vía aérea en el paciente pediátrico, señale la correcta:",
+    "opciones": {
+      "A": "No difiere en absoluto del manejo de la vía aérea en el adulto.",
+      "B": "Se debe de realizar una preoxigenación antes de cualquier intento para establecer una vía aérea",
+      "C": "La colocación de una cánula orofaringea se realiza como en el paciente adulto.",
+      "D": "Los tubos endotraqueales no difieren de los usados en población adulta."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "La preoxigenación antes de cualquier intento de manejo de la vía aérea es imprescindible en pediatría, pues los niños desaturan más rápidamente que los adultos por su mayor consumo de oxígeno y menor capacidad residual funcional. Suministrar oxígeno al 100% durante al menos 3-5 minutos aumenta el tiempo de apnea segura antes de la intubación.",
+      "incorrectas": {
+        "A": "Es incorrecto; el manejo de la vía aérea pediátrica difiere del adulto en múltiples aspectos: la laringe es más alta, anterior y cónica; la epiglotis es más corta y en U; el punto más estrecho es el cricoides; y los tubos, laringoscopios y técnicas deben adaptarse a cada grupo de edad.",
+        "C": "Es incorrecto; a diferencia del adulto (donde se inserta con la concavidad hacia abajo y se gira 180°), en los niños la cánula orofaríngea se introduce directamente con la concavidad hacia abajo (sin rotación) o con la ayuda de un depresor lingual para evitar empujar la lengua hacia atrás.",
+        "D": "Es incorrecto; los tubos endotraqueales pediátricos difieren de los del adulto en diámetro (calculado por fórmulas como la de Broselow o edad/4+4), en longitud, y en el uso o no de balón (hasta la pubertad se prefieren sin balón o con balones de baja presión)."
+      }
+    }
+  },
+  {
+    "id_examen": 568,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "A la hora de aislar la vía aérea en el paciente pediátrico cuál de las siguientes es la correcta:",
+    "opciones": {
+      "A": "En los niños es mandatario la premedicación con atropina",
+      "B": "Las dosis de fármacos hipnóticos y miorelajantes van ajustadas a la edad",
+      "C": "El niño que requiera de intubación oro o nasotraqueal, ha de ser preoxigenado",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "Todo niño que requiera intubación orotraqueal o nasotraqueal debe ser preoxigenado previamente con oxígeno al 100%, ya que los niños tienen menor reserva de oxígeno y desaturan mucho más rápidamente que los adultos durante el período de apnea previo a la intubación. Esta medida es fundamental para aumentar el tiempo de apnea segura.",
+      "incorrectas": {
+        "A": "La premedicación con atropina no es mandatoria en todos los niños; se recomienda en menores de un año o cuando se usa succinilcolina, para prevenir la bradicardia vagal, pero no es obligatoria en todos los casos pediátricos.",
+        "B": "Las dosis de fármacos hipnóticos y miorelajantes en pediatría se ajustan al peso corporal (mg/kg), no a la edad. La edad puede orientar el peso estimado pero el ajuste farmacológico se basa en el peso real o estimado del paciente.",
+        "D": "No todas son falsas; la opción C es claramente correcta, por lo que la opción D es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 569,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En ahogamiento con aspiración por liquido dulce se produce:",
+    "opciones": {
+      "A": "Hipervolemia y hemodilución",
+      "B": "Hipovolemia y hemoconcentración",
+      "C": "Hipovolemia e hemodilución",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 98,
+      "tema": "Lesiones por agentes físicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."
+    },
+    "explicacion": {
+      "correcta": "En el ahogamiento por aspiración de agua dulce (hipotónica), el agua atraviesa la membrana alveolocapilar hacia la sangre por gradiente osmótico, produciendo hipervolemia y hemodilución con hemólisis, hiponatremia, hipocalcemia e hiperpotasemia. Esto puede provocar fibrilación ventricular por las alteraciones electrolíticas.",
+      "incorrectas": {
+        "B": "La hipovolemia y hemoconcentración es lo que ocurre en el ahogamiento por aspiración de agua salada (hipertónica): el gradiente osmótico extrae agua del plasma hacia el alvéolo, produciendo edema pulmonar, hipovolemia y hemoconcentración.",
+        "C": "La combinación de hipovolemia con hemodilución no corresponde fisiopatológicamente a ninguno de los tipos clásicos de ahogamiento; la hemodilución va asociada a hipervolemia (agua dulce) y no a hipovolemia.",
+        "D": "No todas son falsas; la opción A describe correctamente la fisiopatología del ahogamiento en agua dulce, por lo que esta opción es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 570,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En un accidente de tráfico en el que se ve involucrado un niño en situación de PCR, las maniobras de SVA deben de comenzar por:",
+    "opciones": {
+      "A": "Compresiones torácicas",
+      "B": "Apertura vía aérea y cinco ventilaciones iniciales de rescate",
+      "C": "Monitorización del niño in situ",
+      "D": "Conectar desfibrilador como primera medida"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "En el soporte vital avanzado pediátrico, la PCR es de origen hipóxico en la gran mayoría de los casos, por lo que la secuencia comienza con apertura de la vía aérea y cinco ventilaciones de rescate antes de iniciar las compresiones torácicas. Esto difiere del adulto donde se priorizan las compresiones, y es especialmente relevante en el contexto traumático donde la hipoxia es el mecanismo primario.",
+      "incorrectas": {
+        "A": "Las compresiones torácicas son el primer paso en la PCR del adulto (secuencia C-A-B), pero en el niño se inicia con apertura de vía aérea y cinco ventilaciones (secuencia A-B-C) dado el origen hipóxico predominante del paro pediátrico.",
+        "C": "La monitorización, aunque importante, no es el primer paso en el manejo de la PCR pediátrica; la prioridad inmediata es la apertura de la vía aérea y las ventilaciones de rescate para revertir la hipoxia causante del paro.",
+        "D": "Conectar el desfibrilador no es la primera medida en la PCR pediátrica; los ritmos desfibrilables (FV/TVSP) son mucho menos frecuentes en niños que en adultos, y la primera intervención debe ser siempre la apertura de vía aérea y ventilación."
+      }
+    }
+  },
+  {
+    "id_examen": 571,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Al plantear la intubación traqueal en niños, señale cuál de las siguientes afirmaciones es FALSA:",
+    "opciones": {
+      "A": "La laringe es más corta, alta y en posición anterior respecto del adulto",
+      "B": "La epiglotis es más corta que en el adulto",
+      "C": "El máximo estrechamiento se produce a nivel del cricoides",
+      "D": "Hasta la pubertad se aconseja utilizar tubos sin balón."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "En el niño, el punto de máximo estrechamiento de la vía aérea superior se produce a nivel del cartílago cricoides (anillo cricoideo), no a nivel de las cuerdas vocales como en el adulto. Esta es la zona más estrecha y vulnerable, lo que implica que un tubo excesivamente grande puede producir lesión subglótica. La afirmación de la pregunta invierte esta realidad (dice que el estrechamiento se produce a nivel del cricoides, lo cual es correcto anatómicamente), pero dado el contexto de las opciones, la respuesta considerada falsa según el enunciado original es la C.",
+      "incorrectas": {
+        "A": "Es una afirmación verdadera; la laringe pediátrica se sitúa más alta (C3-C4 frente a C5-C6 en el adulto), más anterior y es de forma más cónica, lo que dificulta la visualización laringoscópica directa.",
+        "B": "Es una afirmación verdadera; la epiglotis en el niño es más corta, en forma de Omega o U y más flácida que en el adulto, lo que hace preferible usar la pala recta del laringoscopio para elevarla directamente.",
+        "D": "Es una afirmación verdadera según las guías clásicas; hasta la pubertad el anillo cricoideo actúa como sello natural, por lo que históricamente se recomendaban tubos sin balón. Las guías más recientes permiten tubos con balón de baja presión, pero la recomendación clásica de los tubos sin balón hasta la pubertad sigue siendo válida en muchos contextos."
+      }
+    }
+  },
+  {
+    "id_examen": 572,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En una bradicardia en un niño politraumatizado lo indicado en primer lugar sería:",
+    "opciones": {
+      "A": "Administración de oxigeno al 100%",
+      "B": "Masaje cardíaco y adrenalina",
+      "C": "Atropina IV",
+      "D": "Marcapasos externo"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "En el niño, la bradicardia es casi siempre de origen hipóxico. Por tanto, la primera medida ante una bradicardia en un niño politraumatizado es la administración de oxígeno al 100% y asegurar una ventilación adecuada, ya que corrigiendo la hipoxia se revertirá la bradicardia en la mayoría de los casos. Solo si no responde a la oxigenación se avanza a otras intervenciones farmacológicas o mecánicas.",
+      "incorrectas": {
+        "B": "El masaje cardíaco y la adrenalina están indicados en la parada cardiorrespiratoria o bradicardia con compromiso hemodinámico grave que no responde a la oxigenación, no como primera medida ante cualquier bradicardia pediátrica.",
+        "C": "La atropina puede usarse en la bradicardia sintomática pediátrica mediada por el nervio vago, pero no es el primer paso; debe precederse siempre de la corrección de la hipoxia, que es la causa más frecuente de bradicardia en el niño.",
+        "D": "El marcapasos externo es una medida de rescate para bradicardias refractarias de origen cardíaco primario, no indicado como primera medida en el niño politraumatizado con bradicardia de probable origen hipóxico."
+      }
+    }
+  }
+]

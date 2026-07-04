@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta sobre las hemorragias intracraneales en un traumatismo craneoencefálico de alta energía:",
+  "opciones": {
+   "A": "El hematoma epidural raramente se asocia a fracturas craneales.",
+   "B": "El hematoma subdural se produce por el desgarro y la rotura de vasos sanguíneos.",
+   "C": "El hematoma intraventricular se asocia a un buen pronóstico.",
+   "D": "La hemorragia subaracnoidea se produce por la rotura de un aneurisma."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre el traumatismo abdominal grave:",
+  "opciones": {
+   "A": "Las lesiones desapercibidas abdominales y del anillo pélvico son causa de muerte prevenible después de un traumatismo torácico.",
+   "B": "Las lesiones de las estructuras viscerales retroperitoneales son fáciles de reconocer por medio del protocolo FAST y clínicamente por la manifestación temprana de irritación peritoneal.",
+   "C": "La lesión diafragmática es poco frecuente, y cuando ocurre suele darse en el hemidiafragma posterolateral izquierdo.",
+   "D": "En los casos de lesiones de órganos sólidos intraabdominales en un politraumatismo hemodinámicamente estable está indicada una actitud conservadora."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las posibles fracturas del anillo pélvico cursa más a menudo con lesión del complejo ligamentoso posterior y está asociada a un shock de grado III-IV si no se hace un abordaje adecuado?",
+  "opciones": {
+   "A": "Fractura desplazada del ala ilíaca derecha (tipo A en la clasificación de Tile).",
+   "B": "Fractura en libro abierto con diástasis pubiana de menos de 2,5 cm (tipo B en la clasificación de Tile).",
+   "C": "Fractura en mariposa o bilateral de ramas ileopubianas e isquiopubianas.",
+   "D": "Fractura con desplazamiento vertical de la articulación sacroilíaca y diástasis del pubis de más 2,5 cm (tipo C en la clasificación de Tile)."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: La incapacidad para la extensión dorsal de la mano y los dedos en ligera flexión del miembro superior en el contexto de una fractura supracondílea de húmero hace sospechar una lesión de un nervio. ¿Cuál?",
+  "opciones": {
+   "A": "Nervio cubital.",
+   "B": "Nervio radial.",
+   "C": "Nervio mediano.",
+   "D": "Nervio circunflejo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Durante la valoración secundaria del caso clínico descrito, una vez estabilizado el paciente se le retira la férula de vacío y se observa una gran deformidad del tercio medio del muslo derecho con una herida contusa de 11 cm, sangrante y con exposición de hueso. Señale la acción correcta:",
+  "opciones": {
+   "A": "Hay que cohibir la hemorragia presionando con gasas estériles, comprobar el pulso distal e inmovilizar la fractura con una férula de yeso posterior.",
+   "B": "Hay que administrar analgesia, cohibir la hemorragia y volver a colocar la férula de vacío.",
+   "C": "Hay que cohibir la hemorragia, administrar analgesia, alinear la fractura e inmovilizarla con una tracción esquelética, y seguidamente comprobar el pulso distal y hacer una exploración neurológica de la extremidad.",
+   "D": "La administración inicial de fentanilo a cargo del equipo de atención extrahospitalaria es suficiente; hay que suturar la herida e inmovilizar la fractura con una bota de yeso."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: En relación con la pregunta anterior (fractura abierta de tercio medio de muslo derecho), ¿cuál es el tratamiento antibiótico de elección indicado?",
+  "opciones": {
+   "A": "2 g de amoxicilina - ácido clavulánico por la vía endovenosa.",
+   "B": "2 g de cefazolina y 900 mg clindamicina, ambas por la vía endovenosa.",
+   "C": "No se requiere tratamiento antibiótico.",
+   "D": "2 g de cefazolina y 5 mg/kg de peso de gentamicina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta respecto a la evaluación de la resucitación con líquidos en un paciente con un traumatismo:",
+  "opciones": {
+   "A": "El exceso de bases es un mal indicador de la resucitación.",
+   "B": "El bicarbonato sódico debe administrarse con un pH superior a 7,2.",
+   "C": "La diuresis es un buen indicador de la reposición adecuada de volumen.",
+   "D": "La normalización de la presión arterial y el pulso son los indicadores más fiables de que la perfusión del órgano y de los sistemas es adecuada."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los signos siguientes puede corresponder, con una probabilidad alta, a una lesión grave en un traumatismo craneoencefálico?",
+  "opciones": {
+   "A": "Rinorragia controlada con presión bidigital.",
+   "B": "Herida en scalp del cuero cabelludo.",
+   "C": "Anisocoria arreactiva.",
+   "D": "Equimosis palpebral unilateral."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los parámetros siguientes no influye en la valoración de las quemaduras?",
+  "opciones": {
+   "A": "Extensión de la quemadura.",
+   "B": "Peso del paciente.",
+   "C": "Edad del paciente.",
+   "D": "Presencia de lesiones asociadas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre los traumatismos en las gestantes:",
+  "opciones": {
+   "A": "El abordaje no difiere del que se aplica a la población general.",
+   "B": "La causa principal de mortalidad fetal tras un traumatismo es la infección.",
+   "C": "La gestación no incrementa la morbilidad de las embarazadas.",
+   "D": "La gravedad de la lesión de la embarazada no se correlaciona con el estado del feto."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál es el diagnóstico más probable en un hombre de 79 años trasladado desde residencia, desorientado en tiempo y espacio, con discurso incoherente, inquietud psicomotriz, alucinaciones visuales, episodios de somnolencia y desatención, leucocitos 14.000, PCR 12,1, sedimento con 500 leucocitos/µL?",
+  "opciones": {
+   "A": "Debut típico de una demencia en un paciente anciano con una infección grave.",
+   "B": "Cuadro de delirium en un paciente anciano con una infección grave con instauración aguda y curso fluctuante.",
+   "C": "Debut de un episodio psicótico agudo (esquizofrenia tardía del anciano), pues tiene alucinaciones.",
+   "D": "Episodio de depresión grave debido a la hospitalización en urgencias, con sintomática psicótica asociada."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes no es una de las circunstancias especiales que deben tenerse en consideración a la hora de evaluar a un paciente anciano en el servicio de urgencias?",
+  "opciones": {
+   "A": "La probabilidad más alta de manifestarse las enfermedades agudas de forma atípica.",
+   "B": "La posible falta de colaboración del paciente durante la anamnesis a causa del deterioro cognitivo.",
+   "C": "La concurrencia de una o varias enfermedades crónicas que pueden descompensarse durante un proceso agudo.",
+   "D": "El riesgo más bajo de interacciones y reacciones adversas con el tratamiento inmediato en el servicio de urgencias."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre la valoración geriátrica integral adaptada a urgencias (VGI-SU):",
+  "opciones": {
+   "A": "Es una herramienta con la que se valoran aspectos exclusivamente clínicos.",
+   "B": "Es una herramienta diagnóstica que requiere hacer pruebas complementarias muy costosas.",
+   "C": "Es una herramienta diagnóstica con la que se valoran aspectos clínicos, funcionales, mentales y sociales.",
+   "D": "Es una herramienta que no puede aplicarse en el servicio de urgencias en ningún caso."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre la valoración del síndrome confusional agudo (o delirium) en el servicio de urgencias:",
+  "opciones": {
+   "A": "Con el Confusional Assessment Method (CAM) se miden el nivel de la conciencia, la inatención, las posibles comorbilidades y el inicio de los síntomas; es un método fiable para diagnosticar el delirium.",
+   "B": "El delirium con síntomas mixtos de hiperactividad e hipoactividad es la presentación clínica más frecuente.",
+   "C": "En el síndrome confusional agudo -a diferencia de la psicosis-, la memoria está alterada.",
+   "D": "El síndrome confusional agudo es un trastorno de causa orgánica que reduce la probabilidad de supervivencia al cabo de un año desde el diagnóstico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre el tratamiento del síndrome confusional agudo en los ancianos:",
+  "opciones": {
+   "A": "No hay pruebas concluyentes de que el uso de antipsicóticos reduzca la gravedad o la duración de los episodios.",
+   "B": "No existe un consenso definitivo sobre la selección de antipsicóticos, aunque son preferibles los atípicos.",
+   "C": "Se reserva el uso de antipsicóticos y otros medicamentos sedantes para el tratamiento de la agitación grave.",
+   "D": "Las benzodiacepinas se indican como el tratamiento de primera elección."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Qué tratamiento es el más indicado en el caso clínico descrito (hombre de 79 años con delirium hiperactivo e infección)?",
+  "opciones": {
+   "A": "0,5-5 mg de haloperidol por la vía intravenosa, repitiendo la dosis entre media hora y dos horas después.",
+   "B": "50-100 mg de tiaprida por la vía intravenosa, repitiendo la dosis entre media hora y dos horas después.",
+   "C": "0,5-2,5 mg de midazolam por la vía intravenosa. Dosis de ajuste: 0,5-1 mg cada 10-15 minutos.",
+   "D": "2,5-5 mg de olanzapina por la vía intramuscular, repitiendo la dosis entre media hora y cuatro horas después."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre los problemas relacionados con la terapia del anciano:",
+  "opciones": {
+   "A": "Los factores identificados en relación con problemas de cumplimento terapéutico son aquellos que no dependen del tratamiento ni del paciente.",
+   "B": "La polifarmacia es el factor de riesgo más importante en la aparición de efectos adversos a medicamentos.",
+   "C": "El problema principal de las interacciones es que son predecibles y conducen siempre a la aparición de efectos adversos.",
+   "D": "Aunque las reacciones adversas a medicamentos son más frecuentes en este grupo de población, la gravedad es menor en comparación con los pacientes más jóvenes."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las siguientes alteraciones metabólicas origina con menos frecuencia manifestaciones clínicas por afectación del sistema nervioso central primariamente?",
+  "opciones": {
+   "A": "Amonio sérico de 300 micromol/l.",
+   "B": "Glucosa sérica de 15 mg/dl.",
+   "C": "Potasio sérico de 4,2 mEq/l.",
+   "D": "Hipercapnia con PCO2 de 70 mmHg."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Plantéese el caso de un hombre de 34 años a quien se ha diagnosticado otitis media hace cinco días, sin otros antecedentes, que debuta con fiebre de 39 °C, cefalea, síndrome confusional y rigidez de nuca. Se le hace una punción lumbar, cuyo resultado sugiere meningitis bacteriana. ¿Cuál de los siguientes sería el mejor tratamiento antibiótico empírico?",
+  "opciones": {
+   "A": "Ceftriaxona y vancomicina.",
+   "B": "Cefotaxima y ampicilina.",
+   "C": "Moxifloxacino y vancomicina.",
+   "D": "Meropenem y ampicilina."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa en relación con el examen de las pupilas de un paciente en coma:",
+  "opciones": {
+   "A": "La miosis reactiva a la luz se relaciona con una lesión en el diencéfalo.",
+   "B": "La midriasis unilateral o anisocoria con reflejo directo negativo e indirecto conservado se relaciona con una lesión en el nervio óptico.",
+   "C": "La midriasis bilateral no reactiva se relaciona con la muerte cerebral.",
+   "D": "La midriasis bilateral reactiva se relaciona con la herniación uncal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el caso de un paciente en tratamiento anticoagulante y antiagregante que presenta lenguaje incoherente, pero sin otras manifestaciones clínicas asociadas, y una lesión hiperdensa en forma de medialuna en la imagen de la tomografía computarizada (TC) craneal, ¿cuál es el diagnóstico más probable?",
+  "opciones": {
+   "A": "Hemorragia subaracnoidea.",
+   "B": "Hematoma intraparenquimatoso.",
+   "C": "Hematoma epidural.",
+   "D": "Hematoma subdural."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál es la medida menos aceptada respecto al tratamiento de la hipertensión intracraneal en el servicio de urgencias?",
+  "opciones": {
+   "A": "Elevar la cabeza del paciente y mantenerla centrada.",
+   "B": "Drenar el líquido cefalorraquídeo por medio de un drenaje lumbar.",
+   "C": "Hiperventilación moderada.",
+   "D": "Glucocorticoides, en algunas circunstancias."
+  },
+  "respuesta_correcta": "B"
+ }
+]

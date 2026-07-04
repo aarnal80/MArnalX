@@ -1,0 +1,866 @@
+[
+  {
+    "id_examen": 97,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la respuesta correcta sobre la primera actuación que deben llevar a cabo los sanitarios de la ambulancia de SVA en este caso (hombre de 43 años víctima de accidente de circulación a 110 km/h con signos de hipoperfusión distal, respuesta confusa, obedece órdenes verbales):",
+    "opciones": {
+      "A": "Canalizar dos vías al paciente y transfundirle cristaloides en bolo a razón de 500 mL en 30 minutos, dado que presenta signos evidentes de shock.",
+      "B": "Iniciar la valoración primaria para descartar posibles lesiones potencialmente mortales para el paciente.",
+      "C": "Ordenar al equipo de rescate que asegure la zona antes de iniciar la asistencia y utilizar los medios de protección individual establecidos.",
+      "D": "Ordenar la organización inmediata del traslado de la víctima dado su evidente estado de gravedad."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 98,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las respuestas siguientes no es un factor de riesgo para la identificación de un paciente con lesiones potencialmente graves y la decisión de trasladarlo al centro más adecuado?",
+    "opciones": {
+      "A": "Gran deformidad del habitáculo con necesidad de excarcelación durante más de veinte minutos.",
+      "B": "Caída de un adulto desde seis metros de altura.",
+      "C": "Evidencia de única fractura de un hueso largo.",
+      "D": "Coexistencia de fallecidos en el mismo compartimento de la víctima."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 99,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la respuesta falsa sobre la enfermedad traumática:",
+    "opciones": {
+      "A": "Actualmente es considerada una verdadera epidemia del siglo XXI dado el importante impacto que genera en los países desarrollados.",
+      "B": "En los países desarrollados, la mortalidad es significativamente superior en la franja de edad de adultos jóvenes (18-44 años).",
+      "C": "El concepto de distribución trimodal de la muerte en la enfermedad traumática hace referencia a los tres periodos en que se produce la muerte de una persona que ha sufrido un accidente. El primer periodo, conocido como «hora de oro», es aquel en el que se centran todos los esfuerzos de los programas de atención en politraumatismo grave.",
+      "D": "La estrategia en que se basan los programas de atención a pacientes politraumatizados graves es tratar primero la lesión que amenaza más la vida de la persona accidentada."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 100,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación más adecuada en relación con el caso clínico descrito (hombre de 43 años politraumatizado, clasificado como prioridad nivel I en triaje hospitalario):",
+    "opciones": {
+      "A": "Se trata de un caso de riesgo bajo, independientemente del nivel de urgencia asignado en el triaje hospitalario, y no requiere una actuación protocolizada de traumatismo grave.",
+      "B": "Se trata de un paciente con lesiones potencialmente graves que requieren una actuación protocolizada y sistematizada identificando y abordando las más graves.",
+      "C": "El paciente es un politraumatizado grave y está en shock, por lo que hay que avisar al quirófano para trasladarlo inmediatamente desde el mismo servicio de urgencias y hacerle una laparotomía exploradora.",
+      "D": "Claramente el paciente presenta lesiones graves, de modo que la primera actuación debe ser hacerle una tomografía computarizada (TC) completa para conocer el alcance de las lesiones."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 101,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre el protocolo de SVA para los casos de traumatismo grave:",
+    "opciones": {
+      "A": "Es un conjunto ordenado de tareas multidisciplinarias que permite identificar a los pacientes potencialmente graves, evaluar el patrón lesional y determinar qué pruebas complementarias son necesarias para completar la evaluación, todo ello encaminado a la evaluación priorizada de las lesiones del paciente.",
+      "B": "Es prioritario identificar las lesiones graves durante la primera fase de la valoración (valoración primaria) y las menos graves en la secundaria, y deben iniciarse la reanimación y el tratamiento una vez finalizadas ambas fases.",
+      "C": "La valoración secundaria permite componer el patrón de lesiones asociadas al traumatismo con el objetivo de determinar las pruebas complementarias.",
+      "D": "Saber qué pruebas son necesarias y relevantes dependiendo de la exploración y la situación del paciente es una competencia imprescindible para todo clínico que atienda a estos pacientes."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 102,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: El nivel de conciencia de los pacientes politraumatizados se determina por medio de la escala de coma de Glasgow (CGS). Señale la respuesta correcta en relación con el caso clínico descrito (respondía de forma confusa, obedecía a las órdenes verbales abriendo los ojos):",
+    "opciones": {
+      "A": "La puntuación en la CGS es de 9 (O = 3, V = 5, M = 1).",
+      "B": "La puntuación en la CGS es de 13 (O = 3, V = 6, M = 4).",
+      "C": "La puntuación en la CGS es de 15 (O = 4, V = 5, M = 6).",
+      "D": "La puntuación en la CGS es de 13 (O = 3, V = 4, M = 6)."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 103,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa en relación con el control adecuado de la vía aérea en un caso de traumatismo grave:",
+    "opciones": {
+      "A": "La causa más frecuente de obstrucción de la vía aérea es el nivel de conciencia bajo.",
+      "B": "El objetivo principal es permitir la ventilación y la oxigenación adecuadas. Si la víctima de un accidente está orientada y habla correctamente, eso indica que la vía aérea es permeable y que tiene una buena perfusión cerebral.",
+      "C": "El mal control de la vía aérea hace más difícil cualquier maniobra efectiva de reanimación posterior y aumenta la probabilidad de lesiones neurológicas irreversibles.",
+      "D": "Forma parte de las acciones que deben llevarse a cabo en la valoración secundaria."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 104,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta en relación con el shock en los pacientes politraumatizados:",
+    "opciones": {
+      "A": "En el shock de grado I se estiman pérdidas entre el 30 % y el 40 % del volumen de sangre, de modo que se requiere transfusión de hemoderivados.",
+      "B": "El primer paso en el abordaje y el tratamiento del shock es reconocerlo: los signos más sensibles son la taquicardia y las características del pulso distal.",
+      "C": "La caída de la tensión arterial se produce en el shock de grado II, en que la pérdida de sangre es superior al 40 %, lo cual requiere perfusión de concentrado de hematíes, plasma y plaquetas en proporción 1:2:2.",
+      "D": "La prioridad en los casos de politraumatismo con shock hemorrágico es hacer una prueba de imagen que identifique la zona sangrante y la necesidad de intervenir quirúrgicamente."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 105,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las respuestas siguientes no es una de las lesiones que deterioran de forma significativa la ventilación a corto plazo y que deben identificarse en la valoración primaria?",
+    "opciones": {
+      "A": "Hemotórax masivo.",
+      "B": "Neumotórax a tensión.",
+      "C": "Fracturas costales múltiples.",
+      "D": "Neumotórax abierto."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 106,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los siguientes signos ecográficos realizados en el box de reanimación de un paciente politraumatizado en decúbito supino descarta con una especificidad cercana al 100 % un neumotórax traumático del área explorada?",
+    "opciones": {
+      "A": "Presencia de deslizamiento pleural.",
+      "B": "Existencia de líneas A anterior.",
+      "C": "Presencia de líneas B anterior.",
+      "D": "Visualización del pulso del pulmón."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 107,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las escalas siguientes utilizadas en la enfermedad traumática predice con más exactitud el pronóstico de mortalidad?",
+    "opciones": {
+      "A": "Trauma Score Revisado (TRS).",
+      "B": "Trauma Score (TS).",
+      "C": "Injury Severity Score (ISS).",
+      "D": "Abbreviated Injury Scale (AIS)."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 108,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál es el mecanismo lesional más frecuente en la fractura cervical C1, conocida como «fractura de Jefferson»?",
+    "opciones": {
+      "A": "Hiperextensión cervical.",
+      "B": "Compresión axial.",
+      "C": "Rotación y flexión lateral.",
+      "D": "Distracción cervical."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 109,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál es la sospecha más probable en el caso de un paciente politraumatizado con tensión arterial de 86/50 mmHg, frecuencia cardiaca de 45 lpm y piel caliente?",
+    "opciones": {
+      "A": "Shock hemorrágico de grado III.",
+      "B": "Shock obstructivo causado por un taponamiento cardiaco.",
+      "C": "Shock medular causado por una lesión por encima de la vértebra T5.",
+      "D": "El traumatismo torácico de alta energía le ha provocado una lesión cardiaca que ha causado un shock cardiogénico."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 110,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Con qué signos típicos se sospecha una hipertensión intracraneal?",
+    "opciones": {
+      "A": "Nivel bajo de conciencia, bradicardia e hipertensión arterial.",
+      "B": "Nivel bajo de conciencia, taquicardia e hipertensión arterial.",
+      "C": "Amnesia retrógrada, bradicardia e hipotensión arterial.",
+      "D": "Hipertensión arterial, amnesia y taquicardia."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 111,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta sobre las hemorragias intracraneales en un traumatismo craneoencefálico de alta energía:",
+    "opciones": {
+      "A": "El hematoma epidural raramente se asocia a fracturas craneales.",
+      "B": "El hematoma subdural se produce por el desgarro y la rotura de vasos sanguíneos.",
+      "C": "El hematoma intraventricular se asocia a un buen pronóstico.",
+      "D": "La hemorragia subaracnoidea se produce por la rotura de un aneurisma."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 112,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre el traumatismo abdominal grave:",
+    "opciones": {
+      "A": "Las lesiones desapercibidas abdominales y del anillo pélvico son causa de muerte prevenible después de un traumatismo torácico.",
+      "B": "Las lesiones de las estructuras viscerales retroperitoneales son fáciles de reconocer por medio del protocolo FAST y clínicamente por la manifestación temprana de irritación peritoneal.",
+      "C": "La lesión diafragmática es poco frecuente, y cuando ocurre suele darse en el hemidiafragma posterolateral izquierdo.",
+      "D": "En los casos de lesiones de órganos sólidos intraabdominales en un politraumatismo hemodinámicamente estable está indicada una actitud conservadora."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 113,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las posibles fracturas del anillo pélvico cursa más a menudo con lesión del complejo ligamentoso posterior y está asociada a un shock de grado III-IV si no se hace un abordaje adecuado?",
+    "opciones": {
+      "A": "Fractura desplazada del ala ilíaca derecha (tipo A en la clasificación de Tile).",
+      "B": "Fractura en libro abierto con diástasis pubiana de menos de 2,5 cm (tipo B en la clasificación de Tile).",
+      "C": "Fractura en mariposa o bilateral de ramas ileopubianas e isquiopubianas.",
+      "D": "Fractura con desplazamiento vertical de la articulación sacroilíaca y diástasis del pubis de más 2,5 cm (tipo C en la clasificación de Tile)."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 114,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: La incapacidad para la extensión dorsal de la mano y los dedos en ligera flexión del miembro superior en el contexto de una fractura supracondílea de húmero hace sospechar una lesión de un nervio. ¿Cuál?",
+    "opciones": {
+      "A": "Nervio cubital.",
+      "B": "Nervio radial.",
+      "C": "Nervio mediano.",
+      "D": "Nervio circunflejo."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 115,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Durante la valoración secundaria del caso clínico descrito, una vez estabilizado el paciente se le retira la férula de vacío y se observa una gran deformidad del tercio medio del muslo derecho con una herida contusa de 11 cm, sangrante y con exposición de hueso. Señale la acción correcta:",
+    "opciones": {
+      "A": "Hay que cohibir la hemorragia presionando con gasas estériles, comprobar el pulso distal e inmovilizar la fractura con una férula de yeso posterior.",
+      "B": "Hay que administrar analgesia, cohibir la hemorragia y volver a colocar la férula de vacío.",
+      "C": "Hay que cohibir la hemorragia, administrar analgesia, alinear la fractura e inmovilizarla con una tracción esquelética, y seguidamente comprobar el pulso distal y hacer una exploración neurológica de la extremidad.",
+      "D": "La administración inicial de fentanilo a cargo del equipo de atención extrahospitalaria es suficiente; hay que suturar la herida e inmovilizar la fractura con una bota de yeso."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 116,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: En relación con la pregunta anterior (fractura abierta de tercio medio de muslo derecho), ¿cuál es el tratamiento antibiótico de elección indicado?",
+    "opciones": {
+      "A": "2 g de amoxicilina - ácido clavulánico por la vía endovenosa.",
+      "B": "2 g de cefazolina y 900 mg clindamicina, ambas por la vía endovenosa.",
+      "C": "No se requiere tratamiento antibiótico.",
+      "D": "2 g de cefazolina y 5 mg/kg de peso de gentamicina."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 117,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta respecto a la evaluación de la resucitación con líquidos en un paciente con un traumatismo:",
+    "opciones": {
+      "A": "El exceso de bases es un mal indicador de la resucitación.",
+      "B": "El bicarbonato sódico debe administrarse con un pH superior a 7,2.",
+      "C": "La diuresis es un buen indicador de la reposición adecuada de volumen.",
+      "D": "La normalización de la presión arterial y el pulso son los indicadores más fiables de que la perfusión del órgano y de los sistemas es adecuada."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 118,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los signos siguientes puede corresponder, con una probabilidad alta, a una lesión grave en un traumatismo craneoencefálico?",
+    "opciones": {
+      "A": "Rinorragia controlada con presión bidigital.",
+      "B": "Herida en scalp del cuero cabelludo.",
+      "C": "Anisocoria arreactiva.",
+      "D": "Equimosis palpebral unilateral."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 119,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los parámetros siguientes no influye en la valoración de las quemaduras?",
+    "opciones": {
+      "A": "Extensión de la quemadura.",
+      "B": "Peso del paciente.",
+      "C": "Edad del paciente.",
+      "D": "Presencia de lesiones asociadas."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 120,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre los traumatismos en las gestantes:",
+    "opciones": {
+      "A": "El abordaje no difiere del que se aplica a la población general.",
+      "B": "La causa principal de mortalidad fetal tras un traumatismo es la infección.",
+      "C": "La gestación no incrementa la morbilidad de las embarazadas.",
+      "D": "La gravedad de la lesión de la embarazada no se correlaciona con el estado del feto."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 121,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál es el diagnóstico más probable en un hombre de 79 años trasladado desde residencia, desorientado en tiempo y espacio, con discurso incoherente, inquietud psicomotriz, alucinaciones visuales, episodios de somnolencia y desatención, leucocitos 14.000, PCR 12,1, sedimento con 500 leucocitos/µL?",
+    "opciones": {
+      "A": "Debut típico de una demencia en un paciente anciano con una infección grave.",
+      "B": "Cuadro de delirium en un paciente anciano con una infección grave con instauración aguda y curso fluctuante.",
+      "C": "Debut de un episodio psicótico agudo (esquizofrenia tardía del anciano), pues tiene alucinaciones.",
+      "D": "Episodio de depresión grave debido a la hospitalización en urgencias, con sintomática psicótica asociada."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 122,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes no es una de las circunstancias especiales que deben tenerse en consideración a la hora de evaluar a un paciente anciano en el servicio de urgencias?",
+    "opciones": {
+      "A": "La probabilidad más alta de manifestarse las enfermedades agudas de forma atípica.",
+      "B": "La posible falta de colaboración del paciente durante la anamnesis a causa del deterioro cognitivo.",
+      "C": "La concurrencia de una o varias enfermedades crónicas que pueden descompensarse durante un proceso agudo.",
+      "D": "El riesgo más bajo de interacciones y reacciones adversas con el tratamiento inmediato en el servicio de urgencias."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 123,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre la valoración geriátrica integral adaptada a urgencias (VGI-SU):",
+    "opciones": {
+      "A": "Es una herramienta con la que se valoran aspectos exclusivamente clínicos.",
+      "B": "Es una herramienta diagnóstica que requiere hacer pruebas complementarias muy costosas.",
+      "C": "Es una herramienta diagnóstica con la que se valoran aspectos clínicos, funcionales, mentales y sociales.",
+      "D": "Es una herramienta que no puede aplicarse en el servicio de urgencias en ningún caso."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 124,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre la valoración del síndrome confusional agudo (o delirium) en el servicio de urgencias:",
+    "opciones": {
+      "A": "Con el Confusional Assessment Method (CAM) se miden el nivel de la conciencia, la inatención, las posibles comorbilidades y el inicio de los síntomas; es un método fiable para diagnosticar el delirium.",
+      "B": "El delirium con síntomas mixtos de hiperactividad e hipoactividad es la presentación clínica más frecuente.",
+      "C": "En el síndrome confusional agudo -a diferencia de la psicosis-, la memoria está alterada.",
+      "D": "El síndrome confusional agudo es un trastorno de causa orgánica que reduce la probabilidad de supervivencia al cabo de un año desde el diagnóstico."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 125,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre el tratamiento del síndrome confusional agudo en los ancianos:",
+    "opciones": {
+      "A": "No hay pruebas concluyentes de que el uso de antipsicóticos reduzca la gravedad o la duración de los episodios.",
+      "B": "No existe un consenso definitivo sobre la selección de antipsicóticos, aunque son preferibles los atípicos.",
+      "C": "Se reserva el uso de antipsicóticos y otros medicamentos sedantes para el tratamiento de la agitación grave.",
+      "D": "Las benzodiacepinas se indican como el tratamiento de primera elección."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 126,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Qué tratamiento es el más indicado en el caso clínico descrito (hombre de 79 años con delirium hiperactivo e infección)?",
+    "opciones": {
+      "A": "0,5-5 mg de haloperidol por la vía intravenosa, repitiendo la dosis entre media hora y dos horas después.",
+      "B": "50-100 mg de tiaprida por la vía intravenosa, repitiendo la dosis entre media hora y dos horas después.",
+      "C": "0,5-2,5 mg de midazolam por la vía intravenosa. Dosis de ajuste: 0,5-1 mg cada 10-15 minutos.",
+      "D": "2,5-5 mg de olanzapina por la vía intramuscular, repitiendo la dosis entre media hora y cuatro horas después."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 127,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre los problemas relacionados con la terapia del anciano:",
+    "opciones": {
+      "A": "Los factores identificados en relación con problemas de cumplimento terapéutico son aquellos que no dependen del tratamiento ni del paciente.",
+      "B": "La polifarmacia es el factor de riesgo más importante en la aparición de efectos adversos a medicamentos.",
+      "C": "El problema principal de las interacciones es que son predecibles y conducen siempre a la aparición de efectos adversos.",
+      "D": "Aunque las reacciones adversas a medicamentos son más frecuentes en este grupo de población, la gravedad es menor en comparación con los pacientes más jóvenes."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 128,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las siguientes alteraciones metabólicas origina con menos frecuencia manifestaciones clínicas por afectación del sistema nervioso central primariamente?",
+    "opciones": {
+      "A": "Amonio sérico de 300 micromol/l.",
+      "B": "Glucosa sérica de 15 mg/dl.",
+      "C": "Potasio sérico de 4,2 mEq/l.",
+      "D": "Hipercapnia con PCO2 de 70 mmHg."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 129,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Plantéese el caso de un hombre de 34 años a quien se ha diagnosticado otitis media hace cinco días, sin otros antecedentes, que debuta con fiebre de 39 °C, cefalea, síndrome confusional y rigidez de nuca. Se le hace una punción lumbar, cuyo resultado sugiere meningitis bacteriana. ¿Cuál de los siguientes sería el mejor tratamiento antibiótico empírico?",
+    "opciones": {
+      "A": "Ceftriaxona y vancomicina.",
+      "B": "Cefotaxima y ampicilina.",
+      "C": "Moxifloxacino y vancomicina.",
+      "D": "Meropenem y ampicilina."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 130,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa en relación con el examen de las pupilas de un paciente en coma:",
+    "opciones": {
+      "A": "La miosis reactiva a la luz se relaciona con una lesión en el diencéfalo.",
+      "B": "La midriasis unilateral o anisocoria con reflejo directo negativo e indirecto conservado se relaciona con una lesión en el nervio óptico.",
+      "C": "La midriasis bilateral no reactiva se relaciona con la muerte cerebral.",
+      "D": "La midriasis bilateral reactiva se relaciona con la herniación uncal."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 131,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el caso de un paciente en tratamiento anticoagulante y antiagregante que presenta lenguaje incoherente, pero sin otras manifestaciones clínicas asociadas, y una lesión hiperdensa en forma de medialuna en la imagen de la tomografía computarizada (TC) craneal, ¿cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Hemorragia subaracnoidea.",
+      "B": "Hematoma intraparenquimatoso.",
+      "C": "Hematoma epidural.",
+      "D": "Hematoma subdural."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 132,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál es la medida menos aceptada respecto al tratamiento de la hipertensión intracraneal en el servicio de urgencias?",
+    "opciones": {
+      "A": "Elevar la cabeza del paciente y mantenerla centrada.",
+      "B": "Drenar el líquido cefalorraquídeo por medio de un drenaje lumbar.",
+      "C": "Hiperventilación moderada.",
+      "D": "Glucocorticoides, en algunas circunstancias."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 133,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿En qué estado se encuentra un paciente en coma rígido con los miembros superiores en extensión, aproximación y rotación interna y los miembros inferiores en extensión?",
+    "opciones": {
+      "A": "Estado postcrítico.",
+      "B": "Rigidez de decorticación.",
+      "C": "Rigidez de descerebración.",
+      "D": "Síndrome conversivo."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 134,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el caso de un paciente que acude a urgencias y en la exploración presenta habla fluente, mala comprensión del lenguaje, incapacidad para la repetición y disnomia, semiológicamente presenta un cuadro compatible con...",
+    "opciones": {
+      "A": "...afasia de Broca.",
+      "B": "...afasia de conducción.",
+      "C": "...afasia transcortical sensitiva.",
+      "D": "...afasia de Wernicke."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 135,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa respecto al estupor:",
+    "opciones": {
+      "A": "Es una alteración de la conciencia.",
+      "B": "Supone un estado reversible por estímulos moderados.",
+      "C": "Se utiliza este término en los estados de mutismo y de reducción de la actividad motora.",
+      "D": "En el ámbito de la neurología es un estado que precede al coma."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 136,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Existen varios términos semiológicos que tienen en cuenta el patrón respiratorio de un paciente en coma. Si se observa que en un paciente, tras un periodo de apnea, se producen respiraciones que aumentan progresivamente de amplitud y frecuencia y luego disminuyen progresivamente hasta otro episodio de apnea, ¿a qué patrón corresponde?",
+    "opciones": {
+      "A": "Taquipnea.",
+      "B": "Platipnea.",
+      "C": "Respiración de Kussmaul.",
+      "D": "Respiración de Cheyne-Stokes."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 137,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la respuesta incorrecta sobre los cuidados iniciales en el abordaje de un paciente en coma:",
+    "opciones": {
+      "A": "Mantener la permeabilidad de la vía aérea.",
+      "B": "Vigilar la frecuencia respiratoria, el patrón de ventilación y los signos de hipoxemia.",
+      "C": "Mantener una presión arterial media por encima de 70 mmHg.",
+      "D": "Está contraindicado el uso de labetalol y nitroprusiato en todos los casos."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 138,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre el líquido cefalorraquídeo:",
+    "opciones": {
+      "A": "El líquido cefalorraquídeo normal es claro, transparente, tiene una presión de apertura de 5-20 cm H2O y contiene un máximo de 5 células/mm3, que habitualmente son mononucleares.",
+      "B": "La proporción de glucorraquia respecto a la glucemia capilar es del 100 % y tiene 50-100 mg/dL de proteínas.",
+      "C": "Un perfil linfocitario con glucorraquia normal orienta al diagnóstico de meningitis de origen bacteriano.",
+      "D": "Un perfil leucocitario polimorfonuclear con glucorraquia disminuida orienta al diagnóstico de meningitis de origen vírico."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 139,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Plantéese el caso de una joven de 20 años que acude al servicio de urgencias porque, después de levantarse y mirarse al espejo, ha notado debilidad en toda la mitad derecha de la cara (incluida la frente) al cerrar el párpado y al sonreír. La afectación está acompañada de disgeusia, hiperacusia y dolor mastoideo ipsilateral. Sin déficit de fuerza ni sensitivo en extremidades ni alteraciones del habla. Señale la afirmación correcta respecto a este caso:",
+    "opciones": {
+      "A": "El diagnóstico más probable es una placa desmielinizante en la hemiprotuberancia contralateral y la exploración complementaria más necesaria es una resonancia magnética craneal.",
+      "B": "Los corticoides por la vía oral son de elección en el tratamiento de esta paciente.",
+      "C": "Debe ser considerada la fibrinolisis endovenosa si el tiempo de evolución es inferior a tres horas.",
+      "D": "Lo más probable es que el cuadro sea irreversible."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 140,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre las crisis epilépticas postraumáticas:",
+    "opciones": {
+      "A": "Son habituales inmediatamente después de un traumatismo craneal.",
+      "B": "Las lesiones penetrantes y la gravedad de la lesión son factores que favorecen estas crisis.",
+      "C": "Está indicado el tratamiento anticomicial profiláctico.",
+      "D": "Tras un par de años de riesgo más alto, los pacientes con lesiones graves tienen el mismo riesgo que la población general."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 141,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre los tratamientos específicos del coma reversible:",
+    "opciones": {
+      "A": "La dextrosa se utiliza en los casos de coma hipoglucémico.",
+      "B": "La tiamina se utiliza en los casos de encefalopatía de Wernicke.",
+      "C": "La rifampicina se utiliza en los casos de encefalopatía hepática.",
+      "D": "La ventilación mecánica se utiliza en los casos de encefalopatía hipercápnica."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 142,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes no es un tipo de síndrome lacunar?",
+    "opciones": {
+      "A": "Síndrome motor puro.",
+      "B": "Hemiparesia atáxica.",
+      "C": "Torpeza en las manos y disartria.",
+      "D": "Hemiplejia izquierda."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 143,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes es uno de los objetivos del control de los signos vitales en los casos de ictus agudo?",
+    "opciones": {
+      "A": "Tensión arterial por debajo de 185/105 mmHg.",
+      "B": "Temperatura por debajo de 38 °C.",
+      "C": "Glucemia por debajo de 170 mg/dL.",
+      "D": "Saturación de oxígeno por encima del 93 %."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 144,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el servicio de urgencias, ¿cuál es la actitud menos adecuada en un caso de hemorragia subaracnoidea?",
+    "opciones": {
+      "A": "Iniciar un tratamiento anticomicial preventivo.",
+      "B": "Si el cuadro es muy sugestivo y el resultado de la TC craneal es normal, hay que hacer una punción lumbar.",
+      "C": "Si se confirma la hemorragia, hay que solicitar una angiotomografía computarizada craneal con carácter urgente.",
+      "D": "Hay que corregir las posibles alteraciones de la coagulación."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 145,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta correcta según las escalas de valoración de la sepsis en un hombre de 67 años con fiebre 38,7°C, TA 80/40 mmHg, FC 120 lpm, FR 30 rpm, SatO2 94%, GCS 13, tras resección transuretral de próstata hace 2 días:",
+    "opciones": {
+      "A": "Con la escala quick SOFA < 2.",
+      "B": "Con la escala MEWS < 5 puntos.",
+      "C": "Con la escala NEWS 2 media: 6 puntos.",
+      "D": "Con la escala quick SOFA > 2."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 146,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Hacia qué diagnóstico orientan los resultados de la analítica (creatinina 7,2 mg/dL, bilirrubina 2,3, PCR 23, procalcitonina 10 ng/mL, pH 6,9, láctico 8,0 mmol/L, nitritos positivos con abundantes microorganismos y leucocituria)?",
+    "opciones": {
+      "A": "Cetoacidosis diabética con fiebre.",
+      "B": "Diverticulitis aguda.",
+      "C": "Sepsis de origen renal.",
+      "D": "Cólico biliar complicado."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 147,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta correcta de acuerdo con los datos de la gasometría (pH 6,9; pO2 57; pCO2 24; HCO3 12; EB -23; láctico 8,0 mmol/L):",
+    "opciones": {
+      "A": "Acidemia metabólica e insuficiencia respiratoria.",
+      "B": "Acidosis metabólica e insuficiencia respiratoria normocápnica.",
+      "C": "Acidosis metabólica con alcalosis respiratoria compensadora.",
+      "D": "Acidemia láctica."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 148,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación falsa sobre la procalcitonina:",
+    "opciones": {
+      "A": "Es un biomarcador utilizado para valorar la gravedad y la mortalidad en los procesos sépticos.",
+      "B": "Ayuda a distinguir la sepsis de un síndrome de respuesta inflamatoria sistémica (SRIS) no infeccioso gracias a que alcanza una sensibilidad del 98 % y una especificidad de más del 90 % si los valores son superiores a 10 ng/mL.",
+      "C": "No se eleva en los casos de shock cardiogénico o de carcinoma de pulmón.",
+      "D": "Se recomienda hacer una nueva determinación a las 8-12 horas y a las 24 horas para comprobar la variación y estimar la mejoría o la progresión de la infección."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 149,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Después de trasladar al paciente al área de críticos con monitorización no invasiva, hay que iniciar el tratamiento de resucitación con...",
+    "opciones": {
+      "A": "...500 mL de suero fisiológico en la primera hora.",
+      "B": "...suero fisiológico a ritmo de 30 mL/kg en las primeras tres horas.",
+      "C": "...500 mL de lactato de Ringer en la primera hora.",
+      "D": "...500 mL de Isofundin® en la primera hora."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 150,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Dados los valores de la gasometría (pH 6,9; HCO3 12; EB -23), señale la respuesta correcta sobre el tratamiento que debe administrarse en la fase de resucitación:",
+    "opciones": {
+      "A": "Perfusión de bicarbonato 1/6 M a través de una vía periférica.",
+      "B": "Perfusión de bicarbonato 1M (a una dosis de 1 mEq/kg).",
+      "C": "No hay que añadir bicarbonato.",
+      "D": "Hay que añadir una perfusión de suero glucosado al 10 % con insulina."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 151,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación correcta sobre el tratamiento antibiótico en el caso clínico descrito:",
+    "opciones": {
+      "A": "Debe iniciarse lo antes posible: se recomienda antes de la primera hora desde el diagnóstico, hasta un máximo de tres horas.",
+      "B": "La dosis inicial debe estar ajustada a la función renal.",
+      "C": "La dosis inicial debe ser plena.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 152,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Bajo la sospecha diagnóstica y el foco de infección (sepsis de origen renal/urológico), ¿cuál es el tratamiento antibiótico adecuado en este caso clínico?",
+    "opciones": {
+      "A": "4 g de piperacilina tazobactam cada 8 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+      "B": "2 g de piperacilina tazobactam cada 12 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+      "C": "1 g de meropenem cada 8 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+      "D": "2 g de ceftriaxona cada 24 horas +/- 15 mg/kg de amikacina en una dosis única diaria."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 153,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes no es una de las variables dinámicas que deben revisarse tras la resucitación inicial, según las recomendaciones de las guías internacionales de sepsis, y que indicarían fracaso?",
+    "opciones": {
+      "A": "Diuresis < 50 mL/h.",
+      "B": "Presión arterial media > 65 mmHg.",
+      "C": "Aclaramiento de lactato < 20 %.",
+      "D": "Insuficiencia respiratoria con PaO2/FiO2 < 300 (en ausencia de neumonía)."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 154,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación falsa de acuerdo con las guías Surviving Sepsis Campaign de 2021:",
+    "opciones": {
+      "A": "La sepsis es una disfunción orgánica potencialmente mortal, causada por una respuesta inadecuada del huésped a una infección documentada clínica y/o microbiológicamente.",
+      "B": "La sepsis grave se mantiene en la actualidad como definición.",
+      "C": "La sepsis es dependiente del tiempo y, por lo tanto, es una emergencia médica.",
+      "D": "La sepsis es una de las principales causas de mortalidad en todo el mundo."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 155,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Una de las medidas para reducir la incidencia de las infecciones relacionadas con la asistencia sanitaria es la higiene de manos. Señale en qué momento es incorrecta:",
+    "opciones": {
+      "A": "Antes de tocar al paciente.",
+      "B": "Antes de llevar a cabo una tarea limpia/aséptica.",
+      "C": "Antes del riesgo de exposición a líquidos corporales.",
+      "D": "Después del contacto con el paciente y/o su entorno."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 156,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Tras la resucitación adecuada, al cabo de tres horas el paciente presenta PAM 55 mmHg, FC 110 lpm, diuresis 0 mL, láctico 3,5 mmol. ¿En qué situación está este caso clínico?",
+    "opciones": {
+      "A": "Evolución lenta, pero favorable; el aclaramiento del ácido láctico es correcto.",
+      "B": "La situación evoluciona a shock séptico.",
+      "C": "Persistencia de la cetoacidosis diabética.",
+      "D": "Hipoperfusión asociada a sepsis."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 157,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Si se decide administrar una droga vasoactiva, ¿cuál es la de elección, entre las siguientes?",
+    "opciones": {
+      "A": "Dado que no se dispone de una vía central, no puede administrarse.",
+      "B": "Dobutamina.",
+      "C": "Vasopresina.",
+      "D": "Noradrenalina por una vía periférica."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 158,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes es una medida terapéutica adicional que puede tomarse en consideración en el contexto del shock séptico?",
+    "opciones": {
+      "A": "Vitamina C por la vía endovenosa.",
+      "B": "Inmunoglobulinas por la vía endovenosa.",
+      "C": "Corticoesteroides (40 mg de metilprednisolona cada 8 horas).",
+      "D": "Insulina para corregir la hiperglucemia."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 159,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Por medio de una prueba diagnóstica por la imagen se observa una marcada hidronefrosis derecha, litiasis ureteroyuxtavesical renal derecha de 11 mm de diámetro y distensión de la vesícula biliar sin paredes engrosadas ni presencia de litiasis en su interior. ¿Cuál de las opciones terapéuticas siguientes es correcta?",
+    "opciones": {
+      "A": "Interconsulta al servicio de urología para valorar una nefrostomía derecha.",
+      "B": "Mantener la resucitación y administrar antibióticos como se han iniciado y esperar.",
+      "C": "Interconsulta al servicio de nefrología para hemodiálisis.",
+      "D": "Interconsulta al servicio de cirugía para una colecistectomía."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 160,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Si se sospechase una colecistitis aguda en este caso clínico, ¿cuál de las respuestas siguientes no es uno de los criterios diagnósticos según la guía de Tokio de 2018?",
+    "opciones": {
+      "A": "Signos locales: signo de Murphy o masa, dolor o defensa en el hipocondrio derecho.",
+      "B": "Signos sistémicos: fiebre de menos de 37,5 °C o PCR alta o leucocitosis por encima de 10.000 células/mm3.",
+      "C": "Imagen: edema de pared de más de 5 mm, vesícula distendida, signo de Murphy radiológico, líquido perivesicular, colelitiasis.",
+      "D": "Imagen: edema de pared de menos de 5 mm, vesícula distendida, signo de Murphy radiológico, líquido perivesicular, colelitiasis."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 161,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes no es uno de los criterios de gravedad para la colecistitis aguda de grado moderado?",
+    "opciones": {
+      "A": "Incremento de la leucocitosis de más de 18.000 células/mm3.",
+      "B": "Duración de los síntomas de más de 72 horas.",
+      "C": "Tiempo de protrombina INR < 1,5.",
+      "D": "Marcada inflamación local (colecistitis gangrenosa, absceso perivesicular, colecistitis enfisematosa)."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 162,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En este caso clínico se podría sospechar una infección por un microorganismo multirresistente. ¿Cuál es la definición de multirresistente?",
+    "opciones": {
+      "A": "Ausencia de sensibilidad al menos a un antibiótico de tres o más familias consideradas de utilidad para el tratamiento de las infecciones producidas por cada una de las especies bacterianas consideradas.",
+      "B": "Probabilidad alta de éxito terapéutico porque la exposición al agente está incrementada por el ajuste del régimen de dosificación por su concentración en lugar de la infección.",
+      "C": "Ausencia de sensibilidad a todos los antibióticos de todas las familias habituales utilizadas en el tratamiento de la bacteria considerada.",
+      "D": "Probabilidad alta de fracaso terapéutico incluso cuando hay incremento de la exposición."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 163,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En relación con los microorganismos multirresistentes hay que tener en cuenta a todos los siguientes, excepto uno. Señálelo:",
+    "opciones": {
+      "A": "Staphylococcus aureus resistente a la meticilina (SARM, MRSA por la denominación en inglés).",
+      "B": "Enterobacteria productora de betalactamasas de espectro extendido (BLEE) o de betalactamasas plasmídicas de tipo AmpC.",
+      "C": "Enterobacteria productora de carbapenemasas (EPC).",
+      "D": "Pseudomonas aeruginosa."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 164,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En los programas PROA de los hospitales se incluye a los servicios de urgencias. ¿Cuál de las respuestas siguientes no es uno de los objetivos generales de dichos programas?",
+    "opciones": {
+      "A": "Registro de todos los microorganismos multirresistentes y creación de una base de datos.",
+      "B": "Formación de un curso PROA básico dirigido a todos los adjuntos de los servicios de urgencias.",
+      "C": "Mejoría del pronóstico de los pacientes con infecciones.",
+      "D": "Reducción de la presión antibiótica y de los efectos adversos."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 165,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: El paciente del caso clínico descrito regresa al servicio de urgencias tres días después con diarrea, tos, disnea y fiebre de 39 °C. Se observa derrame pleural derecho hasta el tercio medio y condensación en el lóbulo superior derecho. Se sospecha una neumonía intrahospitalaria. Señale la afirmación correcta:",
+    "opciones": {
+      "A": "La neumonía intrahospitalaria es la segunda causa de infección nosocomial y la que presenta una tasa de mortalidad más baja.",
+      "B": "No es probable que Acinetobacter baumannii sea el microorganismo responsable.",
+      "C": "Entre las medidas para reducir la incidencia de la neumonía intrahospitalaria están optimizar la higiene oral, elevar el cabecero de la cama y la deambulación precoz.",
+      "D": "La sospecha de microorganismos multirresistentes no tiene relación con la administración de antibióticos en los 90 días previos."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 166,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta incorrecta en caso de que se hiciera una toracocentesis a este paciente:",
+    "opciones": {
+      "A": "Los valores de la glucosa en el líquido pleural inferiores a 60 mg deben orientar a los diagnósticos de empiema, proceso neoplásico, tuberculosis o artritis reumatoide.",
+      "B": "No se recomienda extraer más de 1.000 mL de una vez en la toracocentesis para evitar el edema ex vacuo o por reexpansión pulmonar.",
+      "C": "El pH en el líquido pleural inferior a 7,20 puede verse en los casos de derrame pleural paraneumónico complicado o empiema, rotura esofágica o proceso neoplásico.",
+      "D": "Un coeficiente de LDH pleural / LDH plasma superior a 0,6 es un trasudado."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 167,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En el caso de un paciente seropositivo al VIH con carga detectable o desconocida y con factores de riesgo, ¿en qué situación no está indicada la profilaxis postexposición no ocupacional con antirretrovirales?",
+    "opciones": {
+      "A": "Relaciones anales y/o vaginales sin preservativo.",
+      "B": "Intercambio de jeringuillas con consumidores de drogas por la vía parenteral.",
+      "C": "Mordedura humana con rotura de la piel o sangrado.",
+      "D": "Pinchazo o erosión superficial con una aguja u otro objeto punzante abandonado que no ha estado en contacto con sangre recientemente."
+    },
+    "respuesta_correcta": null
+  },
+  {
+    "id_examen": 168,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+    "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación correcta sobre las infecciones de transmisión sexual:",
+    "opciones": {
+      "A": "Las lesiones de origen sifilítico (sífilis primaria) son muy dolorosas.",
+      "B": "Se recomienda hacer pruebas serológicas para detectar los virus de la hepatitis B, de la hepatitis C y de la inmunodeficiencia humana.",
+      "C": "Las infecciones de transmisión sexual con una tasa más alta de incidencia son las causadas por Neisseria gonorrhoeae, según los datos de vigilancia epidemiológica de 2019.",
+      "D": "El tratamiento empírico de elección consiste en 250 mg de ceftriaxona por la vía intramuscular y 1 g de azitromicina en dosis única por la vía oral."
+    },
+    "respuesta_correcta": null
+  }
+]

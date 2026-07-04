@@ -1,0 +1,486 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "El servicio de emergencias médicas traslada a Urgencias un paciente con un trauma torácico provocado en un accidente automovilístico. Tras la valoración primaria y secundaria se objetivan los siguientes datos: TA 96/65 mmHg, FC 115 latidos por minuto, FR 24 respiraciones minuto, relleno capilar 3 segundos. Paciente consciente y orientado. Venas yugulares colapsadas. Tráquea adecuadamente centrada en línea media. Vía aérea permeable, movilidad torácica simétrica y bilateral. Ruidos respiratorios disminuidos en hemitórax izquierdo, tonos cardiacos aumentados, rítmicos y sin soplos. Abdomen, pelvis y extremidades inferiores sin alteraciones. ¿Cuál de los siguientes diagnósticos se ajusta más a los hallazgos encontrados?",
+  "opciones": {
+   "A": "Cuerpo extraño en faringe.",
+   "B": "Hemoneumotórax masivo izquierdo.",
+   "C": "Neumotórax a tensión izquierdo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El hemoneumotórax masivo izquierdo explica todos los hallazgos: ruidos respiratorios disminuidos en hemitórax izquierdo por la presencia de sangre y aire que colapsan el pulmón, hipotensión y taquicardia por la pérdida hemática, y venas yugulares colapsadas por la hipovolemia asociada. La tráquea centrada y la ausencia de ingurgitación yugular descartan el neumotórax a tensión, que cursa con desviación mediastínica y aumento de presión intratorácica.",
+   "incorrectas": {
+    "A": "El cuerpo extraño en faringe causaría obstrucción de la vía aérea superior con estridor y dificultad ventilatoria, no ruidos respiratorios asimétricos ni los signos hemodinámicos descritos.",
+    "C": "El neumotórax a tensión cursa con desviación traqueal contralateral e ingurgitación yugular por aumento de la presión intratorácica, hallazgos ausentes en este caso."
+   }
+  }
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿A qué lesión se la conoce como dedo de esquiador o lesión de guardabosques?",
+  "opciones": {
+   "A": "Fractura-luxación de la base del primer metacarpiano.",
+   "B": "Fractura de Rolando.",
+   "C": "Rotura del ligamento colateral interno del primer dedo."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La rotura del ligamento colateral cubital (interno) del primer dedo se denomina 'dedo de esquiador' porque se produce al caer con el bastón en la mano generando una fuerza valguizante sobre el pulgar, y 'lesión de guardabosques' porque antiguamente los guardabosques mataban conejos torciendo el cuello con el pulgar. Es la lesión ligamentosa más frecuente de la mano y provoca inestabilidad de la articulación metacarpofalángica del primer dedo.",
+   "incorrectas": {
+    "A": "La fractura-luxación de la base del primer metacarpiano se conoce como fractura de Bennett, no como dedo de esquiador.",
+    "B": "La fractura de Rolando es una fractura conminuta intraarticular de la base del primer metacarpiano, distinta del dedo de esquiador."
+   }
+  }
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En un paciente de 6 años que consulta en Urgencias por un trauma grave tras un accidente de tráfico, señale la opción correcta:",
+  "opciones": {
+   "A": "La siguiente medida, tras verificar la permeabilidad de la vía aérea, será comprobar la perfusión tisular para descartar el shock.",
+   "B": "La colocación de una vía central se reservará en los casos de no poder tener un acceso venoso periférico u óseo.",
+   "C": "Debido al metabolismo infantil, la perfusión de sueros hipotónicos (glucosalino, glucosado al 5%…), es la indicada en la reanimación de estos pacientes."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "En el trauma pediátrico grave, el acceso venoso periférico y la vía intraósea son las opciones de primera línea para el acceso vascular; la vía central se reserva únicamente cuando no se puede obtener acceso periférico u óseo, dado que su colocación en un niño es más compleja y conlleva mayor riesgo de complicaciones. Esta secuencia de prioridades está establecida en los protocolos de soporte vital avanzado pediátrico.",
+   "incorrectas": {
+    "A": "En la evaluación primaria del politraumatizado se sigue el orden A-B-C: tras la vía aérea (A) se valora la ventilación/respiración (B) y después la circulación (C), no se pasa directamente de la vía aérea a la perfusión tisular.",
+    "C": "En la reanimación del paciente traumatizado pediátrico se utilizan sueros isotónicos (suero fisiológico, Ringer lactato); los sueros hipotónicos están contraindicados porque pueden agravar el edema cerebral y la hiponatremia."
+   }
+  }
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En ventilación mecánica invasiva, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "En Ventilación controlada (ciclada) por volumen (VC) se entrega un volumen corriente determinado en un determinado tiempo.",
+   "B": "Para el cálculo del volumen administrado utilizaremos el peso ideal del paciente en vez de su peso real.",
+   "C": "Pacientes con enfermedades obstructivas se benefician de tiempos espiratorios cortos para prevenir la autoPEEP."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 105,
+   "tema": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es incorrecta porque los pacientes con enfermedades obstructivas (EPOC, asma) necesitan tiempos espiratorios prolongados, no cortos, para permitir el vaciado adecuado del aire atrapado y así prevenir la autoPEEP o PEEP intrínseca. Un tiempo espiratorio corto empeoraría el atrapamiento aéreo y agravaría la hiperinsuflación dinámica.",
+   "incorrectas": {
+    "A": "Es correcta: en la ventilación ciclada por volumen (VCV) el respirador suministra un volumen corriente predeterminado, siendo la presión la variable que se adapta.",
+    "B": "Es correcta: el volumen corriente se calcula en función del peso ideal (6-8 ml/kg de peso ideal) porque el tamaño pulmonar correlaciona con el peso ideal y no con el peso real, especialmente relevante en pacientes obesos."
+   }
+  }
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Entre los síntomas de alarma de un paciente con lumbalgia, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Síndrome constitucional asociado.",
+   "B": "Síntomas neurológicos asociados.",
+   "C": "Dolor que desaparece en reposo."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El dolor que desaparece en reposo es una característica de la lumbalgia mecánica benigna, no un signo de alarma ('red flag'). Los signos de alarma verdaderos en la lumbalgia son aquellos que sugieren patología grave subyacente (neoplasia, infección, fractura, síndrome de cola de caballo), como el síndrome constitucional, los síntomas neurológicos progresivos, el dolor nocturno que no cede o el dolor independiente del movimiento y la postura.",
+   "incorrectas": {
+    "A": "El síndrome constitucional (pérdida de peso, anorexia, astenia) es un signo de alarma real que obliga a descartar patología neoplásica o infecciosa subyacente.",
+    "B": "Los síntomas neurológicos asociados a la lumbalgia, como debilidad, parestesias o alteraciones esfinterianas, constituyen un signo de alarma que requiere evaluación urgente por posible compresión radicular o medular."
+   }
+  }
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En una lesión medular aguda, en la búsqueda clínica del nivel lesionado, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El reflejo rotuliano corresponde al segmento espinal L1, L2.",
+   "B": "La lesión a nivel C5, C6 presenta una afectación motora de la flexión del antebrazo con abolición del reflejo tricipital.",
+   "C": "La pérdida de la dorsiflexión del tobillo corresponde a un nivel L4."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La dorsiflexión del tobillo está inervada principalmente por el nervio peroneo profundo, cuyas raíces son L4-L5; la pérdida de la dorsiflexión del tobillo indica lesión a nivel L4, lo que es anatómicamente correcto según la neurología estándar de localización medular.",
+   "incorrectas": {
+    "A": "El reflejo rotuliano (patelar) está mediado por L3-L4, no por L1-L2; L1-L2 corresponden a la región inguinal y la flexión de cadera.",
+    "B": "La lesión C5-C6 afecta la flexión del antebrazo (bíceps, braquiorradial) y abole el reflejo bicipital y braquiorradial, no el tricipital; el reflejo tricipital corresponde a C7."
+   }
+  }
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación con las fracturas de odontoides, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Las proyecciones radiológicas habituales son AP y Lateral cervical y transoral de odontoides.",
+   "B": "Se clasifican en 3 tipos: Tipo I afecta al extremo distal, Tipo II del cuello y Tipo III de la base de la odontoides.",
+   "C": "En urgencias se presentan siempre con intensa cervicalgia y focalidad neurológica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las fracturas de odontoides NO se presentan siempre con focalidad neurológica; muchos pacientes, especialmente con fracturas tipo I o tipo III, pueden consultar únicamente con cervicalgia sin ningún déficit neurológico. La ausencia de focalidad no descarta la fractura, por lo que siempre debe completarse el estudio radiológico en traumatismos cervicales de cierta energía.",
+   "incorrectas": {
+    "A": "Es correcto: las proyecciones radiológicas estándar para el estudio de la columna cervical incluyen AP, lateral y la proyección transoral (boca abierta) para visualizar la apófisis odontoides.",
+    "B": "Es correcto: la clasificación de Anderson y D'Alonzo divide las fracturas de odontoides en tipo I (extremo distal, estable), tipo II (cuello de la odontoides, más inestable y frecuente) y tipo III (base de la odontoides, que se extiende al cuerpo del axis)."
+   }
+  }
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En las lesiones de la cintura escapular y el húmero, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La mayoría de las fracturas subcapitales de húmero, sobre todo en las personas mayores, se tratan de forma conservadora.",
+   "B": "Las fracturas escapulares en su mayor porcentaje son por traumatismos leves y no suelen estar asociadas a otro tipo de lesiones.",
+   "C": "Las fracturas de clavícula de tercio proximal y del tercio medio de la clavícula suelen tener tratamiento ortopédico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las fracturas de escápula son poco frecuentes y requieren traumatismos de alta energía, por lo que se asocian con gran frecuencia a otras lesiones graves: fracturas costales, hemotórax, neumotórax, lesiones vasculares y del plexo braquial. Afirmar que son por traumatismos leves y sin lesiones asociadas es falso y puede llevar a infravalorar la gravedad del paciente.",
+   "incorrectas": {
+    "A": "Es correcto: las fracturas subcapitales de húmero, especialmente las no desplazadas o con desplazamiento mínimo en ancianos, se manejan de forma conservadora con cabestrillo e inicio precoz de rehabilitación.",
+    "C": "Es correcto: las fracturas de clavícula, tanto del tercio proximal como del tercio medio (las más frecuentes), se tratan habitualmente de forma ortopédica con vendaje en ocho o cabestrillo; la cirugía se reserva para casos seleccionados con gran desplazamiento."
+   }
+  }
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el taponamiento cardiaco por traumatismo torácico se pueden presentar los signos físicos de la Triada de Beck. Señale cuáles son:",
+  "opciones": {
+   "A": "Ingurgitación yugular, hipotensión y tonos cardiacos apagados.",
+   "B": "Hipotensión, tonos cardiacos apagados y bradicardia.",
+   "C": "Hipotensión, tonos cardiacos apagados y pulso paradójico."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La triada de Beck clásica del taponamiento cardiaco está compuesta por ingurgitación yugular (por aumento de la presión venosa central secundaria al obstáculo al llenado cardiaco), hipotensión arterial (por reducción del gasto cardiaco) y tonos cardiacos apagados (por el líquido pericárdico que amortigua los ruidos). Es un hallazgo clásico aunque solo se presenta completo en una minoría de casos.",
+   "incorrectas": {
+    "B": "La bradicardia no forma parte de la triada de Beck; el taponamiento cardiaco suele cursar con taquicardia compensadora como respuesta al bajo gasto cardiaco.",
+    "C": "El pulso paradójico (caída de la presión sistólica mayor de 10 mmHg en inspiración) es un signo asociado al taponamiento cardiaco, pero no forma parte de la triada de Beck clásica descrita por Claude Beck en 1935."
+   }
+  }
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación a las fracturas costales, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Las fracturas de las primeras costillas reflejan un traumatismo importante y se pueden asociar a lesiones de vasos principales y parénquima pulmonar.",
+   "B": "Las costillas medias (4º a 10º) son más susceptibles a sufrir lesiones por traumatismo cerrado.",
+   "C": "Para que se produzca \"el tórax inestable\" se necesita la existencia de fracturas costales en ambos hemitórax."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El tórax inestable (volet costal) se produce cuando un segmento de la pared torácica pierde la continuidad con el resto del tórax por fracturas costales en dos o más puntos de tres o más costillas contiguas en el MISMO hemitórax; no es necesario que existan fracturas en ambos hemitórax para que se produzca.",
+   "incorrectas": {
+    "A": "Es correcto: las fracturas de las costillas 1 y 2 están protegidas por la musculatura y estructuras óseas del hombro, por lo que su fractura implica un traumatismo de alta energía con riesgo de lesiones vasculares (aorta, subclavia) y pulmonares graves.",
+    "B": "Es correcto: las costillas medias (4-10) son las más expuestas biomecánicamente al traumatismo torácico cerrado y las que se fracturan con mayor frecuencia."
+   }
+  }
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Paciente de 45 años que presenta traumatismo abdominal cerrado. Se le administra durante el traslado analgésicos y 2.000 cc de suero fisiológico. Constantes a la llegada al hospital: Saturación de 02 del 96%, TA de 90/60 mm Hg, y frecuencia cardiaca de 110 lpm. Señale la decisión MÁS CORRECTA:",
+  "opciones": {
+   "A": "Seguir con la reanimación iniciada en el traslado y esperar el resultado del hemograma para tomar una decisión.",
+   "B": "Seguir con la reanimación iniciada en el traslado y solicitar un TAC abdominal.",
+   "C": "Seguir con la reanimación iniciada en el traslado y solicitar un ECO FAST."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "El protocolo FAST (Focused Assessment with Sonography in Trauma) es la herramienta de primera línea en el paciente hemodinámicamente inestable con traumatismo abdominal cerrado, ya que permite detectar líquido libre intraabdominal de forma rápida (menos de 5 minutos), a pie de cama y sin necesidad de desplazar al paciente. En un paciente inestable, el TAC es peligroso porque requiere trasladar al paciente a la sala de radiología.",
+   "incorrectas": {
+    "A": "Esperar el resultado del hemograma antes de actuar es incorrecto porque el hemograma inicial puede ser normal aunque exista hemorragia masiva activa (la hemodilución tarda tiempo en producirse), y el paciente puede deteriorarse gravemente en ese intervalo.",
+    "B": "El TAC abdominal es la exploración de referencia en el trauma abdominal del paciente estable, pero en un paciente hemodinámicamente inestable (TA 90/60, FC 110) está contraindicado como primer paso porque consume tiempo valioso y puede provocar descompensación durante el traslado."
+   }
+  }
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Las DIFERENCIAS entre el niño y el adulto en relación a un traumatismo son todas las siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "La pequeña cavidad oral y el relativo mayor tamaño de la lengua predisponen a la obstrucción de la vía aérea, especialmente en pacientes comatosos o semiconscientes.",
+   "B": "Los niños menores de 8 años de edad tienen la cabeza desproporcionadamente grande en relación con el resto de su cuerpo. Como resultado, el trauma en la cabeza es más frecuente después de una lesión violenta.",
+   "C": "Los niños toleran mejor la hipotermia debido a su pequeña área de superficie corporal en relación al peso."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es la excepción porque es incorrecta: los niños toleran PEOR la hipotermia, no mejor, ya que tienen una mayor relación superficie corporal/peso (mayor área relativa de pérdida de calor) y menor capacidad de termorregulación, lo que los hace mucho más susceptibles a la hipotermia que los adultos.",
+   "incorrectas": {
+    "A": "Es una diferencia real y correcta: la vía aérea pediátrica tiene características anatómicas (cavidad oral pequeña, lengua proporcionalmente grande, laringe más anterior y cefálica) que predisponen a la obstrucción, especialmente en estados de inconsciencia.",
+    "B": "Es una diferencia real y correcta: los niños menores de 8 años tienen la cabeza proporcionalmente más grande respecto al cuerpo, lo que hace que el traumatismo craneal sea la lesión más frecuente y grave en el politraumatismo pediátrico."
+   }
+  }
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En Urgencias ante un paciente con sospecha diagnóstica de Hemorragia Digestiva Alta (HDA), ¿cuál de estas exploraciones complementarias NO debe realizarse?",
+  "opciones": {
+   "A": "Hematimetría con fórmula y recuento leucocitario.",
+   "B": "Determinación de sangre en heces mediante tiras reactivas y reacción de las heces con agua oxigenada.",
+   "C": "Endoscopia digestiva alta preferentemente en las primeras 12 horas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La determinación de sangre en heces mediante tiras reactivas o la reacción con agua oxigenada (prueba del guayacol) no está indicada en la HDA porque es una prueba de cribado para detectar sangre oculta en heces en el contexto de un programa de detección de cáncer colorrectal; en un paciente con HDA activa y sospecha clínica evidente (hematemesis, melenas), esta prueba no aporta información útil y no debe realizarse.",
+   "incorrectas": {
+    "A": "La hematimetría con fórmula y recuento está indicada y es imprescindible para valorar el grado de anemia, guiar la transfusión y monitorizar la evolución del sangrado.",
+    "C": "La endoscopia digestiva alta en las primeras 12 horas (o antes si hay inestabilidad hemodinámica) es la exploración de elección en la HDA, ya que permite el diagnóstico etiológico y el tratamiento hemostático."
+   }
+  }
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante la sospecha de brote de una enfermedad inflamatoria intestinal (EII), ¿cuál de estas actitudes terapéuticas NO es correcta?",
+  "opciones": {
+   "A": "Ingreso hospitalario ante sospecha de EII con repercusión clínica y analítica.",
+   "B": "Dieta absoluta.",
+   "C": "La rectorragia no contraindica la anticoagulación profiláctica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La dieta absoluta no está indicada de rutina en el brote de enfermedad inflamatoria intestinal; actualmente se recomienda el soporte nutricional enteral precoz en lugar del reposo digestivo absoluto, ya que este no ha demostrado beneficio y puede empeorar el estado nutricional del paciente. La dieta absoluta solo se contempla en casos de perforación inminente, obstrucción o preparación para cirugía.",
+   "incorrectas": {
+    "A": "Es correcto: los brotes de EII con repercusión clínica (fiebre, afectación general) y analítica (elevación de reactantes de fase aguda, anemia) requieren ingreso hospitalario para tratamiento y monitorización.",
+    "C": "Es correcto: los pacientes con EII tienen mayor riesgo tromboembólico venoso; la rectorragia por sí sola no contraindica la profilaxis antitrombótica, que debe valorarse individualmente según el riesgo-beneficio."
+   }
+  }
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante un dolor abdominal agudo en urgencias, ¿cuál es la respuesta FALSA?",
+  "opciones": {
+   "A": "Una hematimetría normal no descarta por sí sola el origen quirúrgico de un dolor abdominal agudo.",
+   "B": "Ante toda epigastralgia de origen incierto debe realizarse electrocardiograma.",
+   "C": "La radiología a realizar en Urgencias UNICAMENTE es una radiografía de abdomen simple y una en bipedestación si se sospecha perforación."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "Afirmar que la radiología a realizar es ÚNICAMENTE la radiografía de abdomen simple es falso, porque en el estudio del dolor abdominal agudo en urgencias la ecografía y el TAC abdominal son herramientas radiológicas complementarias imprescindibles según la sospecha clínica; la radiografía simple tiene limitaciones diagnósticas importantes y no puede ser la única exploración radiológica disponible.",
+   "incorrectas": {
+    "A": "Es correcto: el hemograma puede ser normal en las primeras horas de un abdomen quirúrgico (apendicitis inicial, isquemia mesentérica), por lo que no puede usarse para descartar patología quirúrgica.",
+    "B": "Es correcto: la epigastralgia puede ser la manifestación de un síndrome coronario agudo (angina equivalente), por lo que el ECG es obligatorio ante toda epigastralgia de causa no clara para descartar origen cardiaco."
+   }
+  }
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estos medicamentos NO está recomendado en el tratamiento de la fisura anal?",
+  "opciones": {
+   "A": "Nitroglicerina rectal pomada.",
+   "B": "Metamizol magnésico cápsulas.",
+   "C": "Enalapril comprimidos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "El enalapril es un inhibidor de la enzima convertidora de angiotensina (IECA) indicado para el tratamiento de la hipertensión arterial y la insuficiencia cardíaca; no tiene ningún papel terapéutico en la fisura anal. Su inclusión en la lista es la opción claramente incorrecta.",
+   "incorrectas": {
+    "A": "La nitroglicerina en pomada rectal está indicada en la fisura anal porque actúa como donador de óxido nítrico, relajando el esfínter anal interno y mejorando el flujo sanguíneo local, lo que facilita la cicatrización.",
+    "B": "El metamizol magnésico está indicado como analgésico en la fisura anal para el control del dolor, siendo una opción válida dentro del arsenal terapéutico conservador de esta patología."
+   }
+  }
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estos enunciados en relación con la pancreatitis aguda es FALSO?",
+  "opciones": {
+   "A": "El dolor es el síntoma principal de la pancreatitis aguda.",
+   "B": "La hiperamilasemia es un dato patognomónico de la pancreatitis aguda.",
+   "C": "La determinación de la proteína C reactiva es útil en la evolución pronóstica de la pancreatitis aguda a partir de las 24-48 horas de evolución."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La hiperamilasemia NO es patognomónica de la pancreatitis aguda porque puede elevarse en múltiples procesos (parotiditis, perforación intestinal, isquemia mesentérica, macroamilasemia, insuficiencia renal, colecistitis, etc.). Además, la amilasa puede ser normal en hasta un 20% de los casos de pancreatitis aguda (especialmente en la pancreatitis crónica agudizada o la hipertrigliceridémica). La lipasa sérica tiene mayor especificidad diagnóstica.",
+   "incorrectas": {
+    "A": "Es correcto: el dolor abdominal, generalmente epigástrico e irradiado en cinturón hacia la espalda, es el síntoma cardinal y más frecuente de la pancreatitis aguda, presente en prácticamente todos los casos.",
+    "C": "Es correcto: la proteína C reactiva (PCR) es el marcador pronóstico más utilizado en la pancreatitis aguda; una PCR mayor de 150 mg/l a las 48 horas del inicio indica pancreatitis grave y es uno de los criterios de severidad."
+   }
+  }
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el tratamiento de la ascitis, ¿cuál de estos enunciados es VERDADERO?",
+  "opciones": {
+   "A": "En la peritonitis bacteriana espontánea está indicado la administración de aminoglucósidos.",
+   "B": "En el síndrome hepatorrenal debe suspenderse la administración de diuréticos.",
+   "C": "En ascitis a tensión cuando se realice paracentesis evacuadoras no debe superar los dos litros."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "En el síndrome hepatorrenal, los diuréticos deben suspenderse porque pueden empeorar la perfusión renal al reducir el volumen circulante efectivo; el tratamiento se basa en la expansión de volumen con albúmina y vasoconstrictores (terlipresina), además de tratar la causa desencadenante.",
+   "incorrectas": {
+    "A": "Los aminoglucósidos están contraindicados en la peritonitis bacteriana espontánea porque son nefrotóxicos y estos pacientes ya tienen un riesgo elevado de síndrome hepatorrenal; el tratamiento de elección son las cefalosporinas de tercera generación (cefotaxima) con albúmina intravenosa.",
+    "C": "En la paracentesis evacuadora por ascitis a tensión no existe un límite estricto de dos litros; habitualmente se evacúan grandes volúmenes (4-6 litros o incluso la totalidad), siempre con reposición de albúmina intravenosa (6-8 g por litro extraído) para prevenir la disfunción circulatoria postparacentesis."
+   }
+  }
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estas actitudes es INCORRECTA en el tratamiento de la hipocalcemia aguda sintomática?",
+  "opciones": {
+   "A": "Cloruro Cálcico al 10% diluido en suero glucosado al 5%.",
+   "B": "Perfusión intravenosa de Calcio y bicarbonato.",
+   "C": "Calcio por vía oral."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La perfusión simultánea de calcio y bicarbonato es incorrecta e inaceptable porque el calcio precipita en presencia de bicarbonato, formando carbonato cálcico insoluble, lo que inutiliza la solución y puede obstruir la vía venosa o provocar embolia. Ambos fármacos deben administrarse siempre por separado si son necesarios.",
+   "incorrectas": {
+    "A": "El cloruro cálcico al 10% diluido en suero glucosado es una opción correcta para el tratamiento de la hipocalcemia aguda sintomática grave; aporta calcio elemental de forma rápida por vía intravenosa.",
+    "C": "El calcio por vía oral es una opción válida en la hipocalcemia leve-moderada o como mantenimiento tras la corrección inicial, siendo una actitud terapéutica correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estas actitudes es INCORRECTA en el tratamiento de la cetoacidosis diabética?",
+  "opciones": {
+   "A": "Si la potasemia es inferior a 3,3 meq/l debe retrasarse la perfusión de Insulina hasta que el K se sitúe por encima de este nivel.",
+   "B": "Administrar bicarbonato si el ph es igual o inferior a 7.0.",
+   "C": "Administrar bolo intravenoso de Insulina Rápida en dosis de 0,30 UI/kg (Habitualmente 20 UI en adultos)."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "En el tratamiento actual de la cetoacidosis diabética NO se recomienda el bolo intravenoso inicial de insulina; las guías actuales establecen el inicio de la insulina en perfusión continua a 0,1 UI/kg/h (sin bolo previo) o de 0,14 UI/kg/h. El bolo inicial de insulina está abandonado porque puede precipitar hipopotasemia grave y empeorar el pronóstico.",
+   "incorrectas": {
+    "A": "Es correcto: si el potasio es menor de 3,3 mEq/l, la insulina debe retrasarse hasta corregir la hipopotasemia, ya que la insulina desplaza el potasio al interior celular y podría provocar hipopotasemia grave con riesgo de arritmias.",
+    "B": "Es correcto: la administración de bicarbonato está recomendada cuando el pH es igual o inferior a 7,0 (acidosis severa), aunque su uso es controvertido y limitado a casos extremos; algunos protocolos lo indican con pH menor de 6,9."
+   }
+  }
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Paciente adulto diagnosticado de monoartritis séptica, con una tinción de Gram que nos dice que estamos ante cocos grampositivos. El tratamiento antibiótico más correcto se establecería con:",
+  "opciones": {
+   "A": "Ceftriaxona más Amikacina.",
+   "B": "Cloxacilina más Tobramicina.",
+   "C": "Ciprofloxacino."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La artritis séptica por cocos grampositivos es causada en la mayoría de los casos por Staphylococcus aureus; el tratamiento de elección en ausencia de sospecha de MRSA es la cloxacilina (antiestafilocócica de primera línea) combinada con un aminoglucósido como la tobramicina para ampliar el espectro y potenciar el efecto bactericida en el espacio articular.",
+   "incorrectas": {
+    "A": "La ceftriaxona con amikacina es una combinación adecuada para infecciones por gramnegativos (artritis gonocócica u otras), no para cocos grampositivos como Staphylococcus aureus.",
+    "C": "El ciprofloxacino es una fluoroquinolona con actividad predominante frente a gramnegativos; aunque tiene cierta actividad frente a grampositivos, no es el tratamiento de elección para la artritis séptica estafilocócica."
+   }
+  }
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Sobre la hemofilia, NO es cierto que:",
+  "opciones": {
+   "A": "El cáncer es una causa común de mortalidad en pacientes de edad avanzada con hemofilia.",
+   "B": "La mortalidad por arteriopatía coronaria es más alta en pacientes con hemofilia que en la población general de varones.",
+   "C": "La hemofilia A representa el 80% de los casos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La mortalidad por arteriopatía coronaria es MENOR en pacientes con hemofilia que en la población general masculina, no mayor; el déficit de factores de coagulación les confiere cierta protección frente a la trombosis coronaria y el infarto de miocardio, lo que ha sido documentado en estudios epidemiológicos comparativos.",
+   "incorrectas": {
+    "A": "Es cierto: el cáncer (especialmente hepatocarcinoma relacionado con la infección por VHC o VIH adquiridas por transfusiones previas) es actualmente una causa importante de mortalidad en pacientes mayores con hemofilia.",
+    "C": "Es cierto: la hemofilia A (déficit de factor VIII) representa aproximadamente el 80-85% de todos los casos de hemofilia, mientras que la hemofilia B (déficit de factor IX) supone el 15-20% restante."
+   }
+  }
+ }
+]

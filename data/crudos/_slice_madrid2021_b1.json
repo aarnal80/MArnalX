@@ -1,0 +1,242 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Ante la sospecha de isquemia mesentérica aguda, ¿cuál de las siguientes pruebas presenta una mayor sensibilidad y especificidad diagnóstica?",
+  "opciones": {
+   "A": "Ecografía doppler de troncos mesentéricos",
+   "B": "TAC abdominal en fase arterial y venosa",
+   "C": "PET-TAC abdominal",
+   "D": "Ecografía intestinal"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta correcta en relación a la DM tipo 2:",
+  "opciones": {
+   "A": "En ausencia de hiperglucemia inequívoca (mayor de 300 mg/dl) es preciso un segundo test confirmatorio.",
+   "B": "Se recomienda cribado de DM en pacientes en tratamiento con estatinas, tiazidas y antipsicóticos de segunda generación.",
+   "C": "Se recomienda realizar cribado de fibrosis hepática en todas las personas con DM tipo 2.",
+   "D": "Se recomienda realizar densitometría a las personas con DM tipo 2 mayores de 60 años."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 70 años que consulta por temblor en reposo, y dificultad para abrocharse los botones de la ropa y atarse los cordones de los zapatos. En la exploración se objetiva rigidez en rueda dentada. Señale la correcta",
+  "opciones": {
+   "A": "El tratamiento de elección es levodopa-carbidopa a dosis altas desde el inicio.",
+   "B": "El temblor es el síntoma que experimentará un beneficio rápido con el inicio de levodopa, incluso con dosis bajas.",
+   "C": "Los efectos secundarios más graves de la levodopa incluyen confusión, alucinaciones, delirios, agitación, psicosis e hipotensión ortostática.",
+   "D": "Si no hay respuesta clínica, se recomienda suspender bruscamente la levodopa, para evitar acumular efectos secundarios."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 48 años que acude por anemia ferropénica, tiene historia de epíxtasis de repetición, telangiectasias en mucosa oral y en el tracto gastrointestinal, no tiene familiares con manifestaciones similares. El estudio genético muestra una mutación del gen ENG en el cromosoma 9. Respecto a la entidad que padece la paciente estas afirmaciones son correctas excepto una, señálela.",
+  "opciones": {
+   "A": "La herencia es autosómica dominante",
+   "B": "Se recomienda antibioterapia profiláctica en manipulaciones dentales",
+   "C": "Es esperable una mayor prevalencia de migraña",
+   "D": "Por su alto riesgo de sangrado la anticoagulación está contraindicada"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la INCORRECTA en relación con el síndrome TRAPS (TNF receptor-associated periodic syndrome)",
+  "opciones": {
+   "A": "Los pacientes afectados a menudo tienen inflamación ocular (conjuntivitis o edema periorbitario) y mialgia migratoria característica con eritema doloroso en la región afectada",
+   "B": "Los episodios de TRAPS suelen comenzar en la infancia",
+   "C": "Los anticuerpos monoclonales anti-TNF son útiles para tratar las crisis de TRAPS",
+   "D": "El canakinumab es un fármaco aprobado por la FDA para el tratamiento de TRAPS"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un varón de 30 años acude a consulta porque ha notado aumento de ambas mamas en los últimos meses y disminución de la líbido. La exploración física confirma ginecomastia bilateral y la ecografía testicular muestra una masa en el testículo derecho. Se sospecha un tumor testicular con un síndrome paraneoplásico. ¿Qué hormona es la causa más común de ginecomastia en tumores testiculares?",
+  "opciones": {
+   "A": "hCG (gonadotropina coriónica humana)",
+   "B": "FSH (hormona foliculoestimulante)",
+   "C": "Testosterona",
+   "D": "LH (hormona luteinizante)"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál es el mecanismo de acción del vutrisirán, un nuevo tratamiento para la amiloidosis ATTR?",
+  "opciones": {
+   "A": "Inhibición de la síntesis de proteínas amiloidogénicas",
+   "B": "Reducción de la producción de transtiretina mediante ARN interferente",
+   "C": "Aumento de la excreción renal de amiloide",
+   "D": "Estabilización de la estructura de transtiretina"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 60 años que acude por tos de un mes de evolución, junto con disnea de esfuerzo y fiebre en los últimos días, se realiza una rx tórax donde se objetivan unos infiltrados parcheados, se realiza TAC torácico con opacidades por consolidación subpleurales y opacidades en vidrio esmerilado, refieren que se observa el signo del atolón. ¿Cual es el diagnóstico más probable de su paciente?",
+  "opciones": {
+   "A": "Fibrosis pulmonar idiopática.",
+   "B": "Neumonia intersticial idiopática.",
+   "C": "Sarcoidosis.",
+   "D": "Neumonía organizada criptogenética."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de estos fármacos se asocia con menos frecuencia al desarrollo de síndrome confusional?",
+  "opciones": {
+   "A": "Benzodiacepinas",
+   "B": "Diuréticos de asa",
+   "C": "Antiespasmódicos",
+   "D": "Inhibidores de la bomba de protones"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta INCORRECTA en el diagnóstico de enfermedad coronaria crónica",
+  "opciones": {
+   "A": "Se basa en un modelo Bayesiano",
+   "B": "En pacientes con probabilidad muy elevada de enfermedad coronaria se debe realizar un TAC coronario",
+   "C": "Se tiene en cuenta la presentación clínica y los factores de riesgo previos",
+   "D": "El electrocardiograma y el ecocardiograma pueden ajustar la probabilidad pre-prueba"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "A su paciente mujer de 62 años le han diagnosticado de fibrosis pulmonar idiopática, de entre las 4 siguientes afirmaciones cual es la única correcta que le puede decir?",
+  "opciones": {
+   "A": "Que la fibrosis pulmonar idiopática es, de las enfermedades intersticiales de causa desconocida, la más común y que es más frecuente en mujeres que en varones en torno a los 60-70 años.",
+   "B": "Que el tratamiento actual se basa en antifibróticos e inmunodepresores, a pesar de que ninguno de estos han conseguido mejorar la supervivencia.",
+   "C": "Que en el TAC se ve reticulación subpleural de predominio superior con cambios en panal de abejas y bronquiectasias por tracción.",
+   "D": "Que la progresión de la enfermedad es variable, con una supervivencia estimada del 50% en 3-5 años."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Paciente de 73 años diagnosticado de leucemia linfática crónica hace 6 años con enfermedad estable empeora clínicamente con astenia, sudoración nocturna y fiebre, así como aumento del tamaño de las adenopatías en una zona previamente afectada. Se realiza una biopsia en la que lo más probable es encontrar",
+  "opciones": {
+   "A": "Un linfoma linfoplasmocítico",
+   "B": "Un linfoma difuso de células B grandes",
+   "C": "Un linfoma folicular",
+   "D": "Un linfoma de la zona marginal"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 75 años, fumador, diagnosticado de carcinoma de próstata sin enfermedad metastásica, en tratamiento con antiandrógenos. Tiene densidad mineral ósea con T-2,5. Además de calcio y vitamina D ¿Qué tratamiento le propone?",
+  "opciones": {
+   "A": "Únicamente un programa de ejercicio físico estructurado",
+   "B": "Alendronato",
+   "C": "Denosumab",
+   "D": "Teriparatida"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En la hemorragia asociada al uso de inhibidores del factor Xa, cuál de esas afirmaciones es falsa",
+  "opciones": {
+   "A": "La dosis de andexanet depende del tiempo transcurrido desde la última dosis de anticoagulante",
+   "B": "La diálisis es de utilidad para eliminar el inhibidor del factor Xa",
+   "C": "Está indicada la administración de ácido tranexámico",
+   "D": "El uso de andexanet lleva consigo riesgo de trombosis"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de los siguientes subtipos de VIH-1 es responsable de la mayoría de las infecciones por VIH a nivel mundial?",
+  "opciones": {
+   "A": "Subtipo B",
+   "B": "Subtipo C",
+   "C": "Subtipo A",
+   "D": "CRF02_AG"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Paciente de 52 años de edad que acude a urgencias por dolor abdominal. Se realiza analítica en la que presenta leucocitosis, aumento de lipasa y de PCR. Se realiza una ecografía y se objetiva colelitiasis de 4 mm. Se diagnostica de pancreatitis y se ingresa. Dígame que medidas le parecen mejor en el manejo inicial:",
+  "opciones": {
+   "A": "Dieta absoluta, 3000 de ringer lactado en 24 horas, omeprazol intravenoso",
+   "B": "Dejar al paciente en ayunas, pautar un bolo con ringer lactado a razón de 15 a 20 mL/kg de peso, seguidos por 2-3 mL/kg de peso por hora (200 a 250 mL/h) y pautar analgesia.",
+   "C": "Dieta, sueros razón de 25-30 ml/kg/hora las primeras 24 horas y analgesia",
+   "D": "Es necesaria una estrategia de reanimación particularizada con medición del valor amilasa y BUN cada 8 a 12 h para asegurar la adecuación de la fluidoterapia y medir en forma seriada la respuesta al tratamiento."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En el diagnóstico de la pancreatitis señale la respuesta correcta",
+  "opciones": {
+   "A": "Las concentraciones de amilasa y lipasa séricas que aumentan tres veces o más en relación con los datos normales",
+   "B": "Existe correlación entre la intensidad de la pancreatitis y el grado de incremento de los niveles de lipasa y de amilasa séricas",
+   "C": "Las concentraciones de amilasa pancreática pueden permanecer en puntos altos por siete a 14 días",
+   "D": "La concentración sérica de lipasa algunas veces es muy reducida cuando existe hipertrigliceridemia pronunciada"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta CORRECTA en relación con los pacientes con hipertensión",
+  "opciones": {
+   "A": "Una presión arterial repetida de 140/90 mmHg en pacientes con bajo riesgo cardiovascular justifica el inicio de medidas higiénico dietéticas y reevaluación a los 3 meses",
+   "B": "Los pacientes con HTA enmascarada tienen un mayor riesgo cardiovascular que la población general",
+   "C": "Se considera presión arterial elevada si la TA es > 130/80 mmHg",
+   "D": "Está indicado realizar un ecocardiograma de forma sistemática en todos los pacientes"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Con respecto a los efectos del consumo crónico de alcohol sobre órganos y sistemas cual es la respuesta falsa:",
+  "opciones": {
+   "A": "En personas de cualquier género un consumo de 4 bebidas alcohólicas al dia aumentan tres veces el riesgo de sufrir neoplasias malignas de boca y esófago",
+   "B": "La frecuencia de la pancreatitis aguda es casi siete veces mayor en alcohólicos que en la población general",
+   "C": "El alcohol es una de las causas más frecuentes de gastritis hemorrágica",
+   "D": "Las personas con un consumo excesivo de alcohol tienen un aumento significativo en el riesgo de arteriopatía coronaria"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En relación a la realización de la valoración integral no es correcto:",
+  "opciones": {
+   "A": "Explora diferentes dimensiones: funcional, psicoafectiva y nutricional entre otras.",
+   "B": "Permite crear un plan terapéutico que aborde cada una de las esferas exploradas.",
+   "C": "Se ha demostrado que mejora el pronóstico y la calidad de vida de los pacientes.",
+   "D": "No incluye la valoración social y la sobrecarga del cuidador, ya que eso es competencia de los trabajadores sociales."
+  },
+  "respuesta_correcta": "D"
+ }
+]

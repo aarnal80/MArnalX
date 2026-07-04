@@ -1,0 +1,289 @@
+[
+ {
+  "id_examen": 155,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente sufre un sincope tras realizar un masaje del seno carotideo, cuál de los siguientes mecanismos puede ser la causa:",
+  "opciones": {
+   "A": "Cardioinhibitorio",
+   "B": "Vasodepresor",
+   "C": "Cerebral por disminución de flujo",
+   "D": "Cualquiera de los anteriores"
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema": 51,
+   "titulo": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "El síncope por hipersensibilidad del seno carotídeo puede producirse por tres mecanismos: cardioinhibitorio (bradicardia/asistolia por aumento del tono vagal), vasodepresor (caída de la resistencia periférica con hipotensión) o mixto. También existe el tipo cerebral puro (muy raro). La respuesta correcta debería ser D (cualquiera de los anteriores), ya que los tres mecanismos pueden estar implicados. La clave señala B (vasodepresor), pero el cardioinhibitorio es el mecanismo más frecuente. La respuesta más completa y correcta es D. Probable error en la clave oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 156,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes hallazgos NO se considera característico de cólico renoureteral:",
+  "opciones": {
+   "A": "El dolor se modifica con el reposo",
+   "B": "Suele estar presente microhematuria",
+   "C": "La presencia de nauseas es frecuente",
+   "D": "El dolor se irradia a genitales"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema": 76,
+   "titulo": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La característica que NO es típica del cólico renoureteral es la A: el dolor NO se modifica con el reposo ni con los cambios posturales (el paciente está muy agitado, incapaz de encontrar posición antiálgica). Esta característica lo diferencia del dolor de origen musculoesquelético. La microhematuria está presente en el 80-90% de los casos (B: característica). Las náuseas y vómitos son frecuentes por irritación del plexo celíaco (C: característica). El dolor irradia a genitales y cara interna del muslo (D: característica). La clave señala D, pero la respuesta correcta es A.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 157,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a los incidentes NRBQ, es cierto que:",
+  "opciones": {
+   "A": "No se contemplan en los planes de emergencias sanitarias",
+   "B": "Es preciso disponer de EPI específico para iniciar la atención a las victimas",
+   "C": "El primer interviniente en el rescate suele ser un sanitario cualificado",
+   "D": "Suele descontaminarse a las víctimas antes de la atención sanitaria, por lo que no son necesarios los EPIs"
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema": 107,
+   "titulo": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "En los incidentes NRBQ (Nuclear, Radiológico, Biológico, Químico): B es correcta: se requiere EPI específico (traje NRBQ, protección respiratoria) antes de acceder a la zona caliente para atender a las víctimas. Los incidentes NRBQ sí están contemplados en los planes de emergencias sanitarias (A: falsa). El primer interviniente habitualmente es un bombero o policía, no un sanitario (C: falsa). La descontaminación se realiza antes de la atención médica definitiva, pero los EPIs siempre son necesarios para el personal sanitario (D: falsa). B es la respuesta correcta.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 158,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes características permite diferenciar entre obstrucción intestinal mecánica simple de la que cursa con estrangulación?",
+  "opciones": {
+   "A": "La presencia o ausencia de ruidos intestinales.",
+   "B": "La presencia o ausencia de emisión de heces.",
+   "C": "Mayor o menor grado de distensión abdominal.",
+   "D": "La existencia o ausencia de compromiso vascular."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema": 64,
+   "titulo": "Oclusión y suboclusión intestinal. Apendicitis aguda. Diagnóstico y manejo inicial.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La diferencia fundamental entre la oclusión intestinal mecánica simple y la que cursa con estrangulación es precisamente el compromiso vascular (D): en la estrangulación existe afectación del aporte sanguíneo a la pared intestinal, lo que conlleva isquemia, necrosis y riesgo de perforación. Clínicamente, la estrangulación se sospecha por dolor continuo (no cólico), fiebre, signos peritoneales y deterioro general. Los ruidos intestinales, la emisión de heces y la distensión pueden estar presentes en ambos tipos. D es la respuesta correcta y coincide con la clave del examen.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 159,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La crisis addisoniana se caracteriza por todo, EXCEPTO:",
+  "opciones": {
+   "A": "Hipotensión arterial mantenida",
+   "B": "Afectación gastrointestinal",
+   "C": "Astenia y debilidad",
+   "D": "Hipotermia"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema": 73,
+   "titulo": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La crisis addisoniana (insuficiencia suprarrenal aguda) se caracteriza por: hipotensión grave o shock (A: característica), síntomas gastrointestinales como náuseas, vómitos y dolor abdominal (B: característica), astenia y debilidad profundas (C: característica), hiponatremia, hiperpotasemia, hipoglucemia, y fiebre (no hipotermia). La HIPOTERMIA (D) es característica de la crisis mixedematosa (hipotiroidismo grave), no de la crisis addisoniana. El tratamiento incluye hidrocortisona IV, suero salino y glucosa. D es la respuesta EXCEPTO correcta.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 160,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Es FALSO en la intoxicación aguda por Antidepresivos Tricíclicos (ADT):",
+  "opciones": {
+   "A": "El riesgo de cardiotoxicidad no se relaciona con los valores plasmáticos de ADT",
+   "B": "Las manifestaciones clínicas derivan de sus propiedades anticolinérgicas",
+   "C": "En pacientes asintomáticos, que han ingerido cantidades insignificantes, no es necesario ingreso ni en área de observación",
+   "D": "Siempre que el paciente sea atendido dentro de las primeras 12h desde la ingestión del fármaco se procede al lavado orogástrico"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema": 101,
+   "titulo": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la D: el lavado orogástrico NO se realiza siempre en las primeras 12 horas; se considera solo si la ingesta fue muy reciente (< 1-2 horas), masiva y el paciente está protegido (intubado si bajo nivel de conciencia). El riesgo de cardiotoxicidad de los ADT sí se relaciona con niveles plasmáticos (A también es cuestionable, pero la clave señala D). Las manifestaciones clínicas incluyen efectos anticolinérgicos (taquicardia, midriasis, retención urinaria, íleo) y efectos cardiotóxicos (B: verdadera). Los pacientes con ingesta de ADT deben monitorizarse en observación aunque estén asintomáticos inicialmente (C: correcta en la práctica).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 161,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes patologías oftalmológicas cursan con visión normal?",
+  "opciones": {
+   "A": "Uveítis",
+   "B": "Queratitis",
+   "C": "Glaucoma agudo",
+   "D": "Hemorragia subconjuntival"
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema": 91,
+   "titulo": "Exploración oftalmológica básica. Diagnóstico diferencial del ojo rojo. Pérdida brusca de visión. Valoración, diagnóstico y tratamiento en urgencias.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "La hemorragia subconjuntival (D) es la patología que cursa habitualmente con visión NORMAL, ya que es una colección de sangre bajo la conjuntiva sin afectar las estructuras que intervienen en la visión. La uveítis (A) puede afectar la visión. La queratitis (B) cursa con dolor ocular intenso y puede afectar la visión por opacificación corneal. El glaucoma agudo (C) produce pérdida brusca de visión con dolor y halos. La clave señala B (queratitis), pero la hemorragia subconjuntival (D) es la que clásicamente cursa con visión normal. Probable error en la clave.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 162,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el tratamiento del ataque agudo de angioedema hereditario, se utiliza:",
+  "opciones": {
+   "A": "El icatibant (antagonista de la bradicinina)",
+   "B": "C1 inhibidor humano",
+   "C": "Plasma leucodepleccionado",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema": 102,
+   "titulo": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "En el tratamiento del ataque agudo de angioedema hereditario (AEH) por déficit de inhibidor de C1 esterasa se dispone de: concentrado de inhibidor de C1 humano (B), icatibant (antagonista del receptor B2 de bradicinina) (A) y ácido tranexámico o antifibrinolíticos. El plasma fresco congelado (no leucodepleccionado) también puede usarse como alternativa. La clave señala B como la única correcta, pero icatibant (A) también está aprobado para AEH. La respuesta más completa sería D (todas correctas), aunque el plasma leucodepleccionado no es la formulación estándar. B es la opción más directamente correcta.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 163,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes causas de monoartritis agudas y poliartritis en más frecuente en mujeres?:",
+  "opciones": {
+   "A": "Gota",
+   "B": "Espondilitis anquilosante",
+   "C": "Lupus eritematoso sistémico",
+   "D": "Enfermedad de Reiter"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema": 87,
+   "titulo": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "El lupus eritematoso sistémico (LES) (C) es la enfermedad autoinmune sistémica más frecuente en mujeres (relación mujer:hombre de 9:1), y causa poliartritis frecuentemente. La gota (A) es mucho más frecuente en hombres. La espondilitis anquilosante (B) predomina en hombres jóvenes. La enfermedad de Reiter (artritis reactiva) (D) es más frecuente en hombres. La clave señala D, lo que es incorrecto; la respuesta correcta es C (LES). Probable error significativo en la clave oficial del examen.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 164,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a los tipos de cierre de una herida, ¿cuándo no realizaremos un cierre por primera intención?",
+  "opciones": {
+   "A": "Ausencia de infección de la herida",
+   "B": "Hemostasia perfecta",
+   "C": "Afrontamiento correcto de sus bordes",
+   "D": "Cuando exista pérdida de sustancia"
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema": 89,
+   "titulo": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "El cierre por primera intención (cierre primario) se realiza cuando se cumplen las condiciones ideales: ausencia de infección (A), hemostasia perfecta (B), afrontamiento correcto de bordes (C) y sin pérdida de sustancia significativa. Cuando existe pérdida de sustancia (D), no es posible el cierre primario y se opta por cierre por segunda intención (cicatrización espontánea), cierre primario diferido o uso de injertos/colgajos. También están contraindicadas las heridas muy contaminadas, las mordeduras y las heridas de más de 6-8 horas en extremidades o más de 24 horas en cara. D es la respuesta correcta y coincide con la clave.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 165,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Si durante una exploración de rodilla, nos encontramos con un Lachman positivo, es muy probable que el paciente presente:",
+  "opciones": {
+   "A": "Esguince de grado II del ligamento lateral interno de la rodilla",
+   "B": "Rotura del ligamento cruzado anterior de la rodilla",
+   "C": "Rotura del ligamento cruzado posterior de la rodilla",
+   "D": "Sospecha de patología meniscal de la rodilla"
+  },
+  "respuesta_correcta": null,
+  "incorrectas": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema": 87,
+   "titulo": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias.",
+   "grupo": "especifico"
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada. El test de Lachman es la prueba más sensible y específica para detectar la rotura del ligamento cruzado anterior (LCA) de la rodilla. Se realiza con la rodilla en flexión de 20-30°, estabilizando el fémur y traccionando la tibia anteriormente; un desplazamiento anterior excesivo con tope blando es positivo e indica rotura del LCA (respuesta clínica: B). La pregunta ha sido anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ }
+]

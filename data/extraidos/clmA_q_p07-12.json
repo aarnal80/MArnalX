@@ -1,0 +1,392 @@
+[
+  {
+    "n": 17,
+    "enunciado": "¿Cuál de los siguientes parámetros NO se incluye en la escala de Wells para trombosis venosa profunda?",
+    "opciones": {
+      "A": "Obesidad.",
+      "B": "Cáncer activo.",
+      "C": "Dolor en la región superior de la extremidad.",
+      "D": "Ninguna es incorrecta de más de 10 días o cirugía mayor en el último mes."
+    }
+  },
+  {
+    "n": 18,
+    "enunciado": "En el análisis del líquido pleural en la diferencia entre trasudado y exudado. Para ello se utilizan los criterios de Light. ¿Cuándo consideramos que el líquido pleural es un exudado?",
+    "opciones": {
+      "A": "Cociente LDH (Líquido pleural) y suero mayor de 0,5.",
+      "B": "LDH del LP superior a 2/3 del límite superior de la normalidad de la LDH sérica.",
+      "C": "Cociente proteínas LP y suero menor superior a 0,5.",
+      "D": "Ninguno es criterio de Light."
+    }
+  },
+  {
+    "n": 19,
+    "enunciado": "Dentro del material de urgencias, todos son los totales, EXCEPTO:",
+    "opciones": {
+      "A": "La causa más frecuente son las urgencias y dentro de las urgencias totales.",
+      "B": "Constituyen el 20% de las urgencias totales.",
+      "C": "La mayor parte de las urgencias psiquiátricas, sin orientación diagnóstica, debemos estar relacionadas con medicamentos, haloperidol bajo una evaluación que nos resulte.",
+      "D": "La probabilidad de que una evaluación bajo una evaluación en una evaluación que resulte de una unidad de síndromes o en una unidad de observación de urgencias."
+    }
+  },
+  {
+    "n": 20,
+    "enunciado": "Atendemos a un paciente de 76 años, con antecedentes de mareos no filiados, por haber sufrido tres días antes un síncope mientras esperaba en la cola de un supermercado, hasta hoy se había negado a venir a urgencias. Los signos vitales y la exploración física son normales. La analítica, incluyendo marcadores cardíacos, tampoco está alterada, y se obtiene el electrocardiograma que se muestra. Entre las siguientes posibilidades de actuación, ¿cuál le parece más acertada?",
+    "opciones": {
+      "A": "Consulta con cardiología para valorar su ingreso, estudio electrofisiológico y probable marcapasos.",
+      "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa de cardiología.",
+      "C": "Aunque la exploración neurológica sea normal, se debe consultar con neurología por posible crisis epiléptica.",
+      "D": "Probablemente se trate de un síncope vasovagal ortostático por haber ocurrido con el paciente en bipedestación."
+    }
+  },
+  {
+    "n": 21,
+    "enunciado": "En las Meningitis Agudas Bacterianas, el tratamiento empírico de elección para un adulto entre 18-50 años, sin factores de riesgo, será (señale la correcta):",
+    "opciones": {
+      "A": "Cefotaxima 2g/8h.",
+      "B": "Ampicilina 2g/4h.",
+      "C": "Ceftriaxona 2g/12h.",
+      "D": "Vancomicina 15mg/kg/8h."
+    }
+  },
+  {
+    "n": 22,
+    "enunciado": "Señale la afirmación correcta:",
+    "opciones": {
+      "A": "En los pacientes con sondaje vesical permanente deberemos realizar urocultivo con cada cambio de sonda.",
+      "B": "En los pacientes con sondaje permanente, la sonda se debe cambiar cada mes en caso de ser de látex y cada dos meses si es de silicona.",
+      "C": "Debemos administrar profilaxis antibiótica con cada cambio de sonda.",
+      "D": "Debemos administrar profilaxis antibiótica con sondas fabricadas de diferente material."
+    }
+  },
+  {
+    "n": 23,
+    "enunciado": "¿Qué NO se considera generalmente una infección u afección oportunista común en pacientes con VIH / SIDA?",
+    "opciones": {
+      "A": "Neumonía por Pneumocystis.",
+      "B": "Toxoplasmosis cerebral.",
+      "C": "Criptococosis extrapulmonar.",
+      "D": "Infección por Norovirus gastrointestinal."
+    }
+  },
+  {
+    "n": 24,
+    "enunciado": "Recientemente se ha publicado la escala de puntuación SMFB-Toledo (Modelo de 5 variables Predictivas de Bacteriemia de Toledo). ¿Cuál de estas variables no está incluida en dicha escala?",
+    "opciones": {
+      "A": "T > 38,5ºC.",
+      "B": "Leucocitosis > 12.000/mm3.",
+      "C": "Procalcitonina > 0,51 ng/ml.",
+      "D": "Proadrenomedulina > 1,5 nmol/L."
+    }
+  },
+  {
+    "n": 25,
+    "enunciado": "En la valoración del paciente con sospecha de sepsis se utilizan los criterios del Quick-Sepsis Organ Failure Assessment (qSOFA). Señale la respuesta correcta que los incluye:",
+    "opciones": {
+      "A": "Frecuencia respiratoria ≥ 30 respiraciones por minuto. Presión arterial sistólica ≤ 90 mmHg y alteración de la consciencia con una puntuación ≤ 14 en la escala de coma de Glasgow.",
+      "B": "Frecuencia respiratoria ≥ 20 respiraciones por minuto. Presión arterial sistólica ≤ 100 mmHg y alteración de la consciencia con una puntuación < 14 en la escala de coma de Glasgow.",
+      "C": "Frecuencia respiratoria ≥ 22 respiraciones por minuto. Presión arterial sistólica ≤ 100 mmHg y alteración de la consciencia con una puntuación < 15 en la escala de coma de Glasgow.",
+      "D": "Frecuencia respiratoria ≥ 20 respiraciones por minuto. Presión arterial sistólica ≤ 90 mmHg y alteración de la consciencia con una puntuación < 14 en la escala de coma de Glasgow."
+    }
+  },
+  {
+    "n": 26,
+    "enunciado": "De conformidad con el artículo 31.2 la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud en Castilla – La Mancha, la historia clínica se conservará como mínimo durante:",
+    "opciones": {
+      "A": "Un plazo de 5 años, contados desde la fecha del último proceso asistencial.",
+      "B": "Un plazo de 3 años, contados desde la fecha del último proceso asistencial.",
+      "C": "Un plazo de 10 años, contados desde la fecha del último proceso asistencial.",
+      "D": "Un plazo de 7 años, contados desde la fecha del alta del último proceso asistencial."
+    }
+  },
+  {
+    "n": 27,
+    "enunciado": "En caso de valorar un paciente, específique cuándo puede aparecer una punción lumbar de urgencia en TAC previo:",
+    "opciones": {
+      "A": "Cefalea en racimo.",
+      "B": "Cefalea asociada a papiledema.",
+      "C": "Cefalea que no mejora con analgesia.",
+      "D": "Cefalea en esfuerzo por enfermedad sistémica."
+    }
+  },
+  {
+    "n": 28,
+    "enunciado": "En la valoración del riesgo de sepsis secundaria, es importante establecer de forma rápida el riesgo de cefalea secundaria, descartando la existencia de los conocidos criterios de alarma para las cefaleas con Plasma Fresco congelado. Todos los siguientes, menos uno, deberán considerarse criterios de alarma. Señale el que no lo es:",
+    "opciones": {
+      "A": "Cefalea que aparece en paciente mayor de 50 años.",
+      "B": "Cefalea de trueno (cefalea intensa con un acmé alcanzado durante el primer minuto).",
+      "C": "Cefaleas de tronco (cefalea intensa con un acmé alcanzado durante el primer minuto).",
+      "D": "Cefaleas de tipo episódico con aura típica sin cefalea."
+    }
+  },
+  {
+    "n": 29,
+    "enunciado": "Un paciente de 83 años consulta en el servicio de Urgencias por diarrea persistente con productos patológicos, acompañada de dolor abdominal y dolor abdominal tras haber sido hospitalizado por diarrea de cinco días. Ha recibido tratamiento con Cefuroxima 125 mg/8h 5 días IV durante 10 días y sospechou diarrea producida por Clostridium difficile, que se confirma con la presencia de su toxina en coprocultivo. Señale la correcta:",
+    "opciones": {
+      "A": "Tratamiento con vancomicina 125 mg/8h vo si es posible) Antibióticos, sueroterapia oral, dieta astringente y aislamiento de contacto (Probióticos, sueroterapia oral, dieta astringente si no es posible la vía oral.",
+      "B": "Tratamiento con Metronidazol 500 mg/8h durante 10 días.",
+      "C": "Tratamiento con Dioxicina al intravenosa en forma de enema o transplante fecal.",
+      "D": "Preparados coloniales de microbiota en forma de enema o transplante fecal."
+    }
+  },
+  {
+    "n": 30,
+    "enunciado": "En el tratamiento del paciente con Antagonistas de la Vit. K (acenocumarol) que presenta un sangrado con riesgo vital (señale la falsa):",
+    "opciones": {
+      "A": "Debe ser tratado principalmente con vit. K por vía intravenosa.",
+      "B": "Los ventrílocuos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberán considerarse las indicaciones de la Plasma Fresco Congelado (PFC).",
+      "C": "La excisión quirúrgica de la hemorragia intraluminal se indicará ante la existencia de sangrados puntualmente.",
+      "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento específico además de las medidas higieno-dietéticas habituales."
+    }
+  },
+  {
+    "n": 31,
+    "enunciado": "De acuerdo con las pautas de síncope de la ESC (European Society of Cardiology) de 2018, ¿cuál de las siguientes afirmaciones es precisa sobre el manejo del síncope en el servicio de urgencias?",
+    "opciones": {
+      "A": "Los pacientes que no tienen características de alto riesgo ni de bajo riesgo asociadas con el síncope deben ser hospitalizados como medida de precaución.",
+      "B": "Las puntuaciones de estratificación del riesgo se pueden utilizar solas para realizar la estratificación del riesgo de síncope en el servicio de urgencias.",
+      "C": "El presíncope debe tratarse con la misma precisión que el síncope en el servicio de urgencias, ya que comparte el mismo pronóstico.",
+      "D": "Los pacientes con características de bajo riesgo aún deben recibir una evaluación inmediata en una unidad de síncope o en una unidad de observación de urgencias."
+    }
+  },
+  {
+    "n": 32,
+    "enunciado": "Atendemos a un paciente de 76 años, diagnosticado de cáncer microcítico de pulmón se realiza una analítica en urgencias que muestra un calcio plasmático de 14,2 mg/dl, (se confirma este resultado con una nueva muestra analítica y comprende al calcio con la concentración de albúmina). El paciente presenta mal estado general, debilidad muscular y alteración del comportamiento. Señale la incorrecta:",
+    "opciones": {
+      "A": "Prolongación del intervalo QT.",
+      "B": "Confusión y alteraciones del comportamiento.",
+      "C": "Debilidad muscular.",
+      "D": "Anorexia."
+    }
+  },
+  {
+    "n": 33,
+    "enunciado": "Por regla general en una Hemorragia Digestiva Alta, será necesario la transfusión de sangre cuando la hemoglobina esté por debajo de:",
+    "opciones": {
+      "A": "8 gramos / dl.",
+      "B": "10 gramos / dl.",
+      "C": "11 gramos / dl.",
+      "D": "Ninguna de las anteriores."
+    }
+  },
+  {
+    "n": 34,
+    "enunciado": "En la exploración abdominal de los pacientes con pancreatitis aguda (PA) en característica la desproporción entre la intensidad del dolor y los hallazgos. Aunque son excepcionales los siguientes hallazgos, los 'signos de Cullen y de Grey Turner' orientan a un mal pronóstico en la PA. Respectivamente, se trata de la aparición de:",
+    "opciones": {
+      "A": "Equimosis en el área periumbilical y en los flancos.",
+      "B": "Equimosis en los flancos y en el nivel lumbar.",
+      "C": "Equimosis en el área periumbilical y en el nivel lumbar.",
+      "D": "Equimosis en los flancos derecho e izquierdo."
+    }
+  },
+  {
+    "n": 35,
+    "enunciado": "Un paciente de 83 años consulta en el servicio de Urgencias por diarrea persistente con productos patológicos, acompañada de alto hospital por diarrea de cinco días. Ha recibido tratamiento con Cefuroxima 125 mg/8h 5 días. Se recibe tratamiento con vancomicina 125 mg/8h (si es posible) Antibióticos, sueroterapia oral, dieta astringente y aislamiento de contacto.",
+    "opciones": {
+      "A": "Ha mostrado más robusto que es la ECG (Escala de Coma de Glasgow) en la predicción de mortalidad a los 30 días en pacientes neuroquirúrgicos con consciencia gravemente dañada.",
+      "B": "En dicha escala se puntúan la respuesta motora, reflejo de tronco y respiración entre otros.",
+      "C": "En dicha escala se puntúan la respuesta motora, reflejo de tronco y respiración entre otros.",
+      "D": "Esta escala presenta buena puntuación en dicha escala de 10."
+    }
+  },
+  {
+    "n": 36,
+    "enunciado": "En caso del tratamiento de la enfermedad hemorroidal, señale la respuesta falsa:",
+    "opciones": {
+      "A": "En casos leves el principal tratamiento es el anestésico local con anestésico local lubricante con anestésico local.",
+      "B": "Los ventrílocuos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberán considerarse las indicaciones de tratamiento específico.",
+      "C": "La excisión quirúrgica de la hemorroide interna con un acmé alcanzado durante el primer minuto).",
+      "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento específico además de las medidas higieno-dietéticas habituales."
+    }
+  },
+  {
+    "n": 37,
+    "enunciado": "En el período esperado de ingreso en el hospital urgencias en los siguientes circunstancias, EXCEPTO en:",
+    "opciones": {
+      "A": "Encefalopatía hepática.",
+      "B": "Depósito de sucralfato con actividad de protrombina inferior al 50%.",
+      "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+      "D": "Hepatitis aguda con actividad de protrombina superior al 50%."
+    }
+  },
+  {
+    "n": 38,
+    "enunciado": "¿Cuál de los siguientes no es un criterio de ingreso en un paciente que acude a urgencias por ascitis?",
+    "opciones": {
+      "A": "Ascitis bacteriana espontánea.",
+      "B": "Ascitis aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurológicas.",
+      "C": "Ascitis refractaria al tratamiento.",
+      "D": "Peritonitis bacteriana secundaria."
+    }
+  },
+  {
+    "n": 39,
+    "enunciado": "La alcalosis metabólica con pH>7,45, como consecuencia del aumento de la concentración del bicarbonato plasmático y generalmente es asintomática. ¿Cuáles son todos los síntomas de la alcalosis metabólica excepto uno? Señale el que no es:",
+    "opciones": {
+      "A": "Astenia, mareo y parestesias.",
+      "B": "Debilidad muscular por hipopotasemia.",
+      "C": "Tetania.",
+      "D": "Debilidad muscular por hipopotasemia."
+    }
+  },
+  {
+    "n": 40,
+    "enunciado": "Con relación a la Hematuria, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "En aquellos pacientes en que no pudiera realizarse sondaje vesical permanente deberá realizarse sondaje vesical para para evitar la formación de nueva cólgulo.",
+      "B": "La presencia de coágulos en la vejiga obligan a un lavado vesical manual para para su extracción y a continuación lavado vesical continuo.",
+      "C": "La presencia de coágulos al inicio de la micción orienta a lesión vesical.",
+      "D": "La hematuria al inicio de la micción orienta a lesión uretral."
+    }
+  },
+  {
+    "n": 41,
+    "enunciado": "En una torsión testicular, ¿Cuál es la viabilidad del teste desde que se desencadena el cuadro?",
+    "opciones": {
+      "A": "Máximo 12 horas.",
+      "B": "Máximo 3 horas.",
+      "C": "Máximo 2 horas.",
+      "D": "Máximo 6 horas."
+    }
+  },
+  {
+    "n": 42,
+    "enunciado": "En un paciente de 72 años de diagnosticado de cáncer microcítico de pulmón se realiza una analítica en urgencias que muestra un calcio plasmático de 14,2 mg/dl (se confirma este resultado con una nueva muestra analítica y se corrige al calcio con la concentración de albúmina). El paciente presenta mal estado general, debilidad muscular y alteración del comportamiento. La analítica, incluyendo marcadores cardíacos, tampoco está alterada, y se obtiene el electrocardiograma que se muestra. Entre las siguientes posibilidades de actuación, ¿cuál le parece más acertada?",
+    "opciones": {
+      "A": "Consulta con cardiología para valorar su ingreso, estudio electrofisiológico y probable marcapasos.",
+      "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa de cardiología.",
+      "C": "Aunque la exploración neurológica sea normal, se debe consultar con neurología por posible crisis epiléptica.",
+      "D": "Probablemente se trate de un síncope vasovagal ortostático por haber ocurrido con el paciente en bipedestación."
+    }
+  },
+  {
+    "n": 43,
+    "enunciado": "Un paciente tratado con Antagonistas de la Vit. K (acenocumarol) que presenta un sangrado con riesgo vital (señale la falsa):",
+    "opciones": {
+      "A": "Debe ser tratado principalmente con vit. K por vía intravenosa.",
+      "B": "Los ventrílocuos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberán considerarse las indicaciones de Plasma Fresco Congelado (PFC).",
+      "C": "La excisión quirúrgica de la hemorragia intraluminal se indicará ante la existencia de sangrados.",
+      "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento específico además de las medidas higieno-dietéticas habituales."
+    }
+  },
+  {
+    "n": 44,
+    "enunciado": "Entre las contraindicaciones de la transfusión de concentrado de plaquetas (trombopénicos con riesgo trombótico), no se encuentra:",
+    "opciones": {
+      "A": "Politraumatizado con fracturas de huesos largos.",
+      "B": "Trombopénico con riesgo trombótico.",
+      "C": "Púrpura trombótica trombocitopénica (PTT).",
+      "D": "Trombopénico inducida por heparina."
+    }
+  },
+  {
+    "n": 45,
+    "enunciado": "En un paciente con neutropenia en urgencias se quiere descartar la existencia de una posible infección bacteriana. ¿Qué biomarcador de respuesta inflamatoria e infección (aunque no se conozca el foco) orientará con mayor probabilidad a la existencia de bacteriemia? Señale la correcta:",
+    "opciones": {
+      "A": "Procalcitonina > 4 ng/ml.",
+      "B": "Proteína C reactiva > 7 días.",
+      "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+      "D": "Peritonitis bacteriana secundaria."
+    }
+  },
+  {
+    "n": 46,
+    "enunciado": "¿Cuál de los siguientes no se considera vértigo periférico?",
+    "opciones": {
+      "A": "Esclerosis Múltiple.",
+      "B": "Enfermedad de Ménière.",
+      "C": "Vértigo posicional paroxístico benigno.",
+      "D": "Neuritis vestibular."
+    }
+  },
+  {
+    "n": 47,
+    "enunciado": "De las siguientes, cuál NO es una indicación de endoscopia urgente:",
+    "opciones": {
+      "A": "Esclerosis Múltiple.",
+      "B": "Hematemesis o melenas recientes.",
+      "C": "Vértigo posicional paroxístico benigno.",
+      "D": "Todas las anteriores son indicación de ingreso."
+    }
+  },
+  {
+    "n": 48,
+    "enunciado": "¿Cuáles son los indicadores de ingreso en el servicio de urgencias hospitalario? Señale la respuesta correcta:",
+    "opciones": {
+      "A": "En aquellos pacientes en los que se haya descartado su estabilización estuviese prevista en su domicilio.",
+      "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa.",
+      "C": "Aunque la exploración sea normal, se debe ingresar con neurología por posible crisis epiléptica.",
+      "D": "Todas las anteriores son indicación de ingreso."
+    }
+  },
+  {
+    "n": 49,
+    "enunciado": "¿Cuáles son los indicadores de ingreso del síncope en urgencias hospitalario? Señale la respuesta correcta:",
+    "opciones": {
+      "A": "En aquellos pacientes con síncope de etiología no cardiaca de etiología espontánea.",
+      "B": "Disnea aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurológicas.",
+      "C": "Ascitis refractaria al tratamiento.",
+      "D": "Peritonitis bacteriana secundaria."
+    }
+  },
+  {
+    "n": 50,
+    "enunciado": "El síndrome confusional agudo o delirio es una disfunción mental a menudo reversible que se manifiesta como una alteración del nivel de consciencia con una menor capacidad para enfocar, sostener o desviar la atención, así como otros trastornos cognitivos y neuropsiquiátricos. Puede ocurrir a cualquier edad, pero es mucho más frecuente en pacientes que son ancianos y tienen un estado mental previo. Su manejo en urgencias se recomienda:",
+    "opciones": {
+      "A": "El desarrollo del anciano es independiente de las características físicas de la sala de urgencias.",
+      "B": "Las restricciones físicas son preferibles a la terapia física, ocupacional o farmacológica.",
+      "C": "Para mejorar las gafas, dentaduras o audífonos para que el paciente escuche o su pérdida.",
+      "D": "Las restricciones físicas son preferibles a la terapia física, ocupacional o farmacológica."
+    }
+  },
+  {
+    "n": 51,
+    "enunciado": "Señale la situación esperada de resolución en los siguientes circunstancias, EXCEPTO en:",
+    "opciones": {
+      "A": "Moxifloxacino 400 mg cada 12 horas por 7 días.",
+      "B": "Ciprofloxacino 400 mg cada 12 horas por 7 días más Azitromicina 500 mg al día más Azitromicina 500 mg al día por 5 días.",
+      "C": "Amoxicilina 1 g cada 8 horas por 7 días.",
+      "D": "Amoxicilina-clavulánico 875/125mg/8h por 7 días."
+    }
+  },
+  {
+    "n": 52,
+    "enunciado": "En una intoxicación aguda, el uso de carbón activado se debe emplear EXCEPTO en:",
+    "opciones": {
+      "A": "Diverticulitis aguda.",
+      "B": "Apendicitis aguda.",
+      "C": "Pancreatitis aguda.",
+      "D": "Divertículo de Meckel."
+    }
+  },
+  {
+    "n": 53,
+    "enunciado": "En las intoxicaciones agudas, el uso de carbón activado se debe emplear EXCEPTO en:",
+    "opciones": {
+      "A": "Ascitis bacteriana espontánea.",
+      "B": "Intoxicación aguda por benzodiacepinas.",
+      "C": "Ascitis refractaria al tratamiento.",
+      "D": "Peritonitis bacteriana secundaria."
+    }
+  },
+  {
+    "n": 54,
+    "enunciado": "¿Cuál es el fármaco más usado en urgencias para el tratamiento del dolor agudo?",
+    "opciones": {
+      "A": "Fentanilo IV: 100mg igual a 10mg de morfina.",
+      "B": "Morfina: 0,5 mg/kg/h IV.",
+      "C": "Meperidina IV: 0,5-1mg/kg/h.",
+      "D": "Ninguna de las opciones correctas."
+    }
+  },
+  {
+    "n": 55,
+    "enunciado": "¿Cuál es el tratamiento de elección en una reacción anafiláctica?",
+    "opciones": {
+      "A": "Adrenalina.",
+      "B": "Corticoides.",
+      "C": "Broncodilatadores.",
+      "D": "Antihistamínicos."
+    }
+  }
+]

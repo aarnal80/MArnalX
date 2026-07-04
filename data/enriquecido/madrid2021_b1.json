@@ -1,0 +1,482 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Ante la sospecha de isquemia mesentérica aguda, ¿cuál de las siguientes pruebas presenta una mayor sensibilidad y especificidad diagnóstica?",
+  "opciones": {
+   "A": "Ecografía doppler de troncos mesentéricos",
+   "B": "TAC abdominal en fase arterial y venosa",
+   "C": "PET-TAC abdominal",
+   "D": "Ecografía intestinal"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "El TAC abdominal con contraste en fase arterial y venosa es la prueba de imagen de elección ante la sospecha de isquemia mesentérica aguda, con sensibilidad y especificidad superiores al 90%. Permite identificar directamente la oclusión arterial o venosa, valorar la vitalidad de las asas intestinales y detectar complicaciones como el neumoperitoneo, siendo además rápidamente disponible en urgencias.",
+   "incorrectas": {
+    "A": "La ecografía doppler de troncos mesentéricos tiene utilidad limitada por la interposición de gas intestinal, que reduce su sensibilidad para detectar oclusiones distales.",
+    "C": "El PET-TAC no tiene indicación en el estudio urgente de la isquemia mesentérica aguda; su uso queda restringido a oncología y procesos inflamatorios crónicos.",
+    "D": "La ecografía intestinal convencional puede mostrar signos inespecíficos de sufrimiento intestinal, pero no permite visualizar directamente el árbol vascular mesentérico con suficiente fiabilidad diagnóstica."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta correcta en relación a la DM tipo 2:",
+  "opciones": {
+   "A": "En ausencia de hiperglucemia inequívoca (mayor de 300 mg/dl) es preciso un segundo test confirmatorio.",
+   "B": "Se recomienda cribado de DM en pacientes en tratamiento con estatinas, tiazidas y antipsicóticos de segunda generación.",
+   "C": "Se recomienda realizar cribado de fibrosis hepática en todas las personas con DM tipo 2.",
+   "D": "Se recomienda realizar densitometría a las personas con DM tipo 2 mayores de 60 años."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "Las estatinas, las tiazidas y los antipsicóticos de segunda generación (atípicos) son fármacos reconocidos como diabetógenos que aumentan el riesgo de desarrollar DM tipo 2, por lo que las guías clínicas recomiendan cribado glucémico en pacientes que los reciben.",
+   "incorrectas": {
+    "A": "El umbral para considerar hiperglucemia inequívoca y prescindir de un segundo test confirmatorio es mayor o igual a 200 mg/dl con síntomas clásicos, no 300 mg/dl.",
+    "C": "El cribado de fibrosis hepática no está indicado de forma universal en todos los diabéticos tipo 2; se reserva para aquellos con factores de riesgo adicionales o sospecha de hígado graso avanzado.",
+    "D": "La densitometría ósea no forma parte del cribado rutinario en DM tipo 2 simplemente por superar los 60 años; los criterios para indicarla son los mismos que en la población general (factores de riesgo de osteoporosis)."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 70 años que consulta por temblor en reposo, y dificultad para abrocharse los botones de la ropa y atarse los cordones de los zapatos. En la exploración se objetiva rigidez en rueda dentada. Señale la correcta",
+  "opciones": {
+   "A": "El tratamiento de elección es levodopa-carbidopa a dosis altas desde el inicio.",
+   "B": "El temblor es el síntoma que experimentará un beneficio rápido con el inicio de levodopa, incluso con dosis bajas.",
+   "C": "Los efectos secundarios más graves de la levodopa incluyen confusión, alucinaciones, delirios, agitación, psicosis e hipotensión ortostática.",
+   "D": "Si no hay respuesta clínica, se recomienda suspender bruscamente la levodopa, para evitar acumular efectos secundarios."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La levodopa puede producir efectos adversos neuropsiquiátricos graves como confusión, alucinaciones visuales, delirios, agitación y psicosis franca, así como hipotensión ortostática, que representan los efectos secundarios más limitantes de este tratamiento en el paciente con enfermedad de Parkinson.",
+   "incorrectas": {
+    "A": "La levodopa se inicia siempre a dosis bajas y se titula progresivamente; en pacientes jóvenes incluso se prefieren agonistas dopaminérgicos para retrasar las complicaciones motoras.",
+    "B": "El temblor de reposo es el síntoma que responde peor y de forma más tardía a la levodopa; la bradicinesia y la rigidez son los que mejoran más pronto y de manera más marcada.",
+    "D": "La levodopa nunca debe suspenderse bruscamente porque puede desencadenarse un síndrome de retirada grave con rigidez extrema e incluso un cuadro similar al síndrome neuroléptico maligno."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 48 años que acude por anemia ferropénica, tiene historia de epíxtasis de repetición, telangiectasias en mucosa oral y en el tracto gastrointestinal, no tiene familiares con manifestaciones similares. El estudio genético muestra una mutación del gen ENG en el cromosoma 9. Respecto a la entidad que padece la paciente estas afirmaciones son correctas excepto una, señálela.",
+  "opciones": {
+   "A": "La herencia es autosómica dominante",
+   "B": "Se recomienda antibioterapia profiláctica en manipulaciones dentales",
+   "C": "Es esperable una mayor prevalencia de migraña",
+   "D": "Por su alto riesgo de sangrado la anticoagulación está contraindicada"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "En la telangiectasia hemorrágica hereditaria (enfermedad de Rendu-Osler-Weber), la anticoagulación no está contraindicada de forma absoluta; cuando existe indicación clínica firme (por ejemplo, tromboembolismo venoso o fibrilación auricular), puede administrarse con estrecha vigilancia, pues el riesgo trombótico puede superar al hemorrágico.",
+   "incorrectas": {
+    "A": "La enfermedad de Rendu-Osler-Weber se hereda de forma autosómica dominante, aunque la penetrancia es variable, lo que explica casos aparentemente esporádicos.",
+    "B": "Las fístulas arteriovenosas pulmonares presentes en muchos pacientes favorecen la bacteriemia, por lo que se recomienda profilaxis antibiótica ante procedimientos con riesgo de bacteriemia, incluidas las manipulaciones dentales.",
+    "C": "Existe una asociación reconocida entre la enfermedad de Rendu-Osler-Weber y mayor prevalencia de migraña, probablemente en relación con las malformaciones arteriovenosas cerebrales o pulmonares."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la INCORRECTA en relación con el síndrome TRAPS (TNF receptor-associated periodic syndrome)",
+  "opciones": {
+   "A": "Los pacientes afectados a menudo tienen inflamación ocular (conjuntivitis o edema periorbitario) y mialgia migratoria característica con eritema doloroso en la región afectada",
+   "B": "Los episodios de TRAPS suelen comenzar en la infancia",
+   "C": "Los anticuerpos monoclonales anti-TNF son útiles para tratar las crisis de TRAPS",
+   "D": "El canakinumab es un fármaco aprobado por la FDA para el tratamiento de TRAPS"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 81,
+   "tema": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "Los anticuerpos monoclonales anti-TNF como etanercept pueden proporcionar alivio sintomático parcial en algunos pacientes con TRAPS, pero no son el tratamiento de elección ni han demostrado eficacia consistente para controlar las crisis; de hecho, algunos anti-TNF como el infliximab pueden paradójicamente empeorar el cuadro. El tratamiento de referencia actual son los inhibidores de IL-1 (canakinumab, anakinra).",
+   "incorrectas": {
+    "A": "La inflamación ocular (conjuntivitis, edema periorbitario) y la mialgia migratoria con eritema suprayacente son rasgos clínicos característicos y definitorios del síndrome TRAPS.",
+    "B": "Las crisis de TRAPS habitualmente debutan en la infancia o la adolescencia, aunque pueden manifestarse a cualquier edad.",
+    "D": "El canakinumab (anticuerpo monoclonal anti-IL-1β) está efectivamente aprobado por la FDA y la EMA para el tratamiento del TRAPS, siendo actualmente el fármaco de elección para reducir la frecuencia e intensidad de las crisis."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un varón de 30 años acude a consulta porque ha notado aumento de ambas mamas en los últimos meses y disminución de la líbido. La exploración física confirma ginecomastia bilateral y la ecografía testicular muestra una masa en el testículo derecho. Se sospecha un tumor testicular con un síndrome paraneoplásico. ¿Qué hormona es la causa más común de ginecomastia en tumores testiculares?",
+  "opciones": {
+   "A": "hCG (gonadotropina coriónica humana)",
+   "B": "FSH (hormona foliculoestimulante)",
+   "C": "Testosterona",
+   "D": "LH (hormona luteinizante)"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La hCG es la hormona paraneoplásica más frecuentemente secretada por los tumores de células germinales testiculares (especialmente coriocarcinomas y tumores mixtos). La hCG estimula los receptores de LH en las células de Leydig, incrementando la producción de estrógenos y causando ginecomastia bilateral, además de suprimir la FSH y la LH endógenas produciendo hipogonadismo e hipolibido.",
+   "incorrectas": {
+    "B": "La FSH es producida por la hipófisis y no es secretada como hormona paraneoplásica en tumores testiculares; además no tiene un papel directo en el desarrollo de ginecomastia.",
+    "C": "Los tumores testiculares no suelen secretar testosterona de forma paraneoplásica; la testosterona elevada, por el contrario, se aromatiza a estrógenos, pero el mecanismo principal de la ginecomastia tumoral es la hCG.",
+    "D": "La LH es una hormona hipofisaria que no es producida de forma paraneoplásica por tumores testiculares y no causa directamente ginecomastia."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál es el mecanismo de acción del vutrisirán, un nuevo tratamiento para la amiloidosis ATTR?",
+  "opciones": {
+   "A": "Inhibición de la síntesis de proteínas amiloidogénicas",
+   "B": "Reducción de la producción de transtiretina mediante ARN interferente",
+   "C": "Aumento de la excreción renal de amiloide",
+   "D": "Estabilización de la estructura de transtiretina"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "El vutrisirán es un ARN interferente de pequeño tamaño (siRNA) que se dirige al ARN mensajero de la transtiretina en los hepatocitos, degradándolo y reduciendo así la síntesis hepática de la proteína TTR, tanto mutada como wild-type, disminuyendo la carga de amiloide en los tejidos diana.",
+   "incorrectas": {
+    "A": "Si bien la consecuencia final es reducir la síntesis de transtiretina, la inhibición no es directa sobre la síntesis proteica sino a nivel post-transcripcional mediante degradación del ARNm.",
+    "C": "El vutrisirán no actúa aumentando la excreción renal de amiloide; el amiloide depositado no es eliminado por filtración glomerular de forma relevante.",
+    "D": "La estabilización de la estructura de transtiretina es el mecanismo de acción del tafamidis, un fármaco diferente utilizado también en la amiloidosis ATTR."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 60 años que acude por tos de un mes de evolución, junto con disnea de esfuerzo y fiebre en los últimos días, se realiza una rx tórax donde se objetivan unos infiltrados parcheados, se realiza TAC torácico con opacidades por consolidación subpleurales y opacidades en vidrio esmerilado, refieren que se observa el signo del atolón. ¿Cual es el diagnóstico más probable de su paciente?",
+  "opciones": {
+   "A": "Fibrosis pulmonar idiopática.",
+   "B": "Neumonia intersticial idiopática.",
+   "C": "Sarcoidosis.",
+   "D": "Neumonía organizada criptogenética."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 53,
+   "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+  },
+  "explicacion": {
+   "correcta": "La neumonía organizada criptogenética (NOC) se caracteriza radiológicamente por consolidaciones subpleurales y peribroncovasculares con opacidades en vidrio esmerilado; el signo del atolón (ring sign o atoll sign), consistente en un área de vidrio esmerilado rodeada de un arco de consolidación periférica, es el hallazgo tomográfico más característico y prácticamente patognomónico de esta entidad.",
+   "incorrectas": {
+    "A": "La fibrosis pulmonar idiopática muestra en el TAC un patrón de neumonía intersticial usual con reticulación subpleural de predominio basal, panal de abejas y bronquiectasias por tracción, sin el signo del atolón.",
+    "B": "La neumonía intersticial idiopática es un término genérico que engloba varias entidades; ninguna de sus formas presenta el signo del atolón como hallazgo definitorio.",
+    "C": "La sarcoidosis produce adenopatías hiliares y mediastínicas con nódulos perilinfáticos y un patrón radiológico muy diferente, sin el signo del atolón."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de estos fármacos se asocia con menos frecuencia al desarrollo de síndrome confusional?",
+  "opciones": {
+   "A": "Benzodiacepinas",
+   "B": "Diuréticos de asa",
+   "C": "Antiespasmódicos",
+   "D": "Inhibidores de la bomba de protones"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Los inhibidores de la bomba de protones (IBP) tienen un perfil de efectos adversos neuropsiquiátricos muy bajo; aunque excepcionalmente se han descrito casos anecdóticos de confusión, no figuran entre los fármacos con riesgo relevante de síndrome confusional en los criterios de Beers ni en las principales guías de delirio.",
+   "incorrectas": {
+    "A": "Las benzodiacepinas son una de las causas farmacológicas más frecuentes de síndrome confusional agudo, especialmente en ancianos, por su efecto depresor del sistema nervioso central.",
+    "B": "Los diuréticos de asa pueden precipitar síndrome confusional al producir desequilibrios hidroelectrolíticos (hiponatremia, hipopotasemia) que alteran la función cerebral.",
+    "C": "Los antiespasmódicos tienen propiedades anticolinérgicas que bloquean los receptores muscarínicos centrales y son una causa clásica de síndrome confusional, especialmente en pacientes mayores."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta INCORRECTA en el diagnóstico de enfermedad coronaria crónica",
+  "opciones": {
+   "A": "Se basa en un modelo Bayesiano",
+   "B": "En pacientes con probabilidad muy elevada de enfermedad coronaria se debe realizar un TAC coronario",
+   "C": "Se tiene en cuenta la presentación clínica y los factores de riesgo previos",
+   "D": "El electrocardiograma y el ecocardiograma pueden ajustar la probabilidad pre-prueba"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 45,
+   "tema": "Dolor torácico agudo. Etiología. Valoración, diagnóstico y normas de actuación en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En pacientes con probabilidad pre-test muy elevada de enfermedad coronaria crónica, el TAC coronario tiene menor utilidad diagnóstica incremental y puede resultar no concluyente; las guías ESC recomiendan en estos casos realizar directamente pruebas de isquemia funcional (ergometría, gammagrafía, resonancia de estrés) o incluso coronariografía invasiva, no el TAC coronario.",
+   "incorrectas": {
+    "A": "El diagnóstico de enfermedad coronaria crónica se fundamenta en un modelo bayesiano que combina la probabilidad pre-test (basada en síntomas y factores de riesgo) con los resultados de las pruebas diagnósticas.",
+    "C": "La presentación clínica (tipo de dolor, factores desencadenantes) y los factores de riesgo cardiovascular son componentes esenciales para estimar la probabilidad pre-test en el algoritmo diagnóstico.",
+    "D": "El ECG (alteraciones de repolarización, hipertrofia ventricular) y el ecocardiograma (disfunción sistólica, alteraciones de la motilidad segmentaria) proporcionan información adicional que modifica la probabilidad pre-test de enfermedad coronaria."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "A su paciente mujer de 62 años le han diagnosticado de fibrosis pulmonar idiopática, de entre las 4 siguientes afirmaciones cual es la única correcta que le puede decir?",
+  "opciones": {
+   "A": "Que la fibrosis pulmonar idiopática es, de las enfermedades intersticiales de causa desconocida, la más común y que es más frecuente en mujeres que en varones en torno a los 60-70 años.",
+   "B": "Que el tratamiento actual se basa en antifibróticos e inmunodepresores, a pesar de que ninguno de estos han conseguido mejorar la supervivencia.",
+   "C": "Que en el TAC se ve reticulación subpleural de predominio superior con cambios en panal de abejas y bronquiectasias por tracción.",
+   "D": "Que la progresión de la enfermedad es variable, con una supervivencia estimada del 50% en 3-5 años."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 53,
+   "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+  },
+  "explicacion": {
+   "correcta": "La FPI tiene un pronóstico muy variable entre pacientes, con una mediana de supervivencia de aproximadamente 3-5 años desde el diagnóstico y una supervivencia estimada a los 5 años en torno al 20-40%, lo que globalmente equivale a una mortalidad del 50% en ese periodo; sin embargo, algunos pacientes progresan rápidamente y otros se mantienen estables durante años.",
+   "incorrectas": {
+    "A": "La FPI es más frecuente en varones que en mujeres, con una relación aproximada de 2:1; afirmar que es más frecuente en mujeres es incorrecto.",
+    "B": "Los antifibróticos (pirfenidona y nintedanib) han demostrado reducir la progresión funcional y probablemente reducen la mortalidad; los inmunosupresores clásicos (azatioprina, prednisona, N-acetilcisteína en triple terapia) mostraron ser perjudiciales en la FPI y no están indicados.",
+    "C": "El patrón en TAC de la FPI es reticulación subpleural de predominio basal (no superior) con panal de abejas y bronquiectasias por tracción; la distribución basal y subpleural es definitoria."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Paciente de 73 años diagnosticado de leucemia linfática crónica hace 6 años con enfermedad estable empeora clínicamente con astenia, sudoración nocturna y fiebre, así como aumento del tamaño de las adenopatías en una zona previamente afectada. Se realiza una biopsia en la que lo más probable es encontrar",
+  "opciones": {
+   "A": "Un linfoma linfoplasmocítico",
+   "B": "Un linfoma difuso de células B grandes",
+   "C": "Un linfoma folicular",
+   "D": "Un linfoma de la zona marginal"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "El cuadro descrito corresponde al síndrome de Richter, que es la transformación de la leucemia linfática crónica en un linfoma agresivo. En aproximadamente el 95% de los casos de síndrome de Richter la histología muestra un linfoma difuso de células B grandes (LDCBG), que explica el rápido deterioro clínico con síntomas B y crecimiento adenopático acelerado en una zona previamente afectada.",
+   "incorrectas": {
+    "A": "El linfoma linfoplasmocítico (macroglobulinemia de Waldenström) es una entidad independiente de la LLC y no representa la transformación de Richter típica.",
+    "C": "El linfoma folicular es una neoplasia indolente que no surge como transformación de la LLC; además su curso clínico no justificaría el empeoramiento brusco descrito.",
+    "D": "El linfoma de zona marginal es también una neoplasia de células B indolente que no es la transformación esperada en el síndrome de Richter."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 75 años, fumador, diagnosticado de carcinoma de próstata sin enfermedad metastásica, en tratamiento con antiandrógenos. Tiene densidad mineral ósea con T-2,5. Además de calcio y vitamina D ¿Qué tratamiento le propone?",
+  "opciones": {
+   "A": "Únicamente un programa de ejercicio físico estructurado",
+   "B": "Alendronato",
+   "C": "Denosumab",
+   "D": "Teriparatida"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 95,
+   "tema": "Compresión medular y síndrome de vena cava superior en el paciente oncológico."
+  },
+  "explicacion": {
+   "correcta": "El denosumab (anticuerpo monoclonal anti-RANKL) está específicamente aprobado para la prevención de fracturas en hombres con cáncer de próstata en tratamiento con deprivación androgénica que presentan osteoporosis (T-score menor o igual a -2,5), siendo de elección en esta indicación por su eficacia demostrada en esta población y su administración subcutánea semestral.",
+   "incorrectas": {
+    "A": "El ejercicio físico es beneficioso como complemento pero insuficiente como tratamiento único en un paciente con osteoporosis establecida (T-2,5) y múltiples factores de riesgo de fractura.",
+    "B": "El alendronato es un bifosfonato oral de primera línea en osteoporosis posmenopáusica, pero en el contexto específico del cáncer de próstata con deprivación androgénica, el denosumab tiene mayor evidencia y está preferentemente indicado.",
+    "D": "La teriparatida (PTH recombinante) es un agente anabólico óseo contraindicado en pacientes con cáncer activo o antecedentes de neoplasia maligna con metástasis óseas, por el riesgo teórico de estimular la proliferación tumoral."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En la hemorragia asociada al uso de inhibidores del factor Xa, cuál de esas afirmaciones es falsa",
+  "opciones": {
+   "A": "La dosis de andexanet depende del tiempo transcurrido desde la última dosis de anticoagulante",
+   "B": "La diálisis es de utilidad para eliminar el inhibidor del factor Xa",
+   "C": "Está indicada la administración de ácido tranexámico",
+   "D": "El uso de andexanet lleva consigo riesgo de trombosis"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "Los inhibidores del factor Xa como rivaroxabán y apixabán se unen de forma importante a las proteínas plasmáticas y tienen un gran volumen de distribución, por lo que la hemodiálisis no es eficaz para eliminarlos de forma clínicamente significativa, a diferencia del dabigatrán (inhibidor directo de la trombina) que sí puede eliminarse parcialmente por diálisis.",
+   "incorrectas": {
+    "A": "La dosis y el régimen de infusión del andexanet alfa se seleccionan según el anticoagulante específico (rivaroxabán o apixabán) y el tiempo transcurrido desde la última dosis (menos o más de 8 horas), lo cual es correcto.",
+    "C": "El ácido tranexámico, como antifibrinolítico, está indicado como medida coadyuvante en hemorragias graves asociadas a anticoagulantes para reducir la pérdida hemática.",
+    "D": "El andexanet alfa revierte el efecto anticoagulante y puede generar un estado protrombótico transitorio; los ensayos clínicos han documentado eventos tromboembólicos en una proporción relevante de pacientes tratados."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de los siguientes subtipos de VIH-1 es responsable de la mayoría de las infecciones por VIH a nivel mundial?",
+  "opciones": {
+   "A": "Subtipo B",
+   "B": "Subtipo C",
+   "C": "Subtipo A",
+   "D": "CRF02_AG"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 84,
+   "tema": "Valoración y actitud en urgencias ante las infecciones en el paciente con síndrome de inmunodeficiencia adquirida."
+  },
+  "explicacion": {
+   "correcta": "El subtipo C del VIH-1 es el más prevalente a nivel mundial, siendo responsable de aproximadamente el 46-48% de todas las infecciones por VIH-1 globalmente; predomina en África subsahariana, India y partes de Asia, que son las regiones con mayor carga de enfermedad.",
+   "incorrectas": {
+    "A": "El subtipo B es el predominante en Europa occidental, América del Norte y Australia, pero representa una fracción minoritaria de la epidemia global.",
+    "C": "El subtipo A tiene alta prevalencia en África oriental y Europa del Este, pero no es el más frecuente a nivel mundial.",
+    "D": "La forma recombinante CRF02_AG es prevalente en África occidental y central pero representa una proporción mucho menor de la epidemia global que el subtipo C."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Paciente de 52 años de edad que acude a urgencias por dolor abdominal. Se realiza analítica en la que presenta leucocitosis, aumento de lipasa y de PCR. Se realiza una ecografía y se objetiva colelitiasis de 4 mm. Se diagnostica de pancreatitis y se ingresa. Dígame que medidas le parecen mejor en el manejo inicial:",
+  "opciones": {
+   "A": "Dieta absoluta, 3000 de ringer lactado en 24 horas, omeprazol intravenoso",
+   "B": "Dejar al paciente en ayunas, pautar un bolo con ringer lactado a razón de 15 a 20 mL/kg de peso, seguidos por 2-3 mL/kg de peso por hora (200 a 250 mL/h) y pautar analgesia.",
+   "C": "Dieta, sueros razón de 25-30 ml/kg/hora las primeras 24 horas y analgesia",
+   "D": "Es necesaria una estrategia de reanimación particularizada con medición del valor amilasa y BUN cada 8 a 12 h para asegurar la adecuación de la fluidoterapia y medir en forma seriada la respuesta al tratamiento."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El manejo inicial de la pancreatitis aguda incluye reposo digestivo (ayunas), fluidoterapia con solución de Ringer lactato a un ritmo de 15-20 mL/kg en bolo inicial seguido de 2-3 mL/kg/h (equivalente a 200-250 mL/h), y analgesia adecuada; este esquema está respaldado por las guías internacionales (ACG, AGA) como la estrategia más equilibrada para la reanimación aguda.",
+   "incorrectas": {
+    "A": "Un volumen fijo de 3000 mL en 24 horas no está individualizado; además el omeprazol intravenoso no tiene indicación en pancreatitis aguda sin complicación hemorrágica digestiva asociada.",
+    "C": "Un ritmo de 25-30 mL/kg/hora supera ampliamente las recomendaciones actuales y puede provocar sobrecarga de volumen, síndrome compartimental abdominal y agravamiento del cuadro; además no se especifica la analgesia de inicio.",
+    "D": "Si bien la monitorización del BUN y otros parámetros es útil para ajustar la fluidoterapia, la medición de amilasa seriada no aporta información pronóstica relevante una vez establecido el diagnóstico y no es el componente central del manejo inicial urgente."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En el diagnóstico de la pancreatitis señale la respuesta correcta",
+  "opciones": {
+   "A": "Las concentraciones de amilasa y lipasa séricas que aumentan tres veces o más en relación con los datos normales",
+   "B": "Existe correlación entre la intensidad de la pancreatitis y el grado de incremento de los niveles de lipasa y de amilasa séricas",
+   "C": "Las concentraciones de amilasa pancreática pueden permanecer en puntos altos por siete a 14 días",
+   "D": "La concentración sérica de lipasa algunas veces es muy reducida cuando existe hipertrigliceridemia pronunciada"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El criterio diagnóstico bioquímico estándar de pancreatitis aguda es la elevación de amilasa y/o lipasa séricas a tres o más veces el límite superior de la normalidad, tal como establecen los criterios de Atlanta revisados; la lipasa es más sensible y específica que la amilasa.",
+   "incorrectas": {
+    "B": "No existe correlación entre la magnitud de la elevación enzimática y la gravedad de la pancreatitis; pancreatitis graves pueden cursar con elevaciones enzimáticas moderadas y viceversa.",
+    "C": "La amilasa sérica vuelve a valores normales típicamente en 3-5 días; es la lipasa la que permanece elevada más tiempo (hasta 7-14 días), por lo que esta afirmación invierte las características de ambas enzimas.",
+    "D": "La hipertrigliceridemia pronunciada puede interferir con la determinación de amilasa (dando valores falsamente bajos por efecto inhibidor), pero la lipasa no se ve afectada de la misma forma; esta opción confunde la enzima afectada."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta CORRECTA en relación con los pacientes con hipertensión",
+  "opciones": {
+   "A": "Una presión arterial repetida de 140/90 mmHg en pacientes con bajo riesgo cardiovascular justifica el inicio de medidas higiénico dietéticas y reevaluación a los 3 meses",
+   "B": "Los pacientes con HTA enmascarada tienen un mayor riesgo cardiovascular que la población general",
+   "C": "Se considera presión arterial elevada si la TA es > 130/80 mmHg",
+   "D": "Está indicado realizar un ecocardiograma de forma sistemática en todos los pacientes"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "La hipertensión arterial enmascarada (TA normal en consulta pero elevada en MAPA o automedida domiciliaria) se asocia a un riesgo cardiovascular significativamente mayor que el de la población normotensa, comparable incluso al de la hipertensión sostenida, por lo que su detección y tratamiento son clínicamente relevantes.",
+   "incorrectas": {
+    "A": "Según las guías ESC 2018, una PA de 140/90 mmHg en bajo riesgo cardiovascular permite iniciar medidas de estilo de vida y reevaluar a los 3-6 meses, pero la afirmación es parcialmente correcta; sin embargo, la opción B es más rotundamente correcta y sin matices erróneos.",
+    "C": "Los umbrales de 130/80 mmHg como definición de HTA corresponden a las guías americanas AHA/ACC 2017; las guías europeas ESC/ESH mantienen el umbral en 140/90 mmHg para la hipertensión grado 1.",
+    "D": "El ecocardiograma no está indicado de forma rutinaria en todos los hipertensos; se recomienda cuando hay sospecha de hipertrofia ventricular izquierda, disfunción cardiaca o para refinar la estratificación del riesgo en casos seleccionados."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Con respecto a los efectos del consumo crónico de alcohol sobre órganos y sistemas cual es la respuesta falsa:",
+  "opciones": {
+   "A": "En personas de cualquier género un consumo de 4 bebidas alcohólicas al dia aumentan tres veces el riesgo de sufrir neoplasias malignas de boca y esófago",
+   "B": "La frecuencia de la pancreatitis aguda es casi siete veces mayor en alcohólicos que en la población general",
+   "C": "El alcohol es una de las causas más frecuentes de gastritis hemorrágica",
+   "D": "Las personas con un consumo excesivo de alcohol tienen un aumento significativo en el riesgo de arteriopatía coronaria"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "El consumo moderado de alcohol se ha asociado paradójicamente a una reducción del riesgo de enfermedad coronaria en algunos estudios observacionales (efecto cardioprotector del alcohol principalmente a través del HDL), aunque el consumo excesivo sí aumenta el riesgo de miocardiopatía alcohólica, arritmias y accidente cerebrovascular; por tanto, afirmar que el consumo excesivo aumenta significativamente el riesgo de arteriopatía coronaria no refleja con precisión la evidencia disponible.",
+   "incorrectas": {
+    "A": "El alcohol es un carcinógeno del grupo 1 de la IARC y 4 bebidas al día triplican el riesgo de neoplasias de cavidad oral y esófago, afirmación epidemiológicamente correcta.",
+    "B": "El alcohol crónico es la segunda causa más frecuente de pancreatitis aguda tras la litiasis biliar, y la incidencia en alcohólicos es efectivamente mucho mayor que en la población general.",
+    "C": "El alcohol daña directamente la mucosa gástrica alterando la barrera mucosa y estimulando la secreción ácida, siendo una causa reconocida de gastritis erosiva hemorrágica."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En relación a la realización de la valoración integral no es correcto:",
+  "opciones": {
+   "A": "Explora diferentes dimensiones: funcional, psicoafectiva y nutricional entre otras.",
+   "B": "Permite crear un plan terapéutico que aborde cada una de las esferas exploradas.",
+   "C": "Se ha demostrado que mejora el pronóstico y la calidad de vida de los pacientes.",
+   "D": "No incluye la valoración social y la sobrecarga del cuidador, ya que eso es competencia de los trabajadores sociales."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 97,
+   "tema": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+  },
+  "explicacion": {
+   "correcta": "La valoración geriátrica integral (VGI) incluye explícitamente la esfera sociofamiliar, que comprende la situación social, la red de apoyo, la sobrecarga del cuidador y el riesgo de claudicación familiar; delimitarla como competencia exclusiva de trabajo social es incorrecto porque la VGI es un abordaje multidimensional e interdisciplinar en el que el médico también evalúa estas dimensiones.",
+   "incorrectas": {
+    "A": "La VGI abarca múltiples dominios: funcional (actividades básicas e instrumentales), cognitivo-psicoafectivo, nutricional, social y médico, lo cual es correcto.",
+    "B": "Uno de los objetivos centrales de la VGI es precisamente elaborar un plan terapéutico y de cuidados individualizado que dé respuesta a los problemas identificados en cada esfera.",
+    "C": "Existe evidencia de que la VGI aplicada sistemáticamente mejora los resultados clínicos, reduce la mortalidad, los reingresos y la institucionalización, y aumenta la calidad de vida en pacientes geriátricos."
+   }
+  }
+ }
+]

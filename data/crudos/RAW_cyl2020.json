@@ -1,0 +1,1982 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La Gerencia Regional de Salud se estructura en órganos centrales y periféricos. El órgano de carácter unipersonal que ejerce la dirección ejecutiva y la gestión de la Gerencia Regional de Salud es:",
+  "opciones": {
+   "A": "El Director Gerente.",
+   "B": "El Presidente de la Gerencia Regional de Salud.",
+   "C": "El Director Económico, Presupuestario y Financiero.",
+   "D": "La Consejera de Sanidad."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La Ley 2/2007, de 7 de marzo, del Estatuto Jurídico del Personal estatutario del Servicio de Salud de Castilla y León, regula la figura de la recuperación de la condición de personal estatutario fijo para los casos en que ésta se hubiera perdido consecuencia de la pérdida de la nacionalidad española, por incapacidad o por pena principal o accesoria de inhabilitación absoluta. En este último caso, se concede a petición del interesado por:",
+  "opciones": {
+   "A": "Orden de la Consejera de Sanidad.",
+   "B": "Resolución del Gerente Regional de Salud.",
+   "C": "Acuerdo de la Junta de Castilla y León.",
+   "D": "Decreto de la Junta de Castilla y León."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La documentación clínica deberá conservarse como mínimo cinco años contados desde la fecha del alta de cada proceso asistencial o desde el fallecimiento del paciente. No obstante, se conservará de forma indefinida:",
+  "opciones": {
+   "A": "El gráfico de constantes.",
+   "B": "El informe de urgencia.",
+   "C": "Las hojas interconsultas.",
+   "D": "El informe de anestesia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La resolución del procedimiento de valoración del puesto de trabajo por causa de salud cuando suponga traslado corresponde a:",
+  "opciones": {
+   "A": "La Consejera de Sanidad.",
+   "B": "El Director Gerente de la Gerencia Regional de Salud.",
+   "C": "La Directora General de Profesionales.",
+   "D": "El Comité de Seguridad y Salud de Área correspondiente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Los incidentes en los que el personal sufre abusos, amenazas o ataques en circunstancias relacionadas con su trabajo que ponga en peligro, implícita o explícitamente, su seguridad, su bienestar o su salud, se denominan:",
+  "opciones": {
+   "A": "Violencia física.",
+   "B": "Violencia psicológica.",
+   "C": "Agresión/ataque.",
+   "D": "Violencia laboral."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos. Se reunirá:",
+  "opciones": {
+   "A": "Mensualmente.",
+   "B": "Semestralmente.",
+   "C": "Trimestralmente.",
+   "D": "Cuatrimestralmente."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿A partir de qué mes de embarazo hay que evitar la manipulación manual de cargas de una trabajadora en estado de embarazo?",
+  "opciones": {
+   "A": "A partir del quinto mes.",
+   "B": "A partir del octavo mes.",
+   "C": "A partir del sexto mes.",
+   "D": "A partir del séptimo mes."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De los factores generales de riesgo relacionados con la organización del trabajo destacan el trabajo nocturno y la prolongación de jornada como factores que pueden suponer un riesgo añadido para las trabajadoras en estado de embarazo o lactancia. A esos efectos, se considera \"trabajadora nocturna\":",
+  "opciones": {
+   "A": "La que invierte no menos de una hora de su trabajo diario o al menos una cuarta parte de su jornada anual en este tipo de horario.",
+   "B": "La que invierte no menos de dos horas de su trabajo diario o al menos una quinta parte de su jornada anual en este tipo de horario.",
+   "C": "La que invierte no menos de dos horas de su trabajo diario o al menos una cuarta parte de su jornada anual en este tipo de horario.",
+   "D": "La que invierte no menos de tres horas de su trabajo diario o al menos una tercera parte de su jornada anual en este tipo de horario."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La información asistencial, con el fin de ayudar a cada persona a tomar decisiones sobre su propia salud, será veraz, razonable y suficiente, y estará referida al diagnóstico, pronóstico y alternativas de tratamiento. Como regla general, se proporcionará:",
+  "opciones": {
+   "A": "Siempre por escrito.",
+   "B": "Verbalmente, dejando constancia en la historia clínica, debiendo entregarla de forma escrita en los supuestos exigidos por la normativa aplicable.",
+   "C": "Indistintamente.",
+   "D": "Por cualquier medio técnico con que cuente el centro."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a los procesos selectivos por el sistema de promoción interna, indicar la afirmación incorrecta:",
+  "opciones": {
+   "A": "Es un requisito haber prestado servicios como personal estatutario fijo, al menos, dos años en la categoría de procedencia.",
+   "B": "Los sistemas a utilizar serán la oposición, el concurso o el concurso oposición que, en todo caso, deberán respetar los principios constitucionales de acceso a la función pública de igualdad, mérito, y capacidad, así como el de publicidad.",
+   "C": "Podrán realizarse convocatorias específicas si así lo aconsejan razones de planificación o eficacia en la gestión.",
+   "D": "Las plazas que no se provean por el sistema de promoción interna no se acumularán a las convocadas por el sistema general de acceso libre."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De acuerdo con el algoritmo de soporte vital avanzado en el adulto, del consejo europeo de reanimación en situación parada cardiorrespiratoria, tras aplicar la primera descarga en situación de fibrilación ventricular no presenciada la actuación correcta es:",
+  "opciones": {
+   "A": "Comprobar el pulso",
+   "B": "Administrar 1mg de adrenalina IV",
+   "C": "Comprobar el ritmo",
+   "D": "Continuar compresiones /ventilaciones durante 2 minutos"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En la atención a la parada cardiorrespiratoria, señala la respuesta correcta con respecto a la adrenalina:",
+  "opciones": {
+   "A": "Se utiliza en cualquier tipo de parada cardiorrespiratoria",
+   "B": "La dosis habitual en el adulto es 1mg/Kg vía IV",
+   "C": "Se prefiere la administración vía intraósea sobre la intravenosa",
+   "D": "Se debe utilizar lo antes posible en los ritmos desfibrilables"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En cuanto a la evaluación del traumatizado grave, señala cual de las siguientes opciones NO está incluida en la evaluación primaria.",
+  "opciones": {
+   "A": "Asegurar la permeabilidad de la vía aérea con control cervical",
+   "B": "Detener hemorragias mediante compresión",
+   "C": "Utilización de la escala de coma de Glasgow",
+   "D": "Exploración física detallada de cabeza a pies"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante la presencia en un traumatizado grave de ingurgitación yugular, tonos cardiacos apagados, tensión arterial baja y taquicardia, debemos sospechar la presencia de:",
+  "opciones": {
+   "A": "Taponamiento cardiaco",
+   "B": "Hemorragia interna",
+   "C": "Rotura esofágica",
+   "D": "Lesión traumática de aorta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señala la respuesta INCORRECTA con respecto a la Escala de Trauma Revisada (TRS)",
+  "opciones": {
+   "A": "Refleja la puntuación de la escala de coma de Glasgow, la Tensión arterial sistólica y la frecuencia respiratoria",
+   "B": "Cada apartado se puntúa de 0 a 4",
+   "C": "Cuanto mayor puntuación suma más grave se considera el traumatismo",
+   "D": "Se basa en criterios fisiológicos"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto a la actuación en el SCACEST, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Se caracteriza por elevación persistente (>20 min) del segmento ST del electrocardiograma",
+   "B": "Para que sea considerado SCACEST debe estar elevado el segmento ST al menos en dos derivaciones contiguas",
+   "C": "El valor de la troponina de alta sensibilidad en el momento de la atención nos indica la actitud terapéutica.",
+   "D": "La clínica compatible junto con la elevación patológica del ST en las derivaciones V3 y V4 indican IAM anterior"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el manejo del SCA (síndrome coronario agudo) cual de los siguientes valores aporta un riesgo de hemorragia más alto de acuerdo con la escala CRUSADE:",
+  "opciones": {
+   "A": "Hematocrito 31-33,9%",
+   "B": "Aclaramiento de creatinina 15-30 ml/min",
+   "C": "Frecuencia cardiaca 71-80 l/min",
+   "D": "Ser diabético"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el SCA (síndrome Coronario Agudo) la intervención coronaria percutánea primaria, es correcto que:",
+  "opciones": {
+   "A": "En el SCACEST, se realice deseablemente en menos de 24h",
+   "B": "En el SCACEST, Se realice en menos de 90 minutos tras el primer contacto médico",
+   "C": "En el SCASEST se prefiere fibrinólisis",
+   "D": "Si la ICP se realiza en menos de 120 min, no está indicado administrar ácido acetil salicílico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En cuanto al tratamiento del SCA (Síndrome Coronario Agudo), señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El ácido acetil salicílico se debe administrar lo antes posible a dosis de 250mg, preferiblemente vía oral masticado",
+   "B": "La dosis inicial de ticagrelor en el SCA, es de 180mg",
+   "C": "La dosis inicial de prasugrel en el SCA es de 60mg",
+   "D": "El ácido acetil salicílico no se debe administrar si se utiliza prasugrel"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Acude un paciente en edema agudo de pulmón con hipotensión, cuál de los siguientes fármacos consideras más indicado para su tratamiento inicial:",
+  "opciones": {
+   "A": "Furosemida IV",
+   "B": "Nitroglicerina IV",
+   "C": "Dobutamina IV",
+   "D": "Dopamina IV"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De acuerdo con la clasificación funcional NYHA de la insuficiencia cardiaca, un paciente en que la actividad física que puede realizar es inferior a la habitual, de modo que está limitado notablemente por la disnea, diríamos que es:",
+  "opciones": {
+   "A": "Clase I",
+   "B": "Clase II",
+   "C": "Clase III",
+   "D": "Clase IV"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes es menos frecuente encontrar en la Insuficiencia cardiaca izquierda",
+  "opciones": {
+   "A": "Edemas en extremidades inferiores",
+   "B": "Crepitantes bibasales",
+   "C": "Ortopnea",
+   "D": "Disnea paroxística nocturna"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante un paciente, sintomático que presenta un Bloqueo AV de tercer grado con ritmo de escape ventricular, cuál de las siguientes actuaciones consideras menos eficaz:",
+  "opciones": {
+   "A": "Administrar atropina 0,5mg/iv",
+   "B": "Administrar isoproterenol en perfusión 2mcg/min",
+   "C": "Colocar un marcapasos transcutáneo",
+   "D": "Adrenalina IV en perfusión 2mcg/min"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente varón de 76 años que presenta una arritmia por fibrilación auricular y está en tratamiento por hipertensión arterial, ¿Cuál es su puntuación CHA2DS2-VASc?",
+  "opciones": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes fármacos NO se utiliza para control de ritmo en la fibrilación auricular",
+  "opciones": {
+   "A": "Digoxina",
+   "B": "Flecainida",
+   "C": "Dronedarona",
+   "D": "Amiodarona"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente que se encuentra en tratamiento con hidroxicloroquina y azitromicina, presenta episodios de taquicardia ventricular polimorfa. Cuál de los siguientes consideras el tratamiento más correcto:",
+  "opciones": {
+   "A": "Retirar ambos fármacos y administrar sulfato de magnesio",
+   "B": "Retirar hidroxicloroquina y administrar sulfato de magnesio",
+   "C": "Administrar sulfato de magnesio y continuar el tratamiento actual",
+   "D": "Realizar desfibrilación"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto a la endocarditis, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Para su diagnóstico se requiere, ecocardiografía y hemocultivos.",
+   "B": "La válvula más frecuentemente afectada en endocarditis infecciosa es la tricúspide",
+   "C": "En usuarios de drogas inyectables vía iv, la válvula más frecuentemente afectada es la mitral",
+   "D": "Es más frecuente en niños"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La elevación brusca de la presión arterial que produce alteraciones orgánicas o funcionales de un órgano como el riñón, se denomina:",
+  "opciones": {
+   "A": "Urgencia hipertensiva leve",
+   "B": "Urgencia hipertensiva moderada",
+   "C": "Urgencia hipertensiva grave",
+   "D": "Emergencia hipertensiva"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el análisis de un paciente con Insuficiencia renal aguda apreciamos: Densidad >1018, osmolaridad > de 500mOsm/l, Na en orina <20mEq/l, FeNa <1%, sedimento anodino. Cuál de las siguientes respuestas es correcta:",
+  "opciones": {
+   "A": "Se trata muy probablemente de insuficiencia renal aguda prerrenal",
+   "B": "Se trata muy probablemente de insuficiencia renal aguda parenquimatosa",
+   "C": "Es típica de nefropatía tubulointersticial aguda",
+   "D": "Es típica de necrosis tubular aguda"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señala la actitud correcta ante una paciente de 30 años, sin patologías previas, que acude a urgencias hospitalarias refiriendo polaquiuria y disuria, sin fiebre, ni dolor abdominal:",
+  "opciones": {
+   "A": "Realizar analítica de sangre y orina e iniciar tratamiento antibiótico en urgencias",
+   "B": "Realizar tira de orina, si es patológica (presencia de nitritos), indicar antibiótico monodosis vo",
+   "C": "Remitir a su centro de salud sin exploración ni tratamiento",
+   "D": "Realizar analítica de orina urgente, dejar cursado urocultivo e indicar tratamiento antibiótico independientemente del resultado inicial."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de las siguientes afirmaciones es INCORRECTA en relación a la presencia de seudohematuria:",
+  "opciones": {
+   "A": "Se presenta en el síndrome de aplastamiento por mioglobinuria",
+   "B": "La toma de rifampicina suele provocarla",
+   "C": "La toma de anticoagulantes es su principal causa",
+   "D": "Los procesos febriles pueden provocarla"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De los siguientes, ¿cual se ve más afectados por las radiaciones ionizantes?:",
+  "opciones": {
+   "A": "Médula ósea",
+   "B": "Aparato cardiovascular",
+   "C": "Hígado",
+   "D": "Aparato respiratorio"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes fármacos se considera útil para prevenir los efectos de la radiación nuclear.",
+  "opciones": {
+   "A": "Sulfato potásico vía oral",
+   "B": "Carbonato cálcico vía oral",
+   "C": "Sulfato de magnesio vía IV",
+   "D": "Yoduro potásico vía oral"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes fármacos está más frecuentemente implicado con la esofagitis aguda medicamentosa",
+  "opciones": {
+   "A": "Doxiciclina",
+   "B": "Amoxicilina",
+   "C": "Omeprazol",
+   "D": "Levofloxacino"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación con las diferencias entre el coma estructural y el tóxico-metabólico, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "En el coma estructural los reflejos oculocefálicos y oculovestibulares son patológicos.",
+   "B": "En el coma tóxico-metabólico el tono muscular es normal o disminuido y simétrico.",
+   "C": "En el coma tóxico-metabólico se objetiva asimetría en la motilidad ocular.",
+   "D": "En el coma estructural el fondo de ojo es patológico: hemorragia subhialoidea y edema de papila."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente en coma, cuyos antecedentes no se conocen, ¿qué prueba de las siguientes se realizará en primer lugar?",
+  "opciones": {
+   "A": "Gasometría arterial.",
+   "B": "TAC craneal.",
+   "C": "Exploración general y neurológica reglada.",
+   "D": "Determinación de glucemia mediante tira reactiva."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Una crisis de ausencia atípica se clasifica como:",
+  "opciones": {
+   "A": "Parcial compleja.",
+   "B": "Parcial simple.",
+   "C": "Parcial secundariamente generalizada.",
+   "D": "Generalizada."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de los siguientes tipos de Ictus hemorrágicos no es subsidiario de tratamiento quirúrgico?",
+  "opciones": {
+   "A": "Hematoma encapsulado que se comporte como una masa cerebral.",
+   "B": "Hematoma profundo en paciente hipertenso.",
+   "C": "Hematoma cerebeloso con disminución del nivel de conciencia y/o signos de compresión del tronco encefálico.",
+   "D": "Hemorragia lobar (mayor de 30 ml) que se encuentren a menos de 1 cm de la superficie cerebral con deterioro neurológico progresivo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente con etilismo crónico la aparición de encefalopatía de Wernicke puede ser desencadenada por la administración de:",
+  "opciones": {
+   "A": "Cloruro potásico.",
+   "B": "Vitamina B1.",
+   "C": "Glucosa.",
+   "D": "Vitamina B12."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante la confirmación o sospecha de hipertensión intracraneal, ¿cuál de las siguientes respuestas es falsa?",
+  "opciones": {
+   "A": "La utilización de manitol requiere controlar la volemia, los electrolitos séricos y la osmolaridad plasmática que no debe superar los 320 mOsm/l.",
+   "B": "La hiperventilación mecánica manteniendo una PaCO2 de 28-35 mmHg puede ser útil como primera medida ante una descompensación aguda o previa al tratamiento quirúrgico.",
+   "C": "Los corticoides intravenosos están indicados en las primeras horas del ictus, ya sea isquémico o hemorrágico.",
+   "D": "La dosis de manitol empleada es de 1g/Kg por vía intravenosa administrados en 20 minutos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Qué sospecharía ante un paciente de 72 años que presenta dolor en la región temporal acompañada de claudicación mandibular y con disminución de la agudeza visual?:",
+  "opciones": {
+   "A": "Glaucoma.",
+   "B": "Arteritis de la arteria oftálmica.",
+   "C": "Arteritis de la arteria temporal.",
+   "D": "Migraña con aura."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de estos cuadros no se considera como complicación de la migraña:",
+  "opciones": {
+   "A": "Estatus migrañoso.",
+   "B": "Infarto migrañoso.",
+   "C": "Crisis epiléptica desencadenada por aura migrañosa.",
+   "D": "Migraña hemipléjica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente de 52 años sin patologías previas es diagnosticado en el servicio de urgencias de meningitis aguda probablemente de origen bacteriano. En la analítica realizada se detecta una granulocitopenia de 750 leucocitos por milímetro cúbico. ¿Cuál sería el tratamiento más correcto?",
+  "opciones": {
+   "A": "Ampicilina + Cefotaxima.",
+   "B": "Vancomicina + Ceftazidima.",
+   "C": "Penicilina G sódica + Cloranfenicol.",
+   "D": "Vancomicina + Ceftazidima + Amikacina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De los siguientes criterios de ingreso de una crisis asmática, cuál no constituye indicación de ingreso en la Unidad de Cuidados Intensivos:",
+  "opciones": {
+   "A": "Agotamiento.",
+   "B": "Alteración del estado de conciencia.",
+   "C": "Obstrucción muy grave de la vía aérea con deterioro clínico.",
+   "D": "Necesidad de oxígeno suplementario para mantener una SPO2 superior al 92%."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el tratamiento de un paciente con diagnóstico de crisis moderada-grave de asma (niveles II y I), señale qué tratamiento no está recomendado:",
+  "opciones": {
+   "A": "Salbutamol.",
+   "B": "Bromuro de ipratropio.",
+   "C": "Sulfato de magnesio.",
+   "D": "Teofilina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De las siguientes afirmaciones con respecto a las exploraciones realizadas en un paciente con neumonía, señale cuál es INCORRECTA:",
+  "opciones": {
+   "A": "La gasometría normal no invalida el diagnóstico.",
+   "B": "Las neumonías por aspiración suelen localizarse preferentemente en lóbulos superiores.",
+   "C": "Son datos de gravedad cifras de leucocitosis por encima de 30.000/µl o la leucocitopenia menor de 4.000/µl.",
+   "D": "Una cifra elevada de procalcitonina se correlaciona con mayor gravedad de la Neumonía."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Una radiografía de tórax normal es lo habitual en el tromboembolismo pulmonar pero debe realizarse para descartar otros diagnósticos. ¿Cuál de las siguientes alteraciones radiológicas no es sugestiva de tromboembolismo pulmonar?",
+  "opciones": {
+   "A": "Atelectasias en lóbulos superiores.",
+   "B": "Derrame pleural que puede consistir solo en pinzamiento del seno costofrénico.",
+   "C": "Joroba de Hampton.",
+   "D": "Truncamiento (signo del nudillo)."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA con respecto al análisis del líquido pleural en urgencias",
+  "opciones": {
+   "A": "Son característicos del empiema, el pH del líquido inferior a 7 y la glucosa es inferior a 40mg/dl.",
+   "B": "La elevación de la Adenosina desaminasa es concluyente para el diagnóstico del derrame tuberculoso.",
+   "C": "En el quilotórax los triglicéridos del líquido son superiores a 110 mg/dl.",
+   "D": "En el hemotórax, la relación entre hematocrito del líquido y del suero es superior a 0,5."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes situaciones se considera contraindicación absoluta de intervención quirúrgica en la hemoptisis masiva?",
+  "opciones": {
+   "A": "Hemorragia pulmonar difusa.",
+   "B": "Localización unilateral de la hemorragia (lobular o segmentaria).",
+   "C": "Condiciones de operabilidad funcional conforme a la intervención prevista.",
+   "D": "Supervivencia de la enfermedad originaria superior a 6 meses."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto al neumotórax espontáneo señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El 90% de los Neumotórax espontáneos se relacionan con el esfuerzo.",
+   "B": "El neumotórax espontáneo primario tiene su máxima incidencia entre los 20-30 años.",
+   "C": "El neumotórax catamenial se presenta en el 3-6% de las mujeres en edad fértil.",
+   "D": "En la EPOC el neumotórax se debe a la rotura de bullas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Entre los criterios de ingreso hospitalario de una Neumonía Adquirida en la Comunidad no se incluye:",
+  "opciones": {
+   "A": "Necesidad de medicación intravenosa o de ventilación mecánica no invasiva.",
+   "B": "Neumonía con criterios de gravedad (PSI >II o CURB65>1).",
+   "C": "Circunstancias que imposibiliten un tratamiento ambulatorio.",
+   "D": "Presencia de fiebre alta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto al tratamiento domiciliario del asma indique la repuesta INCORRECTA:",
+  "opciones": {
+   "A": "Una pauta corta de corticoides orales solamente está indicada en crisis moderadas pero no en crisis leves.",
+   "B": "El uso de dispositivos que combinan, en dosis fijas, un corticoide inhalado y un betaadrenérgico es tan eficaz como la administración de cada fármaco por separado.",
+   "C": "Los agonistas betaadrenérgicos de acción prolongada deben administrarse asociados a corticoides inhalados.",
+   "D": "Los antagonistas de los receptores de los leucotrienos deben mantenerse en el momento del alta si el paciente los tenía prescritos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Indique el tratamiento antibiótico de elección en caso de neumonía con sospecha de infección por Estafilococo aureus resistente a la meticilina:",
+  "opciones": {
+   "A": "Clindamicina 600 mg/6-8 horas.",
+   "B": "Vancomicina 1 g/12 horas.",
+   "C": "Cefepima 2g/12 horas.",
+   "D": "Meropenem 1 g/8 horas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta correcta respecto al tratamiento de la colitis pseudomembranosa por Clostridium difficile:",
+  "opciones": {
+   "A": "Los agentes probióticos son el tratamiento de elección de la colitis pseudomembranosa.",
+   "B": "En el tratamiento de esta enfermedad están indicados los opiáceos",
+   "C": "El tratamiento antibiótico para la colitis pseudomembranosa es la azitromicina en dosis única de 1 g por vía oral.",
+   "D": "En el tratamiento antibiótico en cuadros de colitis pseudomembranosa de mayor gravedad puede utilizarse metronidazol o vancomicina."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿En cuál de los siguientes microorganismos pensaría como responsable de una gastroenteritis aguda que cursa con la presencia en heces de moco, sangre y pus?",
+  "opciones": {
+   "A": "Shigella.",
+   "B": "Escherichia coli enterotoxigénica.",
+   "C": "Virus.",
+   "D": "Salmonella."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente de 85 años, en tratamiento con digital, furosemida y antiagregantes plaquetarios, consulta por dolor abdominal difuso de 8 horas de evolución acompañado de vómitos oscuros y deposiciones líquidas con sangre. En la exploración presenta tensión arterial de 95/55, temperatura axilar de 36,8, abdomen distendido, con timpanismo difuso, ausencia de signos de irritación peritoneal y muy escasos ruidos intestinales a la auscultación. ¿Cuál sería el primer diagnóstico de sospecha?:",
+  "opciones": {
+   "A": "Hemorragia digestiva baja",
+   "B": "Colitis ulcerosa",
+   "C": "Isquemia/necrosis mesentérica",
+   "D": "Gastroenteritis aguda enteroinvasiva"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de los siguientes parámetros analíticos nos permitiría diferenciar si el sangrado digestivo es de origen alto o bajo?:",
+  "opciones": {
+   "A": "Valor del hematocrito.",
+   "B": "Estudio de la coagulación.",
+   "C": "Fracción de excreción de sodio.",
+   "D": "Cociente urea/creatinina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto a las causas más frecuentes de hemorragia digestiva baja según la edad, indique la opción correcta:",
+  "opciones": {
+   "A": "La causa más frecuente de hemorragia digestiva baja en adultos mayores de 60 años es la enfermedad inflamatoria intestinal crónica.",
+   "B": "Las causas más frecuentes, independientemente de la edad, son las hemorroides y las fisuras anales.",
+   "C": "En adolescentes y adultos jóvenes la causa más frecuente de hemorragia digestiva baja es la angiodisplasia colónica.",
+   "D": "En adultos menores de 60 años la causa más frecuente de hemorragia digestiva baja es la enfermedad diverticular."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿En cuál de las siguientes circunstancias está indicada la antibioterapia en la obstrucción intestinal?",
+  "opciones": {
+   "A": "Íleo paralítico.",
+   "B": "En toda obstrucción intestinal.",
+   "C": "Íleo espático.",
+   "D": "En la obstrucción intestinal en la que se sospeche afectación vascular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes no es causa de obstrucción intestinal mecánica?",
+  "opciones": {
+   "A": "Obstrucción de la luz intestinal por cálculos biliares.",
+   "B": "Diverticulitis aguda.",
+   "C": "Isquemia intestinal de origen trombótico.",
+   "D": "Adherencias posquirúrgicas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto a la clasificación de las hemorroides, indique cuál de las siguientes afirmaciones es INCORRECTA:",
+  "opciones": {
+   "A": "En el grado II las hemorroides prolapsan con la defecación pero se reducen de forma espontánea.",
+   "B": "En el grado III las hemorroides prolapsan por el orificio anal con la defecación y requieren reducción manual.",
+   "C": "En el grado I no prolapsan a través del canal anal.",
+   "D": "En grado IV las hemorroides prolapsan por el orificio anal con la defecación y se observan signos de trombosis hemorroidal."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente de 13 años presenta dolor testicular y en la exploración física se observa reflejo cremastérico presente y disminución del dolor al elevar el testículo. ¿Cuál sería el diagnóstico más probable?",
+  "opciones": {
+   "A": "Orquiepididimitis.",
+   "B": "Torsión testicular.",
+   "C": "Hidrocele.",
+   "D": "Tumor testicular."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De las siguientes afirmaciones en relación al volumen de orina en la insuficiencia renal aguda, indique cuál es INCORRECTA:",
+  "opciones": {
+   "A": "La emisión total de orina puede ser normal.",
+   "B": "El volumen total de orina tiene un gran valor diagnóstico.",
+   "C": "La insuficiencia renal aguda se clasifica según el volumen de orina emitida en oligúrica o con diuresis conservada.",
+   "D": "El volumen total de orina puede ser nulo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Indique cuál de los siguientes fármacos está indicado en la litiasis ureteral con fines expulsivos:",
+  "opciones": {
+   "A": "Metoclopramida en dosis de 10 mg cada 8 horas.",
+   "B": "Desketoprofeno trometamol en dosis de 50 mg cada 8 horas.",
+   "C": "Metamizol magnésico en dosis de 2g cada 8 horas.",
+   "D": "Tamsulosina en dosis de 0,4 mg cada 24 horas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Indique la opción correcta con respecto al tratamiento antibiótico de la uretritis",
+  "opciones": {
+   "A": "Ciprofloxacino en dosis de 500 mg cada 12 horas durante 7 días.",
+   "B": "Fosfomicina en dosis única de 3 g por vía oral.",
+   "C": "Cefditoreno en dosis de 200 mg cada 12 horas durante 7 días.",
+   "D": "Ceftriaxona 1 g vía intramuscular en dosis única asociado a doxiciclina en dosis de 100 mg cada 12 horas durante 7 días."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale el síntoma más frecuente del síndrome nefrítico agudo:",
+  "opciones": {
+   "A": "Hipertensión arterial.",
+   "B": "Edemas, siendo frecuente el desarrollo de anasarca.",
+   "C": "Proteinuria superior a 3 g/24 horas.",
+   "D": "Hematuria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale de entre las siguientes exploraciones complementarias en el diagnóstico de una perforación esofágica cuál está contraindicada:",
+  "opciones": {
+   "A": "Radiografía con contraste hidrosoluble (gastrografía).",
+   "B": "Radiografía anteroposterior y lateral cervical.",
+   "C": "Tomografía computarizada.",
+   "D": "Endoscopia digestiva alta."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a la Ascitis señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Se denomina Ascitis a la acumulación de líquido serofibrinoso libre en la cavidad peritoneal en cantidad superior a 100 ml",
+   "B": "La dosis de albúmina recomendada al realizar una paracentesis evacuadora es de un frasco de 50 ml (10 gr) por cada 1,5L de líquido ascítico extraído",
+   "C": "La administración de Aminoglucósidos no está contraindicada en la Peritonitis bacteriana espontánea",
+   "D": "La cuantía de líquido ascítico evacuado no debe superar los 5L para evitar disfunciones hidroelectrolíticas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente con ictericia es aconsejable el ingreso hospitalario en las siguientes circunstancias, EXCEPTO en:",
+  "opciones": {
+   "A": "Encefalopatía hepática",
+   "B": "Sepsis de cualquier localización",
+   "C": "Hepatitis aguda con actividad de protrombina inferior al 50%",
+   "D": "Enfermedad de Gilbert"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál no es causa de hiperbilirrubinemia de predominio indirecto?:",
+  "opciones": {
+   "A": "Cirrosis biliar primaria",
+   "B": "Gilbert",
+   "C": "Sepsis",
+   "D": "Hemólisis"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a las alteraciones del equilibrio ácido-básico señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La sangre venosa refleja el grado de acidosis con la misma exactitud que la arterial",
+   "B": "El mecanismo compensador de la acidosis metabólica es la disminución del a PaCO2 por hiperventilación",
+   "C": "La acidosis metabólica con Anión GAP normal se denomina también normoclorémica",
+   "D": "Una de las causa de acidosis metabólica con Anión GAP elevado es la cetoacidosis diabética"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a las alteraciones de los trastornos hidroelectrolíticos señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "La hiponatremia se clasifica como grave en concentraciones séricas inferiores a 115 meq/l, o cuando, independientemente de la natremia existan síntomas neurológicos acompañantes",
+   "B": "La hipopotasemia se clasifica como grave si la concentración de potasio sérico se encuentra entre 2,5-2,9 meq/l",
+   "C": "En la hipernatremia la corrección del déficit de agua debe realizarse rápidamente en las primeras 5 horas",
+   "D": "En la hiperpotasemia no está indicada la retirada de IECAs o ARA-II"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Entre las causa de Hipopotasemia se encuentran todas, menos:",
+  "opciones": {
+   "A": "Diarrea",
+   "B": "Insuficiencia suprarrenal",
+   "C": "Alcalosis metabólica de cualquier causa",
+   "D": "Hiperaldosteronismo"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Varón de 49 años. Antecedentes personales de Fibrilación auricular en tratamiento con amiodarona. Acude por un cuadro de fiebre de 38ºC, agitación, vómitos y diarrea. En la exploración taquicardia sinusal a 130 lpm. ¿Cuál es el diagnóstico más probable en este paciente?:",
+  "opciones": {
+   "A": "Crisis mixedematosa",
+   "B": "Shock cardiogénico",
+   "C": "Crisis tirotóxica",
+   "D": "Síndrome de Liddle"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La crisis addisoniana o insuficiencia suprarrenal aguda es una emergencia médica. ¿Cuál de estos tratamientos no es el adecuado?:",
+  "opciones": {
+   "A": "Perfusión de insulina rápida",
+   "B": "Tratamiento de la depleción hidrosalina para corregir la deshidratación y la hiponatremia",
+   "C": "Hidrocortisona iv",
+   "D": "Dexametasona iv"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Hay una serie de situaciones que pueden desencadenar una crisis tirotóxica. Todas son CORRECTAS menos una:",
+  "opciones": {
+   "A": "Administración de contrastes yodados",
+   "B": "Intoxicación por insecticidas organofosforados",
+   "C": "Síndrome de la vena cava superior",
+   "D": "Gestación"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Es cierto en la Cetoacidosis diabética que:",
+  "opciones": {
+   "A": "Se presenta habitualmente en enfermos con DM tipo 2",
+   "B": "Siempre debe administrarse bicarbonato sódico",
+   "C": "La acidosis metabólica se produce como consecuencia de acumulación de cuerpos cetónicos en la sangre",
+   "D": "La perfusión de insulina se suspenderá con cifras de glucemia inferiores a 250 mgrs/dl"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a la descompensación hiperglucémica hiperosmolar no cetósica, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Se da en los diabéticos tipo 2",
+   "B": "La glucemia (mgrs/dl) será inferior a 600",
+   "C": "La velocidad de instauración es en días",
+   "D": "La cetonemia/cetonuria serán negativas o positivas débiles"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la patología diabética:",
+  "opciones": {
+   "A": "Se considera cetonemia grave cuando es superior a 2 mmol/l",
+   "B": "Más del 90% de las hipoglucemias son exógenas o inducidas",
+   "C": "La hiperventilación (respiración de Kussmaul) forma parte de los síntomas y signos característicos de la cetoacidosis diabética",
+   "D": "Si la clínica neurológica persiste 30 minutos después de la normalización de la glucemia, habrás que descartar otras alteraciones metabólicas o lesiones estructurales cerebrales"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la orientación diagnóstica de las monoartritis:",
+  "opciones": {
+   "A": "La artritis séptica presenta un comienzo súbito",
+   "B": "La espondilitis anquilosante es predominante en el sexo femenino",
+   "C": "La artritis microcristalina tiene más incidencia en adultos mayores de 50 años",
+   "D": "La gota se localiza en mayor frecuencia en la primera articulación MTF"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Requieren ingreso hospitalario todos los pacientes, menos:",
+  "opciones": {
+   "A": "Pacientes con líquido sinovial con 2000 leucocitos/microL (30%) PMN",
+   "B": "Pacientes con monoartritis séptica",
+   "C": "Pacientes con monoartritis aguda febril con duda diagnóstica",
+   "D": "Pacientes con evidencia de líquido sinovial hemático, con trastornos de la coagulación sanguínea demostrado"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la afirmación INCORRECTA en cuanto a las indicaciones de transfusión:",
+  "opciones": {
+   "A": "La necesidad de transfusión no depende del volumen del sangrado, del tiempo de evolución, situación hemodinámica y antecedentes del paciente",
+   "B": "Hemoglobina igual o inferior a 6 gr/dl siempre requiere transfusión",
+   "C": "En la Anemia crónica la transfusión generalmente no debe realizarse cuando la concentración de Hb es superior a 10 gr/dl",
+   "D": "Con hemoglobina entre 6 y 8 gr/dl estaría indicada la transfusión en pacientes con factores de riesgo o síntomas de hipoxemia o descompensación"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Dentro de las principales causas de Anemia normocítica está:",
+  "opciones": {
+   "A": "La Anemia hemolítica",
+   "B": "Déficit de Vitamina B12",
+   "C": "Síndrome mielodisplásico",
+   "D": "Consumo de alcohol"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a las Anemias, señale la afirmación CORRECTA:",
+  "opciones": {
+   "A": "Se considera una anemia moderada cuando la cifra de Hemoglobina está entre 6-8 grs/dl",
+   "B": "Las alteraciones neurológicas como parestesias o ataxia, sugieren déficit de Vitamina B12",
+   "C": "El sulfato ferroso debe administrarse en la anemia ferropénica junto con inhibidores de la bomba de protones para favorecer la tolerabilidad",
+   "D": "Las anemias moderadas con buena tolerancia deben ser ingresadas siempre para realizar el estudio etiológico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la Trombocitopenia inmunitaria primaria:",
+  "opciones": {
+   "A": "Es un tipo de Trombocitopenia inmunitaria adquirida cuyo diagnóstico es de exclusión",
+   "B": "En su forma aguda con frecuencia va precedida de un cuadro vírico prodrómico",
+   "C": "En su forma crónica la esplenomegalia es muy frecuente",
+   "D": "Habitualmente el recuento plaquetario es menor en la forma aguda que en la crónica"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes afirmaciones son incorrectas respecto a la Púrpura Trombocitopénica Trombótica (PTT)?:",
+  "opciones": {
+   "A": "La PTT es un síndrome microangiopático trombótico con afectación de pequeño vaso",
+   "B": "Esta enfermedad no requiere ingreso hospitalario",
+   "C": "El tratamiento de elección es la plasmaféresis más corticoides y antiagregantes plaquetarios con reposición de plasma fresco congelado",
+   "D": "Debe sospecharse ante un paciente que presente trombocitopenia (10.000-50.000/microL)"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La administración de Idarucizumab se utiliza para la reversión rápida del efecto anticoagulante. ¿De cuál de los siguientes anticoagulantes de acción directa?:",
+  "opciones": {
+   "A": "Apixabán",
+   "B": "Edoxabán",
+   "C": "Ribaroxabán",
+   "D": "Dabigatrán"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la anticoagulación oral con fármacos antivitamina K, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Con INR > 5 sin sangrado, se debe dejar de tomar el fármaco y control en 2 días",
+   "B": "Ante un sangrado menor (epistaxis…) con un INR en rango terapéutico, se requiere control local del sangrado y supresión del fármaco 24h",
+   "C": "En un sangrado mayor se debe suspender el fármaco antivitamina K, administrar vitamina K y concentrado protrombínico según el INR y el peso del paciente",
+   "D": "Ante ausencia de sangrado con un INR elevado < 5, se debe dejar de tomar el fármaco 1-2 días y control en una semana"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la reacción hemolítica aguda postransfusional:",
+  "opciones": {
+   "A": "La reacción hemolítica aguda es el efecto adverso más grave",
+   "B": "Los hematíes transfundidos son destruidos masivamente por anticuerpos presentes en el plasma del receptor",
+   "C": "El uso de la dopamina no está indicado en su tratamiento",
+   "D": "La causa más frecuente es la incompatibilidad ABO"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Mujer de 40 años que acude a urgencias por un cuadro de afectación del estado general, placas eritematosa, dolorosas, de superficie irregular (\"en montaña rusa\"), localizados en cara, cuello y parte superior del tronco. ¿Cuál de los siguientes cuadros es el más probable?:",
+  "opciones": {
+   "A": "Eritema nudoso",
+   "B": "Síndrome de Sweet",
+   "C": "Púrpura de Schönlein-Henoch",
+   "D": "Granuloma piógeno"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Varón de 70 años que presenta ampollas tensas en abdomen, axilas e ingles, sin afectación mucosa ni del estado general y signo de Nikolsky negativo. Le diagnosticaremos de:",
+  "opciones": {
+   "A": "Pénfigo vulgar",
+   "B": "Psoriasis guttata",
+   "C": "Penfigoide ampolloso",
+   "D": "Eritema exudativo multiforme"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA en relación a la Necrolisis epidérmica tóxica:",
+  "opciones": {
+   "A": "Se produce por una reacción adversa a fármacos",
+   "B": "El signo de Nikolsky es positivo",
+   "C": "Las mucosa suelen afectarse",
+   "D": "Deben utilizarse en su tratamiento los Antibióticos y corticoides por vía tópica"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente con intoxicación por Cocaína, señale la INCORRECTA:",
+  "opciones": {
+   "A": "Si presenta crisis convulsivas el tratamiento de elección es el midazolam",
+   "B": "En el caso de arritmias los B-bloqueantes están contraindicados",
+   "C": "Entre las manifestaciones clínicas de la intoxicación aguda pueden aparecer euforia, miosis, hipertermia, agitación y coma",
+   "D": "La diuresis ácida y la hemodiálisis son ineficaces"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La triada clásica de la Encefalopatía de Wernicke incluye:",
+  "opciones": {
+   "A": "Nistagmo y oftalmoplejia, incontinencia de esfínteres y ataxia",
+   "B": "Nistagmo y oftalmoplejia, parálisis facial y ataxia",
+   "C": "Nistagmo y oftalmoplejia, ceguera central y ataxia",
+   "D": "Nistagmo y oftalmoplejia, cambio del estado mental y ataxia"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el tratamiento de la intoxicación aguda por ingestión de cáusticos, señale la FALSA:",
+  "opciones": {
+   "A": "El lavado gástrico y la administración de carbón activado están contraindicados",
+   "B": "La terapia dilucional con agua o leche no se recomienda",
+   "C": "Los ácidos producen daño tisular por necrosis de coagulación",
+   "D": "No es necesario realizar Radiografía de tórax y simple de abdomen"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta CORRECTA en la intoxicación aguda por salicilatos:",
+  "opciones": {
+   "A": "La manifestaciones clínicas de la intoxicación aguda aparecen después de un periodo de latencia de 2h",
+   "B": "La dosis tóxica de salicilatos en el adulto es de 10 gr",
+   "C": "La glucemia debe seriarse debido al riesgo de hiperglucemia en esta intoxicación",
+   "D": "Está contraindicado el lavado gástrico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Pertenecen al grupo de insecticidas organofosforados, todas menos:",
+  "opciones": {
+   "A": "Paration",
+   "B": "Malation",
+   "C": "DDT",
+   "D": "Albicarb"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En las intoxicaciones por setas señale la FALSA:",
+  "opciones": {
+   "A": "Producen síntomas colinérgicos",
+   "B": "Producen síntomas atropínicos",
+   "C": "Si los síntomas aparecen después de transcurridos 6 horas se trata, generalmente, de intoxicaciones leves",
+   "D": "Si presentan hemorragias se administra plasma fresco y vitamina K"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la FALSA en relación a la intoxicación por cianuro:",
+  "opciones": {
+   "A": "El cianuro se produce por la combustión de materias plásticas y espumas de poliuretano",
+   "B": "Origina acidosis láctica con Anión GAP elevado",
+   "C": "La hidroxicobalamina (B12) asociada o no a tiosulfato sódico es el tratamiento de elección",
+   "D": "No produce alteraciones electrocardiográficas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la FALSA en la intoxicación por monóxido de carbono:",
+  "opciones": {
+   "A": "La afinidad de la Hb para el monóxido de carbono es unas 200-300 veces mayor que para el O2",
+   "B": "La pulsioximetría, que determina la saturación periférica de O2, tiene un alto valor",
+   "C": "Entre las complicaciones más importantes están el Edema agudo de pulmón y el Infarto agudo de miocardio",
+   "D": "En las víctimas de incendios puede existir intoxicación conjunta por monóxido y cianuro"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El carbón activado no está indicado en la intoxicación por:",
+  "opciones": {
+   "A": "Intoxicación por Salicilatos",
+   "B": "Intoxicación por Benzodiacepinas",
+   "C": "Intoxicación por Litio",
+   "D": "Intoxicación por B-bloqueantes"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta CORRECTA en relación a la Neuritis óptica:",
+  "opciones": {
+   "A": "Es típica la mácula de color rojo cereza",
+   "B": "Hay que descartar Esclerosis Múltiple y arteritis de la temporal",
+   "C": "No ocasiona pérdida de visión",
+   "D": "La papila óptica no se encuentra afectada"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante un paciente que ha presentado síntomas previos de miodesopsias o fotopsias y aparece una disminución de la visión y una amputación del campo visual, generalmente como \"una cortina\", pensaremos en:",
+  "opciones": {
+   "A": "Una uveítis posterior",
+   "B": "Una hemorragia vítrea",
+   "C": "Un desprendimiento de retina",
+   "D": "Una Neuritis óptica"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Si ante una exploración ocular encontramos signos como una importante disminución de la agudeza visual, un descenso de la presión intraocular (PIO), un alteración de la forma de la pupila, edema conjuntival y aplanamiento de la cámara anterior, pensaremos en:",
+  "opciones": {
+   "A": "Una abrasión ocular",
+   "B": "Una perforación del globo ocular",
+   "C": "Una queratoconjuntivitis actínica",
+   "D": "Una laceración conjuntival"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el absceso periamigdalino señale la CORRECTA:",
+  "opciones": {
+   "A": "Es más frecuente en ancianos",
+   "B": "Clínicamente presenta escaso dolor de garganta y disfagia",
+   "C": "Presenta abombamiento unilateral de la amígdala hacia la línea media",
+   "D": "Precisa drenaje quirúrgico y antibioterapia con Ciprofloxacino"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál no es un vértigo periférico?",
+  "opciones": {
+   "A": "Enfermedad de Méniere",
+   "B": "Neuronitis vestibular",
+   "C": "Esclerosis múltiple",
+   "D": "Síndrome de Ramsey-Hunt"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La otitis externa maligna es producida por:",
+  "opciones": {
+   "A": "Chlamydia trachomatis",
+   "B": "Estreptococo B-hemolítico del grupo A",
+   "C": "Streptococcus pyogenes",
+   "D": "Pseudomona aeruginosa"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación al embarazo ectópico, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Su localización más frecuente es la porción ampular o ístmica de la trompa uterina",
+   "B": "Suele cursar con la triada clásica de amenorrea, metrorragia y dolor",
+   "C": "La ecografía generalmente detecta con nitidez un saco gestacional en el anejo",
+   "D": "El tratamiento definitivo puede ser quirúrgico o médico"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a las hemorragias del segundo y tercer trimestre del embarazo, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "En el desprendimiento de placenta normoinserta, la afectación fetal no depende de la cantidad de placenta desprendida",
+   "B": "La cirugía uterina previa no es un factor de riesgo de la placenta previa",
+   "C": "La clínica del desprendimiento de placenta normoinserta, cursa con hemorragia vaginal abundante y ausencia de dolor abdominal",
+   "D": "Ante una paciente con placenta previa que está estable y el feto no está afectado se debe adoptar una actitud expectante para conseguir la madurez pulmonar"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta INCORRECTA respecto a la patología vulvovaginal:",
+  "opciones": {
+   "A": "La tricomoniasis no está considerada como infección de transmisión sexual",
+   "B": "La vaginitis más frecuente está producida por cándida",
+   "C": "El principal motivo de consulta por una vaginosis bacteriana es la leucorrea y el mal olor",
+   "D": "El tratamiento del primer episodio del herpes genital se realiza con antivírico oral, ya que la vía tópica no está recomendada"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Son datos clínicos indicativos de Síndrome confusional agudo de causa somática, todos EXCEPTO:",
+  "opciones": {
+   "A": "Curso fluctuante",
+   "B": "Alucinaciones auditivas",
+   "C": "Alucinaciones visuales y táctiles",
+   "D": "Focalidad neurológica"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto al tratamiento en la mordedura de víbora, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "No debe aplicarse frío local, ya que favorece la necrosis",
+   "B": "El tratamiento antibiótico de elección, si aparecen signos de infección, será la amoxicilina/clavulánico en dosis de 1 gr/8h",
+   "C": "El tratamiento específico con suero antiofídico podrá repetirse a intervalos de 5 horas, según la evolución clínica",
+   "D": "El suero antiofídico debe administrarse en las primera 4 horas tras la mordedura"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la anafilaxia (por picadura de himenóptero), señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El diagnóstico de anafilaxia se basa eminentemente en las pruebas complementarias",
+   "B": "El neumotórax a tensión no debe ser considerado un diagnóstico diferencial en los casos de anafilaxia con sintomatología predominantemente respiratoria",
+   "C": "Todo paciente con anafilaxia (afectación laríngea, crisis de broncoespasmo) debe ingresar en el área de observación de urgencias",
+   "D": "La adrenalina no es el fármaco de primera elección en el tratamiento de la anafilaxia"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta FALSA en relación a la hipotermia:",
+  "opciones": {
+   "A": "Según la escala ICAR-MEDCON hypothermia (HT) scale, la etapa 2, HT III (28-24ºC), cursa con disminución del estado de conciencia sin escalofríos",
+   "B": "La hipotermia accidental conjuga un factor imprescindible y un factor predisponente",
+   "C": "En la hipotermia moderada desaparece el temblor como reflejo de la incapacidad del organismo para disminuir las pérdida de calor y aparece rigidez muscular",
+   "D": "En la gasometría arterial inicialmente puede detectarse alcalosis respiratoria y, en fases evolucionadas, acidosis mixta"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la FALSA respecto a las quemaduras térmicas:",
+  "opciones": {
+   "A": "Para el cálculo de la superficie corporal quemada total el sistema recomendado en la actualidad por su precisión es la planilla de Lund y Browder",
+   "B": "Si el estado de inmunización de la vacunación antitetánica es desconocido se administrará la vacuna y además inmunoglobulina",
+   "C": "Si son necesarios fármacos vasoactivos, sólo están indicados en dosis presoras la Noradrenalina y la Dobutamina",
+   "D": "Si es necesaria la relajación muscular además de la sedoanalgesia, debe utilizarse, como primera elección la succinilcolina"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Todas las respuestas en relación a las lesiones por electricidad son CORRECTAS, excepto:",
+  "opciones": {
+   "A": "Hay que desvestir al paciente para permitir la pérdida de calor",
+   "B": "El rayo es corriente directa que pude producir asistolia con mínimas quemaduras superficiales",
+   "C": "Todas las quemaduras eléctricas son graves por definición y requieren ingreso hospitalario",
+   "D": "Vacunación antitetánica si el paciente no está correctamente vacunado"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En los barotraumatismos los órganos más afectados son:",
+  "opciones": {
+   "A": "El pulmón y el árbol bronquial",
+   "B": "El oído y los senos paranasales",
+   "C": "El sistema ocular",
+   "D": "Las fosas nasales y la orofaringe"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La causa más frecuente de anafilaxia en adultos es:",
+  "opciones": {
+   "A": "Alimentos",
+   "B": "Inhalación de alérgenos",
+   "C": "Picaduras de himenópteros",
+   "D": "Fármacos"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El angioedema caracterizado por el déficit de las concentraciones plasmáticas del inhibidor de la esterasa C1 es:",
+  "opciones": {
+   "A": "El angioedema adquirido tipo I",
+   "B": "El angioedema adquirido tipo II",
+   "C": "El angioedema hereditario tipo II",
+   "D": "El angioedema hereditario tipo I"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes escalas refleja un aumento de riesgo de muerte en paciente con shock séptico en el medio hospitalario?:",
+  "opciones": {
+   "A": "APACHE II",
+   "B": "WELL",
+   "C": "SOFA",
+   "D": "RANSON"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto al tratamiento inicial del Shock séptico, es cierto:",
+  "opciones": {
+   "A": "La Noradrenalina no es el fármaco vasopresor de elección en el shock séptico",
+   "B": "Se recomienda la administración precoz de antibiótico intravenoso, dentro de la primera hora tras el diagnóstico.",
+   "C": "La reposición de líquidos se realiza en bolos de 1000ml cada 60 minutos",
+   "D": "Los coloides son de primera elección en la reposición de volumen en el shock séptico"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes propuestas no se considera criterio de ingreso hospitalario en el Síndrome febril?:",
+  "opciones": {
+   "A": "Paciente pluripatológico con fiebre > 38º",
+   "B": "Fiebre de duración intermedia con imposibilidad de manejo ambulatorio",
+   "C": "Fiebre de más de 21 días aunque no presente criterios de gravedad",
+   "D": "Síndrome febril sin foco clínico que presente criterios clínicos o analíticos de gravedad, independientemente del tiempo de evolución"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En una gangrena gaseosa traumática el patógeno involucrado con mayor frecuencia es:",
+  "opciones": {
+   "A": "Staphylococcus Aureus",
+   "B": "Streptococcus Pyogenes",
+   "C": "Clostridium Perfringens",
+   "D": "Clostridium Septicum"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál es el agente etiológico principal de la bronquiolitis?:",
+  "opciones": {
+   "A": "Streptococo Pneumoniae",
+   "B": "Legionella",
+   "C": "Virus respiratorio sincitial",
+   "D": "Adenovirus"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Niño de 5 años que consulta en el Servicio de Urgencias por presentar fiebre elevada, dolor faríngeo. A la exploración se objetiva exantema rojo, punteado que aclara a la presión y textura de papel de lija, amígdalas hiperémicas y lengua aframbuesada. ¿Cuál sería la sospecha diagnóstica?:",
+  "opciones": {
+   "A": "Escarlatina",
+   "B": "Varicela",
+   "C": "Rubeola",
+   "D": "Sarampión"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta falsa con respecto a la malrotación o vólvulo intestinal en la edad pediátrica.",
+  "opciones": {
+   "A": "La malrotación es la anomalía congénita más común del intestino delgado.",
+   "B": "La gran mayoría son asintomáticas.",
+   "C": "Entre un 30 y 60% de los pacientes que las presentan también asocian otras malformaciones, generalmente digestivas.",
+   "D": "El 90% se presenta en el primer mes de vida."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el Síndrome de la Cava superior es falso:",
+  "opciones": {
+   "A": "La causa más frecuente es la compresión extrínseca de la vena cava",
+   "B": "El diagnóstico es clínico",
+   "C": "Presenta una instauración brusca",
+   "D": "El edema en esclavina es uno de los síntomas más frecuentes"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el paciente con neutropenia febril, señala el factor predisponente de complicaciones infecciosas:",
+  "opciones": {
+   "A": "Gravedad de la neutropenia",
+   "B": "Tratamiento previo con corticoides e inmunosupresores",
+   "C": "Alteración de la barrera cutáneo mucosa",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Paciente de 78 años con antecedente de carcinoma de pulmón que consulta por dolor dorsal progresiva desde hace 3 días que no se alivia con reposo, con debilidad muscular y retención urinaria, cuál sería la primera sospecha diagnóstica:",
+  "opciones": {
+   "A": "Hernia discal",
+   "B": "Síndrome de compresión medular",
+   "C": "Estenosis de canal medular",
+   "D": "Metástasis óseas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En la lesión ligamentosa de tobillo de grado I existe:",
+  "opciones": {
+   "A": "Distensión y elongación del ligamento afectado con ligero edema, dolor y escasa impotencia funcional.",
+   "B": "Desgarro parcial del ligamento",
+   "C": "Desgarro completo del ligamento",
+   "D": "Incapacidad para apoyar el pie."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "De los siguientes, cuál es el germen causal más frecuente en abscesos de cuero cabelludo, tronco y extremidades",
+  "opciones": {
+   "A": "Staphylococcus aureus",
+   "B": "Escherichia coli",
+   "C": "Proteus mirabilis",
+   "D": "Pasteurella multocida"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el tratamiento farmacológico de las lumbalgias desde urgencias, cuál de los siguientes se considera un fármaco de 2ª línea:",
+  "opciones": {
+   "A": "Paracetamol",
+   "B": "Benzodiacepinas",
+   "C": "Antidepresivos tricíclicos",
+   "D": "AINEs"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante un paciente que ha sufrido un TCE que abre los ojos de forma espontánea, intenta hablar pero sin sentido y retira la mano tras un estímulo doloroso tendría una puntuación en la Escala de Glasgow de:",
+  "opciones": {
+   "A": "8",
+   "B": "9",
+   "C": "11",
+   "D": "14"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Paciente que ingresa en el Servicio de Urgencias por accidente de moto con TCE y pérdida de conciencia, al ingreso el paciente presenta un Glasgow de 15. Durante la atención comienza con deterioro del estado mental de rápida evolución con anisocoria y hemiparesia. Ante estos hallazgos, ¿cuál sería la sospecha diagnóstica?:",
+  "opciones": {
+   "A": "Contusión cerebral",
+   "B": "Hematoma subdural",
+   "C": "Fractura de cráneo",
+   "D": "Hematoma epidural"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La fractura de Lefort III se caracteriza por:",
+  "opciones": {
+   "A": "Fractura del maxilar con movilidad de la arcada superior, raíz nasal y sutura frontomalar.",
+   "B": "Fractura de ambas ramas mandibulares",
+   "C": "Fractura del maxilar con la arcada superior móvil, pero la raíz nasal y sutura frontomalar son estables.",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto al paciente con lesión medular, ¿cómo se denomina al síndrome en el que encontramos una desproporcionada debilidad de los miembros superiores respecto a los miembros inferiores con cambios sensitivos y disfunción de la vejiga?",
+  "opciones": {
+   "A": "Lesión medular completa",
+   "B": "Lesión medular incompleta",
+   "C": "Síndrome de Brown-Sequard",
+   "D": "Síndrome cordonal posterior"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes afirmaciones le parece más correcta respecto a paciente con lesión medular?",
+  "opciones": {
+   "A": "Todo paciente con fractura vertebral requerirá tratamiento quirúrgico",
+   "B": "Todo paciente con traumatismo y alteración del nivel de conciencia debe ser considerado como susceptible de ser un lesionado medular",
+   "C": "Todo paciente con posible lesión medular será tratado con corticoides en dosis masivas.",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La mano del predicador aparece en la neuropatía del nervio mediano cuando se lesiona ¿a qué nivel?",
+  "opciones": {
+   "A": "A nivel de la axila",
+   "B": "A nivel del codo",
+   "C": "A nivel de la muñeca",
+   "D": "A nivel del tercio medio del antebrazo"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿A qué lesión se la conoce como dedo de esquiador o lesión de guardabosques?",
+  "opciones": {
+   "A": "Fractura-luxación de la base del primer metacarpiano",
+   "B": "Fractura de Rolando",
+   "C": "Rotura del ligamento colateral interno del primer dedo",
+   "D": "Ninguna de las anteriores"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cómo se conoce a la maniobra de reducción de una luxación de hombro que consiste en aducción, rotación externa, ascenso del brazo y rotación interna?",
+  "opciones": {
+   "A": "Hipocrático",
+   "B": "Método de Kocher",
+   "C": "Método de Arlt",
+   "D": "Método de Parvin"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál es la dosis recomendada para la profilaxis tromboembólica con enoxaparina, en una fractura del extremo proximal de fémur al ingreso como norma general?",
+  "opciones": {
+   "A": "3500 UI/24 horas",
+   "B": "5000 UI/24 horas",
+   "C": "1 mg/kg/24 horas",
+   "D": "0,5 mg/kg/24 horas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El servicio de emergencias médicas traslada a Urgencias un paciente con un trauma torácico provocado en un accidente automovilístico. Tras la valoración primaria y secundaria se objetivan los siguientes datos: TA 96/65 mmHg, FC 115 latidos por minuto, FR 24 respiraciones minuto, relleno capilar 3 segundos. Paciente consciente y orientado. Venas yugulares colapsadas. Tráquea adecuadamente centrada en línea media. Vía aérea permeable, movilidad torácica simétrica y bilateral. Ruidos respiratorios disminuidos en hemitórax izquierdo, tonos cardiacos aumentados, rítmicos y sin soplos. Abdomen, pelvis y extremidades inferiores sin alteraciones. ¿Cuál de los siguientes diagnósticos se ajusta más a los hallazgos encontrados?",
+  "opciones": {
+   "A": "Cuerpo extraño en faringe.",
+   "B": "Hemoneumotórax masivo izquierdo.",
+   "C": "Neumotórax a tensión izquierdo.",
+   "D": "Taponamiento cardiaco."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta falsa en relación al trauma abdominal.",
+  "opciones": {
+   "A": "El líquido libre peritoneal postraumático indica una valoración por laparotomía urgente.",
+   "B": "El examen FAST (Focused Assessment with Sonography in Trauma) permite descartar la presencia de neumoperitoneo.",
+   "C": "Las lesiones diafragmáticas son más frecuentes en el lado derecho por la presencia del hígado.",
+   "D": "La presencia de hematuria obliga a realizar una prueba de imagen que valore riñones y tracto urinario."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la valoración secundaria de la gestante politraumatizada, señale la afirmación correcta:",
+  "opciones": {
+   "A": "Se deberá valorar el estado del feto en la valoración inicial de la gestante",
+   "B": "Solo cuando la madre haya sido estabilizada se valorará el estado del feto",
+   "C": "No es necesario realizar examen pélvico y perineal de la paciente",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente de 6 años que consulta en Urgencias por un trauma grave tras un accidente de tráfico, señale la opción correcta:",
+  "opciones": {
+   "A": "La siguiente medida, tras verificar la permeabilidad de la vía aérea, será comprobar la perfusión tisular para descartar el shock.",
+   "B": "Frecuencias respiratorias de 24 respiraciones por minuto indican gravedad.",
+   "C": "La colocación de una vía central se reservará en los casos de no poder tener un acceso venoso periférico u óseo.",
+   "D": "Debido al metabolismo infantil, la perfusión de sueros hipotónicos (glucosalino, glucosado al 5%,…), es la indicada en la reanimación de estos pacientes."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En ventilación mecánica invasiva señale la respuesta incorrecta.",
+  "opciones": {
+   "A": "En Ventilación controlada (ciclada) por volumen (VC) se entrega un volumen corriente determinado en un determinado tiempo.",
+   "B": "La presión resultante en la vía aérea no es fija, sino que varía con la resistencia y la elasticidad del aparato respiratorio y con la velocidad de flujo seleccionada.",
+   "C": "Para el cálculo del volumen administrado utilizaremos el peso ideal del paciente en vez de su peso real.",
+   "D": "Pacientes con enfermedades obstructivas se benefician de tiempos espiratorios cortos para prevenir la autoPEEP"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta correcta con respecto a la violencia de género (VG).",
+  "opciones": {
+   "A": "La Guía Clínica de Actuación Sanitaria Ante la Violencia De Género de la Junta de Castilla y León propone como herramienta de ayuda a la detección de la VG el cuestionario Women Abuse Screening Tool (WAST).",
+   "B": "El manejo en Urgencias de la paciente que ha sufrido VG debe incluir una intervención mínima según el esquema ERES. Escucha activa, Reconocimiento de su vivencia, Evaluación de riesgo, Servicios de apoyo.",
+   "C": "Si existe la sospecha, no confirmada, de que la paciente puede estar sufriendo VG y existe riesgo vital o peligro extremo se debe hacer Parte Judicial.",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a la trombosis venosa profunda (TVP) señala la respuesta FALSA:",
+  "opciones": {
+   "A": "Un paciente con diagnóstico de TVP proximal y signos de tromboembolismo pulmonar con buen apoyo familiar no requiere ingreso hospitalario",
+   "B": "Un Dímero D normal en pacientes con baja probabilidad clínica de padecer TVP, prácticamente excluye el diagnóstico",
+   "C": "Un Dímero D elevado no asegura ni apoya el diagnóstico de enfermedad",
+   "D": "El eco-doppler es la prueba complementaria de elección para el diagnóstico de TVP."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto al tratamiento con anticoagulante en paciente con TVP en el contexto de una neoplasia de pulmón, ¿cuánto tiempo lo mantendrías?:",
+  "opciones": {
+   "A": "3 meses",
+   "B": "6 meses",
+   "C": "No pondría anticoagulante",
+   "D": "Al menos 12 meses"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "No es un síntoma precoz de la isquemia arterial aguda:",
+  "opciones": {
+   "A": "Palidez y frialdad",
+   "B": "Flictenas",
+   "C": "Dolor",
+   "D": "Parestesias"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo. Serán designados por y entre los representantes del personal. No obstante, el Delegado de Prevención será el Delegado de Personal en las empresas de hasta:",
+  "opciones": {
+   "A": "30 trabajadores.",
+   "B": "De 31 a 49 trabajadores.",
+   "C": "De 50 a 100 trabajadores.",
+   "D": "De 101 a 500 trabajadores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En los Aneurisma de Aorta son factores predisponentes todos excepto:",
+  "opciones": {
+   "A": "Síndrome de Marfan",
+   "B": "HTA",
+   "C": "Miocardiopatía dilatada",
+   "D": "Patologías congénitas de la Aorta"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto al uso de la capnografía de onda en la reanimación cardiopulmonar avanzada, señala la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Es útil para la comprobación de la correcta intubación orotraqueal",
+   "B": "Ayuda a detectar la recuperación de circulación espontánea",
+   "C": "Es un indicador para valorar la calidad de la RCP",
+   "D": "Las cifras bajas de CO2 al final de la inspiración indican suspender la RCP"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 154,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la pericarditis aguda, señala la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La triada típica es dolor torácico, roce pericárdico y alteraciones difusas en el ECG",
+   "B": "Las causas más frecuentes son idiopáticas o víricas",
+   "C": "El tratamiento generalmente se basa en reposo y AINES",
+   "D": "La mayoría requieren hospitalización"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 155,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Un paciente sufre un sincope tras realizar un masaje del seno carotideo, cuál de los siguientes mecanismos puede ser la causa:",
+  "opciones": {
+   "A": "Cardioinhibitorio",
+   "B": "Vasodepresor",
+   "C": "Cerebral por disminución de flujo",
+   "D": "Cualquiera de los anteriores"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 156,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Cuál de los siguientes hallazgos NO se considera característico de cólico renoureteral:",
+  "opciones": {
+   "A": "El dolor se modifica con el reposo",
+   "B": "Suele estar presente microhematuria",
+   "C": "La presencia de nauseas es frecuente",
+   "D": "El dolor se irradia a genitales"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 157,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a los incidentes NRBQ, es cierto que:",
+  "opciones": {
+   "A": "No se contemplan en los planes de emergencias sanitarias",
+   "B": "Es preciso disponer de EPI específico para iniciar la atención a las victimas",
+   "C": "El primer interviniente en el rescate suele ser un sanitario cualificado",
+   "D": "Suele descontaminarse a las víctimas antes de la atención sanitaria, por lo que no son necesarios los EPIs"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 158,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes características permite diferenciar entre obstrucción intestinal mecánica simple de la que cursa con estrangulación?",
+  "opciones": {
+   "A": "La presencia o ausencia de ruidos intestinales.",
+   "B": "La presencia o ausencia de emisión de heces.",
+   "C": "Mayor o menor grado de distensión abdominal.",
+   "D": "La existencia o ausencia de compromiso vascular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 159,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La crisis addisoniana se caracteriza por todo, EXCEPTO:",
+  "opciones": {
+   "A": "Hipotensión arterial mantenida",
+   "B": "Afectación gastrointestinal",
+   "C": "Astenia y debilidad",
+   "D": "Hipotermia"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 160,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Es FALSO en la intoxicación aguda por Antidepresivos Tricíclicos (ADT):",
+  "opciones": {
+   "A": "El riesgo de cardiotoxicidad no se relaciona con los valores plasmáticos de ADT",
+   "B": "Las manifestaciones clínicas derivan de sus propiedades anticolinérgicas",
+   "C": "En pacientes asintomáticos, que han ingerido cantidades insignificantes, no es necesario ingreso ni en área de observación",
+   "D": "Siempre que el paciente sea atendido dentro de las primeras 12h desde la ingestión del fármaco se procede al lavado orogástrico"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 161,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes patologías oftalmológicas cursan con visión normal?",
+  "opciones": {
+   "A": "Uveítis",
+   "B": "Queratitis",
+   "C": "Glaucoma agudo",
+   "D": "Hemorragia subconjuntival"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 162,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En el tratamiento del ataque agudo de angioedema hereditario, se utiliza:",
+  "opciones": {
+   "A": "El icatibant (antagonista de la bradicinina)",
+   "B": "C1 inhibidor humano",
+   "C": "Plasma leucodepleccionado",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 163,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes causas de monoartritis agudas y poliartritis en más frecuente en mujeres?:",
+  "opciones": {
+   "A": "Gota",
+   "B": "Espondilitis anquilosante",
+   "C": "Lupus eritematoso sistémico",
+   "D": "Enfermedad de Reiter"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 164,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a los tipos de cierre de una herida, ¿cuándo no realizaremos un cierre por primera intención?",
+  "opciones": {
+   "A": "Ausencia de infección de la herida",
+   "B": "Hemostasia perfecta",
+   "C": "Afrontamiento correcto de sus bordes",
+   "D": "Cuando exista pérdida de sustancia"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 165,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Si durante una exploración de rodilla, nos encontramos con un Lachman positivo, es muy probable que el paciente presente:",
+  "opciones": {
+   "A": "Esguince de grado II del ligamento lateral interno de la rodilla",
+   "B": "Rotura del ligamento cruzado anterior de la rodilla",
+   "C": "Rotura del ligamento cruzado posterior de la rodilla",
+   "D": "Sospecha de patología meniscal de la rodilla"
+  },
+  "respuesta_correcta": null
+ }
+]

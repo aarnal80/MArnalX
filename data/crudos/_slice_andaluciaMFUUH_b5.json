@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Cuál de los siguiente criterios, por si solo, no justifica la toma de hemocultivos?",
+  "opciones": {
+   "A": "Fiebre de mas de 39.4ºC.",
+   "B": "Signos de mala perfusión tisular sugerente de origen infeccioso.",
+   "C": "Sospecha de endocarditis.",
+   "D": "Leucocitosis > 18.000/mm3."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Respecto del manejo de la intoxicación por cocaína, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La convulsiones se tratan con benzodiacepinas.",
+   "B": "La agitación se trata con midazolan o diazepan y antipsicóticos atípicos: risperidona y olanzapina.",
+   "C": "La HTA y la taquicardia se tratan con antagonistas del calcio y puede utilizarse Labetalol.",
+   "D": "La isquémica miocárdica se trata con betabloqueantes."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Indique la respuesta que no es una norma de calidad en RCP según el Consejo Europeo de Resucitación.",
+  "opciones": {
+   "A": "Asegurar compresiones torácicas de profundidad adecuada (aproximadamente 5 cm pero no más de 6 cm en el adulto medio)",
+   "B": "Frecuencia de 100-120 compresiones por minuto",
+   "C": "La relación de compresiones torácicas y ventilaciones debe ser 30:2",
+   "D": "No interrumpir las compresiones torácicas durante más de 20 segundos para administrar ventilaciones."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "El shock séptico se define como:",
+  "opciones": {
+   "A": "Síndrome de respuesta inflamatoria sistémica asociada a infección.",
+   "B": "Sepsis con disfunción orgánica que condiciona acidosis láctica.",
+   "C": "Sepsis con hipotensión < 90 mmHg y disfunción orgánica.",
+   "D": "Sepsis con hipotensión y signos de hipoperfusión resistente a reposición inicial correcta de fluidos."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "El enfriamiento en el golpe de calor puede requerir todas las siguientes actuaciones, excepto:",
+  "opciones": {
+   "A": "Desnudar la paciente y aplicar agua tibia junto con un ventilador en decúbito lateral.",
+   "B": "Uso de antipiréticos.",
+   "C": "Enfriamiento interno con lavado gástrico y peritoneal.",
+   "D": "Enfriamiento sanguíneo con circulación extracorpórea o hemodiálisis"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta incorrecta respecto a la acatisia:",
+  "opciones": {
+   "A": "A veces se confunde con ansiedad.",
+   "B": "Habitualmente aparece en pacientes jóvenes.",
+   "C": "Habitualmente se presenta al inicio del tratamiento o al aumentar la dosis del neuroléptico.",
+   "D": "No suele asociarse a ISRS (Inhibidores Serotoninérgicos de Recaptación de Serotonina)."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Cuál sería el diagnostico más probable ante un paciente con fiebre elevada, aumento de tamaño de muslo derecho con edema indurado intenso mas allá de la zona de enrojecimiento, zonas de necrosis con ampollas hemorrágicas y con crepitación?",
+  "opciones": {
+   "A": "Celulitis.",
+   "B": "Erisipela.",
+   "C": "Fascitis necrotizante.",
+   "D": "Paniculitis."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "¿Qué sospecharía ante un paciente que tras un traumatismo torácico severo presenta enfisema subcutáneo cervical y torácico anterior progresivo y estridor?",
+  "opciones": {
+   "A": "Neumotórax a tensión.",
+   "B": "Neumomediastino.",
+   "C": "Rotura traqueal.",
+   "D": "Hematoma mediastinico con afectación de recurrentes."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "En la definición de caso de enfermedad por virus de Ébola, señale la respuesta correcta.",
+  "opciones": {
+   "A": "Se considera caso en investigación a una persona que cumpla el criterio epidemiológico.",
+   "B": "El criterio epidemiológico se cumple si ha existido una estancia en una de las áreas afectadas durante los 21 días previos al inicio de los síntomas, aunque no haya estado en contacto con ningún caso.",
+   "C": "El criterio clínico consiste en fiebre mayor o igual a 37,7 con al menos otro síntoma compatible con la enfermedad. Para valorar la fiebre se tendrá en cuenta si está tomando antitérmicos",
+   "D": "Caso descartado es aquel que cumple los criterios clínicos pero no los epidemiológicos"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Señale la respuesta correcta en relación a la donación de órganos en asistolia:",
+  "opciones": {
+   "A": "Los profesionales encargados del diagnóstico y la certificación de la muerte serán distintos de aquellos médicos que hayan de intervenir en la extracción o el trasplante, y no sujetos a las instrucciones de éstos",
+   "B": "El fallecimiento de una persona puede diagnosticarse por medio de la confirmación del cese irreversible de las funciones cardiorrespiratorias (muerte por PCR) o del cese irreversible de las funciones encefálicas (muerte encefálica)",
+   "C": "La condición de irreversibilidad también respetar un periodo de observación sin maniobras de cardiocompresión y ventilación, que en nuestro país se encuentra estipulado en 5 minutos.",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "El principio de la Bioética que sustenta el deber de evitar intervenciones diagnosticas o terapéuticas que no tengan suficiente evidencia científica, que sean incorrectas o incluso contraindicadas desde el punto de vista científico-técnico y clínico, para proteger así la integridad física y la intimidad de los pacientes es:",
+  "opciones": {
+   "A": "La Justicia",
+   "B": "La Beneficencia",
+   "C": "La No-Maleficencia",
+   "D": "La autonomía"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "Entre los derechos de las personas ante el proceso de la muerte recogidos en la Ley 2/2012 de Derechos y Garantías de la Dignidad de la Persona en el Proceso de la Muerte, no se encuentra:",
+  "opciones": {
+   "A": "El derecho del paciente a decidir sobre la limitación del esfuerzo terapéutico",
+   "B": "El derecho de los pacientes a la administración de sedación paliativa",
+   "C": "Derecho a la intimidad personal y familiar y a la confidencialidad",
+   "D": "Derecho de los pacientes al tratamiento del dolor"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I: Mujer 49 años, que acude a urgencias por palpitaciones. Sin antecedentes de interés. Episodio autolimitado de palpitaciones con cuadros similares en los últimos 4 meses. EO: Tonos arrítmicos a 140 sx', sin soplos. EKG: Fibrilación auricular a 140 spm. ¿Qué fármaco es el más indicado en el centro de salud?",
+  "opciones": {
+   "A": "Amiodarona",
+   "B": "Digoxina",
+   "C": "Metoprolol",
+   "D": "Nifedipino"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): ¿Puntuación EHRA (European Heart Rhythm Association) de los síntomas relacionados con la fibrilación auricular (FA)?",
+  "opciones": {
+   "A": "EHRA 1",
+   "B": "EHRA 2",
+   "C": "EHRA 3",
+   "D": "EHRA 4"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): ¿Ante qué tipo de fibrilación auricular nos encontramos?",
+  "opciones": {
+   "A": "FA silente",
+   "B": "FA paroxística",
+   "C": "FA persistente",
+   "D": "FA permanente"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): ¿Qué objetivo debemos buscar en esta paciente?",
+  "opciones": {
+   "A": "Control de Frecuencia exclusivamente",
+   "B": "Control del ritmo: Cardioversión farmacológica (CVF)",
+   "C": "Control del ritmo: Cardioversión eléctrica sincronizada (CVES)",
+   "D": "Actualmente se puede dar a elegir al paciente tanto la CVES como por la CV Farmacológica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): Si hacemos cardioversión farmacológica. ¿Qué fármaco podemos utilizar?",
+  "opciones": {
+   "A": "Amiodarona",
+   "B": "Digoxina",
+   "C": "Atenolol",
+   "D": "Flecainida"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): Si pensamos que es un 1º episodio de FA ¿qué tratamiento de mantenimiento daríamos?",
+  "opciones": {
+   "A": "No damos tratamiento anti arrítmico",
+   "B": "Podemos dejar metoprolol",
+   "C": "Administraríamos amiodarona",
+   "D": "Dejaríamos con digoxina"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): Si pensamos que es una fibrilación auricular paroxística recurrente que ha revertido a ritmo sinusal. ¿qué tratamiento no daríamos?",
+  "opciones": {
+   "A": "Flecainida",
+   "B": "Propafenona",
+   "C": "Digoxina",
+   "D": "Dronedarona"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): Y si la FA llevara más de 48 horas ¿qué estrategia seguiríamos?",
+  "opciones": {
+   "A": "Control de frecuencia",
+   "B": "Cardioversión",
+   "C": "Control de Frecuencia y Cardioversión diferida",
+   "D": "Control de Frecuencia, Terapia antitrombótica y Cardioversión electiva"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): ¿Qué tratamiento ponemos para control de la frecuencia cardiaca (FC)?",
+  "opciones": {
+   "A": "Nifedipina",
+   "B": "Continuaríamos con Metoprolol",
+   "C": "Amiodarona",
+   "D": "Digoxina"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+  "enunciado": "CASO I (continuación): Si la fibrilación auricular tuviera más de 48 horas de duración. ¿Cuánto tiempo debe estar anticoagulada la paciente?",
+  "opciones": {
+   "A": "3 semanas preCV y 4 semanas post cardioversión",
+   "B": "No hace falta anticoagular si se va a hacer cardioversión farmacológica",
+   "C": "Depende del CHADS2 que tenga el paciente",
+   "D": "3 semanas preCV, 4 semanas post cardioversión y posteriormente según el CHA2DS2-VASc del paciente"
+  },
+  "respuesta_correcta": "D"
+ }
+]

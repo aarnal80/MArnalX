@@ -1,0 +1,74 @@
+[
+ {
+  "id_examen": 595,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes fármacos NO esta indicado para el tratamiento del dolor neuropático?",
+  "opciones": {
+   "A": "Amitriptilina",
+   "B": "Carbamazepina",
+   "C": "Dexametasona",
+   "D": "Pregabalina"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 596,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes fármacos NO es un opiáceo mayor?",
+  "opciones": {
+   "A": "Oxicodona",
+   "B": "Tramadol",
+   "C": "Tapentadol",
+   "D": "Fentanilo"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 597,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la vía de elección para la administración de medicación en el dolor oncológico?",
+  "opciones": {
+   "A": "Oral",
+   "B": "Subcutánea",
+   "C": "Intramuscular",
+   "D": "Intravenosa"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 598,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿En qué escalón de la escalera analgésica se administra la medicación coadyuvante en el tratamiento del dolor oncológico?",
+  "opciones": {
+   "A": "Primer escalón",
+   "B": "Segundo escalón",
+   "C": "Tercer escalón",
+   "D": "En cualquier escalón"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 599,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes fármacos NO se utiliza en el primer escalón de la escalera analgésica en el dolor oncológico?",
+  "opciones": {
+   "A": "Metamizol magnésico",
+   "B": "Salicilatos",
+   "C": "Naproxeno",
+   "D": "Codeina"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 600,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes NO es un objetivo del tratamiento del dolor oncológico?",
+  "opciones": {
+   "A": "Mantener al paciente sin dolor el mayor tiempo posible",
+   "B": "Asegurar el descanso diurno",
+   "C": "Prevenir el dolor mejor que disminuirlo",
+   "D": "Utilizar fármacos adecuados con los menores efectos secundarios"
+  },
+  "respuesta_correcta": "B"
+ }
+]

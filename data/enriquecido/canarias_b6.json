@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Paciente de 47 años, sin antecedentes patológicos de interés. Presenta un cuadro de fiebre y dolor en punta de costado derecho y ha sido diagnosticado de neumonía adquirida en la comunidad en su Centro de Salud. En una radiografía simple de control, realizada 3 días después del inicio del tratamiento antibiótico, se objetiva un derrame pleural ipsilateral que ocupa un tercio del hemitórax derecho. Señale la Respuesta Correcta:",
+  "opciones": {
+   "A": "Se puede establecer el diagnóstico de empiema pleural si se realiza una toracocentesis y el pH del líquido pleural es de 7,4.",
+   "B": "El diagnóstico de empiema pleural solo queda confirmado si se halla un microorganismo en el cultivo de líquido pleural.",
+   "C": "Debe sospecharse un empiema pleural si el paciente presenta persistencia de fiebre y leucocitosis.",
+   "D": "La presencia de un derrame pleural es suficiente para establecer el diagnóstico de empiema pleural y colocar un drenaje pleural derecho."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 58,
+   "tema": "Derrame pleural. Neumotórax espontáneo."
+  },
+  "explicacion": {
+   "correcta": "La persistencia de fiebre y leucocitosis a pesar del tratamiento antibiótico en un paciente con neumonía y derrame pleural es el signo clínico más indicativo de complicación con empiema. Ante esta sospecha clínica debe realizarse una toracocentesis diagnóstica para analizar el líquido pleural y confirmar o descartar el empiema.",
+   "incorrectas": {
+    "A": "Un pH de 7,4 en el líquido pleural es normal/alto y no orienta hacia empiema; el empiema se sospecha con pH < 7,2, glucosa baja y LDH elevada, o cuando el líquido es macroscópicamente purulento.",
+    "B": "El diagnóstico de empiema no requiere cultivo positivo: un líquido macroscópicamente purulento o con pH < 7,2, glucosa < 40 mg/dL y LDH elevada es suficiente para el diagnóstico, independientemente del resultado del cultivo.",
+    "D": "El derrame pleural paraneumónico simple es una complicación frecuente de la neumonía y no constituye por sí solo un empiema ni indica la necesidad de drenaje; se requiere toracocentesis con análisis del líquido para decidir el manejo."
+   }
+  }
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 72 años que presenta desde hace 48 horas fiebre de 38,7°C, tos, expectoración purulenta y disnea. Constantes: TA 85/60 mmHg, frecuencia cardiaca 100 lpm, frecuencia respiratoria 35 rpm, SatO2 80%. Destaca la presencia de confusión y de crepitantes en el campo pulmonar inferior izquierdo. La radiografía de tórax confirma la existencia de una neumonía de la língula y del lóbulo inferior izquierdo. ¿Cuál sería el lugar de atención adecuado?",
+  "opciones": {
+   "A": "Tratamiento ambulatorio en su domicilio.",
+   "B": "Ingreso en una unidad de observación de urgencias.",
+   "C": "Ingreso hospitalario en planta.",
+   "D": "Ingreso en la Unidad de Cuidados Intensivos."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "Este paciente cumple criterios mayores de neumonía grave según la escala ATS/IDSA: necesidad de ventilación mecánica (SatO2 80%, FR 35 rpm) y shock séptico (TA 85/60 mmHg), además de confusión. Según el índice PSI/PORT y los criterios CURB-65 (confusión, urea elevada presumible, FR ≥ 30, PA < 90/60, edad ≥ 65) obtiene la puntuación máxima, lo que obliga al ingreso en UCI.",
+   "incorrectas": {
+    "A": "El tratamiento ambulatorio está completamente contraindicado: el paciente presenta insuficiencia respiratoria grave (SatO2 80%), shock (TA 85/60) y confusión, situaciones que requieren monitorización y soporte intensivo inmediato.",
+    "B": "Una unidad de observación no dispone de los recursos necesarios para el soporte hemodinámico y ventilatorio que este paciente requiere; es insuficiente ante el estado de shock y la insuficiencia respiratoria aguda.",
+    "C": "El ingreso en planta convencional no proporciona la vigilancia y el soporte hemodinámico y ventilatorio adecuados para un paciente con shock, FR de 35 rpm y SatO2 del 80%, que requiere cuidados intensivos."
+   }
+  }
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un paciente de 64 años de edad, agricultor, exfumador (5 años), EPOC y afecto de artritis reumatoide en tratamiento corticoideo. Consulta en urgencias por presentar cefalea intensa de 2 días de evolución con desviación de comisura bucal. Como antecedente, relata que tras cuadro gripal hace un mes, persisten tos, expectoración purulenta y ocasionalmente hemoptoica, febrícula, anorexia, astenia y pérdida de peso. A su llegada se aprecia la existencia de fiebre de 38.2 ºC, abscesos cutáneos múltiples en manos, espalda y nalgas (algunos con trayectos fistulosos) y parálisis facial central derecha, infiltrados apicales con pequeño derrame pleural asociado en la radiografía de tórax y leucocitosis con neutrofilia. Entre los siguientes diagnósticos de sospecha consideraría MÁS probable:",
+  "opciones": {
+   "A": "Neoplasia pulmonar con metástasis cerebrales.",
+   "B": "Tuberculosis diseminada.",
+   "C": "Nocardiosis.",
+   "D": "Aspergilosis."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido."
+  },
+  "explicacion": {
+   "correcta": "La nocardiosis es una infección bacteriana oportunista (Nocardia spp.) que afecta clásicamente a pacientes inmunodeprimidos por corticoides, como este paciente con artritis reumatoide en tratamiento corticoideo. El cuadro clínico es muy característico: afectación pulmonar con infiltrados apicales y derrame, abscesos cutáneos múltiples con trayectos fistulosos (diseminación hematógena cutánea) y afectación del SNC (absceso cerebral que produce parálisis facial central), constituyendo la tríada clásica de nocardiosis diseminada.",
+   "incorrectas": {
+    "A": "La neoplasia pulmonar podría explicar los infiltrados apicales y la afectación neurológica por metástasis, pero no justifica los abscesos cutáneos múltiples con trayectos fistulosos ni la fiebre con leucocitosis y neutrofilia características de un proceso infeccioso.",
+    "B": "La tuberculosis diseminada puede provocar afectación pulmonar, linfadenitis y lesiones cutáneas (tuberculosis miliar cutánea), pero los abscesos cutáneos múltiples con trayectos fistulosos son mucho más típicos de nocardiosis que de tuberculosis.",
+    "D": "La aspergilosis invasiva afecta principalmente al pulmón en inmunodeprimidos graves (neutropenia severa), pero raramente produce abscesos cutáneos con trayectos fistulosos y afectación neurológica simultánea de la forma descrita en este caso."
+   }
+  }
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Paciente de 60 años que acude a urgencias del hospital por cuadro de dolor torácico izquierdo, con tos y expectoración amarillenta, temperatura de 38.7 ºC, sensación de falta de aire. Saturación arterial de oxígeno 80%. Hemograma leucocitos 12000/uL con 86% de polimorfonucleares. Rx de tórax: infiltrado alveolar en base izquierda con broncograma aéreo. Ante la sospecha de neumonía, se hace Ag de neumococo en orina que es positivo y se envía cultivo de esputo al servicio de Microbiología. ¿Qué tratamiento antibiótico empírico de los indicados es el más correcto en espera de resultados microbiológicos?",
+  "opciones": {
+   "A": "Ceftazidima.",
+   "B": "Azitromicina",
+   "C": "Ceftriaxona",
+   "D": "Doxiciclina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "Con antígeno de neumococo positivo en orina, el patógeno identificado es Streptococcus pneumoniae. La ceftriaxona es una cefalosporina de tercera generación con excelente cobertura frente a neumococo, incluyendo cepas con resistencia intermedia a penicilina. Es el antibiótico de elección en neumonía neumocócica que requiere ingreso hospitalario, según las guías SEPAR/IDSA. Además, la SatO2 del 80% indica enfermedad grave que justifica tratamiento parenteral.",
+   "incorrectas": {
+    "A": "La ceftazidima es una cefalosporina de tercera generación con escasa actividad frente a neumococo y su cobertura está orientada principalmente a Pseudomonas aeruginosa; no es adecuada para neumonía neumocócica comunitaria.",
+    "B": "La azitromicina como monoterapia tiene actividad limitada frente a neumococo con resistencia a macrólidos (prevalente en España) y no es el tratamiento de elección en monoterapia para NAC grave que requiere ingreso; puede emplearse en combinación.",
+    "D": "La doxiciclina tiene actividad intermedia frente a neumococo y no es el antibiótico de primera línea recomendado por las guías españolas para neumonía neumocócica que requiere hospitalización; se reserva como alternativa en alergia."
+   }
+  }
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Paciente de 70 años de edad diagnosticado hace tres años de mieloma múltiple que está en periodo de neutropenia tras un ciclo de quimioterapia. Acude a Urgencias por fiebre, tos y expectoración amarillenta. La radiografía de tórax muestra una imagen de condensación en hemitórax derecho. El diagnóstico más probable es:",
+  "opciones": {
+   "A": "Neumonitis tóxica postquimioterapia.",
+   "B": "Neumonía neumocócica.",
+   "C": "Neumonía vírica por virus respiratorio comunitario.",
+   "D": "Neumonía por citomegalovirus."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido."
+  },
+  "explicacion": {
+   "correcta": "Aunque el paciente está en neutropenia postquimioterapia, el cuadro clínico con tos, expectoración purulenta (amarillenta) y condensación lobar en la radiografía sugiere etiología bacteriana. En pacientes con mieloma múltiple, la hipogammaglobulinemia predispone especialmente a infecciones por bacterias encapsuladas como Streptococcus pneumoniae, siendo la neumonía neumocócica la infección bacteriana más frecuente en este tipo de pacientes, incluso durante la quimioterapia.",
+   "incorrectas": {
+    "A": "La neumonitis tóxica postquimioterapia típicamente cursa con infiltrados difusos bilaterales, no con condensación lobar unilateral, y generalmente no produce expectoración purulenta ni fiebre elevada de inicio agudo.",
+    "C": "La neumonía viral por virus respiratorio comunitario suele producir infiltrados intersticiales o bilaterales y raramente se presenta con expectoración purulenta amarillenta; además, la clínica de condensación lobar es más característica de bacterias.",
+    "D": "La neumonía por citomegalovirus es característica de inmunodepresión profunda (trasplante, VIH avanzado) y se manifiesta con patrón intersticial bilateral difuso, no con condensación lobar y expectoración purulenta."
+   }
+  }
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Mujer de 25 años, sin antecedentes de interés, que presenta una adenopatía cervical indolora de 3 cm de diámetro, de crecimiento lento y de dos meses de evolución. La enferma refiere fiebre y sudoración nocturna. Se le practicó una biopsia de la adenopatía. ¿Cuál es el diagnóstico más probable?",
+  "opciones": {
+   "A": "Sarcoidosis.",
+   "B": "Toxoplasmosis.",
+   "C": "Tuberculosis.",
+   "D": "Linfoma."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 85,
+   "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el viajero."
+  },
+  "explicacion": {
+   "correcta": "La adenopatía cervical indolora, de crecimiento lento y evolución subaguda (2 meses), acompañada de síntomas constitucionales como fiebre y sudoración nocturna en una paciente joven, es el cuadro clásico de linfadenitis tuberculosa, la forma más frecuente de tuberculosis extrapulmonar. La biopsia es fundamental para el diagnóstico y mostrará granulomas caseificantes con BAAR.",
+   "incorrectas": {
+    "A": "La sarcoidosis puede presentar adenopatías cervicales, pero típicamente afecta a mediastino (adenopatías hiliares bilaterales en la radiografía de tórax) y raramente cursa con fiebre prominente y sudoración nocturna como síntoma predominante.",
+    "B": "La toxoplasmosis produce adenopatías cervicales en jóvenes inmunocompetentes, pero habitualmente son autolimitadas, poco sintomáticas y sin fiebre prolongada ni sudoración nocturna importante; no suele requerir biopsia.",
+    "D": "El linfoma es un diagnóstico diferencial importante en adenopatías indoloras con síntomas B (fiebre, sudoración nocturna, pérdida de peso), pero en una paciente de 25 años sin otros factores, la tuberculosis es estadísticamente más probable en el contexto de la pregunta."
+   }
+  }
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la pauta estándar actual, en nuestro medio, de tratamiento de la tuberculosis pulmonar?",
+  "opciones": {
+   "A": "Isoniazida + rifampicina + pirazinamida (6 meses).",
+   "B": "Isoniazida + rifampicina + pirazinamida + etambutol (2 meses) seguido de isoniazida + rifampicina (4 meses).",
+   "C": "Isoniazida + rifabutina + etambutol (9 meses).",
+   "D": "Isoniazida + rifampicina + pirazinamida (2 meses) seguido de isoniazida + rifampicina (4 meses)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 85,
+   "tema": "Tuberculosis. Botulismo. Tétanos. Rabia. Fiebre en el viajero."
+  },
+  "explicacion": {
+   "correcta": "La pauta estándar actual para tuberculosis pulmonar en España (según el Programa Nacional de Prevención y Control de la Tuberculosis) consiste en una fase inicial de 2 meses con cuatro fármacos (isoniazida, rifampicina, pirazinamida y etambutol) seguida de una fase de continuación de 4 meses con dos fármacos (isoniazida y rifampicina). La adición de etambutol en la fase inicial protege frente a resistencia a isoniazida hasta conocer el antibiograma.",
+   "incorrectas": {
+    "A": "La triple terapia sin etambutol durante 6 meses fue la pauta clásica, pero actualmente se recomienda añadir etambutol en la fase inicial (4 fármacos durante 2 meses) para cubrir posibles resistencias a isoniazida prevalentes en nuestro medio.",
+    "C": "La rifabutina es un fármaco de segunda línea que se utiliza como alternativa a rifampicina en casos especiales (pacientes VIH en tratamiento antirretroviral); no es la pauta estándar de primera línea para tuberculosis pulmonar.",
+    "D": "La pauta de triple terapia (HRZE sin etambutol) en fase inicial de 2 meses es incompleta según las guías actuales; se requiere añadir etambutol como cuarto fármaco en la fase inicial para asegurar la eficacia terapéutica."
+   }
+  }
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Le avisan a las 2 de la madrugada porque hay un paciente en urgencias que se está asfixiando. La Enfermería tiene preparado un gotero con teofilina y un bisturí para realizar una traqueotomía. Sin dudarlo, usted elige el bisturí porque:",
+  "opciones": {
+   "A": "El paciente presenta estridor espiratorio y signos evidentes de edema pulmonar.",
+   "B": "El paciente está muy cianótico.",
+   "C": "El paciente está taquicárdico y sudoroso.",
+   "D": "El paciente presenta estridor inspiratorio y tiraje."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 43,
+   "tema": "Secuencia rápida de intubación. Analgesia, sedación, relajación muscular. Vía aérea difícil."
+  },
+  "explicacion": {
+   "correcta": "El estridor inspiratorio con tiraje (uso de musculatura accesoria) es el signo clásico de obstrucción de la vía aérea alta (supraglótica o glótica), como puede producirse en epiglotitis, edema angioneurótico o cuerpo extraño supraglótico. En este contexto de obstrucción crítica de la vía aérea superior, la cricotiroidotomía o traqueotomía de urgencia es el procedimiento salvador cuando la intubación orotraqueal no es posible o ha fracasado.",
+   "incorrectas": {
+    "A": "El estridor espiratorio orienta hacia obstrucción de vía aérea baja o broncoespasmo grave (asma, EPOC), no hacia obstrucción supraglótica, y el edema pulmonar no indica necesidad de cricotiroidotomía sino de soporte ventilatorio no invasivo y tratamiento médico.",
+    "B": "La cianosis es un signo inespecífico de hipoxemia que puede aparecer en múltiples situaciones (insuficiencia respiratoria de cualquier causa, shock, etc.) y por sí sola no indica la necesidad de abordaje quirúrgico de la vía aérea.",
+    "C": "La taquicardia y la sudoración son signos de activación simpática inespecíficos presentes en muchas situaciones de urgencia; no localizan la causa en la vía aérea superior ni justifican por sí solos la intervención quirúrgica."
+   }
+  }
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 50 años que acude al servicio de Urgencias hospitalario con fiebre de 38,5 ºC, odinofagia intensa y voz gangosa, de 2 horas de evolución. Se establece el diagnóstico de epiglotitis aguda. Señalar la actitud más correcta de las que se relacionan a continuación:",
+  "opciones": {
+   "A": "Prescribir corticoides asociados a amoxicilina-clavulánico por vía oral, y alta hospitalaria.",
+   "B": "Toma de muestra para hemocultivo, posponiendo el tratamiento hasta conocer el resultado de aquél.",
+   "C": "Intubación orotraqueal e ingreso en UVI.",
+   "D": "Ingreso hospitalario, tratamiento i.v. con corticoides y cefalosporina de 3.ª generación, y vigilancia estrecha de la evolución."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Otitis. Epistaxis. Vértigo. Sordera súbita."
+  },
+  "explicacion": {
+   "correcta": "La epiglotitis aguda en adultos es una emergencia potencialmente letal por riesgo de obstrucción brusca de la vía aérea. El manejo correcto incluye ingreso hospitalario inmediato, tratamiento antibiótico intravenoso con cefalosporina de tercera generación (ceftriaxona) para cubrir Haemophilus influenzae y otros patógenos, corticoides intravenosos para reducir el edema, y vigilancia estrecha. La intubación de urgencia solo se realiza si existe compromiso inminente de la vía aérea.",
+   "incorrectas": {
+    "A": "El alta hospitalaria está contraindicada en la epiglotitis aguda por el riesgo de obstrucción brusca de la vía aérea; además, la vía oral no es adecuada ante odinofagia intensa y riesgo de compromiso respiratorio.",
+    "B": "Posponer el tratamiento antibiótico hasta obtener resultados de hemocultivo en una epiglotitis aguda es peligroso y contraindicado; el hemocultivo debe extraerse pero el tratamiento debe iniciarse de inmediato sin esperar resultados.",
+    "C": "La intubación orotraqueal sistemática en todos los casos de epiglotitis no está indicada; solo se realiza si existen signos de obstrucción inminente de la vía aérea (estridor, deterioro respiratorio); la intubación en epiglotitis conlleva riesgo elevado de laringoespasmo y debe reservarse para casos de necesidad real."
+   }
+  }
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre el infarto agudo de miocardio con elevación del segmento ST (IAMCEST) que pone en marcha el llamado Código Infarto en el SCS (CODICAN) ¿cuáles de las siguientes es FALSA?",
+  "opciones": {
+   "A": "En Triaje debe realizarse tras descartarse el origen traumático del dolor torácico de realizarse el ECG de 12 derivaciones antes de 10 minutos.",
+   "B": "Si existe clínica compatible y ECG es dudoso, debe repetirse ECG en 10 minutos y revaluar.",
+   "C": "En menores de 40 años para la V2 y V3 se requiere elevación persistente (>20 minutos) de al menos 2 mm persistente del segmento ST",
+   "D": "En mujeres para la V2 y V3 se requiere elevación persistente (>20 minutos) de al menos 1,5 mm persistente del segmento ST."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es falsa porque el umbral de elevación del ST de 2 mm en V2-V3 se aplica a varones menores de 40 años, pero NO a todos los menores de 40 años. Además, según las guías ESC, el criterio de 2 mm en V2-V3 corresponde a hombres en general; para hombres menores de 40 años se especifica este umbral por las variantes de repolarización normales en este grupo, pero la opción tal como está formulada generaliza incorrectamente el criterio a toda persona menor de 40 años sin distinción de sexo.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: el protocolo CODICAN establece que el ECG de 12 derivaciones debe realizarse en los primeros 10 minutos tras la llegada al triaje en todo paciente con dolor torácico no traumático.",
+    "B": "Esta afirmación es correcta: ante ECG inicial dudoso con clínica compatible con SCA, la repetición del ECG a los 10 minutos es una práctica estándar recomendada para detectar cambios evolutivos del segmento ST.",
+    "D": "Esta afirmación es correcta: según las guías ESC 2023, en mujeres el umbral diagnóstico de elevación del ST en V2-V3 es de 1,5 mm (frente a 2 mm en hombres menores de 40 años o 1 mm en hombres mayores de 40), reflejando las diferencias fisiológicas en la repolarización."
+   }
+  }
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre los criterios de Sgarbossa-Smith predictores de infarto agudo de miocardio con elevación del segmento ST (IAMCEST) en presencia de bloqueo de rama izquierda del haz de His (BRIHH) de nueva aparición o desconocido ¿cuáles de las siguientes es FALSA?",
+  "opciones": {
+   "A": "Los criterios de Sgarbossa-Smith tienen una sensibilidad del 80% y una especificidad del 98%.",
+   "B": "El criterio A en cualquier derivación es la elevación del ST > 1 mm concordante con el complejo QRS. El criterio B en V1, V2, V3 es la depresión del ST < 1 mm concordante con el complejo QRS. El criterio C es que la amplitud del ST respecto a la onda S, ST/S > 0.25",
+   "C": "Tiene que estar presentes los tres criterios de Sgarbossa-Smith para considerar isquemia aguda en BRIHH de nueva aparición o desconocido.",
+   "D": "Tiene uno de los tres criterios de Sgarbossa-Smith para considerar isquemia aguda en BRIHH de nueva aparición o desconocido."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es FALSA: no es necesaria la presencia simultánea de los tres criterios de Sgarbossa-Smith para diagnosticar isquemia aguda en un BRIHH. Basta con que esté presente al menos UNO de los tres criterios para considerar isquemia aguda; la presencia de cualquiera de ellos por separado ya es altamente sugestiva de oclusión coronaria aguda.",
+   "incorrectas": {
+    "A": "La sensibilidad del 80% y especificidad del 98% descritas en la opción A corresponden a los valores reportados en los estudios de validación de los criterios modificados de Sgarbossa-Smith, por lo que esta afirmación se considera correcta.",
+    "B": "La descripción de los tres criterios (A: elevación ST concordante > 1 mm; B: depresión ST concordante en V1-V3; C: relación ST/S > 0,25 como criterio de Smith modificado) es una descripción correcta de los criterios de Sgarbossa-Smith.",
+    "D": "Esta afirmación es correcta: la presencia de al menos uno de los tres criterios de Sgarbossa-Smith es suficiente para sospechar isquemia aguda en un BRIHH de nueva aparición o indeterminado, lo cual debe activar el protocolo de código infarto."
+   }
+  }
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre los criterios clínicos del infarto agudo de miocardio con elevación del segmento ST (IAMCEST) según el documento del Código Infarto en el SCS (CODICAN) ¿cuáles de las siguientes es FALSA?",
+  "opciones": {
+   "A": "Dolor torácico no traumático de más de 20 minutos de duración, descrito como opresivo e intenso, aunque no siempre, y que no cede con nitroglicerina sublingual.",
+   "B": "La localización suele ser precordial/retroesternal, con o sin irradiación. La irradiación suele ser a cuello/mandíbula, miembro superior izquierdo y/o espalda. En ocasiones se describen otras irradiaciones como al miembro superior derecho, epigastrio etc.",
+   "C": "Con frecuencia se acompaña de síntomas asociados como sudoración, náuseas, vómito, disnea, palpitaciones, síncope, dolor abdominal, etc.",
+   "D": "Los pacientes con síntomas atípicos (dolor epigástrico, dolor torácico no descrito como opresivo, disnea creciente etc.), suelen consultar más precozmente y suelen ser mujeres, personas ancianas, personas diabéticas y pacientes postoperados o críticos."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "La afirmación D es FALSA porque los pacientes con presentación atípica del IAMCEST (síntomas atípicos como dolor epigástrico, disnea aislada, síncope) tienden a consultar MÁS TARDE, no más precozmente. La falta de reconocimiento del infarto por parte del paciente y de los cuidadores por la presentación atípica retrasa la consulta y empeora el pronóstico. Este retraso es especialmente problemático en mujeres, ancianos y diabéticos.",
+   "incorrectas": {
+    "A": "Esta descripción es correcta: el dolor opresivo retroesternal de más de 20 minutos que no cede con nitroglicerina es el síntoma cardinal del IAMCEST, aunque hasta un 30% pueden presentar características atípicas.",
+    "B": "La descripción de la localización e irradiación del dolor isquémico es correcta; la irradiación más frecuente es a brazo izquierdo, mandíbula y cuello, aunque puede irradiar también a brazo derecho o epigastrio.",
+    "C": "Los síntomas vegetativos asociados (diaforesis, náuseas, vómitos, disnea) son hallazgos frecuentes y bien descritos en el IAMCEST, reflejando la activación del sistema nervioso autónomo."
+   }
+  }
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre la notificación al teléfono 112 del SUC (Servicio de Urgencias Canario) en función de los criterios del ECG de 12 derivaciones y su correspondiente actuación en caso de dolor torácico isquémico ¿cuáles de las siguientes es FALSA?",
+  "opciones": {
+   "A": "ECG: IAMCEST (elevación del segmento ST en dos derivaciones contiguas) - Actuación: NOTIFICAR PROBABLE código infarto.",
+   "B": "ECG: IAMSEST (depresión del segmento ST o cambios en la onda T) - Actuación: ACTIVAR 112 (vía habitual).",
+   "C": "ECG: BRIHH (con criterios de Sgarbossa-Smith compatible con isquemia aguda) - Actuación: NOTIFICAR PROBABLE código infarto.",
+   "D": "ECG: Ritmo ventricular estimulado por marcapasos - Actuación: ACTIVAR 112 (vía habitual)."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "La afirmación D es FALSA porque el ritmo ventricular estimulado por marcapasos en presencia de dolor torácico isquémico NO debe tratarse como una activación habitual del 112, sino que debe activarse el código infarto probable, ya que el marcapasos puede enmascarar la elevación del ST y el cuadro puede corresponder a un IAMCEST. Según el protocolo CODICAN, el ritmo de marcapasos con clínica compatible requiere notificación de código infarto probable.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: la elevación del ST en dos derivaciones contiguas es la indicación clásica de activación del código infarto según todos los protocolos internacionales y el CODICAN.",
+    "B": "Esta afirmación es correcta: el IAMSEST con depresión del ST o cambios en onda T se maneja como activación habitual del 112 sin activación de código infarto directo, ya que no requiere angioplastia primaria urgente en las primeras horas en la mayoría de los casos.",
+    "C": "Esta afirmación es correcta: el BRIHH con criterios de Sgarbossa-Smith positivos equivale a IAMCEST y debe activarse el código infarto probable con traslado urgente para angioplastia primaria."
+   }
+  }
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 65 años de edad con dolor torácico opresivo de características isquémicas de 30 minutos de duración que acude por sus propios medios a urgencias hospitalarias donde se objetiva en el ECG elevación del segmento ST en derivaciones II-III y aVF con descenso en V1-V2-V3. ¿Cuál de estas actitudes terapéuticas o diagnósticas NO debe realizarse?",
+  "opciones": {
+   "A": "Prescribir al paciente 180 mg de ticagrelor como dosis de carga previa a la angioplastia primaria.",
+   "B": "Solicitar Troponina T de muy alta sensibilidad y esperar resultados para decidir la realización de angioplastia primaria.",
+   "C": "Prescribir al paciente 300 mg de ácido acetil salicílico como dosis de carga previa a la angioplastia primaria.",
+   "D": "Administrar oxígeno sólo a pacientes con hipoxemia (SaO2<90% o PaO2<60 mmHg)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "En el IAMCEST con ECG diagnóstico (elevación del ST en cara inferior II-III-aVF con imagen especular en V1-V3), la indicación de angioplastia primaria urgente se establece por el ECG y la clínica, sin necesidad de esperar resultados de troponinas. Esperar los resultados de troponinas supone un retraso inaceptable en la reperfusión coronaria y empeora significativamente el pronóstico al aumentar el tiempo puerta-balón.",
+   "incorrectas": {
+    "A": "La dosis de carga de ticagrelor 180 mg es correcta y está indicada en el IAMCEST previo a la angioplastia primaria como antiagregante de segunda generación según las guías ESC.",
+    "C": "La dosis de carga de AAS 300 mg (ácido acetilsalicílico) es el tratamiento antiagregante de primera línea recomendado en el IAMCEST antes de la angioplastia primaria.",
+    "D": "La oxigenoterapia selectiva solo en hipoxemia (SaO2 < 90%) es la recomendación actual de las guías ESC; la administración rutinaria de oxígeno en pacientes no hipoxémicos con IAMCEST puede ser perjudicial al aumentar el estrés oxidativo."
+   }
+  }
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una mujer de 51 años, con antecedentes de hipertensión arterial tratada con diuréticos, acude al centro de salud porque después de que le notificaron el accidente de un hijo 30 minutos antes, presenta nerviosismo, dolor en el centro del pecho con náuseas y sudoración intensa. En la exploración física la paciente se encuentra agitada y nerviosa, tiene una frecuencia cardiaca de 86 lpm y una presión arterial de 132/87 mmHg. ¿Cuál es el siguiente paso a seguir?",
+  "opciones": {
+   "A": "Tranquilizarla, explicarle que la exploración es normal, administrar un ansiolítico y recomendarle que si el cuadro no mejora acuda nuevamente al centro.",
+   "B": "Realizar una determinación de troponinas cardiacas.",
+   "C": "Realizar un electrocardiograma de 12 derivaciones.",
+   "D": "Realizar una radiografía de tórax."
+   },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "El dolor torácico central con náuseas y sudoración en una mujer de 51 años con factores de riesgo cardiovascular (HTA) obliga a descartar de inmediato un síndrome coronario agudo. El primer paso diagnóstico ante cualquier dolor torácico potencialmente isquémico es siempre el ECG de 12 derivaciones, que debe realizarse en los primeros 10 minutos. El contexto estresante no excluye el origen isquémico; de hecho, el estrés emocional puede desencadenar un SCA o un síndrome de Tako-Tsubo.",
+   "incorrectas": {
+    "A": "Atribuir el cuadro al estrés emocional sin descartar antes una causa cardiológica es un error grave que puede resultar en la pérdida de la ventana terapéutica del IAMCEST; siempre debe descartarse primero el origen isquémico.",
+    "B": "La determinación de troponinas es fundamental en el diagnóstico del SCA, pero no es el primer paso; el ECG precede a las troponinas porque es inmediato, barato, no invasivo y puede diagnosticar un IAMCEST en minutos, mientras que las troponinas tardan horas en elevarse.",
+    "D": "La radiografía de tórax es útil para valorar complicaciones (edema pulmonar, ensanchamiento mediastínico) pero no es el primer paso en la evaluación del dolor torácico agudo potencialmente isquémico; el ECG tiene prioridad."
+   }
+  }
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un hombre de 65 años, fumador y diabético, es traído al Servicio de Urgencias por presentar desde hace aproximadamente una hora un dolor centrotorácico opresivo e intensa sudoración. En el ECG realizado se observa ritmo sinusal a 80 lpm y un bloqueo completo de rama izquierda. ¿Cuál será nuestra actitud correcta del médico de Urgencias?",
+  "opciones": {
+   "A": "Realizar una determinación analítica de troponina y esperar su resultado para confirmar la presencia de un infarto agudo de miocardio.",
+   "B": "Tratar al paciente como si fuera un infarto con elevación del segmento ST, planteando una terapia de reperfusión lo más precoz posible.",
+   "C": "Implantar un marcapasos transcutáneo ante la posibilidad de que desarrolle un bloqueo más avanzado.",
+   "D": "Como pudiera tratarse de una pericarditis aguda administramos AINEs."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "Según las guías ESC y el protocolo CODICAN, un BRIHH de nueva aparición o de inicio desconocido en el contexto de dolor torácico isquémico agudo debe tratarse como equivalente a IAMCEST. El paciente debe ser trasladado urgentemente para angioplastia primaria sin esperar confirmación analítica, ya que el retraso en la reperfusión empeora drásticamente el pronóstico. Los criterios de Sgarbossa-Smith pueden ayudar a confirmar la oclusión coronaria aguda.",
+   "incorrectas": {
+    "A": "Esperar los resultados de troponinas en un BRIHH con clínica isquémica aguda equivale a perder la ventana de reperfusión; las guías son explícitas en que el BRIHH con clínica compatible debe activar el código infarto sin esperar troponinas.",
+    "C": "El BRIHH en el contexto de un SCA no es indicación de marcapasos transcutáneo preventivo; el BRIHH agudo en el IAM puede ser reflejo de la necrosis miocárdica pero no implica riesgo inminente de bloqueo AV completo que justifique el marcapasos.",
+    "D": "Los AINEs están contraindicados en el SCA; el BRIHH agudo con dolor torácico isquémico en un diabético fumador tiene una probabilidad altísima de ser un IAMCEST, no una pericarditis, y el diagnóstico diferencial debe resolverse activando el código infarto."
+   }
+  }
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un paciente acude al servicio de Urgencias por un infarto de miocardio con elevación del segmento ST. A su llegada está hipotenso, presenta crepitantes y se ausculta un soplo sistólico 3/6. ¿Cuál es su sospecha diagnóstica?",
+  "opciones": {
+   "A": "Shock cardiogénico.",
+   "B": "Ruptura de pared libre del ventrículo izquierdo.",
+   "C": "Insuficiencia mitral aguda por rotura de músculo papilar.",
+   "D": "Taponamiento cardiaco."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "La aparición de un soplo sistólico de nueva instauración en el contexto de un IAMCEST con hipotensión y edema pulmonar (crepitantes) es el cuadro clásico de complicación mecánica por rotura de músculo papilar, que produce insuficiencia mitral aguda grave. Esta complicación ocurre habitualmente en las primeras 24-72 horas del infarto inferior y es una emergencia que requiere intervención quirúrgica urgente.",
+   "incorrectas": {
+    "A": "El shock cardiogénico puro por disfunción ventricular izquierda severa no produce un soplo sistólico nuevo; si hay soplo sistólico nuevo en el IAM, siempre debe sospecharse una complicación mecánica (rotura de septum o rotura de músculo papilar).",
+    "B": "La rotura de pared libre del ventrículo izquierdo produce hemopericardio y taponamiento cardiaco de instauración brusca con muerte súbita o shock obstructivo; no produce soplo sistólico sino ingurgitación yugular, pulso paradójico y frote pericárdico.",
+    "D": "El taponamiento cardiaco se presenta con la tríada de Beck (hipotensión, ingurgitación yugular, tonos apagados) y pulso paradójico; no produce soplo sistólico, que es el signo diferencial que orienta hacia insuficiencia mitral aguda."
+   }
+  }
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿En qué paciente se realizaría una coronariografía urgente?",
+  "opciones": {
+   "A": "Mujer de 66 años diabética con un único episodio de dolor en reposo y elevación de troponinas.",
+   "B": "Hombre de 77 años que ingresa por dos episodios de dolor de 30 minutos de duración con descenso del segmento ST en el ECG durante el episodio de dolor.",
+   "C": "Hombre de 55 años que tras una semana de tratamiento con doble antiagregación acude a urgencias con un dolor de 15 minutos de duración y presenta onda Q en la cara anterior.",
+   "D": "Paciente de 55 años que ingresa por dolor torácico y disnea saturando al 80% a pesar de la administración de oxígeno y con un ECG con descenso del ST en la cara anterolateral que no revierte con la administración de nitroglicerina intravenosa."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "El paciente D presenta criterios de alto riesgo que indican coronariografía urgente (< 2 horas): inestabilidad hemodinámica con insuficiencia respiratoria (SatO2 80% a pesar de O2), descenso del ST refractario a nitroglicerina intravenosa, y disnea progresiva. Este cuadro es compatible con IAMSEST de muy alto riesgo o equivalente a IAMCEST, donde las guías ESC recomiendan estrategia invasiva inmediata urgente.",
+   "incorrectas": {
+    "A": "La mujer con un único episodio de dolor en reposo y troponinas elevadas corresponde a un IAMSEST de riesgo intermedio-alto que requiere coronariografía precoz (< 24 horas) pero no urgente (< 2 horas), salvo que presente criterios de muy alto riesgo adicionales.",
+    "B": "El hombre de 77 años con angina recurrente y descenso del ST durante el dolor corresponde a un IAMSEST de alto riesgo que requiere coronariografía precoz (< 24 horas); aunque la angina recurrente con cambios de ST indica riesgo elevado, no presenta inestabilidad hemodinámica.",
+    "C": "La presencia de onda Q en cara anterior en un paciente con doble antiagregación activa sugiere un infarto previo ya establecido; las ondas Q son marcadores de necrosis antigua y no de oclusión aguda activa, por lo que no indican coronariografía urgente en este contexto."
+   }
+  }
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes es FALSA?",
+  "opciones": {
+   "A": "En pacientes con edema agudo de pulmón en la asistencia prehospitalaria el uso de la presión positiva continua en la vía aérea con válvula de Boussignac (B- CPAP, por sus siglas en inglés) puede ser de utilidad dado que es fácil de usar, no tiene efectos secundarios, y además puede mejorar de forma más rápida los parámetros respiratorios y la oxigenación.",
+   "B": "En caso de disnea la ausencia de crepitantes y edemas periféricos descarta la existencia de insuficiencia cardiaca.",
+   "C": "La insuficiencia cardiaca es frecuente en el síndrome de tako-tsubo.",
+   "D": "La falta de adherencia al tratamiento y las infecciones son los factores desencadenantes o las causas más frecuentes de la insuficiencia cardiaca aguda."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón."
+  },
+  "explicacion": {
+   "correcta": "La afirmación B es FALSA porque la ausencia de crepitantes y edemas periféricos NO descarta la insuficiencia cardiaca. Hasta un 20% de los pacientes con IC aguda no presentan crepitantes, especialmente en formas crónicas reagudizadas donde la adaptación linfática pulmonar puede evitarlos. Los edemas periféricos pueden estar ausentes en IC descompensada aguda de inicio brusco. El diagnóstico de IC requiere una combinación de clínica, ECG, radiografía de tórax, BNP/NT-proBNP y ecocardiografía.",
+   "incorrectas": {
+    "A": "La B-CPAP con válvula de Boussignac es efectiva en el edema agudo de pulmón prehospitalario; sin embargo, afirmar que 'no tiene efectos secundarios' es técnicamente inexacto (puede producir intolerancia, distensión gástrica, hipotensión), por lo que esta opción también podría cuestionarse, pero B es la más claramente falsa.",
+    "C": "La insuficiencia cardiaca es efectivamente frecuente en el síndrome de Tako-Tsubo (cardiomiopatía de estrés), ya que produce disfunción sistólica transitoria del ventrículo izquierdo, generalmente con recuperación completa en semanas.",
+    "D": "La falta de adherencia al tratamiento (dieta, sal, fármacos) y las infecciones intercurrentes (especialmente respiratorias) son las causas más frecuentes de descompensación de IC crónica, lo cual es una afirmación correcta y bien establecida."
+   }
+  }
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Mujer de 80 años con antecedentes de hipertensión arterial, hipercolesterolemia, diabetes mellitus, obesidad grado I e insuficiencia renal crónica. Se encuentra en tratamiento con enalapril 10 mg cada 12 h, furosemida 40 mg una al día, metformina 850 mg cada 12 h, simvastatina 20 mg cada 24h y lorazepam 1 mg por las noches. Acude a urgencias por empeoramiento de su disnea hasta hacerse de mínimos esfuerzos. A la exploración física destaca PA 176/98 mmHg, FC 103 lpm. Se encuentra taquipneica con tendencia al sueño y una saturación de oxígeno del 88%. A la auscultación está arrítmica a 108 lpm con crepitantes bilaterales hasta campos medios. Presenta edemas en miembros inferiores. ¿Cuál de las siguientes es INCORRECTA?",
+  "opciones": {
+   "A": "Debemos administrar oxigenoterapia, furosemida y nitroglicerina para el control de su disnea.",
+   "B": "Es esperable encontrar valores de NT-proBNP inferiores a 450 pg/mL dado que la paciente tiene obesidad grado I.",
+   "C": "Se debería monitorizar la función renal durante el ingreso ya que es un marcador pronóstico.",
+   "D": "No se puede descartar la presencia de síndrome de apnea del sueño como factor agravante de la disnea en esta paciente."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón."
+  },
+  "explicacion": {
+   "correcta": "La afirmación B es INCORRECTA porque, aunque la obesidad puede reducir los niveles de BNP/NT-proBNP (efecto conocido de dilución y mayor degradación en tejido adiposo), en una paciente con IC aguda descompensada grave (SatO2 88%, crepitantes bilaterales, edemas, arritmia), los valores de NT-proBNP casi con certeza estarán muy elevados (habitualmente > 1800 pg/mL en IC aguda). Afirmar que serán inferiores a 450 pg/mL (punto de corte para IC en menores de 75 años) es incorrecto; en mayores de 75 años el punto de corte es 1800 pg/mL.",
+   "incorrectas": {
+    "A": "La administración de oxigenoterapia (para corregir SatO2 88%), furosemida intravenosa (diurético de asa para reducir la congestión) y nitroglicerina (vasodilatador para reducir precarga y postcarga en IC hipertensiva) es el tratamiento correcto de primera línea en IC aguda descompensada hipertensiva.",
+    "C": "La monitorización de la función renal durante el ingreso por IC aguda es obligatoria dado que la IRC previa y el uso de furosemida conllevan riesgo de deterioro de la función renal, que es un marcador pronóstico independiente en la IC.",
+    "D": "La paciente es obesa, anciana y toma benzodiazepinas (lorazepam) por las noches, lo que son factores de riesgo para el síndrome de apnea obstructiva del sueño, que a su vez puede agravar la IC y la hipoxemia; es correcto no descartarlo."
+   }
+  }
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 76 años de edad con antecedentes de insuficiencia cardiaca, fibrilación auricular crónica, con disfunción sistólica severa (fracción de eyección 33%). Tiene una adherencia correcta a su dieta y a su tratamiento con inhibidor de enzima convertidora de la angiotensina, betabloqueante y diurético tiazídico. Pese a ello, la nieta lo trae por sus propios medios al servicio de Urgencias porque tiene disnea a moderados esfuerzos. Entra andando a la consulta de Urgencias, está hemodinámicamente estable y sin insuficiencia respiratoria y no ha evidenciado ninguna causa o factor desencadenante en la anamnesis, exploración física ni en las pruebas complementarias. ¿Cuál sería la actitud a seguir?",
+  "opciones": {
+   "A": "Añadiría espironolactona y alta con seguimiento ambulatorio.",
+   "B": "Suspendería tratamiento betabloqueante durante el ingreso hospitalario.",
+   "C": "Añadiría al tratamiento amiodarona y alta con seguimiento ambulatorio.",
+   "D": "Añadiría al tratamiento verapamil y alta con seguimiento ambulatorio."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón."
+  },
+  "explicacion": {
+   "correcta": "En este paciente con IC con fracción de eyección reducida (FEr, FEVI 33%) en clase funcional II-III que no está tomando antagonista de la aldosterona, la espironolactona está indicada y es uno de los cuatro pilares del tratamiento de la IC-FEr (junto con IECA/ARA-II, betabloqueante y diurético de asa). Su adición ha demostrado reducir mortalidad y hospitalizaciones en la IC-FEr. Al estar estable hemodinámicamente, puede darse el alta con seguimiento ambulatorio estrecho.",
+   "incorrectas": {
+    "B": "La suspensión del betabloqueante en la IC crónica estabilizada está desaconsejada; los betabloqueantes mejoran la supervivencia en IC-FEr y solo deben retirarse o reducirse en IC aguda grave con hipoperfusión. En este paciente estable, mantener el betabloqueante es lo correcto.",
+    "C": "La amiodarona no está indicada de forma rutinaria en la IC con FA crónica para el control de ritmo; en pacientes con IC grave y FA, el control de frecuencia es generalmente preferido al control de ritmo, y la amiodarona tiene efectos secundarios importantes que limitan su uso crónico.",
+    "D": "El verapamil está contraindicado en la IC con disfunción sistólica severa (FEVI 33%) porque tiene efecto inotrópico negativo y puede precipitar descompensación grave; además, combinado con betabloqueante produciría bradicardia y bloqueo AV."
+   }
+  }
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Mujer de 73 años de edad que ingresa por cuadro de disnea progresiva hasta hacerse de reposo, ortopnea y aumento de 4 kg de peso. En la exploración física se aprecia presión arterial de 150/84 mm Hg, frecuencia cardiaca 100 latidos/ minuto, aumento de la presión venosa yugular, crepitantes en ambas bases y edemas maleolares. Tratamiento habitual: enalapril 5 mg cada 12 horas, furosemida 80 mg al día. ¿Cuál es el plan terapéutico y destino más adecuado a seguir en el servicio de Urgencias?",
+  "opciones": {
+   "A": "Administrar furosemida por vía intravenosa e ingreso hospitalario.",
+   "B": "Aumentar dosis de enalapril según tolerancia, administrar furosemida por vía intravenosa e ingreso hospitalario.",
+   "C": "Iniciar un beta-bloqueante e ingreso hospitalario.",
+   "D": "Añadir tratamiento con amlodipino y alta con seguimiento ambulatorio."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón."
+  },
+  "explicacion": {
+   "correcta": "Esta paciente presenta una IC aguda descompensada con retención hídrica (aumento 4 kg, edemas, crepitantes, ingurgitación yugular) e hipertensión arterial (150/84 mmHg). El tratamiento adecuado incluye furosemida intravenosa para diuresis urgente y optimización del IECA (aumentar enalapril según tolerancia tensional) para reducir la postcarga, dado que la paciente está hipertensa y probablemente está con dosis subóptima de enalapril. El ingreso hospitalario es obligatorio por la gravedad del cuadro.",
+   "incorrectas": {
+    "A": "Aunque la furosemida intravenosa e ingreso son correctos, esta opción es incompleta porque no contempla la optimización del IECA, que está indicada en una paciente hipertensa con IC descompensada a dosis probablemente subóptimas de enalapril.",
+    "C": "Los betabloqueantes están contraindicados en la fase aguda de descompensación de IC con congestión y taquicardia; solo deben iniciarse o mantenerse una vez que el paciente está estabilizado y euvolémico.",
+    "D": "El alta ambulatoria es inadecuada para una paciente con IC aguda descompensada con aumento de 4 kg de peso, disnea de reposo y crepitantes bilaterales; además, los antagonistas del calcio como amlodipino pueden empeorar la retención hídrica en la IC."
+   }
+  }
+ }
+]

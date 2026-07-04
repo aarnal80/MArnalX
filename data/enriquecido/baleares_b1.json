@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Tras el resultado del ECG_1 (al llegar a urgencias), ¿cuál es el diagnóstico?",
+  "opciones": {
+   "A": "Síndrome coronario agudo sin elevación del segmento ST (SCASEST) de localización inferior.",
+   "B": "Síndrome coronario agudo con elevación del segmento ST (SCACEST) de localización inferior por oclusión de la arteria coronaria derecha.",
+   "C": "SCACEST de localización inferior por oclusión de la arteria circunfleja.",
+   "D": "SCACEST de localización anterior por oclusión de la arteria descendente anterior."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "La elevación del segmento ST en DII, DIII y aVF indica infarto de cara inferior, territorio habitualmente irrigado por la arteria coronaria derecha, lo que corresponde a un SCACEST de localización inferior por oclusión de dicha arteria.",
+   "incorrectas": {
+    "A": "El SCASEST se define por la ausencia de elevación del segmento ST; el ECG descrito muestra elevación en derivaciones inferiores, por lo que no corresponde a esta categoría.",
+    "C": "La arteria circunfleja irriga la cara lateral e inferior izquierda; aunque puede causar infarto inferior, la arteria coronaria derecha es la responsable más frecuente del patrón descrito en DII, DIII y aVF.",
+    "D": "El infarto anterior se manifiesta con elevación del ST en derivaciones precordiales (V1-V4), no en las derivaciones inferiores descritas en el caso."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: ¿Qué arritmia describe el ECG-2?",
+  "opciones": {
+   "A": "Fibrilación ventricular.",
+   "B": "Taquicardia ventricular sin pulso.",
+   "C": "Taquicardia ventricular.",
+   "D": "Asistolia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "La fibrilación ventricular se caracteriza en el ECG por un trazado caótico, sin complejos QRS identificables, con oscilaciones irregulares de amplitud y frecuencia variables. Es la arritmia más frecuente en la parada cardiorrespiratoria presenciada por infarto agudo de miocardio.",
+   "incorrectas": {
+    "B": "La taquicardia ventricular sin pulso muestra complejos QRS anchos y regulares, aunque no hay pulso detectable; el trazado no es el caótico típico de la fibrilación ventricular.",
+    "C": "La taquicardia ventricular con pulso presenta complejos QRS anchos y regulares y el paciente puede conservar pulso; no coincide con el patrón caótico descrito.",
+    "D": "La asistolia se observa como una línea casi isoeléctrica sin actividad eléctrica reconocible, no como oscilaciones caóticas."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En el caso de un paciente en parada cardiorrespiratoria en el medio hospitalario, ¿cuál de las acciones siguientes es incorrecta según las guías del European Resuscitation Council (ERC) de 2021?",
+  "opciones": {
+   "A": "Reconocer la situación de parada cardiorrespiratoria.",
+   "B": "Iniciar inmediatamente la reanimación cardiorrespiratoria (RCP).",
+   "C": "Pedir ayuda al equipo de reanimación.",
+   "D": "Hacerle una intubación orotraqueal (IOT) lo antes posible."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "Según las guías ERC 2021, la intubación orotraqueal no debe realizarse lo antes posible; se prioriza la desfibrilación precoz y las compresiones torácicas de alta calidad. La intubación no debe interrumpir las compresiones y solo debe intentarse cuando hay personal entrenado disponible sin interrumpir la RCP.",
+   "incorrectas": {
+    "A": "Reconocer la parada cardiorrespiratoria es el primer paso esencial y correcto según las guías ERC 2021.",
+    "B": "Iniciar inmediatamente la RCP es una acción correcta y prioritaria en el algoritmo de soporte vital avanzado.",
+    "C": "Pedir ayuda al equipo de reanimación es una acción correcta e imprescindible en el medio hospitalario."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Según la descripción del caso clínico, se ha comprobado que el paciente no responde y no respira y en el monitor desfibrilador se observa una arritmia rápida (ECG_2). ¿Cuál de las acciones siguientes es incorrecta según las guías del European Resuscitation Council (ERC) de 2021?",
+  "opciones": {
+   "A": "Después de cada descarga eléctrica hay que suspender las compresiones torácicas y revisar el ritmo en el monitor.",
+   "B": "Se puede tomar en consideración dar tres descargas consecutivas si se sospecha una fibrilación ventricular presenciada y el monitor-DF está al alcance inmediatamente.",
+   "C": "Si quien se encarga de la RCP no sabe cuánta energía debe aplicar en la desfibrilación, hay que aplicar la más alta en todas las descargas.",
+   "D": "El nivel de energía inicial en la desfibrilación con ondas bifásicas es de al menos 150J."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "Según las guías ERC 2021, tras cada descarga eléctrica se deben reanudar inmediatamente las compresiones torácicas sin pausar para revisar el ritmo; la revisión del ritmo se realiza después de dos minutos de RCP, minimizando las interrupciones en las compresiones.",
+   "incorrectas": {
+    "B": "Las tres descargas consecutivas en fibrilación ventricular presenciada con desfibrilador inmediatamente disponible es una estrategia contemplada en las guías ERC 2021.",
+    "C": "Aplicar la energía más alta disponible cuando se desconoce la dosis recomendada es una indicación correcta en las guías ERC 2021.",
+    "D": "El nivel de energía inicial de al menos 150 J para ondas bifásicas es correcto según las guías ERC 2021."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En una situación de parada cardiorrespiratoria en el hospital y tras monitorizar el ritmo, se detecta una bradicardia regular a 50 lpm y sin pulso carotídeo detectable. Señale la afirmación correcta según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Se trata de una situación de RCP en la rama de ritmos desfibrilables.",
+   "B": "Hay que iniciar las compresiones torácicas de alta calidad lo antes posibles y con las mínimas interrupciones.",
+   "C": "Hay que administrar al paciente 0,5 mg de atropina por la vía endovenosa lo antes posible.",
+   "D": "Hay que aplicar una desfibrilación precozmente."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "Una bradicardia regular sin pulso detectable corresponde a actividad eléctrica sin pulso (AESP), que es un ritmo no desfibrilable. La actuación correcta es iniciar compresiones torácicas de alta calidad con las mínimas interrupciones, junto con adrenalina precoz.",
+   "incorrectas": {
+    "A": "La AESP (bradicardia sin pulso) es un ritmo no desfibrilable; los ritmos desfibrilables son la fibrilación ventricular y la taquicardia ventricular sin pulso.",
+    "C": "La atropina no está recomendada como tratamiento de la AESP según las guías ERC 2021; el fármaco de elección es la adrenalina.",
+    "D": "La desfibrilación está indicada en ritmos desfibrilables (FV/TV sin pulso), no en la AESP, que requiere compresiones y adrenalina."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la respuesta incorrecta sobre el uso de fármacos en una situación de parada cardiorrespiratoria en adultos según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Administrar 1 mg de adrenalina por la vía intravenosa (intraósea) lo antes posible en los casos de parada cardiorrespiratoria con un ritmo no desfibrilable.",
+   "B": "Administrar 1 mg de adrenalina por la vía intravenosa (intraósea) después de la tercera desfibrilación en los casos de parada cardiorrespiratoria con un ritmo desfibrilable.",
+   "C": "Administrar 150 mg de amiodarona por la vía intravenosa (intraósea) después de la tercera descarga en los casos de parada cardiorrespiratoria en ritmo desfibrilable.",
+   "D": "Administrar 1 mg de adrenalina cada 3-5 minutos mientras continúe la RCP."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "La dosis de amiodarona recomendada por las guías ERC 2021 tras la tercera descarga en ritmo desfibrilable es de 300 mg (no 150 mg). Una segunda dosis de 150 mg puede administrarse tras la quinta descarga, pero la dosis inicial es de 300 mg.",
+   "incorrectas": {
+    "A": "Administrar 1 mg de adrenalina lo antes posible en ritmos no desfibrilables es correcto según las guías ERC 2021.",
+    "B": "Administrar 1 mg de adrenalina tras la tercera desfibrilación en ritmos desfibrilables es correcto según las guías ERC 2021.",
+    "D": "Administrar 1 mg de adrenalina cada 3-5 minutos durante la RCP es correcto según las guías ERC 2021."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación correcta en relación con la situación de parada cardiorrespiratoria en un adulto según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Hacer una ecografía durante una parada cardiorrespiratoria puede ser útil para diagnosticar causas tratables, como un taponamiento cardíaco o un neumotórax.",
+   "B": "La dilatación ventricular derecha aislada durante una parada cardiorrespiratoria permite diagnosticar un tromboembolismo pulmonar masivo.",
+   "C": "Durante una parada cardiorrespiratoria, la contractilidad miocárdica indica que se puede interrumpir la reanimación cardiopulmonar.",
+   "D": "Hacer una ecografía durante una parada cardiorrespiratoria es tan rentable para diagnosticar las causas tratables que permite hacer interrupciones adicionales de las compresiones torácicas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 106, "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."},
+  "explicacion": {
+   "correcta": "Las guías ERC 2021 reconocen que la ecografía durante la parada puede identificar causas tratables como el taponamiento cardiaco, el neumotórax a tensión, la hipovolemia grave o el tromboembolismo pulmonar masivo, siempre que no prolongue las interrupciones en las compresiones.",
+   "incorrectas": {
+    "B": "La dilatación ventricular derecha aislada no es diagnóstica de TEP masivo; puede deberse a otras causas como EPOC o hipertensión pulmonar crónica.",
+    "C": "La presencia de contractilidad miocárdica en la ecografía no es criterio para interrumpir la RCP; al contrario, sugiere que puede haber actividad eléctrica sin pulso tratable.",
+    "D": "Las guías ERC 2021 advierten expresamente que la ecografía no debe justificar interrupciones adicionales de las compresiones torácicas; debe integrarse en las pausas de evaluación previstas."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el diagnóstico del síndrome coronario agudo:",
+  "opciones": {
+   "A": "El diagnóstico de síndrome coronario agudo sin elevación del segmento ST (SCASEST) se puede hacer en caso de bloqueo completo de cualquiera de las ramas del haz de His de nueva aparición, con datos clínicos sugerentes de isquemia persistente.",
+   "B": "El SCASEST se define como la presencia electrocardiográfica de infradesnivelación del segmento ST igual o superior a 1 mm en dos o más derivaciones contiguas.",
+   "C": "En caso de infradesnivelación generalizada del ST (en ocho o más derivaciones) con supradesnivelación en aVR de al menos 1 mm hay que actuar como en los casos de infarto agudo de miocardio sin elevación del segmento ST (IAMSEST) aunque el paciente presente inestabilidad hemodinámica.",
+   "D": "Si existe una elevación del segmento ST igual o superior a 0,5 mm registrada en las derivaciones V7-V9, se considera un medio para identificar el infarto agudo de miocardio posterior."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "El patrón de infradesnivelación generalizada del ST con supradesnivelación en aVR sugiere lesión del tronco común o de la arteria descendente anterior proximal, y en presencia de inestabilidad hemodinámica debe manejarse con urgencia como equivalente SCACEST, no como IAMSEST estable.",
+   "incorrectas": {
+    "A": "El bloqueo de rama de nueva aparición con clínica isquémica es un criterio reconocido para sospechar SCACEST o SCASEST según las guías; la afirmación es discutible pero el bloqueo de rama izquierda es el más relevante clínicamente.",
+    "B": "La infradesnivelación del ST ≥1 mm en dos o más derivaciones contiguas es uno de los criterios electrocardiográficos del SCASEST según las guías ESC.",
+    "D": "La elevación del ST ≥0,5 mm en V7-V9 es el criterio para detectar el infarto posterior por oclusión de la circunfleja, lo cual es correcto."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: ¿Cuál es la puntuación CHA2DS2-VASc en el caso de un paciente de 76 años que presenta una arritmia por fibrilación auricular y está en tratamiento por hipertensión arterial?",
+  "opciones": {
+   "A": "0.",
+   "B": "1.",
+   "C": "2.",
+   "D": "3."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 47, "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."},
+  "explicacion": {
+   "correcta": "En la escala CHA2DS2-VASc: edad ≥75 años puntúa 2 puntos (doble), e hipertensión arterial puntúa 1 punto. La suma es 3 puntos, lo que indica un riesgo embólico alto y la necesidad de anticoagulación.",
+   "incorrectas": {
+    "A": "Una puntuación de 0 indicaría ausencia de factores de riesgo, lo que no corresponde a este paciente que tiene edad ≥75 años e hipertensión.",
+    "B": "Una puntuación de 1 no recoge correctamente los 2 puntos asignados por la edad ≥75 años más el punto por hipertensión.",
+    "C": "Una puntuación de 2 contabilizaría solo uno de los factores; sin embargo, la edad ≥75 años ya suma 2 puntos por sí sola."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el diagnóstico del síndrome coronario agudo:",
+  "opciones": {
+   "A": "Está indicado registrar e interpretar el electrocardiograma de doce derivaciones tan pronto como sea posible en el lugar del primer contacto médico, con un retraso máximo de diez minutos.",
+   "B": "Está indicada la monitorización electrocardiográfica con capacidad de desfibrilación en todo paciente con sospecha de infarto agudo de miocardio con elevación del segmento ST (IAMCEST).",
+   "C": "Debe considerarse el uso de derivaciones adicionales de la pared torácica posterior (V7-V9) en pacientes con sospecha de infarto agudo de miocardio posterior (oclusión de la arteria circunfleja).",
+   "D": "Está indicado tomar muestras de sangre para determinar cuanto antes los marcadores séricos en la fase aguda, pues los resultados determinarán el tratamiento."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "En el IAMCEST, el tratamiento de reperfusión (ICP primaria o fibrinolisis) no debe demorarse esperando los resultados de los marcadores séricos; el diagnóstico y la decisión terapéutica se basan en la clínica y el ECG. Los marcadores se solicitan pero no determinan el tratamiento inicial.",
+   "incorrectas": {
+    "A": "El ECG debe realizarse e interpretarse en los primeros 10 minutos del primer contacto médico; esta afirmación es correcta según las guías ESC.",
+    "B": "La monitorización con capacidad de desfibrilación en el IAMCEST es una indicación correcta y reconocida.",
+    "C": "El uso de V7-V9 para detectar infarto posterior por oclusión de la circunfleja es una recomendación correcta de las guías ESC."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el proceso diagnóstico del dolor torácico de origen pericárdico:",
+  "opciones": {
+   "A": "Se caracteriza por ser un dolor retroesternal que empeora en la posición de decúbito y mejora con la sedestación. Un antecedente de infección reciente orienta hacia este diagnóstico.",
+   "B": "El roce pericárdico es un dato muy específico, y es frecuente hallarlo.",
+   "C": "Existen cambios evolutivos electrocardiográficos a lo largo del tiempo: lo más precoz y específico es el descenso del segmento PR y lo más frecuente es una elevación difusa del segmento ST cóncava hacia arriba.",
+   "D": "En los casos sospechosos de pericarditis, la elevación de las troponinas indica una miopericarditis."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 52, "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."},
+  "explicacion": {
+   "correcta": "El roce pericárdico es altamente específico de pericarditis cuando está presente, pero es un hallazgo poco frecuente e intermitente; su ausencia no descarta el diagnóstico y su presencia no es habitual en todos los pacientes.",
+   "incorrectas": {
+    "A": "El dolor pericárdico que empeora en decúbito y mejora en sedestación (posición de Mahomed) y el antecedente de infección viral reciente son datos clásicos y correctos de la pericarditis aguda.",
+    "C": "El descenso del PR es el cambio electrocardiográfico más precoz y específico de la pericarditis, mientras que la elevación difusa cóncava del ST es el hallazgo más frecuente; ambas afirmaciones son correctas.",
+    "D": "La elevación de troponinas en un cuadro de pericarditis indica afectación miocárdica asociada, es decir, miopericarditis; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Una de las respuestas siguientes no forma parte del tratamiento de primera línea de la pericarditis aguda. Señálela:",
+  "opciones": {
+   "A": "Corticoides.",
+   "B": "Restricción de la actividad física.",
+   "C": "Antiinflamatorios no esteroideos o ácido acetilsalicílico.",
+   "D": "Colchicina."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 52, "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."},
+  "explicacion": {
+   "correcta": "Los corticoides no son tratamiento de primera línea en la pericarditis aguda idiopática o viral; se reservan para casos refractarios a AINEs y colchicina, o en etiologías específicas (autoinmune, urémica). Su uso precoz se asocia a mayor tasa de recurrencias.",
+   "incorrectas": {
+    "B": "La restricción de la actividad física hasta la resolución de los síntomas y normalización de marcadores inflamatorios es una recomendación de primera línea en la pericarditis aguda.",
+    "C": "Los AINEs (ibuprofeno, indometacina) o el ácido acetilsalicílico son el pilar del tratamiento antiinflamatorio de primera línea en la pericarditis aguda.",
+    "D": "La colchicina en combinación con AINEs es tratamiento de primera línea recomendado para reducir la duración del episodio y las recurrencias."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa en referencia al tratamiento antiagregante en el síndrome coronario agudo sin elevación del ST (SCASEST) según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Hay que valorar administrar ácido acetilsalicílico si no está contraindicado para el paciente.",
+   "B": "No se recomienda la administración sistemática de pretratamiento con un inhibidor del P2Y12 (ticagrelor o prasugrel) en los casos de SCASEST si se desconoce la anatomía coronaria del paciente y se planifica una estrategia invasiva temprana.",
+   "C": "Como medida de seguridad, hay que esperar a recibir el resultado de los marcadores miocárdicos para administrar cualquier tratamiento antiagregante.",
+   "D": "El clopidogrel, que se caracteriza por ser un inhibidor plaquetario menos potente, solo debe usarse en los casos en que el prasugrel o el ticagrelor estén contraindicados, no estén disponibles o no sean tolerables por un riesgo hemorrágico demasiado alto."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "No se debe retrasar el tratamiento antiagregante esperando los marcadores miocárdicos en el SCASEST; el AAS debe administrarse lo antes posible ante la sospecha clínica, sin esperar resultados analíticos que retrasarían el inicio del tratamiento.",
+   "incorrectas": {
+    "A": "La administración de AAS en ausencia de contraindicaciones es una recomendación correcta y de primera línea en el SCASEST.",
+    "B": "Las guías ESC 2020 para SCASEST recomiendan no administrar sistemáticamente un inhibidor P2Y12 de pretratamiento si se planifica estrategia invasiva precoz y se desconoce la anatomía coronaria; esta afirmación es correcta.",
+    "D": "El clopidogrel es efectivamente un inhibidor plaquetario menos potente que prasugrel y ticagrelor y su uso se reserva a casos con contraindicaciones o intolerancia a los otros, lo cual es correcto."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el tratamiento antiagregante en el síndrome coronario agudo según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "El ácido acetilsalicílico debe administrarse en una dosis de carga de 500 mg por la vía oral.",
+   "B": "La dosis inicial de carga del ticagrelor es de 180 mg por la vía oral.",
+   "C": "La dosis de carga del clopidogrel es de 300-600 mg por la vía oral.",
+   "D": "El ácido acetilsalicílico sin cubierta entérica es más recomendable, dada la rapidez de absorción."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "La dosis de carga de AAS recomendada en el síndrome coronario agudo es de 150-300 mg por vía oral (o 75-150 mg intravenoso), no de 500 mg. Una dosis de 500 mg es excesiva y no está recomendada en las guías actuales.",
+   "incorrectas": {
+    "B": "La dosis de carga de ticagrelor es de 180 mg por vía oral, lo cual es correcto según las guías ESC.",
+    "C": "La dosis de carga de clopidogrel de 300-600 mg por vía oral es correcta según las guías ESC.",
+    "D": "El AAS sin cubierta entérica se absorbe más rápidamente que el de cubierta entérica, por lo que es más recomendable en situaciones agudas; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En el abordaje del síndrome coronario agudo, ¿cuál de los valores siguientes aporta un riesgo de hemorragia más alto de acuerdo con la escala CRUSADE?",
+  "opciones": {
+   "A": "Hematocrito entre el 31% y el 33,9%.",
+   "B": "Aclaramiento de la creatinina entre 15 y 30 mL/min.",
+   "C": "Frecuencia cardiaca de 71-80 lpm.",
+   "D": "Padecer diabetes mellitus."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "En la escala CRUSADE, el aclaramiento de creatinina entre 15 y 30 mL/min puntúa con 28 puntos, siendo uno de los factores que más contribuyen al riesgo hemorrágico, junto con la insuficiencia renal grave, que altera la eliminación de antitrombóticos.",
+   "incorrectas": {
+    "A": "Un hematocrito entre 31% y 33,9% puntúa 3 puntos en la escala CRUSADE, una contribución mucho menor al riesgo hemorrágico en comparación con la insuficiencia renal.",
+    "C": "Una frecuencia cardiaca de 71-80 lpm puntúa 3 puntos en la escala CRUSADE, también una contribución menor.",
+    "D": "La diabetes mellitus no es un ítem de la escala CRUSADE original; los factores incluidos son hematocrito, aclaramiento de creatinina, frecuencia cardiaca, signos de insuficiencia cardiaca, enfermedad vascular previa, sexo femenino y presión arterial sistólica."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Mujer de 67 años con antecedentes de hipotiroidismo, hipertensión arterial y bloqueo de rama izquierda del haz de His, que acude por episodio sincopal. ECG: bradiarritmia a 37 lpm, intervalo PR constante, cada tres complejos normales una onda P no va seguida de QRS; QRS > 0,12 segundos. ¿Qué tipo de bradiarritmia presenta?",
+  "opciones": {
+   "A": "Bloqueo auriculoventricular de primer grado.",
+   "B": "Bloqueo auriculoventricular de segundo grado Mobitz I o Wenkebach.",
+   "C": "Bloqueo auriculoventricular de segundo grado Mobitz II.",
+   "D": "Bloqueo auriculoventricular de tercer grado."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 48, "tema": "Bradiarritmias. Bloqueos auriculoventriculares. Diagnóstico y tratamiento."},
+  "explicacion": {
+   "correcta": "El bloqueo AV de segundo grado Mobitz II se caracteriza por un intervalo PR constante seguido de una onda P que súbitamente no conduce al ventrículo (ausencia de QRS), con patrón fijo de bloqueo (en este caso 3:1 o 2:1). El QRS ancho indica bloqueo infranodal, lo que confirma el Mobitz II.",
+   "incorrectas": {
+    "A": "El bloqueo AV de primer grado solo prolonga el intervalo PR (>200 ms) sin bloqueo de la conducción; todas las ondas P se siguen de QRS.",
+    "B": "El Mobitz I o Wenckebach muestra alargamiento progresivo del PR hasta que una onda P no conduce; el PR no es constante como en el caso descrito.",
+    "D": "El bloqueo AV de tercer grado o completo muestra disociación AV total, con ondas P independientes de los QRS y ritmo de escape ventricular lento; aquí el PR es constante y hay conducción parcial."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En el caso de un paciente sintomático que presenta un bloqueo auriculoventricular de tercer grado con ritmo de escape ventricular, ¿cuál de las actuaciones siguientes se considera menos eficaz?",
+  "opciones": {
+   "A": "Administrarle 2 μg/min de isoprotenerol en perfusión.",
+   "B": "Colocarle un marcapasos transcutáneo.",
+   "C": "Administrarle 2 μg/min de adrenalina en perfusión por la vía endovenosa.",
+   "D": "Administrarle 0,5 mg de atropina por la vía endovenosa."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 48, "tema": "Bradiarritmias. Bloqueos auriculoventriculares. Diagnóstico y tratamiento."},
+  "explicacion": {
+   "correcta": "La atropina actúa sobre el nodo sinusal y el nodo AV, pero el bloqueo AV de tercer grado con ritmo de escape ventricular es infranodal (el centro de automatismo está en el ventrículo). La atropina tiene poca o ninguna eficacia sobre el ritmo de escape ventricular; puede incluso aumentar la frecuencia auricular sin mejorar la conducción ventricular.",
+   "incorrectas": {
+    "A": "El isoprotenerol (isoproterenol) es un simpaticomimético que puede aumentar la frecuencia del ritmo de escape ventricular y es una medida puente válida.",
+    "B": "El marcapasos transcutáneo es la medida más eficaz y rápida de estabilización hemodinámica en el bloqueo AV completo sintomático.",
+    "C": "La adrenalina en perfusión puede aumentar la frecuencia del ritmo de escape ventricular y mantener la hemodinámica mientras se prepara el marcapasos definitivo."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Paciente de 81 años, dado de alta hace 36 horas tras fractura de cadera izquierda, que acude por dolor torácico y disnea. TA: 90/55 mmHg; FC: 165 lpm; SatO2: 92%. ECG: taquicardia arrítmica a 150; QRS estrecho; descenso del ST en nueve derivaciones y elevación en AVR y V1. ¿Cuál de los tratamientos siguientes es menos adecuado?",
+  "opciones": {
+   "A": "Digoxina.",
+   "B": "Nitroglicerina en perfusión endovenosa.",
+   "C": "Cardioversión eléctrica.",
+   "D": "Oxigenoterapia."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 47, "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."},
+  "explicacion": {
+   "correcta": "Este paciente presenta inestabilidad hemodinámica (hipotensión severa) con taquiarritmia. La nitroglicerina es vasodilatadora y puede agravar la hipotensión, siendo potencialmente peligrosa en esta situación; está contraindicada en pacientes con tensión arterial sistólica inferior a 90 mmHg.",
+   "incorrectas": {
+    "A": "La digoxina puede usarse para control de la frecuencia en fibrilación auricular con disfunción ventricular, aunque no es la primera elección; no empeora la hipotensión de forma aguda.",
+    "C": "La cardioversión eléctrica es la medida de elección en taquiarritmias con inestabilidad hemodinámica grave, como en este caso.",
+    "D": "La oxigenoterapia está claramente indicada para tratar la hipoxemia (SatO2 92%) presente en el caso."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Paciente hipotenso con dolor torácico y signos adversos evidentes atribuibles a una taquicardia arrítmica a 170, QRS estrecho. Señale la respuesta correcta en el caso de plantearse una cardioversión eléctrica:",
+  "opciones": {
+   "A": "Debe hacerse una cardioversión eléctrica sincronizada a la potencia máxima desde el inicio, habiendo administrado sedoanalgesia al paciente y un pretratamiento con un fármaco antiarrítmico para mejorar la eficacia de la cardioversión.",
+   "B": "Debe hacerse una cardioversión eléctrica no sincronizada a la potencia máxima desde el inicio, habiendo administrado sedoanalgesia al paciente.",
+   "C": "Debe hacerse una cardioversión eléctrica sincronizada a 70J.",
+   "D": "Debe hacerse una cardioversión farmacológica con 300 mg de flecainida por la vía oral."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 104, "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."},
+  "explicacion": {
+   "correcta": "En la cardioversión eléctrica sincronizada de taquiarritmias supraventriculares con inestabilidad hemodinámica, las guías recomiendan iniciar con la energía máxima disponible para maximizar la tasa de éxito, previa sedoanalgesia. Un pretratamiento antiarrítmico puede considerarse para aumentar la eficacia.",
+   "incorrectas": {
+    "B": "La cardioversión no sincronizada (desfibrilación) se reserva para la fibrilación ventricular y la taquicardia ventricular sin pulso; en las taquiarritmias con pulso se utiliza la modalidad sincronizada para evitar inducir fibrilación ventricular.",
+    "C": "Una energía de 70 J es insuficiente como dosis inicial para las taquiarritmias supraventriculares; se recomienda empezar con energía más alta (120-200 J para ondas bifásicas).",
+    "D": "La cardioversión farmacológica oral con flecainida no está indicada en un paciente con inestabilidad hemodinámica; la cardioversión eléctrica es prioritaria."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el procedimiento de sedoanalgesia en un servicio hospitalario de urgencias:",
+  "opciones": {
+   "A": "La técnica correcta de sedoanalgesia incluye la evaluación previa del paciente para poder detectar y prevenir la aparición de efectos adversos.",
+   "B": "El procedimiento no requiere el consentimiento informado del paciente.",
+   "C": "Para lograr un nivel de sedación moderado se recomienda monitorizar durante la sedoanalgesia la frecuencia cardiaca por medio de un electrocardiógrafo, la presión arterial no invasiva, la saturación de oxígeno por medio de un pulsioxímetro y hacer una capnografía (si está disponible).",
+   "D": "Para los procedimientos que se llevan a cabo en el servicio de urgencias se recomienda un nivel de sedación 3-4 en la escala de Ramsay, que equivale a un nivel de sedación leve-moderado."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 43, "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."},
+  "explicacion": {
+   "correcta": "La sedoanalgesia es un procedimiento médico que requiere consentimiento informado del paciente o de su representante legal cuando sea posible; salvo en situaciones de urgencia vital donde no es posible obtenerlo. Omitir el consentimiento informado vulnera el principio de autonomía del paciente.",
+   "incorrectas": {
+    "A": "La evaluación previa del paciente (historia clínica, vía aérea, ayuno, alergias) es una parte esencial del procedimiento de sedoanalgesia para anticipar y prevenir complicaciones; esta afirmación es correcta.",
+    "C": "La monitorización con ECG, presión arterial no invasiva, pulsioximetría y capnografía (si disponible) durante la sedoanalgesia moderada es la práctica recomendada; esta afirmación es correcta.",
+    "D": "En urgencias se recomienda un nivel de sedación de Ramsay 3-4 (sedación leve-moderada), lo que permite al paciente responder a estímulos y mantener los reflejos protectores; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la respuesta correcta respecto a la medicación usada en la sedoanalgesia en el servicio de urgencias:",
+  "opciones": {
+   "A": "El propofol es lipofílico, produce hipnosis y analgesia y disminuye la tensión arterial y el gasto cardíaco. La dosis de inicio es de 0,5-1 mg/kg por la vía intravenosa. El tiempo de inicio de la acción es de 4 minutos.",
+   "B": "El midazolam produce hipnosis y está indicado para lograr una sedación profunda. La dosis inicial es de 0,02-0,03 mg/kg. El tiempo de inicio de la acción es de 40 segundos.",
+   "C": "El etomidato provoca menor depresión respiratoria pero gran estabilidad hemodinámica, y es el fármaco de elección para la sedación de ancianos y pacientes inestables. La dosis es de 0,1-0,15 mg/kg. El tiempo de inicio de la acción es inmediato.",
+   "D": "La ketamina se puede usar por la vía endovenosa o intramuscular en pacientes agitados. Está indicada para pacientes con traumatismo craneoencefálico y sospecha de hipertensión endocraneal."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 43, "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."},
+  "explicacion": {
+   "correcta": "El etomidato destaca por su mínima depresión respiratoria y notable estabilidad hemodinámica en comparación con otros hipnóticos, lo que lo convierte en el fármaco de elección para la inducción en pacientes hemodinámicamente inestables o ancianos. La dosis estándar es de 0,1-0,3 mg/kg y el inicio de acción es en 30-60 segundos.",
+   "incorrectas": {
+    "A": "El propofol es lipofílico pero no tiene propiedades analgésicas; produce solo hipnosis y amnesia. Su inicio de acción es de aproximadamente 30-60 segundos, no 4 minutos, y puede causar depresión cardiovascular significativa.",
+    "B": "El midazolam tiene inicio de acción de 1-2 minutos por vía intravenosa; los 40 segundos son más propios del midazolam intranasal. El midazolam produce sedación leve-moderada y no está indicado como único agente para sedación profunda.",
+    "D": "La ketamina está contraindicada en pacientes con traumatismo craneoencefálico grave y sospecha de hipertensión endocraneal, ya que puede elevar la presión intracraneal."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Joven de 21 años con palpitaciones desde hace 45 minutos. ECG: taquicardia rítmica del complejo QRS estrecho a 180 lpm. Señale la afirmación falsa:",
+  "opciones": {
+   "A": "Respecto a la maniobra de Valsalva tradicional, la maniobra de Valsalva modificada aumenta las probabilidades de éxito para volver al ritmo sinusal.",
+   "B": "Hay que evitar el masaje del seno carotídeo en los pacientes con antecedentes de ictus.",
+   "C": "La adenosina se administra inicialmente por la vía endovenosa en dosis de 6 mg; si no es efectiva, se añaden 6 mg y, si falla, una tercera dosis, de 12 mg.",
+   "D": "El verapamilo (dosis de 0,075-0,15 mg/kg por la vía intravenosa) o el diltiazem por la vía intravenosa se pueden administrar si la adenosina falla o está contraindicada, pero se asocian a riesgo de hipotensión."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 47, "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."},
+  "explicacion": {
+   "correcta": "El esquema de dosificación de adenosina es: primera dosis 6 mg; si no es efectiva, segunda dosis de 12 mg; si tampoco lo es, una tercera dosis de 12 mg. La segunda dosis no es de 6 mg sino de 12 mg según las guías actuales.",
+   "incorrectas": {
+    "A": "La maniobra de Valsalva modificada (con elevación de piernas tras el esfuerzo) aumenta el retorno venoso y la eficacia vagal, con mayor tasa de cardioversión que la maniobra tradicional; esta afirmación es correcta.",
+    "B": "El masaje del seno carotídeo puede desencadenar embolismo cerebral en pacientes con placas carotídeas o antecedente de ictus, por lo que está contraindicado en estos casos; esta afirmación es correcta.",
+    "D": "El verapamilo y el diltiazem intravenosos son alternativas efectivas a la adenosina en la TPSV, pero pueden causar hipotensión especialmente en pacientes con disfunción ventricular; esta afirmación es correcta."
+   }
+  }
+ }
+]

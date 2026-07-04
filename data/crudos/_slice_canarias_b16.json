@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 331,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el síntoma de mayor importancia médica en la intoxicación aguda por opiáceos?:",
+  "opciones": {
+   "A": "Convulsiones",
+   "B": "Depresión respiratoria",
+   "C": "Arritmias y asistolia",
+   "D": "Broncorrea y broncoconstricción"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 332,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el tratamiento de la intoxicación aguda por ingestión de cáusticos, señale la falsa:",
+  "opciones": {
+   "A": "El lavado gástrico y la administración de carbón activado están contraindicados",
+   "B": "La terapia dilucional con agua o leche no se recomienda",
+   "C": "Los ácidos producen daño tisular por necrosis de coagulación con formación de una escara protectora",
+   "D": "No es necesario realizar radiografía de tórax y simple de abdomen"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 333,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El carbón activado no está indicado en la intoxicación por:",
+  "opciones": {
+   "A": "Intoxicación por salicilatos",
+   "B": "Intoxicación por paracetamol",
+   "C": "Intoxicación por litio",
+   "D": "Intoxicación por B-bloqueantes"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 334,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el manejo de la intoxicación aguda por antidepresivos tricíclicos ¿qué tratamiento no estaría indicado?:",
+  "opciones": {
+   "A": "Carbón activado",
+   "B": "Flumazenilo",
+   "C": "Bicarbonato sódico 1M",
+   "D": "Benzodiacepinas sí agitación o convulsión"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 335,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En caso de intoxicación por cáusticos, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Se asegurará que la vía aérea es permeable así como la adecuada ventilación- oxigenación del paciente",
+   "B": "Administración de carbón activado para neutralizar el ph",
+   "C": "Retirada de prendas de vestir y lavado si contacto cutáneo",
+   "D": "Administración de antieméticos y dieta absoluta"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 336,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En caso de ingestión de sosa cáustica la actuación correcta es:",
+  "opciones": {
+   "A": "Provocar el vómito",
+   "B": "Dieta absoluta y administrar antieméticos",
+   "C": "Administrar carbón activado",
+   "D": "Todas las actuaciones son correctas"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 337,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 53 años traído por un familiar. Refiere que ha bebido aproximadamente 50 ml de lejía, señale la Respuesta Correcta:",
+  "opciones": {
+   "A": "La ausencia de lesiones en boca y faringe descarta afectación esofagogástrica",
+   "B": "Se debe administrar carbón activado en dosis única de 40 gramos",
+   "C": "Está indicada la profilaxis antibiótica, de elección amoxicilina-clavulánico y como alternativa clindamicina",
+   "D": "Todas las anteriores son falsas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 338,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Mujer de 22 años traída a urgencias en estado postcrítico después de crisis convulsiva. TA 80/40 y ECG con un QRS ensanchado. Había comenzado a tomar nortriptilina 2 semanas antes. ¿Cuál es el tratamiento inicial más adecuado?",
+  "opciones": {
+   "A": "Vía venosa y benzodiacepinas",
+   "B": "Vía venosa, lavado gástrico y fisostigmina",
+   "C": "Diuresis forzada alcalina",
+   "D": "Vía venosa, lavado gástrico, carbón activado y bicarbonato iv"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 339,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Respecto a la intoxicación por paracetamol, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La dosis tóxica es de 10gr en pacientes sanos y 7.5gr en pacientes etílicos, hepatópatas, malnutrición, etc",
+   "B": "El lavado gástrico y carbón activado están contraindicados",
+   "C": "El antídoto es la N-acetilcisteína",
+   "D": "En el diagnóstico es útil el nomograma de Rumack-Matthews"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 340,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La N-acetilcisteína es el antídoto para la intoxicación por:",
+  "opciones": {
+   "A": "Neurolépticos",
+   "B": "Salicilatos",
+   "C": "Paracetamol",
+   "D": "Opiáceos"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 341,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Pertenecen al grupo de insecticidas organofosforados, todas menos:",
+  "opciones": {
+   "A": "Paration",
+   "B": "Malation",
+   "C": "DDT",
+   "D": "Albicarb"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 342,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En las intoxicaciones por setas, señale la falsa:",
+  "opciones": {
+   "A": "Pueden producir síntomas colinérgicos",
+   "B": "Pueden producir síntomas alucinógenos",
+   "C": "Si los síntomas aparecen después de transcurridas 6 horas se trata, generalmente, de intoxicaciones leves",
+   "D": "Si presentan hemorragias se administra plasma fresco y vitamina k"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 343,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la Respuesta Correcta en relación con la atención urgente de un enfermo con ingesta accidental de una cantidad tóxica de setas de la especie Amanita Phalloides:",
+  "opciones": {
+   "A": "Clínicamente suele producir un síndrome de aparición precoz (minutos) de tipo muscarínico",
+   "B": "El pronóstico se establece básicamente por el grado de insuficiencia renal, la hepatotoxicidad no es relevante",
+   "C": "La diuresis forzada neutra no ha mostrado utilidad",
+   "D": "La terapéutica debe iniciarse con la simple sospecha clínica"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 344,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes intoxicaciones no produce un síndrome colinérgico?",
+  "opciones": {
+   "A": "Intoxicación por organofosforados",
+   "B": "Intoxicación por carbamatos",
+   "C": "Intoxicación por antihistamínicos",
+   "D": "Todas las anteriores producen"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 345,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una paciente de 42 años de edad es traída a la guardia desde su domicilio por sospecha de intoxicación con aumento de secreciones y deterioro del sensorio. Al examen físico se constata miosis, frecuencia cardíaca de 50 por minuto y dificultad respiratoria con aumento de secreciones ¿Cuál es su diagnóstico presuntivo?",
+  "opciones": {
+   "A": "Intoxicación por organofosforados",
+   "B": "Intoxicación por cocaína",
+   "C": "Intoxicación por paraquat",
+   "D": "Intoxicación por organoclorados"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 346,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el tratamiento de la intoxicación por organofosforados está indicado el uso de:",
+  "opciones": {
+   "A": "Atropina",
+   "B": "Oximas",
+   "C": "Lavado gástrico y carbón activado",
+   "D": "Todas las anteriores son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 347,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la respuesta incorrecta respecto a la intoxicación por paraquat:",
+  "opciones": {
+   "A": "Es una intoxicación con una mortalidad escasa",
+   "B": "En su tratamiento está indicado la tierra de Fuller",
+   "C": "Está contraindicada la oxigenoterapia: la toxicidad del paraquat aumenta en relación con la concentración de oxígeno alveolar",
+   "D": "No existe antídoto"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 348,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la intoxicación por setas, señale la Respuesta Correcta:",
+  "opciones": {
+   "A": "La Amanita Phalloides produce intoxicaciones graves por fallo hepático y renal",
+   "B": "Los síntomas de intoxicación por Amanita Phalloides comienzan después de las 6 horas de la ingestión",
+   "C": "Cuando los síntomas en una intoxicación por setas aparecen precozmente (antes de 6 horas) suele deberse a una intoxicación leve o menos grave",
+   "D": "Todas las anteriores son ciertas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 349,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Unos niveles bajos de acetilcolinesterasa en plasma indican una intoxicación por:",
+  "opciones": {
+   "A": "Herbicidas como el paraquat",
+   "B": "Organoclorados como el ddt",
+   "C": "Organofosforados como malation",
+   "D": "Rodenticidas"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 350,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la falsa en relación a la intoxicación por cianuro:",
+  "opciones": {
+   "A": "El cianuro se produce por la combustión de materias plásticas y espumas de poliuretano",
+   "B": "Origina acidosis metabólica con anión gap elevado",
+   "C": "La hidroxicobalamina (B12) asociada o no a tiosulfato sódico es el tratamiento de elección",
+   "D": "No produce alteraciones electrocardiográficas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 351,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la falsa en la intoxicación por monóxido de carbono:",
+  "opciones": {
+   "A": "La afinidad de la hemoglobina para el monóxido de carbono es unas 240 veces mayor que para el oxígeno",
+   "B": "La pulsioximetría, que determina la saturación periférica de oxígeno, es útil para valorar la satO2",
+   "C": "Entre las complicaciones más importantes están el edema agudo de pulmón y el infarto agudo de miocardio",
+   "D": "En las víctimas de incendios puede existir intoxicación conjunta por monóxido y cianuro"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 352,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Qué dosis de hidroxicobalamina utilizaría en un niño de 5 años procedente de un incendio que reúne criterios clínicos de administración de este antídoto:",
+  "opciones": {
+   "A": "70 mg/ kg de peso",
+   "B": "1g",
+   "C": "100mg/ kg de peso",
+   "D": "10 mg/ kg de peso"
+  },
+  "respuesta_correcta": "A"
+ }
+]

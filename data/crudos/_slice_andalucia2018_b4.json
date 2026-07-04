@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta respecto a la confirmación del diagnóstico de cetoacidosis diabética:",
+  "opciones": {
+   "A": "Hiperglucemia > 300 mg/dl.",
+   "B": "Cetonuria +++.",
+   "C": "pH arterial < 7,30.",
+   "D": "Bicarbonato sérico < 15 mEq/l."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta respecto al Síndrome de Guillain-Barré:",
+  "opciones": {
+   "A": "Polirradiculopatía aguda inflamatoria idiopática.",
+   "B": "El cuadro clínico típico consiste en la tríada de parestesias ligeras en pies y manos, debilidad ascendente y arreflexia",
+   "C": "Hay afectación del control esfinteriano",
+   "D": "Debe hacerse diagnostico diferencial con otros cuadros de debilidad aguda: lesión medular aguda, miastenia, botulismo, porfiria aguda intermitente, polineuropatía aguda secundaria a tóxicos, etc."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta respecto a la hemoptisis:",
+  "opciones": {
+   "A": "Las causas más frecuentes varían geográficamente, aunque en general la tuberculosis junto con la bronquitis, son los principales motivos de sangrado, seguido del cáncer de pulmón.",
+   "B": "La gravedad viene determinada principalmente por el compromiso hemodinámico.",
+   "C": "La hemoptisis es masiva cuando el sangrado es mayor de 500-600 ml en 24-48h.",
+   "D": "Se cataloga hemoptisis masiva si presenta ritmo mayor de 100-150 ml/h"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta correcta en el Delirium Tremens:",
+  "opciones": {
+   "A": "Suele ocurrir a las 24 horas de la abstinencia de la bebida y remitir a las 48h.",
+   "B": "En la reposición hídrica se comienza con suero glucosado al 5%.",
+   "C": "En la sedación son preferibles benzodiacepinas de acción rápida con metabolitos activos.",
+   "D": "No se relaciona con el alcoholismo."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta en el fracaso renal agudo (FRA):",
+  "opciones": {
+   "A": "La hidratación pre y post-procedimiento con fluidos isotónicos tipo cristaloides disminuye el riesgo de fracaso renal agudo.",
+   "B": "Si se trata de una necrosis tubular aguda consecuencia de un FRA prerrenal previo, el único tratamiento es N-Acetilcisteína.",
+   "C": "En el FRA prerrenal el objetivo principal es evitar la progresión a FRA parenquimatoso, de peor pronóstico.",
+   "D": "Hipercalcemias malignas con frecuencia se relacionan con FRA en pacientes oncológicos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta respecto a la realización de TAC craneal urgente en una crisis convulsiva en la infancia:",
+  "opciones": {
+   "A": "Se realizará TAC con antecedente de TCE",
+   "B": "Previo a punción lumbar en convulsiones con disminución prolongada e inexplicable del nivel de conciencia o con signos meníngeos.",
+   "C": "Para descartar otras causas de convulsiones provocadas en los pacientes que no se recuperan por completo en unas horas, con persistencia de la disminución del nivel de conciencia, alteraciones focales en la exploración neurológica o con una parálisis de Todd (postcrítica) prolongada.",
+   "D": "Convulsión resuelta y similar a las previas en paciente epiléptico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta respecto a la tetralogía de Fallot:",
+  "opciones": {
+   "A": "Si la obstrucción pulmonar es severa y el flujo pulmonar disminuido se presentará en el RN con cianosis severa.",
+   "B": "Si la obstrucción es moderada y el flujo sistémico y pulmonar equilibrado, se presentará con un soplo sistólico de EP en el borde paraesternal alto y, si aumenta la obstrucción, el soplo llega a desaparecer",
+   "C": "No presenta episodios bruscos de cianosis intensa con hiperventilación, irritabilidad y llanto que puede acabar en apnea o pérdida de conocimiento.",
+   "D": "Si hay una obstrucción mínima pulmonar, se puede presentar con cierto hiperaflujo pulmonar por flujo de izqda.-dcha (Fallot rosado)."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En el manejo en Urgencias de la Insuficiencia cardiaca crónica agudizada, señale la respuesta CORRECTA",
+  "opciones": {
+   "A": "La oxigenoterapia esta indicada en toda insuficiencia cardiaca agudizada.",
+   "B": "El tratamiento betabloqueante previo NO debe ser suspendido.",
+   "C": "Los inhibidos de la Neprilisina serán utilizados si fracción eyección reducida < 40%",
+   "D": "Los diuréticos son el pilar básico solo si presente edemas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En cuanto a la información al paciente y consentimiento informado en urgencias, señale la verdadera.",
+  "opciones": {
+   "A": "Se debe dejar constancia, en la Historia de Salud, de haber informado al paciente durante su proceso de atención, haciéndole partícipe en la toma de decisiones ante todas las intervenciones que lo requieran.",
+   "B": "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica obliga a informar al paciente y a hacerlo partícipe de su proceso de salud, y a informar a sus familiares o personas vinculadas de hecho, siempre que el paciente lo permita explícita o tácitamente.",
+   "C": "Por la Orden de 8 de julio de 2009, se dictan instrucciones a los centros del SSPA, en relación al procedimiento del consentimiento informado",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Qué es cierto en la donación en asistolia?",
+  "opciones": {
+   "A": "El diagnóstico de muerte y su posterior certificación han de preceder a la extracción de órganos. Los profesionales encargados del diagnóstico y la certificación serán médicos con cualificación o especialización adecuadas para esta finalidad,",
+   "B": "El diagnóstico de muerte a efectos de la donación se encuentra regulado en nuestro país por el Real Decreto 2070/1999, de 30 de diciembre, de acuerdo con nuestra legislación.",
+   "C": "En el ámbito de la Donación en Asistolia no controlada, la irreversibilidad viene determinada por la imposibilidad de restaurar la función cardiorrespiratoria tras la aplicación de maniobras de RCP avanzada durante el tiempo y atendiendo a las pautas establecidas en los protocolos de actuación desarrollados por las sociedades profesionales competentes.",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un abdomen agudo, señale la respuesta falsa.",
+  "opciones": {
+   "A": "La prueba diagnóstica de elección ante la sospecha de una apendicitis aguda es la ecografía de abdomen",
+   "B": "Si existe indicación quirúrgica, la intervención se hará lo antes posible",
+   "C": "Se indicará sueroterapia, analgesia y oxigenoterapia.",
+   "D": "La aparición de equimosis en abdomen nos pone en alerta sobre hemorragia intraabdominal"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto la obstrucción intestinal en adultos, señale la falsa.",
+  "opciones": {
+   "A": "La causa más frecuente de obstrucción intestinal en intestino delgado en paciente con intervenciones abdominales previas es el síndrome adherencial postquirurgico por bridas.",
+   "B": "Ante un paciente con sospecha de obstrucción intestinal se deben explorar los posibles orificios herniarios",
+   "C": "La causa más frecuente de obstrucción de colon es el vólvulo de sigma",
+   "D": "Es aconsejable realizar un tacto rectal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En un la diarrea, los fármacos antidiarreicos no están indicados en:",
+  "opciones": {
+   "A": "Sospecha de Enfermedad Inflamatoria Intestinal",
+   "B": "Sospecha de colitis psudomenbranosa",
+   "C": "Diarreas por bacterias enteroinvasivas",
+   "D": "Todas las anteriores"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En relación a la pancreatitis aguda, señale la respuesta falsa.",
+  "opciones": {
+   "A": "La amilasa sérica puede estar falsamente normal en caso de hipertrigliceridemia.",
+   "B": "La ecografía es orientativa y sirve para descartar patología biliar como etiología de la pancreatis, pero para un diagnostico de pancreatitis aguda la prueba de imagen indicada es un TAC abdomen con contraste iv.",
+   "C": "La causa más frecuente de pancreatitis aguda es la de etiología etílica",
+   "D": "La lipasa serica es mejor marcador que la amilasa y puede permanecer elevada entre 10-14 días."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En relación a la insuficiencia hepática aguda grave (IHAG), señale la respuesta falsa",
+  "opciones": {
+   "A": "Es una disfunción hepática aguda que aparece sobre un hígado sano en un periodo de tiempo menor a 25 días.",
+   "B": "Existe elevación de INR por encima de 1.5",
+   "C": "La intoxicación por amanita phalloides es una causa de IHAG",
+   "D": "En una IHAG por síndrome de Bud-Chiari se debe realizar un TIPS urgente"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un paciente con dolor torácico con sospecha de pericarditis, ¿qué es falso?",
+  "opciones": {
+   "A": "Si existe ingurgitación yugular se realizará una ecocardiografía para descartar derrame pericárdico con taponamiento cardiaco",
+   "B": "Una Troponina T elevada sugiere la existencia de miocarditis.",
+   "C": "En el EKG encontraremos de forma precoz ascenso del segmento PR",
+   "D": "En el EKG con frecuencia se encuentra una elevación difusa del ST con ascenso cóncavo hacia arriba"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cual de los siguientes no es causa de un shock obstructivo?",
+  "opciones": {
+   "A": "Tromboembolismo pulmonar",
+   "B": "Taponamiento cardiaco",
+   "C": "Neumotórax",
+   "D": "Anafilaxia"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿En cuál de las siguientes opciones, está indicada la ventilación mecánica no invasiva?",
+  "opciones": {
+   "A": "Apnea, parada respiratoria o respiración agónica.",
+   "B": "Neumotórax",
+   "C": "Traqueotomía",
+   "D": "Terapia paliativa en pacientes con indicación de Ventilación Mecánica Invasiva"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un derrame pleural, ¿cuál es la falsa?",
+  "opciones": {
+   "A": "Se debe realizar una toracocentesis diagnóstica",
+   "B": "En un paciente joven derrame pleural y que en liquido pleural presenta recuento leucocitario con predominio linfocitario, y ADA>45 se sospechará TBC",
+   "C": "Estamos ante un transudado si la LDH liq pleural/LDH suero>5",
+   "D": "Si el PH del liquido pleural es menor de 7.20 pensaremos en empiema o derrame pleural paraneumocico complicado como causa mas probable"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En un paciente con neumotórax, señale en que caso no está indicado el drenaje:",
+  "opciones": {
+   "A": "Sospecha de neumotórax a tensión",
+   "B": "Paciente sintomático con neumotórax mayor de 25%",
+   "C": "Paciente asintomático con neumotórax < 25%",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un código ictus, en urgencias, señale la correcta:",
+  "opciones": {
+   "A": "Se debe realizar historia, exploración completa incluida exploración neurológica y escala de NIHSS",
+   "B": "Hemograma, bioquímica, tiempos de coagulación, Rx de tórax, glucemia capilar y EKG.",
+   "C": "TAC craneal en el menor tiempo posible y se recomienda realizar TAC de perfusión - difusión para detectar zona infartada y zona de penumbra isquémica",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Indique la falsa en el tratamiento del síndrome confusional agudo:",
+  "opciones": {
+   "A": "Están indicados los neurolépticos tanto como tratamiento de la crisis como en tratamiento profiláctico.",
+   "B": "Están indicados tanto los neurolépticos (haloperidol) como los neurolépticos atípicos (olanzapina, risperidona, quetiapina)",
+   "C": "El Tiapride es un neuroléptico con potencia antipsicotica débil que está indicado en pacientes con Síndrome Coronario Agudo y Hepatopatías.",
+   "D": "Las benzodiadepinas son de elección en cuadros de abstinencia por alcohol u otros sedantes."
+  },
+  "respuesta_correcta": "A"
+ }
+]

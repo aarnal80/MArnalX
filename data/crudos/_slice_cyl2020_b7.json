@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Ante un paciente que ha sufrido un TCE que abre los ojos de forma espontánea, intenta hablar pero sin sentido y retira la mano tras un estímulo doloroso tendría una puntuación en la Escala de Glasgow de:",
+  "opciones": {
+   "A": "8",
+   "B": "9",
+   "C": "11",
+   "D": "14"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Paciente que ingresa en el Servicio de Urgencias por accidente de moto con TCE y pérdida de conciencia, al ingreso el paciente presenta un Glasgow de 15. Durante la atención comienza con deterioro del estado mental de rápida evolución con anisocoria y hemiparesia. Ante estos hallazgos, ¿cuál sería la sospecha diagnóstica?:",
+  "opciones": {
+   "A": "Contusión cerebral",
+   "B": "Hematoma subdural",
+   "C": "Fractura de cráneo",
+   "D": "Hematoma epidural"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La fractura de Lefort III se caracteriza por:",
+  "opciones": {
+   "A": "Fractura del maxilar con movilidad de la arcada superior, raíz nasal y sutura frontomalar.",
+   "B": "Fractura de ambas ramas mandibulares",
+   "C": "Fractura del maxilar con la arcada superior móvil, pero la raíz nasal y sutura frontomalar son estables.",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto al paciente con lesión medular, ¿cómo se denomina al síndrome en el que encontramos una desproporcionada debilidad de los miembros superiores respecto a los miembros inferiores con cambios sensitivos y disfunción de la vejiga?",
+  "opciones": {
+   "A": "Lesión medular completa",
+   "B": "Lesión medular incompleta",
+   "C": "Síndrome de Brown-Sequard",
+   "D": "Síndrome cordonal posterior"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál de las siguientes afirmaciones le parece más correcta respecto a paciente con lesión medular?",
+  "opciones": {
+   "A": "Todo paciente con fractura vertebral requerirá tratamiento quirúrgico",
+   "B": "Todo paciente con traumatismo y alteración del nivel de conciencia debe ser considerado como susceptible de ser un lesionado medular",
+   "C": "Todo paciente con posible lesión medular será tratado con corticoides en dosis masivas.",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "La mano del predicador aparece en la neuropatía del nervio mediano cuando se lesiona ¿a qué nivel?",
+  "opciones": {
+   "A": "A nivel de la axila",
+   "B": "A nivel del codo",
+   "C": "A nivel de la muñeca",
+   "D": "A nivel del tercio medio del antebrazo"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿A qué lesión se la conoce como dedo de esquiador o lesión de guardabosques?",
+  "opciones": {
+   "A": "Fractura-luxación de la base del primer metacarpiano",
+   "B": "Fractura de Rolando",
+   "C": "Rotura del ligamento colateral interno del primer dedo",
+   "D": "Ninguna de las anteriores"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cómo se conoce a la maniobra de reducción de una luxación de hombro que consiste en aducción, rotación externa, ascenso del brazo y rotación interna?",
+  "opciones": {
+   "A": "Hipocrático",
+   "B": "Método de Kocher",
+   "C": "Método de Arlt",
+   "D": "Método de Parvin"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "¿Cuál es la dosis recomendada para la profilaxis tromboembólica con enoxaparina, en una fractura del extremo proximal de fémur al ingreso como norma general?",
+  "opciones": {
+   "A": "3500 UI/24 horas",
+   "B": "5000 UI/24 horas",
+   "C": "1 mg/kg/24 horas",
+   "D": "0,5 mg/kg/24 horas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "El servicio de emergencias médicas traslada a Urgencias un paciente con un trauma torácico provocado en un accidente automovilístico. Tras la valoración primaria y secundaria se objetivan los siguientes datos: TA 96/65 mmHg, FC 115 latidos por minuto, FR 24 respiraciones minuto, relleno capilar 3 segundos. Paciente consciente y orientado. Venas yugulares colapsadas. Tráquea adecuadamente centrada en línea media. Vía aérea permeable, movilidad torácica simétrica y bilateral. Ruidos respiratorios disminuidos en hemitórax izquierdo, tonos cardiacos aumentados, rítmicos y sin soplos. Abdomen, pelvis y extremidades inferiores sin alteraciones. ¿Cuál de los siguientes diagnósticos se ajusta más a los hallazgos encontrados?",
+  "opciones": {
+   "A": "Cuerpo extraño en faringe.",
+   "B": "Hemoneumotórax masivo izquierdo.",
+   "C": "Neumotórax a tensión izquierdo.",
+   "D": "Taponamiento cardiaco."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta falsa en relación al trauma abdominal.",
+  "opciones": {
+   "A": "El líquido libre peritoneal postraumático indica una valoración por laparotomía urgente.",
+   "B": "El examen FAST (Focused Assessment with Sonography in Trauma) permite descartar la presencia de neumoperitoneo.",
+   "C": "Las lesiones diafragmáticas son más frecuentes en el lado derecho por la presencia del hígado.",
+   "D": "La presencia de hematuria obliga a realizar una prueba de imagen que valore riñones y tracto urinario."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la valoración secundaria de la gestante politraumatizada, señale la afirmación correcta:",
+  "opciones": {
+   "A": "Se deberá valorar el estado del feto en la valoración inicial de la gestante",
+   "B": "Solo cuando la madre haya sido estabilizada se valorará el estado del feto",
+   "C": "No es necesario realizar examen pélvico y perineal de la paciente",
+   "D": "Ninguna es correcta"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En un paciente de 6 años que consulta en Urgencias por un trauma grave tras un accidente de tráfico, señale la opción correcta:",
+  "opciones": {
+   "A": "La siguiente medida, tras verificar la permeabilidad de la vía aérea, será comprobar la perfusión tisular para descartar el shock.",
+   "B": "Frecuencias respiratorias de 24 respiraciones por minuto indican gravedad.",
+   "C": "La colocación de una vía central se reservará en los casos de no poder tener un acceso venoso periférico u óseo.",
+   "D": "Debido al metabolismo infantil, la perfusión de sueros hipotónicos (glucosalino, glucosado al 5%,…), es la indicada en la reanimación de estos pacientes."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En ventilación mecánica invasiva señale la respuesta incorrecta.",
+  "opciones": {
+   "A": "En Ventilación controlada (ciclada) por volumen (VC) se entrega un volumen corriente determinado en un determinado tiempo.",
+   "B": "La presión resultante en la vía aérea no es fija, sino que varía con la resistencia y la elasticidad del aparato respiratorio y con la velocidad de flujo seleccionada.",
+   "C": "Para el cálculo del volumen administrado utilizaremos el peso ideal del paciente en vez de su peso real.",
+   "D": "Pacientes con enfermedades obstructivas se benefician de tiempos espiratorios cortos para prevenir la autoPEEP"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Señale la respuesta correcta con respecto a la violencia de género (VG).",
+  "opciones": {
+   "A": "La Guía Clínica de Actuación Sanitaria Ante la Violencia De Género de la Junta de Castilla y León propone como herramienta de ayuda a la detección de la VG el cuestionario Women Abuse Screening Tool (WAST).",
+   "B": "El manejo en Urgencias de la paciente que ha sufrido VG debe incluir una intervención mínima según el esquema ERES. Escucha activa, Reconocimiento de su vivencia, Evaluación de riesgo, Servicios de apoyo.",
+   "C": "Si existe la sospecha, no confirmada, de que la paciente puede estar sufriendo VG y existe riesgo vital o peligro extremo se debe hacer Parte Judicial.",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto a la trombosis venosa profunda (TVP) señala la respuesta FALSA:",
+  "opciones": {
+   "A": "Un paciente con diagnóstico de TVP proximal y signos de tromboembolismo pulmonar con buen apoyo familiar no requiere ingreso hospitalario",
+   "B": "Un Dímero D normal en pacientes con baja probabilidad clínica de padecer TVP, prácticamente excluye el diagnóstico",
+   "C": "Un Dímero D elevado no asegura ni apoya el diagnóstico de enfermedad",
+   "D": "El eco-doppler es la prueba complementaria de elección para el diagnóstico de TVP."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Respecto al tratamiento con anticoagulante en paciente con TVP en el contexto de una neoplasia de pulmón, ¿cuánto tiempo lo mantendrías?:",
+  "opciones": {
+   "A": "3 meses",
+   "B": "6 meses",
+   "C": "No pondría anticoagulante",
+   "D": "Al menos 12 meses"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "No es un síntoma precoz de la isquemia arterial aguda:",
+  "opciones": {
+   "A": "Palidez y frialdad",
+   "B": "Flictenas",
+   "C": "Dolor",
+   "D": "Parestesias"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo. Serán designados por y entre los representantes del personal. No obstante, el Delegado de Prevención será el Delegado de Personal en las empresas de hasta:",
+  "opciones": {
+   "A": "30 trabajadores.",
+   "B": "De 31 a 49 trabajadores.",
+   "C": "De 50 a 100 trabajadores.",
+   "D": "De 101 a 500 trabajadores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En los Aneurisma de Aorta son factores predisponentes todos excepto:",
+  "opciones": {
+   "A": "Síndrome de Marfan",
+   "B": "HTA",
+   "C": "Miocardiopatía dilatada",
+   "D": "Patologías congénitas de la Aorta"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "Con respecto al uso de la capnografía de onda en la reanimación cardiopulmonar avanzada, señala la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Es útil para la comprobación de la correcta intubación orotraqueal",
+   "B": "Ayuda a detectar la recuperación de circulación espontánea",
+   "C": "Es un indicador para valorar la calidad de la RCP",
+   "D": "Las cifras bajas de CO2 al final de la inspiración indican suspender la RCP"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 154,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2020",
+  "enunciado": "En relación a la pericarditis aguda, señala la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La triada típica es dolor torácico, roce pericárdico y alteraciones difusas en el ECG",
+   "B": "Las causas más frecuentes son idiopáticas o víricas",
+   "C": "El tratamiento generalmente se basa en reposo y AINES",
+   "D": "La mayoría requieren hospitalización"
+  },
+  "respuesta_correcta": "D"
+ }
+]

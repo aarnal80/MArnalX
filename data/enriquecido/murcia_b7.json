@@ -1,0 +1,434 @@
+[
+  {
+    "id_examen": 133,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "En la intoxicación por colchicina (señale la respuesta falsa):",
+    "opciones": {
+      "A": "En la tercera fase aparece alopecia.",
+      "B": "Hay hipercalcemia e hipernatremia en la segunda fase.",
+      "C": "La aplasia medular se presenta entre los 2 y 7 días.",
+      "D": "La clínica se presenta en tres fases."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "La opción B es falsa porque en la segunda fase de la intoxicación por colchicina (entre 24-72 horas) predominan las alteraciones multiorgánicas con fallo renal, hepático y miocárdico, así como trastornos electrolíticos que incluyen típicamente hipocalcemia e hiponatremia, no hipercalcemia ni hipernatremia. La colchicina interrumpe la mitosis celular inhibiendo la polimerización de la tubulina, lo que provoca toxicidad en tejidos de alta renovación.",
+      "incorrectas": {
+        "A": "La alopecia es un dato característico y bien documentado de la tercera fase (recuperación, entre los días 7-21), resultado de la toxicidad mitótica sobre los folículos pilosos de rápida división, por lo que esta afirmación es verdadera.",
+        "C": "La aplasia medular, con agranulocitosis y pancitopenia graves, es un hallazgo clásico de la segunda fase de la intoxicación por colchicina y suele manifestarse entre los 2 y 7 días postingesta, siendo una de las principales causas de mortalidad, por lo que esta afirmación es verdadera.",
+        "D": "La intoxicación grave por colchicina sigue efectivamente un patrón trifásico: fase I (0-24 h) con síntomas gastrointestinales; fase II (1-7 días) con fallo multiorgánico y aplasia medular; y fase III (7-21 días) con recuperación o muerte, por lo que esta afirmación es verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 134,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "¿Cuál de las siguientes entidades sería una contraindicación para la lactancia materna?:",
+    "opciones": {
+      "A": "Hepatitis A.",
+      "B": "Hepatitis A y C.",
+      "C": "Hepatitis B y CMV.",
+      "D": "Ninguna de ellas representaría una contraindicación."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+    },
+    "explicacion": {
+      "correcta": "La opción D es correcta porque ninguna de las hepatitis mencionadas (A, B, C) ni el CMV constituyen contraindicaciones absolutas para la lactancia materna según las guías actuales. La hepatitis A materna en fase activa requiere precauciones higiénicas pero no impide la lactancia; la hepatitis B se puede amamantar con la vacunación e inmunoglobulina del neonato; la hepatitis C no se transmite de forma demostrada por la leche materna; y el CMV en madres sanas solo representa riesgo en grandes prematuros muy inmaduros, donde puede considerarse pasteurizar la leche pero no es una contraindicación absoluta.",
+      "incorrectas": {
+        "A": "La hepatitis A materna no es contraindicación para la lactancia; se recomiendan medidas higiénicas y puede administrarse inmunoglobulina al lactante, pero el amamantamiento puede continuar, por lo que afirmar que es contraindicación es incorrecto.",
+        "B": "Ni la hepatitis A ni la hepatitis C constituyen contraindicaciones para la lactancia materna en la práctica clínica habitual; las guías de la OMS y la AAP no las incluyen como motivos de suspensión, por lo que esta opción es incorrecta.",
+        "C": "La hepatitis B con profilaxis neonatal adecuada (vacuna e inmunoglobulina) permite la lactancia materna; el CMV solo es problemático en prematuros extremos. Ambas son manejables sin suprimir la lactancia, por lo que esta opción también es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 135,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "La fluidoterapia está indicada en el tratamiento de (señale la respuesta falsa):",
+    "opciones": {
+      "A": "Shock hipovolémico, distributivo y obstructivo.",
+      "B": "Depleción hidrosalina moderada o grave.",
+      "C": "Descompensación hiperglucémica hiperosmolar no cetósica.",
+      "D": "Edema agudo de pulmón."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 44,
+      "tema": "Fármacos en urgencias vitales. Fluidoterapia en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La opción D es falsa porque el edema agudo de pulmón (EAP) es precisamente una contraindicación de la fluidoterapia; en el EAP cardiogénico existe una sobrecarga de volumen con trasudación alveolar, y la administración de fluidos empeoraría el intercambio gaseoso y la situación hemodinámica. El tratamiento del EAP se basa en diuréticos, vasodilatadores, ventilación no invasiva y reducción de la precarga, no en expansión de volumen.",
+      "incorrectas": {
+        "A": "En el shock hipovolémico, distributivo (séptico, anafiláctico, neurógeno) y obstructivo (con cierta cautela), la reposición de volumen es un pilar terapéutico fundamental para restaurar la precarga y el gasto cardíaco, por lo que la fluidoterapia sí está indicada en estas situaciones.",
+        "B": "La depleción hidrosalina moderada o grave (por pérdidas digestivas, renales o cutáneas) es una indicación clásica de fluidoterapia intravenosa para reponer el déficit de agua y electrolitos, por lo que esta afirmación es verdadera.",
+        "C": "La descompensación hiperosmolar no cetósica cursa con hiperglucemia extrema y deshidratación masiva; la fluidoterapia agresiva con suero salino isotónico es la piedra angular del tratamiento junto con la insulinoterapia, por lo que esta indicación es correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 136,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Señale la respuesta falsa con relación al tratamiento farmacológico de la hemorragia digestiva alta:",
+    "opciones": {
+      "A": "La estabilidad química del omeprazol se mantiene solo durante 12 horas en perfusión continua.",
+      "B": "La terlipresina se utiliza en bolos intravenosos cada 4 horas.",
+      "C": "La administración de bolos intermitentes de omeprazol ha demostrado ser superior a la perfusión continua de dicho fármaco.",
+      "D": "La somatostatina puede provocar vómitos en el paciente."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 61,
+      "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La opción C es falsa porque los estudios disponibles no han demostrado que los bolos intermitentes de omeprazol sean superiores a la perfusión continua; de hecho, la pauta estándar recomendada en la hemorragia digestiva alta de alto riesgo tras endoscopia hemostática es un bolo inicial de 80 mg seguido de perfusión continua de 8 mg/h durante 72 horas, régimen que ha mostrado mayor eficacia en mantener el pH gástrico por encima de 6 y reducir el resangrado.",
+      "incorrectas": {
+        "A": "Es cierto que el omeprazol en solución para perfusión continua pierde estabilidad química a partir de las 12 horas aproximadamente, por lo que es necesario preparar nuevas diluciones cada 12 horas durante la infusión continua, siendo esta afirmación verdadera.",
+        "B": "La terlipresina, análogo de la vasopresina con mayor vida media, se administra efectivamente en bolos intravenosos de 2 mg cada 4 horas en la hemorragia por varices esofágicas, lo que permite reducir el flujo portal y el sangrado variceal; esta afirmación es correcta.",
+        "D": "La somatostatina y sus análogos pueden causar náuseas y vómitos como efectos adversos gastrointestinales frecuentes, especialmente en el bolo inicial; se recomienda administrarlo lentamente o con antieméticos para minimizar este efecto, siendo esta afirmación verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 137,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "En una meningitis bacteriana, ¿qué dato NO esperamos encontrar en el análisis del LCR?:",
+    "opciones": {
+      "A": "Descenso de la glucorraquia.",
+      "B": "Aspecto turbio.",
+      "C": "Pleocitosis polinuclear.",
+      "D": "Descenso de la proteinorraquia."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 69,
+      "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "La opción D es la respuesta correcta (dato NO esperado) porque en la meningitis bacteriana la proteinorraquia está típicamente elevada, no disminuida. La inflamación meníngea y la ruptura de la barrera hematoencefálica permiten el paso de proteínas plasmáticas al LCR, elevando su concentración por encima de 100-500 mg/dL. Un descenso de la proteinorraquia no forma parte del patrón bioquímico de la meningitis bacteriana.",
+      "incorrectas": {
+        "A": "El descenso de la glucorraquia (hipoglucorraquia) es un hallazgo clásico y esperado en la meningitis bacteriana, resultado del consumo de glucosa por las bacterias y los leucocitos; se considera significativo cuando la relación glucosa LCR/sangre es inferior a 0,4.",
+        "B": "El aspecto turbio o purulento del LCR es característico de la meningitis bacteriana y se debe a la elevada concentración de leucocitos polimorfonucleares y proteínas, siendo uno de los primeros signos macroscópicos orientativos.",
+        "C": "La pleocitosis polinuclear (predominio de neutrófilos, generalmente >1000 células/mm³) es el hallazgo citológico más característico de la meningitis bacteriana aguda, a diferencia de la meningitis vírica donde predominan los mononucleares."
+      }
+    }
+  },
+  {
+    "id_examen": 138,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "En un paciente oncológico con sensación nauseosa entre las 5 y 10 horas antes de empezar el ciclo citotóxico, ¿cuál sería el tratamiento más adecuado?:",
+    "opciones": {
+      "A": "Metoclopramida.",
+      "B": "Lorazepam.",
+      "C": "Metilprednisolona en bolo.",
+      "D": "Ondansetrón."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 96,
+      "tema": "Cuidados paliativos en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La opción B es correcta porque la descripción corresponde a náuseas anticipatorias (que aparecen horas antes de recibir la quimioterapia), un fenómeno de condicionamiento clásico pavloviano que no responde a antieméticos convencionales. Las benzodiazepinas como el lorazepam son el tratamiento de elección para las náuseas anticipatorias por su efecto ansiolítico y amnésico, que interrumpe el ciclo de condicionamiento.",
+      "incorrectas": {
+        "A": "La metoclopramida actúa como antiemético antagonista dopaminérgico y es útil para las náuseas agudas postquimioterapia o retardadas, pero no es el tratamiento de elección para las náuseas anticipatorias de origen psicológico condicionado.",
+        "C": "Los corticoides como la metilprednisolona tienen un papel en la profilaxis y el tratamiento de las náuseas agudas y retardadas por quimioterapia, pero no son el tratamiento indicado para las náuseas anticipatorias de tipo condicionado.",
+        "D": "El ondansetrón, antagonista de los receptores 5-HT3, es muy eficaz para las náuseas agudas inducidas por quimioterapia, pero no actúa sobre el mecanismo de condicionamiento psicológico que subyace a las náuseas anticipatorias, siendo ineficaz en este contexto."
+      }
+    }
+  },
+  {
+    "id_examen": 139,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Respecto al síndrome febril (neutropenia febril) en el paciente oncológico, señale la respuesta FALSA:",
+    "opciones": {
+      "A": "La neutropenia febril tiene en menos del 50% un foco claro y su etiología suele ser bacteriana.",
+      "B": "El recuento absoluto de granulocitos inferior a 500/ul.",
+      "C": "Temperatura superior a 38º en el momento de consulta.",
+      "D": "Las causas más frecuentes son las infecciones."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 83,
+      "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+    },
+    "explicacion": {
+      "correcta": "La opción A es falsa porque, si bien es cierto que en la neutropenia febril frecuentemente no se identifica un foco claro (en hasta el 50-60% de los casos la causa es clínicamente documentada o microbiológicamente documentada), la afirmación de que ocurre 'en menos del 50%' es imprecisa pero sobre todo la segunda parte es incorrecta: la etiología bacteriana SÍ es la más frecuente (bacterias grampositivas predominan actualmente), pero los criterios diagnósticos de neutropenia febril requieren temperatura mayor de 38,3°C (o 38°C en dos determinaciones) con neutrófilos menores de 500/µL, no exactamente como se describe en la opción.",
+      "incorrectas": {
+        "B": "El criterio de neutropenia se define como recuento absoluto de neutrófilos (o granulocitos) inferior a 500 células/µL, o inferior a 1000/µL con tendencia descendente esperada a menos de 500/µL; este criterio es correcto y constituye parte de la definición estándar.",
+        "C": "La fiebre en la neutropenia febril se define habitualmente como temperatura oral mayor de 38,3°C en una determinación o mayor de 38,0°C sostenida durante más de una hora; por tanto, la temperatura superior a 38°C en el momento de la consulta es un criterio válido.",
+        "D": "Las infecciones son efectivamente la causa más frecuente de neutropenia febril en el paciente oncológico, siendo las bacterianas las más habituales, seguidas de las fúngicas en episodios prolongados, lo cual es una afirmación verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 140,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "En el shock hemorrágico, señale la respuesta FALSA:",
+    "opciones": {
+      "A": "La principal causa de shock en el trauma grave es la hemorragia.",
+      "B": "El aumento de la pérdida de sangre produce un aumento de la frecuencia cardiaca y disminución de la presión arterial.",
+      "C": "La clasificación del Advance Trauma LifeSupport (ATLS) sobre la gravedad de la hemorragia predice la mortalidad quirúrgica del paciente con trauma grave.",
+      "D": "Con el sangrado leve no hay cambios significativos en la frecuencia respiratoria o en el nivel de conciencia."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "La opción C es falsa porque la clasificación ATLS del shock hemorrágico (clases I-IV basada en volumen perdido, frecuencia cardíaca, presión arterial, nivel de conciencia) es una guía orientativa para el manejo inicial, pero se ha demostrado que no predice de forma fiable la mortalidad quirúrgica ni la necesidad de transfusión masiva en el trauma grave, ya que tiene importantes limitaciones al no considerar factores como la coagulopatía, la acidosis o la temperatura (tríada letal del trauma).",
+      "incorrectas": {
+        "A": "La hemorragia es efectivamente la principal causa de shock en el paciente politraumatizado y la principal causa de muerte evitable en trauma; representa el 30-40% de las muertes traumáticas, siendo por tanto una afirmación verdadera.",
+        "B": "La taquicardia compensatoria es uno de los primeros signos del shock hemorrágico; a medida que aumenta la pérdida de sangre se produce progresiva taquicardia y, en fases más avanzadas (clase III-IV del ATLS), descenso de la presión arterial sistólica, por lo que esta afirmación es correcta.",
+        "D": "En el sangrado leve (clase I del ATLS, pérdida menor del 15% de la volemia), los mecanismos compensadores del sistema nervioso autónomo mantienen el gasto cardíaco y la perfusión sin cambios significativos en la frecuencia respiratoria ni en el nivel de conciencia, siendo esta afirmación verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 141,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "La respuesta ocular conocida como \"ojos de muñeca\" en un/a paciente en coma indica:",
+    "opciones": {
+      "A": "Lesión protuberencial.",
+      "B": "Lesión bulbar.",
+      "C": "Lesión del sistema oculomotor derecho.",
+      "D": "Normalidad del tronco encefálico y del sistema oculomotor."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 66,
+      "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+    },
+    "explicacion": {
+      "correcta": "La opción D es correcta porque el reflejo oculocefálico positivo (fenómeno de 'ojos de muñeca'), en el que los ojos se desplazan conjugadamente en sentido contrario a la rotación de la cabeza, implica que los centros del tronco encefálico que coordinan los movimientos oculares (protuberancia, mesencéfalo, fascículo longitudinal medial) y el sistema oculomotor están intactos. Este reflejo se explora en el coma y su presencia indica integridad funcional del tronco.",
+      "incorrectas": {
+        "A": "Una lesión protuberencial provocaría la abolición del reflejo oculocefálico (ausencia del fenómeno de ojos de muñeca) o desviaciones conjugadas, no la respuesta normal descrita; por tanto, la presencia del reflejo descarta lesión protuberencial significativa.",
+        "B": "Una lesión bulbar grave afectaría a los núcleos vestibulares y al componente aferente del arco reflejo, aboliendo o alterando el reflejo oculocefálico, no produciendo el patrón de ojos de muñeca positivo descrito.",
+        "C": "Una lesión del sistema oculomotor derecho produciría una paresia o parálisis del movimiento ocular ipsilateral con asimetría en la respuesta, no el patrón conjugado y simétrico que caracteriza el fenómeno de ojos de muñeca positivo."
+      }
+    }
+  },
+  {
+    "id_examen": 142,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "La fractura denominada del \"boxeador\" se caracteriza por:",
+    "opciones": {
+      "A": "Fractura de la base del quinto metacarpiano.",
+      "B": "Fractura de la falange distal del quinto metacarpiano.",
+      "C": "Fractura del cuello del quinto metacarpiano.",
+      "D": "Fractura de la falange proximal del quinto metacarpiano."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La fractura del boxeador es, por definición, la fractura del cuello del quinto metacarpiano (ocasionalmente también del cuarto), producida típicamente al golpear con el puño cerrado un objeto duro. El mecanismo es la compresión axial sobre la cabeza del metacarpiano que fractura el cuello, causando la angulación palmar característica de la cabeza metacarpiana.",
+      "incorrectas": {
+        "A": "La fractura de la base del quinto metacarpiano es una entidad distinta, generalmente asociada a fuerzas de avulsión o compresión lateral, y se denomina fractura de la apófisis estiloides del quinto metacarpiano o fractura del tenista, no fractura del boxeador.",
+        "B": "Las fracturas de la falange distal del quinto dedo son producidas por mecanismos de aplastamiento o hiperflexión (como la fractura en maza), no por el mecanismo de puñetazo que caracteriza la fractura del boxeador.",
+        "D": "La fractura de la falange proximal del quinto dedo responde a mecanismos de torsión o compresión lateral del dedo; no es la localización característica de la fractura del boxeador, que se sitúa a nivel del cuello del quinto metacarpiano."
+      }
+    }
+  },
+  {
+    "id_examen": 143,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Es FALSO, en cuanto al índice de Truelove-Witts modificado:",
+    "opciones": {
+      "A": "Es el más utilizado para cuantificar el grado de actividad de la enfermedad de Crohn.",
+      "B": "Entre sus variables incluye la hemoglobina y la temperatura.",
+      "C": "Clasifica la actividad como leve, moderada y grave.",
+      "D": "Cuantifica deposiciones al día."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La opción A es falsa porque el índice de Truelove-Witts (y su modificación) es el índice de actividad de la colitis ulcerosa, no de la enfermedad de Crohn. Para la enfermedad de Crohn se utilizan otros índices como el CDAI (Crohn's Disease Activity Index) o el índice de Harvey-Bradshaw. Confundir ambas entidades y sus sistemas de puntuación es un error conceptual importante.",
+      "incorrectas": {
+        "B": "El índice de Truelove-Witts modificado sí incluye entre sus variables la hemoglobina (en g/dL) y la temperatura corporal, junto con el número de deposiciones, la presencia de sangre en heces, la VSG y el pulso; por tanto esta afirmación es verdadera.",
+        "C": "El índice de Truelove-Witts efectivamente clasifica la actividad de la colitis ulcerosa en tres categorías: leve, moderada y grave (o brote grave), lo que orienta la actitud terapéutica urgente; esta afirmación es verdadera.",
+        "D": "El número de deposiciones al día es uno de los criterios principales del índice de Truelove-Witts (más de 6 deposiciones/día con sangre es criterio de brote grave); esta afirmación es verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 144,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Señale cuál de los siguientes NO es un dato de laboratorio frecuente en el shock cardiogénico:",
+    "opciones": {
+      "A": "Aumento de la urea.",
+      "B": "pH superior a 7,35.",
+      "C": "Hiperglucemia.",
+      "D": "Hipoxemia."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 50,
+      "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La opción B es la correcta (dato NO frecuente) porque en el shock cardiogénico existe hipoperfusión tisular que genera metabolismo anaerobio con producción de ácido láctico, dando lugar a acidosis metabólica; por tanto, el pH será inferior a 7,35 (acidemia), no superior. Un pH mayor de 7,35 indicaría ausencia de acidosis, lo cual sería inconsistente con un shock cardiogénico establecido.",
+      "incorrectas": {
+        "A": "La elevación de la urea es frecuente en el shock cardiogénico por la reducción del flujo renal (prerrenal), que disminuye el filtrado glomerular y provoca acumulación de productos nitrogenados; es un hallazgo analítico habitual y esperado.",
+        "C": "La hiperglucemia es común en el shock cardiogénico como respuesta al estrés, por liberación de catecolaminas y cortisol que estimulan la glucogenólisis y gluconeogénesis, inhibiendo la secreción de insulina; es un dato analítico frecuente.",
+        "D": "La hipoxemia es un hallazgo analítico cardinal en el shock cardiogénico por la congestión pulmonar y el edema alveolar que deterioran el intercambio gaseoso, reduciendo la PaO2; es un dato esperado y frecuente."
+      }
+    }
+  },
+  {
+    "id_examen": 145,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Respecto al shock séptico, señale la opción FALSA:",
+    "opciones": {
+      "A": "Suele existir hipovolemia, por lo que reponer volumen es esencial.",
+      "B": "Los fármacos vasoconstrictores tienen un papel fundamental en este tipo de shock.",
+      "C": "Es fundamental tratar y drenar el foco infeccioso.",
+      "D": "La mortalidad de este tipo de shock es muy baja."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+    },
+    "explicacion": {
+      "correcta": "La opción D es falsa porque el shock séptico tiene una mortalidad muy elevada, que oscila entre el 30 y el 50% según las series, siendo una de las principales causas de muerte en las unidades de cuidados intensivos. Afirmar que la mortalidad es 'muy baja' contradice completamente los datos epidemiológicos y clínicos de esta entidad.",
+      "incorrectas": {
+        "A": "En el shock séptico existe hipovolemia relativa y absoluta por vasodilatación periférica, aumento de la permeabilidad capilar y pérdidas insensibles; la reposición de volumen con cristaloides (30 mL/kg en la primera hora) es una medida esencial y parte del bundle de sepsis, siendo esta afirmación verdadera.",
+        "B": "Los vasopresores, especialmente la norepinefrina como fármaco de primera línea, son fundamentales en el shock séptico para restaurar la resistencia vascular sistémica y mantener la presión arterial media por encima de 65 mmHg cuando la reposición de volumen es insuficiente; esta afirmación es correcta.",
+        "C": "El control del foco infeccioso (drenaje de abscesos, retirada de catéteres infectados, desbridamiento quirúrgico) debe realizarse lo antes posible (idealmente en las primeras 6-12 horas) junto con la antibioterapia empírica precoz; es un pilar fundamental del tratamiento, siendo esta afirmación verdadera."
+      }
+    }
+  },
+  {
+    "id_examen": 146,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Respecto a la gastroenteritis aguda en la infancia y su tratamiento, señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "En el tratamiento se debe incluir bebidas isotónicas preparados caseros o zumos de frutas.",
+      "B": "Se prefiere la hidratación intravenosa frente a la oral para minimizar la sintomatología cuanto antes.",
+      "C": "El tratamiento con soluciones de rehidratación oral (SRO) está indicada en el tratamiento de la deshidratación aguda, pero solo para deshidratación isotónica.",
+      "D": "Las bebidas isotónicas comerciales (tipo AQUARIUS) están contraindicadas por su alta osmolaridad, exceso de glucosa y déficit de sales, por lo que provoca una diarrea osmótica que agrava el cuadro."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 65,
+      "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+    },
+    "explicacion": {
+      "correcta": "La opción D es correcta porque las bebidas isotónicas deportivas comerciales como Aquarius tienen una composición inadecuada para la rehidratación del niño con gastroenteritis: contienen exceso de glucosa (que puede empeorar la diarrea por efecto osmótico), sodio insuficiente y otras sales en proporciones no ajustadas a las pérdidas diarreicas. Las SRO de la OMS tienen la composición específicamente diseñada para maximizar la absorción intestinal de agua y electrolitos.",
+      "incorrectas": {
+        "A": "Las bebidas isotónicas deportivas, los preparados caseros y los zumos de frutas no deben utilizarse en la rehidratación del niño con gastroenteritis aguda; los zumos y preparados caseros tienen composición inadecuada en electrolitos y osmolaridad, y las bebidas deportivas tienen exceso de glucosa, todo lo cual puede agravar la diarrea.",
+        "B": "La hidratación oral con SRO es el método de elección en la gastroenteritis aguda infantil con deshidratación leve-moderada; la vía intravenosa se reserva para deshidratación grave, alteración del nivel de conciencia, fracaso de la rehidratación oral o vómitos incoercibles. No se prefiere la vía IV de forma general.",
+        "C": "Las SRO están indicadas en la deshidratación aguda de cualquier tipo (isotónica, hipotónica e hipertónica) con las adaptaciones pertinentes; no se limitan únicamente a la deshidratación isotónica, siendo incorrecta esta restricción."
+      }
+    }
+  },
+  {
+    "id_examen": 147,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Durante el embarazo se producen una serie de cambios en los datos de laboratorio:",
+    "opciones": {
+      "A": "Aumento de amilasemia mínimamente.",
+      "B": "Disminución de calcemia.",
+      "C": "Disminución del hematocrito.",
+      "D": "Disminución de la urea plasmática."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 78,
+      "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+    },
+    "explicacion": {
+      "correcta": "La opción A es correcta porque durante el embarazo se produce un ligero aumento de la amilasa sérica (especialmente de la isoforma salivar), que puede alcanzar valores hasta un 50% superiores al límite normal. Este aumento es fisiológico y no debe interpretarse erróneamente como signo de pancreatitis, lo que tiene importancia clínica práctica al evaluar dolor abdominal en la gestante.",
+      "incorrectas": {
+        "B": "El calcio total en suero desciende durante el embarazo de forma fisiológica por la hemodilución y el descenso de la albúmina (que transporta calcio unido), aunque el calcio iónico libre permanece normal. Sin embargo, la afirmación de 'disminución de la calcemia' es parcialmente correcta pero no es la respuesta que mejor describe un cambio analítico relevante y específico del embarazo como pregunta principal.",
+        "C": "El hematocrito sí desciende durante el embarazo (anemia fisiológica por hemodilución) porque el volumen plasmático aumenta más que la masa eritrocitaria, pero esta opción no es la correcta según la respuesta del examen, ya que la amilasemia mínimamente aumentada es el dato más específico y menos conocido.",
+        "D": "La urea plasmática también disminuye durante el embarazo por el aumento del filtrado glomerular (hasta un 50% mayor) y la mayor excreción renal de productos nitrogenados, pero esta opción tampoco es la respuesta correcta del examen."
+      }
+    }
+  },
+  {
+    "id_examen": 148,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "Paciente de 62 años, que acude a urgencias con dolor retroesternal de inicio súbito e intenso, rasgante y sensación de muerte, que irradia a la espalda, que presenta hipertensión arterial y ECG normal. Sospecha en primer lugar:",
+    "opciones": {
+      "A": "Hernia de hiato con reflujo importante y esperaría al resultado de la gastroscopia.",
+      "B": "Infarto agudo de ventrículo derecho y realizaría ECG incluyendo derivaciones V3R y V4R.",
+      "C": "Disección de aorta y realizaría un ecocardiograma transesofágico y un TAC.",
+      "D": "Embolismo pulmonar izquierdo por irradiación y le daría heparina."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 52,
+      "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+    },
+    "explicacion": {
+      "correcta": "La opción C es correcta porque la presentación clínica descrita (dolor retroesternal súbito, intenso, con carácter rasgante o desgarrante, irradiación dorsal, hipertensión arterial y ECG normal o sin cambios isquémicos) es la presentación típica de la disección aórtica aguda tipo A o B. El ECG normal ayuda a descartar el SCA como primera opción. Las pruebas de elección son el TAC torácico con contraste (de alta disponibilidad) y/o el ecocardiograma transesofágico.",
+      "incorrectas": {
+        "A": "La hernia de hiato con reflujo puede causar pirosis retroesternal, pero raramente produce dolor súbito, intenso, rasgante con irradiación dorsal y sensación de muerte inminente. Esperar a una gastroscopia ante un cuadro tan sugestivo de emergencia cardiovascular sería una conducta inapropiada y potencialmente mortal.",
+        "B": "El infarto de ventrículo derecho típicamente se asocia a infarto inferior con elevación en derivaciones inferiores y V3R-V4R, y no produce dolor rasgante con irradiación dorsal ni el cuadro descrito; además, el ECG sería anormal en caso de IAM.",
+        "D": "El embolismo pulmonar cursa con disnea, dolor pleurítico (lateral) e hipoxemia; la irradiación dorsal de características 'rasgantes' no es típica del TEP. Además, el término 'embolismo pulmonar izquierdo por irradiación' no es una entidad clínica establecida, y la anticoagulación empírica sin diagnóstico en un posible síndrome aórtico agudo podría ser devastadora."
+      }
+    }
+  },
+  {
+    "id_examen": 149,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "El marcapasos más clásico, el VVI, es un aparato que...:",
+    "opciones": {
+      "A": "Sensa en el ventrículo, estimula en el ventrículo y si detecta actividad se inhibe.",
+      "B": "Sensa en la aurícula, estimula en el ventrículo y si detecta actividad se inhibe.",
+      "C": "Sensa en el ventrículo, estimula en la aurícula y si detecta actividad se inhibe.",
+      "D": "Sensa en aurícula, estimula en la aurícula y si detecta actividad hace trigger."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "La opción A es correcta porque el código NBG de tres letras describe el funcionamiento del marcapasos: la primera letra indica la cámara estimulada (V = ventrículo), la segunda la cámara sensada (V = ventrículo) y la tercera el modo de respuesta (I = inhibición). Así, el marcapasos VVI sensa en el ventrículo, estimula en el ventrículo y cuando detecta actividad ventricular propia se inhibe para no competir con el ritmo espontáneo del paciente.",
+      "incorrectas": {
+        "B": "La configuración que sensa en aurícula, estimula en ventrículo y se inhibe corresponde al código VDD o DVI, no al VVI. En el VVI ambas funciones (sensado y estimulación) se realizan en el ventrículo.",
+        "C": "Un marcapasos que sensa en ventrículo y estimula en aurícula no tiene sentido fisiológico ni corresponde a ningún código estándar de marcapasos clínicamente utilizado; además contradice la nomenclatura NBG donde la primera letra es la cámara estimulada.",
+        "D": "La configuración que sensa en aurícula, estimula en aurícula y hace trigger (sincronización) corresponde al código AAT; el modo trigger (T) dispara el estímulo al detectar actividad, al contrario del modo inhibición (I) del marcapasos VVI."
+      }
+    }
+  },
+  {
+    "id_examen": 150,
+    "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+    "enunciado": "En la intoxicación por barbitúricos (señale la respuesta falsa):",
+    "opciones": {
+      "A": "La administración de carbón activado es útil incluso si el fenobarbital se ha administrado por vía iv.",
+      "B": "La dosis letal de pentobarbital es de 2 g.",
+      "C": "El lavado gástrico es útil en las primeras 4h tras la sobredosis.",
+      "D": "No es necesario adoptar las medidas generales de reanimación (CAB)."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "La opción D es falsa porque en la intoxicación grave por barbitúricos, el mantenimiento de la vía aérea, la ventilación y la circulación (CAB) es absolutamente prioritario y fundamental. Los barbitúricos producen depresión del sistema nervioso central y respiratorio, pudiendo causar coma profundo, apnea y colapso cardiovascular; las medidas de soporte vital básico son la intervención más importante en estos pacientes.",
+      "incorrectas": {
+        "A": "El carbón activado es útil en la intoxicación por fenobarbital incluso cuando se ha administrado por vía intravenosa, porque el fenobarbital sufre circulación enterohepática y se excreta a la luz intestinal desde la mucosa, donde el carbón puede captarlo y reducir su reabsorción (decontaminación gastrointestinal tardía); esta afirmación es correcta.",
+        "B": "La dosis letal de pentobarbital se estima aproximadamente en 2 gramos en adultos, aunque puede ser menor en combinación con alcohol u otros depresores del SNC; este dato es farmacológicamente aceptado y la afirmación es verdadera.",
+        "C": "El lavado gástrico puede ser útil en las primeras 4 horas tras la ingesta de barbitúricos de acción prolongada como el fenobarbital, siempre con protección de la vía aérea (intubación si procede) para evitar la aspiración; esta afirmación es correcta."
+      }
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Con respecto a la atención de los pacientes en el área de urgencias en caso de desastre es FALSO que:",
+  "opciones": {
+   "A": "La atención no imprescindible inmediatamente debería proporcionarse al día siguiente.",
+   "B": "Solo deben realizarse estudios radiográficos si sus resultados modificaran las intervenciones terapéuticas.",
+   "C": "Los estudios de laboratorio deben considerarse accesorios y solo ordenarse en circunstancias específicas.",
+   "D": "La pulsioximetría se empleará preferentemente en la monitorización contínua de los pacientes."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+  },
+  "explicacion": {
+   "correcta": "La opción D es la FALSA porque en situaciones de catástrofe los recursos son limitados y la pulsioximetría continua resulta inviable para todos los pacientes; se reserva para casos seleccionados en que realmente cambiará la toma de decisiones. En gestión de catástrofes se prima la monitorización clínica básica y se minimizan los recursos tecnológicos de uso continuo. El principio rector es hacer el mayor bien al mayor número con los recursos disponibles, lo que excluye la monitorización continua universal.",
+   "incorrectas": {
+    "A": "En situaciones de catástrofe, diferir la atención no urgente al día siguiente es una medida correcta de gestión de recursos: permite concentrar todos los esfuerzos en los pacientes críticos y con necesidad inmediata. Esta afirmación es verdadera y no es la respuesta.",
+    "B": "Limitar las pruebas radiológicas a aquellas que realmente modificarán el tratamiento es un principio correcto en situaciones de desastre, donde los recursos diagnósticos también son escasos. Esta afirmación es verdadera y no es la respuesta.",
+    "C": "Considerar los estudios de laboratorio como accesorios y pedirlos solo en circunstancias específicas es una conducta apropiada en catástrofes, evitando el colapso del laboratorio con peticiones de rutina innecesarias. Esta afirmación es verdadera y no es la respuesta."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta CORRECTA con respecto al sistema español de triage:",
+  "opciones": {
+   "A": "Es una adaptación del modelo de Manchester.",
+   "B": "Es de aplicación tanto en el terreno hospitalario como en el extrahospitalario.",
+   "C": "Es un triage de 4 niveles de priorización.",
+   "D": "Es un modelo de triage exclusivamente médico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+  },
+  "explicacion": {
+   "correcta": "El Sistema Español de Triage (SET), basado en el modelo MAT (Modelo Andorrano de Triaje), es de aplicación tanto hospitalaria como extrahospitalaria. Fue diseñado para ser utilizado en todos los ámbitos asistenciales del sistema de emergencias, lo que le otorga una versatilidad que lo diferencia de otros sistemas. Esta característica de aplicabilidad universal es una de sus principales ventajas.",
+   "incorrectas": {
+    "A": "El SET no es una adaptación del modelo de Manchester (Manchester Triage System); es una evolución del Modelo Andorrano de Triaje (MAT), desarrollado específicamente en el contexto hispanohablante. El MTS y el SET son sistemas independientes con distintas categorías y discriminadores.",
+    "C": "El SET es un sistema de 5 niveles de priorización (I: resucitación, II: emergencia, III: urgente, IV: menos urgente, V: no urgente), no de 4. Los cinco niveles permiten una graduación más precisa de la gravedad y la urgencia.",
+    "D": "El SET no es exclusivamente médico; puede ser aplicado por personal de enfermería debidamente entrenado. De hecho, en la mayoría de los servicios de urgencias hospitalarios el triage lo realiza el personal de enfermería, siendo el SET un modelo enfermero-médico."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes NO es una característica del triage moderno?",
+  "opciones": {
+   "A": "Sencillez.",
+   "B": "Reproducibilidad.",
+   "C": "Utilidad.",
+   "D": "Validez."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+  },
+  "explicacion": {
+   "correcta": "La sencillez NO es una de las características definitorias del triage moderno estructurado. Los sistemas de triage modernos como el SET o el MTS son complejos y requieren formación específica, algoritmos detallados y discriminadores múltiples. Las características reconocidas del triage moderno son la reproducibilidad (mismo resultado independientemente del evaluador), la validez (clasifica correctamente la gravedad real) y la utilidad clínica (predice consumo de recursos y resultados).",
+   "incorrectas": {
+    "B": "La reproducibilidad SÍ es una característica esencial del triage moderno: diferentes profesionales entrenados deben obtener la misma clasificación ante el mismo paciente. Un sistema con baja reproducibilidad interobservador sería poco fiable y no debería utilizarse.",
+    "C": "La utilidad SÍ es una característica del triage moderno: el sistema debe ser clínicamente útil, predecir consumo de recursos, tiempos de espera y resultados clínicos. Un sistema sin utilidad práctica no tendría razón de ser en el ámbito asistencial.",
+    "D": "La validez SÍ es una característica del triage moderno: el sistema debe clasificar correctamente al paciente según su urgencia real y gravedad. La validez se mide comparando la clasificación del triage con el diagnóstico final y los resultados del paciente."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Si tras intubar correctamente a un paciente en parada cardiorrespiratoria no se consigue una correcta ventilación habrá que descartar las siguientes circunstancias EXCEPTO:",
+  "opciones": {
+   "A": "Taponamiento cardiaco.",
+   "B": "Desplazamiento del tubo orotraqueal.",
+   "C": "Obstrucción del tubo orotraqueal.",
+   "D": "Fallo del equipo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+  },
+  "explicacion": {
+   "correcta": "El taponamiento cardiaco es una causa reversible de parada cardiorrespiratoria (una de las 4H y 4T del SVA), pero NO interfiere con la ventilación mecánica. El taponamiento afecta al gasto cardíaco por compresión del corazón, no a la mecánica respiratoria ni al flujo de aire a través del tubo. Por tanto, si existe dificultad para ventilar tras una intubación correcta, el taponamiento cardiaco no debe buscarse como causa de ese problema ventilatorio.",
+   "incorrectas": {
+    "B": "El desplazamiento del tubo orotraqueal (intubación esofágica o bronquial selectiva) es una causa frecuente e importante de ventilación inadecuada tras la intubación y debe descartarse sistemáticamente mediante capnografía, auscultación y visualización directa. Es la primera causa a descartar.",
+    "C": "La obstrucción del tubo orotraqueal por secreciones, sangre, cuerpo extraño o acodamiento puede impedir completamente la ventilación. Se debe valorar la permeabilidad del tubo pasando una sonda de aspiración, y si hay duda, retirar el tubo y reintubar.",
+    "D": "El fallo del equipo (balón de ventilación roto, conexiones desconectadas, fallo del respirador) es una causa evitable y siempre debe comprobarse. Ante ventilación inadecuada hay que revisar sistemáticamente todo el circuito desde el equipo hasta el tubo traqueal."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA con respecto al control de la vía aérea en el paciente politraumatizado inconsciente?",
+  "opciones": {
+   "A": "El barrido digital de la boca se desaconseja para extraer cuerpos extraños no visulizados.",
+   "B": "La primera medida será colocar una cánula de Guedel.",
+   "C": "El método de aislamiento preferido de la vía aérea es la intubación orotraqueal.",
+   "D": "Cualquier maniobra debe realizarse bajo control cervical."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 43,
+   "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la B: la primera medida en el politraumatizado inconsciente NO es colocar una cánula de Guedel, sino abrir la vía aérea mediante la maniobra de tracción mandibular (sin hiperextensión cervical) y aspirar secreciones u objetos visibles. La cánula de Guedel es un paso posterior que ayuda a mantener la vía aérea abierta, pero no es la primera intervención. Además, si el paciente está inconsciente con riesgo de lesión cervical, la maniobra de tracción mandibular es prioritaria.",
+   "incorrectas": {
+    "A": "El barrido digital ciego está desaconsejado porque puede empujar el cuerpo extraño más profundamente o lesionar la mucosa. Solo se debe extraer lo que sea directamente visible. Esta afirmación es correcta según los protocolos actuales.",
+    "C": "La intubación orotraqueal es efectivamente el método de elección para el aislamiento definitivo de la vía aérea en el politraumatizado grave, por encima de la mascarilla laríngea u otros dispositivos supraglóticos. Esta afirmación es correcta.",
+    "D": "Cualquier maniobra sobre la vía aérea en el politraumatizado debe realizarse con control cervical manual en línea (inmovilización bimanual) para evitar agravar una posible lesión de columna cervical. Esta afirmación es correcta y fundamental en el manejo del trauma."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta INCORRECTA con respecto al manejo del volumen del paciente politraumatizado:",
+  "opciones": {
+   "A": "La hipervolemia puede aumentar el sangrado.",
+   "B": "La hipervolemia puede aumentar la coagulopatía.",
+   "C": "Las estrategias de hipovolemia permisiva son de aplicación en la mayoría de pacientes.",
+   "D": "En pacientes con hemorragia masiva se debe administrar ácido tranexámico además de la restauración de la volemia."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 42,
+   "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La afirmación incorrecta es la C. La hipotensión permisiva (o hiporesucitación permisiva) NO es aplicable a la mayoría de los pacientes politraumatizados: está contraindicada en pacientes con traumatismo craneoencefálico (necesitan presión de perfusión cerebral adecuada), en ancianos y en pacientes con hipertensión arterial crónica. Se aplica de forma selectiva en hemorragias no controladas hasta que se logra el control quirúrgico, y siempre de forma temporal y controlada.",
+   "incorrectas": {
+    "A": "La hipervolemia SÍ puede aumentar el sangrado al elevar la presión hidrostática en los vasos y desestabilizar los coágulos en formación. Esta es una de las razones por las que se ha abandonado la resucitación agresiva con cristaloides a gran volumen en el trauma hemorrágico. Esta afirmación es correcta.",
+    "B": "La hipervolemia con grandes volúmenes de cristaloides SÍ puede provocar coagulopatía dilucional, acidosis metabólica e hipotermia (la llamada 'tríada letal'). La coagulopatía traumática se agrava con la resucitación masiva con sueros. Esta afirmación es correcta.",
+    "D": "El ácido tranexámico está indicado en la hemorragia masiva traumática dentro de las primeras 3 horas del traumatismo (estudio CRASH-2), ya que reduce la mortalidad al inhibir la fibrinólisis. Su administración es complementaria a la restauración de la volemia. Esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Entre los objetivos prioritarios del tratamiento en pacientes con shock hemorrágico NO se encuentra:",
+  "opciones": {
+   "A": "El control de la hemorragia.",
+   "B": "La restauración de la volemia.",
+   "C": "La obtención de una adecuada perfusión tisular.",
+   "D": "La recuperación de las cifras de hemoglobina."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 42,
+   "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La recuperación de las cifras de hemoglobina NO es un objetivo prioritario en el tratamiento inmediato del shock hemorrágico. La fase inicial del tratamiento se centra en detener el sangrado, restaurar la volemia circulante y mantener la perfusión tisular; la corrección de la anemia se aborda de forma diferida. Buscar una hemoglobina normal puede conllevar transfusiones masivas innecesarias y sus complicaciones, cuando la prioridad es la hemostasia y la perfusión.",
+   "incorrectas": {
+    "A": "El control de la hemorragia es el objetivo más prioritario en el shock hemorrágico: sin detener el origen del sangrado, cualquier resucitación será insuficiente. Incluye medidas mecánicas, quirúrgicas o endovasculares según el origen. Este SÍ es un objetivo prioritario.",
+    "B": "La restauración de la volemia es fundamental para mantener el gasto cardíaco y la presión de perfusión tisular. Se realiza con fluidos y hemoderivados en proporción equilibrada. Este SÍ es un objetivo prioritario en el shock hemorrágico.",
+    "C": "Obtener una adecuada perfusión tisular es el objetivo final del tratamiento del shock: sin perfusión, los órganos desarrollan isquemia y fallo multiorgánico. Se monitoriza con lactato, diuresis y saturación venosa. Este SÍ es un objetivo prioritario."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cuál de las siguientes afirmaciones con respecto al shock es FALSA:",
+  "opciones": {
+   "A": "En sus fases iniciales puede no ser evidente su existencia.",
+   "B": "Los tejidos pasan a realizar un metabolismo anaerobio.",
+   "C": "La mortalidad llega a ser de un 50% en el shock establecido.",
+   "D": "Sus manifestaciones clínicas son muy específicas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 50,
+   "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la D: las manifestaciones clínicas del shock NO son específicas sino inespecíficas y variables. La taquicardia, hipotensión, palidez, frialdad, oliguria y alteración del nivel de consciencia son comunes a múltiples patologías y pueden estar ausentes en fases iniciales. Esta inespecificidad es precisamente lo que dificulta el diagnóstico precoz del shock y obliga a la monitorización de parámetros de perfusión.",
+   "incorrectas": {
+    "A": "En fases iniciales del shock compensado, los mecanismos de respuesta adrenérgica (taquicardia, vasoconstricción) pueden mantener la tensión arterial y enmascarar el cuadro. Esta afirmación es verdadera y reconocida en todos los protocolos de atención al shock.",
+    "B": "La hipoperfusión tisular en el shock lleva a que las células pasen del metabolismo aerobio (mitocondrial, más eficiente) al metabolismo anaerobio, con producción de lactato como subproducto. El lactato elevado es un marcador bioquímico de shock tisular. Esta afirmación es verdadera.",
+    "C": "El shock establecido y refractario tiene una mortalidad elevada que puede alcanzar el 50% o más dependiendo del tipo y la causa. El shock séptico, por ejemplo, tiene mortalidades que oscilan entre el 20 y el 50%. Esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de los siguientes parámetros NO es sugestivo de una situación de shock?",
+  "opciones": {
+   "A": "pCO2 >32 mmHg.",
+   "B": "Exceso de bases < -5 mmEq/L.",
+   "C": "Lactato > 4 mmol/L.",
+   "D": "Descenso de la tensión arterial sistólica >40 mmHg con respecto a sus valores basales."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 50,
+   "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Una pCO2 superior a 32 mmHg es un valor NORMAL o incluso elevado, y NO sugiere shock. En el shock, la hiperventilación compensatoria suele producir alcalosis respiratoria con pCO2 baja (inferior a 32-35 mmHg). Una pCO2 alta en contexto de shock indicaría hipoventilación sobreañadida o fracaso respiratorio, pero el valor aislado de pCO2 >32 mmHg no es criterio de shock.",
+   "incorrectas": {
+    "B": "Un exceso de bases (BE) menor de -5 mEq/L indica acidosis metabólica y es un marcador de hipoperfusión tisular y shock establecido. Este parámetro SÍ es sugestivo de shock y se utiliza para cuantificar la gravedad del mismo.",
+    "C": "Un lactato mayor de 4 mmol/L es criterio de hiperlactatemia grave y shock tisular, incluso en ausencia de hipotensión (shock críptico). El lactato elevado guía la resucitación y es un marcador pronóstico importante. Este SÍ es sugestivo de shock.",
+    "D": "Un descenso de la tensión arterial sistólica mayor de 40 mmHg respecto al valor basal del paciente es un criterio clásico de hipotensión relativa y shock, especialmente en pacientes hipertensos de base. Este parámetro SÍ es sugestivo de shock."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En el protocolo RUSH (Rapid Ultrasound in Shock) se valora lo siguiente, EXCEPTO:",
+  "opciones": {
+   "A": "La contractilidad cardiaca.",
+   "B": "La colapsabilidad de la vena cava inferior.",
+   "C": "La aorta y el sistema venoso profundo de las extremidades inferiores.",
+   "D": "La distensión de las venas suprahepáticas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "La distensión de las venas suprahepáticas NO forma parte del protocolo RUSH. El protocolo RUSH evalúa la bomba cardiaca (contractilidad, taponamiento, función ventricular), el depósito vascular (vena cava inferior y colapsabilidad, aorta abdominal) y los pulmones (neumotórax, derrame pleural), así como el sistema venoso profundo de extremidades inferiores para descartar TVP. Las venas suprahepáticas no son una ventana evaluada en el protocolo estándar.",
+   "incorrectas": {
+    "A": "La evaluación de la contractilidad cardiaca (función sistólica del ventrículo izquierdo) es una parte fundamental del protocolo RUSH ('la bomba'). Permite distinguir entre shock cardiogénico con disfunción sistólica y otras causas. Sí forma parte del protocolo.",
+    "B": "La colapsabilidad de la vena cava inferior (VCI) es otro componente clave del RUSH, ya que permite estimar la precarga y la volemia: una VCI colapsable sugiere hipovolemia y una VCI dilatada y sin colapso sugiere sobrecarga o fallo cardiaco derecho. Sí forma parte del protocolo.",
+    "C": "La exploración de la aorta abdominal (para descartar aneurisma) y la compresión del sistema venoso profundo de las extremidades inferiores (para descartar trombosis venosa profunda) están incluidas en el protocolo RUSH como causas de shock. Sí forman parte del protocolo."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿En cuál de las siguientes situaciones sería aconsejable una estrategia de control del ritmo en un paciente con fibrilación auricular (FA)?",
+  "opciones": {
+   "A": "En caso de fibrilación auricular persistente de larga duración.",
+   "B": "En pacientes con una aurícula izquierda >55 mm.",
+   "C": "En pacientes con estenosis mitral.",
+   "D": "En pacientes muy sintomáticos con FA a pesar de buen control de la frecuencia cardiaca."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."
+  },
+  "explicacion": {
+   "correcta": "Los pacientes muy sintomáticos con FA a pesar de un buen control de la frecuencia cardiaca son los candidatos ideales para una estrategia de control del ritmo (cardioversión eléctrica o farmacológica, ablación). Si el paciente sigue con síntomas incapacitantes a pesar de tener una frecuencia controlada, la única forma de mejorar su calidad de vida es restablecer el ritmo sinusal. Esta es la indicación más clara de control del ritmo según las guías europeas de FA.",
+   "incorrectas": {
+    "A": "La FA persistente de larga duración (más de 12 meses) tiene una probabilidad muy baja de mantener el ritmo sinusal tras cardioversión. Las guías desaconsejan el control del ritmo en estos pacientes porque la recurrencia es casi universal y los riesgos del procedimiento no compensan el beneficio.",
+    "B": "Una aurícula izquierda mayor de 55 mm se asocia con tasas muy bajas de mantenimiento del ritmo sinusal tras cardioversión. El remodelado auricular avanzado hace que el ritmo sinusal sea muy difícil de sostener, por lo que se prefiere la estrategia de control de frecuencia.",
+    "C": "La estenosis mitral moderada-severa es una contraindicación relativa para el control del ritmo porque el defecto mecánico valvular subyacente favorece la recurrencia de la FA y puede comprometer hemodinámicamente la cardioversión. La solución definitiva es tratar la valvulopatía."
+   }
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la afirmación FALSA con respecto a la prevención tromboembólica en la fibrilación auricular:",
+  "opciones": {
+   "A": "Los pacientes con episodios ocasionales tienen el mismo riesgo embolígeno que aquellos con FA permanente.",
+   "B": "El ácido acetilsalicílico no tiene indicación actualmente.",
+   "C": "Su empleo está indicado en pacientes con CHA2DS2-VASc > 2 puntos.",
+   "D": "En pacientes con una puntación de 1 en la escala CHA2DS2-VASc no está indicada."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la D. Según las guías europeas actuales (ESC 2020), en pacientes con CHA2DS2-VASc de 1 punto (en hombres) o 2 puntos (en mujeres, donde el sexo femenino suma 1 punto), se DEBE CONSIDERAR la anticoagulación, no está automáticamente contraindicada. La decisión se individualiza valorando riesgo hemorrágico, pero no está uniformemente contraindicada. La D afirma categóricamente que 'no está indicada', lo cual no es correcto.",
+   "incorrectas": {
+    "A": "Los pacientes con episodios paroxísticos de FA tienen el mismo riesgo tromboembólico que aquellos con FA permanente. El riesgo de ictus depende de los factores de riesgo subyacentes (CHA2DS2-VASc), no del patrón de FA. Esta afirmación es verdadera.",
+    "B": "El ácido acetilsalicílico ya no tiene indicación para la prevención tromboembólica en la FA según las guías actuales. Los anticoagulantes orales (especialmente los ACOD) son más eficaces y con perfil de seguridad superior. El AAS fue desplazado de las guías hace años. Esta afirmación es verdadera.",
+    "C": "La anticoagulación oral está indicada cuando el CHA2DS2-VASc es ≥2 puntos en hombres (≥3 en mujeres). La afirmación dice '>2 puntos', que también incluye estos casos. Aunque podría discutirse el umbral exacto, la afirmación es sustancialmente correcta y no es la falsa."
+   }
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cuál de las siguientes afirmaciones sobre la atención a pacientes con sospecha de síndrome coronario agudo es FALSA:",
+  "opciones": {
+   "A": "La elevación del segmento ST mantenida es sugestiva de oclusión de una arteria endocárdica.",
+   "B": "En el síndrome coronario agudo sin elevación del segmento ST el ECG inicial puede ser normal en muchos casos.",
+   "C": "En pacientes con dolor torácico atípico, con ECG y troponinas seriados normales, en los que la probabilidad de cardiopatía isquémica es menor del 15% no estaría indicada la realización de un test de detección de isquemia.",
+   "D": "Actualmente en los pacientes con SCACEST el tratamiento fibrinolítico quedaría restringido a aquellos casos en los que no se pueda realizar una angioplastia en un tiempo razonable."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la A. La elevación del segmento ST mantenida es sugestiva de oclusión de una arteria EPICÁRDICA (coronaria epicárdica), no endocárdica. La isquemia subendocárdica produce depresión del ST o cambios en la onda T, mientras que la elevación del ST persistente indica oclusión transmural por afectación de una arteria epicárdica mayor. Esta confusión entre epicárdico y endocárdico es el error de la afirmación.",
+   "incorrectas": {
+    "B": "Es correcto que el ECG inicial puede ser normal en una proporción significativa de pacientes con SCASEST (hasta un 30-40%). Por ello, en la evaluación del dolor torácico se realizan ECGs seriados y determinaciones de troponina para no perder diagnósticos. Esta afirmación es verdadera.",
+    "C": "En pacientes de muy baja probabilidad (menos del 15%) con ECG y troponinas seriadas normales, las guías actuales permiten dar el alta sin realizar test de estrés de forma rutinaria, dado el muy bajo rendimiento diagnóstico en este perfil. Esta afirmación es correcta según la estrategia acelerada de evaluación del dolor torácico.",
+    "D": "La fibrinólisis en el SCACEST está actualmente reservada a los casos en que la angioplastia primaria no puede realizarse en menos de 120 minutos desde el primer contacto médico. La ICP primaria es el tratamiento de reperfusión de elección. Esta afirmación es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre el diagnóstico de la insuficiencia cardiaca es FALSA?",
+  "opciones": {
+   "A": "La determinación de péptidos natriuréticos es útil por su elevado valor predictivo positivo.",
+   "B": "El ECG es casi siempre patológico.",
+   "C": "El diagnóstico de insuficiencia cardiaca es fundamentalmente clínico.",
+   "D": "La ecocardiografía es una prueba muy útil pero su realización no debe diferir el inicio del tratamiento."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la A. Los péptidos natriuréticos (BNP y NT-proBNP) son útiles en la IC por su elevado valor predictivo NEGATIVO (valores normales descartan IC con alta fiabilidad), no por su valor predictivo positivo. Valores elevados pueden aparecer en múltiples situaciones (fibrilación auricular, insuficiencia renal, sepsis, TEP) que reducen su especificidad y, por tanto, su valor predictivo positivo es moderado.",
+   "incorrectas": {
+    "B": "El ECG es efectivamente casi siempre patológico en pacientes con insuficiencia cardiaca: pueden aparecer hipertrofia ventricular, bloqueos de rama, arritmias, signos de isquemia, etc. Un ECG completamente normal hace que el diagnóstico de IC sea poco probable. Esta afirmación es verdadera.",
+    "C": "El diagnóstico de IC es fundamentalmente clínico, basado en síntomas (disnea, ortopnea, edemas) y signos (crepitantes, tercer ruido, ingurgitación yugular). Las pruebas complementarias lo confirman y cuantifican. Esta afirmación es verdadera.",
+    "D": "La ecocardiografía es fundamental para caracterizar el tipo de IC y la función sistólica/diastólica, pero su realización no debe retrasar el inicio del tratamiento urgente cuando el diagnóstico clínico es claro. Esta afirmación es verdadera y refleja la práctica clínica correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la respuesta CORRECTA con respecto al shock cardiogénico?",
+  "opciones": {
+   "A": "En estos pacientes el empleo de diuréticos no disminuye la tensión arterial.",
+   "B": "Los fármacos inotrópicos de elección son adrenalina y levosimendan.",
+   "C": "El empleo de vasopresores está contraindicado porque aumentan la demanda miocárdica de oxígeno.",
+   "D": "Las dosis altas de dobutamina deben evitarse por la posibilidad de aparición de arritmias cardiacas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "En el shock cardiogénico, el gasto cardíaco está muy reducido y el volumen intravascular puede ser normal o incluso elevado. Los diuréticos reducen la precarga excesiva sin disminuir necesariamente la tensión arterial (que ya está baja por bajo gasto, no por hipervolemia relativa). Además, en el shock cardiogénico con congestión, los diuréticos alivian la congestión pulmonar y mejoran el intercambio gaseoso sin agravar la hipotensión de forma relevante cuando se usan correctamente.",
+   "incorrectas": {
+    "B": "En el shock cardiogénico, el inotrópico de primera elección es la dobutamina (beta-1 agonista con efecto vasodilatador leve). La adrenalina se usa en shock refractario; el levosimendan puede considerarse en situaciones específicas pero no es de elección estándar. La afirmación de que adrenalina y levosimendan son los de elección es incorrecta.",
+    "C": "Los vasopresores (noradrenalina principalmente) NO están contraindicados en el shock cardiogénico. De hecho, son necesarios para mantener la presión de perfusión coronaria y sistémica cuando la tensión arterial es muy baja. Sin presión de perfusión adecuada, el propio miocardio isquémico no puede recuperarse. Esta afirmación es falsa.",
+    "D": "Si bien las dosis altas de dobutamina pueden inducir taquiarritmias, la afirmación tal como está planteada no es la más correcta en el contexto de la pregunta: la dobutamina es precisamente el inotrópico de elección en el shock cardiogénico y su uso es estándar, con vigilancia del ritmo. La opción A es más correcta que la D."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Con respecto al tratamiento del edema agudo de pulmón con tensión arterial baja es FALSO que:",
+  "opciones": {
+   "A": "El tratamiento diurético se comienza con diuréticos de asa por vía endovenosa.",
+   "B": "En casos de mala evolución se puede emplear dobutamina.",
+   "C": "La nitroglicerina solo se puede emplear si la tensión arterial sistólica es superior a 110 mmHg.",
+   "D": "No se deben exceder los 100 mg de furosemida en las primeras 6 horas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardíaca aguda. Edema agudo de pulmón. Actitud ante la insuficiencia cardiaca crónica descompensada."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la C. Cuando la tensión arterial sistólica es baja (por ejemplo, entre 90-110 mmHg), la nitroglicerina puede usarse con precaución a dosis bajas si es necesaria, pero el umbral de 110 mmHg como límite para iniciarla no es absoluto en todos los protocolos. Más importante aún: la pregunta pregunta sobre EAP con TA BAJA, y en ese contexto la nitroglicerina estaría en general contraindicada o se usaría con extrema precaución, pero decir que 'solo se puede emplear si TAS >110 mmHg' simplifica y puede ser incorrecto dependiendo del contexto clínico. La afirmación más falsa es que existe ese umbral fijo de 110 mmHg para todos los casos.",
+   "incorrectas": {
+    "A": "Los diuréticos de asa (furosemida) por vía endovenosa son el pilar del tratamiento del EAP, con efecto venodilatador precoz (antes del efecto diurético) y reducción de la precarga. Esta afirmación es correcta.",
+    "B": "La dobutamina está indicada en el EAP con bajo gasto cardíaco y mala respuesta al tratamiento inicial. Su efecto inotrópico puede mejorar el gasto cardíaco y aliviar la congestión. Esta afirmación es correcta.",
+    "D": "Las guías establecen que la dosis acumulada de furosemida no debe superar los 100 mg en las primeras 6 horas para evitar la toxicidad y los efectos adversos de la diuresis excesiva aguda. Esta recomendación es correcta según los protocolos estándar de EAP."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la herramienta diagnóstica con mayor rentabilidad en el diagnóstico del síncope?",
+  "opciones": {
+   "A": "El electrocardiograma.",
+   "B": "La ecocardiografía.",
+   "C": "El Holter.",
+   "D": "La historia clínica."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La historia clínica detallada (anamnesis exhaustiva del episodio: circunstancias previas, postura, pródromos, recuperación, testigos) es la herramienta con mayor rentabilidad diagnóstica en el síncope. Las guías europeas de síncope establecen que la anamnesis orientada puede llegar a diagnosticar la causa en hasta el 50-60% de los casos sin necesidad de otras pruebas. Ninguna prueba complementaria tiene una rentabilidad diagnóstica tan alta de forma aislada en el síncope.",
+   "incorrectas": {
+    "A": "El ECG tiene una rentabilidad diagnóstica de solo el 5-10% en el síncope, pero es obligatorio realizarlo por su capacidad para identificar causas arrítmicas potencialmente letales (QT largo, Brugada, bloqueos AV). Su valor aislado es limitado comparado con la historia clínica.",
+    "B": "La ecocardiografía es útil cuando se sospecha cardiopatía estructural como causa del síncope, pero su rendimiento diagnóstico global en todos los pacientes con síncope es bajo. Solo está indicada en pacientes seleccionados con hallazgos sugestivos en la historia o el ECG.",
+    "C": "El Holter tiene una rentabilidad diagnóstica muy baja en el síncope (menos del 2-3%) porque la probabilidad de que ocurra un evento durante las 24-48 horas de monitorización es muy reducida. Los registradores de eventos implantables ofrecen mayor rentabilidad pero en un contexto diferente al de la evaluación inicial."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de los siguientes parámetros NO forma parte de la regla del síncope de San Francisco?",
+  "opciones": {
+   "A": "Antecedentes de insuficiencia cardiaca.",
+   "B": "Hematocrito menor del 30%.",
+   "C": "Disnea.",
+   "D": "Presión arterial sistólica menor de 70 mm Hg."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Una presión arterial sistólica menor de 70 mmHg NO forma parte de la Regla del Síncope de San Francisco. El criterio de la regla relativo a la tensión arterial es una TAS menor de 90 mmHg (no 70 mmHg). La Regla de San Francisco (acrónimo CHESS) incluye: antecedentes de Insuficiencia Cardiaca congestiva, Hematocrito <30%, ECG anormal o cambios en el ECG, Disnea y Tensión Arterial Sistólica <90 mmHg al ingreso.",
+   "incorrectas": {
+    "A": "Los antecedentes de insuficiencia cardiaca congestiva SÍ forman parte de la Regla de San Francisco (la 'C' del acrónimo CHESS). Su presencia se asocia a mayor riesgo de evento adverso a corto plazo en pacientes con síncope.",
+    "B": "El hematocrito menor del 30% SÍ forma parte de la Regla de San Francisco (la 'H' del acrónimo CHESS). La anemia significativa puede contribuir al síncope y se asocia a peor pronóstico a corto plazo.",
+    "C": "La disnea SÍ forma parte de la Regla de San Francisco (la primera 'S' del acrónimo CHESS). La presencia de disnea en el contexto del síncope sugiere patología cardiopulmonar subyacente grave."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones con respecto al síncope es FALSA?",
+  "opciones": {
+   "A": "Tras un estudio exhaustivo la proproción de pacientes sin diagnóstico etiológico es alta.",
+   "B": "Es un problema frecuente. Hasta un 40% de la población sufrirá un síncope a lo largo de su vida.",
+   "C": "El síncope cardiogéncio tiene una mortalidad alta.",
+   "D": "La caída de la tensión arterial sistólica >20 mm Hg o de la Tad>10 mm Hg con la bipedestación, es por sí misma, diagnóstica de síncope ortostático."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la D. La hipotensión ortostática (caída de TAS >20 mmHg o TAD >10 mmHg al pasar a bipedestación) es condición necesaria pero NO suficiente para diagnosticar síncope ortostático. Para que el diagnóstico sea de síncope ortostático, la hipotensión debe acompañarse de síntomas (presíncope o síncope) durante la bipedestación. Una hipotensión ortostática asintomática no es diagnóstica de síncope ortostático.",
+   "incorrectas": {
+    "A": "Es correcto que, incluso tras estudio exhaustivo, una proporción significativa de pacientes (entre el 25 y 40% según las series) queda sin diagnóstico etiológico definitivo. El síncope de causa desconocida ('síncope inexplicado') es un diagnóstico frecuente en las unidades de síncope. Esta afirmación es verdadera.",
+    "B": "El síncope es un problema muy frecuente en la población general: se estima que hasta el 30-40% de las personas sufrirán al menos un episodio sincopal a lo largo de su vida. Es una de las causas más frecuentes de consulta en urgencias. Esta afirmación es verdadera.",
+    "C": "El síncope de origen cardiogénico (arrítmico o estructural) tiene una mortalidad significativamente mayor que el síncope de otros orígenes. La mortalidad al año puede superar el 30% en pacientes con cardiopatía estructural severa como causa del síncope. Esta afirmación es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Con respecto a la embolia de pulmón es FALSO que:",
+  "opciones": {
+   "A": "En pacientes con una escala PESI (Pulmonary Embolism Severity Index) de riesgo intermedio-alto la determinación de troponina no aporta información pronóstica.",
+   "B": "La radiografía de tórax no suele ser diagnóstica.",
+   "C": "La disnea puede ser de aparición brusca o bien aparecer a lo largo de días.",
+   "D": "La auscultación pulmonar puede ser normal, pero también se pueden escuchar sibilancias, crepitantes o semiología de derrame pleural."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 56,
+   "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la A. En pacientes con TEP de riesgo intermedio-alto (según escala PESI o sPESI), la determinación de troponina SÍ aporta información pronóstica importante. La troponina elevada indica daño miocárdico por sobrecarga del ventrículo derecho y se asocia a mayor mortalidad y a la necesidad de considerar tratamiento de reperfusión (fibrinólisis o embolectomía). Las guías ESC estratifican el riesgo del TEP combinando PESI con troponina y ecocardiografía/eco-RV.",
+   "incorrectas": {
+    "B": "La radiografía de tórax en el TEP es habitualmente inespecífica o incluso normal. Los signos clásicos (joroba de Hampton, signo de Westermark) son poco frecuentes y la radiografía por sí sola no es diagnóstica. Esta afirmación es verdadera.",
+    "C": "La disnea en el TEP puede instaurarse de forma brusca (en embolias masivas) o de forma progresiva a lo largo de horas o días (en embolias submasivas o de ramas periféricas). Esta variabilidad en la presentación es real y reconocida. Esta afirmación es verdadera.",
+    "D": "La auscultación pulmonar en el TEP puede ser completamente normal, pero también pueden aparecer sibilancias (por broncoespasmo reflejo), crepitantes (por atelectasia o infarto pulmonar) o signos de derrame pleural en caso de infarto pulmonar hemorrágico. Esta afirmación es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cuál de las siguientes afirmaciones sobre la disnea por obstrucción de la vía aérea superior es FALSA:",
+  "opciones": {
+   "A": "Se acompaña de estridor.",
+   "B": "Se acompaña generalmente de gran trabajo respiratorio.",
+   "C": "Hay anomalías en la fonación.",
+   "D": "La presentación suele ser subaguda."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 53,
+   "tema": "Disnea aguda. Diagnóstico diferencial. Insuficiencia respiratoria aguda."
+  },
+  "explicacion": {
+   "correcta": "La afirmación FALSA es la D. La obstrucción de la vía aérea superior suele presentarse de forma AGUDA y progresiva, no subaguda. Causas como cuerpo extraño, angioedema, epiglotitis o anafilaxia producen obstrucción rápida con deterioro clínico acelerado que constituye una emergencia vital. La presentación subaguda es excepcional y se reserva a casos de crecimiento tumoral o estenosis traqueales crónicas, que no son la presentación típica.",
+   "incorrectas": {
+    "A": "El estridor (ruido respiratorio de tono agudo, principalmente inspiratorio) es la seña de identidad de la obstrucción de la vía aérea superior. Su presencia indica obstrucción a nivel laríngeo o traqueal y es un signo de alarma que obliga a actuación inmediata. Esta afirmación es verdadera.",
+    "B": "La obstrucción de la vía aérea superior genera un gran trabajo respiratorio: uso de musculatura accesoria, tiraje supraclavicular e intercostal, y movimiento paradójico en casos graves. El paciente hace un esfuerzo enorme para mover el aire a través del segmento obstruido. Esta afirmación es verdadera.",
+    "C": "Las anomalías en la fonación (voz apagada, voz de papa caliente, afonía, disfonía) son características de la obstrucción a nivel laríngeo o supraglótico. Su presencia junto al estridor orienta a una obstrucción de vía aérea superior. Esta afirmación es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Indique cuál de los siguientes NO es un criterio de ingreso en UCI en la agudización de EPOC:",
+  "opciones": {
+   "A": "Hipercapnia grave o que empeora.",
+   "B": "Acidosis respiratoria con un pH de 7,30.",
+   "C": "Presencia de confusión.",
+   "D": "Frecuencia respiratoria de 35 respiraciones por minuto."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 54,
+   "tema": "Enfermedad pulmonar obstructiva crónica. Reagudización de la EPOC. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Una acidosis respiratoria con pH de 7,30 no es per se criterio de ingreso en UCI en la reagudización de EPOC: es el umbral para iniciar ventilación mecánica no invasiva (VMNI) en planta o unidad de cuidados respiratorios intermedios, no necesariamente en UCI. Los criterios de UCI incluyen pH <7,25-7,20 (acidosis grave), fracaso de la VMNI o necesidad de intubación. Un pH de 7,30 con buena respuesta a VMNI puede manejarse fuera de UCI.",
+   "incorrectas": {
+    "A": "La hipercapnia grave o progresiva (pCO2 muy elevada con acidosis) a pesar del tratamiento es un criterio de ingreso en UCI porque indica fracaso respiratorio avanzado con riesgo de parada respiratoria. Este SÍ es criterio de UCI.",
+    "C": "La presencia de confusión, agitación o disminución del nivel de consciencia en el contexto de reagudización de EPOC indica hipercapnia grave o hipoxemia severa y es criterio de ingreso en UCI para manejo avanzado de la vía aérea. Este SÍ es criterio de UCI.",
+    "D": "Una frecuencia respiratoria de 35 rpm indica trabajo respiratorio extremo y agotamiento muscular inminente, con alto riesgo de parada respiratoria. Es un criterio de gravedad que justifica el ingreso en UCI para intubación precoz o VMNI intensiva. Este SÍ es criterio de UCI."
+   }
+  }
+ }
+]

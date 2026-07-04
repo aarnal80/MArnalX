@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En relación a la mediastinitis, señale la respuesta ERRÓNEA:",
+  "opciones": {
+   "A": "La etiología es infecciosa en la mayoría de los casos.",
+   "B": "El cuadro clínico habitual cursa con dolor torácico y cervical, y puede asociar a disnea y malestar general.",
+   "C": "Es una infección que raramente evoluciona a shock séptico.",
+   "D": "La realización de una TAC de tórax será fundamental para su diagnóstico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "De las siguientes causas de dolor torácico agudo, ¿cuál de ellas suele cursar con frecuencia con inestabilidad hemodinámica?",
+  "opciones": {
+   "A": "Pericarditis seca.",
+   "B": "Perforación esofágica.",
+   "C": "Derrame pleural.",
+   "D": "Brote ulceroso."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "De las siguientes aseveraciones, indique la que NO se corresponde con un dolor torácico por consumo de cocaína:",
+  "opciones": {
+   "A": "Presenta midriasis e hipertensión.",
+   "B": "Tiene una duración que puede oscilar desde minutos a 2-3 horas.",
+   "C": "Suele acompañarse de taquicardia y taquipnea.",
+   "D": "Empeora con la toma de Nitroglicerina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Ante un paciente con neumotórax a tensión, indique qué hallazgo de los siguientes en la exploración NO es compatible con dicho proceso:",
+  "opciones": {
+   "A": "Desviación contralateral del mediastino.",
+   "B": "Disminución de la ventilación y de los movimientos respiratorios.",
+   "C": "Hiperresonancia con la percusión.",
+   "D": "La presión intrapleural es inferior a la atmosférica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En relación a la presencia de una atelectasia en una radiografía de tórax, indique la respuesta FALSA:",
+  "opciones": {
+   "A": "Aumento de densidad radiológica del área afectada.",
+   "B": "Aplanamiento y descenso diafragmático en las atelectasias de lóbulos basales.",
+   "C": "Desplazamiento de la cisura adyacente hacia la zona colapsada.",
+   "D": "Enfisema compensador del parénquima no afectado."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de las siguientes causas de derrame pleural NO es un exudado?",
+  "opciones": {
+   "A": "Amiloidosis.",
+   "B": "Artritis reumatoide.",
+   "C": "Glomerulonefritis.",
+   "D": "Cáncer de mama."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál de las siguientes causas de derrame pleural NO es un trasudado?",
+  "opciones": {
+   "A": "Síndrome nefrótico.",
+   "B": "Tromboembolia pulmonar.",
+   "C": "Síndrome de Meigs.",
+   "D": "Insuficiencia cardíaca."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Una puntuación de 100 en la escala de valoración pronóstica PSI para la Neumonía Adquirida en la Comunidad corresponde a la clase de riesgo:",
+  "opciones": {
+   "A": "II.",
+   "B": "III.",
+   "C": "IV.",
+   "D": "V."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El modo presión de soporte o BIPAP es un modo de ventilación mecánica no invasiva. Señale la FALSA:",
+  "opciones": {
+   "A": "Los disparos del respirador son independientes de la respiración espontánea del paciente.",
+   "B": "Es un nodo controlado por presión.",
+   "C": "El paso a espiración se relaciona con los cambios en el flujo inspiratorio.",
+   "D": "Es el modo ventilatorio más usado."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En relación a la clasificación International League Against Epilepsy de las crisis epilépticas, ¿cuál de las siguientes NO se engloba dentro de las crisis generalizadas?",
+  "opciones": {
+   "A": "Complejas con alteración de la conciencia.",
+   "B": "Ausencias.",
+   "C": "Mioclónicas.",
+   "D": "Tónico-clónicas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Ante un paciente que presenta una hipomagnesemia, debemos sospechar todas las situaciones siguientes EXCEPTO:",
+  "opciones": {
+   "A": "Intoxicación digitálica que no responde al tratamiento médico habitual.",
+   "B": "Uso prolongado de inhibidores de la bomba de protones.",
+   "C": "Paciente con Torsades de pointes.",
+   "D": "Hiperpotasemia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál es la alteración electrocardiográfica característica de la hipocalcemia?",
+  "opciones": {
+   "A": "Ondas T picudas y simétricas.",
+   "B": "Acortamiento del intervalo QT.",
+   "C": "Prolongación del intervalo QT.",
+   "D": "Aparición de ondas U. SAS_MÉDICO/A DE FAMILIA EN UNIDADES DE URGENCIA HOSPITALARIA 2023 / TURNO LIBRE / PRUEBA APLAZADA CUESTIONARIO PRÁCTICO CASO PRÁCTICO 1: Mujer de 36 años, asmática desde la juventud, que desde hace 2 días presenta tos, opresión torácica, disnea y autoescucha de sibilancias. Refiere que además de su tratamiento habitual, se ha visto obligado a usar SABA (beta-2 adrenérgicos de corta duración) de rescate. Consulta en el servicio de urgencias donde se le detectan los siguientes signos clínicos: afebril, consciente y alerta, tensión arterial de 105/56, frecuencia cardiaca de 116 lpm (latidos por minuto), frecuencia respiratoria de 23 rpm (respiraciones por minuto) con evidente uso de la musculatura respiratoria accesoria, presencia de sibilancias y saturación de oxígeno del 93%."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Señale la respuesta correcta:",
+  "opciones": {
+   "A": "Se trata de una crisis asmática vital.",
+   "B": "Se trata de una crisis asmática moderada.",
+   "C": "Se trata de una crisis asmática leve.",
+   "D": "Se trata de una crisis asmática grave."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Respecto a la paciente de la pregunta anterior, ¿qué actitud en su manejo en urgencias sería la adecuada?",
+  "opciones": {
+   "A": "Realizar una única medición del PEF (flujo espiratorio máximo) mediante medidor de PeaK-Flow antes de iniciar tratamiento, y calcular el porcentaje respecto al valor teórico según sexo, edad y altura, independientemente de los valores conocidos por la paciente durante la fase estable de la enfermedad.",
+   "B": "Realizar tres mediciones del PEF mediante medidor de PeaK-Flow (escoger la mejor) antes de iniciar tratamiento, y calcular el porcentaje respecto al valor teórico según sexo, edad y altura, salvo que la paciente conozca su valor personal durante la fase estable de la enfermedad.",
+   "C": "Realizar tres mediciones del PEF mediante medidor de Peak-Flow (escoger la mejor) antes de iniciar tratamiento, y calcular el porcentaje respecto al valor teórico según sexo, edad y altura, independientemente de los valores conocidos por la paciente durante la fase estable de su enfermedad.",
+   "D": "Realizar una única medición del PEF mediante medidor de PeaK-Flow antes de iniciar tratamiento, y calcular el porcentaje respecto al valor teórico según sexo, edad y altura, salvo que la paciente conozca su valor personal durante la fase estable de su enfermedad."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Indique qué tratamiento estaría indicado en nuestra paciente:",
+  "opciones": {
+   "A": "Salbutamol + Ipratropio pMDI (pressured metered dose inhaler): 4-8 inhalaciones cada 10-15 minutos durante la primera hora.",
+   "B": "Hidrocortisona 250 mg vía endovenosa.",
+   "C": "Prednisona 50 mg vía oral.",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "A las 2 horas de la administración del tratamiento correcto, la paciente presenta un PEF (flujo espiratorio máximo) > 60%, y los síntomas han desaparecido. Señale la respuesta correcta:",
+  "opciones": {
+   "A": "Ingresar en observación para vigilancia en las siguientes 24 h (horas) por el riesgo de broncoespasmo.",
+   "B": "Indicar el alta con Salbutamol a demanda.",
+   "C": "Indicar el alta con Prednisona 50 mg cada 24 h durante 5-7 días, glucocorticoide inhalado y LABA (fármacos anticolinérgicos inhalados de acción prolongada), un plan de acción y concretando una cita de control.",
+   "D": "Solicitar analítica con tres series y radiografía de tórax."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En el supuesto de que la paciente, tras la administración en urgencias el tratamiento correcto, presentara persistencia de los síntomas y un PEF 52 %, ¿cuál sería la actitud más adecuada?",
+  "opciones": {
+   "A": "Ingreso en una unidad de cuidados intensivos (UCI).",
+   "B": "Ingreso en observación y administrar nebulización intermitente con 2.5 mg de Salbutamol más 0,5 mg de Ipratropio cada 4-6 horas.",
+   "C": "Ingreso en observación y administrar Hidrocortisona 100-200 mg cada 6 horas.",
+   "D": "Las respuestas B) y C son correctas. CASO PRÁCTICO 2: Aviso al centro de emergencias sanitarias (CES) a las 00:30h por dolor torácico, en cortijo situado en la serranía de difícil acceso, en varón de 69 años fumador hasta hace 6 meses sin otros factores de riesgo cardiovascular. A las 22:50 horas, estando en reposo comienza con dolor centrotorácico opresivo acompañado de náuseas y vómitos de unos 30 min de duración. A nuestra llegada a las 00:50 horas se encuentra pálido y sudoroso, afectado por el dolor. Tensión arterial 173/107 mmHg, saturación de oxígeno < 90%. Resto de exploración normal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "De las siguientes aseveraciones diga cuál es la INCORRECTA en la primera asistencia al paciente:",
+  "opciones": {
+   "A": "Monitorización electrocardiográfica continua con desfibrilación precoz si precisa.",
+   "B": "Realización de ECG de 12 derivaciones lo antes posible.",
+   "C": "Oxigenoterapia precoz con gafas nasales a un flujo de 2 L/min.",
+   "D": "Extracción de gasometría arterial."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Realizamos el siguiente ECG. ¿Qué actitud debemos tomar en este caso?",
+  "opciones": {
+   "A": "Lo derivo directamente al centro hospitalario cercano (Hospital comarcal) para allí comenzar con tratamiento.",
+   "B": "Se trata de un SCACEST: Canalización de vía venosa periférica (vvp), doble antiagregación, tratamiento antianginoso, anticoagulación con Fondaparinux y traslado a hospital con posibilidad de ICP.",
+   "C": "Se trata de un SCACEST: vvp, doble antiagregación, tratamiento antianginoso, anticoagulación con Enoxaparina i.v. y realizo fibrinólisis i.v.",
+   "D": "Traslado al Hospital de referencia sin administrar pretratamiento antiagregante, y tomar allí la decisión de tratamiento de reperfusión."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál es el tratamiento médico inicial en este caso?",
+  "opciones": {
+   "A": "AAS 100 mg vía oral (vo) Enoxaparina 30 mg i.v., NTG i.v., Meperidina i.v.",
+   "B": "AAS 300 mg vo, Clopidogrel 300 mg vo, Enoxaparina 30 mg i.v., NTG i.v., Meperidina i.v.",
+   "C": "AAS 300 mg vo, Ticagrelor 180 mg vo, Enoxaparina 30 mg i.v., NTG i.v., Cloruro Mórfico i.v.",
+   "D": "AAS 300 mg vo, Prasugrel 60 mg vo, Enoxaparina 30 mg i.v., NTG, cloruro mórfico i.v."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Tras derivación a Hospital comarcal más cercano, y después de 60 minutos tras la fibrinólisis, el paciente continúa con dolor. Repetimos el ECG, que puede ver a continuación. ¿Qué hacemos ahora?",
+  "opciones": {
+   "A": "Tras la fibrinolisis no cumple criterios de reperfusión, por lo que organizo traslado urgente a hospital capacitado para ICP de rescate.",
+   "B": "El ECG muestra criterios de reperfusión, traslado a hospital para ICP sistemática tras fibrinolisis.",
+   "C": "Tras bolo de fibrinolisis no cumple criterios de reperfusión, por lo que repito dosis de fibrinolítico.",
+   "D": "Tras fibrinolisis el ECG no muestra cambios, por lo que hay que remitir a cirugía urgente de revascularización."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Se contacta con la sala de hemodinámica, y se traslada a hospital de referencia. Tras colocación de stent fármaco activo (SFA), indique la respuesta FALSA sobre el tratamiento antiplaquetario doble (TAPD) al alta:",
+  "opciones": {
+   "A": "Está recomendado el TAPD con AAS con un inhibidor de la P2Y12 durante los 12 meses siguientes a la ICP.",
+   "B": "Para los pacientes con riesgo alto de complicaciones hemorrágicas importantes, debe considerarse interrumpir el tratamiento inhibidor del P2Y12 a los 12 meses.",
+   "C": "Debe considerarse agregar un segundo antiagregante al AAS para la prevención secundaria a largo plazo en pacientes con alto riesgo isquémico y sin riesgo de complicaciones hemorrágicas.",
+   "D": "No se recomienda usar el Ticagrelor o el Prasugrel como parte del tratamiento antitrombótico triple con AAS y anticoagulación oral. CASO PRÁCTICO 3: Un paciente de 62 años hipertenso, diabético tipo II e hipercolesterolémico, es encontrado por su jefe a las 9:00 a.m. en la oficina desorientado con clínica compatible afasia global. Previamente era independiente para las actividades de la vida diaria y no presentaba ninguna limitación. El paciente vive solo y cenó con unos amigos la noche anterior. Suele salir de su casa a las 7:40 a.m. y llegar al trabajo a las 8:00 a.m. Nadie había hablado con él desde su llegada al trabajo."
+  },
+  "respuesta_correcta": "B"
+ }
+]

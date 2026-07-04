@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 177,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una mujer acude a urgencias tres días después de ser sometido a litotricia extracorpórea por ondas de choque sobre un cálculo de 2,1 cm de diámetro máximo situado en el riñón izquierdo. Presenta mal estado general, dolor en fosa renal izquierda, náuseas y fiebre de 39,2 ºC. Se realiza Rx simple en la que se aprecian varios cálculos, de pequeño tamaño, en el área del uréter distal izquierdo. El radiólogo nos informa de que en la ecografía observa la existencia de dilatación grado II pielocalicial izquierda. El siguiente paso debe ser:",
+  "opciones": {
+   "A": "Ureteroscopia de urgencia dada la existencia de uropatía obstructiva de causa litiásica.",
+   "B": "Ingreso con hidratación intravenosa, así como tratamiento antibiótico, dada la sospecha de infección urinaria.",
+   "C": "Derivación urinaria urgente (cateterismo ureteral o nefrostomía percutánea) dada la sospecha de uropatía obstructiva complicada.",
+   "D": "Nueva sesión de litotricia extracorpórea por ondas de choque, previo tratamiento sintomático del paciente con antiinflamatorios, tratamiento antibiótico e hidratación intravenosa."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La paciente presenta fiebre alta, mal estado general y uropatía obstructiva (dilatación pielocalicial grado II) tras litotricia, lo que configura una obstrucción urinaria complicada con infección (pionefrosis o pielonefritis obstructiva). En esta situación, la derivación urinaria urgente mediante cateterismo ureteral doble J o nefrostomía percutánea es la medida prioritaria, ya que el drenaje de la vía obstruida infectada es imprescindible para controlar la sepsis y preservar la función renal. El antibiótico sólo no es suficiente sin descomprimir la vía obstruida.",
+   "incorrectas": {
+    "A": "La ureteroscopia de urgencia no está indicada en presencia de infección activa con obstrucción, pues manipular el tracto urinario infectado puede agravar la sepsis; el drenaje con catéter o nefrostomía es más seguro en este contexto agudo.",
+    "B": "El ingreso con hidratación y antibiótico es necesario pero insuficiente: sin descomprimir la vía urinaria obstruida no se controla el foco infeccioso y el riesgo de shock séptico es muy elevado.",
+    "D": "Repetir la litotricia está absolutamente contraindicado en presencia de infección activa y obstrucción, ya que fragmentar más los cálculos en estas condiciones puede propagar la infección y empeorar la obstrucción."
+   }
+  }
+ },
+ {
+  "id_examen": 178,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes factores NO favorece el desarrollo de pielonefritis aguda?",
+  "opciones": {
+   "A": "Nefrolitiasis.",
+   "B": "Riñón de herradura.",
+   "C": "Quiste renal simple.",
+   "D": "Tumor de urotelio."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 77,
+   "tema": "Infección vías urinarias: cistitis, uretritis, prostatitis, pielonefritis."
+  },
+  "explicacion": {
+   "correcta": "El quiste renal simple es una lesión benigna y bien delimitada que no comunica con la vía urinaria ni genera estasis urinaria; por tanto, no constituye un factor predisponente para el desarrollo de pielonefritis aguda. No altera el flujo de orina ni crea condiciones favorables para la colonización bacteriana del parénquima renal.",
+   "incorrectas": {
+    "A": "La nefrolitiasis favorece la pielonefritis porque los cálculos causan obstrucción de la vía urinaria, estasis urinaria y microtraumatismos en el urotelio, facilitando la adhesión y ascenso bacteriano.",
+    "B": "El riñón de herradura es una anomalía congénita asociada a defectos en la unión ureteropélvica que genera estasis urinaria y mayor susceptibilidad a infecciones urinarias recurrentes incluyendo pielonefritis.",
+    "D": "Los tumores de urotelio pueden generar obstrucción parcial de la vía urinaria, favorecer el estasis y alterar los mecanismos defensivos locales, siendo un factor predisponente reconocido para la infección del tracto urinario superior."
+   }
+  }
+ },
+ {
+  "id_examen": 179,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la relación con la nefrolitiasis señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Las litiasis de ácido úrico responden bien a la alcalinización de la orina.",
+   "B": "La litotricia extracorpórea por ondas de choque es el método elegido para el tratamiento de la mayoría de los cálculos no expulsables, sobre todo, en los casos de pionefrosis.",
+   "C": "La nefrolitiasis es la causa más frecuente de obstrucción urinaria en el varón joven.",
+   "D": "La eliminación de dos cálculos menores de 5 mm es espontánea en el 80% de los casos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La litotricia extracorpórea por ondas de choque (LEOC) está CONTRAINDICADA en la pionefrosis, que es una urgencia urológica con infección activa severa. En estos casos, el tratamiento de elección es el drenaje urgente (nefrostomía percutánea o cateterismo ureteral) seguido de antibioterapia. Aplicar LEOC sobre un riñón con pionefrosis puede diseminar la infección y provocar sepsis grave.",
+   "incorrectas": {
+    "A": "Es cierto que los cálculos de ácido úrico son radiotransparentes y se disuelven con alcalinización urinaria (pH > 6,5) mediante citrato potásico o bicarbonato oral, siendo este tratamiento médico muy efectivo.",
+    "C": "Es verdad que en el varón joven la nefrolitiasis es la causa más frecuente de obstrucción del tracto urinario, a diferencia de en el varón de mayor edad donde predominan las causas prostáticas.",
+    "D": "Es cierto que los cálculos menores de 5 mm tienen una tasa de expulsión espontánea de aproximadamente el 80%, siendo el tratamiento conservador con analgesia y hidratación la conducta adecuada inicialmente."
+   }
+  }
+ },
+ {
+  "id_examen": 180,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 28 años de edad que acude a urgencias del hospital por presentar hematuria macroscópica. ¿Cuál de las siguientes alteraciones en el análisis de orina apoyaría el diagnóstico de glomerulonefritis?",
+  "opciones": {
+   "A": "Hematíes dismórficos y/o cilindros hemáticos.",
+   "B": "Proteinuria de 1 g/día, con resultado negativo en tira reactiva y con microalbuminuria mayor de 300 mg/24 horas.",
+   "C": "Coexistencia de hematuria con piuria sin bacteriuria.",
+   "D": "Coágulos en la orina a simple vista."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "Los hematíes dismórficos (acantocitos, esquistocitos) en el sedimento urinario son el signo más específico de hematuria de origen glomerular: al atravesar la membrana basal glomerular dañada, los hematíes sufren deformaciones osmóticas y mecánicas. Los cilindros hemáticos son patognomónicos de glomerulonefritis, ya que solo se forman dentro de los túbulos renales a partir de hematíes procedentes del glomérulo.",
+   "incorrectas": {
+    "B": "Una proteinuria de 1 g/día con tira negativa y microalbuminuria > 300 mg/24h es una combinación inconsistente metodológicamente; además, la microalbuminuria elevada con proteinuria moderada sin hematíes dismórficos no es específica de glomerulonefritis.",
+    "C": "La coexistencia de hematuria con piuria sin bacteriuria orienta hacia uretritis, tuberculosis renal o litiasis, pero no es característica de glomerulonefritis; en la glomerulonefritis no suele haber piuria significativa.",
+    "D": "Los coágulos en la orina indican sangrado activo del tracto urinario bajo o de vías urinarias superiores (urotelio), y son incompatibles con hematuria glomerular, ya que la orina que proviene del glomérulo no forma coágulos al pasar por el sistema tubular."
+   }
+  }
+ },
+ {
+  "id_examen": 181,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 79 años, exfumador, sin otros factores de riesgos cardiovasculares, presenta desde hace cuatro días edemas que empeoran a lo largo del día, localizados en cara, miembros inferiores y genitales y ahora acude por intolerancia digestiva y dolor en miembro inferior izquierdo donde presenta un eritema, caliente y doloroso en su pantorrilla. Buen estado general, edematoso, con edemas que dejan fóvea en miembros inferiores, Tª 37ºC, TA 145/90, FC 80, FR 22, SatO2 basal a 95%, tolera el decúbito, sin ingurgitación yugular, tonos cardiacos rítmicos, sin soplos, murmullo vesicular sin crepitantes ni sibilancias, abdomen no doloroso y sin ascitis, pulsos periféricos difíciles de explorar y se marca eritema de 10 cm x10 cm en área gemelar izquierda. En la tira de orina se aprecian 4 + para proteínas, cilindruria sin hematuria. El ECG está en ritmo sinusal a 80 rpv, sin alteraciones. La creatinina e iones séricos están en rango normal. En espera de completar el estudio, de entre las siguientes medidas del tratamiento precoz en Urgencias, ¿cuál es INCORRECTA?",
+  "opciones": {
+   "A": "Dieta con restricción hídrica a 1.000 ml/día, hiposódica inferior a 2-3 g/día, normoproteica e hipercalórica.",
+   "B": "Dieta con restricción hídrica a 1.000 ml/día, hiposódica inferior a 2-3 g/día, hipoproteica (30 g/día).",
+   "C": "Mantener la TA por debajo de 130/80 mmHg con inhibidores de la enzima convertidora de angiotensina (IECA) o con antagonistas de los receptores de la angiotensina II (ARAII)",
+   "D": "Furosemida 20 mg/6 h hasta un máximo de 250 mg/día."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. IRC grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El cuadro descrito (proteinuria masiva 4+, edemas generalizados, hipoalbuminemia implícita, sin hematuria ni insuficiencia renal) es compatible con síndrome nefrótico. En el síndrome nefrótico, la dieta debe ser NORMOPROTEICA (0,8-1 g/kg/día) o incluso con un aporte adecuado de proteínas de alto valor biológico, ya que la restricción proteica severa (30 g/día) agravaría la hipoproteinemia y la desnutrición proteica ya existente por las pérdidas urinarias masivas de proteínas.",
+   "incorrectas": {
+    "A": "La restricción hídrica a 1.000 ml/día junto con dieta hiposódica y normoproteica con adecuado aporte calórico es la pauta dietética correcta en el síndrome nefrótico para controlar los edemas sin agravar la desnutrición proteica.",
+    "C": "Los IECA o ARA-II están indicados en el síndrome nefrótico para reducir la proteinuria y controlar la hipertensión arterial, siendo su uso recomendado en guías clínicas cuando la función renal lo permite.",
+    "D": "El uso de furosemida en dosis escalonadas es apropiado para el manejo de los edemas en el síndrome nefrótico; se inicia con dosis bajas y se aumenta según respuesta, siendo 250 mg/día el límite máximo habitual."
+   }
+  }
+ },
+ {
+  "id_examen": 182,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El síndrome NEFRÍTICO agudo independientemente del proceso etiológico (infeccioso, metabólico, tóxico o secundario a enfermedades sistémicas) que desencadene la glomerulonefritis aguda de entre las siguientes medidas del tratamiento precoz en Urgencias, ¿cuál es INCORRECTA?",
+  "opciones": {
+   "A": "Reposo en cama en la fase aguda, dieta baja en proteínas, baja en sodio <2-3 g de sal al día.",
+   "B": "Ingesta hídrica 1500-2000 cc/día.",
+   "C": "Furosemida 20 mg/6 h hasta un máximo de 250 mg/día.",
+   "D": "Control de la hipertensión arterial con IECA si no se controla con furosemida y no hay insuficiencia renal."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. IRC grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En el síndrome nefrítico agudo existe retención de sodio y agua con oliguria, edemas e hipertensión. La ingesta hídrica debe ser RESTRINGIDA (aproximadamente 500-1000 ml/día más la diuresis), no libre de 1500-2000 cc/día, ya que una ingesta hídrica excesiva agravaría la sobrecarga de volumen, los edemas y la hipertensión arterial.",
+   "incorrectas": {
+    "A": "El reposo en cama en la fase aguda, la dieta hiposódica (<2-3 g de sal/día) y baja en proteínas son medidas correctas en el síndrome nefrítico para reducir la carga sobre los riñones inflamados y controlar la retención hidrosalina.",
+    "C": "La furosemida en dosis de 20 mg/6h hasta 250 mg/día es una medida correcta para tratar la sobrecarga de volumen y los edemas en el síndrome nefrítico agudo.",
+    "D": "El uso de IECA para el control de la hipertensión cuando no responde a diuréticos y la función renal lo permite es una indicación correcta en el síndrome nefrítico, ya que reducen la presión glomerular y la proteinuria."
+   }
+  }
+ },
+ {
+  "id_examen": 183,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la uropatía obstructiva, señale la FALSA:",
+  "opciones": {
+   "A": "Ante un globo vesical se sigue practicando el vaciado gradual de la vejiga, aunque no existen estudios que apoyen la realización de una descompresión gradual al vaciar la vejiga.",
+   "B": "La dificultad para la eliminación total o parcialmente de la orina en una mujer no es frecuente la presencia de tumor uterino, cervical u ovárico.",
+   "C": "La uropatía obstructiva es más común en los hombres, sobre todo después de los 60 años de edad, por la alta prevalencia de hiperplasia benigna y cáncer de próstata.",
+   "D": "En la uropatía obstructiva el dolor frecuentemente está ausente, incluso en la obstrucción aguda, excepto si hay distensión de la vejiga, infección, litiasis o masas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es FALSA porque en la mujer sí es frecuente que los tumores uterinos, cervicales y ováricos sean causa de obstrucción urinaria por compresión extrínseca de los uréteres o la uretra. La patología ginecológica pélvica maligna (carcinoma de cérvix, endometrio u ovario) es una causa bien reconocida de uropatía obstructiva en la mujer.",
+   "incorrectas": {
+    "A": "Es cierta: aunque históricamente se recomendaba el vaciado gradual de la vejiga (pinzando la sonda cada 300-500 ml) para evitar la hematuria ex vacuo, estudios actuales no demuestran beneficio claro de esta práctica, aunque sigue siendo habitual en muchos centros.",
+    "C": "Es cierta: la uropatía obstructiva es efectivamente más prevalente en hombres mayores de 60 años por la alta incidencia de hiperplasia benigna de próstata y carcinoma prostático en esa franja de edad.",
+    "D": "Es cierta: la uropatía obstructiva crónica o de instauración lenta puede ser completamente asintomática o provocar solo síntomas leves; el dolor intenso aparece especialmente en la obstrucción aguda con distensión, infección o litiasis."
+   }
+  }
+ },
+ {
+  "id_examen": 184,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 57 años, exfumador, con antecedentes de pancreatitis aguda alitiásica, gastritis crónica por AINES y disfunción eréctil en tratamiento con pantoprazol y sildenafilo. Consulta por dolor torácico opresivo a las 7:30 h a.m. mientras se encontraba en reposo. PA 148/82 mmHg, FC 85 lpm, SatO2 de 98% basal. AC: rítmico, sin soplos. AP: murmullo vesicular conservado. No edemas, pulsos presentes y simétricos. ECG: ritmo sinusal y elevación del segmento ST y onda Q en DII, DIII, aVF, con descenso de ST V2-V4, DI-aVL. ¿Cuál de los siguientes fármacos está CONTRAINDICADO en este paciente?",
+  "opciones": {
+   "A": "Morfina.",
+   "B": "Dinitrato de isosorbida.",
+   "C": "Atenolol.",
+   "D": "Meperidina."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto."
+  },
+  "explicacion": {
+   "correcta": "El paciente está en tratamiento con sildenafilo (inhibidor de la fosfodiesterasa tipo 5). Los nitratos como el dinitrato de isosorbida están ABSOLUTAMENTE CONTRAINDICADOS en las 24 horas previas al uso de sildenafilo (o 48 horas con tadalafilo), ya que la combinación produce vasodilatación sinérgica e hipotensión severa potencialmente mortal. El ECG muestra un IAMCEST inferior (elevación ST en DII, DIII, aVF) con imagen especular en cara lateral.",
+   "incorrectas": {
+    "A": "La morfina, aunque actualmente su uso rutinario en el SCACEST está debatido, no está contraindicada en este paciente; se puede emplear para el alivio del dolor si otros analgésicos son insuficientes.",
+    "C": "El atenolol (betabloqueante) está indicado en el síndrome coronario agudo para reducir la frecuencia cardiaca y el consumo miocárdico de oxígeno; no existe contraindicación en este paciente.",
+    "D": "La meperidina no está contraindicada en este contexto; aunque su uso en el SCA no es de primera línea, no hay interacción peligrosa con el sildenafilo ni contraindicación específica por los antecedentes del paciente."
+   }
+  }
+ },
+ {
+  "id_examen": 185,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el síndrome escrotal agudo, ¿qué afirmación de las siguientes es FALSA?",
+  "opciones": {
+   "A": "La torsión testicular es una emergencia médica que es indicación de tratamiento quirúrgico antes de las 4 a 6 horas del inicio del dolor.",
+   "B": "La torsión de apéndice testicular (hidátide de Morgagni) es una urgencia quirúrgica de la hidátide trombosada.",
+   "C": "El procedimiento quirúrgico en la torsión testicular en testículo viable es la orquidopexia bilateral y en testículo no viable es la orquiectomía ipsilateral con orquidopexia contralateral.",
+   "D": "La detorsión testicular manual en sentido lateral provoca alivio instantáneo del dolor."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es FALSA porque la torsión de la hidátide de Morgagni (apéndice testicular) NO es una urgencia quirúrgica en la mayoría de los casos. A diferencia de la torsión testicular, la torsión de hidátide se trata habitualmente de forma conservadora con reposo, antiinflamatorios y analgesia; el tratamiento quirúrgico se reserva únicamente para los casos que no responden al tratamiento médico o cuando no se puede descartar con seguridad la torsión testicular.",
+   "incorrectas": {
+    "A": "Es correcto: la torsión testicular es una emergencia urológica y la exploración quirúrgica debe realizarse idealmente antes de las 4-6 horas del inicio para maximizar las posibilidades de salvar el testículo (tasa de viabilidad superior al 90% si se interviene antes de las 6 horas).",
+    "C": "Es correcto: en la torsión testicular con testículo viable se realiza orquidopexia bilateral (para fijar ambos testículos y prevenir torsión contralateral); si el testículo no es viable, se procede a orquiectomía del lado afecto y orquidopexia del testículo sano.",
+    "D": "Es correcto: la detorsión manual del testículo en sentido lateral (de medial a lateral, como abriendo un libro) alivia el dolor de forma casi inmediata si tiene éxito, aunque siempre debe seguirse de exploración quirúrgica para confirmar la detorsión y realizar orquidopexia."
+   }
+  }
+ },
+ {
+  "id_examen": 186,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un varón de 16 años con dolor testicular izquierdo de inicio súbito en la madrugada, por vergüenza no avisa antes a sus padres, pero que inmediatamente lo traen al servicio de Urgencias después de 8 horas de inicio del dolor sin fiebre ni clínica miccional previa. Impresiona de dolor, nauseoso, camina despacio arrastrando la pierna izquierda. En bipedestación se observa el teste izquierdo ascendido y horizontalizado y epidídimo en posición anterior (signo de Gouverneur), el reflejo cremastérico está abolido y el signo de Prehn aumenta desproporcionadamente el dolor. La detorsión testicular izquierda en sentido lateral alivia el dolor, pero al incorporarse por una arcada se reproduce el dolor. ¿Cuál de las siguientes actuaciones es la más CORRECTA?",
+  "opciones": {
+   "A": "Avisar inmediatamente a Urología a pesar de llevar más de 6 horas de inicio del dolor.",
+   "B": "Solicitar una ecografía doppler porque existe duda diagnóstica.",
+   "C": "Administrar ceftriaxona 1 g i.m. en dosis única.",
+   "D": "Colocar suspensorio."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "El cuadro clínico es altamente sugestivo de torsión testicular: inicio súbito nocturno en adolescente, teste ascendido y horizontalizado, epidídimo en posición anterior (signo de Gouverneur), reflejo cremastérico abolido, signo de Prehn positivo (el dolor aumenta al elevar el testículo) y detorsión manual con alivio inicial. Aunque han transcurrido más de 6 horas, la exploración quirúrgica inmediata sigue siendo obligatoria ya que existe posibilidad real de salvar el testículo (hasta un 70% de viabilidad entre 6-12 horas) y debe confirmarse la detorsión con orquidopexia bilateral.",
+   "incorrectas": {
+    "B": "La ecografía Doppler puede ser útil cuando existe duda diagnóstica, pero en este caso la presentación clínica es prácticamente diagnóstica de torsión testicular; solicitar la ecografía no debe retrasar el aviso urgente a Urología y la exploración quirúrgica.",
+    "C": "La administración de ceftriaxona sería apropiada en la epididimitis aguda de origen infeccioso (más frecuente en adultos sexualmente activos), pero este paciente no tiene fiebre ni clínica miccional y la presentación es clásica de torsión, no de infección.",
+    "D": "Colocar un suspensorio está indicado en el tratamiento conservador de la epididimitis o la torsión de hidátide, pero nunca en la torsión testicular, donde puede retrasar la atención quirúrgica urgente."
+   }
+  }
+ },
+ {
+  "id_examen": 187,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el manejo de la hematuria en Urgencias, señale la FALSA:",
+  "opciones": {
+   "A": "En caso de hematuria leve o escasa con proteinuria, cilindruria en principio debe realizarse interconsulta a Nefrología, sobre todo, si hay edemas o hipertensión arterial.",
+   "B": "En la hematurias leves-moderadas, monosintomáticas, sin grandes coágulos y estables hemodinámicamente, se deberá evitar el sondaje vesical.",
+   "C": "En los casos en los que sea necesario realizar sondaje vesical durante 4-5 días no se recomienda el uso de antibioterapia profiláctica.",
+   "D": "En la hematuria abundante sin coágulos no se recomienda el lavado continuo vesical con suero fisiológico."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La afirmación D es FALSA porque en la hematuria abundante SÍ está indicado el lavado vesical continuo con suero fisiológico mediante sonda de triple vía, independientemente de si hay o no coágulos. El objetivo del lavado es diluir la sangre, evitar la formación de coágulos y la obstrucción vesical, y favorecer el vaciado de los coágulos ya formados. No realizarlo en una hematuria abundante supone un riesgo elevado de retención aguda por coágulos (taponamiento vesical).",
+   "incorrectas": {
+    "A": "Es cierto que la hematuria con proteinuria, cilindruria, edemas o hipertensión orienta hacia patología glomerular y debe derivarse a Nefrología para completar el estudio.",
+    "B": "Es cierto que en hematurias leves-moderadas, sin coágulos y con estabilidad hemodinámica, no está indicado el sondaje vesical de rutina, ya que puede traumatizar el urotelio y empeorar el sangrado.",
+    "C": "Es correcto que en sondajes cortos de 4-5 días no se recomienda antibioterapia profiláctica sistemática, según las guías de infección urinaria asociada a catéter, para evitar la selección de resistencias."
+   }
+  }
+ },
+ {
+  "id_examen": 188,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre la hematuria, ¿qué es FALSO?",
+  "opciones": {
+   "A": "En la uretrorragia la expulsión de la sangre coincide con la micción.",
+   "B": "La hematuria macroscopia de color marrón o coñac sufiere origen glomerular.",
+   "C": "Cuando la tira de orina mostrará sangre positiva pero no encontraremos hematíes en el sedimento sugiere hemólisis o rabdomiolisis.",
+   "D": "La causa más frecuente de hematuria en los varones de edad media (40-60 años) es el tumor vesical, seguido de litiasis e infecciones."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es FALSA porque en la uretrorragia la sangre se expulsa de forma INDEPENDIENTE a la micción, es decir, gotea por el meato uretral sin que el paciente esté orinando. A diferencia de la hematuria (sangre en la orina durante la micción), la uretrorragia es un sangrado activo del canal uretral que no requiere el acto miccional para manifestarse.",
+   "incorrectas": {
+    "B": "Es cierto: la hematuria de color marrón oscuro, tipo coñac o coca-cola, es característica de la hematuria glomerular, ya que la hemoglobina se oxida al pasar por el sistema tubular; contrasta con la hematuria roja brillante típica de origen urológico.",
+    "C": "Es correcto: una tira reactiva positiva para sangre sin hematíes en el sedimento indica presencia de hemoglobina libre (hemólisis intravascular) o mioglobina (rabdomiolisis), que dan positivo en la tira pero no son hematíes.",
+    "D": "Es correcto: en varones entre 40-60 años, el carcinoma vesical (de células transicionales) es la causa más frecuente de hematuria macroscópica, seguido por la litiasis renal/ureteral y las infecciones urinarias."
+   }
+  }
+ },
+ {
+  "id_examen": 189,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el síndrome del cascanueces todo es cierto, EXCEPTO:",
+  "opciones": {
+   "A": "En la variante anterior la compresión de la vena renal izquierda se produce entre la arteria aorta y la arteria mesentérica superior; y en la variante posterior la compresión de la vena renal izquierda se produce entre la arteria aorta y el cuerpo de la vértebra.",
+   "B": "Se manifiesta por hematuria macroscópica, sobre todo después de permanecer en bipedestación o tras el ejercicio.",
+   "C": "Entre sus manifestaciones no incluye la proteinuria ortostática.",
+   "D": "Entre sus manifestaciones incluye el varicocele izquierdo asintomático."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es FALSA (y por tanto la respuesta a la pregunta). El síndrome del cascanueces SÍ puede incluir proteinuria ortostática entre sus manifestaciones clínicas. La compresión de la vena renal izquierda genera hipertensión venosa en el riñón izquierdo, lo que puede alterar la permeabilidad glomerular y producir tanto hematuria como proteinuria, especialmente en posición ortostática y tras el ejercicio.",
+   "incorrectas": {
+    "A": "Es correcto: en la variante anterior (la más frecuente), la vena renal izquierda queda atrapada entre la aorta y la arteria mesentérica superior; en la variante posterior, la vena renal izquierda retro-aórtica es comprimida entre la aorta y el cuerpo vertebral.",
+    "B": "Es correcto: la hematuria macroscópica que empeora con la bipedestación prolongada y el ejercicio es la manifestación más característica del síndrome del cascanueces, debido al aumento de la presión venosa renal en estas situaciones.",
+    "D": "Es correcto: el varicocele izquierdo asintomático es una manifestación frecuente del síndrome del cascanueces, secundario a la hipertensión venosa en el territorio de drenaje de la vena renal izquierda, que también recibe la vena gonadal izquierda."
+   }
+  }
+ },
+ {
+  "id_examen": 190,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 60 años de edad que acude a urgencias por presentar hematuria macroscópica asintomática.¿En qué patología deberíamos pensar en primer lugar?",
+  "opciones": {
+   "A": "Hiperplasia benigna de próstata.",
+   "B": "Carcinoma de próstata.",
+   "C": "Carcinoma vesical.",
+   "D": "Litiasis renal."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La hematuria macroscópica asintomática (sin disuria, sin dolor cólico, sin fiebre) en un varón de 60 años es carcinoma vesical hasta que se demuestre lo contrario. El carcinoma de vejiga es la causa más frecuente de hematuria macroscópica en varones mayores de 50 años; su presentación clásica es precisamente la hematuria indolora, intermitente y a veces con coágulos, que no se acompaña de otros síntomas.",
+   "incorrectas": {
+    "A": "La hiperplasia benigna de próstata puede producir hematuria, pero no es la causa más frecuente de hematuria macroscópica asintomática en este grupo de edad; además, suele acompañarse de síntomas del tracto urinario inferior (urgencia, polaquiuria, chorro débil).",
+    "B": "El carcinoma de próstata raramente produce hematuria macroscópica como primera manifestación clínica; habitualmente debuta con síntomas obstructivos o se detecta en cribado con PSA antes de producir hematuria significativa.",
+    "D": "La litiasis renal puede causar hematuria macroscópica, pero generalmente se acompaña de dolor cólico intenso (cólico nefrítico); la hematuria totalmente asintomática e indolora es menos típica de litiasis y más sugestiva de tumor vesical."
+   }
+  }
+ },
+ {
+  "id_examen": 191,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La citología de orina es una prueba útil para el diagnóstico de:",
+  "opciones": {
+   "A": "Carcinoma vesical y tumor del tracto urinario superior.",
+   "B": "Adenocarcinoma de próstata.",
+   "C": "Hiperplasia benigna de próstata.",
+   "D": "Tumor de testículo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La citología de orina detecta células malignas exfoliadas del urotelio que tapizan toda la vía urinaria, desde los cálices renales hasta la uretra proximal. Por tanto, es una prueba específica para los carcinomas uroteliales (carcinoma de células transicionales) tanto de vejiga como del tracto urinario superior (uréteres y pelvis renal). Su sensibilidad es especialmente alta para los tumores de alto grado.",
+   "incorrectas": {
+    "B": "El adenocarcinoma de próstata no se diagnostica con citología de orina; su diagnóstico se basa en la determinación del PSA sérico, el tacto rectal y la biopsia prostática transrectal ecoguiada.",
+    "C": "La hiperplasia benigna de próstata es un proceso no maligno que no desprende células neoplásicas a la orina; la citología urinaria no tiene utilidad diagnóstica en esta entidad.",
+    "D": "Los tumores testiculares son de origen gonadal y no se diagnostican mediante citología urinaria; su estudio requiere ecografía testicular, marcadores tumorales séricos (AFP, HCG, LDH) y orquiectomía radical inguinal."
+   }
+  }
+ },
+ {
+  "id_examen": 192,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En relación a los cuerpos extraños en el esófago, ¿cuál de los siguientes enunciados es incorrecto?:",
+  "opciones": {
+   "A": "El bolo alimentario es la causa más frecuente de obstrucción esofágica en los países occidentales.",
+   "B": "En ocasiones puede realizarse un estudio con bario para objetivar el nivel de la impactación.",
+   "C": "En ocasiones se puede diferir la extracción del cuerpo extraño vía endoscópica 24 horas.",
+   "D": "La extracción endoscópica de las pilas de botón se recomienda realizarla de forma inmediata por el alto riesgo de perforación."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "El estudio radiológico con bario (sulfato de bario) está CONTRAINDICADO en la sospecha de cuerpo extraño esofágico o de perforación esofágica, ya que si existe perforación o se produce durante el procedimiento, el bario en mediastino o peritoneo es extremadamente tóxico y provoca una mediastinitis o peritonitis química grave. Si fuera necesario contraste oral, se debe utilizar contraste hidrosoluble (gastrografina/gastografín).",
+   "incorrectas": {
+    "A": "Es correcto: el bolo alimentario (especialmente carne) es la causa más frecuente de obstrucción esofágica en adultos en los países occidentales, frecuentemente asociada a patología esofágica subyacente como estenosis péptica, eosinofilia esofágica o anillos de Schatzki.",
+    "C": "Es correcto: en ausencia de perforación o complicaciones, la extracción endoscópica puede diferirse hasta 24 horas en algunos cuerpos extraños no urgentes (monedas en esófago cervical en niños asintomáticos, por ejemplo), aunque la mayoría deben extraerse en las primeras horas.",
+    "D": "Es correcto: las pilas de botón impactadas en el esófago representan una emergencia endoscópica que requiere extracción inmediata (en menos de 2 horas), ya que generan necrosis licuefactiva por corriente eléctrica y alcalinización, con riesgo de perforación esofágica en pocas horas."
+   }
+  }
+ },
+ {
+  "id_examen": 193,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En el tratamiento de la encefalopatía hepática, ¿cuál de las siguientes no es una medida general de su tratamiento?",
+  "opciones": {
+   "A": "Asegurar la vía aérea, con aspiración de secreciones y administración de oxigenoterapia.",
+   "B": "Corregir las alteraciones iónicas y del equilibrio ácido- base.",
+   "C": "Mantener condiciones adecuadas de hidratación, vigilando el deterioro de la función renal.",
+   "D": "En caso de agitación, contener al paciente con el uso de sedantes tipo benzodiacepinas, para evitar lesiones."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Las benzodiacepinas están CONTRAINDICADAS en la encefalopatía hepática. El hígado insuficiente no puede metabolizar correctamente estas sustancias, lo que provoca acumulación y empeoramiento del nivel de conciencia; además, las benzodiacepinas actúan sobre receptores GABA que ya están aumentados en la encefalopatía hepática (hipótesis GABAérgica), agravando la depresión neurológica. En caso de agitación severa, pueden utilizarse antipsicóticos como el haloperidol con precaución.",
+   "incorrectas": {
+    "A": "Asegurar la vía aérea y administrar oxigenoterapia son medidas de soporte vital básicas e imprescindibles en la encefalopatía hepática avanzada, donde existe riesgo de aspiración y compromiso respiratorio.",
+    "B": "La corrección de alteraciones electrolíticas (especialmente hiponatremia, hipopotasemia, alcalosis metabólica) y del equilibrio ácido-base es fundamental, ya que estas alteraciones son factores precipitantes y perpetuadores de la encefalopatía hepática.",
+    "C": "Mantener un estado de hidratación adecuado vigilando la función renal es esencial para prevenir el síndrome hepatorrenal, que puede complicar gravemente la evolución del paciente con encefalopatía hepática."
+   }
+  }
+ },
+ {
+  "id_examen": 194,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante la sospecha de una perforación esofágica, ¿cuál de los siguientes ítems es incorrecto?",
+  "opciones": {
+   "A": "El TAC es la técnica de elección diagnóstica.",
+   "B": "Cuando exista sospecha clínica y resto de pruebas normales, debemos realizar una endoscopia digestiva alta para confirmar el diagnóstico.",
+   "C": "El síndrome de Boerhaave es una posible causa.",
+   "D": "La radiografía con contraste hidrosoluble (gastografía), puede resultar útil para localizar el lugar y la extensión de la perforación."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "La endoscopia digestiva alta está CONTRAINDICADA o debe realizarse con extrema precaución en la perforación esofágica, ya que la insuflación de aire durante la endoscopia puede empeorar la perforación, introducir aire en el mediastino (neumomediastino a tensión) y diseminar la contaminación. La TAC toraco-abdominal con contraste oral hidrosoluble es la técnica de elección, ya que permite localizar la perforación, valorar la extensión de la contaminación mediastínica y planificar el tratamiento.",
+   "incorrectas": {
+    "A": "Es correcto: el TAC toracoabdominal con contraste oral hidrosoluble es actualmente la técnica de imagen de elección para el diagnóstico y la estadificación de la perforación esofágica, con alta sensibilidad y especificidad.",
+    "C": "Es correcto: el síndrome de Boerhaave es la perforación esofágica por esfuerzo (vómitos violentos), siendo una de las causas más graves de perforación esofágica espontánea, con alta mortalidad si no se trata precozmente.",
+    "D": "Es correcto: la radiografía contrastada con contraste hidrosoluble (gastrografina) es útil para localizar el nivel y la extensión de la perforación cuando el TAC no está disponible o como complemento diagnóstico, siendo segura a diferencia del bario."
+   }
+  }
+ },
+ {
+  "id_examen": 195,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale de entre las siguientes exploraciones complementarias en el diagnóstico de una perforación esofágica, cuál está contraindicada:",
+  "opciones": {
+   "A": "Radiografía de contraste soluble (gastrografía).",
+   "B": "Radiografía anteroposterior y lateral cervical.",
+   "C": "Tomografía computarizada.",
+   "D": "Endoscopia digestiva alta."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "La endoscopia digestiva alta está contraindicada en la perforación esofágica porque la insuflación de aire durante el procedimiento puede agravar la perforación, extender el neumomediastino y aumentar la contaminación bacteriana del mediastino, empeorando el pronóstico. Además, el endoscopio puede aumentar el tamaño de la solución de continuidad y dificultar la reparación quirúrgica posterior.",
+   "incorrectas": {
+    "A": "La radiografía con contraste soluble (gastrografina) es una exploración segura y útil en la perforación esofágica; permite localizar el nivel de la perforación y valorar su extensión sin el riesgo del bario (que es tóxico si se introduce en mediastino).",
+    "B": "Las radiografías cervicales anteroposterior y lateral son exploraciones básicas, seguras y de primera línea ante sospecha de perforación esofágica cervical; pueden mostrar ensanchamiento de tejidos blandos preespinales, enfisema subcutáneo o neumomediastino.",
+    "C": "La tomografía computarizada es la prueba de imagen de elección en la perforación esofágica, no solo sin contraindicación, sino recomendada activamente por su alta sensibilidad y capacidad de evaluar las complicaciones mediastínicas y pleurales."
+   }
+  }
+ },
+ {
+  "id_examen": 196,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante un paciente inmunodeprimido con clínica de odinofagia intensa, pirosis, e incluso disfagia a sólidos y parcialmente a líquidos, que en endoscopia digestiva alta presenta hallazgos de úlceras en pared de esófago en sacabocados, ¿el germen más frecuente implicado será?",
+  "opciones": {
+   "A": "Cándida albicans",
+   "B": "Pneumocystis",
+   "C": "Citomegalovirus",
+   "D": "Virus herpes simple tipo 1"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 84,
+   "tema": "Urgencias en el paciente con VIH/SIDA."
+  },
+  "explicacion": {
+   "correcta": "Las úlceras esofágicas en sacabocados (grandes, bien delimitadas, de bordes netos y profundas) en un paciente inmunodeprimido son el hallazgo endoscópico característico de la esofagitis por Citomegalovirus (CMV). El CMV es la causa más frecuente de úlceras esofágicas en sacabocados en pacientes con SIDA, y se trata con ganciclovir o valganciclovir intravenoso.",
+   "incorrectas": {
+    "A": "La esofagitis por Cándida albicans produce un aspecto endoscópico completamente diferente: placas blancas o amarillentas adheridas a la mucosa, no úlceras en sacabocados; es la causa más frecuente de esofagitis infecciosa en general en inmunodeprimidos, pero no produce este patrón ulceroso.",
+    "B": "Pneumocystis jirovecii (antes carinii) afecta principalmente al pulmón y raramente produce esofagitis ulcerosa; no es un agente causante habitual de úlceras esofágicas en sacabocados.",
+    "D": "El virus herpes simple tipo 1 puede causar esofagitis en inmunodeprimidos, pero produce úlceras pequeñas, superficiales y múltiples con aspecto herpético (vesículas que se rompen), no las grandes úlceras en sacabocados características del CMV."
+   }
+  }
+ },
+ {
+  "id_examen": 197,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes no es un factor desencadenante de encefalopatía hepática?",
+  "opciones": {
+   "A": "Tratamiento con diuréticos tiazídicos",
+   "B": "Tratamiento con diuréticos de asa",
+   "C": "Administración de sedantes como benzodiacepinas",
+   "D": "Tratamiento con diuréticos ahorradores de potasio"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Los diuréticos ahorradores de potasio (espironolactona, amilorida) no precipitan la encefalopatía hepática porque no producen hipopotasemia ni alcalosis metabólica. Al contrario, la espironolactona es el diurético de elección en la cirrosis con ascitis precisamente porque corrige el hiperaldosteronismo secundario sin provocar las alteraciones electrolíticas que desencadenan la encefalopatía.",
+   "incorrectas": {
+    "A": "Los diuréticos tiazídicos producen hipopotasemia y alcalosis metabólica, que aumentan la producción renal de amoniaco y favorecen su paso a la circulación cerebral, precipitando la encefalopatía hepática.",
+    "B": "Los diuréticos de asa (furosemida) también causan hipopotasemia, alcalosis metabólica y deshidratación, que son factores precipitantes clásicos de la encefalopatía hepática en cirróticos.",
+    "C": "Las benzodiacepinas y otros sedantes están directamente implicados como factores precipitantes de la encefalopatía hepática, al potenciar la actividad GABAérgica (ya aumentada en la encefalopatía hepática) y al acumularse por el metabolismo hepático reducido."
+   }
+  }
+ },
+ {
+  "id_examen": 198,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes datos clínicos NO es característicos de la encefalopatía hepática grado II?",
+  "opciones": {
+   "A": "Desorientación temporal, bradipsiquia o disartria",
+   "B": "Fetor hepático y asterixis (Siempre presente en este estadio)",
+   "C": "Cambios en la personalidad o disminución de la memoria.",
+   "D": "Rigidez involuntaria al realizar movimientos pasivos, hiperreflexia y clonus, así como signos de Babisnki positivo."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis. Fracaso hepático. Encefalopatía hepática. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La rigidez involuntaria, hiperreflexia, clonus y signo de Babinski positivo son hallazgos neurológicos correspondientes a los estadios avanzados de encefalopatía hepática (grado III-IV), no al grado II. En el grado II predominan los signos neuropsiquiátricos moderados (desorientación temporoespacial, bradipsiquia, asterixis) sin aún los hallazgos de afectación neurológica profunda como los reflejos patológicos o la rigidez severa.",
+   "incorrectas": {
+    "A": "La desorientación temporal, bradipsiquia y disartria son manifestaciones características del grado II de encefalopatía hepática (West Haven), junto con la somnolencia y los cambios del comportamiento; son hallazgos correctos para este estadio.",
+    "B": "El fetor hepático (aliento dulzón a amoniaco) puede estar presente desde estadios iniciales y la asterixis (flapping tremor o temblor de aleteo) es característica del grado II, aunque puede persistir en grados superiores; sin embargo, decir que está 'siempre presente' en este estadio es una afirmación que no invalida la clasificación global de esta opción como característica del grado II.",
+    "C": "Los cambios en la personalidad y la disminución de la memoria son manifestaciones propias del grado I-II de la encefalopatía hepática, siendo síntomas neuropsiquiátricos tempranos que preceden a la afectación más profunda de la conciencia."
+   }
+  }
+ }
+]

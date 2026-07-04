@@ -1,0 +1,460 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En cuanto a los biomarcadores de infección que usamos en Urgencias, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La Proteína C Reactiva (PCR) comienza a aumentar a las 6-8 horas después del inicio de la infección, y alcanza su valor máximo a las 36-48 horas.",
+   "B": "La insuficiencia renal crónica puede producir un aumento de la Procalcitonina.",
+   "C": "En el shock séptico, un aclaramiento de los niveles de Lactato de <10% en las 6 primeras horas, es un dato de buen pronóstico.",
+   "D": "A diferencia de la PCR, la Procalcitonina no se modifica con la administración de corticoides."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "La opción C es FALSA porque un aclaramiento de lactato inferior al 10% en las primeras 6 horas del shock séptico es un dato de MAL pronóstico, no de buen pronóstico. Las guías Surviving Sepsis consideran un aclaramiento de lactato ≥10% como indicador de respuesta favorable al tratamiento. Un aclaramiento deficiente indica hipoperfusión tisular persistente y mayor mortalidad.",
+   "incorrectas": {
+    "A": "Es verdadera: la PCR empieza a elevarse a las 6-8 horas del inicio de la infección y alcanza su pico a las 36-48 horas, lo que la hace menos útil en las fases muy iniciales.",
+    "B": "Es verdadera: la insuficiencia renal crónica puede elevar la procalcitonina (PCT) por mecanismos no infecciosos, lo que debe tenerse en cuenta al interpretar sus valores.",
+    "D": "Es verdadera: a diferencia de la PCR, cuya síntesis puede ser estimulada o inhibida por corticoides, la procalcitonina no se ve significativamente modificada por la administración de esteroides."
+   }
+  }
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el síndrome febril en paciente usuario de drogas vía parenteral (UDVP), señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La fiebre puede deberse a pirógenos exógenos.",
+   "B": "La endocarditis puede tratarse asociando cloxacilina y gentamicina.",
+   "C": "La hepatitis aguda en UDVP precisa tratamiento con cefalosporinas.",
+   "D": "La meningitis tuberculosa no es infrecuente en UDVP."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La opción C es FALSA porque la hepatitis aguda en UDVP (habitualmente viral por VHB o VHC) no precisa ni se trata con cefalosporinas, que son antibióticos sin actividad antiviral. Las hepatitis virales agudas generalmente no requieren tratamiento antibiótico específico en urgencias salvo complicaciones bacterianas sobreañadidas.",
+   "incorrectas": {
+    "A": "Es verdadera: en UDVP la fiebre puede deberse a pirógenos exógenos presentes en las sustancias inyectadas (impurezas, adulterantes), sin que exista necesariamente una infección bacteriana subyacente.",
+    "B": "Es verdadera: la endocarditis bacteriana en UDVP frecuentemente está producida por S. aureus sensible a meticilina, y la combinación clásica de cloxacilina con gentamicina (en sinergismo) es un régimen terapéutico aceptado.",
+    "D": "Es verdadera: los UDVP tienen alta prevalencia de infección por VIH y contacto con TBC, por lo que la meningitis tuberculosa es una complicación relativamente frecuente en esta población."
+   }
+  }
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué puntuación en la escala qSOFA adjudicaríamos a un paciente con una frecuencia respiratoria de 22 respiraciones por minuto, una presión arterial sistólica de 105 mmHg y una puntuación en la escala de Glasgow de 13/15?",
+  "opciones": {
+   "A": "0 puntos.",
+   "B": "1 punto.",
+   "C": "2 puntos.",
+   "D": "3 puntos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "La respuesta correcta es C (2 puntos). El qSOFA otorga 1 punto por cada uno de estos tres criterios: frecuencia respiratoria ≥22 rpm, presión arterial sistólica ≤100 mmHg y alteración del nivel de consciencia (Glasgow <15). En este paciente: FR 22 rpm = 1 punto; PAS 105 mmHg = 0 puntos (es mayor de 100); Glasgow 13/15 = 1 punto (menor de 15). Total: 2 puntos.",
+   "incorrectas": {
+    "A": "Incorrecto: el paciente cumple dos criterios (FR ≥22 y Glasgow <15), por lo que la puntuación no puede ser 0.",
+    "B": "Incorrecto: se cumplen dos criterios (FR ≥22 rpm y Glasgow 13, que es <15), no uno solo.",
+    "D": "Incorrecto: la PAS de 105 mmHg no cumple el criterio de qSOFA (que requiere ≤100 mmHg), por lo que no se puntúa el tercer criterio."
+   }
+  }
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "NO usaremos como antibioterapia empírica en el shock séptico de foco desconocido:",
+  "opciones": {
+   "A": "Meropenem + Daptomicina.",
+   "B": "Imipenem + Vancomicina.",
+   "C": "Imipenem + Metronidazol.",
+   "D": "Meropenem + Vancomicina + Amikacina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "La opción C (Imipenem + Metronidazol) NO debe usarse en el shock séptico de foco desconocido porque el metronidazol solo cubre anaerobios y algunos protozoos, pero no añade cobertura que no esté ya cubierta por el imipenem, que tiene potente actividad anaeróbica. En el shock séptico de foco desconocido se requiere cobertura amplia incluyendo grampositivos resistentes (SARM), y la combinación correcta incluye un agente activo frente a estos microorganismos (vancomicina, daptomicina, linezolid).",
+   "incorrectas": {
+    "A": "Es una combinación válida: meropenem cubre gramnegativos y algunos grampositivos; daptomicina aporta cobertura frente a SARM y enterococos, resultando en cobertura amplia adecuada para shock séptico de foco desconocido.",
+    "B": "Es una combinación válida: imipenem + vancomicina ofrece cobertura amplia frente a gramnegativos y grampositivos resistentes incluyendo SARM, siendo una de las pautas recomendadas.",
+    "D": "Es una combinación válida: meropenem + vancomicina + amikacina proporciona cobertura muy amplia incluyendo pseudomonas, SARM y enterobacterias con betalactamasas, indicada especialmente en pacientes de alto riesgo."
+   }
+  }
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Indique cuál de los siguientes valores NO usamos en el cálculo de la escala SOFA en los pacientes sépticos:",
+  "opciones": {
+   "A": "Escala de Glasgow.",
+   "B": "Plaquetas.",
+   "C": "Saturación de oxígeno en pulsioximetría.",
+   "D": "Creatinina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "La saturación de oxígeno en pulsioximetría (SpO2) NO es un parámetro del SOFA original. La escala SOFA evalúa la función respiratoria mediante la ratio PaO2/FiO2 (obtenida por gasometría arterial), no con la saturación periférica de oxígeno. La SpO2 forma parte del SOFA modificado en algunas variantes (SpO2/FiO2), pero no del SOFA original ni del más usado en la práctica clínica habitual.",
+   "incorrectas": {
+    "A": "La escala de Glasgow SÍ se usa en SOFA: evalúa la función neurológica. Una puntuación de Glasgow 13-14 = 1 punto, 10-12 = 2 puntos, 6-9 = 3 puntos, <6 = 4 puntos.",
+    "B": "Las plaquetas SÍ se usan en SOFA: evalúan la función hematológica. Plaquetas <150.000 = 1 punto, <100.000 = 2 puntos, <50.000 = 3 puntos, <20.000 = 4 puntos.",
+    "D": "La creatinina SÍ se usa en SOFA: evalúa la función renal. Valores elevados de creatinina o diuresis disminuida puntúan en el componente renal del SOFA."
+   }
+  }
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Ante un caso de meningitis o encefalitis, es FALSO que:",
+  "opciones": {
+   "A": "Tras diagnóstico de meningitis, debemos realizar profilaxis de los contactos con Rifampicina o Ciprofloxacino en caso de infección por Neisseria meningitidis.",
+   "B": "La punción lumbar ha de ir precedida por prueba de imagen (TAC) en un paciente que previamente haya convulsionado.",
+   "C": "Consideramos un líquido cefalorraquídeo con celularidad normal si no contiene más de 15 células/μL.",
+   "D": "Ante una encefalitis herpética, se recomienda el tratamiento con Aciclovir en dosis de 10-15 mg/kg/hora,"
+  },
+  "respuesta_correcta": "ANULADA",
+  "clasificacion_temario": {"id": 69, "tema": "Meningitis/encefalitis"},
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Para reducir la probabilidad de aparición de resistencias bacterianas, NO se recomienda:",
+  "opciones": {
+   "A": "Disminuir la prescripción de antimicrobianos y, en su caso, la duración de los tratamientos más allá del tiempo necesario.",
+   "B": "Asociar varios antimicrobianos para un tratamiento bactericida más eficaz.",
+   "C": "Ajustar el espectro a la sospecha etiológica, evitando en lo posible la utilización de antimicrobianos de amplio espectro.",
+   "D": "Establecer una terapia de simplificación y secuencial precoces."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 81, "tema": "Síndrome febril adulto/resistencia antibiótica"},
+  "explicacion": {
+   "correcta": "La opción B es la que NO se recomienda para reducir resistencias: asociar varios antimicrobianos de forma rutinaria sin indicación específica aumenta la presión selectiva sobre las bacterias y favorece la aparición de resistencias múltiples. La politerapia solo está justificada en situaciones concretas (tratamiento empírico inicial en infecciones graves o sinergia documentada), pero no como estrategia general de prevención de resistencias.",
+   "incorrectas": {
+    "A": "Sí se recomienda: limitar la prescripción de antibióticos y reducir la duración al mínimo necesario es una de las principales estrategias de los programas de optimización de antimicrobianos (PROA) para minimizar la presión selectiva.",
+    "C": "Sí se recomienda: ajustar el espectro antibiótico a la sospecha etiológica y evitar antibióticos de amplio espectro cuando no son necesarios reduce la presión selectiva y la selección de cepas multirresistentes.",
+    "D": "Sí se recomienda: la terapia de simplificación (desescalada) y la terapia secuencial (paso de iv a oral) precoz son estrategias básicas de los programas PROA para optimizar el uso de antibióticos."
+   }
+  }
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En las neumonías adquiridas en la comunidad (NAC), señale la respuesta FALSA:",
+  "opciones": {
+   "A": "En el tratamiento ambulatorio de la NAC podemos considerar el uso por vía oral de Cefditoreno (400 mg/12h) o Amoxicilina (1 g/8h) o Amoxicilina-clavulánico (875 mg/125 mg/8h).",
+   "B": "En el tratamiento de la neumonías por mecanismo aspirativo, podemos considerar el uso de Amoxicilina-clavulánico (intravenoso) iv (2 g/8h) o Claritromicina iv (500 mg/12h).",
+   "C": "En las NAC graves, con factores de riesgo de infección por Staphylococcus aureus, consideraremos añadir Linezolid (600 mg/12h).",
+   "D": "En las neumonías con sospecha de infección por Pseudomona, consideraremos el tratamiento con Cefepime iv (2 g/12h) o Meropenem iv (1 g/8h) o Piperacilina-Tazobactam iv (4/0,5 g/6-8h)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 59, "tema": "Neumonía"},
+  "explicacion": {
+   "correcta": "La opción B es FALSA porque la claritromicina intravenosa NO es el tratamiento de elección para la neumonía aspirativa. Las neumonías aspirativas están producidas fundamentalmente por anaerobios y flora orofaríngea, y el tratamiento de elección es amoxicilina-clavulánico iv o piperacilina-tazobactam, que cubren adecuadamente anaerobios. La claritromicina carece de actividad frente a anaerobios y no está indicada en este contexto.",
+   "incorrectas": {
+    "A": "Es verdadera: las guías españolas recomiendan cefditoreno, amoxicilina o amoxicilina-clavulánico oral para el tratamiento ambulatorio de la NAC sin comorbilidades ni factores de riesgo.",
+    "C": "Es verdadera: en NAC graves con riesgo de SARM (infección gripal previa, uso previo de antibióticos, hospitalización reciente), añadir linezolid 600 mg/12h o vancomicina es una recomendación de las guías.",
+    "D": "Es verdadera: ante sospecha de infección por Pseudomonas aeruginosa en NAC (bronquiectasias, EPOC grave, antibioterapia previa), los antipseudomónicos como cefepime, meropenem o piperacilina-tazobactam son las opciones recomendadas."
+   }
+  }
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación con las infecciones de transmisión sexual, es FALSO que:",
+  "opciones": {
+   "A": "La lesión por lúes, en la mayoría de los casos, es única y generalmente indolora.",
+   "B": "El tratamiento de elección de la sarna es Permetrina al 2%.",
+   "C": "El tratamiento empírico de una proctitis puede ser 1 gr de Ceftraixona en dosis única + 1 gr Azitromicina oral.",
+   "D": "La gonococia suele producir úlceras múltiples y dolorosas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La opción D es FALSA porque la gonococia (Neisseria gonorrhoeae) NO produce úlceras múltiples y dolorosas como característica típica. La gonococia produce principalmente uretritis, cervicitis, proctitis y faringitis con secreción purulenta. Las úlceras múltiples y dolorosas son características del chancro blando (Haemophilus ducreyi) o del herpes genital. La sífilis produce el chancro duro, único e indoloro.",
+   "incorrectas": {
+    "A": "Es verdadera: el chancro sifilítico primario (Treponema pallidum) es típicamente una úlcera única, de bordes indurados, limpia e indolora en la mayoría de los casos.",
+    "B": "Es verdadera: la permetrina (al 5% habitualmente, o al 2% en algunas formulaciones) es el tratamiento de primera línea para la escabiosis (sarna), siendo la opción más aceptada en la práctica clínica.",
+    "C": "Es verdadera: el tratamiento empírico de la proctitis de probable etiología ITS incluye ceftriaxona 1g IM/IV en dosis única (para gonococia) más azitromicina 1g oral (para Chlamydia), siendo una pauta estándar recomendada."
+   }
+  }
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Respecto al tétanos, indique qué afirmación es la INCORRECTA:",
+  "opciones": {
+   "A": "El periodo de invasión se caracteriza por raquialgia, insomnio, trismus y alteración del nivel de conciencia.",
+   "B": "Es una Enfermedad de Declaración Obligatoria (EDO).",
+   "C": "Se puede usar Labetalol en el tratamiento de la disfunción autonómica.",
+   "D": "El tétanos generalizado es la forma clínica más frecuente y severa."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La opción A es INCORRECTA porque durante el periodo de invasión del tétanos NO hay alteración del nivel de conciencia. La tetanospasmina actúa a nivel de la sinapsis inhibidora bloqueando la liberación de glicina y GABA, produciendo espasticidad, trismus y contracturas, pero el paciente permanece consciente y orientado en todo momento. La alteración del nivel de conciencia es característica de la encefalitis, no del tétanos.",
+   "incorrectas": {
+    "B": "Es correcta: el tétanos es una Enfermedad de Declaración Obligatoria en España, que debe notificarse a las autoridades sanitarias.",
+    "C": "Es correcta: el labetalol (bloqueante alfa y beta adrenérgico) puede utilizarse para el control de la disfunción autonómica del tétanos grave, que cursa con inestabilidad hemodinámica, taquicardia e hipertensión.",
+    "D": "Es correcta: el tétanos generalizado es la forma más frecuente (representa aproximadamente el 80% de los casos) y la más grave, con espasmos musculares generalizados, trismus, opistótonos y riesgo de insuficiencia respiratoria."
+   }
+  }
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En la sepsis, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+  "opciones": {
+   "A": "La administración precoz de antibioterapia empírica es esencial en el pronóstico del paciente con sepsis o shock séptico.",
+   "B": "Si el paciente es portador de catéter intravascular, esperaremos estabilización hemodinámica y a localizar el foco para su retirada.",
+   "C": "La terapia de alto flujo es preferible a la ventilación no invasiva, y más efectiva que la oxigenoterapia convencional.",
+   "D": "Los fármacos vasopresores suelen ser inefectivos si no se ha corregido previamente la hipovolemia."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 82, "tema": "Sepsis/shock séptico"},
+  "explicacion": {
+   "correcta": "La opción B es INCORRECTA porque ante la sospecha de que el catéter intravascular es el foco de la sepsis, las guías Surviving Sepsis recomiendan su retirada PRECOZ, sin esperar a la estabilización hemodinámica ni a localizar otro foco alternativo. Mantener un catéter potencialmente infectado perpetúa la fuente de bacteriemia y empeora el pronóstico.",
+   "incorrectas": {
+    "A": "Es correcta: la administración precoz de antibióticos (idealmente en la primera hora tras el diagnóstico de sepsis/shock séptico) es una recomendación de nivel 1 de las guías internacionales, ya que cada hora de retraso aumenta la mortalidad.",
+    "C": "Es correcta: la oxigenoterapia de alto flujo (cánulas nasales de alto flujo, HFNC) se considera superior a la VMNI en términos de confort y en algunos estudios de mortalidad, y claramente superior a la oxigenoterapia convencional en pacientes con hipoxemia.",
+    "D": "Es correcta: los vasopresores como noradrenalina actúan sobre la vasculatura, pero son menos eficaces si existe hipovolemia sin corregir, ya que el incremento de resistencias sin volumen adecuado no mejora el gasto cardíaco ni la perfusión tisular."
+   }
+  }
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En las consideraciones a tener en cuenta en el diagnóstico precoz de VIH oculto en los servicios de Urgencias, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El síndrome mononocleósico presenta alta prevalencia como una condición indicadora de VIH, y una elevada frecuentación en Urgencias.",
+   "B": "El herpes zóster es 15 veces más frecuente en personas con VIH que en la población general.",
+   "C": "En Urgencias, no es necesario el consentimiento verbal del paciente para realizarle serología para VIH.",
+   "D": "La prevalencia del VIH en Urgencias es mayor que en la población general."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 84, "tema": "VIH/SIDA"},
+  "explicacion": {
+   "correcta": "La opción C es FALSA porque para realizar la serología para VIH en urgencias SÍ es necesario el consentimiento verbal del paciente. La Ley 41/2002 de autonomía del paciente y las guías de diagnóstico de VIH establecen que el paciente debe ser informado y dar su consentimiento (al menos verbal) antes de la realización del test, salvo situaciones de urgencia vital donde el paciente no pueda expresar su voluntad. No hacerlo constituye una vulneración de sus derechos.",
+   "incorrectas": {
+    "A": "Es verdadera: el síndrome mononucleósico es una condición indicadora de VIH (puede corresponder a la primoinfección VIH o síndrome retroviral agudo) con alta frecuentación en urgencias, lo que lo convierte en una oportunidad de diagnóstico precoz.",
+    "B": "Es verdadera: el herpes zóster tiene una incidencia significativamente mayor en personas con VIH debido a la inmunosupresión, siendo hasta 15 veces más frecuente que en la población inmunocompetente.",
+    "D": "Es verdadera: múltiples estudios han demostrado que la prevalencia de VIH no diagnosticado en urgencias es mayor que en la población general, lo que justifica el cribado oportunista en estos servicios."
+   }
+  }
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál es la principal complicación de la infección por el virus de la varicela-zóster en adultos?",
+  "opciones": {
+   "A": "Conjuntivitis.",
+   "B": "Neumonía.",
+   "C": "Miocarditis.",
+   "D": "Hepatitis."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 85, "tema": "TBC/otras infecciones"},
+  "explicacion": {
+   "correcta": "La neumonía varicelosa es la complicación más grave y frecuente de la varicela en adultos, con una incidencia mucho mayor que en niños. Se produce por diseminación hematógena del virus al parénquima pulmonar y puede ser potencialmente mortal. El riesgo es especialmente alto en fumadores, embarazadas e inmunodeprimidos. Su presencia obliga a hospitalización y tratamiento con aciclovir intravenoso.",
+   "incorrectas": {
+    "A": "La conjuntivitis puede ocurrir con el herpes zóster oftálmico (reactivación que afecta la rama oftálmica del trigémino), pero no es la principal complicación de la varicela primaria en adultos.",
+    "C": "La miocarditis es una complicación muy rara de la varicela, sin significación clínica relevante comparada con la neumonía, que es la complicación más frecuente y grave en adultos.",
+    "D": "La hepatitis por varicela existe pero es infrecuente y generalmente leve en inmunocompetentes; no representa la principal complicación en adultos sanos."
+   }
+  }
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En la exploración de una sordera brusca unilateral neurosensorial (de percepción), señale la respuesta correcta:",
+  "opciones": {
+   "A": "Rinne (-) en oído enfermo y Weber lateralizado al oído sano.",
+   "B": "Rinne (-) en oído enfermo y Weber lateralizado al oído enfermo.",
+   "C": "Rinne (+) en oído enfermo y Weber lateralizado al oído sano.",
+   "D": "Rinne (+) en oído enfermo y Weber lateralizado al oído enfermo."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 90, "tema": "ORL/vértigo"},
+  "explicacion": {
+   "correcta": "En la hipoacusia neurosensorial (de percepción) el Rinne es POSITIVO en el oído enfermo, ya que tanto la conducción aérea como la ósea están disminuidas proporcionalmente, pero la vía aérea sigue siendo mejor que la ósea (Rinne +). El Weber se lateraliza al oído SANO porque el oído enfermo, al tener dañado el nervio coclear, percibe peor los estímulos vibratorios; el sonido se escucha mejor en el lado donde el nervio está íntegro.",
+   "incorrectas": {
+    "A": "El Rinne negativo (-) es propio de la hipoacusia de transmisión (conductiva), donde la conducción ósea supera a la aérea. En la neurosensorial el Rinne es positivo.",
+    "B": "Rinne negativo es de hipoacusia conductiva; además en la conductiva el Weber se lateraliza al oído enfermo. Esta combinación corresponde a hipoacusia conductiva, no neurosensorial.",
+    "D": "En la hipoacusia neurosensorial el Rinne es positivo pero el Weber lateraliza al oído SANO, no al enfermo. El Weber al oído enfermo con Rinne positivo es una combinación incoherente con los patrones clásicos de exploración audiológica."
+   }
+  }
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el traumatismo craneoencefálico, según el Proceso Asistencial Integrado (PAI) de la Atención al Trauma Grave (2ª edición, 2020), ¿qué factor de riesgo determina hacer un Tomografía Computarizada craneal en la primera hora?",
+  "opciones": {
+   "A": "Más de un episodio de vómitos.",
+   "B": "Edad > 65 años.",
+   "C": "Tratamiento con anticoagulantes orales.",
+   "D": "Caída desde una altura > 1 metro."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 86, "tema": "TCE/trauma torácico"},
+  "explicacion": {
+   "correcta": "Según el PAI de Atención al Trauma Grave de Andalucía (2ª ed., 2020), la presencia de más de un episodio de vómitos tras un TCE es un factor de riesgo que indica la necesidad de realizar TC craneal de forma urgente en la primera hora. Los vómitos repetidos sugieren hipertensión intracraneal y posible lesión intracraneal significativa que requiere diagnóstico inmediato.",
+   "incorrectas": {
+    "B": "La edad >65 años es un factor de riesgo que indica la necesidad de TC craneal, pero según el PAI andaluz esta indicación no es específicamente 'en la primera hora' sino dentro de las 8 horas, dependiendo de otros factores asociados.",
+    "C": "El tratamiento anticoagulante oral es una indicación de TC craneal en el TCE, pero el PAI lo clasifica como indicación en las 8 horas, no específicamente en la primera hora salvo que concurran otros factores.",
+    "D": "La caída desde >1 metro es un mecanismo de alta energía que constituye un factor de riesgo, pero por sí solo no determina la TC en la primera hora según la clasificación del PAI andaluz."
+   }
+  }
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación con los objetivos terapéuticos generales en la atención al paciente con traumatismo craneoencefálico grave, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Saturación de O2 > 95%.",
+   "B": "Presión arterial sistólica > 90 mmHg.",
+   "C": "Hemoglobina > 10 g/dl.",
+   "D": "Tiempo de protrombina > 60%."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 86, "tema": "TCE/trauma torácico"},
+  "explicacion": {
+   "correcta": "La opción D es INCORRECTA como objetivo en el TCE grave: en el TCE grave se busca mantener el tiempo de protrombina en valores normales o superiores al 70-80% (INR <1,2-1,4) para prevenir el sangrado intracraneal expansivo. Un objetivo de tiempo de protrombina >60% es demasiado permisivo y aceptaría un estado de coagulopatía que podría favorecer el sangrado. Las guías recomiendan mantener el TP >70-80% en el TCE grave.",
+   "incorrectas": {
+    "A": "Es correcta: mantener SpO2 >95% (equivalente a PaO2 >80 mmHg) es fundamental en el TCE grave para evitar la hipoxia cerebral secundaria, que empeora el pronóstico neurológico.",
+    "B": "Es correcta: la PAS >90 mmHg es el umbral mínimo aceptado en el TCE grave para asegurar la presión de perfusión cerebral; la hipotensión es uno de los principales insultos secundarios que aumentan la mortalidad.",
+    "C": "Es correcta: mantener hemoglobina >10 g/dL en el TCE grave garantiza una adecuada capacidad de transporte de oxígeno al cerebro lesionado, siendo un objetivo estándar en el manejo de estos pacientes."
+   }
+  }
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En la fractura de calcáneo, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "El signo más precoz es la equimosis.",
+   "B": "Las proyecciones radiográficas lateral y axial de calcáneo son las de elección.",
+   "C": "El tratamiento quirúrgico está indicado si hay aplanamiento del calcáneo.",
+   "D": "La atrofia de Sudeck es una complicación de esta fractura."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 87, "tema": "Fracturas extremidades"},
+  "explicacion": {
+   "correcta": "La opción A es INCORRECTA porque el signo más precoz de la fractura de calcáneo NO es la equimosis sino el dolor intenso e impotencia funcional inmediata tras el traumatismo. La equimosis en la fractura de calcáneo es tardía y característica (equimosis plantar o signo de Mondor que aparece horas después), pero no es el signo más precoz. El signo más temprano es el dolor y la imposibilidad de apoyar.",
+   "incorrectas": {
+    "B": "Es correcta: las proyecciones lateral (para medir el ángulo de Böhler y valorar el aplanamiento) y axial (proyección de Harris, para valorar la anchura y el varo del calcáneo) son las radiografías de elección en la fractura de calcáneo.",
+    "C": "Es correcta: el aplanamiento del calcáneo (reducción del ángulo de Böhler por debajo de 20-25°) es una de las indicaciones de tratamiento quirúrgico en fracturas intraarticulares de calcáneo con afectación de la articulación subastragalina.",
+    "D": "Es correcta: la distrofia simpático-refleja o síndrome de Sudeck (actualmente denominado Síndrome de Dolor Regional Complejo tipo I) es una complicación reconocida de las fracturas de calcáneo, caracterizada por dolor, edema y cambios vasomotores."
+   }
+  }
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el tratamiento de la preeclampsia grave, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Sondaje vesical con medición diuresis horaria.",
+   "B": "Control de la presión arterial cada 5 minutos hasta su estabilización.",
+   "C": "El objetivo es conseguir una presión arterial sistólica por debajo de 180 mmHg.",
+   "D": "Está indicada la administración de fármacos hipotensores, como el Labetalol."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 78, "tema": "Urgencias obstétricas"},
+  "explicacion": {
+   "correcta": "La opción C es INCORRECTA porque el objetivo tensional en la preeclampsia grave NO es únicamente bajar por debajo de 180 mmHg sistólica, sino alcanzar cifras de PAS entre 140-155 mmHg y PAD entre 90-105 mmHg. El objetivo de conseguir solo <180 mmHg es demasiado permisivo. Las guías recomiendan tratar cuando la PAS ≥160 mmHg o PAD ≥110 mmHg, buscando cifras más controladas y no simplemente por debajo de 180.",
+   "incorrectas": {
+    "A": "Es correcta: el sondaje vesical con control horario de diuresis es una medida estándar en la preeclampsia grave para monitorizar la función renal y detectar oliguria (<0,5 ml/kg/h), que puede indicar compromiso renal.",
+    "B": "Es correcta: el control tensional estrecho cada 5 minutos hasta la estabilización es necesario en la preeclampsia grave para ajustar el tratamiento hipotensor y evitar tanto la hipertensión severa como las bajadas bruscas que comprometan la perfusión placentaria.",
+    "D": "Es correcta: el labetalol intravenoso es uno de los fármacos hipotensores de primera línea en la preeclampsia grave en España, junto con la hidralazina y el nifedipino oral."
+   }
+  }
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En el traumatismo abdominal cerrado con inestabilidad hemodinámica, señale la prueba diagnóstica prioritaria:",
+  "opciones": {
+   "A": "Ecografía FAST.",
+   "B": "Punción lavado peritoneal.",
+   "C": "Tomografía Axial computarizada de abdomen.",
+   "D": "Arteriografía."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 106, "tema": "Ecografía urgencias"},
+  "explicacion": {
+   "correcta": "La ecografía FAST (Focused Assessment with Sonography in Trauma) es la prueba diagnóstica prioritaria en el traumatismo abdominal cerrado con inestabilidad hemodinámica. Es rápida (puede realizarse en menos de 5 minutos), no invasiva, reproducible y permite detectar líquido libre intraabdominal (hemoperitoneo) a pie de cama sin necesidad de trasladar al paciente inestable. Su sensibilidad para detectar hemoperitoneo significativo es alta, lo que permite tomar decisiones quirúrgicas inmediatas.",
+   "incorrectas": {
+    "B": "La punción-lavado peritoneal ha quedado en desuso desde la introducción del FAST; aunque era el estándar previo, es más invasiva, lenta y con mayor tasa de complicaciones que la ecografía.",
+    "C": "La TAC de abdomen es la prueba más específica y completa en trauma abdominal, pero requiere traslado del paciente al servicio de radiología, lo que está contraindicado en pacientes hemodinámicamente inestables por el riesgo vital durante el transporte.",
+    "D": "La arteriografía es una técnica terapéutica (embolización) y diagnóstica de segunda línea, utilizada cuando se ha identificado el sangrado y se busca control endovascular; no es la prueba inicial prioritaria en la evaluación del trauma abdominal."
+   }
+  }
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Respecto a la inervación de los segmentos espinales y su relación con los reflejos, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Segmento L1/L2 – Reflejo cremastérico.",
+   "B": "Segmento L2/L3 – Reflejo rotuliano.",
+   "C": "Segmento L3/L4 – Reflejo aquíleo.",
+   "D": "Segmento L5/S1 – Reflejo anal."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 88, "tema": "Fracturas pelvis/columna"},
+  "explicacion": {
+   "correcta": "La opción C es INCORRECTA porque el reflejo aquíleo NO está mediado por L3/L4 sino por S1-S2. El reflejo aquíleo depende de la integridad del segmento S1 principalmente. L3/L4 media el reflejo rotuliano (patelar), no el aquíleo. Esta es una confusión clásica en los exámenes de neurología: rotuliano = L3-L4; aquíleo = S1-S2.",
+   "incorrectas": {
+    "A": "Es correcta: el reflejo cremastérico está mediado por los segmentos L1-L2 (nervio genitofemoral), y su abolición indica lesión de estos segmentos o de la vía piramidal.",
+    "B": "Es correcta: el reflejo rotuliano (patelar) está mediado principalmente por L2-L4 (nervio femoral), siendo L3-L4 los segmentos más importantes para este reflejo.",
+    "D": "El reflejo anal está mediado principalmente por S3-S5 (nervio pudendo). Asignar el reflejo anal a L5/S1 puede ser impreciso, pero la opción más claramente incorrecta del conjunto es la C, que asigna el aquíleo a L3/L4."
+   }
+  }
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En la luxación acromioclavicular tipo IV (clasificación de Rockwood y Matsen), señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Rotura de ligamentos acromioclaviculares y coracoclaviculares.",
+   "B": "Rotura de deltoides.",
+   "C": "Rotura de trapecio.",
+   "D": "Luxación anteroinferior."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 87, "tema": "Fracturas extremidades"},
+  "explicacion": {
+   "correcta": "La opción D es INCORRECTA porque en la luxación acromioclavicular tipo IV de Rockwood, la clavícula se luxa en dirección POSTERIOR (hacia atrás, a través del trapecio), no anteroinferior. Esta es la característica definitoria del tipo IV frente al tipo III (que tiene luxación superior). La luxación posterior de la clavícula en el tipo IV puede comprimir estructuras neurovasculares del cuello y generalmente requiere tratamiento quirúrgico.",
+   "incorrectas": {
+    "A": "Es correcta: en la luxación acromioclavicular tipo IV (al igual que en los tipos III, V y VI) existe rotura completa tanto de los ligamentos acromioclaviculares como de los coracoclaviculares.",
+    "B": "Es correcta: en el tipo IV hay afectación del deltoides, que se produce por el desplazamiento posterior de la clavícula que puede desgarrar las fibras musculares.",
+    "C": "Es correcta: la característica del tipo IV es precisamente que la clavícula se desplaza posteriormente atravesando el trapecio, por lo que hay rotura de las fibras del músculo trapecio."
+   }
+  }
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En la intoxicación aguda por digitálicos, señale la respuesta correcta:",
+  "opciones": {
+   "A": "La dosis tóxica es > 2 ng/ml.",
+   "B": "La hiperpotasemia y la hiponatremia favorecen la intoxicación.",
+   "C": "La administración de carbón activado está contraindicada.",
+   "D": "En las bradiarritmias sintomáticas, está contraindicada la Atropina."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 101, "tema": "Intoxicaciones específicas"},
+  "explicacion": {
+   "correcta": "La respuesta correcta es A: la concentración plasmática de digoxina considerada tóxica es mayor de 2 ng/ml (o 2 mcg/L). El rango terapéutico habitual de la digoxina se sitúa entre 0,5 y 2 ng/ml, y por encima de este nivel aumenta significativamente el riesgo de toxicidad, aunque la toxicidad puede aparecer incluso con niveles dentro del rango terapéutico si existen factores predisponentes.",
+   "incorrectas": {
+    "B": "Es falsa: los factores que FAVORECEN la intoxicación digitálica son la hipoKALEMIA (no hiperpotasemia), hipomagnesemia, hipercalcemia, hipoxia e insuficiencia renal. La hiperpotasemia en realidad puede ser una consecuencia de la intoxicación grave (por bloqueo de la Na/K-ATPasa), no su causa.",
+    "C": "Es falsa: el carbón activado NO está contraindicado en la intoxicación por digitálicos; puede usarse en las primeras horas para disminuir la absorción del fármaco si la ingesta ha sido reciente y el paciente está consciente y con vía aérea protegida.",
+    "D": "Es falsa: la atropina NO está contraindicada en las bradiarritmias sintomáticas por intoxicación digitálica; puede utilizarse como tratamiento inicial de las bradiarritmias (bloqueo AV, bradicardia sinusal sintomática), aunque el tratamiento definitivo son los fragmentos Fab antidigoxina."
+   }
+  }
+ }
+]

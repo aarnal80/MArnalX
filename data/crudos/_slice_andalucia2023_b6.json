@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cómo debemos actuar en la primera asistencia con este paciente?",
+  "opciones": {
+   "A": "Administrar doble antiagregación de forma inmediata.",
+   "B": "Estratificación del riesgo isquémico (GRACE) y hemorrágico (CRUSADE).",
+   "C": "Trasladar inmediatamente a Hospital para realización de ECO-cardiografía.",
+   "D": "Monitorizar y realizar ECG de 12 derivaciones."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Una vez que el paciente es trasladado al Servicio de Urgencias Hospitalario, indique la respuesta FALSA:",
+  "opciones": {
+   "A": "Se recomienda realizar un ECG de 12 derivaciones durante los primeros 10 minutos del primer contacto médico, que debe ser interpretado inmediatamente por un médico con experiencia.",
+   "B": "Está recomendada la monitorización continua del ritmo hasta que se establezca o se descarte el diagnóstico de IAMSEST (infarto agudo de miocardio con elevación del ST).",
+   "C": "Se recomienda usar el algoritmo de 0 hora (h)/1 h de la ESC (European Society of Cardiology), con la obtención de muestras de sangre a las 0 h y 1 h si está disponible la determinación de hs-cTn (troponina cardiaca de alta sensibilidad) con un algoritmo validado de 0 h/1 h.",
+   "D": "La ecocardiografía puede sustituir el ECG de 12 derivaciones, estando recomendada para pacientes con parada cardiaca o inestabilidad hemodinámica de origen probablemente cardiovascular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Tras realizar ECG en Urgencias, que se muestra a continuación: Indique la respuesta FALSA en relación al pretratamiento antiagregante plaquetario:",
+  "opciones": {
+   "A": "Está recomendado el pretratamiento de forma rutinaria con un inhibidor del P2Y12 cuando se planea una estrategia invasiva precoz (ICPP intervencionismo percutáneo precoz) en < 24h.",
+   "B": "Se puede administrar Ticagrelor independientemente de la estrategia de tratamiento (invasiva o conservadora) a dosis de carga de 180 mg, seguida de 90 mg 2 veces al día.",
+   "C": "Se debe considerar el uso de Prasugrel, antes que Ticagrelor, para pacientes con SCASEST que se someten a una ICPP (en menos de 24h).",
+   "D": "Dependiendo del riesgo hemorrágico, se puede considerar el pretratamiento con un inhibidor del P2Y12 para pacientes con SCASEST que no pueden someterse a una estrategia invasiva precoz (ICPP) en < 24h."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué tratamiento antiagregante sería el más adecuado si el paciente presenta una escala Grace de 125 puntos, CRUSADE 35 y la ICP (Intervencionismo Coronario Percutáneo) se realiza posterior a las 24h?",
+  "opciones": {
+   "A": "AAS 300 mgr + Clopidogrel 300mgr.",
+   "B": "AAS 300 mgr + Prasugrel 60 mgr.",
+   "C": "AAS 300 mgr + Ticagrelor 180 mgr.",
+   "D": "Sólo AAS 300 mgr."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En relación al tratamiento anticoagulante periprocedimiento, indique la respuesta FALSA:",
+  "opciones": {
+   "A": "Se recomienda seleccionar la anticoagulación según los riesgos isquémico y hemorrágico, además del perfil de eficacia y seguridad del fármaco.",
+   "B": "Para pacientes que se someten a ICP, está recomendada la administración de Heparina No Fraccionada (HNF) durante la ICP con bolo intravenoso ajustado al peso de 70-100 UI/kg.",
+   "C": "Se recomienda el uso de Fondaparinux en el SCASEST, independientemente de cuándo se realice la ICP.",
+   "D": "La Enoxaparina debe considerarse como alternativa a la HNF si la ICP se realiza en menos de 24h. CASO PRACTICO 4: Traen a nuestro Servicio de Urgencias un paciente de 89 años, gran dependiente, institucionalizado en residencia de ancianos por deterioro cognitivo severo, con sondaje permanente por hiperplasia benigna de próstata que le ha provocado varios episodios de retención aguda de orina (RAO). Entre otros antecedentes de interés, diabético tipo 2, dislipémico, EPOC (con episodio de agudización leve hace menos de dos semanas, finalizando tratamiento con Amoxicilina-clavulánico hace 4 días). Derivan por deterioro progresivo del estado general en las últimas 24 horas, menos alerta, con tendencia al sueño, fiebre de 38.2ºC y recorte de diuresis, sin clínica digestiva ni respiratoria aparentes. En la exploración a su llegada destaca mal estado general, tendente al sueño, signos de deshidratación de piel y mucosas, relleno capilar enlentecido. Neurológicamente no presenta focalidad grosera ni signos de meningismo; la auscultación cardiopulmonar y exploración abdominal y ORL son anodinas. Presión arterial (PA) 84/51 mmHg; Frecuencia cardiaca (FC) 110 latidos/minuto; Frecuencia respiratoria (FR): 26 respiraciones/minuto; Saturación Oxígeno (FiO2 ambiente) 94%; Tª 38.4ºC."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál de estas actitudes iniciales NO sería correcta en este caso?",
+  "opciones": {
+   "A": "Canalización de dos vías periféricas e inicio de fluidoterapia.",
+   "B": "Reemplazo de la sonda.",
+   "C": "Solicitud de hemograma, bioquímica, coagulación, orina, gasometría venosa, radiografía de tórax y abdomen, hemocultivos y urocultivos y Ag y ARN de SARS-CoV2.",
+   "D": "Solicitud de TAC craneal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Llegan resultados de las pruebas complementarias: - Hemograma: Leucocitosis (12.500 leuc/microlitro) con neutrofilia. Hemoglobina 11.9 g/dl, Plaquetas 95.000 plaquetas/microlitro. Coagulación: Sin alteraciones. - Bioquímica: Creatinina 3.1 mg/dl, urea 145 mg/dl, PCR 98 mg/l, procalcitonina 4.7 ng/dl. - Gasometría venosa: pH 7,01, pCO2 31 mmHg, bicarbonato 11 mEq/l, EB -6.2, Lactato 7.8 mg/dl. - Orina: Piuria, nitritos positivos. Proteinuria. Glucosuria. Hematuria de 20-25 hematíes/campo. - Rx tórax: Sin hallazgos de interés. - Rx abdomen: Imagen fusiforme de 8 x 3 mm de densidad calcio en región correspondiente a FII. Flebolitos pélvicos. Sin datos de obstrucción. - Ag y ARN SARS-CoV2: Negativos. De las siguientes decisiones, ¿cuál NO sería la correcta?",
+  "opciones": {
+   "A": "Si retiramos la sonda del paciente, no volveremos a sondar para no aumentar la probabilidad de crear una infección urinaria de vías altas.",
+   "B": "Solicitaremos ecografía renal.",
+   "C": "Comenzaremos tratamiento antibiótico empírico precoz (a ser posible en los primeros momentos de atención al paciente).",
+   "D": "Monitorizaremos al paciente en Observación."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Respecto a la selección del tratamiento antibiótico, en este paciente debemos tener en cuenta todos los factores EXCEPTO uno de ellos:",
+  "opciones": {
+   "A": "Tratamiento con antibióticos en los meses previos.",
+   "B": "Portador de sonda vesical permanente.",
+   "C": "Institucionalizado en residencia de ancianos (posible infección relacionada con atención sanitaria).",
+   "D": "Deterioro cognitivo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "En este caso, ¿qué microorganismo habría que considerar como posiblemente implicado en esta infección?",
+  "opciones": {
+   "A": "Enterococcus.",
+   "B": "Pseudomona aeruginosa.",
+   "C": "Enterobacterias productoras de BLEE (β-lactamasas de espectro extendido).",
+   "D": "Todas las anteriores son ciertas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué antibiótico NO seleccionaría (ya sea en monoterapia o en asociación con otros) para este paciente?",
+  "opciones": {
+   "A": "Ertapenem 1 gr intravenoso (iv) cada 24h.",
+   "B": "Fosfomicina disódica 6 gr iv cada 8h.",
+   "C": "Cefepime 1-2 gr iv cada 8-12h.",
+   "D": "Moxifloxacino 400 mg iv cada 24h. CASO PRACTICO 5: Varón de 72 años, independiente, con antecedentes de cardiopatía isquémica en tratamiento con antiagregantes. Llevado en ambulancia de UVI-Móvil a Urgencias del hospital por atropello hace 60 minutos. Ingresa en camilla, con collarín cervical y le han canalizado vía periférica y con extracción de muestras para analítica. El paciente está consciente y orientado, con apertura espontánea de ojos, habla sin dificultad y mueve los brazos con orden. Refiere dolor en región abdominopélvica, que se exacerba a la palpación en hipogastrio y que le limita la movilidad de ambos miembros inferiores. Sudoroso. Relleno capilar 2 segundos Las constantes son: Presión Arterial (PA) 80/40 mmHg, Frecuencia Cardiaca (FC) 120 latidos por minuto (lpm), Saturación de O2 97%, Frecuencia Respiratoria (FR) 20 respiraciones por minuto (rpm). Glucemia 85 mg/dl."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué puntuación tiene según la escala de TRS (Trauma Score Revisado)?",
+  "opciones": {
+   "A": "12 puntos.",
+   "B": "11 puntos.",
+   "C": "10 puntos.",
+   "D": "9 puntos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué tratamiento aplicaría en la evaluación primaria?",
+  "opciones": {
+   "A": "Soluciones cristaloides isotónicas 1,5 litros en 20 minutos.",
+   "B": "Ácido Tranexámico 1g en 10 minutos.",
+   "C": "Cinturón pélvico.",
+   "D": "Todos los anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué procedimientos complementarios solicitaría en la evaluación primaria?",
+  "opciones": {
+   "A": "Radiología de tórax y pelvis.",
+   "B": "Ecografía FAST.",
+   "C": "TC abdominopélvico.",
+   "D": "Las opciones A) y B) son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "A los 10 minutos, el paciente muestra sudoración profusa. Relleno capilar 3 segundos. Las constantes ahora son: PA 70/30 mmHg, FC 140 lpm, SO2 95%, FR 29 rpm. Glucemia 75 mg/dl. ¿Qué medida estaría indicada?",
+  "opciones": {
+   "A": "Añadir soluciones glucosadas, para corregir la hipoglucemia.",
+   "B": "Añadir soluciones coloides, hasta llegada de resultados de analítica.",
+   "C": "Añadir fármacos vasopresores.",
+   "D": "Ninguna de las anteriores."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "El paciente evoluciona favorablemente. Relleno capilar < 2 segundos. Las constantes son: PA 120/60 mmHg, FC 100 lpm, SO2 97%. Los hallazgos de las pruebas de imagen muestran fractura de sínfisis de pubis y de ramas isquio e iliopubianas izquierdas, sin otros hallazgos. ¿Qué actitud estaría indicada?",
+  "opciones": {
+   "A": "Tomografía Axial Computarizada abdominopélvica.",
+   "B": "Laparatomía.",
+   "C": "Angiografía.",
+   "D": "Punción lavado peritoneal. CASO PRACTICO 6: Varón de 21 años que es trasladado a Urgencias por ingesta hace 6 horas, de una cantidad aproximada de 30 comprimidos de un fármaco prescrito por depresión que no sabe precisar. Exploración física: A (vía aérea permeable), B (oxigenación y ventilación adecuada, saturación de O2 98%), C (auscultación cardio-respiratoria normal, FC 120 lpm, presión arterial 90/60 mmHg, buen relleno capilar), D (escala de Glasgow 15 puntos, pupilas midriáticas, glucemia 85 mg/dl), E (Temperatura 38ºC)."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué actitud es la correcta?",
+  "opciones": {
+   "A": "Vaciado del contenido gástrico mediante lavado-orogástrico.",
+   "B": "Carbón activado de forma sistemática e incluso en dosis repetidas.",
+   "C": "Canalización de vía venosa periférica e infusión de solución salina a un ritmo inicial de 2.000 ml/hora.",
+   "D": "Todas son actuaciones correctas."
+  },
+  "respuesta_correcta": "ANULADA"
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué antídoto estaría indicado en esta intoxicación?",
+  "opciones": {
+   "A": "Fisostigmina.",
+   "B": "Flumazenilo.",
+   "C": "Atropina.",
+   "D": "Ninguno de las anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "Durante su estancia en Urgencias, el paciente presenta una crisis convulsiva autolimitada. Se le realiza un electrocardiograma de 12 derivaciones, que muestra un registro compatible con una taquicardia regular, con QRS 0.16 segundos, a una frecuencia de 180 sístoles por minuto. Mantiene pulso, aunque muy débil. ¿Qué fármaco es el de elección para tratar inicialmente esta arritmia en esta situación?",
+  "opciones": {
+   "A": "Atenolol por vía intravenosa (i.v.)",
+   "B": "Amiodarona i.v.",
+   "C": "Bicarbonato i.v.",
+   "D": "Adenosina i.v."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Qué medida terapéutica es la de elección, si persiste taquicardia ventricular tras la administración del fármaco anterior?",
+  "opciones": {
+   "A": "Lidocaina i.v.",
+   "B": "Procainamida i.v.",
+   "C": "Verapamilo i.v.",
+   "D": "Flecainida i.v."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "El paciente presenta nuevo episodio convulsivo. ¿Qué fármaco NO estaría indicado para el control de las crisis convulsivas?",
+  "opciones": {
+   "A": "Midazolam.",
+   "B": "Difenilhidantoína.",
+   "C": "Lidocaína.",
+   "D": "Valproato sódico. CASO PRÁCTICO 7: Varón de 66 años que consulta por palpitaciones de 12 horas de evolución asociadas a disconfort centrotorácico. Hipertensión arterial en tratamiento con Losartán 50 mg. Diabetes mellitus en tratamiento dietético. No otros antecedentes de interés. Al ingreso en Urgencias, Presión arterial: 170/85 mmHg, Temperatura 36.5ºC, eupneico. Auscultación cardiopulmonar: taquiarritmia sin soplos. No ruidos pulmonares patológicos. No edemas en miembros inferiores ni signos de trombosis venosa profunda. Se muestra el ECG de 12 derivaciones:"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "¿Cuál es el diagnóstico electrocardiográfico?",
+  "opciones": {
+   "A": "Taquicardia sinusal.",
+   "B": "Flúter auricular.",
+   "C": "Fibrilación auricular con respuesta ventricular rápida.",
+   "D": "Síndrome de Wolff-Parkinson-White."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+  "enunciado": "El manejo inicial del paciente, óptimo en la situación actual, es:",
+  "opciones": {
+   "A": "Estrategia de control de frecuencia cardiaca y derivación a Cardiología para estudio.",
+   "B": "Administración de 6 mg de Adenosina i.v. para realizar diagnóstico.",
+   "C": "Control de frecuencia cardiaca mientras se realizan pruebas complementarias, y si persiste el trastorno ECG, valorar estrategia de restauración a ritmo sinusal.",
+   "D": "Administración de Amiodarona i.v. para tratamiento definitivo."
+  },
+  "respuesta_correcta": "C"
+ }
+]

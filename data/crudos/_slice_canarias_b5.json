@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En la primera crisis de vértigo que no se autolimita en 24 horas ¿qué es CIERTO?",
+  "opciones": {
+   "A": "Los infartos cerebrales que no afectan a la arteria cerebral posterior ni a la arteria cerebelosa también producen vértigo.",
+   "B": "Dentro de las primeras 24-48 horas la anamnesis y la exploración física tiene más importancia en el diagnóstico que la tomografía computarizada (TC) y la resonancia magnética (RMN-DWI).",
+   "C": "El síndrome vestibular agudo tiene en la neuritis vestibular y el infarto del tronco encefálico o cerebelo sus presentaciones más frecuentes en Urgencias.",
+   "D": "Todas son ciertas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Entre las siguientes presentaciones de una primera crisis de vértigo cuál NO es característica de un origen cerebeloso o tronco encefálico?",
+  "opciones": {
+   "A": "Otalgia",
+   "B": "Nistagmo alternante",
+   "C": "Ataxia",
+   "D": "Focalidad neurológica sobre todo si es instauración progresiva"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un varón de 39 años sin AP de interés es traído al Servicio de Urgencias Hospitalario (SUH) en una ambulancia de soporte vital básico porque tras una comida presenta náuseas, vómitos y ahora sin síntomas y refiere que se empezó a sentir mal y ya no se acuerda de nada más, solo que despertó y le han dicho que se desmayó durante un minuto, sin traumatismo y se recuperó totalmente. Como médico de urgencias ¿cuál de las siguientes considera que NO es una actitud prudente?",
+  "opciones": {
+   "A": "Si el paciente está consciente, orientado y colaborador no es necesario recabar la información de testigos.",
+   "B": "Siempre tener los datos TA, FC, FR TºC y SatO2 y no olvidarse de la Glucemia.",
+   "C": "Mantener en observación o incluso ingresar si esa pérdida transitoria de conocimiento fue precedida de palpitaciones",
+   "D": "Debe plantear el ingreso u observación prolongada si se acompaña de dolor torácico, disnea o cefalea."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Dentro de la definición del síndrome de distrés respiratorio agudo (SDRA), señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Es debido a una alteración de la membrana capilar pulmonar.",
+   "B": "Radiológicamente se objetivan opacidades bilaterales no explicadas por derrame pleural, atelectasia o nódulos pulmonares.",
+   "C": "Es necesario que exista una presión de oclusión de la arteria pulmonar (POAP) >18 mmHg.",
+   "D": "El cociente PaO2/FiO2 debe ser menor o igual a 200 mmHg."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un paciente ingresado por pancreatitis aguda, comienza con taquipnea, taquicardia, sudoración y cianosis progresiva. La PaO2 es de 55 mmHg (cociente PaO2/FiO2 <200 mmHg). La radiografía de tórax muestra infiltrados alveolares bilaterales. La presión de enclavamiento capilar pulmonar es normal. La oxigenoterapia no mejora la situación. ¿Qué diagnóstico es el más probable?",
+  "opciones": {
+   "A": "Neumonía nosocomial.",
+   "B": "Insuficiencia cardiaca.",
+   "C": "Tromboembolismo pulmonar.",
+   "D": "Distrés respiratorio."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En un paciente que acude con una crisis asmática, ¿cuál de los siguientes hallazgos es el que indica peor evolución?",
+  "opciones": {
+   "A": "Silencio auscultatorio.",
+   "B": "Taquipnea.",
+   "C": "Espiración prolongada.",
+   "D": "Presencia de sibilancias a la auscultación."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un paciente asmático de 55 años acude a Urgencias con una agudización. Una hora después de la administración de oxígeno suplementario y dos nebulizaciones de salbutamol el paciente no mejora. A la exploración respira a 42 rpm con tiraje supraclavicular y presenta sibilancias inspiratorias y espiratorias diseminadas. El flujo pico ha bajado de 310 a 220 l/ min. Una gasometría extraída con oxígeno al 28% muestra una pO2 de 54 mmHg y una pCO2 de 35 mmHg. ¿Cuál de las siguientes actitudes le parece MENOS indicada?",
+  "opciones": {
+   "A": "Aumentar el flujo de oxígeno.",
+   "B": "Administrar 80 mg de metilprednisolona i.v.",
+   "C": "Nebulizar bromuro de ipratropio junto con salbutamol cada 20 minutos.",
+   "D": "Iniciar ventilación mecánica no invasiva."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 72 años con antecedentes de EPOC con obstrucción grave al flujo aéreo, con dos exacerbaciones graves en el último año, que acude a urgencias con taquipnea y uso de musculatura accesoria. Está alerta. En la gasometría arterial basal se objetiva: pH 7,29, PaCO2 68 mmHg, PaO2 51 mmHg. Se inicia tratamiento broncodilatador, esteroideo, antibioterapia empírica y se ajusta la oxigenoterapia para conseguir una SatO2 entre 88 y 92%. Tras una hora repite la gasometría arterial con gafas nasales a 2 lpm y presenta pH 7,28, PaCO2 70 mmHg, PaO2 62 mmHg. Señale la actuación correcta:",
+  "opciones": {
+   "A": "Iniciar ventilación mecánica no invasiva.",
+   "B": "Proceder a la intubación orotraqueal e iniciar ventilación mecánica.",
+   "C": "Incrementar la oxigenoterapia hasta obtener una SatO2 de al menos 99%.",
+   "D": "Combinar benzodiacepinas con altos flujos de oxígeno para asegurar una disminución de la taquipnea y mejorar el patrón ventilatorio."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre la broncoaspiración ¿Cuál de las siguientes afirmaciones es CIERTA?",
+  "opciones": {
+   "A": "El sondaje nasogástrico u orogástrico está indicado en pacientes ancianos o con disminución del nivel de consciencia o alteraciones de la deglución",
+   "B": "Un esputo de buena calidad se define por la presencia de más de 25 leucocitos por campo y menos de 10 células de epitelio escamoso",
+   "C": "La neumonía aspirativa se recomienda tratar empíricamente amoxicilina/clavulánico 2 g/8 h y si existe gravedad con ertapenem 1 g/24 h",
+   "D": "Todas son ciertas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "El médico de salvamento marítimo valora a un varón adulto joven del que desconoce su estado de vacunación, que durante la travesía de 4 días presentó un cuadro catarral y desde hoy está con fiebre termometrada de 40ºC, mal estado general, ausencia de tos con estridor inspiratorio, tiraje supraclavicular marcado, aleteo nasal, cuello extendido, boca abierta con sialorrea y babeo ¿Cuál de las siguientes es CIERTA?",
+  "opciones": {
+   "A": "El depresor lingual confirma el diagnóstico clínico, a pesar del intenso dolor de garganta la faringe tiene un aspecto normal.",
+   "B": "Debe mantener al paciente sentado y evitar el decúbito.",
+   "C": "Debe administrar un antiinflamatorio y ceftriaxona 1-2 g intravenoso.",
+   "D": "Todas son ciertas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Una de las siguientes intervenciones NO ha demostrado influir en la evolución de los pacientes con EPOC:",
+  "opciones": {
+   "A": "Oxigenoterapia en pacientes con hipoxemia crónica.",
+   "B": "Cirugía de reducción de volumen en pacientes seleccionados con enfisema.",
+   "C": "Tratamiento con N-acetilcisteína.",
+   "D": "Interrupción del tabaquismo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Hombre de 73 años de edad, ex fumador, antecedentes de HTA, obesidad grado II, diabetes tipo 2 y EPOC grave con oxigenoterapia crónica domiciliaria. Acude a Urgencias por aumento progresivo de su disnea habitual, expectoración purulenta y temperatura de 37.9 ºC de 4 días de evolución. Su médico de cabecera le había prescrito 2 días antes moxifloxacino, paracetamol, deflazacort, aerosolterapia y aumento del flujo de oxígeno. A la exploración física el paciente se encuentra con regular estado general, consciente, tendencia al sueño, taquipneico a 28 rpm y utilización de musculatura accesoria, temperatura 38,2 ºC, saturación de oxígeno de 87%, TA 115/62 mmHg, frecuencia cardiaca 110 lpm; murmullo vesicular disminuido globalmente, sibilancias y la analítica destaca leucocitosis 16.500/uL con 14.900 neutrófilos, hemoglobina 14 g/dL, glucosa 240 mg/dL, urea 56 mg/dL, creatinina 1.3 mg/dL, Na 133 mEq/L, K 3.7 mEq/L. En el ECG se objetiva taquicardia sinusal. La gasometría arterial muestra: pH 7,29, pCO2 64 mmHg, pO2 59 mmHg, HCO3 28 mg/dL. En la radiografía de tórax no se aprecia condensación ni derrame pleural. ¿Cuál de las siguientes opciones de manejo clínico instauraría en primer lugar?",
+  "opciones": {
+   "A": "Iniciar tratamiento con diuréticos intravenosos, oxígeno con mascarilla a alto flujo al 50% y seguir con el resto de tratamiento ya prescrito.",
+   "B": "Iniciar tratamiento con aerosoles de salbutamol y esteroides, añadir al tratamiento antibiótico una cefalosporina, intensificar la oxigenoterapia con oxígeno en gafas nasales a 4 litros por minuto y mantener deflazacort.",
+   "C": "Iniciar tratamiento de la acidosis con bicarbonato 1M, corregir la hiperglucemia, mantener tratamiento antibiótico y prescribir esteroides más diuréticos intravenosos.",
+   "D": "Iniciar el tratamiento con ventilación mecánica no invasiva (modo presión positiva de dos niveles), prescribir aerosoles de salbutamol y esteroides intravenosos y mantener tratamiento antibiótico por vía intravenosa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un paciente con EPOC grave acude agudizado a Urgencias y presenta una gasometría arterial extraída con FiO2 del 31% a nivel del mar con una PaO2 de 86 mmHg, PaCO2 65 mmHg, pH 7,13 y Bicarbonato de 27 mmol/litro. ¿Cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+   "A": "El paciente está hiperventilando.",
+   "B": "El gradiente alveoloarterial de oxígeno está elevado.",
+   "C": "El paciente está en acidosis respiratoria.",
+   "D": "Se debería considerar iniciar ventilación mecánica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La causa más frecuente de hemoptisis leve-moderada es:",
+  "opciones": {
+   "A": "Bronquiectasias.",
+   "B": "Carcinoma broncogénico.",
+   "C": "Infarto pulmonar.",
+   "D": "Neumonía."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 35 años, trasladado a urgencias tras un accidente de tráfico. A su ingreso se observa una puntuación en la escala de Glasgow de 15, tensión arterial de 140/90 mmHg, frecuencia respiratoria de 35 rpm y frecuencia cardiaca de 110 lpm, con una saturación de oxígeno basal del 91%. En la exploración hay hipofonesis torácica derecha y timpanismo a la percusión. ¿Cuál es el diagnóstico de presunción?",
+  "opciones": {
+   "A": "Taponamiento cardíaco traumático.",
+   "B": "Neumotórax a tensión derecho.",
+   "C": "Hemotórax masivo derecho.",
+   "D": "Contusión pulmonar."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Un hombre de 38 años acude a urgencias por disnea progresiva y tos seca de una semana de evolución. No tiene antecedentes de interés. Las constantes vitales son: temperatura 37,8 ºC, presión arterial 110/70 mmHg, frecuencia cardiaca 105 lpm y frecuencia respiratoria 30 rpm. En la exploración respiratoria destaca matidez a la percusión, disminución del frémito táctil (vocal) y disminución de los ruidos respiratorios en la base del hemitórax derecho. El resto de la exploración física es normal. ¿Cuál es el diagnóstico más probable?",
+  "opciones": {
+   "A": "Derrame pleural.",
+   "B": "Neumonía lobar.",
+   "C": "Bronquitis aguda.",
+   "D": "Neumotórax."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "De las siguientes enfermedades, una de ellas puede manifestarse con ausencia de pulso venoso yugular:",
+  "opciones": {
+   "A": "Pericarditis constrictiva.",
+   "B": "Síndrome de vena cava superior.",
+   "C": "Insuficiencia tricúspide.",
+   "D": "Insuficiencia cardiaca."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Sobre el síndrome de vena cava superior (SVCS) ¿cuál de las siguientes es FALSA?",
+  "opciones": {
+   "A": "El tratamiento con dexametasona no está indicado.",
+   "B": "La incidencia del SVCS debido a la trombosis asociada a catéter venoso central ha aumentado su incidencia.",
+   "C": "Las neoplasias son la causa principal del SVCS.",
+   "D": "La anticoagulación solo está indicada si existe trombosis."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Mujer de 27 años acude a Urgencias con tos no productiva, fiebre y dolor pleurítico de un mes de evolución. En la radiografía de tórax se objetiva un derrame pleural izquierdo. El análisis del líquido pleural muestra un exudado linfocítico con pH 7,32, glucosa 66 mg/dL y adenosin-deaminasa 59 U/L. ¿Cuál es la etiología más probable?",
+  "opciones": {
+   "A": "Insuficiencia cardiaca.",
+   "B": "Síndrome de Meigs.",
+   "C": "Quilotórax.",
+   "D": "Tuberculosis pleural."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Al introducir un drenaje torácico por el tercer espacio intercostal-línea media clavicular como tratamiento del neumotórax espontáneo, ¿qué estructuras atravesará para conseguir la reexpansión pulmonar?",
+  "opciones": {
+   "A": "Piel - tejido subcutáneo-músculo dorsal ancho - musculatura intercostal - pleura visceral.",
+   "B": "Piel - tejido subcutáneo - músculo serrato lateral - musculatura intercostal - pleura parietal.",
+   "C": "Piel - tejido subcutáneo - musculatura pectoral - musculatura intercostal - pleura parietal.",
+   "D": "Piel - tejido subcutáneo - músculo infraespinoso - musculatura intercostal - pleura parietal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Entre las siguientes situaciones indique cuál de ellas NO requiere un drenaje torácico como tratamiento de elección:",
+  "opciones": {
+   "A": "Neumotórax espontáneo primario derecho del 50% en paciente de 30 años con saturación basal de 89% y dolor sobre hemitórax derecho.",
+   "B": "Hombre de 59 años de edad con semiología –24– radiológica de velamiento de todo el hemitórax izquierdo con desplazamiento mediastínico contralateral, hipotensión de 70/40 mm de Hg y frecuencia cardiaca de 120 latidos por minuto, tras accidente de tráfico.",
+   "C": "Paciente de 67 años con adenocarcinoma pulmonar de tercio distal del bronquio principal derecho con extensión sobre bronquio intermediario con obstrucción completa de lóbulo inferior derecho y lóbulo medio que presenta disnea a grandes esfuerzos y semiología radiológica de velamiento del tercio inferior del hemitórax derecho con desplazamiento ipsilateral mediastínico.",
+   "D": "Paciente fumador de 45 años con neumonía neumocócica de lóbulo superior izquierdo e hipofonesis basal izquierda en la auscultación. Radiológicamente derrame pleural ipsilateral que ocupa tercio inferior del hemitórax izquierdo y toracocentesis diagnóstica con pH del líquido pleural de 6,7."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "La práctica de una radiografía posteroanterior de tórax en espiración forzada es de gran utilidad para el diagnóstico de:",
+  "opciones": {
+   "A": "Derrame pleural loculado.",
+   "B": "Neumotórax mínimo.",
+   "C": "Hemotórax.",
+   "D": "Atelectasia pulmonar."
+  },
+  "respuesta_correcta": "B"
+ }
+]

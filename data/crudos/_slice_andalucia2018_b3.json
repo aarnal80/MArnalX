@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto del síndrome de lisis tumoral señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Cuadro que aparece a la semana de haber administrado tratamiento quimioterápico.",
+   "B": "Los sintomatología incluye nauseas, vómitos, confusión, convulsiones y arritmias.",
+   "C": "El tratamiento basal incluye rehidratación y furosemida.",
+   "D": "La rasburicasa suele ir mejor que el alopurinol para control de hiperuricemia y la insuficiencia renal."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto del síndrome neuroléptico maligno señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Reacción idiosincrásica impredecible con fiebre elevada, rigidez intensa y alteración de la conciencia. Se acompaña de sintomatología vegetativa.",
+   "B": "Es un síndrome relacionado con la toma de neurolépticos.",
+   "C": "Se trata de un cuadro progresivo.",
+   "D": "El tratamiento consiste en retirada del fármaco, tratamiento hipertermia con hidratación y medidas físicas y Diazepam."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Un paciente presenta perdida brusca de visión por un ojo apreciando en fondo de ojo retina blanquecina con macula rojiza. ¿Qué le sugiere?",
+  "opciones": {
+   "A": "Neuritis óptica",
+   "B": "Desprendimiento de retina.",
+   "C": "Neuritis óptica isquémica anterior.",
+   "D": "Obstrucción arteria central de la retina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto de la parálisis facial periférica señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La forma idiopática (Bell) se trata con corticoides 1 mgrs/di en pauta descendente durante 15 días.",
+   "B": "La presencia de ampollas en Confucto Auditivo Externo obliga a iniciar tratamiento con Aciclovir.",
+   "C": "La presencia de sordera unilateral es frecuente en la forma idiopática.",
+   "D": "La fiebre elevada es un síntoma de alarma indicativo de causa secundaria."
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Antes un paciente con latigazo cervical señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "La ausencia de dolor en la exploración de la línea medio posterior a la palpación con buen nivel de conciencia no requieren estudio Radiológico.",
+   "B": "Un paciente con estudio radiológico normal y sin signos de focalidad neurológica puede ser tratado con collarín cervical y ser dado de alta.",
+   "C": "La radiografía cervical lateral debe visualizar hasta carilla superior de C7.",
+   "D": "El collarín cervical no debe mantenerse mas de 72 horas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál de los siguientes no se considera criterio anatómico de gravedad en un politraumatizado?",
+  "opciones": {
+   "A": "Tórax basculante.",
+   "B": "Fractura de pelvis.",
+   "C": "Quemaduras mas de 10% de superficie.",
+   "D": "Fractura cerrada de hueso largo."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto del síndrome de la Cauda Equina, señale la respuesta verdadera:",
+  "opciones": {
+   "A": "Existe Parálisis flácida distal (pies).",
+   "B": "Hay hipoestesia en silla de montar.",
+   "C": "El reflejo aquíleo está aumentado.",
+   "D": "Hay afectación esfinteriana."
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Que actuación no debe realizarse ante un neumotórax abierto:",
+  "opciones": {
+   "A": "Cierre con apósito vaselinizado dejando un lado abierto.",
+   "B": "Colocación de drenaje en lugar alejado diferente a la lesión.",
+   "C": "Cierre de la herida dejando un drenaje a su través.",
+   "D": "Cierre quirúrgico de la herida tras colocar un drenaje en otro lado alejado."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál es el antiarrítmico de elección en la fibrilación ventricular refractaria a tres descargas eléctricas si no se dispone de amiodarona?",
+  "opciones": {
+   "A": "Procainamida",
+   "B": "Lidocaína",
+   "C": "Atenolol.",
+   "D": "Magnesio"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Si usted ve que han sacado a un niño de 2 años de una la piscina, tras verificar la inconsciencia y comprobar que no respira, ¿qué actitud sería la primera a realizar?",
+  "opciones": {
+   "A": "Compresiones torácicas.",
+   "B": "Darle 5 golpes en la espalda.",
+   "C": "Realizar 5 insuflaciones de rescate.",
+   "D": "Abrir la vía aérea, mediante la maniobra frente-mentón."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál es el orden de actuación ante un varón de 68 años que ha sido atropellado y presenta bajo nivel de consciencia con escala de Glasgow de 4, inestabilidad hemodinámica y midriasis arreactiva derecha?",
+  "opciones": {
+   "A": "Con estricto control de la columna cervical, intubación, ventilación, TAC craneal, estabilización hemodinámica.",
+   "B": "Con estricto control de la columna cervical, intubación, ventilación, estabilización hemodinámica, búsqueda del origen del sangrado.",
+   "C": "Estabilización hemodinámica, intubación, ventilación, TAC craneal.",
+   "D": "Ninguna de las anteriores."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto al prolapso rectal, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Es más frecuente en varones.",
+   "B": "Produce sensación de masa anal y expulsión de sangre por recto.",
+   "C": "Se acompaña de estreñimiento.",
+   "D": "El elemento básico del tratamiento es la corrección quirúrgica."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Qué fármaco no está indicado como fármaco de primera línea en el edema agudo de pulmón?",
+  "opciones": {
+   "A": "Morfina.",
+   "B": "Furosemida.",
+   "C": "Vasopresores",
+   "D": "Vasodilatadores si TAS>90mmHg y no existe valvulopatía obstructiva importante."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Los siguientes son criterios de buena práctica clínica en el síndrome coronario agudo, excepto uno:",
+  "opciones": {
+   "A": "Administración de AAS en el ámbito extrahospitalario.",
+   "B": "Administración de Nitroglicerina SL en el ámbito prehospitalario.",
+   "C": "Trombolisis precoz.",
+   "D": "Realización de EKG pasados 10 minutos de su llegada al centro."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál sería la energía recomendada para desfibrilar a un niño de 30 Kg con Taquicardia Ventricular?",
+  "opciones": {
+   "A": "120 Julios para descarga inicial y las siguientes.",
+   "B": "30 Julios en el primer choque y 60 Julios en los demás.",
+   "C": "30 Julios en todos los choques.",
+   "D": "60 Julios en todos los choques."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto a los factores precipitantes de un síncope, ¿cuál es la respuesta incorrecta?",
+  "opciones": {
+   "A": "A veces el desencadenante es el cambio postural, como ocurre en el mixoma auricular.",
+   "B": "Los movimientos del cuello pueden ocasionarlo por hipersensibilidad del seno carotídeo.",
+   "C": "En el síndrome del robo de la subclavia se puede producir por los movimientos del miembro superior izquierdo.",
+   "D": "El ajuste de la corbata nunca puede desencadenar un síncope."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál no sería un criterio clínico de gravedad en la agudización de la EPOC?",
+  "opciones": {
+   "A": "Cianosis intensa.",
+   "B": "Frecuencia cardiaca > 110 lpm.",
+   "C": "Frecuencia respiratoria > 25 rpm.",
+   "D": "Fiebre."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Indique qué no está indicado realizar en una crisis asmática:",
+  "opciones": {
+   "A": "Gasometría arterial.",
+   "B": "Administrar O2 para conseguir SO2 > 95% en el embarazo.",
+   "C": "Monitorización de FC y SO2.",
+   "D": "Administrar Beta2 inhalados."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la respuesta incorrecta respecto a la atención al TCE por los equipos de soporte vital avanzado/061.",
+  "opciones": {
+   "A": "Asegurar el ABCDE, mantener la alineación entre cabeza - cuello - tronco y posición de Trendelemburg a 30º (salvo en caso de shock).",
+   "B": "No utilizar hiperventilación de forma rutinaria, evitar las soluciones glucosadas e hipotónicas y tratar activamente la temperatura > 37º.",
+   "C": "Evitar y controlar la agitación, mantener la homeostasis electrolítica y tratar la hiperglucemia / hipoglucemia.",
+   "D": "Se debe administrar Manitol al 20% cuando hay signos de herniación o sobreviene deterioro neurológico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "De las siguientes enunciados señale la respuesta incorrecta en un traumatismo abdominal:",
+  "opciones": {
+   "A": "El signo de las orejas de perro indica ocupación del espacio perivesical, como dato indirecto.",
+   "B": "La ecografía abdominal tiene alta sensibilidad para la detección de líquido intraperitoneal, lo que la convierte en la técnica de elección en el paciente inestable.",
+   "C": "La RMN tiene mayor utilidad que el TAC en traumatizados en fase aguda, excepto para diagnosticar roturas diafragmáticas.",
+   "D": "La arteriografía puede ser indicación para evitar la cirugía en sangrado pélvico, renal o mesentérico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En la necrólisis epidérmica tóxica señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "En la mayoría de los casos se desencadena por infecciones y en menor cuantía por fármacos.",
+   "B": "El signo de Nikolsky es positivo.",
+   "C": "El diagnóstico es clínico e histiológico.",
+   "D": "Las lesiones suelen comenzar en cara, tronco superior y extremidades y se extienden rápidamente al resto del cuerpo."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Respecto a la artritis gonocócica señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Se presenta como una manifestación de la infección diseminada de Neisseria gonorrhoeae.",
+   "B": "Es la artritis infecciosa más rara en las personas sexualmente activas.",
+   "C": "Existen condiciones relacionados con mayor comorbilidad como el lupus eritematoso sistémico, el uso de drogas intravenosas o la infección por VIH.",
+   "D": "Es una artritis monoarticular asociada comúnmente con hemocultivos negativos y cultivos de líquido sinovial positivos, que permite aislar el microorganismo, aportando no solo un diagnóstico definitivo sino la información de la antibioterapia más correcta."
+  },
+  "respuesta_correcta": "B"
+ }
+]

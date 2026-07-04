@@ -1,0 +1,515 @@
+[
+  {
+    "id_examen": 1,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "De conformidad con el Estatuto de Autonomía de Andalucía, la orientación y el impulso de la acción del Consejo de Gobierno es función que corresponde:",
+    "opciones": {
+      "A": "En todo caso al Presidente/a de la Junta de Andalucía",
+      "B": "Al propio Consejo de Gobierno",
+      "C": "A lo/as Consejero/as en sus respectivas competencias",
+      "D": "Al Parlamento de Andalucía"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 2,
+      "tema": "Competencias en salud recogidas en el Estatuto de Autonomía. Las Cortes de Aragón. El Gobierno de Aragón."
+    },
+    "explicacion": {
+      "correcta": "Según el Estatuto de Autonomía de Andalucía, la orientación y el impulso de la acción del Consejo de Gobierno corresponde al Parlamento de Andalucía, que es el órgano de control y dirección política superior de la Comunidad Autónoma. El Parlamento ejerce la función de impulso político y control del ejecutivo autonómico.",
+      "incorrectas": {
+        "A": "El Presidente de la Junta dirige y coordina el Consejo de Gobierno, pero no es a quien corresponde la orientación e impulso de su acción según el Estatuto.",
+        "B": "El Consejo de Gobierno ejerce la función ejecutiva y reglamentaria, pero no se orienta e impulsa a sí mismo; esa función recae en el Parlamento.",
+        "C": "Los Consejeros dirigen sus respectivas consejerías, pero no tienen la función de orientar e impulsar la acción del Consejo de Gobierno en su conjunto."
+      }
+    }
+  },
+  {
+    "id_examen": 2,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El IV Plan Andaluz de Salud es el vigente en la actualidad y ha sido diseñado para el periodo:",
+    "opciones": {
+      "A": "2013-2017",
+      "B": "2013-2018",
+      "C": "2013-2019",
+      "D": "2013-2020"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 9,
+      "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+    },
+    "explicacion": {
+      "correcta": "El IV Plan Andaluz de Salud fue aprobado para el periodo 2013-2020, estableciendo los objetivos y prioridades de salud de la Comunidad Autónoma de Andalucía durante ese horizonte temporal de ocho años. Este plan recoge las estrategias para mejorar la salud de la población andaluza y reducir desigualdades.",
+      "incorrectas": {
+        "A": "El periodo 2013-2017 es incorrecto; el plan tiene un alcance temporal mayor, hasta 2020.",
+        "B": "El periodo 2013-2018 no corresponde al diseño oficial del IV Plan Andaluz de Salud.",
+        "C": "El periodo 2013-2019 tampoco es correcto; el año de finalización establecido es 2020."
+      }
+    }
+  },
+  {
+    "id_examen": 3,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El Estatuto Marco del personal estatutario no contempla entre las situaciones administrativas de los profesionales que regula, la de:",
+    "opciones": {
+      "A": "Servicios de gestión clínica",
+      "B": "Servicios bajo otro régimen jurídico",
+      "C": "Excelencia voluntaria por agrupación familiar",
+      "D": "Excedencia forzosa"
+    },
+    "respuesta_correcta": null,
+    "clasificacion_temario": {
+      "id": 15,
+      "tema": "Clasificación del personal estatutario. Derechos y deberes. Adquisición y pérdida de la condición de personal estatutario."
+    },
+    "explicacion": {
+      "correcta": "Pregunta anulada en el examen oficial.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 4,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "De conformidad con la Ley 41/2002, básica reguladora de la autonomía del paciente, cuando haya que disponer el alta forzosa de un paciente porque no acepta el tratamiento prescrito, la decisión la adoptará:",
+    "opciones": {
+      "A": "El médico responsable de la asistencia",
+      "B": "La dirección del centro a propuesta del médico responsable",
+      "C": "La dirección del centro sin necesidad de propuesta alguna",
+      "D": "La autoridad judicial"
+    },
+    "respuesta_correcta": null,
+    "clasificacion_temario": {
+      "id": 12,
+      "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+    },
+    "explicacion": {
+      "correcta": "Pregunta anulada en el examen oficial.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 5,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La vigilancia de la salud de los trabajadores en relación con los riesgos derivados del trabajo se realizará, dependiendo del nivel funcional de la Unidad de Prevención constituida en el ámbito, con arreglo a lo siguiente:",
+    "opciones": {
+      "A": "Trabajadores de Centros con Unidad de Prevención Nivel 1. La vigilancia de la salud será asumida directamente por el Servicio de Medicina Preventiva.",
+      "B": "Trabajadores de Centros con Unidad de Prevención Nivel 1. La vigilancia de la salud será asumida directamente por el Médico de Familia del profesional.",
+      "C": "Trabajadores de Centros con Unidad de Prevención de Nivel 2 o Nivel 3. El Servicio de Medicina Preventiva asumirá la responsabilidad de la ejecución de las actividades y funciones de vigilancia y control de la salud de los trabajadores contando para ello con la colaboración del resto de las especialidades básicas, médicas y quirúrgicas del centro.",
+      "D": "Trabajadores de Centros con Unidad de Prevención de Nivel 2. El Servicio de Medicina Preventiva asumirá la responsabilidad de la ejecución de las actividades y funciones de vigilancia y control de la salud de los trabajadores contando para ello con la colaboración del Centro de Prevención de Riesgos Laborales de su provincia."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 11,
+      "tema": "Ley 44/2003 de Ordenación de las Profesiones Sanitarias. Ámbito de aplicación, contenidos."
+    },
+    "explicacion": {
+      "correcta": "En los centros con Unidades de Prevención de Nivel 2 o Nivel 3, el Servicio de Medicina Preventiva asume la responsabilidad de la vigilancia y control de la salud de los trabajadores, contando con la colaboración de las especialidades básicas, médicas y quirúrgicas del propio centro. Este modelo descentralizado garantiza una vigilancia integral y adecuada a la complejidad asistencial del centro.",
+      "incorrectas": {
+        "A": "En los centros con Nivel 1, la vigilancia de la salud no la asume directamente el Servicio de Medicina Preventiva, sino que se recurre a servicios de prevención ajenos o mancomunados.",
+        "B": "La vigilancia de la salud laboral no corresponde al Médico de Familia del profesional, sino a los servicios de prevención o de Medicina Preventiva del centro.",
+        "D": "La opción D es incorrecta porque limita el supuesto solo a Nivel 2 y menciona el Centro de Prevención de Riesgos Laborales provincial, cuando en realidad la colaboración es con las especialidades del propio centro."
+      }
+    }
+  },
+  {
+    "id_examen": 6,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguientes muestreos es de tipo no probabilístico?",
+    "opciones": {
+      "A": "Muestreo sistemático",
+      "B": "Muestreo estratificado",
+      "C": "Muestreo de casos consecutivos",
+      "D": "Muestreo aleatorio simple"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 27,
+      "tema": "El método epidemiológico. Epidemiología descriptiva: tipos de estudios, tasas e indicadores. Epidemiología analítica: tipos de estudios."
+    },
+    "explicacion": {
+      "correcta": "El muestreo de casos consecutivos es no probabilístico porque los participantes se incluyen secuencialmente según van llegando o siendo diagnosticados, sin que cada individuo de la población tenga una probabilidad conocida y calculable de ser seleccionado. No existe un marco muestral ni aleatorización, lo que introduce un potencial sesgo de selección.",
+      "incorrectas": {
+        "A": "El muestreo sistemático es probabilístico: se selecciona un punto de inicio aleatorio y luego cada k-ésimo elemento de una lista ordenada.",
+        "B": "El muestreo estratificado es probabilístico: la población se divide en estratos y se aplica aleatorización dentro de cada uno.",
+        "D": "El muestreo aleatorio simple es el paradigma del muestreo probabilístico, donde cada individuo tiene la misma probabilidad de ser seleccionado."
+      }
+    }
+  },
+  {
+    "id_examen": 7,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Para realizar un cribado en su primer momento o fase, ¿qué característica interna del test se suele priorizar?",
+    "opciones": {
+      "A": "Que sea muy sensible",
+      "B": "Que sea muy específico",
+      "C": "Que sea aplicable a muchas personas",
+      "D": "Que sea barato"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 29,
+      "tema": "Estudios experimentales. Ensayos clínicos. Ética de la investigación clínica. Validez de métodos diagnósticos: sensibilidad, especificidad, valor predictivo positivo."
+    },
+    "explicacion": {
+      "correcta": "En la primera fase de un programa de cribado se prioriza la sensibilidad del test para detectar el máximo número de verdaderos positivos (enfermos) y minimizar los falsos negativos. Un test muy sensible garantiza que ningún caso real quede sin identificar, aunque se generen falsos positivos que luego se confirmarán o descartarán con pruebas más específicas en una segunda fase.",
+      "incorrectas": {
+        "B": "La especificidad es fundamental en fases de confirmación diagnóstica, no en el cribado inicial, donde el objetivo es no dejar casos sin detectar.",
+        "C": "Que sea aplicable a muchas personas es una característica operativa deseable, pero no la característica interna del test que se prioriza en el diseño del cribado.",
+        "D": "El coste es un criterio de viabilidad del programa, no una característica interna del test diagnóstico."
+      }
+    }
+  },
+  {
+    "id_examen": 8,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El Biobanco del Sistema Sanitario Público de Andalucía (SSPA) es una iniciativa de la Consejería de Igualdad, Salud y Políticas Sociales. Mediante un funcionamiento en red y bajo un marco ético común, una estructura organizativa única y una actividad descentralizada, el Biobanco del SSPA integra:",
+    "opciones": {
+      "A": "Solo a todos los bancos de sangre y tejidos",
+      "B": "Bancos de sangre, excepto banco de cordones, tejidos y tumores",
+      "C": "Los bancos de sangre y de tejidos, el banco de cordón umbilical, el banco de células madre, la red de bancos de tumores, el banco de ADN humano de Andalucía, y diferentes repositorios de muestras biológicas y biorrecursos.",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 30,
+      "tema": "Evaluación de Tecnologías Sanitarias: Procedimientos de evaluación. Cartera de Servicios del Sistema Nacional de Salud."
+    },
+    "explicacion": {
+      "correcta": "El Biobanco del SSPA integra en red una amplia gama de recursos biológicos: bancos de sangre y tejidos, banco de cordón umbilical, banco de células madre, red de bancos de tumores, banco de ADN humano de Andalucía y diversos repositorios de muestras y biorrecursos. Esta estructura integrada permite la investigación biomédica de forma eficiente bajo un marco ético y organizativo único.",
+      "incorrectas": {
+        "A": "El Biobanco no se limita a los bancos de sangre y tejidos; incluye muchos otros recursos como el banco de cordón umbilical, el de células madre y los bancos de tumores.",
+        "B": "Esta opción excluye incorrectamente el banco de cordones y otros componentes esenciales del Biobanco.",
+        "D": "La opción C es correcta, por lo que \"ninguna es correcta\" es una afirmación falsa."
+      }
+    }
+  },
+  {
+    "id_examen": 9,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La agencia de calidad sanitaria de Andalucía (ACSA) tiene como principal actividad, la certificación de los servicios que las organizaciones prestan a la salud y al bienestar social de la población. La certificación de competencias tiene las siguientes fases. Señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Inicio del proceso",
+      "B": "Autoevaluación",
+      "C": "Evaluación",
+      "D": "Certificación en un nivel de desarrollo. Apto. Competente ó Extraordinario."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 37,
+      "tema": "Evaluación y mejora de la calidad. Modelos de Gestión de la Calidad. Diseño de un programa de calidad."
+    },
+    "explicacion": {
+      "correcta": "La respuesta incorrecta es la D porque los niveles de certificación de la ACSA no son Apto, Competente y Extraordinario. Los niveles reales del sistema de certificación de la ACSA son: Avanzado, Óptimo y Excelente, o bien en el marco de competencias profesionales se utilizan denominaciones distintas a las mencionadas en esta opción.",
+      "incorrectas": {
+        "A": "El inicio del proceso es una fase real y correcta del procedimiento de certificación de competencias de la ACSA.",
+        "B": "La autoevaluación es una fase auténtica del proceso de certificación de la ACSA, donde el profesional o servicio analiza su propio nivel de desarrollo.",
+        "C": "La evaluación es una fase real del proceso de certificación de la ACSA, realizada por evaluadores externos."
+      }
+    }
+  },
+  {
+    "id_examen": 10,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El sistema sanitario público de Andalucía regula y garantiza los plazos de respuesta en primeras consultas de asistencia especializada, así como en procedimientos diagnósticos y quirúrgicos. Señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "La primera consulta de asistencia especializada, un tiempo de espera máximo de 60 días.",
+      "B": "Procedimientos diagnósticos, tiempo de espera máximo 45 días.",
+      "C": "Respuesta quirúrgica, máximo 180 días.",
+      "D": "A través del servicio Salud Responde, el usuario puede conocer fecha y hora de su cita con el especialista. Así como, anular o modificar la misma."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 24,
+      "tema": "El sistema sanitario. Niveles asistenciales. Organización de los servicios sanitarios en Aragón."
+    },
+    "explicacion": {
+      "correcta": "La opción B es incorrecta porque el tiempo de espera máximo garantizado para procedimientos diagnósticos en el SSPA no es 45 días, sino 30 días. Ese es el plazo establecido por la normativa andaluza de garantías de tiempo de respuesta para pruebas diagnósticas.",
+      "incorrectas": {
+        "A": "La primera consulta de asistencia especializada con un máximo de 60 días es un plazo correcto recogido en la regulación del SSPA.",
+        "C": "La respuesta quirúrgica con un máximo de 180 días es el plazo correcto establecido por la garantía de tiempo de respuesta quirúrgica en Andalucía.",
+        "D": "La posibilidad de consultar, anular y modificar citas a través de Salud Responde es una funcionalidad real del sistema de atención telefónica del SSPA."
+      }
+    }
+  },
+  {
+    "id_examen": 11,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "A propósito de DIRAYA señale la respuesta correcta:",
+    "opciones": {
+      "A": "La Base de datos de Usuarios (BDU) contiene datos administrativos del ciudadano y parte de datos clínicos comunes de relevancia",
+      "B": "El módulo centralizado de operadores (MACO) se encarga de dar cita en toda Andalucía a los ciudadanos",
+      "C": "El módulo de Estructura establece la relación entre niveles asistenciales para la ordenación de las interconsultas y la realización de pruebas diagnósticas",
+      "D": "Todas las respuestas anteriores son falsas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 24,
+      "tema": "El sistema sanitario. Niveles asistenciales. Organización de los servicios sanitarios en Aragón."
+    },
+    "explicacion": {
+      "correcta": "El módulo de Estructura de DIRAYA define y gestiona la relación entre los distintos niveles asistenciales del SSPA, ordenando las interconsultas y la derivación para pruebas diagnósticas entre atención primaria y especializada. Este módulo es clave para la coordinación asistencial dentro del sistema de historia de salud digital de Andalucía.",
+      "incorrectas": {
+        "A": "La BDU contiene principalmente datos administrativos del ciudadano; los datos clínicos comunes se recogen en otros módulos específicos de DIRAYA como la Historia de Salud Digital.",
+        "B": "El MACO es el módulo de agenda y citación centralizado, pero su función es gestionar las agendas, no dar cita directamente a los ciudadanos en el sentido descrito; además su denominación y función exactas difieren de lo enunciado."
+      }
+    }
+  },
+  {
+    "id_examen": 12,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "A propósito de la conciliación del tratamiento:",
+    "opciones": {
+      "A": "Al alta se le da al paciente un informe para que acuda a su médico que concilie los tratamientos que tenga.",
+      "B": "El informe farmacoterapéutico de alta se realiza en impreso específico y estandarizado, haciendo constar el tratamiento actualizado completo (dosis, forma farmacéutica y pauta de administración) y los cambios (con los motivos que lo causan) realizados en su tratamiento ambulatorio: Medicamentos iniciados en el hospital, medicamentos suspendidos y cambios de dosis.",
+      "C": "El farmacéutico colabora con el médico en la elaboración de informe farmacoterapéutico de alta",
+      "D": "b y c son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 36,
+      "tema": "Uso Racional del Medicamento. Criterios de selección de medicamentos. Equivalentes terapéuticos. Indicadores de calidad de prescripción."
+    },
+    "explicacion": {
+      "correcta": "Tanto la opción B como la C son correctas: el informe farmacoterapéutico de alta debe realizarse en impreso estandarizado con el tratamiento completo y los cambios motivados, y el farmacéutico colabora activamente con el médico en su elaboración. La conciliación de la medicación es un proceso multidisciplinar que busca evitar errores en la transición asistencial.",
+      "incorrectas": {
+        "A": "La conciliación no se delega en el médico de atención primaria mediante un simple informe genérico; debe realizarse de forma proactiva y estructurada en el propio proceso de alta hospitalaria."
+      }
+    }
+  },
+  {
+    "id_examen": 13,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Qué principio ético requiere la solicitud de consentimiento informado del paciente para su participación en un ensayo clínico?",
+    "opciones": {
+      "A": "Autonomía",
+      "B": "No maleficencia",
+      "C": "Equidad",
+      "D": "Beneficencia"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 38,
+      "tema": "Principios fundamentales de la bioética: aplicación a la asistencia sanitaria. La relación médico-paciente, el consentimiento informado."
+    },
+    "explicacion": {
+      "correcta": "El principio de autonomía es el fundamento del consentimiento informado, ya que reconoce el derecho de la persona a tomar decisiones libres e informadas sobre su propia participación en investigaciones clínicas. Sin respetar la autonomía del paciente, ningún ensayo clínico puede considerarse éticamente válido.",
+      "incorrectas": {
+        "B": "La no maleficencia obliga a no causar daño, principio relevante en el diseño del ensayo, pero no es el que fundamenta específicamente el consentimiento informado.",
+        "C": "La equidad o justicia se refiere a la distribución justa de beneficios y cargas de la investigación, no a la obtención del consentimiento individual.",
+        "D": "La beneficencia implica actuar en beneficio del paciente, pero el consentimiento informado se ancla en el respeto a la autonomía, no en la búsqueda del bien del participante."
+      }
+    }
+  },
+  {
+    "id_examen": 14,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguientes no es un modelo o una norma de calidad?",
+    "opciones": {
+      "A": "La Joint Commission on Acreditation of Healthcare Organization",
+      "B": "La European Foundation for Qualiti Management",
+      "C": "Las Normas ISO",
+      "D": "Organización Panamericana de la Salud"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 37,
+      "tema": "Evaluación y mejora de la calidad. Modelos de Gestión de la Calidad. Diseño de un programa de calidad."
+    },
+    "explicacion": {
+      "correcta": "La Organización Panamericana de la Salud (OPS) es un organismo de salud pública internacional que coordina esfuerzos sanitarios en América, pero no es un modelo ni una norma de gestión de calidad. Se trata de una agencia intergubernamental de salud, no un sistema de acreditación o certificación de calidad.",
+      "incorrectas": {
+        "A": "La Joint Commission on Accreditation of Healthcare Organizations (JCAHO) es un reconocido modelo y sistema de acreditación de calidad hospitalaria ampliamente utilizado.",
+        "B": "La European Foundation for Quality Management (EFQM) es un modelo de excelencia y gestión de la calidad aplicado en organizaciones sanitarias europeas.",
+        "C": "Las normas ISO (especialmente la ISO 9001) son estándares internacionales de sistemas de gestión de la calidad aplicables a organizaciones sanitarias."
+      }
+    }
+  },
+  {
+    "id_examen": 15,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El decreto 181/2007 de 19 de junio, regula la receta médica electrónica en el sistema sanitario público de Andalucía. Señale la respuesta correcta:",
+    "opciones": {
+      "A": "La ampliación de un tratamiento ya instaurado renovación del mismo solo podrá realizarse durante los 60 días anteriores a la fecha de finalización de la anterior prescripción.",
+      "B": "El plazo de validez de la receta electrónica para la primera dispensación, cuando se trate de tratamientos agudos que solo requieren un acto de dispensación, es de cinco días naturales contados a partir de la fecha de prescripción. Para el resto de tratamientos es de 40 días.",
+      "C": "El sistema informático permitirá al farmacéutico suspender cautelarmente la posibilidad de dispensación.",
+      "D": "Esta explícitamente prohibido la sustitución del medicamento o producto sanitario por el farmacéutico."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 36,
+      "tema": "Uso Racional del Medicamento. Criterios de selección de medicamentos. Equivalentes terapéuticos. Indicadores de calidad de prescripción."
+    },
+    "explicacion": {
+      "correcta": "El Decreto 181/2007 establece que el sistema informático de receta electrónica permitirá al farmacéutico suspender cautelarmente la posibilidad de dispensación cuando detecte alguna incidencia o problema de seguridad relacionado con el medicamento. Esta funcionalidad refuerza la seguridad del paciente en la dispensación farmacéutica.",
+      "incorrectas": {
+        "A": "El plazo correcto para la renovación de un tratamiento ya instaurado es el establecido en la normativa; la cifra de 60 días previos no es la contemplada en el decreto.",
+        "B": "Para tratamientos agudos con un único acto de dispensación, el plazo de validez establecido es de diez días naturales, no cinco; el plazo de 40 días para el resto tampoco es correcto según el decreto.",
+        "D": "La sustitución por el farmacéutico no está explícitamente prohibida; la normativa establece supuestos y condiciones bajo las cuales puede realizarse la sustitución."
+      }
+    }
+  },
+  {
+    "id_examen": 16,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Según la Ley 2/2010, la limitación del esfuerzo terapéutico consiste en:",
+    "opciones": {
+      "A": "La retirada o no instauración de una medida de soporte vital o de cualquier otra intervención que, dado el mal pronostico, constituye, a juicio de los sanitarios implicados, algo fútil, que solo contribuye a prolongar una situación clínica carente de expectativas de mejoría.",
+      "B": "La intervención sanitaria destinada a mantener las constantes vitales de la persona, independientemente de que dicha intervención actúe o no terapéuticamente sobre la enfermedad que amenaza la vida.",
+      "C": "El inicio o mantenimiento de medidas de soporte vital u otras intervenciones carentes de utilidad clínica, que únicamente prolongan la vida en pacientes en situación terminal, sin posibilidades reales de mejora.",
+      "D": "La administración de fármacos para reducir la conciencia de la persona en situación terminal o de agonía, para aliviar adecuadamente síntomas refractarios, previo consentimiento informado en los términos establecidos en la ley."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 38,
+      "tema": "Principios fundamentales de la bioética: aplicación a la asistencia sanitaria. La relación médico-paciente, el consentimiento informado."
+    },
+    "explicacion": {
+      "correcta": "La Ley 2/2010 de Andalucía define la limitación del esfuerzo terapéutico como la retirada o no instauración de medidas de soporte vital o cualquier intervención que, ante un mal pronóstico, se considere fútil y solo prolongue una situación clínica sin expectativas de mejoría. Esta decisión corresponde a los sanitarios implicados y se fundamenta en la no maleficencia y en la dignidad del proceso de muerte.",
+      "incorrectas": {
+        "B": "Esta descripción corresponde al concepto de soporte vital o tratamiento de mantenimiento de constantes vitales, no a la limitación del esfuerzo terapéutico.",
+        "C": "Esta opción describe la obstinación terapéutica o encarnizamiento terapéutico, que es precisamente lo contrario de la limitación del esfuerzo terapéutico.",
+        "D": "Esta descripción corresponde a la sedación paliativa, que es una intervención distinta de la limitación del esfuerzo terapéutico."
+      }
+    }
+  },
+  {
+    "id_examen": 17,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Según el Plan Andaluz de Urgencias y Emergencias ¿cual de las siguientes opciones es cierta en cuanto a la organización y estructura de las urgencias en los hospitales públicos de Andalucía?",
+    "opciones": {
+      "A": "Las distintas áreas organizativas son: Admisión, Clasificación, Consultas, Observación",
+      "B": "Circuito es un espacio físico con recursos específicos que atiende a un grupo de pacientes que se han clasificado con unas características concretas.",
+      "C": "Los circuitos pueden atender a la clasificación (atención básica, polivalente, críticos) a la edad (circuito pediátrico) o a la patología (traumatológico, Obstétrico-Ginecológico)",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 107,
+      "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son correctas según el Plan Andaluz de Urgencias y Emergencias (PAUE): las áreas organizativas de los servicios de urgencias hospitalarios incluyen Admisión, Clasificación, Consultas y Observación; el concepto de circuito se refiere a espacios físicos con recursos propios para grupos de pacientes con características similares; y dichos circuitos pueden organizarse por nivel de clasificación, edad o tipo de patología.",
+      "incorrectas": {}
+    }
+  },
+  {
+    "id_examen": 18,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Durante una RCP, se deben interrumpir las compresiones en todas las circunstancias siguientes salvo en una. Diga en cual.",
+    "opciones": {
+      "A": "Durante el acto de desfibrilación.",
+      "B": "Después de las desfibrilaciones para comprobar ritmo y si procede pulso.",
+      "C": "Después de cada ciclo de 2 minutos de compresiones/ventilaciones (30/2) para comprobar ritmo y si procede pulso.",
+      "D": "Si se aprecia algún signo de vida como tos o movimientos."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 41,
+      "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+    },
+    "explicacion": {
+      "correcta": "Las guías actuales de RCP establecen que tras administrar una descarga eléctrica se deben reanudar de inmediato las compresiones torácicas sin detenerse a comprobar el pulso ni el ritmo. La comprobación de ritmo y pulso solo se realiza al final de cada ciclo de 2 minutos; interrumpir las compresiones justo después de cada desfibrilación para esa comprobación no está indicado y reduce la perfusión coronaria.",
+      "incorrectas": {
+        "A": "Durante el acto de desfibrilación es imprescindible que todos se separen del paciente y se detengan las compresiones para evitar descargas accidentales.",
+        "C": "Tras cada ciclo de 2 minutos de compresiones/ventilaciones sí se indica una breve pausa para comprobar el ritmo y, si procede, el pulso, según los protocolos de SVA.",
+        "D": "Si se aprecia algún signo de vida como tos o movimientos espontáneos, se deben interrumpir las compresiones para reevaluar al paciente."
+      }
+    }
+  },
+  {
+    "id_examen": 19,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta correcta sobre los derechos de los pacientes en situación de incapacidad recogidos en la Ley 2/2010 de 8 de abril, de Derechos y Garantías de la Dignidad de la Persona en el Proceso de la Muerte.",
+    "opciones": {
+      "A": "El médico responsable es quien debe valorar si un paciente pudiera encontrarse en una situación de incapacidad de hecho que le impida decidir por sí mismo.",
+      "B": "La situación de incapacidad de un paciente exime al médico de informarle y de hacer que participe en el proceso de toma de decisiones",
+      "C": "La sentencia judicial es el único documento que recoge el alcance y las limitaciones de la incapacidad de hecho",
+      "D": "Para la interpretación de la voluntad de los pacientes no se tendrán en cuenta los deseos expresados previamente a la situación de incapacidad."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 12,
+      "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+    },
+    "explicacion": {
+      "correcta": "La Ley 2/2010 establece que es el médico responsable quien debe valorar si el paciente se encuentra en situación de incapacidad de hecho que le impida tomar decisiones por sí mismo. Esta valoración clínica es una responsabilidad médica directa y no requiere resolución judicial previa para poder actuar.",
+      "incorrectas": {
+        "B": "La incapacidad de hecho no exime al médico de informar al paciente ni de hacerle partícipe en la medida de sus posibilidades; se debe respetar su dignidad y autonomía residual.",
+        "C": "La incapacidad de hecho no requiere sentencia judicial; es una valoración clínica. La sentencia judicial se refiere a la incapacitación legal, que es un concepto diferente.",
+        "D": "La ley establece expresamente que se tendrán en cuenta los deseos previamente expresados por el paciente, incluyendo las instrucciones previas o voluntad anticipada."
+      }
+    }
+  },
+  {
+    "id_examen": 20,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál es el ritmo electrocardiográfico más frecuente en los niños con PCR?",
+    "opciones": {
+      "A": "Ritmo idioventricular.",
+      "B": "Fibrilación Ventricular.",
+      "C": "Bradicardia sinusal.",
+      "D": "Asistolia."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 41,
+      "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."
+    },
+    "explicacion": {
+      "correcta": "En la parada cardiorrespiratoria pediátrica, la asistolia es el ritmo más frecuente porque la etiología predominante en niños es la hipoxia o insuficiencia respiratoria, que lleva a una bradicardia progresiva hasta la asistolia. A diferencia del adulto, la fibrilación ventricular primaria es mucho menos frecuente en los niños.",
+      "incorrectas": {
+        "A": "El ritmo idioventricular es poco frecuente en la PCR pediátrica y no representa el patrón predominante.",
+        "B": "La fibrilación ventricular es el ritmo más frecuente en la PCR del adulto por causa cardiaca, pero en niños su prevalencia es mucho menor.",
+        "C": "La bradicardia sinusal puede preceder a la parada, pero el ritmo final más frecuente en la PCR establecida del niño es la asistolia, no la bradicardia sinusal."
+      }
+    }
+  },
+  {
+    "id_examen": 21,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El tipo más frecuente de shock en un politraumatizado es:",
+    "opciones": {
+      "A": "Cardiogénico.",
+      "B": "Neurogénico.",
+      "C": "Neumotórax a tensión.",
+      "D": "Hipovolémico."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "El shock hipovolémico es el tipo más frecuente en el paciente politraumatizado, producido por la pérdida de volumen sanguíneo secundaria a hemorragias externas o internas. La hipoperfusión tisular resultante obliga a una reanimación volémica precoz y al control de la hemorragia como prioridades asistenciales.",
+      "incorrectas": {
+        "A": "El shock cardiogénico puede ocurrir en traumatismos torácicos graves con contusión miocárdica, pero es mucho menos frecuente que el hipovolémico.",
+        "B": "El shock neurogénico puede aparecer en lesiones medulares altas, pero es una causa poco frecuente en el contexto del politrauma general.",
+        "C": "El neumotórax a tensión produce shock obstructivo, no es un tipo de shock en sí mismo, y aunque es una complicación grave del traumatismo torácico, es menos frecuente que el hipovolémico."
+      }
+    }
+  },
+  {
+    "id_examen": 22,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Entre los circuitos recomendados para la estructura funcional de las urgencias hospitalarias el PAUE no recomienda:",
+    "opciones": {
+      "A": "Circuito Traumatológico",
+      "B": "Circuito quirúrgico",
+      "C": "Circuito polivalente",
+      "D": "Circuito Obstétrico-ginecológico"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 107,
+      "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+    },
+    "explicacion": {
+      "correcta": "El Plan Andaluz de Urgencias y Emergencias (PAUE) no recomienda un circuito quirúrgico específico dentro de la estructura funcional del servicio de urgencias hospitalario. Los circuitos recomendados se organizan por nivel de complejidad (críticos, polivalente, básico), por edad (pediátrico) o por patología específica (traumatológico, obstétrico-ginecológico), pero la actividad quirúrgica se gestiona a través del bloque quirúrgico del hospital, no como circuito de urgencias.",
+      "incorrectas": {
+        "A": "El circuito traumatológico está expresamente recomendado en el PAUE para la atención de pacientes con traumatismos.",
+        "C": "El circuito polivalente es uno de los circuitos fundamentales recomendados en el PAUE para la atención de urgencias generales.",
+        "D": "El circuito obstétrico-ginecológico está recomendado en el PAUE como circuito especializado por tipo de patología."
+      }
+    }
+  }
+]

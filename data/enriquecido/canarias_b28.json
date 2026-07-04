@@ -1,0 +1,146 @@
+[
+  {
+    "id_examen": 595,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes fármacos NO esta indicado para el tratamiento del dolor neuropático?",
+    "opciones": {
+      "A": "Amitriptilina",
+      "B": "Carbamazepina",
+      "C": "Dexametasona",
+      "D": "Pregabalina"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La dexametasona es un corticoide con indicaciones en dolor oncológico por compresión nerviosa o edema peritumoral, pero no forma parte del arsenal farmacológico estándar del dolor neuropático propiamente dicho. Los fármacos de primera y segunda línea para el dolor neuropático son los antidepresivos tricíclicos, los anticonvulsivantes y los inhibidores de la recaptación de serotonina y noradrenalina. La dexametasona actúa reduciendo la inflamación tisular, no modulando los mecanismos centrales y periféricos de la sensibilización neuropática.",
+      "incorrectas": {
+        "A": "La amitriptilina es un antidepresivo tricíclico considerado fármaco de primera línea en el tratamiento del dolor neuropático, actuando principalmente mediante la inhibición de la recaptación de serotonina y noradrenalina y bloqueando canales de sodio.",
+        "B": "La carbamazepina es un anticonvulsivante de primera línea especialmente indicado en la neuralgia del trigémino y otras neuralgias, por su capacidad de estabilizar membranas neuronales mediante el bloqueo de canales de sodio voltaje-dependientes.",
+        "D": "La pregabalina es un anticonvulsivante de primera línea en el dolor neuropático; actúa uniéndose a la subunidad alfa-2-delta de los canales de calcio voltaje-dependientes, reduciendo la liberación de neurotransmisores excitatorios y la hiperexcitabilidad neuronal."
+      }
+    }
+  },
+  {
+    "id_examen": 596,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes fármacos NO es un opiáceo mayor?",
+    "opciones": {
+      "A": "Oxicodona",
+      "B": "Tramadol",
+      "C": "Tapentadol",
+      "D": "Fentanilo"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El tramadol es un opioide de acción central clasificado como opiáceo menor o de segundo escalón en la escalera analgésica de la OMS. Tiene doble mecanismo de acción: agonismo débil sobre receptores mu y bloqueo de la recaptación de serotonina y noradrenalina. Su potencia analgésica es significativamente inferior a la de los opiáceos mayores y su techo analgésico limita su uso en dolor severo.",
+      "incorrectas": {
+        "A": "La oxicodona es un opiáceo mayor agonista de los receptores mu, kappa y delta, utilizado en el tercer escalón analgésico con potencia equiparable a la morfina y disponible en formulaciones de liberación controlada para dolor crónico intenso.",
+        "C": "El tapentadol es un opiáceo mayor de tercer escalón con doble mecanismo de acción: agonismo mu y bloqueo de la recaptación de noradrenalina. Está indicado en dolor moderado-severo y se considera un opioide de potencia similar a la morfina.",
+        "D": "El fentanilo es un opiáceo mayor sintético agonista puro de receptores mu, con una potencia aproximadamente 100 veces superior a la morfina. Se emplea en formulaciones transdérmicas para dolor crónico oncológico y en formulaciones transmucosas para el dolor irruptivo."
+      }
+    }
+  },
+  {
+    "id_examen": 597,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál es la vía de elección para la administración de medicación en el dolor oncológico?",
+    "opciones": {
+      "A": "Oral",
+      "B": "Subcutánea",
+      "C": "Intramuscular",
+      "D": "Intravenosa"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La vía oral es la vía de elección en el tratamiento del dolor oncológico según las directrices de la OMS, porque es la más sencilla, cómoda, económica y permite la autonomía del paciente. Debe utilizarse siempre que el paciente pueda deglutir y tenga tránsito gastrointestinal conservado. Los principios de la escalera analgésica de la OMS establecen que la medicación debe administrarse preferentemente por vía oral, a intervalos regulares y de forma escalonada.",
+      "incorrectas": {
+        "B": "La vía subcutánea es la alternativa preferida cuando la vía oral no es posible (disfagia, vómitos incoercibles, obstrucción intestinal o deterioro del nivel de consciencia), pero no es la vía de primera elección en el dolor oncológico.",
+        "C": "La vía intramuscular no es recomendada en el tratamiento del dolor oncológico crónico debido al dolor que produce en cada administración, la absorción errática y las dificultades en pacientes caquécticos con escasa masa muscular.",
+        "D": "La vía intravenosa se reserva para situaciones de urgencia, crisis de dolor irruptivo grave o cuando otras vías no son accesibles; no es apropiada como vía de elección en el manejo crónico ambulatorio del dolor oncológico."
+      }
+    }
+  },
+  {
+    "id_examen": 598,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿En qué escalón de la escalera analgésica se administra la medicación coadyuvante en el tratamiento del dolor oncológico?",
+    "opciones": {
+      "A": "Primer escalón",
+      "B": "Segundo escalón",
+      "C": "Tercer escalón",
+      "D": "En cualquier escalón"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "Los fármacos coadyuvantes o adyuvantes pueden y deben utilizarse en cualquier escalón de la escalera analgésica de la OMS, siempre que estén clínicamente indicados en función del tipo de dolor y de las características del paciente. Los coadyuvantes incluyen antidepresivos, anticonvulsivantes, corticoides, bifosfonatos, ansiolíticos y otros, y su uso no está restringido a un escalón concreto sino que se adapta a las necesidades individuales del paciente.",
+      "incorrectas": {
+        "A": "Los coadyuvantes no se limitan al primer escalón; aunque pueden utilizarse en él (por ejemplo, corticoides en dolor inflamatorio o antidepresivos en dolor neuropático leve), su indicación se extiende a todos los escalones.",
+        "B": "Los coadyuvantes tampoco se restringen al segundo escalón; la selección de coadyuvantes depende del mecanismo del dolor, la comorbilidad y los objetivos terapéuticos, no del escalón analgésico empleado.",
+        "C": "Limitar los coadyuvantes al tercer escalón sería incorrecto; en dolor neuropático, por ejemplo, los anticonvulsivantes y antidepresivos se emplean desde los primeros escalones de forma independiente al analgésico principal."
+      }
+    }
+  },
+  {
+    "id_examen": 599,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes fármacos NO se utiliza en el primer escalón de la escalera analgésica en el dolor oncológico?",
+    "opciones": {
+      "A": "Metamizol magnésico",
+      "B": "Salicilatos",
+      "C": "Naproxeno",
+      "D": "Codeina"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "La codeína es un opiáceo débil que pertenece al segundo escalón de la escalera analgésica de la OMS, junto con otros opioides menores como el tramadol o la dihidrocodeína. El primer escalón está compuesto exclusivamente por analgésicos no opioides (AINEs, paracetamol, metamizol) indicados para dolor leve. La codeína se reserva para cuando los fármacos del primer escalón no consiguen un control adecuado del dolor.",
+      "incorrectas": {
+        "A": "El metamizol magnésico (dipirona) es un analgésico no opioide con propiedades analgésicas, antipiréticas y espasmolíticas, incluido dentro del primer escalón analgésico para el control del dolor oncológico leve.",
+        "B": "Los salicilatos, como el ácido acetilsalicílico, son AINEs no selectivos del primer escalón analgésico; aunque su uso en oncología ha disminuido por su perfil de efectos adversos, forman parte histórica y conceptual del primer escalón.",
+        "C": "El naproxeno es un AINE no selectivo del primer escalón analgésico, con propiedades antiinflamatorias, analgésicas y antipiréticas, indicado en dolor oncológico leve especialmente cuando existe componente inflamatorio asociado."
+      }
+    }
+  },
+  {
+    "id_examen": 600,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de los siguientes NO es un objetivo del tratamiento del dolor oncológico?",
+    "opciones": {
+      "A": "Mantener al paciente sin dolor el mayor tiempo posible",
+      "B": "Asegurar el descanso diurno",
+      "C": "Prevenir el dolor mejor que disminuirlo",
+      "D": "Utilizar fármacos adecuados con los menores efectos secundarios"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+    },
+    "explicacion": {
+      "correcta": "El objetivo correcto relacionado con el descanso en el tratamiento del dolor oncológico es asegurar el descanso nocturno, no el diurno. Los tres objetivos clásicos del tratamiento del dolor oncológico según la OMS son: aliviar el dolor para que el paciente pueda dormir por la noche, que el paciente esté sin dolor en reposo diurno y que el paciente pueda desarrollar actividad física sin dolor. El descanso diurno no es un fin en sí mismo; al contrario, se busca que el paciente pueda mantenerse activo durante el día.",
+      "incorrectas": {
+        "A": "Mantener al paciente sin dolor el mayor tiempo posible es un objetivo legítimo y prioritario del tratamiento del dolor oncológico; se busca la mayor cobertura analgésica posible a lo largo del día mediante pautas regulares y rescates para el dolor irruptivo.",
+        "C": "Prevenir el dolor es preferible a tratarlo una vez establecido; por ello la OMS recomienda administrar los analgésicos de forma pautada y regular (por el reloj), anticipándose a la aparición del dolor en lugar de esperar a que el paciente lo refiera.",
+        "D": "Seleccionar fármacos con el mejor perfil de eficacia y la menor incidencia de efectos adversos es un principio fundamental del tratamiento del dolor oncológico, con el fin de garantizar la adherencia terapéutica y la calidad de vida del paciente."
+      }
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 331,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál es el síntoma de mayor importancia médica en la intoxicación aguda por opiáceos?:",
+    "opciones": {
+      "A": "Convulsiones",
+      "B": "Depresión respiratoria",
+      "C": "Arritmias y asistolia",
+      "D": "Broncorrea y broncoconstricción"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La depresión respiratoria es el signo cardinal y más peligroso de la intoxicación aguda por opiáceos. La triada clásica incluye miosis puntiforme, depresión del nivel de conciencia y depresión respiratoria. Esta última es la principal causa de muerte, ya que los opiáceos actúan sobre los receptores mu del tronco encefálico inhibiendo el centro respiratorio, pudiendo causar apnea y muerte si no se administra el antídoto naloxona a tiempo.",
+      "incorrectas": {
+        "A": "Las convulsiones no son típicas de la intoxicación por opiáceos; de hecho, los opiáceos generalmente no son proconvulsivantes (excepto meperidina/petidina en dosis altas por su metabolito normeperidina). Las convulsiones son más características de intoxicaciones por cocaína, antidepresivos tricíclicos o isoniazida.",
+        "C": "Las arritmias y asistolia son síntomas predominantes en intoxicaciones por antidepresivos tricíclicos, digoxina o antiarrítmicos. En la intoxicación opioide, las alteraciones cardiacas no son el rasgo principal; el problema dominante es respiratorio.",
+        "D": "La broncorrea y broncoconstricción son síntomas del síndrome colinérgico, propio de las intoxicaciones por organofosforados, carbamatos o setas muscarínicas. Los opiáceos no producen este síndrome."
+      }
+    }
+  },
+  {
+    "id_examen": 332,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En el tratamiento de la intoxicación aguda por ingestión de cáusticos, señale la falsa:",
+    "opciones": {
+      "A": "El lavado gástrico y la administración de carbón activado están contraindicados",
+      "B": "La terapia dilucional con agua o leche no se recomienda",
+      "C": "Los ácidos producen daño tisular por necrosis de coagulación con formación de una escara protectora",
+      "D": "No es necesario realizar radiografía de tórax y simple de abdomen"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La afirmación falsa es la D: sí es necesario realizar radiografía de tórax y abdomen en la ingestión de cáusticos. Estas pruebas son imprescindibles para detectar complicaciones graves como neumomediastino (sugerente de perforación esofágica), neumoperitoneo (perforación gástrica) o aspiración pulmonar. Son parte del protocolo de evaluación inicial obligatoria.",
+      "incorrectas": {
+        "A": "Es verdadera: el lavado gástrico está contraindicado porque puede empeorar las lesiones al movilizar el cáustico y favorecer la perforación esofágica; el carbón activado también está contraindicado porque no adsorbe los cáusticos y dificulta la endoscopia diagnóstica.",
+        "B": "Es verdadera: la terapia dilucional con agua o leche ya no se recomienda de forma rutinaria, ya que no reduce las lesiones y puede inducir vómitos que reactiven el contacto del cáustico con la mucosa.",
+        "C": "Es verdadera: los ácidos producen necrosis de coagulación, formando una escara superficial que actúa como barrera limitante. En cambio, las bases fuertes (álcalis) producen necrosis por licuefacción, que es más penetrante y devastadora."
+      }
+    }
+  },
+  {
+    "id_examen": 333,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "El carbón activado no está indicado en la intoxicación por:",
+    "opciones": {
+      "A": "Intoxicación por salicilatos",
+      "B": "Intoxicación por paracetamol",
+      "C": "Intoxicación por litio",
+      "D": "Intoxicación por B-bloqueantes"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 100,
+      "tema": "Intoxicaciones generales"
+    },
+    "explicacion": {
+      "correcta": "El carbón activado no está indicado en la intoxicación por litio porque el litio es un ion metálico que no se adsorbe eficazmente por el carbón activado. Su estructura iónica impide la unión con la superficie del carbón. En estas intoxicaciones el tratamiento se basa en hidratación, hemodiálisis en casos graves y monitorización de niveles séricos.",
+      "incorrectas": {
+        "A": "Los salicilatos sí se adsorben bien con el carbón activado, por lo que este está indicado en las primeras horas tras la ingesta tóxica. Además, las dosis múltiples de carbón pueden ser útiles por la circulación enterohepática.",
+        "B": "El paracetamol también se adsorbe bien con el carbón activado, que está indicado si se administra en la primera hora tras la ingesta. El antídoto específico es la N-acetilcisteína.",
+        "D": "Los betabloqueantes sí se adsorben con carbón activado, estando este indicado en las primeras horas de la intoxicación. El tratamiento incluye además glucagón, calcio y estimulantes adrenérgicos."
+      }
+    }
+  },
+  {
+    "id_examen": 334,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En el manejo de la intoxicación aguda por antidepresivos tricíclicos ¿qué tratamiento no estaría indicado?:",
+    "opciones": {
+      "A": "Carbón activado",
+      "B": "Flumazenilo",
+      "C": "Bicarbonato sódico 1M",
+      "D": "Benzodiacepinas sí agitación o convulsión"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "El flumazenilo está contraindicado en la intoxicación por antidepresivos tricíclicos. El flumazenilo es un antagonista de las benzodiacepinas; al revertir cualquier efecto benzodiazepínico coexistente, puede desencadenar o agravar convulsiones en el contexto de la intoxicación por tricíclicos, que ya tiene un umbral convulsivo muy bajo. Además, no tiene ningún efecto terapéutico sobre los tricíclicos.",
+      "incorrectas": {
+        "A": "El carbón activado sí está indicado si el paciente llega en las primeras horas tras la ingesta y tiene el nivel de conciencia preservado o está intubado. Reduce la absorción del fármaco.",
+        "C": "El bicarbonato sódico 1M es un pilar fundamental del tratamiento. Los tricíclicos bloquean los canales de sodio cardiacos, produciendo ensanchamiento del QRS y arritmias. La alcalinización con bicarbonato contrarresta este bloqueo y reduce las arritmias y las convulsiones.",
+        "D": "Las benzodiacepinas sí están indicadas ante agitación o convulsiones producidas por tricíclicos. Son el fármaco de elección anticonvulsivante en este contexto, ya que la fenitoína está contraindicada por sus efectos sobre los canales de sodio."
+      }
+    }
+  },
+  {
+    "id_examen": 335,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En caso de intoxicación por cáusticos, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Se asegurará que la vía aérea es permeable así como la adecuada ventilación- oxigenación del paciente",
+      "B": "Administración de carbón activado para neutralizar el ph",
+      "C": "Retirada de prendas de vestir y lavado si contacto cutáneo",
+      "D": "Administración de antieméticos y dieta absoluta"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La respuesta incorrecta es la B: el carbón activado NO se administra en la intoxicación por cáusticos. El carbón activado no adsorbe los cáusticos (ácidos y bases fuertes) y su administración está contraindicada porque ensucia el campo endoscópico, impidiendo la correcta valoración de las lesiones, y puede agravar los vómitos con el consiguiente re-contacto del cáustico con la mucosa.",
+      "incorrectas": {
+        "A": "Correcta: el aseguramiento de la vía aérea es prioritario en la intoxicación por cáusticos, ya que pueden producir edema orofaríngeo y laríngeo que comprometan la ventilación.",
+        "C": "Correcta: si hay contacto cutáneo se deben retirar las prendas contaminadas y realizar lavado abundante con agua para limitar el daño tisular.",
+        "D": "Correcta: la dieta absoluta reduce el contacto del cáustico con la mucosa lesionada, y los antieméticos previenen el vómito, que podría causar nuevas lesiones por re-exposición."
+      }
+    }
+  },
+  {
+    "id_examen": 336,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En caso de ingestión de sosa cáustica la actuación correcta es:",
+    "opciones": {
+      "A": "Provocar el vómito",
+      "B": "Dieta absoluta y administrar antieméticos",
+      "C": "Administrar carbón activado",
+      "D": "Todas las actuaciones son correctas"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "Ante la ingestión de sosa cáustica (álcali fuerte), la actuación correcta es mantener dieta absoluta y administrar antieméticos. La dieta absoluta evita el movimiento del cáustico y la lesión adicional; los antieméticos previenen el vómito, que re-expone la mucosa esofágica ya lesionada a la sosa, pudiendo empeorar las quemaduras y aumentar el riesgo de perforación.",
+      "incorrectas": {
+        "A": "Provocar el vómito está absolutamente contraindicado en la ingestión de cáusticos. El vómito hace que el álcali pase de nuevo por el esófago causando quemaduras adicionales, aumenta el riesgo de perforación esofágica y puede producir aspiración del cáustico.",
+        "C": "El carbón activado está contraindicado en la ingestión de cáusticos porque no adsorbe estas sustancias, no neutraliza el pH y dificulta la endoscopia diagnóstica posterior.",
+        "D": "No todas las actuaciones son correctas: provocar el vómito y administrar carbón activado son actuaciones incorrectas y contraindicadas en este contexto."
+      }
+    }
+  },
+  {
+    "id_examen": 337,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Varón de 53 años traído por un familiar. Refiere que ha bebido aproximadamente 50 ml de lejía, señale la Respuesta Correcta:",
+    "opciones": {
+      "A": "La ausencia de lesiones en boca y faringe descarta afectación esofagogástrica",
+      "B": "Se debe administrar carbón activado en dosis única de 40 gramos",
+      "C": "Está indicada la profilaxis antibiótica, de elección amoxicilina-clavulánico y como alternativa clindamicina",
+      "D": "Todas las anteriores son falsas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "Todas las afirmaciones anteriores son falsas. La lejía es un álcali (hipoclorito sódico) que produce lesiones por necrosis por licuefacción. Ninguna de las tres primeras opciones es correcta: la ausencia de lesiones orofaríngeas no descarta lesión esofágica, el carbón activado está contraindicado y la profilaxis antibiótica sistemática no es una indicación estándar salvo si hay evidencia de perforación.",
+      "incorrectas": {
+        "A": "Falsa: un 10-40% de los pacientes con ingesta de cáusticos presentan lesiones esofágicas o gástricas significativas sin lesiones visibles en boca y faringe. Por tanto, la ausencia de lesiones orofaríngeas no descarta afectación esofagogástrica y siempre debe realizarse endoscopia.",
+        "B": "Falsa: el carbón activado está contraindicado en la ingesta de cáusticos. No adsorbe los álcalis, impide la endoscopia diagnóstica y puede favorecer el vómito con nueva exposición de la mucosa al álcali.",
+        "C": "Falsa: la profilaxis antibiótica no está indicada de forma rutinaria en la ingesta de cáusticos. Solo se plantea si existe evidencia de infección o perforación. La antibioterapia empírica sistemática no forma parte del protocolo estándar de manejo inicial."
+      }
+    }
+  },
+  {
+    "id_examen": 338,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Mujer de 22 años traída a urgencias en estado postcrítico después de crisis convulsiva. TA 80/40 y ECG con un QRS ensanchado. Había comenzado a tomar nortriptilina 2 semanas antes. ¿Cuál es el tratamiento inicial más adecuado?",
+    "opciones": {
+      "A": "Vía venosa y benzodiacepinas",
+      "B": "Vía venosa, lavado gástrico y fisostigmina",
+      "C": "Diuresis forzada alcalina",
+      "D": "Vía venosa, lavado gástrico, carbón activado y bicarbonato iv"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "El cuadro (postcrítico, hipotensión, QRS ancho, antidepresivo tricíclico nortriptilina) es una intoxicación grave por tricíclico. El tratamiento estándar incluye: acceso venoso para soporte hemodinámico, carbón activado si la vía aérea está protegida, y bicarbonato intravenoso que es fundamental para tratar el QRS ancho (bloqueo de canales de sodio) y la hipotensión. El lavado gástrico puede valorarse precozmente si la ingesta fue reciente.",
+      "incorrectas": {
+        "A": "Incompleta: aunque la vía venosa y las benzodiacepinas son útiles para controlar las convulsiones, esta opción no aborda la toxicidad cardiaca (QRS ancho) que es la amenaza más inmediata para la vida y que requiere bicarbonato urgente.",
+        "B": "Incorrecta: la fisostigmina está contraindicada en intoxicación por tricíclicos porque puede provocar asistolia, bradicardia grave o empeorar las convulsiones. Su uso es peligroso en este contexto.",
+        "C": "Incorrecta: la diuresis forzada alcalina no es el tratamiento de elección en la intoxicación por tricíclicos. Aunque la alcalinización sí es útil, debe hacerse con bicarbonato iv directo para tratar rápidamente la toxicidad cardiaca, no mediante diuresis forzada."
+      }
+    }
+  },
+  {
+    "id_examen": 339,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Respecto a la intoxicación por paracetamol, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "La dosis tóxica es de 10gr en pacientes sanos y 7.5gr en pacientes etílicos, hepatópatas, malnutrición, etc",
+      "B": "El lavado gástrico y carbón activado están contraindicados",
+      "C": "El antídoto es la N-acetilcisteína",
+      "D": "En el diagnóstico es útil el nomograma de Rumack-Matthews"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La respuesta incorrecta es la B: el lavado gástrico y el carbón activado NO están contraindicados en la intoxicación por paracetamol. Al contrario, el carbón activado está indicado si se administra en la primera hora tras la ingesta, ya que adsorbe eficazmente el paracetamol y reduce su absorción sistémica. El lavado gástrico puede considerarse en ingestas masivas muy recientes.",
+      "incorrectas": {
+        "A": "Es correcta: la dosis hepatotóxica de paracetamol es de aproximadamente 10 g en adultos sanos, pero se reduce a 7,5 g (o incluso menos) en pacientes con factores de riesgo como alcoholismo crónico, hepatopatía previa o malnutrición, que tienen menores reservas de glutatión.",
+        "C": "Es correcta: la N-acetilcisteína es el antídoto de elección, actúa reponiendo el glutatión hepático que neutraliza el metabolito tóxico NAPQI. Debe administrarse en las primeras 8-10 horas para mayor efectividad.",
+        "D": "Es correcta: el nomograma de Rumack-Matthews permite estimar el riesgo de hepatotoxicidad en función de los niveles plasmáticos de paracetamol y el tiempo transcurrido desde la ingesta, guiando la indicación de N-acetilcisteína."
+      }
+    }
+  },
+  {
+    "id_examen": 340,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "La N-acetilcisteína es el antídoto para la intoxicación por:",
+    "opciones": {
+      "A": "Neurolépticos",
+      "B": "Salicilatos",
+      "C": "Paracetamol",
+      "D": "Opiáceos"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La N-acetilcisteína (NAC) es el antídoto específico de la intoxicación por paracetamol. El mecanismo de toxicidad del paracetamol es la saturación de la vía de glucuronidación y sulfatación, desviando el metabolismo hacia la formación del metabolito reactivo NAPQI mediante el citocromo P450. El NAPQI agota el glutatión hepático y produce necrosis hepatocelular. La NAC actúa como precursor del glutatión, reponiendo sus reservas y neutralizando el NAPQI.",
+      "incorrectas": {
+        "A": "El antídoto para los neurolépticos (síndrome extrapiramidal agudo) es el biperideno; el síndrome neuroléptico maligno se trata con dantroleno y bromocriptina. La N-acetilcisteína no tiene papel en estas intoxicaciones.",
+        "B": "La intoxicación por salicilatos se trata con alcalinización urinaria (bicarbonato sódico) para favorecer la eliminación renal, carbón activado y en casos graves hemodiálisis. No existe un antídoto específico como la NAC.",
+        "D": "El antídoto de los opiáceos es la naloxona, un antagonista puro de los receptores opioides mu. La N-acetilcisteína no tiene ningún efecto sobre la intoxicación opioide."
+      }
+    }
+  },
+  {
+    "id_examen": 341,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Pertenecen al grupo de insecticidas organofosforados, todas menos:",
+    "opciones": {
+      "A": "Paration",
+      "B": "Malation",
+      "C": "DDT",
+      "D": "Albicarb"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "El DDT (diclorodifeniltricloroetano) NO es un organofosforado; es un insecticida organoclorado. Los organoclorados son compuestos que contienen cloro en su estructura y actúan sobre los canales de sodio neuronales. El DDT fue ampliamente usado hasta su prohibición por su alta persistencia ambiental y toxicidad acumulativa. Produce un síndrome diferente al colinérgico de los organofosforados.",
+      "incorrectas": {
+        "A": "El paration (fosdrin, E-605) es un insecticida organofosforado clásico, muy tóxico, que inhibe la acetilcolinesterasa produciendo el síndrome colinérgico con miosis, bradicardia, broncospasmo, hipersecreciones y fasciculaciones musculares.",
+        "B": "El malation es un insecticida organofosforado de uso doméstico e industrial. También inhibe la acetilcolinesterasa, aunque es considerado menos tóxico que el paration para los mamíferos al requerir bioactivación hepática.",
+        "D": "El albicarb es un carbamato (no un organofosforado en sentido estricto), pero pertenece al grupo de inhibidores de la acetilcolinesterasa junto con los organofosforados, produciendo un síndrome colinérgico similar aunque generalmente más reversible."
+      }
+    }
+  },
+  {
+    "id_examen": 342,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En las intoxicaciones por setas, señale la falsa:",
+    "opciones": {
+      "A": "Pueden producir síntomas colinérgicos",
+      "B": "Pueden producir síntomas alucinógenos",
+      "C": "Si los síntomas aparecen después de transcurridas 6 horas se trata, generalmente, de intoxicaciones leves",
+      "D": "Si presentan hemorragias se administra plasma fresco y vitamina k"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La afirmación falsa es la C: cuando los síntomas aparecen después de 6 horas, generalmente indica una intoxicación GRAVE, no leve. La aparición tardía (más de 6 horas) es característica de las setas que contienen amatoxinas (Amanita phalloides, A. verna, A. virosa), que producen insuficiencia hepatorrenal fulminante con alta mortalidad. Por el contrario, las intoxicaciones que se manifiestan precozmente (menos de 6 horas) suelen ser más leves (síndrome muscarínico, gastrointestinal, etc.).",
+      "incorrectas": {
+        "A": "Verdadera: las setas que contienen muscarina (Clitocybe, Inocybe) producen síndrome colinérgico/muscarínico con bradicardia, miosis, broncorrea, hipersalivación, diaforesis y vómitos. El tratamiento es atropina.",
+        "B": "Verdadera: las setas psilocibinas (Psilocybe, Panaeolus) producen síntomas alucinógenos y psicodélicos por su contenido en psilocibina y psilocina, que actúan como agonistas serotoninérgicos.",
+        "D": "Verdadera: las hepatotoxinas como las amatoxinas pueden causar coagulopatía grave por insuficiencia hepática. El tratamiento de la coagulopatía incluye plasma fresco congelado (para reponer factores de coagulación) y vitamina K."
+      }
+    }
+  },
+  {
+    "id_examen": 343,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale la Respuesta Correcta en relación con la atención urgente de un enfermo con ingesta accidental de una cantidad tóxica de setas de la especie Amanita Phalloides:",
+    "opciones": {
+      "A": "Clínicamente suele producir un síndrome de aparición precoz (minutos) de tipo muscarínico",
+      "B": "El pronóstico se establece básicamente por el grado de insuficiencia renal, la hepatotoxicidad no es relevante",
+      "C": "La diuresis forzada neutra no ha mostrado utilidad",
+      "D": "La terapéutica debe iniciarse con la simple sospecha clínica"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La terapéutica debe iniciarse con la simple sospecha clínica, sin esperar confirmación analítica. La intoxicación por Amanita phalloides tiene una elevada mortalidad y el tratamiento precoz mejora el pronóstico. Ante la sospecha de ingesta de esta seta (especialmente con síntomas gastrointestinales tardíos a partir de 6-24 horas), se deben iniciar medidas de descontaminación, soporte intensivo y considerar tratamiento con silibinina y N-acetilcisteína.",
+      "incorrectas": {
+        "A": "Falsa: la Amanita phalloides produce un síndrome de aparición tardía (6-24 horas tras la ingesta), no precoz. El síndrome muscarínico de aparición en minutos es característico de setas del género Clitocybe e Inocybe. La aparición tardía de síntomas es una característica clave de las intoxicaciones graves.",
+        "B": "Falsa: la hepatotoxicidad es el principal determinante del pronóstico en la intoxicación por Amanita phalloides. Las amatoxinas producen necrosis hepática fulminante que puede requerir trasplante hepático. La insuficiencia renal también puede ocurrir pero la hepatotoxicidad es el factor pronóstico más relevante.",
+        "C": "Falsa: la diuresis forzada sí se ha utilizado para aumentar la eliminación de las amatoxinas. Aunque su eficacia es debatida, en el manejo clásico se incluía la diuresis forzada como parte del tratamiento para favorecer la excreción renal de las toxinas."
+      }
+    }
+  },
+  {
+    "id_examen": 344,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Cuál de las siguientes intoxicaciones no produce un síndrome colinérgico?",
+    "opciones": {
+      "A": "Intoxicación por organofosforados",
+      "B": "Intoxicación por carbamatos",
+      "C": "Intoxicación por antihistamínicos",
+      "D": "Todas las anteriores producen"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "Los antihistamínicos (bloqueantes H1) producen un síndrome ANTIcolinérgico, no colinérgico. El síndrome anticolinérgico se caracteriza por midriasis, sequedad de mucosas, taquicardia, retención urinaria, íleo paralítico, hipotermia, confusión y alucinaciones (mnemotecnia: 'ciego como un murciélago, rojo como una langosta, seco como un hueso, caliente como una liebre, loco como una cabra'). Es lo opuesto al síndrome colinérgico.",
+      "incorrectas": {
+        "A": "Los organofosforados sí producen síndrome colinérgico clásico al inhibir la acetilcolinesterasa, lo que provoca acumulación de acetilcolina en las sinapsis colinérgicas. Produce miosis, bradicardia, broncorrea, hipersecreciones, diarrea, vómitos y fasciculaciones.",
+        "B": "Los carbamatos también inhiben la acetilcolinesterasa (aunque de forma más reversible que los organofosforados) y producen síndrome colinérgico similar, aunque generalmente de menor duración e intensidad.",
+        "D": "No todas producen síndrome colinérgico: los antihistamínicos producen síndrome anticolinérgico, por lo que la opción D es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 345,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Una paciente de 42 años es traída por sospecha de intoxicación. Al examen físico se constata miosis, FC de 50 por minuto y dificultad respiratoria con aumento de secreciones ¿Cuál es su diagnóstico presuntivo?",
+    "opciones": {
+      "A": "Intoxicación por organofosforados",
+      "B": "Intoxicación por cocaína",
+      "C": "Intoxicación por paraquat",
+      "D": "Intoxicación por organoclorados"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "El cuadro clínico descrito (miosis, bradicardia 50 lpm, dificultad respiratoria con hipersecreciones) es el síndrome colinérgico clásico, producido por la inhibición de la acetilcolinesterasa en la intoxicación por organofosforados. La acumulación de acetilcolina en las sinapsis muscarínicas explica la miosis, la bradicardia y la broncorrea. El tratamiento de urgencia es atropina a dosis altas y pralidoxima (oximas).",
+      "incorrectas": {
+        "B": "La intoxicación por cocaína produce un síndrome simpaticomimético con midriasis (no miosis), taquicardia, hipertensión, agitación, diaforesis y posibles convulsiones. El cuadro descrito es exactamente el opuesto.",
+        "C": "La intoxicación por paraquat (herbicida) produce principalmente lesión pulmonar progresiva (fibrosis pulmonar), insuficiencia renal y hepática, pero no produce el síndrome colinérgico con miosis y bradicardia descrito.",
+        "D": "Los organoclorados (DDT, lindano) producen síntomas neurológicos como temblor, convulsiones, irritabilidad y alteración del sensorio por acción sobre los canales de sodio. No producen el síndrome colinérgico con miosis y bradicardia."
+      }
+    }
+  },
+  {
+    "id_examen": 346,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En el tratamiento de la intoxicación por organofosforados está indicado el uso de:",
+    "opciones": {
+      "A": "Atropina",
+      "B": "Oximas",
+      "C": "Lavado gástrico y carbón activado",
+      "D": "Todas las anteriores son correctas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "En la intoxicación por organofosforados están indicados los tres tratamientos mencionados. La atropina bloquea los efectos muscarínicos (bradicardia, broncoespasmo, hipersecreciones), siendo el antídoto sintomático de primera línea; se administra en dosis repetidas hasta secar secreciones. Las oximas (pralidoxima, obidoxima) reactivan la acetilcolinesterasa si se administran precozmente antes de que se produzca el envejecimiento enzimático. La descontaminación digestiva con carbón activado y lavado gástrico está indicada si la ingesta fue reciente.",
+      "incorrectas": {
+        "A": "Aunque la atropina sí está indicada, sola sería un tratamiento incompleto. No antagoniza los efectos nicotínicos (fasciculaciones, parálisis muscular) ni elimina el tóxico.",
+        "B": "Las oximas solas tampoco son suficientes: actúan sobre la causa (reactivando la enzima) pero no controlan los síntomas muscarínicos agudos que requieren atropina urgente.",
+        "C": "El lavado gástrico y carbón activado solos reducen la absorción pero no tratan la toxicidad ya establecida, que requiere antídotos específicos."
+      }
+    }
+  },
+  {
+    "id_examen": 347,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale la respuesta incorrecta respecto a la intoxicación por paraquat:",
+    "opciones": {
+      "A": "Es una intoxicación con una mortalidad escasa",
+      "B": "En su tratamiento está indicado la tierra de Fuller",
+      "C": "Está contraindicada la oxigenoterapia: la toxicidad del paraquat aumenta en relación con la concentración de oxígeno alveolar",
+      "D": "No existe antídoto"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La respuesta incorrecta es la A: la intoxicación por paraquat tiene una mortalidad MUY ELEVADA, no escasa. Es uno de los herbicidas más letales conocidos; la mortalidad puede superar el 50-70% incluso en ingestas pequeñas. El paraquat produce radicales libres de oxígeno que causan lesión pulmonar progresiva (fibrosis pulmonar), insuficiencia renal y hepática, con frecuencia irreversibles.",
+      "incorrectas": {
+        "B": "Verdadera: la tierra de Fuller (bentonita o tierra de batán) es un adsorbente utilizado específicamente para el paraquat cuando no se dispone de carbón activado o como alternativa, ya que adsorbe el paraquat en el tracto gastrointestinal reduciendo su absorción.",
+        "C": "Verdadera: el oxígeno potencia la toxicidad del paraquat al generar más radicales libres de oxígeno en los tejidos. Por ello, la oxigenoterapia está contraindicada salvo hipoxemia grave (SatO2 < 70%), donde el beneficio supera el riesgo.",
+        "D": "Verdadera: no existe antídoto específico para el paraquat. El tratamiento es de soporte: descontaminación precoz, tierra de Fuller o carbón activado, y evitar el oxígeno. El trasplante pulmonar raramente es una opción debido al daño sistémico."
+      }
+    }
+  },
+  {
+    "id_examen": 348,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "En la intoxicación por setas, señale la Respuesta Correcta:",
+    "opciones": {
+      "A": "La Amanita Phalloides produce intoxicaciones graves por fallo hepático y renal",
+      "B": "Los síntomas de intoxicación por Amanita Phalloides comienzan después de las 6 horas de la ingestión",
+      "C": "Cuando los síntomas en una intoxicación por setas aparecen precozmente (antes de 6 horas) suele deberse a una intoxicación leve o menos grave",
+      "D": "Todas las anteriores son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "Las tres afirmaciones son ciertas. La Amanita phalloides contiene amatoxinas que producen insuficiencia hepática y renal graves con alta mortalidad. Sus síntomas aparecen tardíamente (6-24 horas, a veces hasta 48 h) porque las amatoxinas deben actuar a nivel celular inhibiendo la ARN polimerasa II. La aparición tardía de síntomas en una intoxicación por setas es un signo de alarma de gravedad, mientras que los síntomas precoces (antes de 6 h) suelen corresponder a síndromes más leves como el muscarínico o el gastrointestinal.",
+      "incorrectas": {
+        "A": "Es verdadera por sí sola: las amatoxinas de la Amanita phalloides son potentes hepatotoxinas y nefrotoxinas. La insuficiencia hepática fulminante es la principal causa de muerte, pudiendo requerir trasplante hepático.",
+        "B": "Es verdadera por sí sola: el período de latencia largo (6-48 horas) es una característica clásica de la intoxicación por amatoxinas que distingue este síndrome de otros más leves con síntomas inmediatos.",
+        "C": "Es verdadera por sí sola: la aparición precoz de síntomas gastrointestinales, muscarínicos o neurológicos en menos de 6 horas habitualmente indica intoxicaciones de menor gravedad por setas como Lactarius, Russula, Clitocybe o Inocybe."
+      }
+    }
+  },
+  {
+    "id_examen": 349,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Unos niveles bajos de acetilcolinesterasa en plasma indican una intoxicación por:",
+    "opciones": {
+      "A": "Herbicidas como el paraquat",
+      "B": "Organoclorados como el ddt",
+      "C": "Organofosforados como malation",
+      "D": "Rodenticidas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "Los organofosforados (como el malatión, paratión, clorpirifós) son inhibidores de la acetilcolinesterasa. Al unirse covalentemente a la enzima, la inactivan, impidiendo la hidrólisis de la acetilcolina en las sinapsis colinérgicas. La determinación de niveles de acetilcolinesterasa eritrocitaria (o pseudocolinesterasa plasmática) es la prueba diagnóstica de confirmación: niveles bajos o indetectables confirman la intoxicación por organofosforados o carbamatos.",
+      "incorrectas": {
+        "A": "El paraquat es un herbicida que actúa generando radicales libres de oxígeno a nivel celular, especialmente en el pulmón. No inhibe la acetilcolinesterasa ni produce el síndrome colinérgico. Sus niveles plasmáticos se miden directamente.",
+        "B": "Los organoclorados (DDT, lindano, dieldrín) actúan sobre los canales de sodio y GABA en las membranas neuronales, produciendo hiperexcitabilidad neuronal. No inhiben la acetilcolinesterasa; su detección es por determinación directa del compuesto en sangre o tejidos.",
+        "D": "Los rodenticidas incluyen compuestos de diferentes mecanismos: anticoagulantes (warfarina, brodifacoum), fluoroacetato sódico (1080), estricnina, etc. Ninguno de ellos inhibe la acetilcolinesterasa de forma relevante."
+      }
+    }
+  },
+  {
+    "id_examen": 350,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale la falsa en relación a la intoxicación por cianuro:",
+    "opciones": {
+      "A": "El cianuro se produce por la combustión de materias plásticas y espumas de poliuretano",
+      "B": "Origina acidosis metabólica con anión gap elevado",
+      "C": "La hidroxicobalamina (B12) asociada o no a tiosulfato sódico es el tratamiento de elección",
+      "D": "No produce alteraciones electrocardiográficas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La afirmación falsa es la D: el cianuro SÍ puede producir alteraciones electrocardiográficas. Al inhibir la cadena respiratoria mitocondrial (citocromo c oxidasa), el cianuro provoca hipoxia celular grave que puede causar taquicardia refleja inicial, seguida de bradicardia, bloqueos AV, arritmias ventriculares e incluso fibrilación ventricular y asistolia en intoxicaciones graves.",
+      "incorrectas": {
+        "A": "Verdadera: el cianuro se libera en incendios con materiales sintéticos como plásticos, nailon, poliuretano, lana acrílica. En las víctimas de incendios se debe sospechar intoxicación conjunta por CO y cianuro.",
+        "B": "Verdadera: el cianuro bloquea la fosforilación oxidativa mitocondrial, obligando al metabolismo anaeróbico y produciendo acidosis láctica grave con anión gap elevado. El lactato muy elevado (> 10 mmol/L) en una víctima de incendio es altamente sugestivo de intoxicación por cianuro.",
+        "C": "Verdadera: la hidroxicobalamina (vitamina B12a) es el antídoto de primera línea. Se une al cianuro formando cianocobalamina inocua que se elimina por orina. El tiosulfato sódico actúa como donador de azufre facilitando la conversión de cianuro en tiocianato."
+      }
+    }
+  },
+  {
+    "id_examen": 351,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "Señale la falsa en la intoxicación por monóxido de carbono:",
+    "opciones": {
+      "A": "La afinidad de la hemoglobina para el monóxido de carbono es unas 240 veces mayor que para el oxígeno",
+      "B": "La pulsioximetría, que determina la saturación periférica de oxígeno, es útil para valorar la satO2",
+      "C": "Entre las complicaciones más importantes están el edema agudo de pulmón y el infarto agudo de miocardio",
+      "D": "En las víctimas de incendios puede existir intoxicación conjunta por monóxido y cianuro"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "La afirmación falsa es la B: la pulsioximetría convencional NO es útil para valorar la saturación real de oxígeno en la intoxicación por CO. El pulsioxímetro estándar no distingue entre oxihemoglobina y carboxihemoglobina, ya que ambas absorben la luz a longitudes de onda similares. Por tanto, mostrará valores falsamente normales o elevados aunque el paciente tenga niveles altos de carboxihemoglobina. El diagnóstico requiere gasometría arterial con cooximetría.",
+      "incorrectas": {
+        "A": "Verdadera: la hemoglobina tiene una afinidad por el CO aproximadamente 240 veces superior a la del O2, lo que explica por qué incluso concentraciones bajas de CO en el aire producen niveles elevados de carboxihemoglobina y desplazan al oxígeno de la hemoglobina.",
+        "C": "Verdadera: la intoxicación por CO puede producir edema agudo de pulmón (por lesión miocárdica e hipoxia) y síndrome coronario agudo, especialmente en pacientes con cardiopatía previa. También puede producir síndrome neurológico tardío.",
+        "D": "Verdadera: en los incendios con materiales sintéticos se libera tanto CO como cianuro. La intoxicación combinada es más grave y su sospecha debe conducir a la administración de hidroxicobalamina además de oxigenoterapia al 100%."
+      }
+    }
+  },
+  {
+    "id_examen": 352,
+    "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+    "enunciado": "¿Qué dosis de hidroxicobalamina utilizaría en un niño de 5 años procedente de un incendio que reúne criterios clínicos de administración de este antídoto:",
+    "opciones": {
+      "A": "70 mg/ kg de peso",
+      "B": "1g",
+      "C": "100mg/ kg de peso",
+      "D": "10 mg/ kg de peso"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "En pediatría, la dosis recomendada de hidroxicobalamina para el tratamiento de la intoxicación por cianuro es de 70 mg/kg de peso (máximo 5 g), administrada en infusión intravenosa durante 15 minutos. Esta dosis pediátrica ajustada por peso equivale a la dosis estándar del adulto (5 g iv). La hidroxicobalamina se une directamente al cianuro formando cianocobalamina no tóxica que se elimina por vía renal.",
+      "incorrectas": {
+        "B": "1 g es una dosis claramente insuficiente para un niño con intoxicación grave por cianuro. La dosis pediátrica correcta es de 70 mg/kg, por lo que para un niño de 20 kg serían 1,4 g; para uno de 30 kg, 2,1 g. La dosis fija de 1 g no refleja las guías actuales.",
+        "C": "100 mg/kg supera la dosis recomendada y podría ser excesiva. La dosis establecida en pediatría es 70 mg/kg, con un máximo de 5 g (equivalente a la dosis adulto), para evitar efectos adversos innecesarios como hipertensión, eritropenia o cambio de coloración en piel y mucosas.",
+        "D": "10 mg/kg es claramente insuficiente para antagonizar los efectos tóxicos del cianuro en una intoxicación clínicamente significativa procedente de un incendio. Esta dosis infratrataría al paciente con riesgo de secuelas neurológicas o muerte."
+      }
+    }
+  }
+]

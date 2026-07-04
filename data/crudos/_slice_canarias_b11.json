@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 221,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál sería el hallazgo característico en la Radiografía simple de abdomen de un posible vólvulo intestinal?",
+  "opciones": {
+   "A": "Signo del asa centinela",
+   "B": "Signo del seudotumor o grano de café",
+   "C": "Presencia de aerobilia",
+   "D": "Presencia de niveles hidroaéreos de localización central abdominal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 222,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Varón de 80 años con antecedentes personales de cardiopatía, arterosclerosis y fibrilación auricular. Consulta por dolor abdominal intenso, rectorragia, regular estado general con sudoración y dolor precordial. La colonoscopia demuestra la presencia de sangre roja en todo el colon izquierdo. El diagnóstico más probable es:",
+  "opciones": {
+   "A": "Colitis ulcerosa.",
+   "B": "Angiodisplasia de colon.",
+   "C": "Colitis pseudomembranosa.",
+   "D": "Colitis isquémica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 223,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes enunciados es incorrecto con respecto a la hemorragia digestiva baja (HDB)?",
+  "opciones": {
+   "A": "Supone del 25-40% del total de las hemorragias digestivas.",
+   "B": "La HDB aguda suele ser mejor tolerada que la hemorragia digestiva alta y tiene mejor mortalidad.",
+   "C": "Puede presentarse en forma de melenas.",
+   "D": "Una HDB causada por enfermedad diverticular suele acompañarse de dolor abdominal intenso."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 224,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Ante un varón joven que acude por hematoquecia, con estabilidad hemodinámica, con buen estado general, sin fiebre, ¿sospecharíamos como primera posibilidad?",
+  "opciones": {
+   "A": "Divertículo de Meckel.",
+   "B": "Enfermedad inflamatoria intestinal.",
+   "C": "Diverticulitis aguda.",
+   "D": "Angiodisplasia de colon."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 225,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Con respecto a las causas más frecuentes de hemorragia digestiva baja según la edad, indique la opción correcta:",
+  "opciones": {
+   "A": "La causa más frecuente de hemorragia digestiva baja en adultos mayores de 60 años es la enfermedad inflamatoria intestinal crónica.",
+   "B": "Las causas más frecuentes, independientemente de la edad, son las hemorroides y las fisuras anales.",
+   "C": "En adolescentes y adultos jóvenes, la causa más frecuente de hemorragia digestiva baja es la angiodisplasia colónica.",
+   "D": "En adultos mayores de 60 años, la causa más frecuente de hemorragia digestiva baja es la enfermedad diverticular."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 226,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿En cuál de las siguientes circunstancias está indicada la antibioterapia en la obstrucción intestinal?",
+  "opciones": {
+   "A": "Íleo paralítico.",
+   "B": "En toda obstrucción intestinal.",
+   "C": "Íleo espástico.",
+   "D": "En la obstrucción intestinal con sospecha de afectación vascular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 227,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de las siguientes no es una causa de obstrucción intestinal mecánica?",
+  "opciones": {
+   "A": "Obstrucción de la luz intestinal por cálculos biliares.",
+   "B": "Diverticulitis aguda",
+   "C": "Isquemia intestinal",
+   "D": "Adherencias postquirúrgicas"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 228,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la opción correcta con respecto a la Apendicitis aguda",
+  "opciones": {
+   "A": "Nunca origina estreñimiento",
+   "B": "Generalmente los vómitos preceden al dolor abdominal",
+   "C": "En todos los casos aparece leucocitosis",
+   "D": "La migración del dolor desde el epigastrio a la fosa iliaca derecha es muy característica"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 229,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En cuanto a la clasificación de las hemorroides, ¿Cuál de los siguientes enunciados es incorrecto?",
+  "opciones": {
+   "A": "Las hemorroides grado I corresponden a aquellas que no prolapsan a través del canal anal.",
+   "B": "Las hemorroides grado II corresponden a aquellas que prolapsan con la defecación, pero se reducen de forma espontánea.",
+   "C": "Las hemorroides grado III corresponden con aquellas que prolapsan con la defecación y se reducen manualmente.",
+   "D": "Las hemorroides grado IV con aquellas que han sufrido algún tipo de complicación (trombosis hemorroidal, sangrado rectal, etc.)."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 230,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es la causa más frecuente de Hemorroides?",
+  "opciones": {
+   "A": "Cirrosis hepática",
+   "B": "Embarazo",
+   "C": "Estreñimiento",
+   "D": "Idiopática"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 231,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale lo correcto en relación con el sangrado hemorroidal:",
+  "opciones": {
+   "A": "Se manifiesta como hematoquecia",
+   "B": "El prurito no forma parte de los síntomas",
+   "C": "La sangre se expulsa al final de la deposición",
+   "D": "Siempre que existe sangrado hemorroidal, existe trombosis hemorroidal"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 232,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la respuesta incorrecta con respecto a la Diverticulitis aguda:",
+  "opciones": {
+   "A": "El dolor se localiza en la fosa iliaca izquierda",
+   "B": "Es frecuente en mujeres mayores de 60 años",
+   "C": "Ante la sospecha clínica, se debe realizar un TAC abdominal urgente, incluso en pacientes que se han dado de alta recientemente con dicho diagnóstico",
+   "D": "Siempre se debe prescribir tratamiento antibiótico"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 233,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la opción correcta sobre la diverticulitis aguda del colon sigmoideo:",
+  "opciones": {
+   "A": "Es más frecuente en varones menores de 45 años",
+   "B": "El dolor se localiza en fosa iliaca derecha",
+   "C": "El dolor suele empeorar con la defecación",
+   "D": "Nunca cursa con diarrea"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 234,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Señale la INCORRECTA con respecto a las Hernias abdominales:",
+  "opciones": {
+   "A": "La hernia abdominal complicada suele manifestarse como una obstrucción intestinal.",
+   "B": "En todo paciente con obstrucción intestinal es obligado explorar la posible existencia de hernias complicadas",
+   "C": "En la hernia estrangulada, se produce un daño vascular inicialmente arterial y luego venoso.",
+   "D": "En Hernia de Richter, se produce una afectación parcial del asa intestinal, que permite el tránsito, evolucionando de forma más tórpida"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 235,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál es el tratamiento de elección de los abscesos de la región anorrectal en su fase de absceso?",
+  "opciones": {
+   "A": "Antiinflamatorios no esteroideos",
+   "B": "Ciprofloxacino + Metronidazol",
+   "C": "Amoxicilina- ácido clavulánico",
+   "D": "Desbridamiento y drenaje quirúrgicos"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 236,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál de los siguientes enunciados sobre el prolapso rectal es incorrecto?",
+  "opciones": {
+   "A": "Es frecuente la estrangulación por prolapso irreductible",
+   "B": "La reducción con sedación suele ser efectiva, pudiendo demorar el tratamiento quirúrgico definitivo",
+   "C": "Se exterioriza la pared completa, donde son evidentes los anillos de la mucosa colónica",
+   "D": "De aparecer estrangulación, esta debe tratarse mediante el procedimiento de Altemeier (resección perineal del rectosigma)"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 237,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Unas hemorroides internas que prolapsan por el orificio anal con la defectación y requieren reducción manual se corresponde con un grado:",
+  "opciones": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 238,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Con respecto a la pancreatitis aguda, todo es cierto menos:",
+  "opciones": {
+   "A": "La mayoría de los casos están producidos por litiasis biliar.",
+   "B": "La mortalidad por pancreatitis grave puede alcanzar hasta el 50%.",
+   "C": "La amilasa puede ser normal hasta en el 10% de los casos.",
+   "D": "La pancreatitis aguda leve puede tratarse de forma ambulatoria, sin ingreso."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 239,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Con respecto al tratamiento de la pancreatitis aguda, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Reposo digestivo",
+   "B": "Tratamiento analgésico que sea necesario, incluyendo opioides menores o mayores vía parenteral si fuera necesario.",
+   "C": "Administración de inhibidores de la bomba de protones para profilaxis de hemorragia digestiva.",
+   "D": "Profilaxis antibiótica si existe evidencia de pancreatitis aguda necrosante"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 240,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "Respecto a la ascitis, señale la Respuesta Correcta:",
+  "opciones": {
+   "A": "Se denomina ascitis a la acumulación de líquido serofibrinoso libre en la cavidad peritoneal en cantidad superior a 100 ml.",
+   "B": "La dosis de albúmina recomendada al realizar una paracentesis evacuadora es de un vial de 50 ml (10 g) por cada 1.5 litros de líquido ascítico extraído.",
+   "C": "La administración de aminoglucósidos no está contraindicada en la peritonitis bacteriana espontánea.",
+   "D": "La cuantía de líquido ascítico evacuado no debe superar los 5 litros, para evitar disfunciones hidroelectrolíticas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 241,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "En pacientes con ictericia es aconsejable el ingreso hospitalario en las siguientes circunstancias, excepto en:",
+  "opciones": {
+   "A": "Encefalopatía hepática.",
+   "B": "Sepsis de cualquier localización.",
+   "C": "Hepatitis aguda con actividad protrombótica inferior al 50%.",
+   "D": "Enfermedad de Gilbert."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 242,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Canarias",
+  "enunciado": "¿Cuál no es una causa de aumento de hiperbilirrubinemia de predominio indirecto?",
+  "opciones": {
+   "A": "Cirrosis biliar primaria.",
+   "B": "Enfermedad de Gilbert",
+   "C": "Sepsis",
+   "D": "Hemolisis"
+  },
+  "respuesta_correcta": "A"
+ }
+]

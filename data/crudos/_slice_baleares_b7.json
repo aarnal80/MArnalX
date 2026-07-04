@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿En qué estado se encuentra un paciente en coma rígido con los miembros superiores en extensión, aproximación y rotación interna y los miembros inferiores en extensión?",
+  "opciones": {
+   "A": "Estado postcrítico.",
+   "B": "Rigidez de decorticación.",
+   "C": "Rigidez de descerebración.",
+   "D": "Síndrome conversivo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el caso de un paciente que acude a urgencias y en la exploración presenta habla fluente, mala comprensión del lenguaje, incapacidad para la repetición y disnomia, semiológicamente presenta un cuadro compatible con...",
+  "opciones": {
+   "A": "...afasia de Broca.",
+   "B": "...afasia de conducción.",
+   "C": "...afasia transcortical sensitiva.",
+   "D": "...afasia de Wernicke."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa respecto al estupor:",
+  "opciones": {
+   "A": "Es una alteración de la conciencia.",
+   "B": "Supone un estado reversible por estímulos moderados.",
+   "C": "Se utiliza este término en los estados de mutismo y de reducción de la actividad motora.",
+   "D": "En el ámbito de la neurología es un estado que precede al coma."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Existen varios términos semiológicos que tienen en cuenta el patrón respiratorio de un paciente en coma. Si se observa que en un paciente, tras un periodo de apnea, se producen respiraciones que aumentan progresivamente de amplitud y frecuencia y luego disminuyen progresivamente hasta otro episodio de apnea, ¿a qué patrón corresponde?",
+  "opciones": {
+   "A": "Taquipnea.",
+   "B": "Platipnea.",
+   "C": "Respiración de Kussmaul.",
+   "D": "Respiración de Cheyne-Stokes."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la respuesta incorrecta sobre los cuidados iniciales en el abordaje de un paciente en coma:",
+  "opciones": {
+   "A": "Mantener la permeabilidad de la vía aérea.",
+   "B": "Vigilar la frecuencia respiratoria, el patrón de ventilación y los signos de hipoxemia.",
+   "C": "Mantener una presión arterial media por encima de 70 mmHg.",
+   "D": "Está contraindicado el uso de labetalol y nitroprusiato en todos los casos."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre el líquido cefalorraquídeo:",
+  "opciones": {
+   "A": "El líquido cefalorraquídeo normal es claro, transparente, tiene una presión de apertura de 5-20 cm H2O y contiene un máximo de 5 células/mm3, que habitualmente son mononucleares.",
+   "B": "La proporción de glucorraquia respecto a la glucemia capilar es del 100 % y tiene 50-100 mg/dL de proteínas.",
+   "C": "Un perfil linfocitario con glucorraquia normal orienta al diagnóstico de meningitis de origen bacteriano.",
+   "D": "Un perfil leucocitario polimorfonuclear con glucorraquia disminuida orienta al diagnóstico de meningitis de origen vírico."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Plantéese el caso de una joven de 20 años que acude al servicio de urgencias porque, después de levantarse y mirarse al espejo, ha notado debilidad en toda la mitad derecha de la cara (incluida la frente) al cerrar el párpado y al sonreír. La afectación está acompañada de disgeusia, hiperacusia y dolor mastoideo ipsilateral. Sin déficit de fuerza ni sensitivo en extremidades ni alteraciones del habla. Señale la afirmación correcta respecto a este caso:",
+  "opciones": {
+   "A": "El diagnóstico más probable es una placa desmielinizante en la hemiprotuberancia contralateral y la exploración complementaria más necesaria es una resonancia magnética craneal.",
+   "B": "Los corticoides por la vía oral son de elección en el tratamiento de esta paciente.",
+   "C": "Debe ser considerada la fibrinolisis endovenosa si el tiempo de evolución es inferior a tres horas.",
+   "D": "Lo más probable es que el cuadro sea irreversible."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre las crisis epilépticas postraumáticas:",
+  "opciones": {
+   "A": "Son habituales inmediatamente después de un traumatismo craneal.",
+   "B": "Las lesiones penetrantes y la gravedad de la lesión son factores que favorecen estas crisis.",
+   "C": "Está indicado el tratamiento anticomicial profiláctico.",
+   "D": "Tras un par de años de riesgo más alto, los pacientes con lesiones graves tienen el mismo riesgo que la población general."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre los tratamientos específicos del coma reversible:",
+  "opciones": {
+   "A": "La dextrosa se utiliza en los casos de coma hipoglucémico.",
+   "B": "La tiamina se utiliza en los casos de encefalopatía de Wernicke.",
+   "C": "La rifampicina se utiliza en los casos de encefalopatía hepática.",
+   "D": "La ventilación mecánica se utiliza en los casos de encefalopatía hipercápnica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes no es un tipo de síndrome lacunar?",
+  "opciones": {
+   "A": "Síndrome motor puro.",
+   "B": "Hemiparesia atáxica.",
+   "C": "Torpeza en las manos y disartria.",
+   "D": "Hemiplejia izquierda."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes es uno de los objetivos del control de los signos vitales en los casos de ictus agudo?",
+  "opciones": {
+   "A": "Tensión arterial por debajo de 185/105 mmHg.",
+   "B": "Temperatura por debajo de 38 °C.",
+   "C": "Glucemia por debajo de 170 mg/dL.",
+   "D": "Saturación de oxígeno por encima del 93 %."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el servicio de urgencias, ¿cuál es la actitud menos adecuada en un caso de hemorragia subaracnoidea?",
+  "opciones": {
+   "A": "Iniciar un tratamiento anticomicial preventivo.",
+   "B": "Si el cuadro es muy sugestivo y el resultado de la TC craneal es normal, hay que hacer una punción lumbar.",
+   "C": "Si se confirma la hemorragia, hay que solicitar una angiotomografía computarizada craneal con carácter urgente.",
+   "D": "Hay que corregir las posibles alteraciones de la coagulación."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta correcta según las escalas de valoración de la sepsis en un hombre de 67 años con fiebre 38,7°C, TA 80/40 mmHg, FC 120 lpm, FR 30 rpm, SatO2 94%, GCS 13, tras resección transuretral de próstata hace 2 días:",
+  "opciones": {
+   "A": "Con la escala quick SOFA < 2.",
+   "B": "Con la escala MEWS < 5 puntos.",
+   "C": "Con la escala NEWS 2 media: 6 puntos.",
+   "D": "Con la escala quick SOFA > 2."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Hacia qué diagnóstico orientan los resultados de la analítica (creatinina 7,2 mg/dL, bilirrubina 2,3, PCR 23, procalcitonina 10 ng/mL, pH 6,9, láctico 8,0 mmol/L, nitritos positivos con abundantes microorganismos y leucocituria)?",
+  "opciones": {
+   "A": "Cetoacidosis diabética con fiebre.",
+   "B": "Diverticulitis aguda.",
+   "C": "Sepsis de origen renal.",
+   "D": "Cólico biliar complicado."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta correcta de acuerdo con los datos de la gasometría (pH 6,9; pO2 57; pCO2 24; HCO3 12; EB -23; láctico 8,0 mmol/L):",
+  "opciones": {
+   "A": "Acidemia metabólica e insuficiencia respiratoria.",
+   "B": "Acidosis metabólica e insuficiencia respiratoria normocápnica.",
+   "C": "Acidosis metabólica con alcalosis respiratoria compensadora.",
+   "D": "Acidemia láctica."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación falsa sobre la procalcitonina:",
+  "opciones": {
+   "A": "Es un biomarcador utilizado para valorar la gravedad y la mortalidad en los procesos sépticos.",
+   "B": "Ayuda a distinguir la sepsis de un síndrome de respuesta inflamatoria sistémica (SRIS) no infeccioso gracias a que alcanza una sensibilidad del 98 % y una especificidad de más del 90 % si los valores son superiores a 10 ng/mL.",
+   "C": "No se eleva en los casos de shock cardiogénico o de carcinoma de pulmón.",
+   "D": "Se recomienda hacer una nueva determinación a las 8-12 horas y a las 24 horas para comprobar la variación y estimar la mejoría o la progresión de la infección."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Después de trasladar al paciente al área de críticos con monitorización no invasiva, hay que iniciar el tratamiento de resucitación con...",
+  "opciones": {
+   "A": "...500 mL de suero fisiológico en la primera hora.",
+   "B": "...suero fisiológico a ritmo de 30 mL/kg en las primeras tres horas.",
+   "C": "...500 mL de lactato de Ringer en la primera hora.",
+   "D": "...500 mL de Isofundin® en la primera hora."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Dados los valores de la gasometría (pH 6,9; HCO3 12; EB -23), señale la respuesta correcta sobre el tratamiento que debe administrarse en la fase de resucitación:",
+  "opciones": {
+   "A": "Perfusión de bicarbonato 1/6 M a través de una vía periférica.",
+   "B": "Perfusión de bicarbonato 1M (a una dosis de 1 mEq/kg).",
+   "C": "No hay que añadir bicarbonato.",
+   "D": "Hay que añadir una perfusión de suero glucosado al 10 % con insulina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación correcta sobre el tratamiento antibiótico en el caso clínico descrito:",
+  "opciones": {
+   "A": "Debe iniciarse lo antes posible: se recomienda antes de la primera hora desde el diagnóstico, hasta un máximo de tres horas.",
+   "B": "La dosis inicial debe estar ajustada a la función renal.",
+   "C": "La dosis inicial debe ser plena.",
+   "D": "Las respuestas a) y c) son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Bajo la sospecha diagnóstica y el foco de infección (sepsis de origen renal/urológico), ¿cuál es el tratamiento antibiótico adecuado en este caso clínico?",
+  "opciones": {
+   "A": "4 g de piperacilina tazobactam cada 8 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+   "B": "2 g de piperacilina tazobactam cada 12 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+   "C": "1 g de meropenem cada 8 horas +/- 15 mg/kg de amikacina en una dosis única diaria.",
+   "D": "2 g de ceftriaxona cada 24 horas +/- 15 mg/kg de amikacina en una dosis única diaria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes no es una de las variables dinámicas que deben revisarse tras la resucitación inicial, según las recomendaciones de las guías internacionales de sepsis, y que indicarían fracaso?",
+  "opciones": {
+   "A": "Diuresis < 50 mL/h.",
+   "B": "Presión arterial media > 65 mmHg.",
+   "C": "Aclaramiento de lactato < 20 %.",
+   "D": "Insuficiencia respiratoria con PaO2/FiO2 < 300 (en ausencia de neumonía)."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 154,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación falsa de acuerdo con las guías Surviving Sepsis Campaign de 2021:",
+  "opciones": {
+   "A": "La sepsis es una disfunción orgánica potencialmente mortal, causada por una respuesta inadecuada del huésped a una infección documentada clínica y/o microbiológicamente.",
+   "B": "La sepsis grave se mantiene en la actualidad como definición.",
+   "C": "La sepsis es dependiente del tiempo y, por lo tanto, es una emergencia médica.",
+   "D": "La sepsis es una de las principales causas de mortalidad en todo el mundo."
+  },
+  "respuesta_correcta": "B"
+ }
+]

@@ -1,0 +1,574 @@
+[
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta sobre las hemorragias intracraneales en un traumatismo craneoencefálico de alta energía:",
+  "opciones": {
+   "A": "El hematoma epidural raramente se asocia a fracturas craneales.",
+   "B": "El hematoma subdural se produce por el desgarro y la rotura de vasos sanguíneos.",
+   "C": "El hematoma intraventricular se asocia a un buen pronóstico.",
+   "D": "La hemorragia subaracnoidea se produce por la rotura de un aneurisma."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El hematoma subdural traumático se produce por el desgarro de las venas puente que discurren entre la corteza y los senos venosos durales, o por la rotura de vasos corticales, como afirma correctamente la opción B. La A es falsa: el hematoma epidural se asocia en un 85-90% de los casos a fracturas del cráneo, especialmente en la zona temporal (rotura de la arteria meníngea media). La C es falsa: el hematoma intraventricular se asocia a un pronóstico muy grave. La D es falsa en el contexto traumático: en el TCE, la hemorragia subaracnoidea es postraumática y se produce por laceración de vasos superficiales, no por rotura de aneurisma (que es la causa de la hemorragia subaracnoidea espontánea).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre el traumatismo abdominal grave:",
+  "opciones": {
+   "A": "Las lesiones desapercibidas abdominales y del anillo pélvico son causa de muerte prevenible después de un traumatismo torácico.",
+   "B": "Las lesiones de las estructuras viscerales retroperitoneales son fáciles de reconocer por medio del protocolo FAST y clínicamente por la manifestación temprana de irritación peritoneal.",
+   "C": "La lesión diafragmática es poco frecuente, y cuando ocurre suele darse en el hemidiafragma posterolateral izquierdo.",
+   "D": "En los casos de lesiones de órganos sólidos intraabdominales en un politraumatismo hemodinámicamente estable está indicada una actitud conservadora."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la B. Las lesiones de las estructuras retroperitoneales (riñones, páncreas, duodeno, grandes vasos) son precisamente DIFÍCILES de reconocer, tanto por ecografía FAST (que tiene limitaciones para el retroperitoneo) como clínicamente, ya que la irritación peritoneal puede no manifestarse de forma temprana al estar el contenido protegido por el peritoneo posterior. Esta es la razón por la que el TC abdominal es esencial en el politraumatismo. Las opciones A, C y D son afirmaciones correctas sobre el manejo del traumatismo abdominal.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las posibles fracturas del anillo pélvico cursa más a menudo con lesión del complejo ligamentoso posterior y está asociada a un shock de grado III-IV si no se hace un abordaje adecuado?",
+  "opciones": {
+   "A": "Fractura desplazada del ala ilíaca derecha (tipo A en la clasificación de Tile).",
+   "B": "Fractura en libro abierto con diástasis pubiana de menos de 2,5 cm (tipo B en la clasificación de Tile).",
+   "C": "Fractura en mariposa o bilateral de ramas ileopubianas e isquiopubianas.",
+   "D": "Fractura con desplazamiento vertical de la articulación sacroilíaca y diástasis del pubis de más 2,5 cm (tipo C en la clasificación de Tile)."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 88,
+   "grupo": "especifico",
+   "titulo": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las fracturas pélvicas tipo C de Tile son las más inestables, con rotura completa del complejo ligamentoso posterior (sacroilíaco posterior, sacrociático) y desplazamiento vertical del hemipelvis. Se asocian a hemorragia masiva retroperitoneal (shock de grado III-IV) por la lesión de los plexos venosos sacros y de ramas de la arteria ilíaca interna. Las tipo A (A) son estables, sin lesión del anillo posterior. Las tipo B (B) tienen rotura parcial del posterior. La fractura en mariposa (C) es una variante de lesión anterior bilateral sin inestabilidad posterior severa.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: La incapacidad para la extensión dorsal de la mano y los dedos en ligera flexión del miembro superior en el contexto de una fractura supracondílea de húmero hace sospechar una lesión de un nervio. ¿Cuál?",
+  "opciones": {
+   "A": "Nervio cubital.",
+   "B": "Nervio radial.",
+   "C": "Nervio mediano.",
+   "D": "Nervio circunflejo."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 87,
+   "grupo": "especifico",
+   "titulo": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La clave oficial del examen indica el nervio mediano (C) como respuesta correcta. Sin embargo, desde el punto de vista neuroanatómico, la incapacidad para la extensión dorsal de la muñeca y los dedos («mano caída» o «wrist drop») es la presentación típica de la lesión del nervio RADIAL, no del mediano. El nervio radial controla la extensión de la muñeca y los dedos. La lesión del mediano produce incapacidad para la pronación, flexión de la muñeca y oposición del pulgar. La respuesta oficialmente correcta según el examen es C (mediano), aunque clínicamente la extensión dorsal es función del radial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Durante la valoración secundaria del caso clínico descrito, una vez estabilizado el paciente se le retira la férula de vacío y se observa una gran deformidad del tercio medio del muslo derecho con una herida contusa de 11 cm, sangrante y con exposición de hueso. Señale la acción correcta:",
+  "opciones": {
+   "A": "Hay que cohibir la hemorragia presionando con gasas estériles, comprobar el pulso distal e inmovilizar la fractura con una férula de yeso posterior.",
+   "B": "Hay que administrar analgesia, cohibir la hemorragia y volver a colocar la férula de vacío.",
+   "C": "Hay que cohibir la hemorragia, administrar analgesia, alinear la fractura e inmovilizarla con una tracción esquelética, y seguidamente comprobar el pulso distal y hacer una exploración neurológica de la extremidad.",
+   "D": "La administración inicial de fentanilo a cargo del equipo de atención extrahospitalaria es suficiente; hay que suturar la herida e inmovilizar la fractura con una bota de yeso."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 87,
+   "grupo": "especifico",
+   "titulo": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Ante una fractura de fémur abierta con exposición ósea, la secuencia correcta es: control de la hemorragia activa, administración de analgesia, reducción y alineación de la fractura con tracción esquelética (que también contribuye a reducir el sangrado al restaurar el volumen de la vaina muscular) y comprobación del estado neurovascular distal (pulso poplíteo, tibial posterior, pedio; sensibilidad y motilidad distales). La férula de vacío (B) sin reducción es insuficiente. La férula de yeso posterior (A) no es adecuada para fractura de fémur abierta. La bota de yeso (D) es completamente incorrecta para una fractura de muslo.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: En relación con la pregunta anterior (fractura abierta de tercio medio de muslo derecho), ¿cuál es el tratamiento antibiótico de elección indicado?",
+  "opciones": {
+   "A": "2 g de amoxicilina - ácido clavulánico por la vía endovenosa.",
+   "B": "2 g de cefazolina y 900 mg clindamicina, ambas por la vía endovenosa.",
+   "C": "No se requiere tratamiento antibiótico.",
+   "D": "2 g de cefazolina y 5 mg/kg de peso de gentamicina."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 87,
+   "grupo": "especifico",
+   "titulo": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En las fracturas abiertas de alta energía (Gustilo III, como esta con herida > 10 cm y exposición ósea), el protocolo antibiótico profiláctico de elección es la combinación de cefazolina (cobertura grampositiva) más gentamicina (cobertura gramnegativa), según las guías de la SECOT y recomendaciones internacionales (opción D). La amoxicilina-clavulánico (A) tiene espectro adecuado pero no es el estándar en fracturas abiertas graves. La cefazolina con clindamicina (B) se usa en pacientes alérgicos a penicilina y cuando hay riesgo de anaerobios. La opción C es incorrecta: todas las fracturas abiertas requieren antibioterapia profiláctica precoz.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta respecto a la evaluación de la resucitación con líquidos en un paciente con un traumatismo:",
+  "opciones": {
+   "A": "El exceso de bases es un mal indicador de la resucitación.",
+   "B": "El bicarbonato sódico debe administrarse con un pH superior a 7,2.",
+   "C": "La diuresis es un buen indicador de la reposición adecuada de volumen.",
+   "D": "La normalización de la presión arterial y el pulso son los indicadores más fiables de que la perfusión del órgano y de los sistemas es adecuada."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 42,
+   "grupo": "especifico",
+   "titulo": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+  },
+  "explicacion": {
+   "correcta": "La diuresis (objetivo: > 0,5 mL/kg/h en adultos, > 1 mL/kg/h en niños) es un indicador fiable y práctico de la perfusión renal y, por extensión, del restablecimiento de la perfusión tisular general tras la resucitación (opción C correcta). La A es incorrecta: el exceso de bases (déficit de bases) es un buen marcador del grado de shock y de la calidad de la resucitación. La B es incorrecta: el bicarbonato no se recomienda de forma rutinaria salvo pH < 7,1-7,15 con inestabilidad hemodinámica severa. La D es incorrecta: la normalización de la TA y el pulso puede ser engañosa (shock oculto o compensado) y no refleja necesariamente la adecuada perfusión tisular.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los siguientes signos puede corresponder, con una probabilidad alta, a una lesión grave en un traumatismo craneoencefálico?",
+  "opciones": {
+   "A": "Rinorragia controlada con presión bidigital.",
+   "B": "Herida en scalp del cuero cabelludo.",
+   "C": "Anisocoria arreactiva.",
+   "D": "Equimosis palpebral unilateral."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La anisocoria arreactiva (pupila dilatada y sin respuesta a la luz) en el contexto de un TCE indica compresión del tercer par craneal (oculomotor) por herniación uncal del lóbulo temporal, lo que supone una emergencia neuroquirúrgica por hipertensión intracraneal grave (opción C). La rinorragia controlable (A) es un sangrado nasal menor sin gravedad intracraneal directa. La herida en scalp (B) puede sangrar profusamente por la vascularización del cuero cabelludo pero no implica lesión intracraneal per se. La equimosis palpebral unilateral (D) puede ser signo de fractura orbitaria pero no de lesión encefálica grave de forma directa.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los parámetros siguientes no influye en la valoración de las quemaduras?",
+  "opciones": {
+   "A": "Extensión de la quemadura.",
+   "B": "Peso del paciente.",
+   "C": "Edad del paciente.",
+   "D": "Presencia de lesiones asociadas."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 89,
+   "grupo": "especifico",
+   "titulo": "Valoración y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Síndrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "En la valoración de las quemaduras los parámetros fundamentales son: extensión (porcentaje de superficie corporal quemada, calculado con la regla de los 9 o el diagrama de Lund-Browder), profundidad, localización, edad del paciente (los extremos de la vida tienen peor pronóstico), presencia de lesión por inhalación y lesiones asociadas. El peso del paciente (B) no es un parámetro de valoración pronóstica de la quemadura en sí misma, aunque sí puede utilizarse para el cálculo de fluidos en la reanimación (fórmula de Parkland: 4 mL × kg × % SCQ). Los parámetros A, C y D sí influyen directamente en el pronóstico y la gravedad.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre los traumatismos en las gestantes:",
+  "opciones": {
+   "A": "El abordaje no difiere del que se aplica a la población general.",
+   "B": "La causa principal de mortalidad fetal tras un traumatismo es la infección.",
+   "C": "La gestación no incrementa la morbilidad de las embarazadas.",
+   "D": "La gravedad de la lesión de la embarazada no se correlaciona con el estado del feto."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 86,
+   "grupo": "especifico",
+   "titulo": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la B. La principal causa de mortalidad fetal tras un traumatismo materno NO es la infección, sino el desprendimiento prematuro de placenta (abruptio placentae) y el shock hemorrágico materno, que conducen a hipoxia fetal. La infección no es la principal causa de muerte fetal en este contexto. Las demás afirmaciones son correctas en el contexto de los protocolos actuales: el abordaje del politraumatismo en la gestante sigue los mismos principios generales ATLS (A); existen consideraciones especiales por los cambios fisiológicos del embarazo que pueden incrementar la morbilidad (C, aunque discutible); y lesiones menores maternas pueden causar daño fetal grave sin correlación aparente con la gravedad materna (D).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 121,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál es el diagnóstico más probable en un hombre de 79 años trasladado desde residencia, desorientado en tiempo y espacio, con discurso incoherente, inquietud psicomotriz, alucinaciones visuales, episodios de somnolencia y desatención, leucocitos 14.000, PCR 12,1, sedimento con 500 leucocitos/µL?",
+  "opciones": {
+   "A": "Debut típico de una demencia en un paciente anciano con una infección grave.",
+   "B": "Cuadro de delirium en un paciente anciano con una infección grave con instauración aguda y curso fluctuante.",
+   "C": "Debut de un episodio psicótico agudo (esquizofrenia tardía del anciano), pues tiene alucinaciones.",
+   "D": "Episodio de depresión grave debido a la hospitalización en urgencias, con sintomática psicótica asociada."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 97,
+   "grupo": "especifico",
+   "titulo": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+  },
+  "explicacion": {
+   "correcta": "El cuadro descrito (desorientación, discurso incoherente, agitación psicomotriz, alucinaciones visuales, fluctuación con episodios de somnolencia, desatención, instauración aguda en el contexto de una infección —leucocitosis, PCR elevada e infección urinaria con 500 leucocitos en sedimento—) es la presentación característica del síndrome confusional agudo o delirium (opción B). La demencia (A) tiene instauración insidiosa y progresiva, no aguda. La esquizofrenia tardía (C) no suele debutar a los 79 años y no se explica por la infección. La depresión grave (D) no produce este cuadro de agitación y alucinaciones visuales en el contexto infeccioso.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 122,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las respuestas siguientes no es una de las circunstancias especiales que deben tenerse en consideración a la hora de evaluar a un paciente anciano en el servicio de urgencias?",
+  "opciones": {
+   "A": "La probabilidad más alta de manifestarse las enfermedades agudas de forma atípica.",
+   "B": "La posible falta de colaboración del paciente durante la anamnesis a causa del deterioro cognitivo.",
+   "C": "La concurrencia de una o varias enfermedades crónicas que pueden descompensarse durante un proceso agudo.",
+   "D": "El riesgo más bajo de interacciones y reacciones adversas con el tratamiento inmediato en el servicio de urgencias."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 97,
+   "grupo": "especifico",
+   "titulo": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+  },
+  "explicacion": {
+   "correcta": "La opción D es incorrecta (y por tanto la respuesta a la pregunta): el paciente anciano tiene un riesgo MÁS ALTO (no más bajo) de interacciones medicamentosas y reacciones adversas, debido a los cambios farmacocinéticos y farmacodinámicos propios del envejecimiento (reducción del aclaramiento renal y hepático, cambios en la distribución de fármacos, mayor sensibilidad a fármacos psicoactivos) y a la polimedicación frecuente. Las circunstancias A (presentación atípica), B (deterioro cognitivo y dificultad anamnésica) y C (multimorbilidad) sí son consideraciones reales y reconocidas en la valoración del anciano en urgencias.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 123,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre la valoración geriátrica integral adaptada a urgencias (VGI-SU):",
+  "opciones": {
+   "A": "Es una herramienta con la que se valoran aspectos exclusivamente clínicos.",
+   "B": "Es una herramienta diagnóstica que requiere hacer pruebas complementarias muy costosas.",
+   "C": "Es una herramienta diagnóstica con la que se valoran aspectos clínicos, funcionales, mentales y sociales.",
+   "D": "Es una herramienta que no puede aplicarse en el servicio de urgencias en ningún caso."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 97,
+   "grupo": "especifico",
+   "titulo": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+  },
+  "explicacion": {
+   "correcta": "La Valoración Geriátrica Integral adaptada a Urgencias (VGI-SU) es una herramienta multidimensional que evalúa de forma sistemática los aspectos clínicos (enfermedades y síntomas), funcionales (capacidad para las actividades de la vida diaria), mentales (estado cognitivo y afectivo) y sociales (red de apoyo, situación domiciliaria) del paciente anciano. No se limita a aspectos exclusivamente clínicos (A), no requiere pruebas costosas (B) y está específicamente diseñada y validada para aplicarse en el servicio de urgencias (D es falsa).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 124,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre la valoración del síndrome confusional agudo (o delirium) en el servicio de urgencias:",
+  "opciones": {
+   "A": "Con el Confusional Assessment Method (CAM) se miden el nivel de la conciencia, la inatención, las posibles comorbilidades y el inicio de los síntomas; es un método fiable para diagnosticar el delirium.",
+   "B": "El delirium con síntomas mixtos de hiperactividad e hipoactividad es la presentación clínica más frecuente.",
+   "C": "En el síndrome confusional agudo -a diferencia de la psicosis-, la memoria está alterada.",
+   "D": "El síndrome confusional agudo es un trastorno de causa orgánica que reduce la probabilidad de supervivencia al cabo de un año desde el diagnóstico."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 92,
+   "grupo": "especifico",
+   "titulo": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la A. El Confusional Assessment Method (CAM) valora cuatro características: 1) inicio agudo y curso fluctuante, 2) inatención, 3) pensamiento desorganizado y 4) alteración del nivel de conciencia. NO incluye la valoración de comorbilidades. El diagnóstico de delirium por CAM requiere la presencia de los criterios 1 y 2, más el 3 o el 4. Las comorbilidades no son parte del instrumento CAM. Las opciones B (presentación mixta como más frecuente), C (alteración de memoria en el delirium vs. psicosis) y D (impacto pronóstico en supervivencia al año) son afirmaciones correctas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 125,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa sobre el tratamiento del síndrome confusional agudo en los ancianos:",
+  "opciones": {
+   "A": "No hay pruebas concluyentes de que el uso de antipsicóticos reduzca la gravedad o la duración de los episodios.",
+   "B": "No existe un consenso definitivo sobre la selección de antipsicóticos, aunque son preferibles los atípicos.",
+   "C": "Se reserva el uso de antipsicóticos y otros medicamentos sedantes para el tratamiento de la agitación grave.",
+   "D": "Las benzodiacepinas se indican como el tratamiento de primera elección."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 92,
+   "grupo": "especifico",
+   "titulo": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la D. Las benzodiacepinas NO son el tratamiento de primera elección en el delirium del anciano; de hecho, están contraindicadas en el delirium no alcohólico porque pueden empeorar la confusión, aumentar el riesgo de caídas y provocar sedación excesiva. El tratamiento del delirium con agitación en el anciano se basa en medidas no farmacológicas como primera línea, y si se requiere tratamiento farmacológico, se prefieren los antipsicóticos (haloperidol o atípicos como tiaprida, quetiapina u olanzapina). Las benzodiacepinas solo se indican en el delirium por abstinencia alcohólica o benzodiacepínica. Las opciones A, B y C son correctas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 126,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Qué tratamiento es el más indicado en el caso clínico descrito (hombre de 79 años con delirium hiperactivo e infección)?",
+  "opciones": {
+   "A": "0,5-5 mg de haloperidol por la vía intravenosa, repitiendo la dosis entre media hora y dos horas después.",
+   "B": "50-100 mg de tiaprida por la vía intravenosa, repitiendo la dosis entre media hora y dos horas después.",
+   "C": "0,5-2,5 mg de midazolam por la vía intravenosa. Dosis de ajuste: 0,5-1 mg cada 10-15 minutos.",
+   "D": "2,5-5 mg de olanzapina por la vía intramuscular, repitiendo la dosis entre media hora y cuatro horas después."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 92,
+   "grupo": "especifico",
+   "titulo": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En el anciano con delirium hiperactivo, la tiaprida (antipsicótico con perfil benigno en el anciano) a dosis de 50-100 mg IV es una opción preferida por su menor riesgo de efectos extrapiramidales y cardiovasculares respecto al haloperidol (A). El midazolam (C) es una benzodiacepina contraindicada en el delirium no alcohólico del anciano. La olanzapina IM (D) puede usarse, pero tiene mayor riesgo de sedación excesiva y efectos adversos en el anciano. La tiaprida es ampliamente utilizada en los protocolos españoles de delirium en urgencias en pacientes ancianos.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 127,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación correcta sobre los problemas relacionados con la terapia del anciano:",
+  "opciones": {
+   "A": "Los factores identificados en relación con problemas de cumplimento terapéutico son aquellos que no dependen del tratamiento ni del paciente.",
+   "B": "La polifarmacia es el factor de riesgo más importante en la aparición de efectos adversos a medicamentos.",
+   "C": "El problema principal de las interacciones es que son predecibles y conducen siempre a la aparición de efectos adversos.",
+   "D": "Aunque las reacciones adversas a medicamentos son más frecuentes en este grupo de población, la gravedad es menor en comparación con los pacientes más jóvenes."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 97,
+   "grupo": "especifico",
+   "titulo": "Aproximación inicial al paciente anciano en urgencias: Valoración clínica, funcional, mental y socioambiental."
+  },
+  "explicacion": {
+   "correcta": "La polifarmacia (uso simultáneo de 5 o más fármacos) es el principal factor de riesgo para la aparición de reacciones adversas a medicamentos en el anciano, ya que incrementa exponencialmente el riesgo de interacciones farmacológicas (opción B correcta). La A es incorrecta: los factores de incumplimiento terapéutico incluyen factores dependientes del tratamiento (complejidad posológica, efectos adversos) y del paciente (deterioro cognitivo, destreza manual). La C es incorrecta: muchas interacciones son impredecibles y no siempre producen efectos adversos. La D es incorrecta: las reacciones adversas en el anciano son más frecuentes Y más graves que en jóvenes.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 128,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál de las siguientes alteraciones metabólicas origina con menos frecuencia manifestaciones clínicas por afectación del sistema nervioso central primariamente?",
+  "opciones": {
+   "A": "Amonio sérico de 300 micromol/l.",
+   "B": "Glucosa sérica de 15 mg/dl.",
+   "C": "Potasio sérico de 4,2 mEq/l.",
+   "D": "Hipercapnia con PCO2 de 70 mmHg."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La respuesta correcta es la C: el potasio sérico de 4,2 mEq/L es un valor NORMAL (rango normal: 3,5-5,0 mEq/L), por lo que no produce manifestaciones clínicas de ningún tipo, y menos aún por afectación del SNC. Las demás alteraciones sí producen manifestaciones neurológicas: el amonio de 300 µmol/L (A, valor muy elevado, normal < 45) causa encefalopatía hepática; la glucemia de 15 mg/dL (B) causa hipoglucemia grave con alteración del nivel de conciencia y convulsiones; la hipercapnia con pCO2 de 70 mmHg (D) causa narcosis por CO2. La clave oficial indica B como respuesta, pero desde el punto de vista metabólico C es el valor normal que menos afectaría al SNC.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 129,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Plantéese el caso de un hombre de 34 años a quien se ha diagnosticado otitis media hace cinco días, sin otros antecedentes, que debuta con fiebre de 39 °C, cefalea, síndrome confusional y rigidez de nuca. Se le hace una punción lumbar, cuyo resultado sugiere meningitis bacteriana. ¿Cuál de los siguientes sería el mejor tratamiento antibiótico empírico?",
+  "opciones": {
+   "A": "Ceftriaxona y vancomicina.",
+   "B": "Cefotaxima y ampicilina.",
+   "C": "Moxifloxacino y vancomicina.",
+   "D": "Meropenem y ampicilina."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 69,
+   "grupo": "especifico",
+   "titulo": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "En un adulto joven (34 años) sin factores de riesgo especiales y con meningitis bacteriana adquirida en la comunidad (probablemente por Streptococcus pneumoniae o Neisseria meningitidis dado el antecedente de otitis media), el tratamiento empírico estándar es ceftriaxona (o cefotaxima) en combinación con vancomicina para cubrir el posible neumococo resistente a penicilina (opción A). La ampicilina (B y D) se añade en mayores de 50 años, embarazadas o inmunodeprimidos para cubrir Listeria monocytogenes, lo que no aplica en este caso. El moxifloxacino (C) no es el antibiótico de elección en meningitis bacteriana.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 130,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: Señale la afirmación falsa en relación con el examen de las pupilas de un paciente en coma:",
+  "opciones": {
+   "A": "La miosis reactiva a la luz se relaciona con una lesión en el diencéfalo.",
+   "B": "La midriasis unilateral o anisocoria con reflejo directo negativo e indirecto conservado se relaciona con una lesión en el nervio óptico.",
+   "C": "La midriasis bilateral no reactiva se relaciona con la muerte cerebral.",
+   "D": "La midriasis bilateral reactiva se relaciona con la herniación uncal."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es la D. La herniación uncal produce compresión del tercer par craneal (nervio oculomotor) ipsilateral, lo que causa MIDRIASIS UNILATERAL ARREACTIVA (no bilateral reactiva). La midriasis bilateral reactiva puede deberse a simpaticomiméticos o a un estado de ansiedad/estrés severo. Las demás son correctas: la miosis reactiva con diencéfalo afecto (A), la anisocoria con reflejo directo negativo e indirecto conservado indica lesión del nervio óptico ipsilateral (B) —pupila de Marcus Gunn—, y la midriasis bilateral arreactiva se asocia a muerte cerebral o a efecto de fármacos (C).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 131,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: En el caso de un paciente en tratamiento anticoagulante y antiagregante que presenta lenguaje incoherente, pero sin otras manifestaciones clínicas asociadas, y una lesión hiperdensa en forma de medialuna en la imagen de la tomografía computarizada (TC) craneal, ¿cuál es el diagnóstico más probable?",
+  "opciones": {
+   "A": "Hemorragia subaracnoidea.",
+   "B": "Hematoma intraparenquimatoso.",
+   "C": "Hematoma epidural.",
+   "D": "Hematoma subdural."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 68,
+   "grupo": "especifico",
+   "titulo": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La imagen en TC craneal de una lesión hiperdensa (aguda) con morfología en media luna (creciente) que sigue la convexidad craneal es característica del hematoma subdural agudo (opción D). Esta imagen contrasta con el hematoma epidural, que tiene forma biconvexa (lenticular). La hemorragia subaracnoidea aparece como hiperdensidad en los surcos y cisternas basales. El hematoma intraparenquimatoso es una lesión hiperdensa redondeada dentro del tejido cerebral. El contexto de anticoagulación y antiagregación favorece el desarrollo de hematoma subdural ante traumas de baja energía.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 132,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 6 - Neurología/Geriatría urgencias]: ¿Cuál es la medida menos aceptada respecto al tratamiento de la hipertensión intracraneal en el servicio de urgencias?",
+  "opciones": {
+   "A": "Elevar la cabeza del paciente y mantenerla centrada.",
+   "B": "Drenar el líquido cefalorraquídeo por medio de un drenaje lumbar.",
+   "C": "Hiperventilación moderada.",
+   "D": "Glucocorticoides, en algunas circunstancias."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 66,
+   "grupo": "especifico",
+   "titulo": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El drenaje lumbar (B) está contraindicado o es la medida menos aceptada en la hipertensión intracraneal, porque al extraer LCR del espacio lumbar puede producirse un gradiente de presión que favorezca la herniación cerebral hacia el agujero magno (herniación transtentorial o amigdalina), con consecuencias potencialmente fatales. Las demás medidas son aceptadas: elevar el cabecero 30° con cabeza centrada (A) mejora el drenaje venoso cerebral; la hiperventilación moderada transitoria (C) reduce la pCO2, produciendo vasoconstricción cerebral y reducción rápida de la PIC; los glucocorticoides (D) están indicados en la hipertensión intracraneal de origen tumoral o infeccioso (meningitis bacteriana).",
+   "incorrectas": {}
+  }
+ }
+]

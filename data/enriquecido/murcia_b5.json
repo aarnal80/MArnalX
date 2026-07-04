@@ -1,0 +1,530 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Los objetivos del tratamiento del shock van encaminados a todo lo siguiente, EXCEPTO:",
+  "opciones": {
+   "A": "Mantener una presión arterial media mayor o igual de 60 mmHg.",
+   "B": "Mantener una presión arterial sistólica mayor o igual de 90 mmHg.",
+   "C": "Asegurar una saturación arterial de oxígeno mayor o igual del 96%.",
+   "D": "Evitar la hipoperfusión tisular."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 50,
+   "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción C es la excepción porque el objetivo estándar de saturación arterial de oxígeno en el tratamiento del shock es igual o superior al 94-95%, no al 96%. Fijar como meta el 96% podría implicar una suplementación excesiva de oxígeno que no aporta beneficio adicional y puede resultar perjudicial (hiperoxia). Los protocolos de soporte vital avanzado y guías de shock establecen SpO₂ ≥ 94% como objetivo suficiente.",
+   "incorrectas": {
+    "A": "Mantener una PAM ≥ 60 mmHg es un objetivo hemodinámico validado en el tratamiento del shock, ya que asegura una presión de perfusión mínima de los órganos vitales. Este parámetro figura en las guías de shock séptico y cardiogénico como diana terapéutica.",
+    "B": "Mantener una PAS ≥ 90 mmHg es otro objetivo estándar reconocido en el manejo del shock; su descenso por debajo de ese umbral define hipotensión clínicamente relevante y se asocia a hipoperfusión orgánica.",
+    "D": "Evitar la hipoperfusión tisular es el objetivo fisiopatológico central del tratamiento del shock, dado que la disfunción orgánica se produce precisamente por el desequilibrio entre aporte y demanda de oxígeno a los tejidos."
+   }
+  }
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Dentro del tratamiento hospitalario del TCE grave, ¿cuál de los siguientes enunciados es FALSO?:",
+  "opciones": {
+   "A": "Se debe realizar una profilaxis de las crisis convulsivas con fenitoína sódica o como alternativa valproato sódico.",
+   "B": "Se debe mantener una PAS de al menos 100 mmHg, para ello se debe infundir solución salina fisiológica a razón de 1500 ml / 24H.",
+   "C": "Se debe realizar tratamiento con corticoides preferiblemente dexametasona para control de la hipertensión intracraneal.",
+   "D": "La agitación debe tratarse con fármacos como midazolam, propofol y haloperidol."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción C es falsa porque los corticoides (incluida la dexametasona) están CONTRAINDICADOS en el TCE grave para el control de la hipertensión intracraneal. El estudio CRASH demostró que la metilprednisolona a dosis altas aumenta la mortalidad en estos pacientes. El edema postraumático no responde de forma favorable a los esteroides, a diferencia del edema vasogénico tumoral.",
+   "incorrectas": {
+    "A": "La profilaxis anticonvulsivante con fenitoína o valproato en la fase aguda del TCE grave está indicada para prevenir las crisis convulsivas postraumáticas precoces (primeros 7 días), lo cual es una práctica avalada por las guías de manejo de neurotrauma.",
+    "B": "Mantener una PAS ≥ 100 mmHg en el TCE grave es una recomendación válida para garantizar presión de perfusión cerebral suficiente; la reposición con suero salino fisiológico es la fluidoterapia de elección, aunque el volumen debe ajustarse individualmente.",
+    "D": "El control de la agitación en el TCE grave mediante midazolam, propofol o haloperidol es una práctica correcta para evitar aumentos de la presión intracraneal secundarios a la agitación y facilitar la monitorización neurológica."
+   }
+  }
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Dentro de los objeticos terapéuticos generales en la atención al paciente con TCE grave encontramos todos los siguientes EXCEPTO:",
+  "opciones": {
+   "A": "Glucemia entre 110- 189 mg/dL.",
+   "B": "Presión arterial media inferior a 90 mmHg.",
+   "C": "Saturación O2 (Sap02) por encima de 95.",
+   "D": "PaCo2 entre 30-35 mmHg."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción B es la excepción porque en el TCE grave se busca mantener una PAM igual o superior a 80 mmHg (no inferior a 90 mmHg) para asegurar una presión de perfusión cerebral adecuada (PPC = PAM − PIC). Un objetivo de PAM < 90 mmHg podría inducir hipoperfusión cerebral cuando la presión intracraneal está elevada, lo que empeoraría el pronóstico neurológico.",
+   "incorrectas": {
+    "A": "El control glucémico con cifras entre 110-189 mg/dL es un objetivo reconocido en el TCE grave; tanto la hipoglucemia como la hiperglucemia severa empeoran el metabolismo cerebral y el pronóstico.",
+    "C": "Mantener una SatO₂ > 95% es un objetivo estándar en el TCE grave para evitar hipoxemia, uno de los insultos secundarios más deletéreos en el neurotrauma.",
+    "D": "La PaCO₂ entre 30-35 mmHg es el objetivo de la hiperventilación controlada y leve para reducir la PIC en situaciones de enclavamiento inminente; valores más bajos producen vasoconstricción excesiva con isquemia."
+   }
+  }
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Las estructuras fundamentales del sistema sanitario, responsabilizadas de la gestión unitaria de los centros y establecimientos del Servicio de Salud de la Comunidad Autónoma en su demarcación territorial y de las prestaciones sanitarias y programas sanitarios a desarrollar por ellos, son:",
+  "opciones": {
+   "A": "Los Servicios de Salud de cada Comunidad Autónoma.",
+   "B": "Las Áreas de Salud.",
+   "C": "Las Zonas Básicas de Salud.",
+   "D": "Los Centros de Salud."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "Las Áreas de Salud son las estructuras fundamentales del sistema sanitario según la Ley General de Sanidad (Ley 14/1986, artículo 56). Son las responsables de la gestión unitaria de los centros y establecimientos del Servicio de Salud en su demarcación territorial y de las prestaciones sanitarias y programas a desarrollar. Cada Comunidad Autónoma organiza su territorio en Áreas de Salud, que son la unidad de planificación y gestión básica del sistema.",
+   "incorrectas": {
+    "A": "Los Servicios de Salud de cada Comunidad Autónoma son los organismos superiores de gestión sanitaria autonómica, no las estructuras territoriales encargadas directamente de la gestión unitaria de centros y prestaciones en una demarcación concreta.",
+    "C": "Las Zonas Básicas de Salud son subdivisiones dentro del Área de Salud orientadas a la atención primaria; no son las unidades responsables de la gestión global de todos los centros y prestaciones sanitarias de una demarcación territorial.",
+    "D": "Los Centros de Salud son los equipamientos físicos donde se presta la atención primaria dentro de una Zona Básica de Salud; no constituyen la estructura de gestión unitaria de todos los centros de una demarcación."
+   }
+  }
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿En cuál de los siguientes supuestos está CONTRAINDICADA la utilización de los inhibidores de la ECA (enzima convertidor de la angiotensina)?:",
+  "opciones": {
+   "A": "Hipertensión arterial esencial.",
+   "B": "En el tratamiento de la hipertensión y estenosis de la arteria renal.",
+   "C": "Asociada a diuréticos.",
+   "D": "Asociada a calcio antagonistas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "Los IECA están contraindicados en la estenosis bilateral de la arteria renal (o estenosis de arteria renal en riñón único funcionante) porque el tono de la arteriola eferente glomerular depende de la angiotensina II para mantener la presión de filtración; al bloquearse la ECA se pierde ese mecanismo compensador, la presión intraglomerular cae bruscamente y puede producirse insuficiencia renal aguda grave.",
+   "incorrectas": {
+    "A": "La hipertensión arterial esencial es precisamente una de las indicaciones principales de los IECA; son fármacos de primera línea en monoterapia o combinados en este contexto.",
+    "C": "La combinación de IECA con diuréticos es una pauta habitual y sinérgica para el control de la hipertensión arterial; el diurético reduce la volemia y el IECA bloquea la activación del SRAA secundaria, potenciando el efecto antihipertensivo.",
+    "D": "La asociación de IECA con calcioantagonistas (especialmente dihidropiridinas) es una combinación terapéutica eficaz y segura para el tratamiento de la hipertensión arterial, recogida en las guías europeas como combinación preferida."
+   }
+  }
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Respecto a la respuesta motora de un/a paciente con coma, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Valora únicamente la respuesta motora, sin explorar ni tener en cuenta los reflejos osteotendinosos.",
+   "B": "La rigidez de descorticación consiste en una flexión y aproximación de los miembros superiores con extensión de los inferiores.",
+   "C": "La rigidez de descerebración consiste en una extensión y rotación interna de los miembros superiores con flexión de los inferiores.",
+   "D": "La rigidez de descerebración aparece en lesiones hemisféricas difusas o diencefálicas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La rigidez de descorticación se caracteriza por flexión y aducción de los miembros superiores (con flexión de codos, muñecas y dedos) junto con extensión y rotación interna de los miembros inferiores. Indica lesión por encima del mesencéfalo (nivel cortical o subcortical diencefálico) con preservación relativa del tronco del encéfalo inferior, lo que permite la actividad extensora refleja en las extremidades inferiores.",
+   "incorrectas": {
+    "A": "La valoración de la respuesta motora en el coma incluye, además de los movimientos espontáneos y ante estímulos, la evaluación de los reflejos osteotendinosos y plantares, que aportan información sobre el nivel de la lesión neurológica.",
+    "C": "La rigidez de descerebración se caracteriza por extensión y rotación interna de los miembros superiores junto con extensión y plantiflexión de los inferiores (no flexión); indica lesión a nivel del tronco del encéfalo entre el mesencéfalo y la protuberancia.",
+    "D": "La rigidez de descerebración no aparece en lesiones hemisféricas difusas o diencefálicas, sino en lesiones del tronco del encéfalo (mesencéfalo-protuberancia). Las lesiones hemisféricas difusas o diencefálicas producen típicamente rigidez de descorticación."
+   }
+  }
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La causa más frecuente de hemorragia postparto precoz es:",
+  "opciones": {
+   "A": "Retención de productos o tejidos del parto.",
+   "B": "Atonía uterina.",
+   "C": "Traumatismos del tracto genital.",
+   "D": "Alteraciones de la coagulación."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "La atonía uterina es la causa más frecuente de hemorragia postparto precoz, responsable de aproximadamente el 70-80% de los casos. Tras el alumbramiento, el útero debe contraerse para comprimir los vasos del lecho placentario; si no lo hace (atonía), la hemorragia es masiva e inmediata. Se trata con oxitocina, ergotínicos, misoprostol y, si es refractaria, con medidas quirúrgicas o radiológicas.",
+   "incorrectas": {
+    "A": "La retención de restos placentarios o membranas es una causa reconocida de hemorragia postparto, pero ocupa el segundo lugar en frecuencia; impide la contracción uterina adecuada al actuar como cuerpo extraño, pero es menos frecuente que la atonía.",
+    "C": "Los traumatismos del tracto genital (laceraciones cervicales, vaginales o perineales) pueden provocar sangrado significativo, pero constituyen la tercera causa en frecuencia, por detrás de la atonía y la retención de restos.",
+    "D": "Las alteraciones de la coagulación (coagulopatía dilucional, CID, trombofilias) son la causa menos frecuente de hemorragia postparto precoz; suelen ser consecuencia secundaria de una hemorragia masiva por otras causas."
+   }
+  }
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En relación a la esofagitis infecciosa, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Pacientes con VIH y recuento CD4 < 100.",
+   "B": "Neoplasias hematológicas.",
+   "C": "En las anomalías esofágicas estructurales o funcionales.",
+   "D": "Los microorganismos más frecuentes son bacterias Gram negativas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 84,
+   "tema": "Valoración y actitud en urgencias ante las infecciones en el paciente con síndrome de inmunodeficiencia adquirida."
+  },
+  "explicacion": {
+   "correcta": "La afirmación falsa es D porque los microorganismos más frecuentes en la esofagitis infecciosa no son bacterias Gram negativas, sino hongos (principalmente Candida albicans, la etiología más común), virus (Citomegalovirus, Virus Herpes Simple) y, en menor medida, otros patrones oportunistas. Las bacterias Gram negativas raramente causan esofagitis infecciosa.",
+   "incorrectas": {
+    "A": "Los pacientes con VIH y CD4 < 100 células/μL presentan inmunosupresión grave que los hace muy vulnerables a esofagitis oportunistas, especialmente por Candida, CMV y VHS; es uno de los principales grupos de riesgo.",
+    "B": "Las neoplasias hematológicas (leucemias, linfomas) y sus tratamientos (quimioterapia, trasplante de médula ósea) producen neutropenia e inmunosupresión celular graves que predisponen a esofagitis infecciosa por patógenos oportunistas.",
+    "C": "Las anomalías esofágicas estructurales (estenosis, acalasia, divertículos) o funcionales favorecen el estasis de contenido esofágico y la colonización por microorganismos, constituyendo un factor de riesgo reconocido de esofagitis infecciosa, aunque en población inmunocompetente."
+   }
+  }
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la secuencia de intubación rápida (señale la respuesta correcta):",
+  "opciones": {
+   "A": "No existe periodo de hiperoxigenación del paciente.",
+   "B": "Nunca se utilizan fármacos hipnóticos.",
+   "C": "El rocuronio es un relajante muscular que tiene antídoto específico (sugammadex).",
+   "D": "La succinilcolina se administra siempre antes que el hipnótico."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 43,
+   "tema": "Secuencia rápida de intubación. Analgesia, sedación y relajación muscular. Manejo en urgencias de la vía aérea difícil."
+  },
+  "explicacion": {
+   "correcta": "El rocuronio es un relajante muscular no despolarizante que cuenta con el sugammadex como antídoto específico capaz de revertir su bloqueo neuromuscular de forma rápida y completa incluso ante dosis elevadas. Esta característica lo convierte en una alternativa muy segura a la succinilcolina en la secuencia de intubación rápida, especialmente cuando esta está contraindicada.",
+   "incorrectas": {
+    "A": "La preoxigenación (hiperoxigenación) es un paso fundamental en la secuencia de intubación rápida; se administran varios minutos de oxígeno al 100% mediante mascarilla de alto flujo o VNI para maximizar las reservas de oxígeno y ampliar el margen de apnea segura.",
+    "B": "Los fármacos hipnóticos o inductores (etomidato, ketamina, propofol, midazolam) son elementos esenciales de la secuencia de intubación rápida; se administran justo antes del relajante muscular para garantizar la inconsciencia y la analgesia durante el procedimiento.",
+    "D": "En la secuencia de intubación rápida estándar, el hipnótico se administra primero y, a continuación (segundos después), el relajante muscular (ya sea succinilcolina o rocuronio). La succinilcolina nunca se administra antes del hipnótico."
+   }
+  }
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "De los siguientes antibióticos, ¿cuál de ellos NO tiene actividad frente a pseudomona aeruginosa?:",
+  "opciones": {
+   "A": "Piperacilina-tazobactam.",
+   "B": "Cefepime.",
+   "C": "Ceftriaxona.",
+   "D": "Ciprofloxacino."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La ceftriaxona es una cefalosporina de tercera generación sin actividad clínicamente relevante frente a Pseudomonas aeruginosa. A diferencia de otras cefalosporinas como el cefepime (4.ª generación) o la ceftazidima (3.ª generación con actividad antipseudomónica), la ceftriaxona no debe utilizarse cuando se sospecha infección por este microorganismo.",
+   "incorrectas": {
+    "A": "La piperacilina-tazobactam es una penicilina de espectro extendido asociada a un inhibidor de betalactamasas con cobertura antipseudomónica demostrada; es uno de los antibióticos de elección en infecciones graves por Pseudomonas aeruginosa.",
+    "B": "El cefepime es una cefalosporina de cuarta generación con actividad antipseudomónica reconocida; se emplea habitualmente en el tratamiento empírico de infecciones nosocomiales graves donde se sospecha este patógeno.",
+    "D": "El ciprofloxacino es una fluoroquinolona con buena actividad frente a Pseudomonas aeruginosa, especialmente por vía oral, lo que lo hace útil en el tratamiento secuencial o ambulatorio de infecciones por este microorganismo."
+   }
+  }
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En una insuficiencia renal crónica, el trastorno electrolítico más frecuente que solemos encontrar es:",
+  "opciones": {
+   "A": "Hipopotasemia.",
+   "B": "Hiperpotasemia.",
+   "C": "Hipercalcemia.",
+   "D": "Hipocalcemia."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La hiperpotasemia es el trastorno electrolítico más frecuente y potencialmente más peligroso en la insuficiencia renal crónica avanzada. El riñón es el principal órgano excretor de potasio; cuando la función renal está deteriorada, la eliminación de potasio disminuye y se acumula en el plasma. Puede causar arritmias graves y es una causa frecuente de consulta urgente en estos pacientes.",
+   "incorrectas": {
+    "A": "La hipopotasemia es infrecuente en la insuficiencia renal crónica; al contrario, la retención de potasio es la norma. Solo podría observarse en situaciones especiales como diarrea grave o uso excesivo de diuréticos, que son situaciones atípicas en este contexto.",
+    "C": "La hipercalcemia no es el trastorno más frecuente en la IRC; de hecho, la hipocalcemia es más habitual como consecuencia del déficit de vitamina D activa y la hiperfosfatemia secundarias a la pérdida de función renal. La hipercalcemia puede aparecer en fases avanzadas por hiperparatiroidismo terciario, pero es menos frecuente.",
+    "D": "La hipocalcemia sí es frecuente en la IRC (por déficit de vitamina D activa e hiperfosfatemia), pero el trastorno electrolítico MÁS frecuente y clínicamente más relevante sigue siendo la hiperpotasemia, que además conlleva mayor riesgo vital inmediato."
+   }
+  }
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la opción CORRECTA en cuanto a la sepsis:",
+  "opciones": {
+   "A": "Sepsis y shock séptico son sinónimos.",
+   "B": "La sepsis es un proceso que no depende del tiempo de evolución.",
+   "C": "La noradrenalina es el agente vasopresor de primera elección en el shock séptico.",
+   "D": "El lactato sérico discrimina entre sepsis y síndrome de respuesta inflamatoria sistémica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La noradrenalina es el vasopresor de primera elección en el shock séptico según las guías de la Surviving Sepsis Campaign. Actúa principalmente sobre los receptores alfa-1 adrenérgicos aumentando las resistencias vasculares periféricas y elevando la presión arterial media, sin los efectos taquicardizantes ni arritmogénicos que presenta la dopamina, que ha quedado relegada a segunda línea.",
+   "incorrectas": {
+    "A": "Sepsis y shock séptico no son sinónimos. Según los criterios Sepsis-3, la sepsis es una disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección, mientras que el shock séptico es una forma más grave que incluye hipotensión persistente que requiere vasopresores y lactato > 2 mmol/L a pesar de resucitación adecuada.",
+    "B": "La sepsis es un proceso altamente dependiente del tiempo; el retraso en el diagnóstico y tratamiento (administración de antibióticos, control del foco, resucitación) se asocia directamente a mayor mortalidad. La atención precoz en la primera hora ('hora de oro') es un pilar fundamental del manejo.",
+    "D": "El lactato sérico no discrimina entre sepsis y SRIS (síndrome de respuesta inflamatoria sistémica). El lactato elevado indica hipoperfusión tisular y es un criterio de shock séptico (lactato > 2 mmol/L), pero puede elevarse en otras situaciones y el SRIS por causas no infecciosas también puede cursar con hipoperfusión."
+   }
+  }
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Todos los siguientes fármacos son antídotos específicos (señale la respuesta falsa):",
+  "opciones": {
+   "A": "N-Acetilcisteina.",
+   "B": "Naloxona.",
+   "C": "Dimercaprol.",
+   "D": "Paracetamol."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "El paracetamol (acetaminofén) es un analgésico y antipirético de uso común, NO un antídoto. Es, de hecho, la sustancia para cuya intoxicación existe uno de los antídotos más conocidos: la N-acetilcisteína. Confundirlo con un antídoto es el error que plantea la pregunta.",
+   "incorrectas": {
+    "A": "La N-acetilcisteína es el antídoto específico de la intoxicación por paracetamol; repone los depósitos de glutatión hepático y previene el daño hepatocelular por acumulación del metabolito tóxico NAPQI. Su administración precoz es esencial.",
+    "B": "La naloxona es el antídoto específico de la intoxicación por opiáceos (morfina, heroína, fentanilo y derivados); actúa como antagonista competitivo de los receptores mu-opioides y revierte rápidamente la depresión respiratoria y el coma.",
+    "C": "El dimercaprol (BAL, British Anti-Lewisite) es un agente quelante antídoto específico en intoxicaciones por metales pesados como arsénico, mercurio y plomo; forma complejos estables con estos metales que se eliminan por vía renal."
+   }
+  }
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "No es típico de un vértigo central:",
+  "opciones": {
+   "A": "Nistagmo abolido al fijar la mirada.",
+   "B": "Ausencia de signos vegetativos.",
+   "C": "Nistagmo vertical.",
+   "D": "Alteración de la marcha."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "El nistagmo abolido al fijar la mirada es característico del vértigo PERIFÉRICO, no del central. En el vértigo periférico, la fijación de la mirada suprime el nistagmo porque el sistema visual compensa el error vestibular. En el vértigo central (de origen en el tronco o cerebelo), el nistagmo persiste o incluso aumenta con la fijación de la mirada, y puede ser multidireccional o vertical.",
+   "incorrectas": {
+    "B": "La ausencia o escasez de signos vegetativos (náuseas, vómitos, sudoración, palidez) es típica del vértigo central; a diferencia del vértigo periférico, que suele acompañarse de intensa sintomatología vegetativa.",
+    "C": "El nistagmo vertical (batiente hacia arriba o hacia abajo) es patognomónico del vértigo central; no existe en el vértigo periférico. Su presencia obliga a descartar lesión del tronco del encéfalo o del cerebelo.",
+    "D": "La alteración grave de la marcha (ataxia de la marcha, incapacidad para mantenerse de pie incluso con los ojos abiertos) es característica del vértigo central; en el vértigo periférico la marcha suele conservarse aunque con desviación hacia el lado afecto."
+   }
+  }
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "El concepto de urgencia médica se refiere a (señale la respuesta falsa):",
+  "opciones": {
+   "A": "Situación que requiere atención médica inmediata.",
+   "B": "La emergencia es una situación con riesgo vital inminente.",
+   "C": "La urgencia puede ser objetiva o subjetiva.",
+   "D": "Viene determinada por la duración de los síntomas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 107,
+   "tema": "Organización de los servicios de urgencias hospitalarios. Sistemas de triaje. Los SUH en situaciones de catástrofes."
+  },
+  "explicacion": {
+   "correcta": "La afirmación D es falsa porque la urgencia médica NO viene determinada por la duración de los síntomas. Una urgencia se define por la necesidad de atención médica inmediata o en un tiempo breve para evitar complicaciones graves, independientemente de cuánto tiempo lleve el paciente con los síntomas. Un cuadro de minutos de evolución puede no ser urgente y uno de horas puede serlo gravemente.",
+   "incorrectas": {
+    "A": "Es correcto que la urgencia médica es una situación que requiere atención médica inmediata o en un plazo breve para prevenir el deterioro del paciente; este es uno de los elementos definitorios del concepto.",
+    "B": "Es correcto que la emergencia médica se distingue de la urgencia por implicar riesgo vital inminente sin atención inmediata; la distinción entre urgencia y emergencia es conceptualmente válida y operativamente relevante en los sistemas de triaje.",
+    "C": "Es correcto que la urgencia puede ser objetiva (existe una alteración real que requiere atención) o subjetiva (el paciente percibe la necesidad de atención inmediata aunque clínicamente la situación no sea grave). Esta distinción es fundamental en la organización de los servicios de urgencias."
+   }
+  }
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Dentro del tratamiento del vértigo periférico NO están indicados:",
+  "opciones": {
+   "A": "Sulpirida.",
+   "B": "Metoclopramida.",
+   "C": "Diazepam.",
+   "D": "Amitriptilina."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La amitriptilina es un antidepresivo tricíclico sin indicación establecida en el tratamiento del vértigo periférico agudo. No actúa sobre los mecanismos del sistema vestibular periférico ni sobre los síntomas vegetativos asociados. Se utiliza principalmente en depresión, dolor neuropático y profilaxis de migraña, pero no en el vértigo periférico.",
+   "incorrectas": {
+    "A": "La sulpirida es un antiemético y antipsicótico con efecto antivertiginoso que actúa bloqueando los receptores dopaminérgicos; está indicada en el tratamiento sintomático del vértigo periférico, especialmente para controlar las náuseas y vómitos.",
+    "B": "La metoclopramida es un antiemético con acción central y periférica indicado para el control de las náuseas y vómitos que acompañan al vértigo periférico; es uno de los fármacos habituales en urgencias para el manejo sintomático.",
+    "C": "El diazepam y otras benzodiacepinas tienen efecto vestibulolítico central y sedante que reduce la sensación vertiginosa y la sintomatología vegetativa en la fase aguda del vértigo periférico; están indicados para el manejo a corto plazo."
+   }
+  }
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de estos NO es síntoma del síndrome salicílico? (señale la respuesta correcta):",
+  "opciones": {
+   "A": "Acúfenos.",
+   "B": "Agitación.",
+   "C": "Letargia.",
+   "D": "Sequedad de piel."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La sequedad de piel no forma parte del síndrome salicílico. La intoxicación por salicilatos cursa con hipersudoración (piel sudorosa y húmeda) como consecuencia de la hipertermia y la activación adrenérgica, lo contrario de la sequedad cutánea. La sequedad de piel y mucosas es característica de otros síndromes toxicológicos como el anticolinérgico.",
+   "incorrectas": {
+    "A": "Los acúfenos (tinnitus) son uno de los signos más precoces y característicos del síndrome salicílico; se producen por toxicidad directa sobre el nervio auditivo y el oído interno, y su aparición orienta al diagnóstico incluso antes de otras manifestaciones sistémicas.",
+    "B": "La agitación y la irritabilidad son manifestaciones del sistema nervioso central características de la intoxicación por salicilatos, especialmente en fases moderadas-graves, donde la estimulación del SNC precede a la depresión neurológica.",
+    "C": "La letargia y el deterioro del nivel de consciencia aparecen en la intoxicación salicílica grave como expresión de la toxicidad sobre el SNC y los trastornos metabólicos (alcalosis respiratoria seguida de acidosis metabólica) que alteran la función cerebral."
+   }
+  }
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "Señale la afirmación CORRECTA:",
+  "opciones": {
+   "A": "La rabdomiólisis produce una insuficiencia renal aguda funcional.",
+   "B": "El síndrome de lisis tumoral produce una insuficiencia renal aguda parenquimatosa.",
+   "C": "El abuso de AINEs puede producir una insuficiencia renal aguda glomerular.",
+   "D": "El síndrome hepatorrenal produce una insuficiencia renal aguda parenquimatosa."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El síndrome de lisis tumoral produce insuficiencia renal aguda parenquimatosa (intrínseca), concretamente de tipo tubular. La liberación masiva de ácido úrico, fosfato y potasio de las células tumorales lisadas provoca la precipitación de cristales de ácido úrico y fosfato cálcico en los túbulos renales, causando necrosis tubular aguda, que es la forma de IRA parenquimatosa más frecuente.",
+   "incorrectas": {
+    "A": "La rabdomiólisis no produce IRA funcional (prerrenal) sino IRA parenquimatosa (intrínseca) por necrosis tubular aguda. La mioglobina liberada por la destrucción muscular precipita en los túbulos renales causando obstrucción e inflamación tubular directa.",
+    "C": "El abuso de AINEs produce principalmente IRA funcional (prerrenal) por inhibición de la síntesis de prostaglandinas vasodilatadoras renales, no glomerular. En uso crónico puede causar nefritis intersticial, pero no glomerulonefritis típicamente.",
+    "D": "El síndrome hepatorrenal produce IRA funcional (prerrenal), no parenquimatosa. Se debe a vasoconstricción renal intensa por alteración de los mediadores vasoactivos en la cirrosis avanzada, con histología renal normal; por eso los riñones son trasplantables y funcionan en otro receptor."
+   }
+  }
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En cuanto a la fiebre de origen desconocido señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La búsqueda de rigidez de nuca y otros signos meníngeos es inexcusable en cualquier paciente con síndrome febril.",
+   "B": "La tomografía por emisión de positrones con fluorodesoxiglucosa (FDG-PET-TC) es una técnica útil para diagnosticar la fiebre de origen desconocido.",
+   "C": "El tratamiento antibiótico de elección en un síndrome febril sin criterios de gravedad es la ceftriaxona.",
+   "D": "El tratamiento de lección en un síndrome febril de duración intermedia que no requiere ingreso hospitalario es la Doxiciclina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 81,
+   "tema": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "La afirmación C es falsa porque en un síndrome febril sin criterios de gravedad y sin foco identificado no existe indicación de antibioterapia empírica sistemática, y mucho menos de ceftriaxona. El tratamiento antibiótico sin diagnóstico etiológico en pacientes estables promueve resistencias y puede enmascarar el proceso subyacente. La ceftriaxona se reserva para situaciones específicas (meningitis, sepsis, etc.).",
+   "incorrectas": {
+    "A": "La exploración de rigidez de nuca y signos meníngeos es obligatoria en todo paciente con síndrome febril, ya que la meningitis bacteriana puede presentarse sin otros signos orientadores y su diagnóstico precoz es crítico para el pronóstico vital.",
+    "B": "La FDG-PET-TC es una técnica de imagen funcional validada y útil en el estudio etiológico de la fiebre de origen desconocido, especialmente para detectar focos infecciosos ocultos, procesos inflamatorios y neoplasias; está recogida en los algoritmos diagnósticos actuales.",
+    "D": "La doxiciclina es el antibiótico de elección en los síndromes febriles de duración intermedia sin criterios de gravedad que no requieren ingreso, especialmente cuando se sospecha Rickettsia, Coxiella burnetii (fiebre Q) u otras bacterias intracelulares sensibles a tetraciclinas."
+   }
+  }
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "La gestión de la seguridad del paciente en urgencias incluye (señale la respuesta falsa):",
+  "opciones": {
+   "A": "La identificación y priorización de riesgos existentes.",
+   "B": "Disminución de las notificaciones de eventos adversos SINASP.",
+   "C": "Diseño y aplicación de planes de mejora.",
+   "D": "Evaluación del resultado de la implantación de mejoras."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 35,
+   "tema": "Estrategias para la mejora de la seguridad del paciente."
+  },
+  "explicacion": {
+   "correcta": "La afirmación B es falsa porque una correcta gestión de la seguridad del paciente exige AUMENTAR (no disminuir) las notificaciones de eventos adversos en el sistema SINASP (Sistema de Notificación y Aprendizaje para la Seguridad del Paciente). La infradeclaración es un problema que impide aprender de los errores y mejorar los sistemas. El objetivo es fomentar la cultura de notificación sin miedo a represalias.",
+   "incorrectas": {
+    "A": "La identificación y priorización de riesgos es el primer paso de cualquier sistema de gestión de riesgos en seguridad del paciente; permite focalizar los recursos en los eventos con mayor probabilidad e impacto.",
+    "C": "El diseño y aplicación de planes de mejora es el elemento central de la gestión de la seguridad; tras identificar los riesgos y analizar los eventos adversos, se diseñan intervenciones para reducirlos y se implementan sistemáticamente.",
+    "D": "La evaluación del resultado de las mejoras implantadas es imprescindible para cerrar el ciclo de mejora continua (ciclo PDCA) y comprobar si las intervenciones han reducido efectivamente los eventos adversos o si es necesario replantear la estrategia."
+   }
+  }
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "¿Cuál de los siguientes parámetros NO se valora en la escala pronóstica PSI (FINE) para el ingreso de neumonía adquirida en la comunidad?:",
+  "opciones": {
+   "A": "Edad.",
+   "B": "Sexo.",
+   "C": "Hematocrito.",
+   "D": "Bilirrubina."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "La bilirrubina no se incluye entre los parámetros analíticos de la escala PSI/PORT (Fine). Los parámetros de laboratorio que sí evalúa la escala PSI son: BUN, sodio, glucosa, hematocrito, pH arterial y PaO₂. La bilirrubina no forma parte del score, aunque sí se considera en otras escalas de valoración de la gravedad sistémica.",
+   "incorrectas": {
+    "A": "La edad es el primer y más importante parámetro de la escala PSI; el puntaje base es la edad en años (menos 10 en mujeres). Las comorbilidades y los datos físicos y analíticos se suman a esta puntuación inicial basada en la edad.",
+    "B": "El sexo sí se valora en la escala PSI: siendo mujer, se restan 10 puntos a la edad como puntuación de partida, lo que refleja que las mujeres con neumonía presentan un riesgo ligeramente menor que los varones de igual edad.",
+    "C": "El hematocrito sí es uno de los parámetros analíticos de la escala PSI: un hematocrito < 30% suma 10 puntos, indicando mayor riesgo y orientando al ingreso hospitalario."
+   }
+  }
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen Médico de Urgencia Hospitalaria Murcia",
+  "enunciado": "En la exploración física de la parálisis facial periférica observamos:",
+  "opciones": {
+   "A": "Desviación de la boca hacia el lado sano.",
+   "B": "No se afecta la musculatura frontal.",
+   "C": "Está preservado el cierre de los párpados del ojo afecto.",
+   "D": "Suele asociarse afasia o paresias."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "En la parálisis facial periférica, la musculatura facial ipsilateral queda completamente paralizada. Los músculos del lado sano ejercen su fuerza sin oposición, por lo que la boca se desvía hacia el lado sano (el lado no afecto). Este es un signo clínico clásico y fácilmente observable en la exploración.",
+   "incorrectas": {
+    "B": "En la parálisis facial PERIFÉRICA, la musculatura frontal SÍ se afecta (imposibilidad de arrugar la frente y elevar la ceja del lado afecto). Esto es precisamente lo que la distingue de la parálisis facial central, donde la musculatura frontal está preservada gracias a la representación cortical bilateral del tercio superior de la cara.",
+    "C": "El cierre de los párpados NO está preservado en la parálisis facial periférica; al contrario, el párpado del lado afecto no puede cerrarse completamente (lagoftalmos), lo que expone la córnea y obliga a protegerla con lágrimas artificiales y oclusión nocturna.",
+    "D": "La asociación con afasia o paresias es característica de la parálisis facial CENTRAL (de origen en la corteza o vías corticoespinales), no de la periférica. La parálisis facial periférica (nervio facial, VII par craneal) no se acompaña de estos signos de disfunción cortical o de vías largas."
+   }
+  }
+ }
+]

@@ -1,0 +1,506 @@
+[
+ {
+  "id_examen": 133,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "¿Cuál es la dosis máxima acumulada de administración de Flumazenilo en bolos i.v.?",
+  "opciones": {
+   "A": "2,4 mg.",
+   "B": "3 mg.",
+   "C": "3,6 mg.",
+   "D": "4,2 mg."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 100,
+   "tema": "Intoxicaciones agudas: valoración y tratamiento general."
+  },
+  "explicacion": {
+   "correcta": "La dosis máxima acumulada de Flumazenilo administrado en bolos intravenosos es de 3 mg. La pauta estándar consiste en bolos iniciales de 0,2 mg i.v. que pueden repetirse hasta alcanzar este techo terapéutico. Superar esta dosis no aporta beneficio adicional y puede asociarse a efectos adversos, además de que la vida media del Flumazenilo es corta y puede ser necesaria la repetición de bolos o perfusión continua si el paciente vuelve a sedarse.",
+   "incorrectas": {
+    "A": "2,4 mg es una dosis insuficiente como techo; aunque puede alcanzarse durante la titulación, la dosis máxima acumulada aceptada es de 3 mg, por lo que esta opción es incorrecta.",
+    "C": "3,6 mg supera la dosis máxima recomendada de Flumazenilo en bolos i.v. (3 mg), por lo que esta opción es errónea y podría implicar una sobredosificación del antídoto.",
+    "D": "4,2 mg excede ampliamente el límite de 3 mg establecido para la administración en bolos de Flumazenilo, siendo una dosis incorrecta y potencialmente peligrosa."
+   }
+  }
+ },
+ {
+  "id_examen": 134,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "La paciente no mejora el nivel de conciencia ni la frecuencia respiratoria, y evidencia, en una nueva exploración neurológica, pupilas mióticas. ¿Qué actitud priorizaría, ante esta situación?",
+  "opciones": {
+   "A": "Añadir Naloxona 0,4 mg i.v.",
+   "B": "Añadir Naloxona 0,8 mg i.v.",
+   "C": "Solicitar TAC craneal.",
+   "D": "Las respuestas A) y C) son correctas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: etílica, psicofármacos, drogas de abuso, analgésicos, cáusticos, CO, insecticidas, setas."
+  },
+  "explicacion": {
+   "correcta": "Ante una paciente con disminución del nivel de conciencia, depresión respiratoria y pupilas mióticas puntiformes, el cuadro clínico orienta claramente a intoxicación por opioides. La dosis estándar de Naloxona para la intoxicación por opioides potentes como el Fentanilo es de 0,8 mg i.v., ya que dosis menores (0,4 mg) pueden ser insuficientes para revertir la depresión por opioides de alta potencia. La prioridad es el antídoto específico antes de solicitar pruebas de imagen.",
+   "incorrectas": {
+    "A": "0,4 mg de Naloxona puede ser insuficiente para revertir la intoxicación por opioides potentes como el Fentanilo transdérmico; en este contexto clínico es preferible iniciar con 0,8 mg para garantizar una respuesta adecuada.",
+    "C": "El TAC craneal no es la prioridad inmediata cuando existe una sospecha clínica clara de intoxicación por opioides (miosis, depresión respiratoria y de conciencia); primero debe administrarse el antídoto específico.",
+    "D": "La combinación de A y C es incorrecta porque, por un lado, la dosis de 0,4 mg puede ser insuficiente y, por otro, el TAC craneal no es la actuación prioritaria ante un cuadro claramente compatible con intoxicación por opioides."
+   }
+  }
+ },
+ {
+  "id_examen": 135,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Los resultados toxicológicos informan de niveles altos de benzodicepinas y opiáceos, y tras nueva entrevista con la familia, comentan que han advertido la ausencia de una cantidad indeterminada de comprimidos de Fentanilo que tenía prescrito la madre. ¿Qué dosis de Naloxona es la correcta ante esta situación?",
+  "opciones": {
+   "A": "0,4 mg i.v.",
+   "B": "0,8 mg i.v.",
+   "C": "4 mg i.v.",
+   "D": "8 mg i.v."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: etílica, psicofármacos, drogas de abuso, analgésicos, cáusticos, CO, insecticidas, setas."
+  },
+  "explicacion": {
+   "correcta": "Ante una intoxicación por Fentanilo en cantidad indeterminada (potencialmente muy elevada) que no ha respondido a dosis estándar previas de Naloxona, la guía de las intoxicaciones por opioides de alta potencia y en cantidades masivas recomienda escalar la dosis hasta 8 mg i.v. El Fentanilo es un opioide con alta afinidad por el receptor mu y potencia 100 veces superior a la morfina, por lo que puede requerir dosis muy elevadas de Naloxona para desplazarlo del receptor. Ante una ingesta indeterminada de comprimidos de liberación transdérmica o transmucosa, la dosis de 8 mg es la que garantiza una reversión efectiva.",
+   "incorrectas": {
+    "A": "0,4 mg es la dosis inicial habitual de Naloxona para intoxicaciones leves por opioides, completamente insuficiente ante una sobredosis masiva de Fentanilo con cantidad indeterminada de comprimidos ingeridos.",
+    "B": "0,8 mg puede ser adecuado para una intoxicación moderada por opioides estándar, pero resulta insuficiente cuando se sospecha una ingesta masiva de Fentanilo, opioide de altísima potencia.",
+    "C": "4 mg de Naloxona puede ser una dosis intermedia de rescate, pero ante una ingesta indeterminada de Fentanilo (de muy alta potencia) con fracaso previo del tratamiento, la dosis de 8 mg es la indicada para garantizar una reversión completa."
+   }
+  }
+ },
+ {
+  "id_examen": 136,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Con toda esta información, señale la respuesta correcta:",
+  "opciones": {
+   "A": "No estaría indicado activar el Código Sepsis, puesto que el qSOFA es de 2 puntos.",
+   "B": "Estaríamos ante un shock séptico.",
+   "C": "Administraremos Dopamina a dosis de 2 mcg/kg/h.",
+   "D": "Tras toma de muestras para hemocultivos, administraremos antibioterapia empírica a ser posible en la 1ª hora."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Shock séptico. Fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "Según la campaña Surviving Sepsis y los protocolos de Código Sepsis, la antibioterapia empírica debe administrarse lo antes posible y siempre dentro de la primera hora tras la identificación de la sepsis/shock séptico, previa toma de hemocultivos. Esta medida es uno de los pilares fundamentales del bundle de 1 hora de la sepsis y su retraso aumenta la mortalidad. La toma de hemocultivos antes del antibiótico es esencial para guiar el tratamiento definitivo.",
+   "incorrectas": {
+    "A": "El Código Sepsis sí estaría indicado con un qSOFA de 2 puntos (que ya orienta a disfunción orgánica), máxime con la inestabilidad hemodinámica que presenta el paciente; la activación del protocolo no depende exclusivamente del qSOFA.",
+    "B": "El shock séptico requiere hipotensión refractaria a fluidoterapia adecuada y lactato mayor de 2 mmol/L; con los datos iniciales aportados (PAM 61, sin fluidoterapia aún administrada), no podemos afirmar que estemos ante un shock séptico establecido en este momento.",
+    "C": "La Dopamina ha sido desplazada por la Noradrenalina como vasopresor de primera línea en el shock séptico; además, la dosis de 2 mcg/kg/h corresponde a un efecto dopaminérgico (vasodilatador renal) y no al efecto vasopresor necesario, por lo que esta opción es incorrecta."
+   }
+  }
+ },
+ {
+  "id_examen": 137,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En cuanto a las pruebas complementarias que solicitaría, ¿cuál es la cierta?",
+  "opciones": {
+   "A": "Solicitaremos hemograma, coagulación, bioquímica (con bilirrubina, PCR y procalcitonina), orina, gasometría con lactato y hemocultivos.",
+   "B": "Trasladaría al paciente lo antes posible del box de Emergencias al Servicio de Radiodiagnóstico para realizar Tomografía Axial Computarizada (TAC) para buscar foco y dirigir la antibioterapia de forma más específica",
+   "C": "Sólo solicitaremos urocultivo si no encontramos foco tras la llegada del resto de pruebas complementarias (dada la escasa rentabilidad si no hay foco claro).",
+   "D": "Si el paciente muestra dolor abdominal, realizaremos eFAST a pie de la camilla."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Shock séptico. Fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "El paquete diagnóstico inicial ante una sospecha de sepsis incluye hemograma, coagulación, bioquímica completa con marcadores de inflamación (PCR, procalcitonina) y de disfunción orgánica (bilirrubina, creatinina), análisis de orina, gasometría arterial con lactato (fundamental para estratificar la gravedad y orientar el diagnóstico de shock séptico) y hemocultivos (al menos dos pares antes del antibiótico). Este perfil está recogido en todos los protocolos de Código Sepsis.",
+   "incorrectas": {
+    "B": "Trasladar a un paciente hemodinámicamente inestable al Servicio de Radiodiagnóstico para un TAC es potencialmente peligroso; las pruebas de imagen pueden realizarse de forma diferida una vez estabilizado el paciente o mediante ecografía a pie de cama.",
+    "C": "El urocultivo debe solicitarse de forma sistemática desde el inicio ante cualquier sospecha de sepsis sin foco claro, ya que el tracto urinario es la fuente más frecuente de sepsis, especialmente en ancianos; no es correcto diferirlo.",
+    "D": "La ecografía eFAST está indicada para valorar líquido libre en politraumatizados; en el contexto séptico sin traumatismo, la ecografía abdominal dirigida a foco (colecistitis, absceso, etc.) sería más apropiada, y la eFAST no es la exploración de elección ante dolor abdominal en un paciente séptico no traumático."
+   }
+  }
+ },
+ {
+  "id_examen": 138,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Hemos canalizado vía periférica y comenzado a administrar fluidoterapia (suero fisiológico 0.9% a 42 ml/h). A pesar de ello, el paciente se mantiene hipotenso (PA 88/51 mmHg), Taquicárdico (121 lpm) y con saturación sin O2 suplementario del 87%. ¿Qué medida NO adoptaría?",
+  "opciones": {
+   "A": "Aumentar la velocidad de infusión de la fluidoterapia.",
+   "B": "Iniciar oxigenoterapia hasta conseguir O2 por encima del 93%.",
+   "C": "Administrar Noradrenalina a dosis de 12 mcg/kg/min.",
+   "D": "Administrar 1 gr de Meropenem por vía intravenosa."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Shock séptico. Fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La dosis de Noradrenalina de 12 mcg/kg/min es excesivamente elevada y errónea en el contexto del shock séptico. Las dosis habituales de inicio de Noradrenalina oscilan entre 0,01-0,5 mcg/kg/min, siendo dosis superiores a 1-2 mcg/kg/min ya consideradas de muy alto requerimiento vasopresor. Una dosis de 12 mcg/kg/min supone una sobredosificación masiva que produciría vasoconstricción extrema con riesgo de isquemia distal y morte.",
+   "incorrectas": {
+    "A": "Aumentar la velocidad de infusión de la fluidoterapia es una medida correcta; 42 ml/h es una tasa muy baja para un paciente en probable shock séptico, donde se recomiendan bolos de 500 ml de cristaloides con reevaluación continua.",
+    "B": "Iniciar oxigenoterapia para mantener saturación por encima del 93% es una medida adecuada y recomendada en los protocolos de sepsis; la saturación del 87% sin O2 suplementario indica hipoxemia que debe corregirse.",
+    "D": "Administrar Meropenem 1 g i.v. es una opción antibiótica empírica apropiada en un paciente séptico sin foco claro con criterios de gravedad, especialmente en ancianos con comorbilidades; su administración precoz está indicada."
+   }
+  }
+ },
+ {
+  "id_examen": 139,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Llegan algunos resultados de la analítica solicitada, destacando: -Hemograma: Leucocitos 23.900 (21.000 neutrófilos); Hemoglobina 7,1 dg/dl; Plaquetas 110.000. -Bioquímica: creatinina 2.3 mg/dl; PCR 321 mg/l; procalcitonina 5.1 ng/dl; bilirrubina total 2.9 mg/dl. -Gasometría arterial: pH 7.26; pO2 57 mmHg; pCO2 72 mmHg; Bicarbonato 25 mEq/l; ácido láctico 7.1 mmol/L. -Coagulación: INR 2.0 Con toda esta información, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Indicaremos transfusión de hematíes.",
+   "B": "Iniciaríamos Ventilación Mecánica No Invasiva.",
+   "C": "Administraremos Bicarbonato sódico intravenoso.",
+   "D": "Realizaremos Radiología de tórax en cuanto sea factible."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Shock séptico. Fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La administración de Bicarbonato sódico NO está indicada en la acidosis láctica de origen séptico cuando el pH es mayor de 7,15 (en este caso 7,26). La acidosis metabólica en el shock séptico se trata abordando la causa (antibióticos, fluidos, vasopresores) y no con bicarbonato, cuyo uso en la acidosis láctica está contraindicado salvo pH < 7,15. Además, la gasometría muestra una acidosis respiratoria (pCO2 72) más que metabólica pura (bicarbonato 25 mEq/l es normal), lo que hace aún menos indicado el bicarbonato.",
+   "incorrectas": {
+    "A": "La transfusión de hematíes está indicada en pacientes con sepsis grave y hemoglobina < 7-8 g/dl; con Hb 7,1 g/dl en un paciente con cardiopatía isquémica, la transfusión es una medida correcta y adecuada.",
+    "B": "La VMNI puede estar indicada ante la hipoxemia (pO2 57 mmHg) y la hipercapnia (pCO2 72 mmHg) con acidosis respiratoria; es una medida razonable como paso previo a la ventilación invasiva si el paciente coopera.",
+    "D": "La radiografía de tórax es una prueba complementaria básica en cualquier paciente séptico para buscar foco pulmonar y detectar complicaciones; realizarla en cuanto sea posible es una conducta correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 140,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En el caso de que el paciente presente shock séptico y el foco infeccioso sea desconocido, ¿cuál de las pautas antimicrobianas es FALSA?",
+  "opciones": {
+   "A": "Paciente con ingreso en UCI y más de 7 días de tratamiento antimicrobiano iniciar Ceftriaxona + Levofloxacino.",
+   "B": "Si el paciente no ha tenido tratamiento antibiótico previo podemos indicar Meropenem + Vancomicina.",
+   "C": "En pacientes procedentes de residencia geriátrica con casos de Staphylococus aureus Meticilin resistente (SAMR) se puede asociar Linezolid.",
+   "D": "Si la infección es nosocomial se puede indicar Ceftazidima-Tazobactam en perfusión extendida."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Shock séptico. Fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "Un paciente con ingreso previo en UCI y más de 7 días de tratamiento antimicrobiano tiene un perfil de alto riesgo de infección por gérmenes multirresistentes (Pseudomonas, SARM, enterobacterias BLEE+). En este contexto, iniciar Ceftriaxona + Levofloxacino es una pauta inadecuada e insuficiente, ya que estos antibióticos carecen de cobertura antipseudomónica fiable y no cubren gérmenes multirresistentes. En este perfil se deben emplear antibióticos de amplio espectro antipseudomónico (piperacilina-tazobactam, carbapenémicos) con o sin cobertura anti-SARM.",
+   "incorrectas": {
+    "B": "Meropenem + Vancomicina es una pauta de amplio espectro razonable en shock séptico sin foco claro y sin tratamiento antibiótico previo, cubriendo tanto gram negativos (incluyendo Pseudomonas) como gram positivos resistentes (SARM).",
+    "C": "En pacientes procedentes de residencias geriátricas con antecedente de infección o colonización por SARM, añadir Linezolid (o Vancomicina) a la pauta antibiótica es una estrategia correcta y contemplada en las guías.",
+    "D": "Ceftazidima-Avibactam (o Ceftazidima-Tazobactam en algunos protocolos) en perfusión extendida es una opción válida para infecciones nosocomiales por gérmenes gram negativos resistentes incluyendo productores de BLEE y cepas con resistencia a carbapenémicos en algunos contextos."
+   }
+  }
+ },
+ {
+  "id_examen": 141,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "De los siguientes enunciados indique el FALSO:",
+  "opciones": {
+   "A": "Solicitaría hemocultivos, hemograma, bioquímica (con PCR, procalcitonina y bilirrubina), gasometría arterial (GSA), radiografía de tórax, electrocardiograma (EKG) y AG/PCR SARS-CoV-2.",
+   "B": "El tromboembolismo pulmonar podría ser uno de los diagnósticos diferenciales a tener en cuenta.",
+   "C": "De tratarse de una neumonía, su presentación clínica es atípica.",
+   "D": "Pensando en un proceso infeccioso, la puntuación de su qSOFA es 1."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "La presentación clínica descrita (fiebre con escalofríos, tos con expectoración, dolor pleurítico y crepitantes en la auscultación) es característica de una neumonía TÍPICA (bacteriana), no atípica. Las neumonías atípicas (Mycoplasma, Chlamydia, Legionella) cursan habitualmente con fiebre de inicio gradual, tos seca no productiva, síntomas extrapulmonares predominantes y ausencia de escalofríos marcados. Por tanto, afirmar que la presentación es atípica es FALSO.",
+   "incorrectas": {
+    "A": "Solicitar hemocultivos, hemograma, bioquímica completa con marcadores inflamatorios, GSA, radiografía de tórax, EKG y prueba SARS-CoV-2 es una batería diagnóstica correcta y completa ante este cuadro clínico.",
+    "B": "El TEP forma parte del diagnóstico diferencial ante un cuadro de disnea, dolor pleurítico y taquicardia, especialmente cuando los hallazgos clínicos no son totalmente concluyentes; es una consideración diagnóstica correcta.",
+    "D": "El qSOFA puntúa frecuencia respiratoria >= 22 rpm (1 punto), alteración del nivel de conciencia (0 puntos, GCS 15) e hipotensión sistólica <= 100 mmHg (0 puntos, PA 99/51 mmHg no cumple estrictamente); la puntuación de 1 es correcta con los datos aportados."
+   }
+  }
+ },
+ {
+  "id_examen": 142,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Llegan los resultados de las pruebas complementarias: La Radiografía muestra infiltrado alveolar con broncograma aéreo en lóbulo medio derecho, sin otros hallazgos de interés. Destacamos del hemograma una leucocitosis (15.560 leucocistos/microlito) con neutrofilia, hemoglobina en 13.2 g/dl y Plaquetas 102.000 plaq/microlito. Bioquímica con creatinina 1,32 mg/dl (previas normales), urea 86 mg/dl, sodio 131 mEq/l, PCR 143 mg/l y procalcitonina 2,1 ng/dl. AG y PCR SARS- CoV-2 negativos. EKG en ritmo sinusal a 90 lpm sin alteraciones de la repolarización. GSA: pH 7.29, pO2 58 mmHg, pCO2 50 mgHg, Bicarbonato 19.8 mEq/l, EB -3.1. Lactato 3.2. Decidiríamos ampliar estudio con todas estas pruebas complementarias, EXCEPTO:",
+  "opciones": {
+   "A": "Antígeno de legionella y neumococo en orina.",
+   "B": "Serología de VIH.",
+   "C": "Tinción GRAM y cultivo de esputo.",
+   "D": "Toracocentesis diagnóstica."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "La toracocentesis diagnóstica está indicada cuando existe derrame pleural significativo en la radiografía de tórax. En este caso, la radiografía únicamente muestra un infiltrado alveolar en lóbulo medio derecho sin derrame pleural, por lo que no existe indicación de toracocentesis. Esta técnica solo se realizaría si apareciera derrame pleural en estudios de imagen posteriores.",
+   "incorrectas": {
+    "A": "Los antígenos urinarios de Legionella y neumococo están indicados en toda neumonía grave o con criterios de ingreso hospitalario; son pruebas no invasivas y de alta utilidad para orientar el diagnóstico etiológico.",
+    "B": "La serología de VIH puede estar indicada en un paciente con neumonía que debuta con trombopenia (plaquetas 102.000) e hiponatremia (sodio 131), hallazgos que pueden orientar a una inmunodeficiencia subyacente no conocida.",
+    "C": "La tinción de Gram y el cultivo de esputo son pruebas microbiológicas útiles para identificar el agente etiológico de la neumonía, siempre que la muestra sea de calidad (> 25 PMN y < 10 células epiteliales por campo); su solicitud es correcta y recomendada."
+   }
+  }
+ },
+ {
+  "id_examen": 143,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Podríamos estratificar la gravedad mediante la escala CURB-65, con una puntuación de:",
+  "opciones": {
+   "A": "0 puntos.",
+   "B": "1 punto.",
+   "C": "2 puntos.",
+   "D": "3 puntos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "La escala CURB-65 puntúa 1 punto por cada uno de los siguientes criterios: Confusión (C: GCS < 15 o desorientación), Urea > 7 mmol/l o BUN > 20 mg/dl (U: urea 86 mg/dl = BUN elevado, 1 punto), Frecuencia Respiratoria >= 30 rpm (R: FR 26 rpm, no puntúa), tensión arterial Baja (B: PA sistólica < 90 o diastólica < 60 mmHg, PA 99/51 con diastólica < 60 mmHg, 1 punto), edad >= 65 años (65: 64 años, no puntúa). Total: 2 puntos (urea elevada + PA diastólica < 60 mmHg), lo que indica neumonía moderada con necesidad de ingreso hospitalario.",
+   "incorrectas": {
+    "A": "0 puntos no es correcto; al menos la urea elevada (86 mg/dl) y la hipotensión diastólica (51 mmHg) puntúan, sumando un mínimo de 2 puntos.",
+    "B": "1 punto es insuficiente; tanto la urea elevada como la presión arterial diastólica < 60 mmHg puntúan individualmente, alcanzando al menos 2 puntos en la escala CURB-65.",
+    "D": "3 puntos requeriría un criterio adicional como confusión o frecuencia respiratoria >= 30 rpm que no están presentes (GCS 15, FR 26 rpm, edad 64 años), por lo que 3 puntos es incorrecto."
+   }
+  }
+ },
+ {
+  "id_examen": 144,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Formarían parte de nuestra actitud las siguientes respuestas, EXCEPTO una. Señálela:",
+  "opciones": {
+   "A": "Administración de tratamiento antibiótico empírico precoz.",
+   "B": "Oxigenoterapia.",
+   "C": "Dopamina en perfusión intravenosa.",
+   "D": "Cristaloides intravenosos, al menos 30 ml/kg en las primeras 3 horas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "La Dopamina ha sido desplazada por la Noradrenalina como vasopresor de primera línea en el shock séptico según las guías actuales de Surviving Sepsis Campaign. La Dopamina se asocia a mayor riesgo de arritmias y mayor mortalidad en comparación con la Noradrenalina. Por tanto, iniciar Dopamina en perfusión no sería la actitud correcta en el manejo actual de un paciente con neumonía y criterios de sepsis/shock séptico.",
+   "incorrectas": {
+    "A": "La antibioterapia empírica precoz es una medida fundamental en la neumonía grave y en la sepsis; su administración en la primera hora mejora el pronóstico y forma parte de los bundles de sepsis.",
+    "B": "La oxigenoterapia está claramente indicada con una saturación del 92% y una pO2 de 58 mmHg; el objetivo es mantener una saturación del 94-98% en pacientes sin EPOC.",
+    "D": "La administración de cristaloides i.v. a 30 ml/kg en las primeras 3 horas es la recomendación del bundle de 1-3 horas de las guías de Surviving Sepsis ante un paciente con sospecha de shock séptico o hipoperfusión tisular."
+   }
+  }
+ },
+ {
+  "id_examen": 145,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Respecto al tratamiento antibiótico, ¿qué pauta NO elegiría?",
+  "opciones": {
+   "A": "Ceftriaxona 2 gr cada 24h + Azitromicina 500 mg cada 24h.",
+   "B": "Amoxicilina-Clavulánico 1-2 gr cada 8h + Azitromicina 500 mg cada 24h.",
+   "C": "Cefotaxima 2 gr i.v. cada 8 h + Moxifloxacino 400 mg i.v. cada 24h.",
+   "D": "Ceftriaxona 2 gr cada 24h + Linezolid 300 mg cada 24h."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial."
+  },
+  "explicacion": {
+   "correcta": "Linezolid no forma parte del tratamiento empírico de la neumonía adquirida en la comunidad (NAC), ya que está reservado para infecciones por SARM documentadas o en contextos muy específicos de pacientes inmunodeprimidos o con factores de riesgo de SARM. Además, la dosis de Linezolid habitual es de 600 mg cada 12 horas (no 300 mg cada 24 horas, que es una dosis incorrecta). La combinación Ceftriaxona + Linezolid no tiene respaldo en las guías de NAC.",
+   "incorrectas": {
+    "A": "Ceftriaxona 2 g/24h + Azitromicina 500 mg/24h es una pauta estándar de primera línea para NAC grave con ingreso hospitalario; proporciona cobertura frente a neumococo y gérmenes atípicos.",
+    "B": "Amoxicilina-Clavulánico + Azitromicina es una pauta alternativa válida para NAC moderada-grave en pacientes sin factores de riesgo de gérmenes multirresistentes; está recogida en las guías nacionales e internacionales.",
+    "C": "Cefotaxima 2 g/8h + Moxifloxacino 400 mg/24h es una pauta de doble cobertura válida para NAC grave, combinando una cefalosporina de tercera generación con una fluoroquinolona respiratoria con excelente cobertura antineumocócica y atípicos."
+   }
+  }
+ },
+ {
+  "id_examen": 146,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": ". Si el EKG que presenta es el siguiente, ¿con qué terapia iniciaría el tratamiento de este paciente?",
+  "opciones": {
+   "A": "Amiodarona 300 mg intravenoso (i.v.).",
+   "B": "Atropina i.v., hasta 3 mg.",
+   "C": "Perfusión i.v. de Lidocaína.",
+   "D": "Perfusión i.v. de Metoprolol."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 48,
+   "tema": "Bradiarritmias. Bloqueos auriculoventriculares."
+  },
+  "explicacion": {
+   "correcta": "El paciente presenta bradicardia sintomática grave (FC 40 lpm) con hipotensión y bajo nivel de conciencia en el contexto de un posible SCA. El tratamiento inicial de la bradicardia sintomática con inestabilidad hemodinámica es la Atropina i.v. en dosis de 0,5 mg repetibles hasta un máximo de 3 mg, según el algoritmo de bradicardia del European Resuscitation Council (ERC). La Atropina es el fármaco de primera línea antes de valorar marcapasos transcutáneo.",
+   "incorrectas": {
+    "A": "La Amiodarona es un antiarrítmico utilizado en taquiarritmias (fibrilación ventricular, taquicardia ventricular) y no está indicada en la bradicardia; su uso empeoraría la situación al reducir aún más la frecuencia cardíaca.",
+    "C": "La Lidocaína es un antiarrítmico de clase Ib indicado en arritmias ventriculares (taquicardia ventricular) y contraindicada en bradiarritmias, ya que puede empeorar el bloqueo AV y la bradicardia.",
+    "D": "El Metoprolol es un betabloqueante que reduce la frecuencia cardíaca y está absolutamente contraindicado en la bradicardia sintomática; su administración podría producir una parada cardíaca."
+   }
+  }
+ },
+ {
+  "id_examen": 147,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El paciente no responde a la medicación, pierde la consciencia y deja de respirar. Si se considera que es una AESP (Actividad Eléctrica Sin Pulso), el tratamiento inicial sería:",
+  "opciones": {
+   "A": "Desfibrilación precoz.",
+   "B": "Amiodarona 300 mg.",
+   "C": "Adrenalina 1mg i.v.",
+   "D": "Compresiones torácicas de alta calidad y Adrenalina 1 mg cada 1-5 min."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado adulto y niño. DEA."
+  },
+  "explicacion": {
+   "correcta": "La AESP (Actividad Eléctrica Sin Pulso) es un ritmo no desfibrilable. En el algoritmo de SVA del ERC, ante un ritmo no desfibrilable (AESP o asistolia), el tratamiento farmacológico inicial es la Adrenalina 1 mg i.v. que se administra tan pronto como se tenga acceso venoso, acompañada de compresiones torácicas de alta calidad. Sin embargo, la pregunta pregunta por el tratamiento INICIAL: la primera Adrenalina se administra en cuanto se tenga acceso venoso y se repite cada 3-5 minutos; el matiz es que la opción C especifica correctamente solo la Adrenalina 1 mg, mientras que la D indica intervalos de 1-5 min que son incorrectos (deben ser 3-5 min).",
+   "incorrectas": {
+    "A": "La desfibrilación está indicada exclusivamente en ritmos desfibrilables (fibrilación ventricular y taquicardia ventricular sin pulso); la AESP es un ritmo no desfibrilable, por lo que la desfibrilación no tiene ninguna indicación.",
+    "B": "La Amiodarona 300 mg está indicada en el tercer y quinto choques de FV/TVSP refractaria a desfibrilación; no tiene indicación en la AESP ni en ritmos no desfibrilables.",
+    "D": "Aunque las compresiones torácicas son correctas, el intervalo de administración de Adrenalina indicado en esta opción (1-5 min) es incorrecto; el protocolo ERC establece Adrenalina 1 mg i.v. cada 3-5 minutos en ritmos no desfibrilables."
+   }
+  }
+ },
+ {
+  "id_examen": 148,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Tras comprobar el monitor, a los 2 min se objetiva el siguiente trazado. ¿Cuál sería la pauta de actuación?",
+  "opciones": {
+   "A": "Compresiones torácicas de alta calidad y Adrenalina 1 mg cada 3-5 min.",
+   "B": "Adrenalina 1 mg i.v.",
+   "C": "Desfibrilación precoz.",
+   "D": "Amiodarona 300 mg."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado adulto y niño. DEA."
+  },
+  "explicacion": {
+   "correcta": "Si a los 2 minutos de RCP se detecta un ritmo desfibrilable (fibrilación ventricular o taquicardia ventricular sin pulso), la pauta de actuación prioritaria e inmediata es la desfibrilación precoz. La energía recomendada es de al menos 150-200 J bifásico en la primera descarga. Tras la descarga se reanudan inmediatamente las compresiones torácicas durante 2 minutos antes de volver a comprobar el ritmo.",
+   "incorrectas": {
+    "A": "Las compresiones torácicas continuas con Adrenalina cada 3-5 min son correctas para ritmos no desfibrilables (AESP/asistolia); ante un ritmo desfibrilable, la desfibrilación inmediata es la prioridad.",
+    "B": "La Adrenalina sola sin desfibrilación no es la conducta correcta ante un ritmo desfibrilable; la desfibrilación es la intervención que salva la vida en FV/TVSP y no debe demorarse.",
+    "D": "La Amiodarona 300 mg se administra tras el tercer choque fallido en FV/TVSP refractaria, no como primera medida ante la detección de un ritmo desfibrilable; la desfibrilación precoz es siempre la primera intervención."
+   }
+  }
+ },
+ {
+  "id_examen": 149,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Como tratamiento complementario al anterior, si el paciente continúa en parada cardio-respiratoria, es FALSO:",
+  "opciones": {
+   "A": "Continuar con las compresiones de alta calidad.",
+   "B": "Minimizar las interrupciones en la RCP.",
+   "C": "Es necesario intubación traqueal del paciente.",
+   "D": "Aumentar el nivel de energía del desfibrilador."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado adulto y niño. DEA."
+  },
+  "explicacion": {
+   "correcta": "La intubación orotraqueal NO es necesaria ni obligatoria durante la RCP avanzada. Las guías ERC 2021 establecen que se puede mantener una ventilación eficaz con dispositivos supraglóticos (mascarilla laríngea, tubo laríngeo) o con bolsa-mascarilla, reservando la intubación para equipos con experiencia suficiente y siempre que no interrumpa significativamente las compresiones. La intubación traqueal ya no se considera obligatoria ni prioritaria en el SVA.",
+   "incorrectas": {
+    "A": "Continuar con compresiones torácicas de alta calidad (100-120/min, profundidad 5-6 cm, permitiendo la expansión torácica completa) es una medida correcta y fundamental durante toda la RCP.",
+    "B": "Minimizar las interrupciones en la RCP es un principio clave de las guías ERC; la fracción de tiempo de compresión (chest compression fraction) debe ser superior al 60%, idealmente al 80%; esta afirmación es correcta.",
+    "D": "Si las descargas previas no han revertido la FV, es correcto considerar aumentar la energía del desfibrilador en intentos sucesivos (escalada de energía); esta es una conducta aceptada en FV refractaria."
+   }
+  }
+ },
+ {
+  "id_examen": 150,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "El paciente hace REC (Recuperación Espontánea de Circulación). ¿Cuál de estas medidas es fundamental?",
+  "opciones": {
+   "A": "Realizar valoración ABCDE.",
+   "B": "EKG.",
+   "C": "Angio-TAC de tórax.",
+   "D": "Radiología de tórax."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital básico y avanzado adulto y niño. DEA."
+  },
+  "explicacion": {
+   "correcta": "Tras la Recuperación Espontánea de la Circulación (ROSC), la primera y fundamental medida es realizar una valoración estructurada ABCDE (Airway-Breathing-Circulation-Disability-Exposure). Este enfoque sistemático permite identificar de forma ordenada y prioritaria las amenazas vitales inmediatas (compromiso de vía aérea, ventilación, hemodinámica, neurología) antes de proceder con otras pruebas complementarias. Es el primer paso en el cuidado post-resucitación según todas las guías internacionales.",
+   "incorrectas": {
+    "B": "El EKG es una prueba importante en el post-ROSC (especialmente para detectar SCA como causa de la PCR), pero no es la primera medida; debe realizarse una vez completada la valoración primaria ABCDE.",
+    "C": "El Angio-TAC de tórax puede estar indicado si se sospecha TEP como causa de la PCR, pero es una prueba de segundo nivel que solo puede realizarse cuando el paciente está estabilizado; no es la medida inmediata.",
+    "D": "La radiografía de tórax es útil para confirmar la posición del tubo endotraqueal y detectar complicaciones, pero también es secundaria a la valoración ABCDE inicial que orienta todas las intervenciones posteriores."
+   }
+  }
+ },
+ {
+  "id_examen": 151,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En relación con la exploración neurológica de un paciente en coma, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La presencia de reflejo fotomotor y reflejo cilioespinal es indicativa de indemnidad troncoencefálica.",
+   "B": "La midriasis arreactiva unilateral sugiere herniación del uncus con afectación del III par craneal homolateral.",
+   "C": "Las pupilas mióticas puntiformes arreactivas sugieren lesiones protuberenciales.",
+   "D": "Los ROC (reflejos oculocefálicos) consisten en la desviación conjugada de la mirada hacia el lado de giro de la cabeza del paciente."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "Los reflejos oculocefálicos (ROC) o maniobra de los ojos de muñeca son NORMALES (indemnidad del tronco del encéfalo) cuando los ojos se desvían de forma conjugada en dirección CONTRARIA al giro de la cabeza (si se gira la cabeza hacia la derecha, los ojos se desvían hacia la izquierda). La afirmación de que los ojos se desvían hacia el lado de giro de la cabeza es INCORRECTA: eso representaría la ausencia de reflejos oculocefálicos, lo cual indica lesión troncoencefálica.",
+   "incorrectas": {
+    "A": "El reflejo fotomotor (contracción pupilar a la luz) y el reflejo cilioespinal (midriasis ante estímulo doloroso cervical) son mediados por estructuras mesencefálicas y su presencia indica integridad del troncoencéfalo; esta afirmación es correcta.",
+    "B": "La midriasis arreactiva unilateral es el signo clásico de herniación transtentorial uncal, donde el uncus del lóbulo temporal comprime el III par craneal homolateral produciendo midriasis ipsilateral; esta afirmación es correcta.",
+    "C": "Las pupilas mióticas puntiformes arreactivas son el signo pupilar característico de las lesiones protuberenciales (hemorragia pontina, lesión de las vías simpáticas descendentes con predominio parasimpático); esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 152,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "Para el cálculo de la fracción de excreción de potasio en una hiperpotasemia, ¿qué parámetro de los siguientes NO es necesario?",
+  "opciones": {
+   "A": "Creatinina plasmática.",
+   "B": "Urea plasmática.",
+   "C": "Potasemia.",
+   "D": "Potasio urinario."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones equilibrio ácido-base. Trastornos hidroelectrolíticos."
+  },
+  "explicacion": {
+   "correcta": "La Fracción de Excreción de Potasio (FEK) se calcula mediante la fórmula: FEK (%) = (K urinario x Creatinina plasmática) / (K plasmático x Creatinina urinaria) x 100. Para su cálculo se necesitan: potasio urinario, potasio plasmático (potasemia), creatinina urinaria y creatinina plasmática. La urea plasmática no interviene en ningún término de esta fórmula y por tanto NO es necesaria para el cálculo de la FEK.",
+   "incorrectas": {
+    "A": "La creatinina plasmática es imprescindible para el cálculo de la FEK, ya que aparece en el numerador de la fórmula como parámetro de referencia de filtración glomerular.",
+    "C": "La potasemia (K plasmático) es el denominador principal de la fórmula de la FEK; sin ella no puede calcularse la fracción de excreción.",
+    "D": "El potasio urinario es el numerador principal de la fórmula de la FEK y es absolutamente necesario para su cálculo; sin él, la fórmula no puede resolverse."
+   }
+  }
+ },
+ {
+  "id_examen": 153,
+  "fuente": "Examen OPE Médico Familia UUH Andalucía 2023 (prueba aplazada)",
+  "enunciado": "En ventilación mecánica no invasiva, a la diferencia entre la presión aplicada durante la inspiración y la aplicada durante la espiración, se le denomina:",
+  "opciones": {
+   "A": "IPAP (Presión Positiva Inspiratoria).",
+   "B": "Presión espiratoria.",
+   "C": "Presión de soporte.",
+   "D": "CPAP."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 105,
+   "tema": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En la ventilación con BiPAP (Bilevel Positive Airway Pressure), la IPAP es la presión positiva durante la inspiración y la EPAP es la presión positiva durante la espiración. La diferencia entre ambas (IPAP - EPAP) se denomina Presión de Soporte (PS), que es la presión adicional que el ventilador aplica para asistir el esfuerzo inspiratorio del paciente y aumentar el volumen corriente. Cuanto mayor es la presión de soporte, mayor es la asistencia ventilatoria.",
+   "incorrectas": {
+    "A": "La IPAP es la presión positiva aplicada durante la fase inspiratoria en la BiPAP; no es la diferencia entre presión inspiratoria y espiratoria, sino el valor absoluto de la presión en inspiración.",
+    "B": "La presión espiratoria (EPAP) es el nivel de presión positiva mantenida durante la espiración, equivalente a la PEEP en ventilación invasiva; es un valor absoluto, no una diferencia.",
+    "D": "La CPAP (Continuous Positive Airway Pressure) es una modalidad de VMNI que aplica una presión positiva continua e igual tanto en inspiración como en espiración, sin presión de soporte diferencial; no implica diferencia entre presiones inspiratoria y espiratoria."
+   }
+  }
+ }
+]

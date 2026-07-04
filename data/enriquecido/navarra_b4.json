@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "El síndrome nefrítico es un cuadro caracterizado por una serie de manifestaciones clínicas. Indique cuál de las siguientes NO encontraremos en un paciente con este proceso:",
+  "opciones": {
+   "A": "Hematuria.",
+   "B": "Proteinuria.",
+   "C": "Aumento del filtrado glomerular.",
+   "D": "Edemas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 75, "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."},
+  "explicacion": {
+   "correcta": "En el síndrome nefrítico se produce inflamación glomerular que conlleva una reducción del filtrado glomerular, no un aumento. La caída del filtrado es precisamente la que genera retención de sodio y agua, edemas e hipertensión arterial, hallazgos clásicos del cuadro. Por tanto, el aumento del filtrado glomerular es el hallazgo que NO se espera encontrar.",
+   "incorrectas": {
+    "A": "La hematuria, típicamente macro o microscópica con hematíes dismórficos y cilindros eritrocitarios, es una característica cardinal del síndrome nefrítico y se debe a la lesión de la membrana glomerular por el proceso inflamatorio.",
+    "B": "La proteinuria está presente en el síndrome nefrítico, aunque suele ser moderada (< 3,5 g/24 h), a diferencia del síndrome nefrótico. Se produce por alteración de la barrera de filtración glomerular.",
+    "D": "Los edemas son consecuencia de la retención de sodio y agua secundaria a la reducción del filtrado glomerular y a la activación del sistema renina-angiotensina-aldosterona, y forman parte del cuadro clínico típico del síndrome nefrítico."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Ante un paciente con un cólico renal el tratamiento se basará en todas las siguientes recomendaciones EXCEPTO una. Indícala.",
+  "opciones": {
+   "A": "Aplicación de calor local, ya que consigue disminuir la percepción del dolor.",
+   "B": "Beber abundantes líquidos, ya que ayudan a expulsar el cálculo ureteral al aumentar la presión hidrostática en éste.",
+   "C": "Administración de antiinflamatorios no esteroideos como media analgésica.",
+   "D": "Administración de anticolinérgicos, que relajan la musculatura lisa ureteral."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 76, "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo."},
+  "explicacion": {
+   "correcta": "La hidratación forzosa durante un cólico nefrítico activo no está recomendada, ya que al aumentar la diuresis se incrementa la presión proximal al cálculo y puede empeorar el dolor por sobredistensión del sistema colector. La hidratación oral normal puede mantenerse, pero no se debe sobrehidratar al paciente en la fase aguda. El cálculo no se expulsa por aumento de la presión hidrostática sino por peristaltismo ureteral.",
+   "incorrectas": {
+    "A": "La aplicación de calor local en la zona lumbar produce vasodilación y relajación muscular que disminuye la percepción dolorosa; es una medida coadyuvante válida en el manejo del cólico renal.",
+    "C": "Los antiinflamatorios no esteroideos, especialmente el diclofenaco y el ketorolaco, son los analgésicos de elección en el cólico renal por su efecto antiespasmódico sobre el uréter y por reducir la producción de prostaglandinas que regulan el filtrado glomerular y el edema periureteral.",
+    "D": "Los anticolinérgicos relajan la musculatura lisa ureteral y pueden emplearse como coadyuvantes analgésicos; aunque su eficacia es menor que la de los AINEs, tienen cabida en el tratamiento combinado del cólico renal."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Cuál de los siguientes parámetros nos indica que nos encontramos ante una acidosis metabólica:",
+  "opciones": {
+   "A": "pH 7,29; pCO2 23; HCO3 6.",
+   "B": "pH 7,25; pCO2 60; HCO3 15.",
+   "C": "pH 7,01; pCO2 21; HCO3 42.",
+   "D": "pH 6,97; pCO2 35; HCO3 27."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 70, "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "La opción A muestra pH bajo (7,29), bicarbonato claramente disminuido (6 mEq/L) y pCO2 baja (23 mmHg), lo que traduce una acidosis metabólica con compensación respiratoria adecuada (hiperventilación que reduce el CO2). Esta es la imagen gasométrica característica de un trastorno primario metabólico acidótico con respuesta compensadora.",
+   "incorrectas": {
+    "B": "La opción B presenta pH ácido (7,25) con pCO2 elevada (60 mmHg) y HCO3 bajo (15 mEq/L); el trastorno primario es una acidosis respiratoria (pCO2 alta), con compensación renal insuficiente o un trastorno mixto respiratorio y metabólico, no una acidosis metabólica pura.",
+    "C": "La opción C muestra pH muy ácido (7,01) con HCO3 elevado (42 mEq/L) y pCO2 baja (21 mmHg), lo que corresponde a una alcalosis metabólica grave con compensación respiratoria; el bicarbonato alto descarta acidosis metabólica.",
+    "D": "La opción D presenta pH muy ácido (6,97) con HCO3 normal-alto (27 mEq/L) y pCO2 normal (35 mmHg), lo que sugiere una acidosis respiratoria aguda o un trastorno mixto; el bicarbonato normal descarta acidosis metabólica como trastorno primario único."
+   }
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Acude a Urgencias un varón joven tras haber ingerido una sustancia cáustica. Refiere quemazón oral e intenso dolor retroesternal. ¿Qué medida crees que la CORRECTA?",
+  "opciones": {
+   "A": "Endoscopia digestiva precoz (antes de 6 horas de la ingesta) si sospechamos perforación esofágica con mediastinitis, ya que de este modo podremos aspirar el contenido cáustico del estómago, evitando que refluya hacia esófago.",
+   "B": "Administración de antibioterapia de amplio espectro de forma profiláctica, ya que el riesgo de perforación y, por tanto, de mediastinitis y/o peritonitis, es elevado.",
+   "C": "Administración de inhibidores de la bomba de protones, ya que sus beneficios para evitar más lesiones por reflujo están ampliamente demostrados.",
+   "D": "No se aconseja el sondaje nasogástrico precoz para realizar aspirado del contenido gástrico."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "El sondaje nasogástrico está contraindicado en la ingesta de cáusticos porque puede provocar perforación esofágica o gástrica al traumatizar los tejidos ya necrosados, y puede forzar el ascenso del agente cáustico hacia zonas no afectadas. Tampoco está indicado el lavado gástrico ni la inducción del vómito. Esta contraindicación es un punto clave en el manejo urgente de la ingesta cáustica.",
+   "incorrectas": {
+    "A": "La endoscopia está contraindicada en las primeras 6 horas si se sospecha perforación activa con mediastinitis, ya que el riesgo de empeorar la lesión es muy alto; además, el objetivo de la endoscopia es estadificar las lesiones (habitualmente entre 12 y 24 horas), no aspirar el contenido gástrico.",
+    "B": "La antibioterapia profiláctica no está indicada de forma sistemática en la ingesta de cáusticos; solo se usará si hay evidencia de infección secundaria o perforación con peritonitis o mediastinitis. Su uso profiláctico indiscriminado no está respaldado por la evidencia.",
+    "C": "Aunque los inhibidores de la bomba de protones pueden usarse como medida de soporte, no existe evidencia sólida de que prevengan lesiones adicionales por reflujo en el contexto agudo de ingesta cáustica; su beneficio no está «ampliamente demostrado» en esta indicación específica."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Al realizar una pericardiocentesis a un paciente con taponamiento cardíaco, podemos esperar todas las siguientes complicaciones, EXCEPTO una. Indica esta última:",
+  "opciones": {
+   "A": "Neumotórax por punción pleural.",
+   "B": "Peritonitis por punción peritoneal.",
+   "C": "Punción de la arteria aorta.",
+   "D": "Arritmias ventriculares."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 104, "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."},
+  "explicacion": {
+   "correcta": "La punción accidental de la aorta no es una complicación esperada de la pericardiocentesis porque la aorta se sitúa posterior y lateralmente, lejos de la trayectoria habitual de la aguja (abordaje subxifoideo). Las estructuras en riesgo son el ventrículo derecho, las arterias coronarias, el pulmón y el hígado, pero no la aorta. Esta opción es la que no pertenece al perfil de complicaciones típicas del procedimiento.",
+   "incorrectas": {
+    "A": "El neumotórax es una complicación reconocida de la pericardiocentesis, especialmente si se utiliza el abordaje paraesternal; la aguja puede penetrar accidentalmente en el espacio pleural o en el pulmón.",
+    "B": "La punción peritoneal con peritonitis es posible, sobre todo en el abordaje subxifoideo si la aguja se dirige en ángulo excesivamente caudal; aunque infrecuente, está descrita como complicación del procedimiento.",
+    "D": "Las arritmias ventriculares, incluyendo la fibrilación ventricular, son complicaciones bien conocidas de la pericardiocentesis cuando la aguja contacta con el miocardio ventricular, y constituyen una de las principales razones para realizar el procedimiento bajo monitorización electrocardiográfica continua."
+   }
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "¿En qué situación esperarías encontrar en el electrocardiograma una onda J de Osborn?",
+  "opciones": {
+   "A": "Gran quemado.",
+   "B": "Crisis tirotóxica.",
+   "C": "Intoxicación por monóxido de carbono.",
+   "D": "Hipotermia severa."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 98, "tema": "Lesiones por agentes físicos y ambientales. Lesiones por electricidad y rayos. Hipotermia."},
+  "explicacion": {
+   "correcta": "La onda J de Osborn es un hallazgo electrocardiográfico patognomónico de la hipotermia severa (temperatura corporal < 30 °C). Se manifiesta como una deflexión positiva al final del complejo QRS, en el punto J, y su amplitud aumenta a medida que desciende la temperatura corporal. Su presencia debe hacer sospechar hipotermia profunda y es un marcador de gravedad.",
+   "incorrectas": {
+    "A": "En el gran quemado los hallazgos electrocardiográficos son inespecíficos y se relacionan con trastornos electrolíticos, dolor, estrés o miocarditis por quemadura; la onda J de Osborn no forma parte de su perfil electrocardiográfico.",
+    "B": "La crisis tirotóxica cursa con taquicardia sinusal, fibrilación auricular u otras taquiarritmias, así como con acortamiento del intervalo QT; no produce onda J de Osborn, ya que la hipertermia es el contexto fisiopatológico opuesto.",
+    "C": "La intoxicación por monóxido de carbono puede producir cambios inespecíficos en el ST-T, bloqueos de rama o arritmias, pero no está asociada específicamente a la onda J de Osborn, que es característica de la hipotermia."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En relación al síndrome coronario agudo sin elevación del ST (SCASEST), indica la afirmación FALSA:",
+  "opciones": {
+   "A": "La reperfusión coronaria urgente es fundamental, por lo que estos pacientes deben ser derivados a un centro con cardiología intervencionista.",
+   "B": "La determinación de los niveles de troponinas son fundamentales, ya nos permitirán discernir si estamos ante un infarto sin elevación del ST o ante una angina inestable.",
+   "C": "El electrocardiograma puede ser normal.",
+   "D": "El tratamiento farmacológico inicial se basa en la administración de nitratos y los betabloqueantes, que deben iniciarse tan pronto como sea posible."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 46, "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."},
+  "explicacion": {
+   "correcta": "A diferencia del SCACEST, el SCASEST no requiere reperfusión coronaria urgente e inmediata en todos los casos. La estrategia y el momento de la intervención coronaria percutánea se estratifican según el riesgo del paciente (escalas GRACE, TIMI). Solo los pacientes de muy alto riesgo (inestabilidad hemodinámica, arritmias malignas) requieren cateterismo en menos de 2 horas; la mayoría puede manejarse con estrategia invasiva precoz (< 24-72 h) pero no urgente. Afirmar que «la reperfusión urgente es fundamental» para todos los SCASEST es incorrecto.",
+   "incorrectas": {
+    "B": "La troponina es el biomarcador clave en el SCASEST: su elevación distingue el infarto sin elevación del ST (IAMSEST) de la angina inestable (troponinas normales). Los protocolos de alta sensibilidad permiten descartar o confirmar el diagnóstico en pocas horas.",
+    "C": "El ECG puede ser completamente normal en el SCASEST, especialmente en fases precoces o en territorios de difícil registro estándar (circunfleja). La normalidad del ECG no descarta isquemia miocárdica significativa.",
+    "D": "Los nitratos son útiles para aliviar el dolor anginoso por vasodilatación coronaria y los betabloqueantes reducen la frecuencia cardíaca y el consumo miocárdico de oxígeno; ambos forman parte del tratamiento farmacológico inicial del SCASEST salvo contraindicaciones."
+   }
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "¿Qué NO esperarías encontrar en un paciente con un cuadro compatible con cetoacidosis diabética?",
+  "opciones": {
+   "A": "Glucemia en plasma de 950 mg/dL.",
+   "B": "pH de 7,19.",
+   "C": "Cuerpos cetónicos de 0,3 mmol/L.",
+   "D": "Osmolaridad plasmática elevada."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 71, "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."},
+  "explicacion": {
+   "correcta": "El diagnóstico de cetoacidosis diabética requiere cetonemia significativa, definida habitualmente como cuerpos cetónicos en sangre ≥ 3 mmol/L (o cetonuria ≥ 2+ en tira reactiva). Un valor de 0,3 mmol/L se encuentra dentro del rango normal (< 0,6 mmol/L) y es incompatible con cetoacidosis. Este hallazgo es el que NO se esperaría encontrar en este cuadro.",
+   "incorrectas": {
+    "A": "La hiperglucemia grave, incluyendo valores superiores a 900 mg/dL, es compatible con cetoacidosis diabética, aunque no es el criterio diagnóstico más importante. La CAD puede presentarse incluso con glucemias relativamente más bajas (250-350 mg/dL) en algunas circunstancias.",
+    "B": "Un pH de 7,19 refleja acidosis metabólica moderada-grave, hallazgo cardinal de la cetoacidosis diabética. El criterio diagnóstico estándar es pH < 7,3 con anión gap elevado.",
+    "D": "La osmolaridad plasmática elevada es habitual en la cetoacidosis diabética debido a la hiperglucemia y a la deshidratación. Aunque es más característica del estado hiperosmolar hiperglucémico, también puede estar elevada en la CAD grave."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "El tratamiento de una crisis suprarrenal se basa en todo lo siguiente, EXCEPTO:",
+  "opciones": {
+   "A": "Hidrocortisona endovenosa a dosis de 100 mg cada 6 horas o en perfusión continua.",
+   "B": "Si presenta cuadro de vómitos, duplicaremos la dosis de hidrocortisona para su correcto control y evitar mayor deshidratación.",
+   "C": "De 1 a 3 litros de suero salino isotónico 0.9% durante las primeras 12 horas, en función del grado de deshidratación.",
+   "D": "Buscar la probable causa precipitante de la crisis suprarrenal, y tratarla convenientemente."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 73, "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "En la crisis suprarrenal aguda, cuando el paciente presenta vómitos (que impiden la vía oral), la pauta correcta es administrar la hidrocortisona por vía endovenosa a la dosis estándar (100 mg c/6h), no duplicarla. La duplicación de la dosis no está indicada por vómitos y podría producir efectos adversos; la indicación de doblar la dosis se aplica a situaciones de enfermedad intercurrente leve cuando el paciente puede recibir corticoides orales, no en la crisis aguda con vía IV ya establecida.",
+   "incorrectas": {
+    "A": "La hidrocortisona intravenosa en bolo de 100 mg seguida de 100 mg cada 6-8 horas (o 200-400 mg en perfusión continua en 24 h) es el pilar del tratamiento de la crisis suprarrenal y debe administrarse de forma inmediata ante la sospecha clínica.",
+    "C": "La reposición hídrica agresiva con suero salino isotónico (1-3 L en las primeras 12 horas) es fundamental para corregir la hipotensión y la deshidratación; la hipotensión es frecuentemente el síntoma dominante que lleva al paciente a urgencias.",
+    "D": "Identificar y tratar el factor precipitante (infección, cirugía, traumatismo, omisión del tratamiento corticoide habitual) es esencial para el tratamiento completo de la crisis suprarrenal, ya que sin eliminar el desencadenante el paciente puede no responder adecuadamente a la corticoterapia."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En relación al dolor escrotal agudo, qué afirmación es la CORRECTA:",
+  "opciones": {
+   "A": "En la torsión testicular la aparición del dolor es paulatina y de características cólicas.",
+   "B": "En la torsión testicular el signo de Prehn es positivo.",
+   "C": "La orquioepididimitis es la causa más frecuente de escroto agudo.",
+   "D": "En la torsión testicular el reflejo cremastérico se encuentra exacerbado."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 76, "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo."},
+  "explicacion": {
+   "correcta": "La orquioepididimitis es efectivamente la causa más frecuente de síndrome escrotal agudo en varones adultos, superando en frecuencia a la torsión testicular. Esta distinción tiene gran importancia clínica porque la torsión testicular es la causa más urgente y que requiere intervención quirúrgica inmediata, aunque sea menos frecuente en la población general.",
+   "incorrectas": {
+    "A": "En la torsión testicular el dolor tiene un inicio brusco y de gran intensidad, no paulatino ni cólico. La instauración súbita del dolor es precisamente uno de los datos que orientan hacia torsión y obliga a una valoración urgente.",
+    "B": "El signo de Prehn (alivio del dolor al elevar el testículo) es positivo en la orquioepididimitis, no en la torsión testicular. En la torsión, la elevación testicular empeora o no modifica el dolor (signo de Prehn negativo), lo que es un dato clínico orientador hacia torsión.",
+    "D": "En la torsión testicular el reflejo cremastérico está ausente o disminuido, no exacerbado. La abolición del reflejo cremastérico es un signo con alta sensibilidad para el diagnóstico de torsión testicular y su presencia debe hacer reconsiderar el diagnóstico."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En una crisis tirotóxica, podemos encontrar todos los hallazgos siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Fibrilación auricular con respuesta ventricular media rápida.",
+   "B": "Diarreas.",
+   "C": "Piel fría y húmeda.",
+   "D": "Temblor fino de manos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 73, "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "En la crisis tirotóxica la piel es caliente, sonrosada y sudorosa (diaforesis profusa), no fría. La hiperfunción tiroidea produce vasodilatación periférica y aumento del metabolismo basal, lo que genera calor corporal excesivo. La piel fría es característica de hipotiroidismo o shock, situaciones opuestas a la tirotoxicosis.",
+   "incorrectas": {
+    "A": "La fibrilación auricular con respuesta ventricular rápida es una de las arritmias más frecuentes en la crisis tirotóxica, debida al efecto cronotrópico e inotrópico positivo de las hormonas tiroideas sobre el miocardio; puede ser la forma de presentación de una tirotoxicosis no diagnosticada.",
+    "B": "Las diarreas y el aumento del peristaltismo intestinal son manifestaciones frecuentes de la tirotoxicosis, secundarias a la hipermotilidad gastrointestinal inducida por el exceso de hormonas tiroideas.",
+    "D": "El temblor fino distal de las manos es un signo clásico del hipertiroidismo y de la crisis tirotóxica, causado por el efecto estimulante de las hormonas tiroideas sobre el sistema nervioso adrenérgico y sobre la musculatura esquelética."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Una de las siguientes NO es una medida útil en una taquicardia supraventricular paroxística:",
+  "opciones": {
+   "A": "Realización de maniobras vagales.",
+   "B": "Administración endovenosa de 0,5 mg de digoxina en perfusión durante 20 minutos.",
+   "C": "Administración endovenosa de 6 mg de adenosina en bolo.",
+   "D": "Administración endovenosa lenta en 2-3 minutos de 5-10 mg de verapamilo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 47, "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."},
+  "explicacion": {
+   "correcta": "La digoxina no es un fármaco de primera elección para revertir una taquicardia supraventricular paroxística (TPSV). Su inicio de acción es lento (horas) y la dosis de 0,5 mg en perfusión no produce la cardioversión rápida que se necesita en este contexto. Además, la digoxina puede estar contraindicada en TPSV con preexcitación (síndrome de Wolff-Parkinson-White). No forma parte de los algoritmos actuales de tratamiento agudo de la TPSV.",
+   "incorrectas": {
+    "A": "Las maniobras vagales (Valsalva, masaje del seno carotídeo) son el primer escalón terapéutico en la TPSV estable; aumentan el tono vagal y pueden interrumpir el circuito de reentrada en el nodo AV, consiguiendo la cardioversión en un porcentaje significativo de casos.",
+    "C": "La adenosina intravenosa en bolo (6 mg inicial, con posibilidad de repetir con 12 mg) es el fármaco de elección para la cardioversión farmacológica de la TPSV; bloquea transitoriamente el nodo AV e interrumpe el circuito de reentrada de forma muy eficaz y con un perfil de seguridad favorable.",
+    "D": "El verapamilo intravenoso (5-10 mg en 2-3 minutos) es una alternativa eficaz a la adenosina para cardiovertir la TPSV; bloquea los canales de calcio del nodo AV y es especialmente útil cuando la adenosina fracasa o está contraindicada, aunque requiere monitorización de la presión arterial."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Indica la aseveración CORRECTA respecto a las nuevas Guías de Reanimación Cardio-Pulmonar del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Vuelven a incluir la obligatoriedad de la administración de 2 ventilaciones de rescate en la reanimación cardiopulmonar básica por parte de primeros intervinientes no sanitarios.",
+   "B": "Se acepta la utilización de sistemas antiatragantamiento en escuelas y guarderías para la desobstrucción de la vía aérea en caso de obstrucción por cuerpo extraño.",
+   "C": "Se insiste en la necesidad de unas correctas compresiones torácicas durante la reanimación, minimizando las posibles interrupciones de las mismas.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 41, "tema": "Soporte vital básico y avanzado en el adulto y en el niño. Protocolos de actuación. Desfibrilación externa semiautomática."},
+  "explicacion": {
+   "correcta": "Las guías del ERC 2021 enfatizan la importancia de las compresiones torácicas de alta calidad con mínimas interrupciones como elemento central del soporte vital básico. La fracción de compresión torácica debe ser lo más alta posible (> 60%) y las pausas se deben minimizar. Esta recomendación está explícitamente reforzada en las guías de 2021 como uno de los factores más determinantes del pronóstico en la parada cardiorrespiratoria.",
+   "incorrectas": {
+    "A": "Las guías ERC 2021 NO restablecen la obligatoriedad de las ventilaciones de rescate para primeros intervinientes no sanitarios. Mantienen la opción de RCP solo con compresiones (hands-only CPR) como alternativa válida para testigos sin entrenamiento en ventilación, precisamente para eliminar barreras a la actuación.",
+    "B": "Las guías ERC 2021 no aprueban específicamente «sistemas antiatragantamiento» (dispositivos comerciales tipo LifeVac u otros) para uso en escuelas o guarderías; para la desobstrucción por cuerpo extraño se sigue recomendando la técnica de golpes interescapulares y maniobra de Heimlich según el protocolo estándar.",
+    "D": "Dado que las afirmaciones A y B son incorrectas, la opción D, que las incluye todas como correctas, también es errónea."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Indique la afirmación VERDADERA en cuanto al manejo de la hipocalcemia en Urgencias:",
+  "opciones": {
+   "A": "Al contrario que en los cuadros de hipercalcemia, no deberíamos esperar encontrarnos en el electrocardiograma alteraciones del segmento QT.",
+   "B": "En hipocalcemias graves (calcemia total < 7 mg/dL) es fundamental la administración precoz de calcio oral (carbonato cálcico 1 g/8 horas)",
+   "C": "Si detectamos hipomagnesemia deberemos corregir previamente este defecto antes de intentar corregir la hipocalcemia.",
+   "D": "El objetivo principal será conseguir un calcio total en plasma nunca superior a 7,5 mg/dL."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 70, "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."},
+  "explicacion": {
+   "correcta": "La hipomagnesemia causa hipocalcemia refractaria porque el magnesio es necesario para la secreción de PTH y para la acción de esta hormona en el hueso y el riñón. Si no se corrige primero el déficit de magnesio, la administración de calcio será ineficaz. Por ello, ante la coexistencia de hipocalcemia e hipomagnesemia se debe reponer el magnesio primero o simultáneamente.",
+   "incorrectas": {
+    "A": "La hipocalcemia SÍ produce alteraciones del QT en el ECG, concretamente prolongación del intervalo QT (QTc largo) con riesgo de arritmias. Esta es una manifestación electrocardiográfica importante de la hipocalcemia, opuesta a la hipercalcemia que acorta el QT.",
+    "B": "En hipocalcemias graves sintomáticas (calcemia < 7 mg/dL con tetania, convulsiones o alteraciones electrocardiográficas) está indicada la administración de calcio intravenoso urgente (gluconato cálcico IV), no oral. El calcio oral no proporciona la corrección rápida necesaria en situaciones graves.",
+    "D": "El objetivo del tratamiento de la hipocalcemia es elevar el calcio total hasta niveles normales (8,5-10,5 mg/dL), no limitarlo a cifras inferiores a 7,5 mg/dL, que seguirían siendo patológicas. Un objetivo tan bajo sería inadecuado y mantendría al paciente en riesgo de complicaciones."
+   }
+  }
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Cuál de las siguientes aseveraciones es CIERTA según las últimas guías europeas (2020 ESC Guidelines for the diagnosis and management of atrial fibrillation) para el diagnóstico y tratamiento de la fibrilación auricular:",
+  "opciones": {
+   "A": "En una mujer de 55 años con una fibrilación auricular no valvular, con un valor de 1 en la escala CHA2DS2-VASc el tratamiento indicado es la antiagregación con ácido acetil salicílico a dosis de 100 mg al día, vía oral.",
+   "B": "Un paciente con fibrilación auricular no valvular en tratamiento con acenocumarol desde hace 8 años y con mal control del INR, sería candidato ideal a la anticoagulación con warfarina.",
+   "C": "Los anticoagulantes de acción directa han demostrado una reducción de las causas de muerte secundarias a anticoagulación, frente a los anticoagulantes antivitamina K.",
+   "D": "Todas las anteriores son ciertas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 47, "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."},
+  "explicacion": {
+   "correcta": "Las guías ESC 2020 sobre fibrilación auricular reconocen que los anticoagulantes de acción directa (ACOD: apixabán, rivaroxabán, dabigatrán, edoxabán) han demostrado en los grandes ensayos clínicos una reducción significativa de la mortalidad por hemorragia intracraneal y de la mortalidad total relacionada con la anticoagulación frente a los antagonistas de la vitamina K, posicionándolos como tratamiento preferente en la FA no valvular.",
+   "incorrectas": {
+    "A": "Según las guías ESC 2020, en una mujer de 55 años con FA no valvular y CHA2DS2-VASc de 1 (el punto viene del sexo femenino), el tratamiento anticoagulante puede considerarse pero no es mandatorio, y el AAS no está recomendado como alternativa a la anticoagulación; la antiagregación plaquetaria no se recomienda para la prevención del ictus en FA según las guías actuales.",
+    "B": "En un paciente con mal control del INR bajo acenocumarol, las guías 2020 recomiendan el cambio a un ACOD, no a warfarina (que es otro antivitamina K con las mismas limitaciones de monitorización). El cambio de acenocumarol a warfarina no aporta ninguna ventaja clínica.",
+    "D": "Dado que las afirmaciones A y B son incorrectas, la opción D es igualmente errónea."
+   }
+  }
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En un paciente con disección aórtica aguda tipo I de DeBakey (Tipo A de Stanford), siendo el dolor torácico el síntoma más frecuente, ¿qué otra sintomatología podremos encontrarnos?",
+  "opciones": {
+   "A": "Insuficiencia cardíaca aguda.",
+   "B": "Insuficiencia renal aguda.",
+   "C": "Síncope.",
+   "D": "Cualquiera de los anteriores."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 52, "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."},
+  "explicacion": {
+   "correcta": "La disección aórtica tipo I de DeBakey (= tipo A de Stanford) afecta a la aorta ascendente y puede progresar distalmente. Por la extensión de la disección, puede producir insuficiencia cardíaca aguda (por insuficiencia aórtica aguda o taponamiento), insuficiencia renal (por disección de arterias renales) y síncope (por compromiso de la perfusión cerebral o taponamiento). Todas las manifestaciones son posibles, por lo que la respuesta «cualquiera de los anteriores» es la correcta.",
+   "incorrectas": {
+    "A": "La insuficiencia cardíaca aguda SÍ puede aparecer en la disección tipo A por dos mecanismos principales: insuficiencia aórtica aguda grave debida a la afectación de la raíz aórtica, o taponamiento cardíaco por hemopericardio. No se puede excluir como presentación posible.",
+    "B": "La insuficiencia renal aguda SÍ puede ocurrir si la disección se propaga distalmente y compromete el ostium de las arterias renales, produciendo isquemia renal unilateral o bilateral. No se puede excluir como complicación.",
+    "C": "El síncope SÍ puede presentarse en la disección tipo A, bien por compromiso del flujo cerebral (disección de troncos supraaórticos), bien por taponamiento pericárdico agudo con caída brusca del gasto cardíaco. No se puede excluir como manifestación."
+   }
+  }
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Cualesquiera de las siguientes situaciones o signos nos harán sospechar que nos encontramos ante un síncope de características cardiogénicas, EXCEPTO uno. Indícalo.",
+  "opciones": {
+   "A": "Síncope durante el ejercicio.",
+   "B": "Síncope durante la ingesta.",
+   "C": "Hallazgos en el ECG de un bloqueo auriculo-ventricular de 2º grado, tipo Mobitz I.",
+   "D": "Antecedentes familiares de muerte súbita a edad temprana."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 51, "tema": "Síncope. Concepto y etiología del síncope. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "El síncope durante la ingesta es característico del síncope vasovagal o neuromediado (reflejo), no del síncope cardiogénico. El estímulo vagal producido por la deglución o la distensión gástrica puede desencadenar bradicardia y vasodilatación refleja. Es un patrón situacional típico del síncope reflejo benigno, y su presencia orienta en contra de un origen cardíaco.",
+   "incorrectas": {
+    "A": "El síncope durante el esfuerzo físico es uno de los signos de alarma que orientan fuertemente hacia un origen cardíaco (obstrucción al flujo de salida, miocardiopatía hipertrófica, estenosis aórtica grave, arritmia inducida por esfuerzo) y debe considerarse de alto riesgo hasta demostrar lo contrario.",
+    "C": "El bloqueo AV de 2.º grado Mobitz I (Wenckebach) puede ser benigno en contexto vagal, pero su hallazgo en el ECG de un paciente con síncope obliga a descartar progresión a bloqueo de mayor grado; en las guías actuales los bloqueos AV son criterios de riesgo para síncope cardíaco.",
+    "D": "Los antecedentes familiares de muerte súbita a edad temprana son un factor de riesgo muy relevante que orienta hacia cardiopatías hereditarias (síndrome de Brugada, QT largo congénito, miocardiopatía hipertrófica, displasia arritmogénica del ventrículo derecho) como causa del síncope."
+   }
+  }
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "¿Cuál de los siguientes fármacos NO está indicado como tratamiento de primera elección en una emergencia hipertensiva?",
+  "opciones": {
+   "A": "Bisoprolol.",
+   "B": "Enalapril.",
+   "C": "Labetalol.",
+   "D": "Esmolol."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 52, "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."},
+  "explicacion": {
+   "correcta": "El bisoprolol es un betabloqueante oral de acción prolongada indicado para el tratamiento crónico de la hipertensión, la insuficiencia cardíaca y la cardiopatía isquémica. No tiene formulación intravenosa comercializada para uso urgente y su inicio de acción oral es demasiado lento para el manejo de una emergencia hipertensiva, donde se requiere reducción controlada y rápida de la presión arterial con fármacos parenterales de titulación precisa.",
+   "incorrectas": {
+    "B": "El enalaprilato (forma intravenosa del enalapril) SÍ se emplea en emergencias hipertensivas, especialmente en el contexto de insuficiencia cardíaca aguda hipertensiva; inhibe la enzima conversora de angiotensina y permite una reducción gradual de la presión arterial.",
+    "C": "El labetalol intravenoso es uno de los fármacos de elección en la emergencia hipertensiva; combina bloqueo alfa y betaadrenérgico y es especialmente útil en disección aórtica, encefalopatía hipertensiva y emergencias hipertensivas del embarazo.",
+    "D": "El esmolol intravenoso es un betabloqueante ultrarrápido de acción muy corta, útil en emergencias hipertensivas con taquicardia o en el contexto perioperatorio; permite una titulación muy precisa y reversión rápida de su efecto."
+   }
+  }
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "En relación al manejo de un paciente con un cuadro de anafilaxia, indique la aseveración CORRECTA:",
+  "opciones": {
+   "A": "A nivel extrahospitalario la administración de adrenalina endovenosa es más segura que la administración intramuscular, ya que presenta menor riesgo de eventos secundarios.",
+   "B": "Para la administración de adrenalina es preferible la vía subcutánea a la intramuscular a fin de evitar necrosis del músculo.",
+   "C": "En algunos pacientes con estridor puede ser útil la administración de adrenalina nebulizada.",
+   "D": "Si el paciente tiene una vía endovenosa priorizaremos la administración de corticoides potentes de acción rápida (por ejemplo, hidrocortisona) a la administración de adrenalina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 102, "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "La adrenalina nebulizada puede ser útil como medida complementaria en pacientes con estridor laríngeo o angioedema supraglótico, ya que actúa localmente reduciendo el edema de la mucosa. Aunque no sustituye a la adrenalina intramuscular sistémica, es una medida coadyuvante reconocida en guías de anafilaxia para el manejo del compromiso de la vía aérea alta.",
+   "incorrectas": {
+    "A": "Fuera del hospital, la adrenalina intravenosa es MÁS peligrosa que la intramuscular porque requiere dilución precisa y monitorización continua; su uso extrahospitalario sin infraestructura adecuada puede producir arritmias graves, crisis hipertensivas y muerte. La vía intramuscular (cara anterolateral del muslo) es la recomendada en el ámbito extrahospitalario.",
+    "B": "La vía intramuscular en el músculo vasto lateral (muslo) es preferida a la subcutánea para la administración de adrenalina en anafilaxia, porque consigue niveles plasmáticos más altos y más rápidos. La vía subcutánea se absorbe más lentamente y ha sido desplazada de las guías actuales. La necrosis muscular no es un motivo para preferir la vía subcutánea.",
+    "D": "La adrenalina es el fármaco de primera línea en la anafilaxia y NUNCA debe ser retrasada o pospuesta en favor de los corticoides. Los corticoides tienen un inicio de acción tardío (horas) y no tratan la fase aguda de la anafilaxia; se administran después de la adrenalina para prevenir reacciones bifásicas."
+   }
+  }
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "El tratamiento de un paciente con cetoacidosis diabética tiene como objetivo principal:",
+  "opciones": {
+   "A": "Descenso de la glucemia.",
+   "B": "Mantenimiento de una diuresis de unos 50 ml/h.",
+   "C": "Descenso de los cuerpos cetónicos plasmáticos por debajo de 0,6 mmol/L.",
+   "D": "Todos ellos son objetivos principales."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 71, "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."},
+  "explicacion": {
+   "correcta": "El tratamiento de la cetoacidosis diabética tiene múltiples objetivos simultáneos que deben alcanzarse de forma integrada: corrección de la hiperglucemia (glucemia < 250 mg/dL), resolución de la cetosis (cetonemia < 0,6 mmol/L), corrección de la acidosis metabólica, reposición del déficit hídrico (con mantenimiento de diuresis adecuada ≈ 0,5 ml/kg/h, aproximadamente 30-50 ml/h) y corrección electrolítica. Ninguno de estos objetivos puede considerarse el único principal; todos forman parte integral del protocolo de tratamiento.",
+   "incorrectas": {
+    "A": "El descenso de la glucemia es uno de los objetivos, pero no el único ni el más importante. La resolución de la cetoacidosis (normalización del pH y de la cetonemia) es el objetivo definitorio del tratamiento; de hecho, la glucemia puede comenzar a descender antes de que se resuelva la acidosis.",
+    "B": "Mantener una diuresis adecuada es un criterio de monitorización importante que refleja la correcta reposición hídrica y la perfusión renal, pero es un parámetro de seguimiento, no el objetivo principal por sí solo.",
+    "C": "Reducir la cetonemia por debajo de 0,6 mmol/L es el criterio de resolución de la cetosis y uno de los objetivos terapéuticos clave, pero tomado de forma aislada no abarca la totalidad del tratamiento, que también incluye corrección glucémica y ácido-base."
+   }
+  }
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Qué NO esperarás encontrarte en una situación de shock cardiogénico:",
+  "opciones": {
+   "A": "Dilatación de la vena cava inferior en la ecografía.",
+   "B": "Hipotensión.",
+   "C": "Edema agudo de pulmón.",
+   "D": "Bloqueo de rama derecha, no presente en ECG previos."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 50, "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."},
+  "explicacion": {
+   "correcta": "En el shock cardiogénico hay fallo de la bomba cardíaca con aumento de las presiones de llenado del ventrículo derecho y de la presión venosa central. Esto produce una vena cava inferior dilatada y plétora, no colapsada. La dilatación de la VCI es precisamente lo que se espera encontrar; lo que no esperaríamos es una VCI colapsada (que indicaría hipovolemia). Si la pregunta se interpreta en sentido inverso —lo que no esperaríamos—, una VCI colapsada sería el hallazgo anómalo. Sin embargo, la opción A dice «dilatación», que SÍ es esperable en el shock cardiogénico, siendo por tanto el hallazgo que no coincide con las otras opciones como algo anómalo o inesperado en este contexto. La interpretación correcta es que en shock cardiogénico la VCI está dilatada (no colapsada), y esta dilatación es en realidad lo esperable; la VCI colapsada sería lo que no esperaríamos. La opción A es la respuesta porque una VCI dilatada es esperable y no constituye una excepción.",
+   "incorrectas": {
+    "B": "La hipotensión arterial (PAS < 90 mmHg o caída > 30 mmHg del basal) es el criterio hemodinámico definitorio del shock cardiogénico y se espera encontrar en todos los casos.",
+    "C": "El edema agudo de pulmón es la manifestación más característica del shock cardiogénico, secundaria a la elevación de las presiones de llenado del ventrículo izquierdo y al aumento de la presión capilar pulmonar con extravasación de líquido al intersticio y alvéolos pulmonares.",
+    "D": "El bloqueo de rama derecha de nueva aparición puede ser una manifestación eléctrica del infarto de miocardio que causa el shock cardiogénico (especialmente en infartos extensos de cara anterior o de ventrículo derecho) y es un hallazgo esperable en este contexto."
+   }
+  }
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen Médico de Urgencias Navarra",
+  "enunciado": "Mujer de 52 años, obesa, con cólicos nefríticos de repetición. En la analítica sanguínea en Urgencias presenta glucemia 213 mg/dL y función renal normal. En analítica previa de hace una semana, pendiente de valorar por su médico, glucemia basal de 195 mg/dL. Al alta y según consenso entre la Sociedad Española de Medicina de Urgencias y Emergencias, la Sociedad Española de Diabetes y la Sociedad Española de Endocrinología y Nutrición, ¿Cuál debería ser nuestra actitud terapéutica?",
+  "opciones": {
+   "A": "Indicarle que acuda a su médico de familia para que valore tratamiento antidiabético.",
+   "B": "Comenzar tratamiento antidiabético con metformina a dosis bajas con ascenso progresivo por su médico de familia.",
+   "C": "Comenzar con sulfonilureas, ya que mejorarán la glucemia y le ayudarán a perder peso.",
+   "D": "No dar ninguna indicación, ya que es muy probable que esas glucemias sean secundarias a su proceso renal y se normalizarán en unos días."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 71, "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."},
+  "explicacion": {
+   "correcta": "Según el documento de consenso SEMES-SED-SEEN, ante dos glucemias basales ≥ 126 mg/dL (o una ≥ 200 mg/dL en contexto clínico compatible) se puede establecer el diagnóstico de diabetes mellitus tipo 2 e iniciar tratamiento. Esta paciente cumple criterios diagnósticos (glucemia basal de 195 mg/dL previa y 213 mg/dL actual). La recomendación consensuada es iniciar metformina a dosis bajas con ascenso progresivo, coordinando el seguimiento con el médico de familia, ya que tiene función renal normal y no hay contraindicaciones.",
+   "incorrectas": {
+    "A": "Derivar a la paciente sin iniciar tratamiento sería insuficiente según el consenso; ante diagnóstico de DM2 establecida en Urgencias con función renal normal, se puede y debe iniciar el tratamiento con metformina, no diferir toda la decisión al médico de familia sin ninguna actuación.",
+    "C": "Las sulfonilureas no son el tratamiento de inicio recomendado en la DM2 según las guías actuales, y tienen el efecto contrario al deseado en una paciente obesa: favorecen el aumento de peso y el riesgo de hipoglucemia. La metformina es el fármaco de primera línea en DM2 con obesidad y función renal conservada.",
+    "D": "Las glucemias de esta paciente no son atribuibles al proceso renal (cólico nefrítico); la función renal es normal y no hay causa evidente de hiperglucemia reactiva. Con dos determinaciones que cumplen criterios diagnósticos de DM2, no actuar sería un error clínico que retrasaría innecesariamente el tratamiento."
+   }
+  }
+ }
+]

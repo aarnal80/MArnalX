@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 23,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Con respecto a la atención de los pacientes en el área de urgencias en caso de desastre es FALSO que:",
+  "opciones": {
+   "A": "La atención no imprescindible inmediatamente debería proporcionarse al día siguiente.",
+   "B": "Solo deben realizarse estudios radiográficos si sus resultados modificaran las intervenciones terapéuticas.",
+   "C": "Los estudios de laboratorio deben considerarse accesorios y solo ordenarse en circunstancias específicas.",
+   "D": "La pulsioximetría se empleará preferentemente en la monitorización contínua de los pacientes."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta CORRECTA con respecto al sistema español de triage:",
+  "opciones": {
+   "A": "Es una adaptación del modelo de Manchester.",
+   "B": "Es de aplicación tanto en el terreno hospitalario como en el extrahospitalario.",
+   "C": "Es un triage de 4 niveles de priorización.",
+   "D": "Es un modelo de triage exclusivamente médico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes NO es una característica del triage moderno?",
+  "opciones": {
+   "A": "Sencillez.",
+   "B": "Reproducibilidad.",
+   "C": "Utilidad.",
+   "D": "Validez."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Si tras intubar correctamente a un paciente en parada cardiorrespiratoria no se consigue una correcta ventilación habrá que descartar las siguientes circunstancias EXCEPTO:",
+  "opciones": {
+   "A": "Taponamiento cardiaco.",
+   "B": "Desplazamiento del tubo orotraqueal.",
+   "C": "Obstrucción del tubo orotraqueal.",
+   "D": "Fallo del equipo."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA con respecto al control de la vía aérea en el paciente politraumatizado inconsciente?",
+  "opciones": {
+   "A": "El barrido digital de la boca se desaconseja para extraer cuerpos extraños no visulizados.",
+   "B": "La primera medida será colocar una cánula de Guedel.",
+   "C": "El método de aislamiento preferido de la vía aérea es la intubación orotraqueal.",
+   "D": "Cualquier maniobra debe realizarse bajo control cervical."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la respuesta INCORRECTA con respecto al manejo del volumen del paciente politraumatizado:",
+  "opciones": {
+   "A": "La hipervolemia puede aumentar el sangrado.",
+   "B": "La hipervolemia puede aumentar la coagulopatía.",
+   "C": "Las estrategias de hipovolemia permisiva son de aplicación en la mayoría de pacientes.",
+   "D": "En pacientes con hemorragia masiva se debe administrar ácido tranexámico además de la restauración de la volemia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Entre los objetivos prioritarios del tratamiento en pacientes con shock hemorrágico NO se encuentra:",
+  "opciones": {
+   "A": "El control de la hemorragia.",
+   "B": "La restauración de la volemia.",
+   "C": "La obtención de una adecuada perfusión tisular.",
+   "D": "La recuperación de las cifras de hemoglobina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cuál de las siguientes afirmaciones con respecto al shock es FALSA:",
+  "opciones": {
+   "A": "En sus fases iniciales puede no ser evidente su existencia.",
+   "B": "Los tejidos pasan a realizar un metabolismo anaerobio.",
+   "C": "La mortalidad llega a ser de un 50% en el shock establecido.",
+   "D": "Sus manifestaciones clínicas son muy específicas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de los siguientes parámetros NO es sugestivo de una situación de shock?",
+  "opciones": {
+   "A": "pCO2 >32 mmHg.",
+   "B": "Exceso de bases < -5 mmEq/L.",
+   "C": "Lactato > 4 mmol/L.",
+   "D": "Descenso de la tensión arterial sistólica >40 mmHg con respecto a sus valores basales."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "En el protocolo RUSH (Rapid Ultrasound in Shock) se valora lo siguiente, EXCEPTO:",
+  "opciones": {
+   "A": "La contractilidad cardiaca.",
+   "B": "La colapsabilidad de la vena cava inferior.",
+   "C": "La aorta y el sistema venoso profundo de las extremidades inferiores.",
+   "D": "La distensión de las venas suprahepáticas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿En cuál de las siguientes situaciones sería aconsejable una estrategia de control del ritmo en un paciente con fibrilación auricular (FA)?",
+  "opciones": {
+   "A": "En caso de fibrilación auricular persistente de larga duración.",
+   "B": "En pacientes con una aurícula izquierda >55 mm.",
+   "C": "En pacientes con estenosis mitral.",
+   "D": "En pacientes muy sintomáticos con FA a pesar de buen control de la frecuencia cardiaca."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale la afirmación FALSA con respecto a la prevención tromboembólica en la fibrilación auricular:",
+  "opciones": {
+   "A": "Los pacientes con episodios ocasionales tienen el mismo riesgo embolígeno que aquellos con FA permanente.",
+   "B": "El ácido acetilsalicílico no tiene indicación actualmente.",
+   "C": "Su empleo está indicado en pacientes con CHA2DS2-VASc > 2 puntos.",
+   "D": "En pacientes con una puntación de 1 en la escala CHA2DS2-VASc no está indicada."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cuál de las siguientes afirmaciones sobre la atención a pacientes con sospecha de síndrome coronario agudo es FALSA:",
+  "opciones": {
+   "A": "La elevación del segmento ST mantenida es sugestiva de oclusión de una arteria endocárdica.",
+   "B": "En el síndrome coronario agudo sin elevación del segmento ST el ECG inicial puede ser normal en muchos casos.",
+   "C": "En pacientes con dolor torácico atípico, con ECG y troponinas seriados normales, en los que la probabilidad de cardiopatía isquémica es menor del 15% no estaría indicada la realización de un test de detección de isquemia.",
+   "D": "Actualmente en los pacientes con SCACEST el tratamiento fibrinolítico quedaría restringido a aquellos casos en los que no se pueda realizar una angioplastia en un tiempo razonable."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre el diagnóstico de la insuficiencia cardiaca es FALSA?",
+  "opciones": {
+   "A": "La determinación de péptidos natriuréticos es útil por su elevado valor predictivo positivo.",
+   "B": "El ECG es casi siempre patológico.",
+   "C": "El diagnóstico de insuficiencia cardiaca es fundamentalmente clínico.",
+   "D": "La ecocardiografía es una prueba muy útil pero su realización no debe diferir el inicio del tratamiento."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la respuesta CORRECTA con respecto al shock cardiogénico?",
+  "opciones": {
+   "A": "En estos pacientes el empleo de diuréticos no disminuye la tensión arterial.",
+   "B": "Los fármacos inotrópicos de elección son adrenalina y levosimendan.",
+   "C": "El empleo de vasopresores está contraindicado porque aumentan la demanda miocárdica de oxígeno.",
+   "D": "Las dosis altas de dobutamina deben evitarse por la posibilidad de aparición de arritmias cardiacas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Con respecto al tratamiento del edema agudo de pulmón con tensión arterial baja es FALSO que:",
+  "opciones": {
+   "A": "El tratamiento diurético se comienza con diuréticos de asa por vía endovenosa.",
+   "B": "En casos de mala evolución se puede emplear dobutamina.",
+   "C": "La nitroglicerina solo se puede emplear si la tensión arterial sistólica es superior a 110 mmHg.",
+   "D": "No se deben exceder los 100 mg de furosemida en las primeras 6 horas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál es la herramienta diagnóstica con mayor rentabilidad en el diagnóstico del síncope?",
+  "opciones": {
+   "A": "El electrocardiograma.",
+   "B": "La ecocardiografía.",
+   "C": "El Holter.",
+   "D": "La historia clínica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de los siguientes parámetros NO forma parte de la regla del síncope de San Francisco?",
+  "opciones": {
+   "A": "Antecedentes de insuficiencia cardiaca.",
+   "B": "Hematocrito menor del 30%.",
+   "C": "Disnea.",
+   "D": "Presión arterial sistólica menor de 70 mm Hg."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "¿Cuál de las siguientes afirmaciones con respecto al síncope es FALSA?",
+  "opciones": {
+   "A": "Tras un estudio exhaustivo la proproción de pacientes sin diagnóstico etiológico es alta.",
+   "B": "Es un problema frecuente. Hasta un 40% de la población sufrirá un síncope a lo largo de su vida.",
+   "C": "El síncope cardiogéncio tiene una mortalidad alta.",
+   "D": "La caída de la tensión arterial sistólica >20 mm Hg o de la Tad>10 mm Hg con la bipedestación, es por sí misma, diagnóstica de síncope ortostático."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Con respecto a la embolia de pulmón es FALSO que:",
+  "opciones": {
+   "A": "En pacientes con una escala PESI (Pulmonary Embolism Severity Index) de riesgo intermedio-alto la determinación de troponina no aporta información pronóstica.",
+   "B": "La radiografía de tórax no suele ser diagnóstica.",
+   "C": "La disnea puede ser de aparición brusca o bien aparecer a lo largo de días.",
+   "D": "La auscultación pulmonar puede ser normal, pero también se pueden escuchar sibilancias, crepitantes o semiología de derrame pleural."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Señale cuál de las siguientes afirmaciones sobre la disnea por obstrucción de la vía aérea superior es FALSA:",
+  "opciones": {
+   "A": "Se acompaña de estridor.",
+   "B": "Se acompaña generalmente de gran trabajo respiratorio.",
+   "C": "Hay anomalías en la fonación.",
+   "D": "La presentación suele ser subaguda."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen Médico/a de Urgencia Hospitalaria Cantabria 2024 (estabilización)",
+  "enunciado": "Indique cuál de los siguientes NO es un criterio de ingreso en UCI en la agudización de EPOC:",
+  "opciones": {
+   "A": "Hipercapnia grave o que empeora.",
+   "B": "Acidosis respiratoria con un pH de 7,30.",
+   "C": "Presencia de confusión.",
+   "D": "Frecuencia respiratoria de 35 respiraciones por minuto."
+  },
+  "respuesta_correcta": "B"
+ }
+]

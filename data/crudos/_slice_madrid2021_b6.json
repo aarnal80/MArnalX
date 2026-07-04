@@ -1,0 +1,242 @@
+[
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 72 años previamente sana que acude por fiebre y astenia de evolución en los últimos 10 días, en la exploración llama la atención mal estado general, palidez, adenopatías laterocervicales y polo de bazo palpable a 2 cm de reborde costal. En los análisis destaca Hb 8.5 g/dL, VCM 98 fl, plaquetas 50.000 c/mL y leucocitos 1.800 c/mL con 720 neutrófilos/mL, creatinina 1.8 mg/dL, bilirrubina 4.2 mg/dL, PCR 190 mg/dL, ferritina 2.400 ng/mL, triglicéridos 850 mg/dL y fibrinógeno 0.8 g/L. Cuál de los siguientes hallazgos esperaría encontrar en el estudio",
+  "opciones": {
+   "A": "Datos de hepatopatía crónica evolucionada",
+   "B": "Anticuerpos antinucleares positivos a títulos altos",
+   "C": "Hemocultivos positivos",
+   "D": "Serologia positiva para virus de Epstein Barr"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 35 años intervenida de adenoma paratiroideo hace años y que se diagnostica recientemente de un prolactinoma. Como lo interpreta",
+  "opciones": {
+   "A": "Sospecha de neoplasia endocrina múltiple tipo 1",
+   "B": "Sospecha de neoplasia endocrina múltiple tipo 2A",
+   "C": "Sospecha de neoplasia endocrina múltiple tipo 2B",
+   "D": "Sospecha de complejo de Carney"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un hombre de 60 años, sin antecedentes relevantes, consulta por pérdida de peso, fatiga y dolor óseo difuso. Las pruebas de laboratorio muestran anemia normocítica y elevación de la fosfatasa alcalina. La tomografía computarizada (TC) revela múltiples lesiones óseas sugestivas de metástasis. La biopsia de una de las lesiones confirma tejido compatible con carcinoma metastásico, pero no se puede identificar el tumor primario. ¿Cuál sería la mejor estrategia inicial para optimizar los recursos diagnósticos?",
+  "opciones": {
+   "A": "Realizar PET-TC para intentar localizar el tumor primario",
+   "B": "Comenzar quimioterapia empírica sin más estudios",
+   "C": "Asegurarse que en el estudio de la biopsia del tejido metastásico se haya realizado análisis inmunohistoquímicos para identificar el origen",
+   "D": "Realizar una RNM para evaluar lesiones óseas y tejidos blandos adyacentes"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Con respecto a las neoplasias neuroendocrinas pulmonares, señale la falsa:",
+  "opciones": {
+   "A": "Este tipo de tumores supone aproximadamente un 19% de todos los tumores broncopulmonares primarios malignos.",
+   "B": "Dentro de éstos el más frecuente es el carcinoma neuroendocrino de células grandes (79%), seguido del carcinoma pulmonar de células pequeñas (16%), mientras que los carcinoides típicos y atípicos suponen aproximadamente el 5% restante.",
+   "C": "Los tumores carcinoides típicos y atípicos comparten la misma morfología neuroendocrina, caracterizada por un patrón de crecimiento organoide.",
+   "D": "En el tratamiento del carcinoma microcítico de pulmon, con enfermedad avanzada, la inmunoterapia se ha incluido como terapia de primera línea junto con la Quimioterapia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Señale la respuesta correcta en relación a la infección por Clostridioides difficile:",
+  "opciones": {
+   "A": "El diagnóstico más coste-efectivo se realiza mediante PCR.",
+   "B": "En casos leves el metronidazol es una buena opción terapéutica.",
+   "C": "No se recomienda realizar control de la erradicación en heces al finalizar el tratamiento.",
+   "D": "Los probióticos se recomiendan para prevenir las recurrencias de la infección."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un hombre de 35 años, que trabaja en una fábrica de reciclaje de baterías, acude a consulta por astenia, dolor abdominal difuso, y episodios recurrentes de estreñimiento. En la exploración física, se observa una línea azulada en el borde de las encías y el paciente presenta debilidad en las extremidades. Los análisis de sangre revelan anemia normocítica con punteado basófilo en eritrocitos. ¿Cuál es el agente tóxico más probable?",
+  "opciones": {
+   "A": "Intoxicación por arsénico",
+   "B": "Intoxicación por mercurio",
+   "C": "Intoxicación por plomo.",
+   "D": "Intoxicación por Cadmio"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un hombre de 34 años es encontrado inconsciente en un baño público. Al ser trasladado a urgencias, se encuentra en apnea, con miosis bilateral y una frecuencia cardíaca de 45 lpm. Se sospecha una sobredosis de opiáceos y se administra naloxona intravenosa, lo que revierte los síntomas parcialmente, permitiendo la recuperación de la respiración espontánea. Sin embargo, el paciente permanece somnoliento y su frecuencia respiratoria sigue siendo baja. ¿Cuál sería el siguiente paso más adecuado en el manejo de este paciente?",
+  "opciones": {
+   "A": "Intubación endotraqueal y ventilación mecánica",
+   "B": "Administrar carbón activado",
+   "C": "Repetir la administración de naloxona",
+   "D": "Administrar flumazenil intravenoso"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de los siguientes tratamientos está indicado en la hemocromatosis?",
+  "opciones": {
+   "A": "Givosiran",
+   "B": "Trientina",
+   "C": "Vitamina C",
+   "D": "Eritrocitaféresis"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "El análisis de farmacogenética es necesario cuando se va a administrar:",
+  "opciones": {
+   "A": "Azatioprina",
+   "B": "Linezolid",
+   "C": "Fosfomicina",
+   "D": "Ciclofosfamida"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Qué hallazgo en la radiografía es más indicativo de osteoartritis?",
+  "opciones": {
+   "A": "Osteopenia",
+   "B": "Errores de alineación",
+   "C": "Osteofitos",
+   "D": "Lesiones líticas"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 111,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de las siguientes afirmaciones con respecto a la vacuna frente al virus de la gripe es CORRECTA?",
+  "opciones": {
+   "A": "La vacunación antigripal ha demostrado disminuir la mortalidad de los pacientes con gripe",
+   "B": "La vacunación frente al virus de la gripe ha demostrado disminuir el número de hospitalizaciones y visitas médicas, pero no la mortalidad",
+   "C": "No es posible administrar simultáneamente la vacuna de la gripe y la vacuna frente al virus respiratorio sinictial (VRS)",
+   "D": "En individuos vacunados mayores de 65 años, la administración de oseltamivir no mejora el pronóstico"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 112,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de los siguientes hallazgos ecocardiográficos es más característico de los pacientes con amiloidosis cardiaca?",
+  "opciones": {
+   "A": "Patrón de 'apical sparing' en la deformación longitudinal global (Strain)",
+   "B": "Dilatación de aurícula izquierda",
+   "C": "Calcificación valvular",
+   "D": "Hipertrofia asimétrica del ventrículo izquierdo"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 113,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 75 años al que acaba de diagnosticar un cáncer de pulmón y que en la analítica presenta un sodio de 124, ¿que NO le puede decir a su paciente a este respecto?",
+  "opciones": {
+   "A": "Que puede tener una hiponatremia por secreción inadecuada de ADH o por el péptido natriurético auricular.",
+   "B": "Que va a tardar en resolverse entre 1-4 semanas una vez iniciado el tratamiento con quimioterapia.",
+   "C": "Que es más que probable que tengan que usar fármacos como la demeclociclina o el tolvaptan para controlar la hiponatremia mientras hace su efecto la QT.",
+   "D": "Que no es necesario medir de entrada los niveles de péptido natriurético auricular."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 114,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un paciente sin alergias conocidas presenta dolor abdominal. En una endoscopia oral se observan dos úlceras duodenales de pequeño tamaño siendo positivo el test de la ureasa. Con estos datos el tratamiento de primera línea debería incluir un inhibidor de la bomba de protones y además una de las siguientes opciones:",
+  "opciones": {
+   "A": "Amoxicilina, bismuto y rifabutina 10 días",
+   "B": "Monoterapia con bismuto 8 semanas",
+   "C": "Claritromicina, bismuto y levofloxacino 10 días",
+   "D": "Amoxicilina, claritromicina y metronidazol 14 dias"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 115,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "¿Cuál de los siguientes patógenos produce lesiones nodulares en la piel?",
+  "opciones": {
+   "A": "Staphylococcus aureus.",
+   "B": "Bartonella bacilliformis.",
+   "C": "Strongyloides stercolaris.",
+   "D": "Bacillus anthracis."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 116,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varón de 63 años con historia de epigastralgia severa de larga evolución, presenta fibrilación auricular, cuál de estos anticoagulantes tiene mayor probabilidad de ser mal tolerado",
+  "opciones": {
+   "A": "Dabigatran",
+   "B": "Rivaroxaban",
+   "C": "Edoxaban",
+   "D": "Apixaban"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 117,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Una mujer de 35 años diagnosticada recientemente de colitis ulcerosa presenta fiebre, distensión abdominal dolorosa, diarrea de múltiples deposiciones y signos de deshidratación. En la analítica se aprecia intensa leucocitosis y anemia. Con estos datos ¿Qué prueba diagnóstica realizaría en primer lugar?",
+  "opciones": {
+   "A": "Colonoscopia",
+   "B": "Radiografía de abdomen",
+   "C": "ANCA PR3 urgentes",
+   "D": "Ecografía abdominal"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 118,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "La primera manifestación fenotípica en la hemocromatosis es la elevación en sangre de:",
+  "opciones": {
+   "A": "Transferrina",
+   "B": "Índice de saturación de la transferrina",
+   "C": "Hierro",
+   "D": "Ferritina"
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 119,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Mujer de 70 años que acude a revisión a consulta tras un ingreso por agudización de EPOC. Refiere que se siente más cansada y no puede hacer actividades habituales que previamente realizaba. Señale la respuesta correcta.",
+  "opciones": {
+   "A": "No es necesario actualizar la valoración integral si tiene una realizada en el año previo.",
+   "B": "En este contexto puede ser adecuado realizar un MNA SF",
+   "C": "Esta situación es irreversible, y lo más importante es informar a la paciente y su familiar de esta nueva situación.",
+   "D": "No es posible prescribir ejercicio multicomponente, contraindicado en la enfermedad de EPOC."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 120,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un paciente de 58 años con carcinoma de pulmón no microcítico avanzado está recibiendo inmunoterapia como parte de su tratamiento. ¿Cuál de los siguientes mecanismos de acción está relacionado con los inhibidores de puntos de control inmunitario, utilizados en este contexto?",
+  "opciones": {
+   "A": "Inhibición de la angiogénesis",
+   "B": "Inhibición de la tirosina quinasa",
+   "C": "Bloqueo de la interacción PD-1/PD-L1",
+   "D": "Inhibición directa de la proliferación de células tumorales"
+  },
+  "respuesta_correcta": "C"
+ }
+]

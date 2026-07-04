@@ -1,0 +1,1262 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Conforme al artículo 32.9 del Estatuto de Autonomía de Castilla – La Mancha en el marco de la legislación básica del Estado, es competencia de la Junta de Comunidades el desarrollo legislativo y la ejecución en las siguientes materias:",
+  "opciones": {
+   "A": "Obras Públicas.",
+   "B": "Agricultura y Ganadería.",
+   "C": "Caza y Pesca fluvial.",
+   "D": "Sanidad e higiene: promoción, prevención y restauración de la salud."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "El órgano permanente de coordinación, cooperación, comunicación e información entre los Servicios de Salud y la Administración del Estado, conforme al artículo 69.1 de la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, es:",
+  "opciones": {
+   "A": "El Consejo de Gobierno.",
+   "B": "El Consejo de Gerencia.",
+   "C": "El Comité Permanente del Sistema Nacional de Salud.",
+   "D": "El Consejo de Coordinación."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "La primera Red de Expertos y Profesionales que se creó en la Consejería de Sanidad y el SESCAM en febrero de 2018 fue:",
+  "opciones": {
+   "A": "La Red de Expertos de Urgencias y Emergencias.",
+   "B": "La Red de Imagen Médica.",
+   "C": "La Red de Seguridad del Paciente.",
+   "D": "La Red de Cuidados Paliativos."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Dentro de las funciones encomendadas a la Red de Expertos y Profesionales de Urgencias y Emergencias, conforme Resolución de la Dirección General de Asistencia Sanitaria de diciembre 2018, se incluye:",
+  "opciones": {
+   "A": "Disminuir la variabilidad clínica no deseada en procesos de alta complejidad, bajo y alta frecuencia, impulsando a nivel regional la elaboración de, sepsis, trauma grave y reperfusión miocárdica a través de implantación de herramientas de práctica clínica normalizadas y estandarizadas.",
+   "B": "Desarrollar los planes de contingencia relacionados con alteraciones de urgencias (incluidos simulacros y entrenamientos) urgencias relacionadas con el calor, con procesos respiratorios relacionados con el frío, con la gripe, alertas epidemiológicas, respuesta a accidentes de múltiples víctimas, soporte de eventos multitudinarios, etc.",
+   "C": "Proponer las directrices relativas a las funciones y tutorización de residentes.",
+   "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De las recomendaciones del ERC (European Resuscitation Council Guidelines) 2021 respecto a la ecografía cardiaca en la parada cardiorrespiratoria, es verdadero:",
+  "opciones": {
+   "A": "La ecografía tiene funciones como: seguimiento cardíaco o el monitoreo de arritmia cardíaca como, por ejemplo, el taponamiento cardíaco o el neumotórax.",
+   "B": "La ecografía puede confirmar indicaciones adicionadas o prolongaciones de las compresiones torácicas.",
+   "C": "La dilatación ventricular derecha aislada, durante la parada cardíaca, siempre es debido a una embolia pulmonar masiva.",
+   "D": "La ausencia de contractilidad miocárdica es un indicador para interrumpir la RCP."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente de 68 años es traído a urgencias por haber sufrido un traumatismo craneoencefálico (TCE) en una caída accidental. Entre los antecedentes destaca fibrilación auricular crónica en tratamiento con acenocumarol. A la exploración, su situación neurológica es sólo somnoliento, pero abre los ojos al llamarle, responde a las preguntas de forma correcta y obedece las órdenes pero no recuerda el episodio. Entre las siguientes afirmaciones sobre el manejo del paciente, señale la que le parece correcta.",
+  "opciones": {
+   "A": "La puntuación en la Escala de Coma de Glasgow es de 14.",
+   "B": "Aunque la Tomografía Computarizada (TC) fuera normal, es conveniente revertir la anticoagulación con vitamina K.",
+   "C": "La puntuación en la Escala de Coma de Glasgow es de 15.",
+   "D": "Es necesaria la determinación urgente de anticoagulación cuando el INR es elevado."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la lesión ligamentosa de tobillo de primer grado existe:",
+  "opciones": {
+   "A": "Inflamación del ligamento afectado con edema, dolor y escasa impotencia funcional.",
+   "B": "Desgarro parcial del ligamento.",
+   "C": "Desgarro total del ligamento.",
+   "D": "Inestabilidad articular."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración inicial de las quemaduras en urgencias es fundamental estimar la extensión de la superficie corporal afectada. Señale la respuesta correcta.",
+  "opciones": {
+   "A": "La escala de Lund-Browder es una de las más fiables y tiene en cuenta los cambios en la superficie corporal de los niños.",
+   "B": "La regla de Wallace o 'regla de los 9' solo se utiliza en niños porque en los adultos es mucho menos fiable.",
+   "C": "La regla de la 'palma de la mano' utiliza la palma de la mano para estimar un 3% de la superficie corporal.",
+   "D": "La regla de 2-3-2 % es la más utilizada en los niños para estimar la superficie quemada en extremidades."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente con sospecha de síndrome coronario agudo, se diagnosticará como Infarto agudo de miocardio (IAM) posterior ante:",
+  "opciones": {
+   "A": "Una infradesviación del segmento ST aislada en V4-V6, entonces se recomienda realizar un ECG con derivaciones posteriores (V7-V9) para confirmar el diagnóstico (confirmando una supradesviación del ST ≥ 0,5 mm).",
+   "B": "Una infradesviación del segmento ST aislada en V1-V3, entonces se recomienda realizar un ECG con derivaciones posteriores (V4-V6) para confirmar el diagnóstico (confirmando un ECG con derivaciones posteriores (V4-V6) para confirmar el diagnóstico (confirmando una supradesviación del ST ≥ 0,5 mm).",
+   "C": "Una infradesviación del segmento ST aislada en V1-V3, entonces se recomienda realizar un ECG con derivaciones posteriores (V4-V9) para confirmar el diagnóstico (confirmando una supradesviación del ST ≥ 0,5 mm).",
+   "D": "Una infradesviación del segmento ST aislada en V4-V9, entonces se recomienda realizar un ECG con derivaciones posteriores (V7-V9) para confirmar el diagnóstico (confirmando una supradesviación del ST ≥ 0,5 mm)."
+  },
+  "respuesta_correcta": "Anulada"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En los electrocardiogramas (ECG) de los pacientes portadores de marcapasos se buscan signos del sistema de estimulación, que se produzcan correctamente las funciones de sensado (detección del latido intrínseco del paciente) y de captura (el estímulo del marcapasos produce contracción ventricular). En el caso del siguiente ECG, podemos afirmar que:",
+  "opciones": {
+   "A": "El marcapasos sensa y captura correctamente.",
+   "B": "El marcapasos no sensa, pero captura correctamente.",
+   "C": "El marcapasos sensa correctamente, pero no captura.",
+   "D": "El marcapasos no sensa ni captura correctamente."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la Clasificación de la Insuficiencia cardiaca aguda propuesta por la Sociedad Europea de Cardiología, se dividen los perfiles hemodinámicos en cuatro, basados en la presencia o no de semiología de congestión y/o de hipoperfusión. Entre los siguientes, ¿en cuál de ellos se incluye el perfil cardiogénico?",
+  "opciones": {
+   "A": "Seco y caliente.",
+   "B": "Seco y frío.",
+   "C": "Húmedo y caliente.",
+   "D": "Húmedo y frío."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Los pacientes con encefalopatía hipertensiva pueden cursar con cualquiera de los siguientes, excepto:",
+  "opciones": {
+   "A": "Pueden tener convulsiones, pérdida de visión y coma.",
+   "B": "Pueden tener obnubilación con proteínas bajas y pleocitosis neutrofílica.",
+   "C": "Los déficits neurológicos pueden ser agudos o subagudos, caracterizados por cefalea, náuseas y vómitos.",
+   "D": "a y c son ciertas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Qué entidad de las abajo expuestas, se corresponde con insuficiencia respiratoria aguda con gradiente alveolo-arterial elevado y radiografía de tórax sin alteraciones significativas?",
+  "opciones": {
+   "A": "Neumonía.",
+   "B": "Neumotórax.",
+   "C": "Insuficiencia cardíaca izquierda.",
+   "D": "Tromboembolismo pulmonar."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Al llegar un paciente a urgencias por presentar disnea y dolor torácico de aproximadamente 2 horas de evolución, en el triaje se le asigna un nivel de prioridad II y se realizan las siguientes pruebas: analítica con marcadores de daño miocárdico, gasometría arterial y un electrocardiograma de 12 derivaciones con tira de ritmo (que se muestra a continuación). Con estos datos señala la impresión diagnóstica inicial más probable en este caso.",
+  "opciones": {
+   "A": "Síndrome coronario agudo sin elevación del segmento ST.",
+   "B": "Tromboembolismo pulmonar.",
+   "C": "Neumonía.",
+   "D": "Edema pulmonar cardiogénico."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles son los criterios de estabilidad clínica de Halm et al. para la terapia secuencial en el tratamiento de la neumonía adquirida en la comunidad (NAC)?",
+  "opciones": {
+   "A": "FR=24, T°=37,2°C, PA sistólica=90, SatO2=90%, buen nivel de consciencia y tolerancia oral.",
+   "B": "FR=24, T°=37,2°C, PA sistólica=90, satO2=90%, buen nivel de consciencia y tolerancia vía oral.",
+   "C": "FR=24, T°=37, 2°C, PA sistólica=90, satO2=90%, buen nivel de consciencia y tolerancia vía oral.",
+   "D": "FC=100, FR=20, T°=37, 8°, PA sistólica=100 , satO2=92%, buen nivel de consciencia y tolerancia vía oral."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el Servicio de Salud de Castilla – La Mancha, bajo la superior dirección de la Dirección-Gerencia ejercen sus funciones los siguientes órganos:",
+  "opciones": {
+   "A": "La Vicegerencia, la Secretaría General, la Dirección General de Asistencia Sanitaria y la Dirección General de Recursos Humanos.",
+   "B": "La Vicegerencia, la Secretaría General, la Dirección General de Asistencia Sanitaria y la Dirección General de Recursos Humanos.",
+   "C": "La Dirección General de Gestión Económica e Infraestructuras, la Secretaría General, la Dirección General de Asistencia Sanitaria y la Dirección General de Recursos Humanos.",
+   "D": "La Dirección General de Gestión Económica e Infraestructuras, la Secretaría General, la Dirección General de Asistencia Sanitaria y la Dirección General de Recursos Humanos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de los siguientes parámetros NO se incluye en la escala de Wells para trombosis venosa profunda?",
+  "opciones": {
+   "A": "Obesidad.",
+   "B": "Cáncer activo.",
+   "C": "Dolor en la región superior de la extremidad.",
+   "D": "Ninguna es incorrecta de más de 10 días o cirugía mayor en el último mes."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el análisis del líquido pleural en la diferencia entre trasudado y exudado. Para ello se utilizan los criterios de Light. ¿Cuándo consideramos que el líquido pleural es un exudado?",
+  "opciones": {
+   "A": "Cociente LDH (Líquido pleural) y suero mayor de 0,5.",
+   "B": "LDH del LP superior a 2/3 del límite superior de la normalidad de la LDH sérica.",
+   "C": "Cociente proteínas LP y suero menor superior a 0,5.",
+   "D": "Ninguno es criterio de Light."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Dentro del material de urgencias, todos son los totales, EXCEPTO:",
+  "opciones": {
+   "A": "La causa más frecuente son las urgencias y dentro de las urgencias totales.",
+   "B": "Constituyen el 20% de las urgencias totales.",
+   "C": "La mayor parte de las urgencias psiquiátricas, sin orientación diagnóstica, debemos estar relacionadas con medicamentos, haloperidol bajo una evaluación que nos resulte.",
+   "D": "La probabilidad de que una evaluación bajo una evaluación en una evaluación que resulte de una unidad de síndromes o en una unidad de observación de urgencias."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Atendemos a un paciente de 76 años, con antecedentes de mareos no filiados, por haber sufrido tres días antes un síncope mientras esperaba en la cola de un supermercado, hasta hoy se había negado a venir a urgencias. Los signos vitales y la exploración física son normales. La analítica, incluyendo marcadores cardíacos, tampoco está alterada, y se obtiene el electrocardiograma que se muestra. Entre las siguientes posibilidades de actuación, ¿cuál le parece más acertada?",
+  "opciones": {
+   "A": "Consulta con cardiología para valorar su ingreso, estudio electrofisiológico y probable marcapasos.",
+   "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa de cardiología.",
+   "C": "Aunque la exploración neurológica sea normal, se debe consultar con neurología por posible crisis epiléptica.",
+   "D": "Probablemente se trate de un síncope vasovagal ortostático por haber ocurrido con el paciente en bipedestación."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las Meningitis Agudas Bacterianas, el tratamiento empírico de elección para un adulto entre 18-50 años, sin factores de riesgo, será (señale la correcta):",
+  "opciones": {
+   "A": "Cefotaxima 2g/8h.",
+   "B": "Ampicilina 2g/4h.",
+   "C": "Ceftriaxona 2g/12h.",
+   "D": "Vancomicina 15mg/kg/8h."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la afirmación correcta:",
+  "opciones": {
+   "A": "En los pacientes con sondaje vesical permanente deberemos realizar urocultivo con cada cambio de sonda.",
+   "B": "En los pacientes con sondaje permanente, la sonda se debe cambiar cada mes en caso de ser de látex y cada dos meses si es de silicona.",
+   "C": "Debemos administrar profilaxis antibiótica con cada cambio de sonda.",
+   "D": "Debemos administrar profilaxis antibiótica con sondas fabricadas de diferente material."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Qué NO se considera generalmente una infección u afección oportunista común en pacientes con VIH / SIDA?",
+  "opciones": {
+   "A": "Neumonía por Pneumocystis.",
+   "B": "Toxoplasmosis cerebral.",
+   "C": "Criptococosis extrapulmonar.",
+   "D": "Infección por Norovirus gastrointestinal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Recientemente se ha publicado la escala de puntuación SMFB-Toledo (Modelo de 5 variables Predictivas de Bacteriemia de Toledo). ¿Cuál de estas variables no está incluida en dicha escala?",
+  "opciones": {
+   "A": "T > 38,5ºC.",
+   "B": "Leucocitosis > 12.000/mm3.",
+   "C": "Procalcitonina > 0,51 ng/ml.",
+   "D": "Proadrenomedulina > 1,5 nmol/L."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración del paciente con sospecha de sepsis se utilizan los criterios del Quick-Sepsis Organ Failure Assessment (qSOFA). Señale la respuesta correcta que los incluye:",
+  "opciones": {
+   "A": "Frecuencia respiratoria ≥ 30 respiraciones por minuto. Presión arterial sistólica ≤ 90 mmHg y alteración de la consciencia con una puntuación ≤ 14 en la escala de coma de Glasgow.",
+   "B": "Frecuencia respiratoria ≥ 20 respiraciones por minuto. Presión arterial sistólica ≤ 100 mmHg y alteración de la consciencia con una puntuación < 14 en la escala de coma de Glasgow.",
+   "C": "Frecuencia respiratoria ≥ 22 respiraciones por minuto. Presión arterial sistólica ≤ 100 mmHg y alteración de la consciencia con una puntuación < 15 en la escala de coma de Glasgow.",
+   "D": "Frecuencia respiratoria ≥ 20 respiraciones por minuto. Presión arterial sistólica ≤ 90 mmHg y alteración de la consciencia con una puntuación < 14 en la escala de coma de Glasgow."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De conformidad con el artículo 31.2 la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud en Castilla – La Mancha, la historia clínica se conservará como mínimo durante:",
+  "opciones": {
+   "A": "Un plazo de 5 años, contados desde la fecha del último proceso asistencial.",
+   "B": "Un plazo de 3 años, contados desde la fecha del último proceso asistencial.",
+   "C": "Un plazo de 10 años, contados desde la fecha del último proceso asistencial.",
+   "D": "Un plazo de 7 años, contados desde la fecha del alta del último proceso asistencial."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En caso de valorar un paciente, específique cuándo puede aparecer una punción lumbar de urgencia en TAC previo:",
+  "opciones": {
+   "A": "Cefalea en racimo.",
+   "B": "Cefalea asociada a papiledema.",
+   "C": "Cefalea que no mejora con analgesia.",
+   "D": "Cefalea en esfuerzo por enfermedad sistémica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración del riesgo de sepsis secundaria, es importante establecer de forma rápida el riesgo de cefalea secundaria, descartando la existencia de los conocidos criterios de alarma para las cefaleas con Plasma Fresco congelado. Todos los siguientes, menos uno, deberán considerarse criterios de alarma. Señale el que no lo es:",
+  "opciones": {
+   "A": "Cefalea que aparece en paciente mayor de 50 años.",
+   "B": "Cefalea de trueno (cefalea intensa con un acmé alcanzado durante el primer minuto).",
+   "C": "Cefaleas de tronco (cefalea intensa con un acmé alcanzado durante el primer minuto).",
+   "D": "Cefaleas de tipo episódico con aura típica sin cefalea."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente de 83 años consulta en el servicio de Urgencias por diarrea persistente con productos patológicos, acompañada de dolor abdominal y dolor abdominal tras haber sido hospitalizado por diarrea de cinco días. Ha recibido tratamiento con Cefuroxima 125 mg/8h 5 días IV durante 10 días y sospechou diarrea producida por Clostridium difficile, que se confirma con la presencia de su toxina en coprocultivo. Señale la correcta:",
+  "opciones": {
+   "A": "Tratamiento con vancomicina 125 mg/8h vo si es posible) Antibióticos, sueroterapia oral, dieta astringente y aislamiento de contacto (Probióticos, sueroterapia oral, dieta astringente si no es posible la vía oral.",
+   "B": "Tratamiento con Metronidazol 500 mg/8h durante 10 días.",
+   "C": "Tratamiento con Dioxicina al intravenosa en forma de enema o transplante fecal.",
+   "D": "Preparados coloniales de microbiota en forma de enema o transplante fecal."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el tratamiento del paciente con Antagonistas de la Vit. K (acenocumarol) que presenta un sangrado con riesgo vital (señale la falsa):",
+  "opciones": {
+   "A": "Debe ser tratado principalmente con vit. K por vía intravenosa.",
+   "B": "Los ventrílocuos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberán considerarse las indicaciones de la Plasma Fresco Congelado (PFC).",
+   "C": "La excisión quirúrgica de la hemorragia intraluminal se indicará ante la existencia de sangrados puntualmente.",
+   "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento específico además de las medidas higieno-dietéticas habituales."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De acuerdo con las pautas de síncope de la ESC (European Society of Cardiology) de 2018, ¿cuál de las siguientes afirmaciones es precisa sobre el manejo del síncope en el servicio de urgencias?",
+  "opciones": {
+   "A": "Los pacientes que no tienen características de alto riesgo ni de bajo riesgo asociadas con el síncope deben ser hospitalizados como medida de precaución.",
+   "B": "Las puntuaciones de estratificación del riesgo se pueden utilizar solas para realizar la estratificación del riesgo de síncope en el servicio de urgencias.",
+   "C": "El presíncope debe tratarse con la misma precisión que el síncope en el servicio de urgencias, ya que comparte el mismo pronóstico.",
+   "D": "Los pacientes con características de bajo riesgo aún deben recibir una evaluación inmediata en una unidad de síncope o en una unidad de observación de urgencias."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Atendemos a un paciente de 76 años, diagnosticado de cáncer microcítico de pulmón se realiza una analítica en urgencias que muestra un calcio plasmático de 14,2 mg/dl, (se confirma este resultado con una nueva muestra analítica y comprende al calcio con la concentración de albúmina). El paciente presenta mal estado general, debilidad muscular y alteración del comportamiento. Señale la incorrecta:",
+  "opciones": {
+   "A": "Prolongación del intervalo QT.",
+   "B": "Confusión y alteraciones del comportamiento.",
+   "C": "Debilidad muscular.",
+   "D": "Anorexia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Por regla general en una Hemorragia Digestiva Alta, será necesario la transfusión de sangre cuando la hemoglobina esté por debajo de:",
+  "opciones": {
+   "A": "8 gramos / dl.",
+   "B": "10 gramos / dl.",
+   "C": "11 gramos / dl.",
+   "D": "Ninguna de las anteriores."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la exploración abdominal de los pacientes con pancreatitis aguda (PA) en característica la desproporción entre la intensidad del dolor y los hallazgos. Aunque son excepcionales los siguientes hallazgos, los 'signos de Cullen y de Grey Turner' orientan a un mal pronóstico en la PA. Respectivamente, se trata de la aparición de:",
+  "opciones": {
+   "A": "Equimosis en el área periumbilical y en los flancos.",
+   "B": "Equimosis en los flancos y en el nivel lumbar.",
+   "C": "Equimosis en el área periumbilical y en el nivel lumbar.",
+   "D": "Equimosis en los flancos derecho e izquierdo."
+  },
+  "respuesta_correcta": "Anulada"
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente de 83 años consulta en el servicio de Urgencias por diarrea persistente con productos patológicos, acompañada de alto hospital por diarrea de cinco días. Ha recibido tratamiento con Cefuroxima 125 mg/8h 5 días. Se recibe tratamiento con vancomicina 125 mg/8h (si es posible) Antibióticos, sueroterapia oral, dieta astringente y aislamiento de contacto.",
+  "opciones": {
+   "A": "Ha mostrado más robusto que es la ECG (Escala de Coma de Glasgow) en la predicción de mortalidad a los 30 días en pacientes neuroquirúrgicos con consciencia gravemente dañada.",
+   "B": "En dicha escala se puntúan la respuesta motora, reflejo de tronco y respiración entre otros.",
+   "C": "En dicha escala se puntúan la respuesta motora, reflejo de tronco y respiración entre otros.",
+   "D": "Esta escala presenta buena puntuación en dicha escala de 10."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En caso del tratamiento de la enfermedad hemorroidal, señale la respuesta falsa:",
+  "opciones": {
+   "A": "En casos leves el principal tratamiento es el anestésico local con anestésico local lubricante con anestésico local.",
+   "B": "Los ventrílocuos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberán considerarse las indicaciones de tratamiento específico.",
+   "C": "La excisión quirúrgica de la hemorroide interna con un acmé alcanzado durante el primer minuto).",
+   "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento específico además de las medidas higieno-dietéticas habituales."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el período esperado de ingreso en el hospital urgencias en los siguientes circunstancias, EXCEPTO en:",
+  "opciones": {
+   "A": "Encefalopatía hepática.",
+   "B": "Depósito de sucralfato con actividad de protrombina inferior al 50%.",
+   "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+   "D": "Hepatitis aguda con actividad de protrombina superior al 50%."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de los siguientes no es un criterio de ingreso en un paciente que acude a urgencias por ascitis?",
+  "opciones": {
+   "A": "Ascitis bacteriana espontánea.",
+   "B": "Ascitis aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurológicas.",
+   "C": "Ascitis refractaria al tratamiento.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "La alcalosis metabólica con pH>7,45, como consecuencia del aumento de la concentración del bicarbonato plasmático y generalmente es asintomática. ¿Cuáles son todos los síntomas de la alcalosis metabólica excepto uno? Señale el que no es:",
+  "opciones": {
+   "A": "Astenia, mareo y parestesias.",
+   "B": "Debilidad muscular por hipopotasemia.",
+   "C": "Tetania.",
+   "D": "Debilidad muscular por hipopotasemia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Con relación a la Hematuria, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "En aquellos pacientes en que no pudiera realizarse sondaje vesical permanente deberá realizarse sondaje vesical para para evitar la formación de nueva cólgulo.",
+   "B": "La presencia de coágulos en la vejiga obligan a un lavado vesical manual para para su extracción y a continuación lavado vesical continuo.",
+   "C": "La presencia de coágulos al inicio de la micción orienta a lesión vesical.",
+   "D": "La hematuria al inicio de la micción orienta a lesión uretral."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En una torsión testicular, ¿Cuál es la viabilidad del teste desde que se desencadena el cuadro?",
+  "opciones": {
+   "A": "Máximo 12 horas.",
+   "B": "Máximo 3 horas.",
+   "C": "Máximo 2 horas.",
+   "D": "Máximo 6 horas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente de 72 años de diagnosticado de cáncer microcítico de pulmón se realiza una analítica en urgencias que muestra un calcio plasmático de 14,2 mg/dl (se confirma este resultado con una nueva muestra analítica y se corrige al calcio con la concentración de albúmina). El paciente presenta mal estado general, debilidad muscular y alteración del comportamiento. La analítica, incluyendo marcadores cardíacos, tampoco está alterada, y se obtiene el electrocardiograma que se muestra. Entre las siguientes posibilidades de actuación, ¿cuál le parece más acertada?",
+  "opciones": {
+   "A": "Consulta con cardiología para valorar su ingreso, estudio electrofisiológico y probable marcapasos.",
+   "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa de cardiología.",
+   "C": "Aunque la exploración neurológica sea normal, se debe consultar con neurología por posible crisis epiléptica.",
+   "D": "Probablemente se trate de un síncope vasovagal ortostático por haber ocurrido con el paciente en bipedestación."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente tratado con Antagonistas de la Vit. K (acenocumarol) que presenta un sangrado con riesgo vital (señale la falsa):",
+  "opciones": {
+   "A": "Debe ser tratado principalmente con vit. K por vía intravenosa.",
+   "B": "Los ventrílocuos, cuando inhiben los mecanismos de respuesta inflamatoria y siempre uno, deberán considerarse las indicaciones de Plasma Fresco Congelado (PFC).",
+   "C": "La excisión quirúrgica de la hemorragia intraluminal se indicará ante la existencia de sangrados.",
+   "D": "Todas las hemoroides, incluso las antitrombóticas, precisan de un tratamiento específico además de las medidas higieno-dietéticas habituales."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Entre las contraindicaciones de la transfusión de concentrado de plaquetas (trombopénicos con riesgo trombótico), no se encuentra:",
+  "opciones": {
+   "A": "Politraumatizado con fracturas de huesos largos.",
+   "B": "Trombopénico con riesgo trombótico.",
+   "C": "Púrpura trombótica trombocitopénica (PTT).",
+   "D": "Trombopénico inducida por heparina."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente con neutropenia en urgencias se quiere descartar la existencia de una posible infección bacteriana. ¿Qué biomarcador de respuesta inflamatoria e infección (aunque no se conozca el foco) orientará con mayor probabilidad a la existencia de bacteriemia? Señale la correcta:",
+  "opciones": {
+   "A": "Procalcitonina > 4 ng/ml.",
+   "B": "Proteína C reactiva > 7 días.",
+   "C": "Hepatitis aguda con actividad de protrombina inferior al 50%.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de los siguientes no se considera vértigo periférico?",
+  "opciones": {
+   "A": "Esclerosis Múltiple.",
+   "B": "Enfermedad de Ménière.",
+   "C": "Vértigo posicional paroxístico benigno.",
+   "D": "Neuritis vestibular."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "De las siguientes, cuál NO es una indicación de endoscopia urgente:",
+  "opciones": {
+   "A": "Esclerosis Múltiple.",
+   "B": "Hematemesis o melenas recientes.",
+   "C": "Vértigo posicional paroxístico benigno.",
+   "D": "Todas las anteriores son indicación de ingreso."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles son los indicadores de ingreso en el servicio de urgencias hospitalario? Señale la respuesta correcta:",
+  "opciones": {
+   "A": "En aquellos pacientes en los que se haya descartado su estabilización estuviese prevista en su domicilio.",
+   "B": "Como el resultado de los marcadores cardíacos es normal, puede darse de alta recomendando su cita en consulta externa.",
+   "C": "Aunque la exploración sea normal, se debe ingresar con neurología por posible crisis epiléptica.",
+   "D": "Todas las anteriores son indicación de ingreso."
+  },
+  "respuesta_correcta": "Anulada"
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles son los indicadores de ingreso del síncope en urgencias hospitalario? Señale la respuesta correcta:",
+  "opciones": {
+   "A": "En aquellos pacientes con síncope de etiología no cardiaca de etiología espontánea.",
+   "B": "Disnea aguda con ascitis de otras complicaciones, como insuficiencia renal, alteraciones neurológicas.",
+   "C": "Ascitis refractaria al tratamiento.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "El síndrome confusional agudo o delirio es una disfunción mental a menudo reversible que se manifiesta como una alteración del nivel de consciencia con una menor capacidad para enfocar, sostener o desviar la atención, así como otros trastornos cognitivos y neuropsiquiátricos. Puede ocurrir a cualquier edad, pero es mucho más frecuente en pacientes que son ancianos y tienen un estado mental previo. Su manejo en urgencias se recomienda:",
+  "opciones": {
+   "A": "El desarrollo del anciano es independiente de las características físicas de la sala de urgencias.",
+   "B": "Las restricciones físicas son preferibles a la terapia física, ocupacional o farmacológica.",
+   "C": "Para mejorar las gafas, dentaduras o audífonos para que el paciente escuche o su pérdida.",
+   "D": "Las restricciones físicas son preferibles a la terapia física, ocupacional o farmacológica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la situación esperada de resolución en los siguientes circunstancias, EXCEPTO en:",
+  "opciones": {
+   "A": "Moxifloxacino 400 mg cada 12 horas por 7 días.",
+   "B": "Ciprofloxacino 400 mg cada 12 horas por 7 días más Azitromicina 500 mg al día más Azitromicina 500 mg al día por 5 días.",
+   "C": "Amoxicilina 1 g cada 8 horas por 7 días.",
+   "D": "Amoxicilina-clavulánico 875/125mg/8h por 7 días."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En una intoxicación aguda, el uso de carbón activado se debe emplear EXCEPTO en:",
+  "opciones": {
+   "A": "Diverticulitis aguda.",
+   "B": "Apendicitis aguda.",
+   "C": "Pancreatitis aguda.",
+   "D": "Divertículo de Meckel."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las intoxicaciones agudas, el uso de carbón activado se debe emplear EXCEPTO en:",
+  "opciones": {
+   "A": "Ascitis bacteriana espontánea.",
+   "B": "Intoxicación aguda por benzodiacepinas.",
+   "C": "Ascitis refractaria al tratamiento.",
+   "D": "Peritonitis bacteriana secundaria."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál es el fármaco más usado en urgencias para el tratamiento del dolor agudo?",
+  "opciones": {
+   "A": "Fentanilo IV: 100mg igual a 10mg de morfina.",
+   "B": "Morfina: 0,5 mg/kg/h IV.",
+   "C": "Meperidina IV: 0,5-1mg/kg/h.",
+   "D": "Ninguna de las opciones correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de estas afirmaciones es una urgencia oncológica?",
+  "opciones": {
+   "A": "Síndrome de lisis tumoral porque suele considerarse como un síndrome de respuesta inflamatoria secundaria.",
+   "B": "Metástasis cerebrales, las cuales empeoran el pronóstico.",
+   "C": "Crisis convulsiva.",
+   "D": "Ninguna de las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Según el estudio EVADUR (2010) que analizó la incidencia de eventos adversos en los pacientes de los Servicios de Urgencias hospitalarios españoles como consecuencia de la asistencia prestada y conocer sus posibles causas: El 12 % de los pacientes estuvieron afectados por un incidente de seguridad clínica, frecuentemente evitable. La causa más frecuentemente detectada fue:",
+  "opciones": {
+   "A": "Error en el diagnóstico.",
+   "B": "Error en el diagnóstico médico.",
+   "C": "Atención inadecuada al paciente.",
+   "D": "Atención inadecuada al paciente médico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Respecto a la Ventilación Mecánica no Invasiva (todo una es cierta):",
+  "opciones": {
+   "A": "Es recomendada en situaciones de respiración agónica.",
+   "B": "Es muy eficaz en caso de agitación del paciente.",
+   "C": "Es muy eficaz en caso de agitación del paciente.",
+   "D": "Es muy eficaz en caso de obstrucción debido al sueño."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de los siguientes no es un protocolo de ecografía en el punto de cuidado?:",
+  "opciones": {
+   "A": "ECOFAST.",
+   "B": "BLUE.",
+   "C": "RUSH.",
+   "D": "FEEL."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Ante una agresión sexual, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El médico forense debe estar presente en la exploración física del caso (y será responsable de la toma de muestras durante la exploración).",
+   "B": "El médico de urgencias tiene la prueba oportuna y tiene la responsabilidad de la toma de muestras durante la exploración.",
+   "C": "La realización de esta exploración es obligatoria independientemente de que la mujer quiera o no prestar declaración.",
+   "D": "No se debe realizar la exploración física a las víctimas de agresión sexual."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuál de estas enfermedades es de declaración obligatoria urgente?",
+  "opciones": {
+   "A": "Fiebre (Rábica).",
+   "B": "Rabia.",
+   "C": "Hepatitis D.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuáles de las siguientes bacterias se asocian más comúnmente con las mordeduras de perro?",
+  "opciones": {
+   "A": "Estreptococo.",
+   "B": "Pasteurella.",
+   "C": "Staphylococcus.",
+   "D": "Fusobacterium."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la atención urgente del paciente anciano, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "Un dolor abdominal puede confundirse con el de muchas enfermedades como digestivas o osteoarticulares.",
+   "B": "La localización del dolor abdominal es menor, de localización poco precisa y los signos de irritación peritoneal son escasos.",
+   "C": "La palpación del abdomen puede ocultar signos de peritonitis.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "La corriente alterna suele ser más peligrosa que la continua.",
+   "B": "Toda persona electrocutada es potencialmente peligrosa (rescatador).",
+   "C": "La presencia de arritmiasindica que el paciente inconsciente electrocutado no representa un alto riesgo de muerte.",
+   "D": "La corriente de alta tensión puede dar lugar a una lesión que puede ser secundaria a la lesión autónoma."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Conforme al apartado 3.2 de la Resolución de 26/10/2010, para la aplicación del artículo 13.5 de la Ley 10/2010, de Protección Jurídica del Menor a los profesionales pertenecientes al Servicio de Salud de Castilla-La Mancha que sean sospechosos de nuevo acceso a plazas de las mismas características, el nombramiento de nuevo acceso a plazas exigirá:",
+  "opciones": {
+   "A": "Anteriormente a su nombramiento certificación negativa del Registro Central de Delincuentes Sexuales.",
+   "B": "Posteriormente a su nombramiento autorización al Sescam para solicitar la certificación del Registro Central de Delincuentes Sexuales.",
+   "C": "Previamente al nombramiento certificación negativa del Registro Central de Delincuentes Sexuales y autorización al Sescam para solicitar dicho certificado.",
+   "D": "No se exigirá certificación negativa del Registro Central de Delincuentes Sexuales."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las Directrices de la Organización Mundial de la Salud para la bradicardia observada en situación de agitación, señale a qué clase pertenece la administración de Amiofilina IV lenta:",
+  "opciones": {
+   "A": "Guía estándar para diagnóstico de la bradicardia observada.",
+   "B": "La determinación de Dímero-D posee un elevado valor predictivo positivo en el diagnóstico de la trombosis venosa profunda.",
+   "C": "Los suplementos venosos superficiales deben tratarse como trombosis venosas profundas.",
+   "D": "El tratamiento inicial con heparina de bajo peso molecular anticoagulación durante 1 semana, iniciar tratamiento con Acenocumarol."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un varón de 63 años sufre un traumatismo torácico y abdominal por accidente con salida de la vía en su vehículo, sin cinturón de seguridad y acude al servicio de urgencias hospitalario por su propio medio con signos de shock hemorrágico (Forrest 8a-b), el único IBP que ha demostrado ser eficaz en prevención secundaria de la recidiva hemorrágica es omeprazol. En la exploración se aprecia una perforación con tomografía computarizada normal. Su compañero realiza una exploración ecográfica y le informa que tiene un patrón sospechoso de mínimos derrames pleurales:",
+  "opciones": {
+   "A": "Los signos vitales son: FC-118 lpm; FR 32 lpm; Sat O2 98 %.",
+   "B": "Todo derrame pleural masivo tiene indicación de tubo de drenaje.",
+   "C": "El patrón en la pleura tiene igual sensibilidad que la Rx Tórax en la identificación de mínimos derrames pleurales.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Las lesiones medulares adquieren un alcance seccional, aunque existen síndromes topográficos incompletos. ¿Cuál de los siguientes enunciados es correcto con respecto a la mano en las lesiones medulares?",
+  "opciones": {
+   "A": "Síndrome cordonal anterior asociado a insultos hipóxico-isquémicos de la arteria vertebral anterior por contusión.",
+   "B": "Síndrome cordonal anterior, es el más infrecuente. Cursa con dolor y alteración sensitiva contralateral anterior.",
+   "C": "Síndrome cordonal posterior, es el más infrecuente. Cursa con dolor y alteración sensitiva quemante-urente en el nivel dañado.",
+   "D": "Síndrome de hemisección medular o de Brown-Séquard: conlleva afectación sensitiva cordonal posterior y motora ipsilateral."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Ante una fiebre supracondílea de codo, se debe realizar una exploración neurovascular, antes y después de la inmovilización. La pauta adecuada antimicrobiana a administrar de manera empírica y sin factores de resistencia, ¿qué pauta se recomienda?",
+  "opciones": {
+   "A": "Pérdida de sensibilidad en el 5º dedo y en la mitad del 4º, por lesión del nervio radial.",
+   "B": "Pérdida de sensibilidad en la cara dorsal de 1º, 2º y 3º dedos y la mitad del 4º, por lesión del nervio mediano.",
+   "C": "Pérdida de sensibilidad en los dedos anteriores pueden ser debido a lesión del nervio cubital.",
+   "D": "Todas las anteriores pueden ser consideradas como consecuencia de este tipo de patología fracturaria."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración del electrocardiograma de un paciente con dolor torácico, la presencia de bloqueo completo de rama izquierda dificulta la identificación de alteraciones de la repolarización de causa isquémica porque se han desarrollado varios algoritmos de criterios, el más utilizado es el de Sgarbossa. Entre los siguientes, señale el que parece pertenecer a otro criterio:",
+  "opciones": {
+   "A": "Supradesnivelación concordante del segmento ST de ≥ 1 mm.",
+   "B": "Infradesnivelación concordante en V1-V2-V3 de ≥ 1 mm.",
+   "C": "Supradesnivelación discordante de ≥ 5 mm.",
+   "D": "Todos los anteriores son criterios de Sgarbossa."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Señale la respuesta incorrecta en el tratamiento médico de la hemorragia a ritmo sinusal de la fibrilación auricular:",
+  "opciones": {
+   "A": "El patrón en eco puede observarse un tejido pleural masivo.",
+   "B": "Si hay una FC de cualquier duración inferior o 48 horas en ausencia de valvulopatía.",
+   "C": "Patrón en FC de cualquier duración inferior o 48 horas en ausencia de valvulopatía.",
+   "D": "En las últimas 3 semanas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con el manejo del Edema Agudo de Pulmón (EAP), marque la opción incorrecta:",
+  "opciones": {
+   "A": "La ventilación mecánica no invasiva (VNI) en pacientes con insuficiencia cardiaca de predominio diastólica.",
+   "B": "No se usan con precaución en pacientes que pueden tener compromiso del volumen intravascular.",
+   "C": "La morfina puede administrarse en el EAP aunque presenta un mayor riesgo de efectos secundarios.",
+   "D": "El levosimendán es un vasodilatador que presenta un efecto diurético."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "La preeclampsia e HTA en el embarazo, ¿Qué tratamiento es el más recomendado?",
+  "opciones": {
+   "A": "Hidralazina.",
+   "B": "Inhibidores del eje renina-angiotensina-aldosterona.",
+   "C": "Labetalol.",
+   "D": "Nifedipino."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración de la insuficiencia respiratoria en urgencias podemos calcular el gradiente alvéolo-arterial de oxígeno, el P(A-a)O2. Esta variable nos permite diferenciar como patología pulmonar o extrapulmonar la causa, y existen enfermedades o enfermedades que aumentan determinados parámetros que determinan la presencia de insuficiencia respiratoria, el P(A-a)O2:",
+  "opciones": {
+   "A": "Mayor de 25 mmHg.",
+   "B": "Entre 35-47 mmHg.",
+   "C": "Entre 20-305 mmHg (dependiendo de la edad).",
+   "D": "Mayor de 25 mmHg."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Paciente de 35 años con antecedentes de HTA y exfumador que acude a urgencias con FC de 110085 rpm, con una PaO2 de 25 rpm, FR de 25 rpm. Atendiendo a los criterios de ingreso en UCI en las neumonías adquiridas en la comunidad (NAC), ¿cuál sería la actitud correcta?",
+  "opciones": {
+   "A": "Ingreso en UCI por presentar más de 3 criterios menores.",
+   "B": "Ingreso en observación por ausencia de criterios mayores y solo presentar criterios menores.",
+   "C": "Ingreso en UCI por presentar más de 3 criterios menores.",
+   "D": "Ingreso en UCI por presentar más de 3 criterios menores."
+  },
+  "respuesta_correcta": "Anulada"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Con respecto al choque séptico en el servicio de urgencias, señale cual es la secuencia de tiempo más adecuada:",
+  "opciones": {
+   "A": "Guía estándar para diagnóstico de la tromboembolia venosa, señale cual de las siguientes afirmaciones es verdadera.",
+   "B": "La determinación de Dímero-D posee un elevado valor predictivo positivo en el diagnóstico de la tromboembolia venosa profunda.",
+   "C": "Los trombos venosos superficiales deben tratarse como trombosis venosas profundas.",
+   "D": "El tratamiento inicial con heparina de bajo peso molecular anticoagulación durante 1 semana, iniciar tratamiento con Acenocumarol."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Respecto al derrame pleural, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Son características de un derrame pleural: pH 7,30 glucosa < 60 en el líquido pleural.",
+   "B": "La toracocentesis muestra un líquido pleural ≥ 50% de la recidiva hemorrágica.",
+   "C": "El patrón en columna de líquido tiene igual sensibilidad que la Rx Tórax en la identificación de mínimos derrames pleurales.",
+   "D": "Todo derrame pleural masivo tiene indicación de tubo de drenaje."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el síndrome febril señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Si hay una orientación diagnóstica y no hay datos de gravedad, valorar realizar hemograma, bioquímica con glucosa, creatinina, urea, sodio, potasio, PCR con procalcitonina, sedimento de orina o Rx Tórax.",
+   "B": "Sin orientación diagnóstica, glucosa, creatinina, urea, sodio, potasio, PCR con procalcitonina, sedimento de orina o Rx Tórax.",
+   "C": "Intermitentes arreactivas. Lesión en vía parasináptica bilateral, encefalopatía hipóxico-isquémica, bulbo, trauma, fármacos.",
+   "D": "La realización de pruebas analíticas es exclusivo en síndrome febril."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Se indica una punción lumbar a un paciente de 20 años con neutropenia en urgencias. El liquido cefalorraquídeo muestra los siguientes hallazgos: Proteínas 110 mg/dl; Glucosa 10085 mg/dl; predominio de polimorfonucleares. ¿Cuál es la actitud correcta y qué antibiótico se recomienda administrar?",
+  "opciones": {
+   "A": "Cefriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Levofloxacino 500 mg cada 12 horas.",
+   "B": "Ceftriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Ampicilina 2 g cada 4 horas.",
+   "C": "Vancomicina 1 g cada 8 horas.",
+   "D": "Cefepima 2 g cada 8 horas más Levofloxacino 500 mg cada 12 horas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En un paciente con shock séptico de un tracto urinario con factores de riesgo para bacterias resistentes, la pauta antibiótica a administrar de manera empírica sin factores de resistencia sería:",
+  "opciones": {
+   "A": "Ceftriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Levofloxacino 500 mg cada 12 horas.",
+   "B": "Ceftriaxona 2 g cada 8 horas más Amikacina 5 mg/kg/8h más Ampicilina 2 g cada 4 horas.",
+   "C": "Vancomicina 1 g cada 8 horas más Levofloxacino 500 mg/kg cada 12 horas.",
+   "D": "Cefepima 2 g cada 8 horas más Levofloxacino 500 mg cada 12 horas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Aviso actualmente existe controversia sobre los criterios más indicados para definir y diagnosticar sepsis. ¿Qué escala se utiliza el contenido de Síndrome de respuesta inflamatoria sistémica (SRIS)?",
+  "opciones": {
+   "A": "Fiebre con temperatura ≥ 37,5 ºC (Fiebre > 37 º).",
+   "B": "Frecuencia cardiaca (FC) > 90 lpm (latidos por minuto).",
+   "C": "Frecuencia respiratoria (FR) > 20 rpm (respiraciones por minuto) o PaCO2 < 30 mmHg.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración de un paciente con cefalea, señale entre las siguientes la que parece una cefalea secundaria:",
+  "opciones": {
+   "A": "Sospecha de hemorragia subaracnoidea con tomografía computarizada normal.",
+   "B": "Ingreso en observación por ausencia de criterios mayores y solo presentar criterios menores.",
+   "C": "Ingreso en UCI si presencia de 1 criterio mayor.",
+   "D": "Ingreso en UCI por presentar más de 3 criterios menores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Respecto a los patrones pupilares de la coma, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Miosis unilateral reactiva - Lesión en vía ampliada ipsilateral (diencéfalo, mesencéfalo, bulbo).",
+   "B": "Miosis bilateral reactiva - Lesión en vía parasináptica bilateral, encefalopatía hipóxico-isquémica.",
+   "C": "Intermedias arreactivas. Lesión en vía parasináptica bilateral (diencéfalo, mesencéfalo), ganglios basales, arteria carótida interna.",
+   "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la valoración del paciente en coma en urgencias, además de fijarnos en el patrón pupilar, debemos conocer si el paciente está hipertermo y es responsable de la causa del coma. El compañero de turno nos comunica por teléfono que el endoscopista urgencias ha realizado una endoscopia digestiva alta que ha hecho la técnica de la válvula de la bomba de protones (IBP). En la descripción del informe de la EDA esperaríamos que el endoscopista describiera la vía lasix:",
+  "opciones": {
+   "A": "Sangrado a chorro ('en jet').",
+   "B": "Vaso visible ('en jet').",
+   "C": "Un coágulo adherido.",
+   "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Una de las respuestas no constituye uno de los tres pilares del Plan de Humanización de Castilla La Mancha:",
+  "opciones": {
+   "A": "Ingreso en UCI por presentar más de 3 criterios menores.",
+   "B": "Las Redes de Expertos y Profesionales.",
+   "C": "El Plan de Salud Pública Regional.",
+   "D": "La Escuela de Salud y Cuidados."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el manejo de los accidentes cerebrovasculares (TSVC) en relación con la vacuna frente a SARS-COV-2 vectorizada con adenovirus:",
+  "opciones": {
+   "A": "En ausencia de sangrado activo clínicamente significativo, tratar anticoagulación con Argatroban iv.",
+   "B": "En ausencia de sangrado activo clínicamente significativo, se debe valorar la realización de una resonancia magnética cerebral para tratamiento anticoagulante con Argatroban iv.",
+   "C": "Esta excepción forma como criterio de presentación durante el curso de la enfermedad, la presencia en contraste sería negativa.",
+   "D": "Para poder hacer un diagnóstico de TSVC o descartarlo, la TC e incluso la RM cerebral en contraste sería negativa."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la atención a un paciente con celulitis, señale entre las siguientes la que parece correcta:",
+  "opciones": {
+   "A": "La vancomicina inicial de bolo de 15 mg/kg (omeprazol, pantoprazol), según del tipo de perfusión a 80 mg/h (omeprazol), el único IBP que ha demostrado ser eficaz en prevención secundaria de la recidiva hemorrágica es omeprazol.",
+   "B": "El patrón en columna de la perfusión continua inferior a 48 horas en ausencia de valvulopatía.",
+   "C": "El patrón en FC de cualquier duración inferior o 48 horas en ausencia de valvulopatía.",
+   "D": "La administración de inhibidores de la bomba de protones (IBP) previo al tratamiento endoscópico no modifica ni el número de estigmas de alto riesgo, ni el número de intervenciones endoscópicas, aunque sí reduce la necesidad de la recidiva hemorrágica."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Se realiza una endoscopia urgente a un paciente de 70 años que ha tenido una hemorragia digestiva alta que ha hecho la técnica de la válvula (IBP). El compañero del servicio de digestivo nos comunica por teléfono que el endoscopista urgente ha confirmado que el paciente tiene una úlcera péptica. En la descripción del informe de la EDA esperaríamos que el endoscopista describiera la vía lasix en la úlcera (Forrest 1a):",
+  "opciones": {
+   "A": "Sangrado a chorro ('en jet').",
+   "B": "Vaso visible.",
+   "C": "Un coágulo adherido.",
+   "D": "Manchas de hematina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En las pruebas de laboratorio de un paciente con sospecha de pancreatitis aguda (PA): a) El hemograma, la bilirrubina y la creatinina son las únicas analíticas necesarias, ya que nos orientan acerca de la gravedad del cuadro. b) Debido a la mayor producción de insulina y la disminución de la liberación de glucagón, glucocorticoides y catecolaminas, no suele haber hipoglucemia que justifique la realización del test de sobrecarga oral de glucosa. c) La lipasa sérica tiene mayor sensibilidad y especificidad que la amilasa en el diagnóstico de PA. d) En relación con las enzimas hepáticas, la elevación de la GPT (ALT), el cociente GPT/GOT>1, y ausencia de los niveles de fosfatasa alcalina orientarían hacia la etiología alcohólica de la pancreatitis.",
+  "opciones": {
+   "A": "El hemograma, la bilirrubina y la creatinina son las únicas analíticas necesarias, ya que nos orientan acerca de la gravedad del cuadro.",
+   "B": "Debido a la mayor producción de insulina y la disminución de la liberación de glucagón, glucocorticoides y catecolaminas, no suele haber hipoglucemia que justifique la realización del test de sobrecarga oral de glucosa.",
+   "C": "La lipasa sérica tiene mayor sensibilidad y especificidad que la amilasa en el diagnóstico de PA.",
+   "D": "En relación con las enzimas hepáticas, la elevación de la GPT (ALT), el cociente GPT/GOT>1, y ausencia de los niveles de fosfatasa alcalina orientarían hacia la etiología alcohólica de la pancreatitis."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Paciente dado de alta por neumotórax espontáneo primario, al que acuden por disnea y fiebre de 38,5°C. En el laboratorio no confirman que se detectan enterobacterias no sensibles a los antibióticos de primera línea, pero sí indica que el nivel de la GPT está elevado. Señale la respuesta correcta: a) Probióticos de Saccharomyces boulardii 1 sobre / día. b) Amoxicilina-clavulánico (TMX-SMX) (160/800mg) c/12h durante 3-5 días. c) Vancomicina 125 mg v/ó v.o. durante 10 días. d) Fidaxomicina 200 mg c/12 h v.o. durante 10 días.",
+  "opciones": {
+   "A": "Probióticos de Saccharomyces boulardii 1 sobre / día.",
+   "B": "Amoxicilina-clavulánico (TMX-SMX) (160/800mg) c/12h durante 3-5 días.",
+   "C": "Vancomicina 125 mg v/ó v.o. durante 10 días.",
+   "D": "Fidaxomicina 200 mg c/12 h v.o. durante 10 días."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Entre los criterios para realizar profilaxis antibiótica con predominio perfil hepático, ¿cuál de las siguientes afirmaciones tiene predominio con perfil hepático? a) Fármacos. b) Síndrome de Crigher-Najar. c) Hiperbilirrubinemia. d) Norfloxacino 400mg c/12h durante 7 días.",
+  "opciones": {
+   "A": "Fármacos.",
+   "B": "Síndrome de Crigher-Najar.",
+   "C": "Hiperbilirrubinemia.",
+   "D": "Norfloxacino 400mg c/12h durante 7 días."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Cuándo se debe realizar profilaxis antibiótica para la peritonitis bacteriana espontánea (PBE)? a) Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, ya que presentan mayor riesgo de infección. b) Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, y/o función renal alterada. c) En algunos pacientes con ascitis puede ser útil la administración de albúmina nebulizada, a fin de que se presente mayor riesgo de ser la vía de administración de adrenalina nebulizada. d) a y b son correctas.",
+  "opciones": {
+   "A": "Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, ya que presentan mayor riesgo de infección.",
+   "B": "Pacientes que presentan un líquido ascítico con unas proteínas <1,5 g/dL, y/o función renal alterada.",
+   "C": "En algunos pacientes con ascitis puede ser útil la administración de albúmina nebulizada, a fin de que se presente mayor riesgo de ser la vía de administración de adrenalina nebulizada.",
+   "D": "a y b son correctas."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con el diagnóstico etiológico de la acidosis metabólica. Señale la respuesta correcta: a) El anión gap (AG) elevado en las situaciones en que el anión gap es normal, los aniones no cuantificables son el bicarbonato, y puede ocurrir en situaciones clínicas como pérdidas de bicarbonato digestivas o renales. b) El anión gap elevado se produce en situaciones en que el anión gap es normal. c) En las acidosis con AG elevado, la causa más frecuente es la cetoacidosis. d) a y b son correctas.",
+  "opciones": {
+   "A": "El anión gap (AG) elevado en las situaciones en que el anión gap es normal, los aniones no cuantificables son el bicarbonato, y puede ocurrir en situaciones clínicas como pérdidas de bicarbonato digestivas o renales.",
+   "B": "El anión gap elevado se produce en situaciones en que el anión gap es normal.",
+   "C": "En las acidosis con AG elevado, la causa más frecuente es la cetoacidosis.",
+   "D": "a y b son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la tensión de los apéndices testiculares: a) La crisis trómbica se torna más frecuente en varones de 8-15 años. b) En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarse al diagnóstico de esta patología, ¿cuál de los siguientes parámetros no le parece correcto según la Clasificación Japonesa de Tiroides 2016? c) El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves y. d) El tratamiento apropiado es: propiltiouracilo (PTU) o Metimazol (150-500mg cada 6h), Propranolol, Dexametasona 2 mg/6h iv, Yoduro de potasio 500-1000mg cada 8h.",
+  "opciones": {
+   "A": "La crisis trómbica se torna más frecuente en varones de 8-15 años.",
+   "B": "En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarse al diagnóstico de esta patología, ¿cuál de los siguientes parámetros no le parece correcto según la Clasificación Japonesa de Tiroides 2016?",
+   "C": "El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves.",
+   "D": "El tratamiento apropiado es: propiltiouracilo (PTU) o Metimazol (150-500mg cada 6h), Propranolol, Dexametasona 2 mg/6h iv, Yoduro de potasio 500-1000mg cada 8h."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la torsión de los apéndices testiculares, señale cuál es la afirmación CORRECTA: a) Dolor intenso de aparición brusca, que se acompaña de irritabilidad e inquietud motora. b) El diagnóstico del paciente y y su traumatología (craneofacial) se debe evitar el uso de neurolépticos. c) En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos. d) En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida.",
+  "opciones": {
+   "A": "Dolor intenso de aparición brusca, que se acompaña de irritabilidad e inquietud motora.",
+   "B": "El diagnóstico del paciente y su traumatología (craneofacial) se debe evitar el uso de neurolépticos.",
+   "C": "En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos.",
+   "D": "En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un varón de 26 años acude al servicio de urgencias, traído por sus familiares, por fiebre, alteración del nivel de conciencia, taquicardia, agitación, ansiedad y delirio. Como antecedente refieren hipertiroidismo mal controlado y cirugía de rodilla hace una semana. Señale la respuesta incorrecta sobre la enfermedad de este paciente:",
+  "opciones": {
+   "A": "La crisis tirotóxica o tormenta tiroidea es una condición rara y potencialmente mortal (8-25 %) resultante de una respuesta exagerada del organismo a una elevación aguda de hormonas tiroideas.",
+   "B": "En 1993, Burch y Wartofsky introdujeron un sistema de puntuación para aproximarnos al diagnóstico de esta enfermedad, posteriormente modificadas por la Asociación Japonesa de Tiroides 2016.",
+   "C": "El diagnóstico definitivo de tormenta tiroidea se basa en la presencia de síntomas graves y potencialmente mortales en un paciente con evidencia bioquímica de hipertiroidismo (elevación de T4 libre y/o T3 con TSH disminuida o si el hipertiroidismo es central, normal o aumentada).",
+   "D": "El tratamiento apropiado es: Tratamiento de soporte, Diltiazem, Metamizol (preferiblemente propiltiouracilo (PTU)) e Hidrocortisona (100mg cada 8h)."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "¿Qué NO esperaríamos encontrar en un paciente con un cuadro compatible con cetoacidosis diabética?",
+  "opciones": {
+   "A": "Glucemia en plasma de 950 mg/dL.",
+   "B": "pH de 7,19.",
+   "C": "Cuerpos cetónicos de 0,3 mmol/L.",
+   "D": "Osmolaridad plasmática elevada."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "La diátesis hemorrágica se define como estado en el que el paciente presenta un sangrado espontáneo o desproporcionado para la lesión que padece por un desequilibrio entre la hemostasia y fibrinolisis. En cuanto al diagnóstico más frecuente según la edad del paciente, no es cierto:",
+  "opciones": {
+   "A": "Al nacimiento niños o niñas con clínica hemorrágica (sangrado de cordón) y pruebas básicas normales, hay que pensar en un déficit del factor XIII.",
+   "B": "En el primer año de vida, en niñas con hematomas o sangrados, pensar en Enfermedad de Von Willebrand.",
+   "C": "En el primer año de vida, en niños con hematomas pensar en Enfermedad de Von Willebrand y hemofilia.",
+   "D": "En adultos valorar alteraciones de la hemostasia secundaria cuando presenta pruebas de laboratorio básicas normales, teniendo en cuenta la función hepática y renal."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Varón de 55 años diagnosticado de Ca Epidermoide de Ca de pulmón y en tratamiento con quimioterapia. Lleva 5 días. Acude a urgencias por fiebre de 38,5°C desde hace 3 días. Su objetivo neutropenia de 300ml. Procalcitonina < 0,05 mg/ml. Resto de analítica sin alteraciones. Se muestra condensación. Al iniciar el tratamiento antibiótico empírico, el paciente es alérgico a la penicilina, ¿cuál de las siguientes pautas le parece la más adecuada? a) Gentamicina + Ciprofloxacino o Levofloxacino. b) Meropenem + moxifloxacino. c) Aztreonam + Vancomicina. d) Aztreonam + Vancomicina.",
+  "opciones": {
+   "A": "Gentamicina + Ciprofloxacino o Levofloxacino.",
+   "B": "Meropenem + moxifloxacino.",
+   "C": "Aztreonam + Vancomicina.",
+   "D": "Aztreonam + Vancomicina."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Un paciente oncológico, de 72 años, tratado con quimioterapia, acude a urgencias por presentar en su exploración física destacan taquipnea, presión arterial baja, temperatura >38,5°C. La muestra condensación. Al iniciar el tratamiento antibiótico empírico, al paciente es alérgico a la penicilina, ¿cuál de las siguientes pautas le parece la más adecuada? a) Gentamicina + Ciprofloxacino o Levofloxacino. b) Meropenem + moxifloxacino. c) Aztreonam + Vancomicina. d) Aztreonam + Vancomicina.",
+  "opciones": {
+   "A": "Gentamicina + Ciprofloxacino o Levofloxacino.",
+   "B": "Meropenem + moxifloxacino.",
+   "C": "Aztreonam + Vancomicina.",
+   "D": "Aztreonam + Vancomicina."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En cuanto al tratamiento más efectivo de la obstrucción uretral, ¿cuál es la respuesta correcta? a) Tratamiento médico con antiinflamatorios junto a Diltiazen. b) La trombosis de la vena renal ocurre en bifurcaciones arteriales. c) La trombosis es la causa más frecuente en los miembros superiores. d) a, b, c) son correctas.",
+  "opciones": {
+   "A": "Tratamiento médico con antiinflamatorios junto a Diltiazen.",
+   "B": "La trombosis de la vena renal ocurre en bifurcaciones arteriales.",
+   "C": "La trombosis es la causa más frecuente en los miembros superiores.",
+   "D": "a, b, c son correctas."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la atención de un paciente con dolor en una extremidad, en el que sospechamos una oclusión arterial aguda por un trombo, ¿cuál de las siguientes afirmaciones le parece incorrecta? a) Taquipnea con hiperventilación. b) La embolia arterial suele ocurrir en bifurcaciones arteriales. c) La trombosis es la causa más frecuente en los miembros superiores. d) La trombosis de los vasos de los miembros superiores.",
+  "opciones": {
+   "A": "Taquipnea con hiperventilación.",
+   "B": "La embolia arterial suele ocurrir en bifurcaciones arteriales.",
+   "C": "La trombosis es la causa más frecuente en los miembros superiores.",
+   "D": "La trombosis de los vasos de los miembros superiores."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "Varón de 80 años remitido a urgencias desde el centro de salud por dolor abdominal, sin antecedentes. En la exploración se aprecia TA 13/02. En la exploración de la página TA 13/02 (pa, satO2 90%, frecuencia 75/min). Ante un diagnóstico más frecuente según su edad del paciente, ¿cuál de las siguientes sería la respuesta correcta? a) Síndrome embolismo/trombótico: Hidratación + benzodiazepinas. b) Síndrome embolismo/trombótico. Antibiótico específico: Naloxona. c) Síndrome embolismo/trombótico. Antibiótico específico: Flumazenilo y naloxona. d) Síndrome sedativo. Antídoto específico: Naloxona.",
+  "opciones": {
+   "A": "Síndrome embolismo/trombótico: Hidratación + benzodiazepinas.",
+   "B": "Síndrome embolismo/trombótico. Antibiótico específico: Naloxona.",
+   "C": "Síndrome embolismo/trombótico. Antibiótico específico: Flumazenilo y naloxona.",
+   "D": "Síndrome sedativo. Antídoto específico: Naloxona."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En relación con la acatisia, señale la falsa: a) Se da habitualmente en pacientes ancianos. b) El tratamiento de la exploración brusca, que se acompaña de irritabilidad e inquietud motora. c) Se da normalmente al comienzo del tratamiento con neurolépticos. d) El tratamiento es con Diazepam.",
+  "opciones": {
+   "A": "Se da habitualmente en pacientes ancianos.",
+   "B": "El tratamiento de la exploración brusca, que se acompaña de irritabilidad e inquietud motora.",
+   "C": "Se da normalmente al comienzo del tratamiento con neurolépticos.",
+   "D": "El tratamiento es con Diazepam."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En el tratamiento con psicofármacos de un paciente con síndrome confusional agudo en urgencias, ¿cuál de las siguientes recomendaciones no le parece adecuada? a) Amoxicilina-clavulánico/Amiodarona 875/125mg 8h es la primera línea de tratamiento en el 'síndrome de delirium', sobre todo ante elevada comorbilidad y/o politerapia. b) En enfermedad/es neurológicas (ictus y traumatismo craneofacial) se debe evitar el uso de neurolépticos. c) En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos. d) En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida.",
+  "opciones": {
+   "A": "Amoxicilina-clavulánico/Amiodarona 875/125mg 8h es la primera línea de tratamiento en el 'síndrome de delirium', sobre todo ante elevada comorbilidad y/o politerapia.",
+   "B": "En enfermedad/es neurológicas (ictus y traumatismo craneofacial) se debe evitar el uso de neurolépticos.",
+   "C": "En alcohólicos están indicadas las benzodiazepinas (BZD) y traumatismo craneofacial se debe evitar el uso de neurolépticos.",
+   "D": "En insuficiencia respiratoria es mejor usar neurolépticos como haloperidol o tiaprida."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM Octubre 2021",
+  "enunciado": "En la intoxicación por cianuro, ¿cuál de las siguientes NO es una manifestación tardía (30-60 min)? a) Taquipnea con hiperventilación. b) Cefalea. c) Convulsiones. d) Extrasístoles ventriculares.",
+  "opciones": {
+   "A": "Taquipnea con hiperventilación.",
+   "B": "Cefalea.",
+   "C": "Convulsiones.",
+   "D": "Extrasístoles ventriculares."
+  },
+  "respuesta_correcta": "A"
+ }
+]

@@ -1,0 +1,366 @@
+[
+ {
+  "id_examen": 155,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Una de las medidas para reducir la incidencia de las infecciones relacionadas con la asistencia sanitaria es la higiene de manos. Señale en qué momento es incorrecta:",
+  "opciones": {
+   "A": "Antes de tocar al paciente.",
+   "B": "Antes de llevar a cabo una tarea limpia/aséptica.",
+   "C": "Antes del riesgo de exposición a líquidos corporales.",
+   "D": "Después del contacto con el paciente y/o su entorno."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "Según el modelo «Mis 5 momentos para la higiene de manos» de la OMS, los cinco momentos correctos son: 1) antes de tocar al paciente, 2) antes de realizar una tarea limpia/aséptica, 3) DESPUÉS del riesgo de exposición a líquidos corporales (no antes), 4) después de tocar al paciente y 5) después del contacto con el entorno del paciente. La opción C afirma que la higiene de manos debe realizarse ANTES del riesgo de exposición a líquidos corporales, lo cual es incorrecto: debe realizarse después de dicha exposición para proteger al profesional y evitar la propagación de microorganismos.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 156,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Tras la resucitación adecuada, al cabo de tres horas el paciente presenta PAM 55 mmHg, FC 110 lpm, diuresis 0 mL, láctico 3,5 mmol. ¿En qué situación está este caso clínico?",
+  "opciones": {
+   "A": "Evolución lenta, pero favorable; el aclaramiento del ácido láctico es correcto.",
+   "B": "La situación evoluciona a shock séptico.",
+   "C": "Persistencia de la cetoacidosis diabética.",
+   "D": "Hipoperfusión asociada a sepsis."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "Según las definiciones Sepsis-3, el shock séptico se define como sepsis con hipotensión que requiere vasopresores para mantener una PAM ≥ 65 mmHg y lactatemia > 2 mmol/L, a pesar de resucitación adecuada con fluidos. Este paciente presenta: PAM 55 mmHg (< 65 mmHg, hipotensión persistente), anuria (diuresis 0 mL, disfunción orgánica renal) y láctico 3,5 mmol/L (> 2 mmol/L) tras resucitación. Esto define el shock séptico (opción B). La A es incorrecta porque los criterios no son favorables. La C es incorrecta porque no hay datos de cetoacidosis. La D (hipoperfusión asociada a sepsis) es imprecisa y no refleja la gravedad del cuadro.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 157,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Si se decide administrar una droga vasoactiva, ¿cuál es la de elección, entre las siguientes?",
+  "opciones": {
+   "A": "Dado que no se dispone de una vía central, no puede administrarse.",
+   "B": "Dobutamina.",
+   "C": "Vasopresina.",
+   "D": "Noradrenalina por una vía periférica."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "La noradrenalina es el vasopresor de primera elección en el shock séptico según las guías SSC 2021 (opción D). En cuanto a la vía de administración, las guías actuales aceptan la administración de noradrenalina por vía venosa periférica durante un periodo corto de tiempo mientras se canaliza una vía central, especialmente en situaciones de emergencia. La A es incorrecta: la ausencia de vía central no contraindica el inicio de vasopresores. La dobutamina (B) es un inotrópico para disfunción miocárdica, no el vasopresor de primera línea. La vasopresina (C) se usa como adyuvante de la noradrenalina cuando esta no es suficiente.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 158,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes es una medida terapéutica adicional que puede tomarse en consideración en el contexto del shock séptico?",
+  "opciones": {
+   "A": "Vitamina C por la vía endovenosa.",
+   "B": "Inmunoglobulinas por la vía endovenosa.",
+   "C": "Corticoesteroides (40 mg de metilprednisolona cada 8 horas).",
+   "D": "Insulina para corregir la hiperglucemia."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "El control glucémico con insulina (objetivo: glucemia 140-180 mg/dL) es una medida de soporte establecida en el shock séptico, recomendada por las guías SSC 2021 (opción D). La vitamina C IV (A) fue estudiada con resultados negativos en ensayos clínicos recientes y no se recomienda. Las inmunoglobulinas IV (B) no están recomendadas de forma rutinaria en las guías SSC actuales. Los corticoesteroides (C) pueden estar indicados en el shock séptico refractario a vasopresores (hidrocortisona 200 mg/día en perfusión continua o 50 mg/6h, no metilprednisolona 40 mg/8h como dice la opción C), por lo que la dosis y el fármaco indicados en C son incorrectos.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 159,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Por medio de una prueba diagnóstica por la imagen se observa una marcada hidronefrosis derecha, litiasis ureteroyuxtavesical renal derecha de 11 mm de diámetro y distensión de la vesícula biliar sin paredes engrosadas ni presencia de litiasis en su interior. ¿Cuál de las opciones terapéuticas siguientes es correcta?",
+  "opciones": {
+   "A": "Interconsulta al servicio de urología para valorar una nefrostomía derecha.",
+   "B": "Mantener la resucitación y administrar antibióticos como se han iniciado y esperar.",
+   "C": "Interconsulta al servicio de nefrología para hemodiálisis.",
+   "D": "Interconsulta al servicio de cirugía para una colecistectomía."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 82,
+   "grupo": "especifico",
+   "titulo": "Sepsis. Valoración del paciente séptico. Normas de actuación. Shock séptico y fracaso multiorgánico. Código sepsis."
+  },
+  "explicacion": {
+   "correcta": "En la sepsis de origen urológico con litiasis obstructiva (litiasis ureteroyuxtavesical de 11 mm que causa hidronefrosis) el principio fundamental es el control del foco infeccioso. Un cálculo de 11 mm no se eliminará espontáneamente y está causando obstrucción con sepsis, por lo que la derivación urinaria urgente mediante nefrostomía percutánea (opción A, con interconsulta a urología) es la medida terapéutica correcta. Esperar solo con antibióticos (B) es insuficiente sin drenar el foco. La hemodiálisis (C) no resuelve la obstrucción. La colecistectomía (D) no está indicada ya que la vesícula distendida sin litiasis ni paredes engrosadas no es el foco séptico.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 160,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Si se sospechase una colecistitis aguda en este caso clínico, ¿cuál de las respuestas siguientes no es uno de los criterios diagnósticos según la guía de Tokio de 2018?",
+  "opciones": {
+   "A": "Signos locales: signo de Murphy o masa, dolor o defensa en el hipocondrio derecho.",
+   "B": "Signos sistémicos: fiebre de menos de 37,5 °C o PCR alta o leucocitosis por encima de 10.000 células/mm3.",
+   "C": "Imagen: edema de pared de más de 5 mm, vesícula distendida, signo de Murphy radiológico, líquido perivesicular, colelitiasis.",
+   "D": "Imagen: edema de pared de menos de 5 mm, vesícula distendida, signo de Murphy radiológico, líquido perivesicular, colelitiasis."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 62,
+   "grupo": "especifico",
+   "titulo": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Según las guías de Tokio 2018 (TG18), los criterios diagnósticos de colecistitis aguda incluyen: criterios locales (signo de Murphy, masa o dolor en hipocondrio derecho, A), criterios sistémicos (fiebre > 38°C —no < 37,5°C como dice la B, aunque B tiene la temperatura incorrecta también—, leucocitosis o PCR elevada) y criterios de imagen (engrosamiento de pared ≥ 4-5 mm, vesícula distendida, líquido perivesicular, colelitiasis, C). La opción D es incorrecta porque menciona edema de pared de MENOS de 5 mm como criterio diagnóstico, cuando el criterio real es el engrosamiento de pared de MÁS de 4-5 mm. Un engrosamiento menor de 5 mm no apoya el diagnóstico de colecistitis.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 161,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes no es uno de los criterios de gravedad para la colecistitis aguda de grado moderado?",
+  "opciones": {
+   "A": "Incremento de la leucocitosis de más de 18.000 células/mm3.",
+   "B": "Duración de los síntomas de más de 72 horas.",
+   "C": "Tiempo de protrombina INR < 1,5.",
+   "D": "Marcada inflamación local (colecistitis gangrenosa, absceso perivesicular, colecistitis enfisematosa)."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 62,
+   "grupo": "especifico",
+   "titulo": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "Según las guías de Tokio 2018, la colecistitis aguda de grado II (moderada) incluye los siguientes criterios: leucocitosis > 18.000/mm3 (A), duración de síntomas > 72 horas (B) y marcada inflamación local como colecistitis gangrenosa, absceso perivesicular o colecistitis enfisematosa (D). El INR < 1,5 (C) no es un criterio de gravedad moderada; de hecho, un INR elevado (> 1,5) podría indicar disfunción hepática, pero el INR < 1,5 (normal o levemente elevado) no define la gravedad de la colecistitis. La disfunción orgánica (que incluiría coagulopatía con INR > 1,5) corresponde al grado III (grave).",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 162,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En este caso clínico se podría sospechar una infección por un microorganismo multirresistente. ¿Cuál es la definición de multirresistente?",
+  "opciones": {
+   "A": "Ausencia de sensibilidad al menos a un antibiótico de tres o más familias consideradas de utilidad para el tratamiento de las infecciones producidas por cada una de las especies bacterianas consideradas.",
+   "B": "Probabilidad alta de éxito terapéutico porque la exposición al agente está incrementada por el ajuste del régimen de dosificación por su concentración en lugar de la infección.",
+   "C": "Ausencia de sensibilidad a todos los antibióticos de todas las familias habituales utilizadas en el tratamiento de la bacteria considerada.",
+   "D": "Probabilidad alta de fracaso terapéutico incluso cuando hay incremento de la exposición."
+  },
+  "respuesta_correcta": "A",
+  "incorrectas": [
+   "B",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 81,
+   "grupo": "especifico",
+   "titulo": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "Según la definición internacional consensuada (Magiorakos et al., 2012), un microorganismo multirresistente (MDR, Multi-Drug Resistant) es aquel con ausencia de sensibilidad (resistencia adquirida) a al menos un agente de tres o más categorías/familias de antimicrobianos con actividad frente a esa especie (opción A). La resistencia a todas las familias (C) corresponde al término «panrresistente» (PDR, Pan-Drug Resistant). La opción B describe la farmacodinamia de los antibióticos dosis-dependientes. La D describe la situación clínica de fracaso terapéutico pero no define el concepto microbiológico de multirresistencia.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 163,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En relación con los microorganismos multirresistentes hay que tener en cuenta a todos los siguientes, excepto uno. Señálelo:",
+  "opciones": {
+   "A": "Staphylococcus aureus resistente a la meticilina (SARM, MRSA por la denominación en inglés).",
+   "B": "Enterobacteria productora de betalactamasas de espectro extendido (BLEE) o de betalactamasas plasmídicas de tipo AmpC.",
+   "C": "Enterobacteria productora de carbapenemasas (EPC).",
+   "D": "Pseudomonas aeruginosa."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 81,
+   "grupo": "especifico",
+   "titulo": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "La Pseudomonas aeruginosa (D) en sí misma no es un microorganismo multirresistente por definición, aunque puede serlo si adquiere resistencias a múltiples familias de antibióticos. La especie en sí no es intrínsecamente un MMR como sí lo son el SARM (A, resistente a meticilina y todos los betalactámicos), las enterobacterias BLEE (B, resistentes a cefalosporinas de espectro extendido) y las enterobacterias productoras de carbapenemasas (C, resistentes a los carbapenémicos). La Pseudomonas aeruginosa tiene resistencia intrínseca a algunos antibióticos, pero no es sinónimo de microorganismo multirresistente sin especificar el patrón de sensibilidad.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 164,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En los programas PROA de los hospitales se incluye a los servicios de urgencias. ¿Cuál de las respuestas siguientes no es uno de los objetivos generales de dichos programas?",
+  "opciones": {
+   "A": "Registro de todos los microorganismos multirresistentes y creación de una base de datos.",
+   "B": "Formación de un curso PROA básico dirigido a todos los adjuntos de los servicios de urgencias.",
+   "C": "Mejoría del pronóstico de los pacientes con infecciones.",
+   "D": "Reducción de la presión antibiótica y de los efectos adversos."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 81,
+   "grupo": "especifico",
+   "titulo": "Síndrome febril del paciente adulto no inmunodeprimido. Valoración y actuación en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "Los Programas de Optimización del Uso de Antimicrobianos (PROA) tienen como objetivos generales: mejorar el pronóstico de los pacientes con infecciones (C), reducir la presión antibiótica y los efectos adversos de los antimicrobianos (D), y controlar la emergencia y diseminación de resistencias. El registro sistemático de MMR y la creación de bases de datos epidemiológicas (A) también forman parte de los objetivos de los programas de control de infección (complementarios a los PROA). La formación de un «curso PROA básico dirigido a todos los adjuntos» (B) no es un objetivo general establecido de los PROA; la formación es una herramienta, no un objetivo en sí, y no se dirige exclusivamente a adjuntos.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 165,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: El paciente del caso clínico descrito regresa al servicio de urgencias tres días después con diarrea, tos, disnea y fiebre de 39 °C. Se observa derrame pleural derecho hasta el tercio medio y condensación en el lóbulo superior derecho. Se sospecha una neumonía intrahospitalaria. Señale la afirmación correcta:",
+  "opciones": {
+   "A": "La neumonía intrahospitalaria es la segunda causa de infección nosocomial y la que presenta una tasa de mortalidad más baja.",
+   "B": "No es probable que Acinetobacter baumannii sea el microorganismo responsable.",
+   "C": "Entre las medidas para reducir la incidencia de la neumonía intrahospitalaria están optimizar la higiene oral, elevar el cabecero de la cama y la deambulación precoz.",
+   "D": "La sospecha de microorganismos multirresistentes no tiene relación con la administración de antibióticos en los 90 días previos."
+  },
+  "respuesta_correcta": "C",
+  "incorrectas": [
+   "A",
+   "B",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 59,
+   "grupo": "especifico",
+   "titulo": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "Las medidas preventivas de la neumonía intrahospitalaria incluyen: higiene oral (cepillado dental, uso de clorhexidina), elevación del cabecero de la cama a 30-45°, deambulación precoz, fisioterapia respiratoria y otras medidas de cuidado (opción C correcta). La A es incorrecta: la neumonía intrahospitalaria es la segunda causa de infección nosocomial pero la que presenta la MAYOR tasa de mortalidad (no la más baja). La B es incorrecta: Acinetobacter baumannii es precisamente uno de los MMR más relevantes en neumonía nosocomial e intrahospitalaria. La D es incorrecta: el uso de antibióticos en los 90 días previos es uno de los principales factores de riesgo para infección por MMR.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 166,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta incorrecta en caso de que se hiciera una toracocentesis a este paciente:",
+  "opciones": {
+   "A": "Los valores de la glucosa en el líquido pleural inferiores a 60 mg deben orientar a los diagnósticos de empiema, proceso neoplásico, tuberculosis o artritis reumatoide.",
+   "B": "No se recomienda extraer más de 1.000 mL de una vez en la toracocentesis para evitar el edema ex vacuo o por reexpansión pulmonar.",
+   "C": "El pH en el líquido pleural inferior a 7,20 puede verse en los casos de derrame pleural paraneumónico complicado o empiema, rotura esofágica o proceso neoplásico.",
+   "D": "Un coeficiente de LDH pleural / LDH plasma superior a 0,6 es un trasudado."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 58,
+   "grupo": "especifico",
+   "titulo": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La respuesta incorrecta es la D. Según los criterios de Light, un coeficiente LDH pleural/LDH sérica SUPERIOR a 0,6 es criterio de EXUDADO (no de trasudado). Los trasudados tienen LDH pleural/sérica < 0,6, proteínas pleurales/séricas < 0,5 y LDH pleural < 2/3 del límite superior de la LDH sérica. Las opciones A (glucosa < 60 mg/dL orienta a exudado complicado), B (límite de 1000-1500 mL en toracocentesis evacuadora para evitar el edema por reexpansión) y C (pH < 7,20 en derrame complicado) son afirmaciones correctas.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 167,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En el caso de un paciente seropositivo al VIH con carga detectable o desconocida y con factores de riesgo, ¿en qué situación no está indicada la profilaxis postexposición no ocupacional con antirretrovirales?",
+  "opciones": {
+   "A": "Relaciones anales y/o vaginales sin preservativo.",
+   "B": "Intercambio de jeringuillas con consumidores de drogas por la vía parenteral.",
+   "C": "Mordedura humana con rotura de la piel o sangrado.",
+   "D": "Pinchazo o erosión superficial con una aguja u otro objeto punzante abandonado que no ha estado en contacto con sangre recientemente."
+  },
+  "respuesta_correcta": "D",
+  "incorrectas": [
+   "A",
+   "B",
+   "C"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 84,
+   "grupo": "especifico",
+   "titulo": "Valoración y actitud en urgencias ante las infecciones en el paciente con síndrome de inmunodeficiencia adquirida."
+  },
+  "explicacion": {
+   "correcta": "La profilaxis postexposición no ocupacional (PEPno) al VIH está indicada cuando existe exposición de riesgo real a un paciente fuente con VIH positivo o de alto riesgo. El pinchazo o erosión superficial con un objeto punzante abandonado que no ha estado en contacto reciente con sangre (D) tiene un riesgo de transmisión extremadamente bajo o nulo, por lo que la PEPno no está indicada en este escenario. En cambio, sí está indicada en: relaciones anales/vaginales sin preservativo con fuente positiva (A), intercambio de jeringuillas (B) y mordedura con rotura de piel y sangrado (C), que constituyen exposiciones con riesgo significativo de transmisión.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 168,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación correcta sobre las infecciones de transmisión sexual:",
+  "opciones": {
+   "A": "Las lesiones de origen sifilítico (sífilis primaria) son muy dolorosas.",
+   "B": "Se recomienda hacer pruebas serológicas para detectar los virus de la hepatitis B, de la hepatitis C y de la inmunodeficiencia humana.",
+   "C": "Las infecciones de transmisión sexual con una tasa más alta de incidencia son las causadas por Neisseria gonorrhoeae, según los datos de vigilancia epidemiológica de 2019.",
+   "D": "El tratamiento empírico de elección consiste en 250 mg de ceftriaxona por la vía intramuscular y 1 g de azitromicina en dosis única por la vía oral."
+  },
+  "respuesta_correcta": "B",
+  "incorrectas": [
+   "A",
+   "C",
+   "D"
+  ],
+  "clasificacion_temario": {
+   "tema_id": 84,
+   "grupo": "especifico",
+   "titulo": "Valoración y actitud en urgencias ante las infecciones en el paciente con síndrome de inmunodeficiencia adquirida."
+  },
+  "explicacion": {
+   "correcta": "La opción correcta es la B: en todo paciente con infección de transmisión sexual se recomienda realizar cribado serológico para VHB, VHC y VIH, dado que comparten mecanismos de transmisión. La A es incorrecta: el chancro sifilítico de la sífilis primaria es característicamente INDOLORO (úlcera limpia, de bordes indurados y sin dolor), lo que lo diferencia del chancroide o del herpes genital. La C es incorrecta: según los datos de vigilancia epidemiológica, la infección por Chlamydia trachomatis supera en incidencia a la gonococia en la mayoría de países europeos. La D describe el tratamiento de la gonococia no complicada (no el de las ITS en general), y las dosis pueden variar según guías actuales.",
+   "incorrectas": {}
+  }
+ }
+]

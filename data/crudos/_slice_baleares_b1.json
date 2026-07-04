@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Tras el resultado del ECG_1 (al llegar a urgencias), ¿cuál es el diagnóstico?",
+  "opciones": {
+   "A": "Síndrome coronario agudo sin elevación del segmento ST (SCASEST) de localización inferior.",
+   "B": "Síndrome coronario agudo con elevación del segmento ST (SCACEST) de localización inferior por oclusión de la arteria coronaria derecha.",
+   "C": "SCACEST de localización inferior por oclusión de la arteria circunfleja.",
+   "D": "SCACEST de localización anterior por oclusión de la arteria descendente anterior."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: ¿Qué arritmia describe el ECG-2?",
+  "opciones": {
+   "A": "Fibrilación ventricular.",
+   "B": "Taquicardia ventricular sin pulso.",
+   "C": "Taquicardia ventricular.",
+   "D": "Asistolia."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En el caso de un paciente en parada cardiorrespiratoria en el medio hospitalario, ¿cuál de las acciones siguientes es incorrecta según las guías del European Resuscitation Council (ERC) de 2021?",
+  "opciones": {
+   "A": "Reconocer la situación de parada cardiorrespiratoria.",
+   "B": "Iniciar inmediatamente la reanimación cardiorrespiratoria (RCP).",
+   "C": "Pedir ayuda al equipo de reanimación.",
+   "D": "Hacerle una intubación orotraqueal (IOT) lo antes posible."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Según la descripción del caso clínico, se ha comprobado que el paciente no responde y no respira y en el monitor desfibrilador se observa una arritmia rápida (ECG_2). ¿Cuál de las acciones siguientes es incorrecta según las guías del European Resuscitation Council (ERC) de 2021?",
+  "opciones": {
+   "A": "Después de cada descarga eléctrica hay que suspender las compresiones torácicas y revisar el ritmo en el monitor.",
+   "B": "Se puede tomar en consideración dar tres descargas consecutivas si se sospecha una fibrilación ventricular presenciada y el monitor-DF está al alcance inmediatamente.",
+   "C": "Si quien se encarga de la RCP no sabe cuánta energía debe aplicar en la desfibrilación, hay que aplicar la más alta en todas las descargas.",
+   "D": "El nivel de energía inicial en la desfibrilación con ondas bifásicas es de al menos 150J."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En una situación de parada cardiorrespiratoria en el hospital y tras monitorizar el ritmo, se detecta una bradicardia regular a 50 lpm y sin pulso carotídeo detectable. Señale la afirmación correcta según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Se trata de una situación de RCP en la rama de ritmos desfibrilables.",
+   "B": "Hay que iniciar las compresiones torácicas de alta calidad lo antes posibles y con las mínimas interrupciones.",
+   "C": "Hay que administrar al paciente 0,5 mg de atropina por la vía endovenosa lo antes posible.",
+   "D": "Hay que aplicar una desfibrilación precozmente."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la respuesta incorrecta sobre el uso de fármacos en una situación de parada cardiorrespiratoria en adultos según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Administrar 1 mg de adrenalina por la vía intravenosa (intraósea) lo antes posible en los casos de parada cardiorrespiratoria con un ritmo no desfibrilable.",
+   "B": "Administrar 1 mg de adrenalina por la vía intravenosa (intraósea) después de la tercera desfibrilación en los casos de parada cardiorrespiratoria con un ritmo desfibrilable.",
+   "C": "Administrar 150 mg de amiodarona por la vía intravenosa (intraósea) después de la tercera descarga en los casos de parada cardiorrespiratoria en ritmo desfibrilable.",
+   "D": "Administrar 1 mg de adrenalina cada 3-5 minutos mientras continúe la RCP."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación correcta en relación con la situación de parada cardiorrespiratoria en un adulto según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Hacer una ecografía durante una parada cardiorrespiratoria puede ser útil para diagnosticar causas tratables, como un taponamiento cardíaco o un neumotórax.",
+   "B": "La dilatación ventricular derecha aislada durante una parada cardiorrespiratoria permite diagnosticar un tromboembolismo pulmonar masivo.",
+   "C": "Durante una parada cardiorrespiratoria, la contractilidad miocárdica indica que se puede interrumpir la reanimación cardiopulmonar.",
+   "D": "Hacer una ecografía durante una parada cardiorrespiratoria es tan rentable para diagnosticar las causas tratables que permite hacer interrupciones adicionales de las compresiones torácicas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el diagnóstico del síndrome coronario agudo:",
+  "opciones": {
+   "A": "El diagnóstico de síndrome coronario agudo sin elevación del segmento ST (SCASEST) se puede hacer en caso de bloqueo completo de cualquiera de las ramas del haz de His de nueva aparición, con datos clínicos sugerentes de isquemia persistente.",
+   "B": "El SCASEST se define como la presencia electrocardiográfica de infradesnivelación del segmento ST igual o superior a 1 mm en dos o más derivaciones contiguas.",
+   "C": "En caso de infradesnivelación generalizada del ST (en ocho o más derivaciones) con supradesnivelación en aVR de al menos 1 mm hay que actuar como en los casos de infarto agudo de miocardio sin elevación del segmento ST (IAMSEST) aunque el paciente presente inestabilidad hemodinámica.",
+   "D": "Si existe una elevación del segmento ST igual o superior a 0,5 mm registrada en las derivaciones V7-V9, se considera un medio para identificar el infarto agudo de miocardio posterior."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: ¿Cuál es la puntuación CHA2DS2-VASc en el caso de un paciente de 76 años que presenta una arritmia por fibrilación auricular y está en tratamiento por hipertensión arterial?",
+  "opciones": {
+   "A": "0.",
+   "B": "1.",
+   "C": "2.",
+   "D": "3."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el diagnóstico del síndrome coronario agudo:",
+  "opciones": {
+   "A": "Está indicado registrar e interpretar el electrocardiograma de doce derivaciones tan pronto como sea posible en el lugar del primer contacto médico, con un retraso máximo de diez minutos.",
+   "B": "Está indicada la monitorización electrocardiográfica con capacidad de desfibrilación en todo paciente con sospecha de infarto agudo de miocardio con elevación del segmento ST (IAMCEST).",
+   "C": "Debe considerarse el uso de derivaciones adicionales de la pared torácica posterior (V7-V9) en pacientes con sospecha de infarto agudo de miocardio posterior (oclusión de la arteria circunfleja).",
+   "D": "Está indicado tomar muestras de sangre para determinar cuanto antes los marcadores séricos en la fase aguda, pues los resultados determinarán el tratamiento."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el proceso diagnóstico del dolor torácico de origen pericárdico:",
+  "opciones": {
+   "A": "Se caracteriza por ser un dolor retroesternal que empeora en la posición de decúbito y mejora con la sedestación. Un antecedente de infección reciente orienta hacia este diagnóstico.",
+   "B": "El roce pericárdico es un dato muy específico, y es frecuente hallarlo.",
+   "C": "Existen cambios evolutivos electrocardiográficos a lo largo del tiempo: lo más precoz y específico es el descenso del segmento PR y lo más frecuente es una elevación difusa del segmento ST cóncava hacia arriba.",
+   "D": "En los casos sospechosos de pericarditis, la elevación de las troponinas indica una miopericarditis."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Una de las respuestas siguientes no forma parte del tratamiento de primera línea de la pericarditis aguda. Señálela:",
+  "opciones": {
+   "A": "Corticoides.",
+   "B": "Restricción de la actividad física.",
+   "C": "Antiinflamatorios no esteroideos o ácido acetilsalicílico.",
+   "D": "Colchicina."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa en referencia al tratamiento antiagregante en el síndrome coronario agudo sin elevación del ST (SCASEST) según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "Hay que valorar administrar ácido acetilsalicílico si no está contraindicado para el paciente.",
+   "B": "No se recomienda la administración sistemática de pretratamiento con un inhibidor del P2Y12 (ticagrelor o prasugrel) en los casos de SCASEST si se desconoce la anatomía coronaria del paciente y se planifica una estrategia invasiva temprana.",
+   "C": "Como medida de seguridad, hay que esperar a recibir el resultado de los marcadores miocárdicos para administrar cualquier tratamiento antiagregante.",
+   "D": "El clopidogrel, que se caracteriza por ser un inhibidor plaquetario menos potente, solo debe usarse en los casos en que el prasugrel o el ticagrelor estén contraindicados, no estén disponibles o no sean tolerables por un riesgo hemorrágico demasiado alto."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el tratamiento antiagregante en el síndrome coronario agudo según las guías del European Resuscitation Council (ERC) de 2021:",
+  "opciones": {
+   "A": "El ácido acetilsalicílico debe administrarse en una dosis de carga de 500 mg por la vía oral.",
+   "B": "La dosis inicial de carga del ticagrelor es de 180 mg por la vía oral.",
+   "C": "La dosis de carga del clopidogrel es de 300-600 mg por la vía oral.",
+   "D": "El ácido acetilsalicílico sin cubierta entérica es más recomendable, dada la rapidez de absorción."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En el abordaje del síndrome coronario agudo, ¿cuál de los valores siguientes aporta un riesgo de hemorragia más alto de acuerdo con la escala CRUSADE?",
+  "opciones": {
+   "A": "Hematocrito entre el 31% y el 33,9%.",
+   "B": "Aclaramiento de la creatinina entre 15 y 30 mL/min.",
+   "C": "Frecuencia cardiaca de 71-80 lpm.",
+   "D": "Padecer diabetes mellitus."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Mujer de 67 años con antecedentes de hipotiroidismo, hipertensión arterial y bloqueo de rama izquierda del haz de His, que acude por episodio sincopal. ECG: bradiarritmia a 37 lpm, intervalo PR constante, cada tres complejos normales una onda P no va seguida de QRS; QRS > 0,12 segundos. ¿Qué tipo de bradiarritmia presenta?",
+  "opciones": {
+   "A": "Bloqueo auriculoventricular de primer grado.",
+   "B": "Bloqueo auriculoventricular de segundo grado Mobitz I o Wenkebach.",
+   "C": "Bloqueo auriculoventricular de segundo grado Mobitz II.",
+   "D": "Bloqueo auriculoventricular de tercer grado."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: En el caso de un paciente sintomático que presenta un bloqueo auriculoventricular de tercer grado con ritmo de escape ventricular, ¿cuál de las actuaciones siguientes se considera menos eficaz?",
+  "opciones": {
+   "A": "Administrarle 2 μg/min de isoprotenerol en perfusión.",
+   "B": "Colocarle un marcapasos transcutáneo.",
+   "C": "Administrarle 2 μg/min de adrenalina en perfusión por la vía endovenosa.",
+   "D": "Administrarle 0,5 mg de atropina por la vía endovenosa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Paciente de 81 años, dado de alta hace 36 horas tras fractura de cadera izquierda, que acude por dolor torácico y disnea. TA: 90/55 mmHg; FC: 165 lpm; SatO2: 92%. ECG: taquicardia arrítmica a 150; QRS estrecho; descenso del ST en nueve derivaciones y elevación en AVR y V1. ¿Cuál de los tratamientos siguientes es menos adecuado?",
+  "opciones": {
+   "A": "Digoxina.",
+   "B": "Nitroglicerina en perfusión endovenosa.",
+   "C": "Cardioversión eléctrica.",
+   "D": "Oxigenoterapia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Paciente hipotenso con dolor torácico y signos adversos evidentes atribuibles a una taquicardia arrítmica a 170, QRS estrecho. Señale la respuesta correcta en el caso de plantearse una cardioversión eléctrica:",
+  "opciones": {
+   "A": "Debe hacerse una cardioversión eléctrica sincronizada a la potencia máxima desde el inicio, habiendo administrado sedoanalgesia al paciente y un pretratamiento con un fármaco antiarrítmico para mejorar la eficacia de la cardioversión.",
+   "B": "Debe hacerse una cardioversión eléctrica no sincronizada a la potencia máxima desde el inicio, habiendo administrado sedoanalgesia al paciente.",
+   "C": "Debe hacerse una cardioversión eléctrica sincronizada a 70J.",
+   "D": "Debe hacerse una cardioversión farmacológica con 300 mg de flecainida por la vía oral."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la afirmación falsa sobre el procedimiento de sedoanalgesia en un servicio hospitalario de urgencias:",
+  "opciones": {
+   "A": "La técnica correcta de sedoanalgesia incluye la evaluación previa del paciente para poder detectar y prevenir la aparición de efectos adversos.",
+   "B": "El procedimiento no requiere el consentimiento informado del paciente.",
+   "C": "Para lograr un nivel de sedación moderado se recomienda monitorizar durante la sedoanalgesia la frecuencia cardiaca por medio de un electrocardiógrafo, la presión arterial no invasiva, la saturación de oxígeno por medio de un pulsioxímetro y hacer una capnografía (si está disponible).",
+   "D": "Para los procedimientos que se llevan a cabo en el servicio de urgencias se recomienda un nivel de sedación 3-4 en la escala de Ramsay, que equivale a un nivel de sedación leve-moderado."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Señale la respuesta correcta respecto a la medicación usada en la sedoanalgesia en el servicio de urgencias:",
+  "opciones": {
+   "A": "El propofol es lipofílico, produce hipnosis y analgesia y disminuye la tensión arterial y el gasto cardíaco. La dosis de inicio es de 0,5-1 mg/kg por la vía intravenosa. El tiempo de inicio de la acción es de 4 minutos.",
+   "B": "El midazolam produce hipnosis y está indicado para lograr una sedación profunda. La dosis inicial es de 0,02-0,03 mg/kg. El tiempo de inicio de la acción es de 40 segundos.",
+   "C": "El etomidato provoca menor depresión respiratoria pero gran estabilidad hemodinámica, y es el fármaco de elección para la sedación de ancianos y pacientes inestables. La dosis es de 0,1-0,15 mg/kg. El tiempo de inicio de la acción es inmediato.",
+   "D": "La ketamina se puede usar por la vía endovenosa o intramuscular en pacientes agitados. Está indicada para pacientes con traumatismo craneoencefálico y sospecha de hipertensión endocraneal."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 1 - Caso clínico: Hombre 55 años, obeso, fumador, dolor torácico retroesternal opresivo irradiado a hombro izquierdo, ECG con elevación ST en DII, DIII, aVF]: Joven de 21 años con palpitaciones desde hace 45 minutos. ECG: taquicardia rítmica del complejo QRS estrecho a 180 lpm. Señale la afirmación falsa:",
+  "opciones": {
+   "A": "Respecto a la maniobra de Valsalva tradicional, la maniobra de Valsalva modificada aumenta las probabilidades de éxito para volver al ritmo sinusal.",
+   "B": "Hay que evitar el masaje del seno carotídeo en los pacientes con antecedentes de ictus.",
+   "C": "La adenosina se administra inicialmente por la vía endovenosa en dosis de 6 mg; si no es efectiva, se añaden 6 mg y, si falla, una tercera dosis, de 12 mg.",
+   "D": "El verapamilo (dosis de 0,075-0,15 mg/kg por la vía intravenosa) o el diltiazem por la vía intravenosa se pueden administrar si la adenosina falla o está contraindicada, pero se asocian a riesgo de hipotensión."
+  },
+  "respuesta_correcta": "C"
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Cuál de los criterios siguientes es prescindible para sospechar o diagnosticar un toxíndrome?",
+  "opciones": {
+   "A": "El nivel de la conciencia y el grado de respuesta al dolor.",
+   "B": "El tamaño de las pupilas.",
+   "C": "Los reflejos osteotendinosos.",
+   "D": "El valor en la escala de coma de Glasgow."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: En un caso de sobredosis de opiáceos, ¿cuál es el objetivo terapéutico principal para decidir administrar un antídoto (naloxona)?",
+  "opciones": {
+   "A": "Revertir la disminución del nivel de la conciencia cuanto antes.",
+   "B": "Corregir la miosis puntiforme.",
+   "C": "Revertir la insuficiencia respiratoria asociada.",
+   "D": "Evitar un posible síndrome de abstinencia."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿En cuál de las intoxicaciones siguientes es preceptivo hacer una electrocardiografía a causa de la potencial cardiotoxicidad?",
+  "opciones": {
+   "A": "Intoxicación por cannabis.",
+   "B": "Intoxicación por benzodiacepinas.",
+   "C": "Intoxicación por monóxido de carbono.",
+   "D": "Intoxicación por metformina."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Señale la afirmación correcta sobre la utilización de N-acetilcisteína como antídoto:",
+  "opciones": {
+   "A": "Solamente puede administrarse por la vía endovenosa.",
+   "B": "En caso de sospecha de toma de una dosis muy alta, puede iniciarse la administración de N-acetilcisteína antes de disponer la paracetamolemia del paciente.",
+   "C": "Produce habitualmente reacciones adversas graves al administrarla por la vía endovenosa, que obligan siempre a interrumpir la administración.",
+   "D": "Hay que interrumpir la administración si disminuye el tiempo de protrombina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Es habitual que se produzca una acidosis metabólica grave en la fase inicial de la intoxicación por determinados productos. Señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Etilenglicol.",
+   "B": "Digoxina.",
+   "C": "Metanol.",
+   "D": "Metformina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Cuál de los signos siguientes no se espera detectar en un caso de intoxicación con un toxíndrome serotoninérgico?",
+  "opciones": {
+   "A": "Temblor.",
+   "B": "Sudoración profusa.",
+   "C": "Hipertermia.",
+   "D": "Sequedad de la piel."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de los diagnósticos siguientes es más ajustado en este caso clínico?",
+  "opciones": {
+   "A": "Insuficiencia cardiaca congestiva.",
+   "B": "Síndrome de agudización de la enfermedad pulmonar obstructiva crónica (EPOC).",
+   "C": "Posible síndrome de agudización de la EPOC.",
+   "D": "Tromboembolia pulmonar."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de las respuestas siguientes no es uno de los criterios de ingreso hospitalario en un caso de crisis asmática?",
+  "opciones": {
+   "A": "El paciente requiere oxigenoterapia para mantener la saturación de oxígeno por encima del 95%.",
+   "B": "El paciente está sintomático después del tratamiento.",
+   "C": "El paciente presenta un PEF o FEVI inferior al 50-60% tras el tratamiento.",
+   "D": "Ha fracasado el tratamiento ambulatorio con glucocorticoides por la vía oral."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Qué criterio se determina en la Guía Española de la EPOC (GesEPOC) de 2021 para clasificar el riesgo de los pacientes?",
+  "opciones": {
+   "A": "FEVI prebroncodilatación, escala mMRC y número de agudizaciones al año.",
+   "B": "FEVI postbroncodilatación, escala mMRC e índice BODE/BODEX.",
+   "C": "FEVI postbroncodilatación, escala mMRC y escala GOLD.",
+   "D": "FEVI postbroncodilatación, escala mMRC y número de agudizaciones al año."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cómo debe clasificarse este episodio del caso clínico descrito, con relación a su gravedad?",
+  "opciones": {
+   "A": "Leve.",
+   "B": "Moderado.",
+   "C": "No se puede clasificar.",
+   "D": "Grave, si el valor en la mMRC basal es 2."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Ante esta situación, ¿qué pruebas complementarias deben solicitarse en un primer momento?",
+  "opciones": {
+   "A": "Hemograma, bioquímica, hemocultivos, gasometría venosa, electrocardiograma y radiografía del tórax.",
+   "B": "Hemograma, bioquímica de marcadores cardiacos, coagulación con dímero-D, gasometría arterial, antígeno del SARS-CoV-2, PCR para detectar el virus de la gripe, electrocardiograma y radiografía del tórax.",
+   "C": "Hemograma, bioquímica con marcadores miocárdicos, coagulación con dímero-D, gasometría venosa y ácido láctico.",
+   "D": "Hemograma, bioquímica con marcadores miocárdicos, gasometría arterial, electrocardiograma, radiografía del tórax y test de tuberculina."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Dados los resultados analíticos y en el supuesto de que el resultado de la PCR para detectar el virus de la gripe fuese positivo para la gripe A, ¿cuál de las siguientes actuaciones terapéuticas sería correcta?",
+  "opciones": {
+   "A": "Nebulizaciones con salbutamol y 75 mg de oseltamivir cada 12 horas.",
+   "B": "Inhalaciones con salbutamol con cámara espaciadora y 75 mg de oseltamivir cada 12 horas.",
+   "C": "Nebulizaciones con salbutamol, 75 mg de oseltamivir cada 12 horas y corticoides por la vía endovenosa.",
+   "D": "Inhalaciones con salbutamol con cámara espaciadora, 75 mg de oseltamivir cada 12 horas y corticoides por la vía endovenosa."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿A qué se refiere el índice de Horowitz?",
+  "opciones": {
+   "A": "Al gradiente alveoloarterial de oxígeno.",
+   "B": "A la PaO2 ideal.",
+   "C": "Al gradiente de oxígeno en el glomérulo.",
+   "D": "Al cociente PaO2/FiO2."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: De los criterios de gravedad del síndrome de agudización de la EPOC, señale el incorrecto en un caso de agudización grave:",
+  "opciones": {
+   "A": "Disnea 3 o 4 de la escala mMRC.",
+   "B": "SatO2 < 90% o PaO2 < 60 mmHg.",
+   "C": "Acidosis respiratoria grave (pH < 7,30).",
+   "D": "Edemas periféricos de nueva aparición."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Qué revelan los resultados de la gasometría arterial (pH 7,42; pO2 50 mmHg; pCO2 51 mmHg; HCO3 33,1 mEq/l)?",
+  "opciones": {
+   "A": "Acidosis respiratoria aguda e hipoxemia.",
+   "B": "Acidosis respiratoria crónica e hipoxemia.",
+   "C": "Alcalosis metabólica e hipoxemia.",
+   "D": "Alcalosis respiratoria compensada e hipoxemia."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación falsa sobre el síndrome de distrés respiratorio del adulto:",
+  "opciones": {
+   "A": "Se trata de una lesión inflamatoria de los pulmones debida al aumento de la permeabilidad de la membrana capilar pulmonar, la disminución de la distensibilidad pulmonar y la pérdida del tejido pulmonar ventilado.",
+   "B": "Presenta infiltrados bilaterales difusos, no explicados por derrame, atelectasia lobar o pulmonar o nódulos pulmonares.",
+   "C": "Se considera leve cuando el cociente PaO2/FiO2 es 200-300.",
+   "D": "En la mayoría de los casos no es necesaria la ventilación mecánica, que se aplica con presión teleespiratoria positiva (PEEP) para evitar el colapso de los alvéolos."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de los rasgos siguientes se considera que no es tratable en los casos de síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "Eosinofilia inferior a 250 células/mm3.",
+   "B": "Neumonía.",
+   "C": "Isquemia miocárdica.",
+   "D": "Problemática social."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de las intervenciones siguientes se considera esencial en el abordaje del síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "Mantener la saturación de oxígeno por encima del 90%.",
+   "B": "Iniciar un tratamiento antibiótico de manera precoz.",
+   "C": "Administrar un tratamiento con corticoides sistémicos.",
+   "D": "Optimizar la broncodilatación."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Entre las pruebas básicas hospitalarias, la GesEPOC considera la radiografía del tórax, el electrocardiograma, la gasometría arterial y la analítica (hemograma y bioquímica estándar). ¿Cuál de los biomarcadores básicos siguientes hay que incluir para el síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "Proteína C reactiva.",
+   "B": "Pro-BNP.",
+   "C": "Procalcitonina.",
+   "D": "Dímero-D."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: La escala PESI (pulmonary embolism severity index) considera que ciertas comorbilidades aumentan la gravedad del tromboembolismo pulmonar. Señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Cáncer.",
+   "B": "Diabetes mellitus.",
+   "C": "Insuficiencia cardiaca.",
+   "D": "EPOC."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Con cuál de los siguientes parámetros gasométricos se recomienda iniciar un tratamiento de ventilación mecánica no invasiva?",
+  "opciones": {
+   "A": "PaO2 > 60 mmHg.",
+   "B": "pH < 7,35.",
+   "C": "pCO2 < 45 mmHg.",
+   "D": "PaO2 < 60 mmHg."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Con PCR de 20,2 y patrón intersticial difuso en la radiografía de tórax con aumento de densidad en lóbulos medio e inferior derechos, señale la afirmación correcta:",
+  "opciones": {
+   "A": "Está indicado iniciar un tratamiento con antibióticos.",
+   "B": "Informa de un parámetro de inflamación que requiere un tratamiento con corticoides.",
+   "C": "Es un parámetro que indica una agudización muy grave.",
+   "D": "No es necesaria la profilaxis antitrombótica."
+  },
+  "respuesta_correcta": "A"
+ }
+]

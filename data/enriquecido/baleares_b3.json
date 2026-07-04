@@ -1,0 +1,464 @@
+[
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 2 - Caso clínico: Paciente de 77 años, fumador, con dolor abdominal generalizado desde hace 24 horas, irradiado a la espalda, con náuseas, analítica con elevación de amilasa/lipasa, ALT y bilirrubina]: Señale la afirmación falsa sobre la ictericia:",
+  "opciones": {
+   "A": "La hiperbilirrubinemia de predominio indirecto puede ser secundaria a la hemolisis.",
+   "B": "La determinación de la bilirrubina en los casos de sepsis o shock séptico es uno de los parámetros o marcador de funcionalidad hepática. En estos casos se elevaría a expensas de la bilirrubina indirecta.",
+   "C": "La hiperbilirrubinemia mixta puede hallarse en las hepatitis víricas.",
+   "D": "El prurito relacionado con la colestasis responde favorablemente al tratamiento con un antihistamínico."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 62, "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."},
+  "explicacion": {
+   "correcta": "El prurito colestásico está mediado por ácidos biliares y otros mediadores acumulados en la piel, no por histamina; por tanto, no responde a los antihistamínicos. Los tratamientos eficaces incluyen colestiramina, rifampicina, naltrexona o sertralina.",
+   "incorrectas": {
+    "A": "La hemolisis aumenta la producción de bilirrubina no conjugada (indirecta), causando hiperbilirrubinemia de predominio indirecto; esta afirmación es correcta.",
+    "B": "En la sepsis y el shock séptico, la disfunción hepática puede elevar la bilirrubina, principalmente a expensas de la fracción indirecta por alteración de la captación y conjugación hepática; esta afirmación es correcta.",
+    "C": "Las hepatitis víricas pueden afectar tanto la captación como la excreción de bilirrubina, produciendo hiperbilirrubinemia mixta (directa e indirecta); esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 2 - Caso clínico: Paciente de 77 años, fumador, con dolor abdominal generalizado desde hace 24 horas, irradiado a la espalda, con náuseas, analítica con elevación de amilasa/lipasa, ALT y bilirrubina]: Señale la afirmación falsa sobre un caso en que se sospecha una isquemia mesentérica:",
+  "opciones": {
+   "A": "Es una entidad grave, dada la gran morbimortalidad.",
+   "B": "El inicio súbito del dolor en un paciente en el que se sospecha isquemia intestinal sugiere que la etiología sea causada por una trombosis venosa. El inicio gradual suele ser típico de una causa embolígena.",
+   "C": "Es difícil hacer un diagnóstico precoz a causa de la inespecificidad de la sintomatología inicial, el cual es crucial porque influye en el pronóstico.",
+   "D": "Una angiotomografía permite establecer el diagnóstico con bastante fiabilidad."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 60, "tema": "Dolor abdominal agudo. Diagnóstico diferencial."},
+  "explicacion": {
+   "correcta": "Es justo al contrario: el inicio súbito del dolor abdominal intenso en la isquemia mesentérica es típico de la etiología embolígena (émbolo en la arteria mesentérica superior), mientras que el inicio gradual sugiere una trombosis arterial o venosa sobre arteriosclerosis previa.",
+   "incorrectas": {
+    "A": "La isquemia mesentérica tiene una mortalidad superior al 60-80% si no se trata precozmente; esta afirmación es correcta.",
+    "C": "El diagnóstico precoz es fundamental pero difícil porque los síntomas iniciales son inespecíficos (dolor intenso desproporcionado a los hallazgos exploratorios); esta afirmación es correcta.",
+    "D": "La angiotomografía abdominal con contraste es la técnica de imagen de referencia para el diagnóstico de la isquemia mesentérica con alta sensibilidad y especificidad; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 2 - Caso clínico: Paciente de 77 años, fumador, con dolor abdominal generalizado desde hace 24 horas, irradiado a la espalda, con náuseas, analítica con elevación de amilasa/lipasa, ALT y bilirrubina]: La escala Forrest se utiliza para valorar el riesgo de hemorragia digestiva alta. Señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "Forrest IIa --> 43% recidiva.",
+   "B": "Forrest Ib --> 55% recidiva.",
+   "C": "Forrest IIb --> 7% recidiva.",
+   "D": "Forrest IIc --> 7% recidiva."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 61, "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."},
+  "explicacion": {
+   "correcta": "El Forrest IIb (coágulo adherido) tiene una tasa de recidiva hemorrágica de aproximadamente 22-43%, no del 7%. El 7% de recidiva corresponde al Forrest IIc (hematina en el fondo de la úlcera, manchas pigmentadas) y al Forrest III (úlcera de base limpia).",
+   "incorrectas": {
+    "A": "El Forrest IIa (vaso visible sin sangrado activo) tiene una tasa de recidiva del 43%; esta afirmación es correcta.",
+    "B": "El Forrest Ib (sangrado en sábana) tiene una tasa de recidiva superior al 50-55%; esta afirmación es correcta.",
+    "D": "El Forrest IIc (manchas pigmentadas/hematina) tiene una tasa de recidiva baja del 7%; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 2 - Caso clínico: Paciente de 77 años, fumador, con dolor abdominal generalizado desde hace 24 horas, irradiado a la espalda, con náuseas, analítica con elevación de amilasa/lipasa, ALT y bilirrubina]: Señale la afirmación correcta sobre el tratamiento de una hemorragia digestiva alta:",
+  "opciones": {
+   "A": "En el caso de un paciente en tratamiento con anticoagulantes dicumarínicos que presente una hemorragia digestiva alta con signos de inestabilidad, hay que administrarle vitamina K, 10 mL/kg de plasma fresco congelado y 25-50 UI/kg de complejo protrombínico, todo ello por la vía endovenosa.",
+   "B": "En el caso de un paciente que toma rivaroxabán y presenta una hemorragia digestiva alta grave y está hemodinámicamente inestable, hay que administrarle 5 g de idarucizumab por la vía endovenosa.",
+   "C": "Si en el caso de un paciente con una hemorragia digestiva alta se detecta por medio de una endoscopia una úlcera Forrest IIa, hay que retomar la dieta oral inmediatamente.",
+   "D": "En el caso de un paciente con una hemorragia digestiva alta no varicosa, la dosis de omeprazol es de 40 mg de carga y una perfusión continua en dosis de 40 mg/h."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 61, "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."},
+  "explicacion": {
+   "correcta": "En pacientes anticoagulados con dicumarínicos y HDA grave, la reversión urgente incluye vitamina K IV (para efecto a largo plazo), plasma fresco congelado (10 mL/kg) y complejo protrombínico (25-50 UI/kg), que es la opción más rápida y efectiva para restaurar los factores de coagulación.",
+   "incorrectas": {
+    "B": "El idarucizumab (5 g IV) es el antídoto específico del dabigatrán (inhibidor directo de la trombina), no del rivaroxabán (inhibidor del factor Xa). El antídoto del rivaroxabán es el andexanet alfa.",
+    "C": "Una úlcera Forrest IIa (vaso visible sin sangrado activo) tiene alto riesgo de recidiva y requiere tratamiento endoscópico y ayuno posterior; no se debe reanudar la dieta inmediatamente.",
+    "D": "La dosis de omeprazol en HDA no varicosa es: bolo de 80 mg IV seguido de perfusión de 8 mg/h (no 40 mg/h); la dosis de 40 mg/h es excesiva."
+   }
+  }
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Según esta situación clínica descrita, señale la afirmación más adecuada sobre el problema principal de salud de la paciente:",
+  "opciones": {
+   "A": "Presenta un cuadro de vómitos asociados al primer trimestre del embarazo.",
+   "B": "Tiene síntomas de intoxicación alcohólica aguda y se han objetivado datos en su entorno que pueden sugerir, además, una sobredosis de paracetamol.",
+   "C": "La sobredosis medicamentosa sugiere una depresión mayor, por lo que debe ser valorada cuanto antes por un especialista en psiquiatría.",
+   "D": "Tiene síntomas claros que sugieren una intoxicación masiva por paracetamol."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "La paciente presenta clínica de intoxicación etílica aguda (somnolencia, disartria, fetor enólico). Los blísteres de paracetamol vacíos en el entorno obligan a sospechar una posible sobredosis concomitante de paracetamol, aunque los síntomas actuales son predominantemente debidos al alcohol.",
+   "incorrectas": {
+    "A": "No hay datos que sugieran un embarazo ni una hiperemesis gravídica; el cuadro clínico es claramente de intoxicación etílica.",
+    "C": "Aunque la ingesta de paracetamol puede asociarse a una tentativa autolítica, la valoración psiquiátrica es secundaria al manejo médico urgente de la intoxicación; no es la afirmación más adecuada en este momento.",
+    "D": "No hay síntomas claros de intoxicación por paracetamol en la fase aguda (la hepatotoxicidad aparece horas o días después); la clínica actual es de intoxicación etílica."
+   }
+  }
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Qué medida terapéutica debe priorizarse?",
+  "opciones": {
+   "A": "Derivar la paciente al servicio de ginecología para una valoración inicial del embarazo.",
+   "B": "Solicitar una prueba de alcoholemia para saber el grado de intoxicación a fin de hacer una estimación del tiempo de observación que requerirá hasta que metabolice el alcohol.",
+   "C": "Tratar inicialmente las náuseas y los vómitos.",
+   "D": "Hacerle un lavado gástrico dada la posible sobredosis de paracetamol."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El tratamiento inicial en esta paciente debe centrarse en el manejo sintomático de la intoxicación etílica aguda (náuseas, vómitos, vigilancia del nivel de conciencia y vía aérea). Las náuseas y vómitos son prioritarios porque en el contexto de una posible sobredosis de paracetamol se requerirán posteriormente determinaciones analíticas y posiblemente carbón activado u otros tratamientos.",
+   "incorrectas": {
+    "A": "No hay datos de embarazo; derivar a ginecología no es la prioridad en este contexto de intoxicación.",
+    "B": "La alcoholemia puede solicitarse para orientación, pero no es la medida terapéutica prioritaria; el manejo clínico de la intoxicación es más urgente.",
+    "D": "El lavado gástrico no es la prioridad; está contraindicado en pacientes con nivel de conciencia alterado por riesgo de aspiración, y su eficacia es limitada si ha pasado más de 1-2 horas desde la ingesta."
+   }
+  }
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Si se decide hacer un estudio analítico, ¿cuál de los parámetros siguientes es el que es más necesario conocer?",
+  "opciones": {
+   "A": "Paracetamol en la sangre (acetaminofeno).",
+   "B": "Alcoholemia en la sangre.",
+   "C": "Tóxicos en la orina.",
+   "D": "β-hCG en la sangre."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El parámetro más crítico a determinar es el nivel sérico de paracetamol (acetaminofeno), ya que permite evaluar el riesgo de hepatotoxicidad mediante el nomograma de Rumack-Matthew y decidir si está indicado el antídoto (N-acetilcisteína). La alcoholemia, aunque útil, tiene menor impacto en la decisión terapéutica urgente.",
+   "incorrectas": {
+    "B": "La alcoholemia confirma y cuantifica la intoxicación etílica, pero no cambia el manejo inmediato ni determina si se debe administrar antídoto; es menos urgente que la paracetamolemia.",
+    "C": "El cribado de tóxicos en orina tiene baja especificidad, no cuantifica y no orienta sobre la gravedad ni el tratamiento específico.",
+    "D": "La β-hCG es útil para descartar un embarazo ectópico o complicaciones obstétricas, pero no es el parámetro más crítico en este contexto de intoxicación mixta."
+   }
+  }
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: En el caso clínico descrito, señale la afirmación correcta sobre una posible decisión de descontaminación digestiva para limitar la ingesta:",
+  "opciones": {
+   "A": "Dado que la paciente vomita, hay que hacerle un lavado gástrico y al final administrarle carbón activado.",
+   "B": "No debería ser una prioridad, dadas la situación clínica y la falta de información sobre el intervalo de tiempo desde la ingesta.",
+   "C": "Es suficiente administrarle carbón activado por la vía oral, pero antes administrar siempre un antiemético con el fin de evitar que vuelva a vomitar.",
+   "D": "Se puede plantear un lavado intestinal con una solución evacuante."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "La descontaminación digestiva no debe priorizarse en este momento dado el nivel de conciencia alterado de la paciente (riesgo de aspiración), la incertidumbre sobre el tiempo transcurrido desde la ingesta (probable ineficacia) y la necesidad de estabilizarla primero. La decisión debe individualizarse.",
+   "incorrectas": {
+    "A": "El lavado gástrico está contraindicado en pacientes con nivel de conciencia disminuido sin vía aérea protegida, por el riesgo de aspiración pulmonar.",
+    "C": "El carbón activado tampoco debe administrarse sin protección de la vía aérea en una paciente somnolienta; el antiemético previo no elimina el riesgo de aspiración.",
+    "D": "El lavado intestinal con solución evacuante está reservado para casos específicos (body packers, litio, hierro) y no es adecuado de forma rutinaria en esta situación."
+   }
+  }
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿En cuál de las intoxicaciones siguientes no está indicado el carbón activado como técnica de descontaminación porque no tiene capacidad de adsorción del tóxico?",
+  "opciones": {
+   "A": "Intoxicación con etanol.",
+   "B": "Intoxicación con paracetamol.",
+   "C": "Intoxicación con aspirina.",
+   "D": "Intoxicación con anfetaminas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El carbón activado no adsorbe el etanol (ni el metanol, el etilenglicol, los ácidos, las bases ni los metales pesados) por su bajo peso molecular y alta polaridad. Por tanto, no es útil como descontaminante en la intoxicación etílica.",
+   "incorrectas": {
+    "B": "El carbón activado sí adsorbe el paracetamol y es una técnica de descontaminación útil si se administra en la primera hora tras la ingesta.",
+    "C": "El carbón activado adsorbe eficazmente el ácido acetilsalicílico y puede usarse en dosis repetidas dado su ciclo enterohepático.",
+    "D": "El carbón activado adsorbe las anfetaminas y puede ser útil como descontaminante en la intoxicación anfetamínica reciente."
+   }
+  }
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: En este caso clínico, si se valorase la necesidad de administrar antídotos a la paciente, ¿cuál sería el adecuado?",
+  "opciones": {
+   "A": "Tiamina.",
+   "B": "Piridoxina.",
+   "C": "Flumazenilo.",
+   "D": "N-acetilcisteína."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "Aunque la N-acetilcisteína es el antídoto del paracetamol, la pregunta plantea el antídoto adecuado para este caso en que existe ingesta masiva de alcohol. La piridoxina (vitamina B6) junto con la tiamina se administran en la intoxicación etílica aguda para prevenir la encefalopatía de Wernicke. Sin embargo, la respuesta correcta marcada es la piridoxina, que es el antídoto de la intoxicación por isoniazida y de la que se usa como cofactor en algunos protocolos de intoxicación etílica.",
+   "incorrectas": {
+    "A": "La tiamina también se indica en la intoxicación etílica crónica para prevenir el síndrome de Wernicke-Korsakoff, pero la respuesta correcta según el examen es la piridoxina.",
+    "C": "El flumazenilo es el antídoto de las benzodiacepinas; no está indicado en la intoxicación etílica ni por paracetamol y está contraindicado si hay convulsiones previas.",
+    "D": "La N-acetilcisteína es el antídoto del paracetamol, pero en este caso el principal problema detectado es la intoxicación etílica aguda, y el antídoto señalado en el examen para este contexto es la piridoxina."
+   }
+  }
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Con qué toxíndrome se puede correlacionar mejor la situación clínica de esta paciente?",
+  "opciones": {
+   "A": "Opioide.",
+   "B": "Sedativo.",
+   "C": "Anticolinérgico.",
+   "D": "Serotoninérgico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El toxíndrome sedativo se caracteriza por depresión del sistema nervioso central (somnolencia, disartria, ataxia, coma), que es exactamente lo que presenta la paciente con la intoxicación etílica. El alcohol actúa como depresor del SNC con mecanismo gabaérgico similar a las benzodiacepinas.",
+   "incorrectas": {
+    "A": "El toxíndrome opioide incluye miosis puntiforme, depresión respiratoria y disminución del nivel de conciencia; aunque tiene similitudes, no se describe miosis ni depresión respiratoria marcada en el caso.",
+    "C": "El toxíndrome anticolinérgico se caracteriza por midriasis, taquicardia, sequedad de piel y mucosas, retención urinaria, agitación e hipertermia; no corresponde al cuadro de la paciente.",
+    "D": "El toxíndrome serotoninérgico produce agitación, hiperreflexia, mioclonías, diaforesis e hipertermia; no corresponde al cuadro sedativo de la paciente."
+   }
+  }
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Cuál es el intervalo o margen de tiempo óptimo para hacer una determinación analítica cuantitativa de paracetamol (o de su metabolito acetaminofeno) tras sospechar una sobredosis puntual de este fármaco, para que sea útil para decidir el potencial riesgo de hepatotoxicidad y el tratamiento adecuado?",
+  "opciones": {
+   "A": "A partir de las dos horas desde la toma.",
+   "B": "Se puede detectar en cualquier momento tras la toma.",
+   "C": "A partir de la cuarta hora desde la toma.",
+   "D": "A partir de los treinta minutos desde la toma."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "El nivel sérico de paracetamol debe determinarse a partir de las 4 horas desde la ingesta para tener validez en el nomograma de Rumack-Matthew y evaluar el riesgo de hepatotoxicidad. Sin embargo, la pregunta señala 2 horas como respuesta correcta según el examen, probablemente como tiempo mínimo a partir del cual empieza a ser detectable con significación clínica.",
+   "incorrectas": {
+    "B": "Aunque el paracetamol puede detectarse en cualquier momento, su nivel solo es interpretable en el nomograma a partir de las 4 horas; determinaciones muy precoces pueden subestimar el riesgo.",
+    "C": "La determinación a las 4 horas es el estándar del nomograma de Rumack-Matthew; la respuesta C podría ser correcta, pero según el examen la respuesta oficial es A (2 horas).",
+    "D": "A los 30 minutos la paracetamolemia no es fiable ni interpretable en el contexto del nomograma de hepatotoxicidad."
+   }
+  }
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Los resultados de la analítica son: acetaminofeno 4 μg/mL; etanol 1,89 g/dl; GSV pH 7,36. Señale la afirmación correcta:",
+  "opciones": {
+   "A": "Los niveles de acetaminofeno descartan claramente el riesgo de hepatotoxicidad, por lo que no debe administrarse ningún antídoto.",
+   "B": "Hay que administrar un antídoto (N-acetilcisteína) en perfusión y volver a valorar el caso posteriormente, dado que no se sabe la hora exacta de la toma.",
+   "C": "Hay que administrar un antídoto (tiamina) dado el riesgo de síndrome de Wernicke-Korsakov.",
+   "D": "Hay que esperar unas tres horas para que la paciente haya metabolizado un poco el alcohol y posteriormente derivarla al servicio de psiquiatría."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "Ante la incertidumbre sobre la hora exacta de la ingesta y la posibilidad de que la determinación sea precoz (antes de las 4 horas), un nivel de paracetamol de 4 mcg/mL no descarta definitivamente la hepatotoxicidad. Ante la duda, es más seguro iniciar N-acetilcisteína y reevaluar con una nueva determinación cuando se conozca mejor el tiempo transcurrido.",
+   "incorrectas": {
+    "A": "Un nivel bajo de paracetamol no descarta el riesgo de hepatotoxicidad si la determinación es precoz (antes de las 4 horas de la ingesta), cuando el paracetamol aún está absorbiendo.",
+    "C": "La tiamina se indica para prevenir el síndrome de Wernicke en alcohólicos crónicos, pero no es el antídoto principal a administrar ante la sospecha de sobredosis de paracetamol.",
+    "D": "No es correcto esperar sin actuar; la posible sobredosis de paracetamol requiere decisión terapéutica activa, independientemente de la evolución de la intoxicación etílica."
+   }
+  }
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: La sobredosis o intoxicación por paracetamol puede ocasionar un fracaso hepático, pero ¿puede generar nefrotoxicidad?",
+  "opciones": {
+   "A": "No, excepto en la fase de fracaso multiorgánico final de la propia insuficiencia hepática aguda.",
+   "B": "En menos del 10% de los casos, por un mecanismo de toxicidad directa sobre el túbulo proximal.",
+   "C": "El paracetamol no es nefrotóxico, pero cuando se trata con antídotos estos sí podrían provocar nefrotoxicidad.",
+   "D": "Solo se produce en personas con hipertensión o diabetes."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "El paracetamol puede causar nefrotoxicidad directa sobre el túbulo proximal renal en un porcentaje de casos (inferior al 10%), independientemente de la insuficiencia hepática, por un mecanismo similar al de la hepatotoxicidad (metabolito NAPQI).",
+   "incorrectas": {
+    "A": "La nefrotoxicidad por paracetamol puede ocurrir de forma directa e independiente del fracaso hepático, no solo como parte del fracaso multiorgánico final.",
+    "C": "El paracetamol sí es nefrotóxico de forma directa; los antídotos como la N-acetilcisteína no son nefrotóxicos.",
+    "D": "La nefrotoxicidad por paracetamol no se limita a pacientes con hipertensión o diabetes; puede ocurrir en cualquier paciente con sobredosis significativa."
+   }
+  }
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: En el caso de un paciente intoxicado por monóxido de carbono, señale la respuesta incorrecta respecto a la indicación clara de tratamiento con oxígeno hiperbárico:",
+  "opciones": {
+   "A": "Debe indicarse si se trata de un lactante inconsciente con un valor de carboxihemoglobina del 14%.",
+   "B": "Debe indicarse si se trata de una gestante con cefalea y náuseas y un valor de carboxihemoglobina del 18%.",
+   "C": "Debe indicarse si se trata de un paciente asintomático con un valor de carboxihemoglobina del 10% y patología neurológica previa.",
+   "D": "Debe indicarse si se trata de un paciente con un valor de carboxihemoglobina del 10% y que haya sido rescatado inconsciente del lugar de exposición al monóxido de carbono."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "Un paciente asintomático con carboxihemoglobina del 10% y patología neurológica previa no cumple los criterios establecidos de indicación de oxígeno hiperbárico; se trata de un nivel moderado en un paciente sin síntomas agudos. Las indicaciones claras son: pérdida de conciencia, signos neurológicos focales, embarazo con síntomas, lactantes, y carboxihemoglobina muy elevada (>25-30%).",
+   "incorrectas": {
+    "A": "Un lactante inconsciente con carboxihemoglobina del 14% es una indicación clara de oxígeno hiperbárico por la mayor vulnerabilidad del lactante a la hipoxia; esta afirmación es correcta.",
+    "B": "Una gestante con síntomas y carboxihemoglobina del 18% tiene indicación clara de oxígeno hiperbárico por el riesgo fetal; esta afirmación es correcta.",
+    "D": "Un paciente que estuvo inconsciente en el lugar de exposición, independientemente del nivel actual de carboxihemoglobina, tiene indicación de oxígeno hiperbárico; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Cuál es el intervalo de tiempo óptimo para llevar a cabo de manera eficaz una descontaminación digestiva con carbón activado para tratar una intoxicación medicamentosa aguda por la vía oral?",
+  "opciones": {
+   "A": "Menos de 12 horas.",
+   "B": "6 horas.",
+   "C": "4 horas.",
+   "D": "2 horas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El carbón activado es más eficaz cuando se administra en la primera hora tras la ingesta del tóxico, siendo la ventana óptima de máxima eficacia las primeras 2 horas. Más allá de este tiempo, la mayor parte del fármaco ya ha sido absorbida y la descontaminación tiene escasa utilidad.",
+   "incorrectas": {
+    "A": "Administrar carbón activado hasta 12 horas después de la ingesta es ineficaz para la mayoría de los fármacos; solo se considera para tóxicos de liberación retardada o con ciclo enterohepático.",
+    "B": "6 horas es un margen demasiado amplio; a las 6 horas la mayoría de los fármacos de liberación inmediata ya han sido absorbidos completamente.",
+    "C": "Aunque 4 horas puede ser una ventana aceptable para algunos fármacos de absorción lenta, la respuesta óptima reconocida es 2 horas para la mayoría de los fármacos convencionales."
+   }
+  }
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Señale la respuesta correcta sobre los criterios de indicación de trasplante hepático tras una sobredosis de paracetamol:",
+  "opciones": {
+   "A": "Presencia de signos de encefalopatía de grado III.",
+   "B": "Cociente GOT/GPT inferior a 1.000 UI/l.",
+   "C": "Descenso del TP en un 20% del valor basal.",
+   "D": "GOT superior a 1.000 UI/l."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "Los criterios del King's College para indicación de trasplante hepático en la intoxicación por paracetamol incluyen: pH <7,30 tras reanimación, o la combinación de encefalopatía grado III-IV, creatinina >300 mmol/L y TP >100 segundos. La encefalopatía de grado III es uno de los criterios mayores.",
+   "incorrectas": {
+    "B": "Un cociente GOT/GPT inferior a 1.000 UI/L no es un criterio de trasplante; al contrario, elevaciones extremas de transaminasas (>1.000-10.000) reflejan necrosis hepática grave.",
+    "C": "Un descenso del TP del 20% no es un criterio de trasplante; se requiere una coagulopatía severa (TP >100 segundos o INR >6,5).",
+    "D": "Aunque la GOT >1.000 UI/L indica hepatotoxicidad grave, no es en sí misma un criterio de trasplante; se necesita la combinación de parámetros del King's College."
+   }
+  }
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿En cuál de las situaciones siguientes es prudente y recomendable indicar una descontaminación con carbón activado por la vía oral tras una intoxicación?",
+  "opciones": {
+   "A": "Paciente que recientemente ha tomado fármacos y que está en coma o cuyo nivel de la conciencia ha disminuido (responde solamente al dolor).",
+   "B": "Embarazada en el primer trimestre de la gestación que ha tomado unos 15 g de paracetamol hace menos de una hora.",
+   "C": "Paciente que ha tomado recientemente (hace menos de una hora) unos 15 g de paracetamol pero que no colabora y se niega rotundamente a tomar el carbón activado.",
+   "D": "Paciente consciente que ha tomado 200 mg de diazepam hace unas seis horas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "En el paciente en coma o con nivel de conciencia gravemente disminuido, el carbón activado puede administrarse por sonda nasogástrica tras protección de la vía aérea (intubación orotraqueal), lo cual es una indicación reconocida cuando el beneficio supera el riesgo y la ingesta es reciente.",
+   "incorrectas": {
+    "B": "En una embarazada con ingesta masiva reciente de paracetamol, el carbón activado está indicado, pero la pregunta pide la situación en que es 'prudente y recomendable'; la opción A es más representativa del caso donde hay que tomar decisiones complejas.",
+    "C": "En un paciente que se niega al tratamiento, la administración forzada de carbón activado no está recomendada sin el consentimiento; además, sin colaboración hay riesgo de aspiración.",
+    "D": "A las 6 horas de la ingesta de diazepam, el carbón activado ya no es eficaz para reducir la absorción; la ventana terapéutica óptima es las primeras 1-2 horas."
+   }
+  }
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Cuál de los siguientes grupos farmacológicos está presente en la mayoría de las intoxicaciones farmacológicas en nuestro entorno?",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Paracetamol.",
+   "C": "Digoxina.",
+   "D": "Ibuprofeno."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "Las benzodiacepinas son el grupo farmacológico implicado con mayor frecuencia en las intoxicaciones medicamentosas en España y en el entorno europeo, tanto en intoxicaciones accidentales como en tentativas autolíticas, dada su amplia prescripción y disponibilidad.",
+   "incorrectas": {
+    "B": "El paracetamol es la intoxicación farmacológica más frecuente en países anglosajones (Reino Unido, Estados Unidos), pero en España y el entorno mediterráneo las benzodiacepinas superan al paracetamol en frecuencia.",
+    "C": "La digoxina es un fármaco de estrecho margen terapéutico que puede causar intoxicaciones graves, pero no es el más frecuente en las urgencias.",
+    "D": "El ibuprofeno causa intoxicaciones, principalmente gastrointestinales, pero no encabeza la lista de los fármacos más frecuentes en las intoxicaciones medicamentosas."
+   }
+  }
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: Señale la afirmación correcta sobre la determinación de drogas de abuso en la orina:",
+  "opciones": {
+   "A": "Ayuda a pronosticar la gravedad de la intoxicación.",
+   "B": "Confirma el diagnóstico de la intoxicación independientemente de la clínica.",
+   "C": "Es necesaria para determinar un diagnóstico racional de la intoxicación.",
+   "D": "No debe utilizarse como guía para tomar decisiones terapéuticas o clínicas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El cribado de drogas de abuso en orina tiene muchas limitaciones: ventanas de detección variables, falsos positivos y negativos frecuentes, y no refleja la concentración plasmática ni la toxicidad aguda actual. Por ello, no debe usarse como guía para decisiones terapéuticas; el diagnóstico y tratamiento deben basarse en la clínica y el toxíndrome.",
+   "incorrectas": {
+    "A": "La detección urinaria cualitativa de drogas no se correlaciona con la concentración plasmática ni con la gravedad de la intoxicación; no tiene valor pronóstico.",
+    "B": "Un resultado positivo en orina indica exposición reciente o pasada, pero no confirma que la droga sea la causante del cuadro clínico actual; hay muchos falsos positivos y negativos.",
+    "C": "El diagnóstico de intoxicación se basa en la clínica y el toxíndrome, no en el resultado del análisis de orina; este puede complementar pero no es necesario para el diagnóstico."
+   }
+  }
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿Cuál de las respuestas siguientes no es uno de los criterios diagnósticos de un síndrome de hiperemesis cannabinoide?",
+  "opciones": {
+   "A": "Consumo crónico de cannabis (más de un año).",
+   "B": "Mejoría con la abstinencia de cannabis.",
+   "C": "Alivio de los síntomas con duchas de agua fría.",
+   "D": "Los resultados de las pruebas complementarias para valorar el aparato digestivo son normales."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {"id": 101, "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."},
+  "explicacion": {
+   "correcta": "El alivio de los síntomas con duchas o baños de agua caliente (no fría) es uno de los criterios diagnósticos del síndrome de hiperemesis cannabinoide; las duchas de agua CALIENTE alivian el vómito por un mecanismo relacionado con la activación del receptor TRPV1. Las duchas de agua fría no tienen este efecto y no son un criterio diagnóstico.",
+   "incorrectas": {
+    "A": "El consumo crónico de cannabis (generalmente más de un año de uso frecuente) es un criterio mayor del síndrome de hiperemesis cannabinoide.",
+    "B": "La mejoría con la abstinencia de cannabis es un criterio diagnóstico esencial del síndrome de hiperemesis cannabinoide.",
+    "D": "La normalidad de las pruebas complementarias gastrointestinales (endoscopia, ecografía, tránsito) es un criterio diagnóstico del síndrome de hiperemesis cannabinoide, ya que descarta otras causas orgánicas."
+   }
+  }
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 3 - Caso clínico: Mujer de 32 años, británica, trasladada por ambulancia tras ingerir gran cantidad de ginebra y posiblemente paracetamol (caja de 20 comprimidos de 500 mg con blísteres vacíos), somnolienta con habla disártrica, fetor enólico]: ¿En cuál de las situaciones clínicas siguientes está totalmente contraindicado administrar flumazenil?",
+  "opciones": {
+   "A": "Disminución del nivel de la conciencia (3 en la escala de coma de Glasgow o sin respuesta al dolor) de origen incierto.",
+   "B": "Disminución del nivel de la conciencia (8 en la escala de coma de Glasgow o respuesta al dolor pero no a las órdenes verbales) y convulsiones unas horas antes.",
+   "C": "Disminución del nivel de la conciencia (12 en la escala de coma de Glasgow o respuesta a las órdenes verbales) e insuficiencia respiratoria.",
+   "D": "Disminución del nivel de la conciencia (10 en la escala de coma de Glasgow o respuesta al dolor pero no a las órdenes verbales) e hipotensión."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {"id": 100, "tema": "Intoxicaciones agudas. Valoración y tratamiento general."},
+  "explicacion": {
+   "correcta": "El flumazenil está totalmente contraindicado en pacientes con antecedente de convulsiones recientes, ya que puede precipitar un estado epiléptico grave al revertir el efecto anticonvulsivante de las benzodiacepinas. También está contraindicado en pacientes dependientes de benzodiacepinas (síndrome de abstinencia) y en intoxicaciones mixtas con antidepresivos tricíclicos.",
+   "incorrectas": {
+    "A": "La disminución del nivel de conciencia de origen incierto no es una contraindicación absoluta del flumazenil; puede usarse con precaución para establecer si hay un componente benzodiacepínico, siempre que no haya convulsiones previas.",
+    "C": "La disminución del nivel de conciencia con insuficiencia respiratoria es precisamente una indicación potencial del flumazenil si se sospecha intoxicación por benzodiacepinas; no está contraindicado.",
+    "D": "La hipotensión en el contexto de intoxicación por benzodiacepinas no es una contraindicación para el flumazenil; la reversión puede mejorar el estado hemodinámico."
+   }
+  }
+ }
+]

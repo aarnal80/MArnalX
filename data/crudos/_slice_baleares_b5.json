@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de los diagnósticos siguientes es el más probable?",
+  "opciones": {
+   "A": "Neumonía viral por el SARS-CoV-2 (COVID-19).",
+   "B": "Síndrome de agudización de la EPOC con neumonía.",
+   "C": "Insuficiencia cardiaca aguda.",
+   "D": "Enfermedad tromboembólica pulmonar."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación falsa respecto a los parámetros iniciales de la ventilación mecánica no invasiva en modo BiPAP:",
+  "opciones": {
+   "A": "Los valores ideales de IPAP se sitúan entre 15 y 20 cm de H2O.",
+   "B": "Los valores iniciales de IPAP se sitúan entre 8 y 12 cm de H2O.",
+   "C": "Se aumenta la IPAP hasta conseguir disminuir la frecuencia respiratoria (< 25 rpm) y un volumen tidal entre 3 y 5 mL/kg de peso ideal.",
+   "D": "Los niveles habituales de EPAP oscilan entre 4 y 8 cm de H2O."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿En qué caso no está indicada la profilaxis tromboembólica en el síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "En las agudizaciones graves.",
+   "B": "En las agudizaciones muy graves.",
+   "C": "En las agudizaciones moderadas con un paciente activo.",
+   "D": "En las agudizaciones moderadas con un paciente inactivo."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación falsa sobre la ventilación mecánica no invasiva:",
+  "opciones": {
+   "A": "Debe aplicarse sin demora a los pacientes con edema agudo de pulmón cardiogénico o insuficiencia cardiaca hipertensiva que presenten trabajo respiratorio importante (FR > 25 rpm y/o SpO2 < 90%).",
+   "B": "Está indicada en los casos de edema agudo de pulmón en modo CPAP.",
+   "C": "Está indicada en los casos de edema agudo de pulmón en pacientes de EPOC en modo BiPAP.",
+   "D": "Consigue mejorar la función ventricular izquierda al aumentar la postcarga."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación correcta sobre los parámetros compensatorios del equilibrio ácido-base:",
+  "opciones": {
+   "A": "En la alcalosis respiratoria, por cada descenso de 10 mmHg de la pCO2 la concentración de HCO3- disminuye 6 mEq/L si el trastorno es agudo.",
+   "B": "En la alcalosis respiratoria, por cada descenso de 10 mmHg de la pCO2 la concentración de HCO3- disminuye 2 mEq/L si el trastorno es crónico.",
+   "C": "En la acidosis respiratoria, por cada aumento de 10 mmHg de la pCO2 la concentración de HCO3- aumenta 5 mEq/L si el trastorno es agudo.",
+   "D": "En la acidosis respiratoria, por cada aumento de 10 mmHg de la pCO2 la concentración de HCO3- aumenta 3,5 mEq/L si el trastorno es crónico."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: Señale la afirmación correcta:",
+  "opciones": {
+   "A": "Polipnea: inspiración profunda y prolongada.",
+   "B": "Hiperpnea: disnea que se produce en la posición de decúbito supino.",
+   "C": "Platipnea: disnea que se produce en la posición de decúbito lateral.",
+   "D": "Trepopnea: disnea que se produce en la posición erecta o vertical y que se alivia en la posición de decúbito."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál de los parámetros siguientes no se incluye en el índice DECAF que se recomienda utilizar para valorar el riesgo de mortalidad en el síndrome de agudización de la EPOC?",
+  "opciones": {
+   "A": "Disnea.",
+   "B": "Leucocitosis.",
+   "C": "Consolidación.",
+   "D": "Fibrilación auricular."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 4 - Caso clínico: Hombre de 62 años, exfumador, con disnea progresiva, expectoración amarillenta, en estudio por el servicio de cardiología, con fluticasona/vilanterol de tratamiento habitual. SatO2 92%, crepitantes secos diseminados]: ¿Cuál es el parámetro clínico que da más valor a la puntuación de la escala PESI?",
+  "opciones": {
+   "A": "Frecuencia respiratoria.",
+   "B": "Edad.",
+   "C": "Cáncer.",
+   "D": "Alteración del estado mental."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la respuesta correcta sobre la primera actuación que deben llevar a cabo los sanitarios de la ambulancia de SVA en este caso (hombre de 43 años víctima de accidente de circulación a 110 km/h con signos de hipoperfusión distal, respuesta confusa, obedece órdenes verbales):",
+  "opciones": {
+   "A": "Canalizar dos vías al paciente y transfundirle cristaloides en bolo a razón de 500 mL en 30 minutos, dado que presenta signos evidentes de shock.",
+   "B": "Iniciar la valoración primaria para descartar posibles lesiones potencialmente mortales para el paciente.",
+   "C": "Ordenar al equipo de rescate que asegure la zona antes de iniciar la asistencia y utilizar los medios de protección individual establecidos.",
+   "D": "Ordenar la organización inmediata del traslado de la víctima dado su evidente estado de gravedad."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las respuestas siguientes no es un factor de riesgo para la identificación de un paciente con lesiones potencialmente graves y la decisión de trasladarlo al centro más adecuado?",
+  "opciones": {
+   "A": "Gran deformidad del habitáculo con necesidad de excarcelación durante más de veinte minutos.",
+   "B": "Caída de un adulto desde seis metros de altura.",
+   "C": "Evidencia de única fractura de un hueso largo.",
+   "D": "Coexistencia de fallecidos en el mismo compartimento de la víctima."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la respuesta falsa sobre la enfermedad traumática:",
+  "opciones": {
+   "A": "Actualmente es considerada una verdadera epidemia del siglo XXI dado el importante impacto que genera en los países desarrollados.",
+   "B": "En los países desarrollados, la mortalidad es significativamente superior en la franja de edad de adultos jóvenes (18-44 años).",
+   "C": "El concepto de distribución trimodal de la muerte en la enfermedad traumática hace referencia a los tres periodos en que se produce la muerte de una persona que ha sufrido un accidente. El primer periodo, conocido como «hora de oro», es aquel en el que se centran todos los esfuerzos de los programas de atención en politraumatismo grave.",
+   "D": "La estrategia en que se basan los programas de atención a pacientes politraumatizados graves es tratar primero la lesión que amenaza más la vida de la persona accidentada."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación más adecuada en relación con el caso clínico descrito (hombre de 43 años politraumatizado, clasificado como prioridad nivel I en triaje hospitalario):",
+  "opciones": {
+   "A": "Se trata de un caso de riesgo bajo, independientemente del nivel de urgencia asignado en el triaje hospitalario, y no requiere una actuación protocolizada de traumatismo grave.",
+   "B": "Se trata de un paciente con lesiones potencialmente graves que requieren una actuación protocolizada y sistematizada identificando y abordando las más graves.",
+   "C": "El paciente es un politraumatizado grave y está en shock, por lo que hay que avisar al quirófano para trasladarlo inmediatamente desde el mismo servicio de urgencias y hacerle una laparotomía exploradora.",
+   "D": "Claramente el paciente presenta lesiones graves, de modo que la primera actuación debe ser hacerle una tomografía computarizada (TC) completa para conocer el alcance de las lesiones."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa sobre el protocolo de SVA para los casos de traumatismo grave:",
+  "opciones": {
+   "A": "Es un conjunto ordenado de tareas multidisciplinarias que permite identificar a los pacientes potencialmente graves, evaluar el patrón lesional y determinar qué pruebas complementarias son necesarias para completar la evaluación, todo ello encaminado a la evaluación priorizada de las lesiones del paciente.",
+   "B": "Es prioritario identificar las lesiones graves durante la primera fase de la valoración (valoración primaria) y las menos graves en la secundaria, y deben iniciarse la reanimación y el tratamiento una vez finalizadas ambas fases.",
+   "C": "La valoración secundaria permite componer el patrón de lesiones asociadas al traumatismo con el objetivo de determinar las pruebas complementarias.",
+   "D": "Saber qué pruebas son necesarias y relevantes dependiendo de la exploración y la situación del paciente es una competencia imprescindible para todo clínico que atienda a estos pacientes."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: El nivel de conciencia de los pacientes politraumatizados se determina por medio de la escala de coma de Glasgow (CGS). Señale la respuesta correcta en relación con el caso clínico descrito (respondía de forma confusa, obedecía a las órdenes verbales abriendo los ojos):",
+  "opciones": {
+   "A": "La puntuación en la CGS es de 9 (O = 3, V = 5, M = 1).",
+   "B": "La puntuación en la CGS es de 13 (O = 3, V = 6, M = 4).",
+   "C": "La puntuación en la CGS es de 15 (O = 4, V = 5, M = 6).",
+   "D": "La puntuación en la CGS es de 13 (O = 3, V = 4, M = 6)."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación falsa en relación con el control adecuado de la vía aérea en un caso de traumatismo grave:",
+  "opciones": {
+   "A": "La causa más frecuente de obstrucción de la vía aérea es el nivel de conciencia bajo.",
+   "B": "El objetivo principal es permitir la ventilación y la oxigenación adecuadas. Si la víctima de un accidente está orientada y habla correctamente, eso indica que la vía aérea es permeable y que tiene una buena perfusión cerebral.",
+   "C": "El mal control de la vía aérea hace más difícil cualquier maniobra efectiva de reanimación posterior y aumenta la probabilidad de lesiones neurológicas irreversibles.",
+   "D": "Forma parte de las acciones que deben llevarse a cabo en la valoración secundaria."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: Señale la afirmación correcta en relación con el shock en los pacientes politraumatizados:",
+  "opciones": {
+   "A": "En el shock de grado I se estiman pérdidas entre el 30 % y el 40 % del volumen de sangre, de modo que se requiere transfusión de hemoderivados.",
+   "B": "El primer paso en el abordaje y el tratamiento del shock es reconocerlo: los signos más sensibles son la taquicardia y las características del pulso distal.",
+   "C": "La caída de la tensión arterial se produce en el shock de grado II, en que la pérdida de sangre es superior al 40 %, lo cual requiere perfusión de concentrado de hematíes, plasma y plaquetas en proporción 1:2:2.",
+   "D": "La prioridad en los casos de politraumatismo con shock hemorrágico es hacer una prueba de imagen que identifique la zona sangrante y la necesidad de intervenir quirúrgicamente."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las respuestas siguientes no es una de las lesiones que deterioran de forma significativa la ventilación a corto plazo y que deben identificarse en la valoración primaria?",
+  "opciones": {
+   "A": "Hemotórax masivo.",
+   "B": "Neumotórax a tensión.",
+   "C": "Fracturas costales múltiples.",
+   "D": "Neumotórax abierto."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de los siguientes signos ecográficos realizados en el box de reanimación de un paciente politraumatizado en decúbito supino descarta con una especificidad cercana al 100 % un neumotórax traumático del área explorada?",
+  "opciones": {
+   "A": "Presencia de deslizamiento pleural.",
+   "B": "Existencia de líneas A anterior.",
+   "C": "Presencia de líneas B anterior.",
+   "D": "Visualización del pulso del pulmón."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál de las escalas siguientes utilizadas en la enfermedad traumática predice con más exactitud el pronóstico de mortalidad?",
+  "opciones": {
+   "A": "Trauma Score Revisado (TRS).",
+   "B": "Trauma Score (TS).",
+   "C": "Injury Severity Score (ISS).",
+   "D": "Abbreviated Injury Scale (AIS)."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál es el mecanismo lesional más frecuente en la fractura cervical C1, conocida como «fractura de Jefferson»?",
+  "opciones": {
+   "A": "Hiperextensión cervical.",
+   "B": "Compresión axial.",
+   "C": "Rotación y flexión lateral.",
+   "D": "Distracción cervical."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Cuál es la sospecha más probable en el caso de un paciente politraumatizado con tensión arterial de 86/50 mmHg, frecuencia cardiaca de 45 lpm y piel caliente?",
+  "opciones": {
+   "A": "Shock hemorrágico de grado III.",
+   "B": "Shock obstructivo causado por un taponamiento cardiaco.",
+   "C": "Shock medular causado por una lesión por encima de la vértebra T5.",
+   "D": "El traumatismo torácico de alta energía le ha provocado una lesión cardiaca que ha causado un shock cardiogénico."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 5 - Traumatismo grave/Politraumatismo]: ¿Con qué signos típicos se sospecha una hipertensión intracraneal?",
+  "opciones": {
+   "A": "Nivel bajo de conciencia, bradicardia e hipertensión arterial.",
+   "B": "Nivel bajo de conciencia, taquicardia e hipertensión arterial.",
+   "C": "Amnesia retrógrada, bradicardia e hipotensión arterial.",
+   "D": "Hipertensión arterial, amnesia y taquicardia."
+  },
+  "respuesta_correcta": "A"
+ }
+]

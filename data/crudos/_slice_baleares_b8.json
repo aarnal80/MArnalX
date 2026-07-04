@@ -1,0 +1,170 @@
+[
+ {
+  "id_examen": 155,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Una de las medidas para reducir la incidencia de las infecciones relacionadas con la asistencia sanitaria es la higiene de manos. Señale en qué momento es incorrecta:",
+  "opciones": {
+   "A": "Antes de tocar al paciente.",
+   "B": "Antes de llevar a cabo una tarea limpia/aséptica.",
+   "C": "Antes del riesgo de exposición a líquidos corporales.",
+   "D": "Después del contacto con el paciente y/o su entorno."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 156,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Tras la resucitación adecuada, al cabo de tres horas el paciente presenta PAM 55 mmHg, FC 110 lpm, diuresis 0 mL, láctico 3,5 mmol. ¿En qué situación está este caso clínico?",
+  "opciones": {
+   "A": "Evolución lenta, pero favorable; el aclaramiento del ácido láctico es correcto.",
+   "B": "La situación evoluciona a shock séptico.",
+   "C": "Persistencia de la cetoacidosis diabética.",
+   "D": "Hipoperfusión asociada a sepsis."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 157,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Si se decide administrar una droga vasoactiva, ¿cuál es la de elección, entre las siguientes?",
+  "opciones": {
+   "A": "Dado que no se dispone de una vía central, no puede administrarse.",
+   "B": "Dobutamina.",
+   "C": "Vasopresina.",
+   "D": "Noradrenalina por una vía periférica."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 158,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes es una medida terapéutica adicional que puede tomarse en consideración en el contexto del shock séptico?",
+  "opciones": {
+   "A": "Vitamina C por la vía endovenosa.",
+   "B": "Inmunoglobulinas por la vía endovenosa.",
+   "C": "Corticoesteroides (40 mg de metilprednisolona cada 8 horas).",
+   "D": "Insulina para corregir la hiperglucemia."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 159,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Por medio de una prueba diagnóstica por la imagen se observa una marcada hidronefrosis derecha, litiasis ureteroyuxtavesical renal derecha de 11 mm de diámetro y distensión de la vesícula biliar sin paredes engrosadas ni presencia de litiasis en su interior. ¿Cuál de las opciones terapéuticas siguientes es correcta?",
+  "opciones": {
+   "A": "Interconsulta al servicio de urología para valorar una nefrostomía derecha.",
+   "B": "Mantener la resucitación y administrar antibióticos como se han iniciado y esperar.",
+   "C": "Interconsulta al servicio de nefrología para hemodiálisis.",
+   "D": "Interconsulta al servicio de cirugía para una colecistectomía."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 160,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Si se sospechase una colecistitis aguda en este caso clínico, ¿cuál de las respuestas siguientes no es uno de los criterios diagnósticos según la guía de Tokio de 2018?",
+  "opciones": {
+   "A": "Signos locales: signo de Murphy o masa, dolor o defensa en el hipocondrio derecho.",
+   "B": "Signos sistémicos: fiebre de menos de 37,5 °C o PCR alta o leucocitosis por encima de 10.000 células/mm3.",
+   "C": "Imagen: edema de pared de más de 5 mm, vesícula distendida, signo de Murphy radiológico, líquido perivesicular, colelitiasis.",
+   "D": "Imagen: edema de pared de menos de 5 mm, vesícula distendida, signo de Murphy radiológico, líquido perivesicular, colelitiasis."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 161,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: ¿Cuál de las respuestas siguientes no es uno de los criterios de gravedad para la colecistitis aguda de grado moderado?",
+  "opciones": {
+   "A": "Incremento de la leucocitosis de más de 18.000 células/mm3.",
+   "B": "Duración de los síntomas de más de 72 horas.",
+   "C": "Tiempo de protrombina INR < 1,5.",
+   "D": "Marcada inflamación local (colecistitis gangrenosa, absceso perivesicular, colecistitis enfisematosa)."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 162,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En este caso clínico se podría sospechar una infección por un microorganismo multirresistente. ¿Cuál es la definición de multirresistente?",
+  "opciones": {
+   "A": "Ausencia de sensibilidad al menos a un antibiótico de tres o más familias consideradas de utilidad para el tratamiento de las infecciones producidas por cada una de las especies bacterianas consideradas.",
+   "B": "Probabilidad alta de éxito terapéutico porque la exposición al agente está incrementada por el ajuste del régimen de dosificación por su concentración en lugar de la infección.",
+   "C": "Ausencia de sensibilidad a todos los antibióticos de todas las familias habituales utilizadas en el tratamiento de la bacteria considerada.",
+   "D": "Probabilidad alta de fracaso terapéutico incluso cuando hay incremento de la exposición."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 163,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En relación con los microorganismos multirresistentes hay que tener en cuenta a todos los siguientes, excepto uno. Señálelo:",
+  "opciones": {
+   "A": "Staphylococcus aureus resistente a la meticilina (SARM, MRSA por la denominación en inglés).",
+   "B": "Enterobacteria productora de betalactamasas de espectro extendido (BLEE) o de betalactamasas plasmídicas de tipo AmpC.",
+   "C": "Enterobacteria productora de carbapenemasas (EPC).",
+   "D": "Pseudomonas aeruginosa."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 164,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En los programas PROA de los hospitales se incluye a los servicios de urgencias. ¿Cuál de las respuestas siguientes no es uno de los objetivos generales de dichos programas?",
+  "opciones": {
+   "A": "Registro de todos los microorganismos multirresistentes y creación de una base de datos.",
+   "B": "Formación de un curso PROA básico dirigido a todos los adjuntos de los servicios de urgencias.",
+   "C": "Mejoría del pronóstico de los pacientes con infecciones.",
+   "D": "Reducción de la presión antibiótica y de los efectos adversos."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 165,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: El paciente del caso clínico descrito regresa al servicio de urgencias tres días después con diarrea, tos, disnea y fiebre de 39 °C. Se observa derrame pleural derecho hasta el tercio medio y condensación en el lóbulo superior derecho. Se sospecha una neumonía intrahospitalaria. Señale la afirmación correcta:",
+  "opciones": {
+   "A": "La neumonía intrahospitalaria es la segunda causa de infección nosocomial y la que presenta una tasa de mortalidad más baja.",
+   "B": "No es probable que Acinetobacter baumannii sea el microorganismo responsable.",
+   "C": "Entre las medidas para reducir la incidencia de la neumonía intrahospitalaria están optimizar la higiene oral, elevar el cabecero de la cama y la deambulación precoz.",
+   "D": "La sospecha de microorganismos multirresistentes no tiene relación con la administración de antibióticos en los 90 días previos."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 166,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la respuesta incorrecta en caso de que se hiciera una toracocentesis a este paciente:",
+  "opciones": {
+   "A": "Los valores de la glucosa en el líquido pleural inferiores a 60 mg deben orientar a los diagnósticos de empiema, proceso neoplásico, tuberculosis o artritis reumatoide.",
+   "B": "No se recomienda extraer más de 1.000 mL de una vez en la toracocentesis para evitar el edema ex vacuo o por reexpansión pulmonar.",
+   "C": "El pH en el líquido pleural inferior a 7,20 puede verse en los casos de derrame pleural paraneumónico complicado o empiema, rotura esofágica o proceso neoplásico.",
+   "D": "Un coeficiente de LDH pleural / LDH plasma superior a 0,6 es un trasudado."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 167,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: En el caso de un paciente seropositivo al VIH con carga detectable o desconocida y con factores de riesgo, ¿en qué situación no está indicada la profilaxis postexposición no ocupacional con antirretrovirales?",
+  "opciones": {
+   "A": "Relaciones anales y/o vaginales sin preservativo.",
+   "B": "Intercambio de jeringuillas con consumidores de drogas por la vía parenteral.",
+   "C": "Mordedura humana con rotura de la piel o sangrado.",
+   "D": "Pinchazo o erosión superficial con una aguja u otro objeto punzante abandonado que no ha estado en contacto con sangre recientemente."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 168,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Baleares",
+  "enunciado": "[CUESTIONARIO 7 - Sepsis/Infección urinaria complicada]: Señale la afirmación correcta sobre las infecciones de transmisión sexual:",
+  "opciones": {
+   "A": "Las lesiones de origen sifilítico (sífilis primaria) son muy dolorosas.",
+   "B": "Se recomienda hacer pruebas serológicas para detectar los virus de la hepatitis B, de la hepatitis C y de la inmunodeficiencia humana.",
+   "C": "Las infecciones de transmisión sexual con una tasa más alta de incidencia son las causadas por Neisseria gonorrhoeae, según los datos de vigilancia epidemiológica de 2019.",
+   "D": "El tratamiento empírico de elección consiste en 250 mg de ceftriaxona por la vía intramuscular y 1 g de azitromicina en dosis única por la vía oral."
+  },
+  "respuesta_correcta": "B"
+ }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 67,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En el tratamiento del dolor oncológico, señale la respuesta correcta:",
+    "opciones": {
+      "A": "La vía prioritaria es la subcutánea o intravenosa.",
+      "B": "La Codeína es un fármaco del primer escalón terapéutico.",
+      "C": "La Oxicodona tiene una potencia analgésica algo inferior a la de la Morfina.",
+      "D": "El Tapentadol es útil en el dolor nociceptivo y neuropático."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 94,
+      "tema": "Dolor agudo/crónico/oncológico"
+    },
+    "explicacion": {
+      "correcta": "El Tapentadol tiene un doble mecanismo de acción: agonismo sobre receptores opioides mu (efecto sobre dolor nociceptivo) e inhibición de la recaptación de noradrenalina (efecto sobre dolor neuropático). Esta dualidad lo hace especialmente útil en el dolor mixto nociceptivo-neuropático frecuente en oncología.",
+      "incorrectas": {
+        "A": "Según la escalera analgésica de la OMS para el dolor oncológico, la vía oral es la vía de administración prioritaria siempre que sea posible. Solo cuando no es viable se recurre a vías alternativas como la subcutánea o intravenosa.",
+        "B": "La Codeína pertenece al segundo escalón terapéutico (opioides menores o débiles), junto con el tramadol. El primer escalón está compuesto por analgésicos no opioides (AINE, paracetamol).",
+        "C": "La Oxicodona tiene una potencia analgésica aproximadamente 1,5 veces superior (no inferior) a la Morfina oral. Su ratio de conversión es de 1,5:1 (Morfina:Oxicodona) aproximadamente."
+      }
+    }
+  },
+  {
+    "id_examen": 68,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En la emesis aguda posquimioterapia del paciente oncológico, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Es la que comienza durante las primeras 24 horas de haber iniciado el ciclo de quimioterapia.",
+      "B": "El tratamiento depende de la profilaxis antiemética utilizada, de la quimioterapia administrada y del tiempo transcurrido desde la misma.",
+      "C": "La Metoclopramida es la primera opción, si se ha realizado la profilaxis antiemética.",
+      "D": "Los fármacos antiserotoninérgicos (Granisetrom, Ondasetrom) están indicados en el tratamiento agudo."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 95,
+      "tema": "Complicaciones oncológicas"
+    },
+    "explicacion": {
+      "correcta": "La Metoclopramida NO es la primera opción en la emesis aguda posquimioterapia cuando ya se ha realizado profilaxis antiemética. Si fracasa la profilaxis, se deben usar antagonistas 5-HT3 (ondansetrón, granisetrón) y/o añadir otros agentes como aprepitant (antagonista NK1) o corticoides. La Metoclopramida tiene escasa eficacia en este contexto y a dosis altas provoca efectos extrapiramidales.",
+      "incorrectas": {
+        "A": "Es una definición correcta: la emesis aguda posquimioterapia es la que ocurre en las primeras 24 horas tras iniciar el ciclo de quimioterapia, diferenciándose de la tardía (24-120 h) y la anticipatoria.",
+        "B": "Es una afirmación correcta. El tratamiento de rescate de la emesis aguda debe individualizarse según la profilaxis previa administrada (para no repetir el mismo mecanismo), el potencial emetógeno del régimen quimioterápico y el tiempo transcurrido desde la administración.",
+        "D": "Es una afirmación correcta. Los antagonistas de los receptores 5-HT3 (antiserotoninérgicos) como granisetrón y ondansetrón tienen eficacia demostrada en el tratamiento y prevención de la emesis aguda inducida por quimioterapia."
+      }
+    }
+  },
+  {
+    "id_examen": 69,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En el traslado de pacientes críticos, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Debe mantenerse una comunicación fluida entre el equipo asistencial y el conductor o piloto.",
+      "B": "La ambulancia está indicada cuando la distancia prevista no supere los 150 km.",
+      "C": "El helicóptero está indicado cuando el traslado terrestre sea superior a 90 minutos.",
+      "D": "El helicóptero está indicado cuando la distancia prevista no supere los 1.000 km."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 108,
+      "tema": "Transporte urgente/indicadores calidad"
+    },
+    "explicacion": {
+      "correcta": "El helicóptero sanitario tiene un radio de acción operativo que habitualmente no supera los 150-200 km (no 1.000 km). Para distancias superiores o traslados internacionales se emplea el avión medicalizado. Afirmar que el helicóptero está indicado hasta 1.000 km es incorrecto.",
+      "incorrectas": {
+        "A": "Es una recomendación correcta y obligatoria en el transporte de pacientes críticos: la comunicación entre el equipo asistencial y el conductor/piloto es fundamental para la seguridad del traslado y la anticipación de maniobras.",
+        "B": "Es un criterio correcto. La ambulancia terrestre medicalizada es el medio de elección para distancias que no superen los 150 km, siempre que el tiempo de traslado sea aceptable y no existan barreras geográficas.",
+        "C": "Es un criterio correcto. El helicóptero está indicado cuando el traslado terrestre sea superior a 60-90 minutos, cuando haya barreras geográficas que impidan o enlentezcan el transporte terrestre, o cuando se precise llegar a centros especializados en el menor tiempo posible."
+      }
+    }
+  },
+  {
+    "id_examen": 70,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En el volet costal (tórax inestable), señale la respuesta correcta:",
+    "opciones": {
+      "A": "Es la fractura de dos o más costillas, en dos o más puntos.",
+      "B": "Su gravedad depende principalmente de la deformidad torácica.",
+      "C": "Las alteraciones radiológicas predicen el grado de contusión pulmonar.",
+      "D": "El tratamiento analgésico no mejora la hipoxia del paciente."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "TCE/traumatismo torácico"
+    },
+    "explicacion": {
+      "correcta": "El volet costal o tórax inestable se define por la fractura de dos o más costillas contiguas en dos o más puntos cada una (fractura segmentaria), creando un segmento libre que se mueve de forma paradójica respecto al resto de la caja torácica: se deprime con la inspiración y se eleva con la espiración.",
+      "incorrectas": {
+        "B": "La gravedad del volet costal no depende principalmente de la deformidad torácica visible, sino de la contusión pulmonar subyacente, que es la que compromete la oxigenación. El movimiento paradójico puede ser engañoso respecto al pronóstico real.",
+        "C": "Las alteraciones radiológicas en la radiografía de tórax NO predicen bien el grado de contusión pulmonar. La radiografía puede subestimar la lesión parenquimatosa; la TC de tórax es la exploración más sensible para evaluar la extensión real de la contusión pulmonar.",
+        "D": "El tratamiento analgésico SÍ mejora la hipoxia del paciente con volet costal. Una analgesia adecuada (incluyendo bloqueos regionales o analgesia epidural) permite respirar con mayor amplitud, mejora la tos y la expansión pulmonar, reduciendo así la hipoxia y las complicaciones como atelectasias y neumonía."
+      }
+    }
+  },
+  {
+    "id_examen": 71,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En el cólico del lactante, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Irritabilidad y llanto excesivo vespertino.",
+      "B": "Aparece en el primer trimestre de vida.",
+      "C": "El tratamiento se basa en analgésicos.",
+      "D": "Es un proceso benigno."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 80,
+      "tema": "Urgencias pediátricas"
+    },
+    "explicacion": {
+      "correcta": "El cólico del lactante NO tiene tratamiento farmacológico analgésico establecido. Su manejo es sintomático y de apoyo: técnicas de consuelo (movimiento rítmico, contacto piel con piel, ruido blanco) y tranquilizar a los padres. Los analgésicos no están indicados porque no es una patología dolorosa de causa estructural identificada.",
+      "incorrectas": {
+        "A": "Es una característica correcta del cólico del lactante: se manifiesta como llanto inconsolable, irritabilidad y agitación de predominio vespertino-nocturno (regla de los tres: más de 3 horas al día, más de 3 días a la semana, durante más de 3 semanas).",
+        "B": "Es correcto: el cólico del lactante aparece típicamente en el primer trimestre de vida (generalmente entre las 2 y las 12-16 semanas), con pico de incidencia alrededor de las 6 semanas.",
+        "D": "Es correcto: el cólico del lactante es un proceso benigno y autolimitado que se resuelve espontáneamente, habitualmente antes del cuarto mes de vida, sin secuelas para el desarrollo del lactante."
+      }
+    }
+  },
+  {
+    "id_examen": 72,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En la fractura abierta grado III, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Tiene un diámetro de 5 cm y hay lesión de partes blandas.",
+      "B": "Requiere lavado de la herida con solución salina fisiológica.",
+      "C": "No debe suturarse la piel por lo menos en las primeras 48 horas.",
+      "D": "Está indicada la administración de Cefazolina y aminoglucósidos."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas extremidades"
+    },
+    "explicacion": {
+      "correcta": "Según la clasificación de Gustilo-Anderson, la fractura abierta grado III se define por una herida de más de 10 cm (no 5 cm) con extensa lesión de partes blandas, contaminación importante o afectación vascular. El grado II corresponde a heridas entre 1 y 10 cm con lesión moderada de partes blandas. Un diámetro de 5 cm con lesión de partes blandas correspondería al grado II, no al III.",
+      "incorrectas": {
+        "B": "Es una medida correcta e imprescindible: el lavado abundante con suero salino fisiológico (copioso, hasta 9-10 litros en quirófano) es fundamental para reducir la carga bacteriana y prevenir la infección en fracturas abiertas.",
+        "C": "Es una recomendación correcta: en las fracturas abiertas el cierre primario de la piel está contraindicado en las primeras 48-72 horas (salvo heridas muy limpias de bajo grado). El cierre diferido permite control de la infección y revisión quirúrgica del lecho.",
+        "D": "Es correcto: la profilaxis antibiótica en fracturas abiertas grado III incluye cefalosporinas de primera generación (Cefazolina) para cobertura de grampositivos, más aminoglucósidos (Gentamicina) para cobertura de gramnegativos, dado el alto riesgo de contaminación."
+      }
+    }
+  },
+  {
+    "id_examen": 73,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Respecto a las indicaciones de la intubación endotraqueal y ventilación mecánica, según el PAI de la Atención al Trauma Grave (2ª edición, 2020), señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Neumotórax a tensión.",
+      "B": "Traumatismo craneoencefálico grave con puntuación en escala de Glasglow < 9.",
+      "C": "Inestabilidad hemodinámica persistente (presión arterial sistólica < 90 mmHg).",
+      "D": "Traumatismo torácico, insuficiencia respiratoria grave (frecuencia respiratoria > 29 ó < 6)."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 43,
+      "tema": "IOT/sedoanalgesia/vía aérea difícil"
+    },
+    "explicacion": {
+      "correcta": "El neumotórax a tensión NO es una indicación de intubación endotraqueal y ventilación mecánica per se; su tratamiento de urgencia es la descompresión inmediata mediante punción con aguja en el segundo espacio intercostal en línea medioclavicular, seguida de drenaje torácico. La intubación en presencia de neumotórax a tensión no tratado puede ser peligrosa. Según el PAI de Atención al Trauma Grave, el neumotórax a tensión no figura entre las indicaciones de IOT y VM.",
+      "incorrectas": {
+        "B": "Es una indicación correcta y establecida: el TCE grave con Glasgow <9 implica pérdida de reflejos protectores de la vía aérea, riesgo de broncoaspiración e indicación de neuroprotección mediante intubación y ventilación mecánica.",
+        "C": "Es una indicación correcta: la inestabilidad hemodinámica persistente (PAS <90 mmHg) en el trauma grave indica IOT para garantizar la oxigenación y preparar al paciente para procedimientos de control definitivo de la hemorragia.",
+        "D": "Es una indicación correcta: en el traumatismo torácico con insuficiencia respiratoria grave (FR >29 o <6 rpm) existe indicación de IOT y VM para asegurar una ventilación adecuada y prevenir el deterioro hipóxico."
+      }
+    }
+  },
+  {
+    "id_examen": 74,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En las fracturas de pelvis (en libro abierto), señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Es una fractura tipo b1 (clasificación de Tile).",
+      "B": "Si hay hematuria, hay que descartar una rotura uretral.",
+      "C": "La cirugía está indicada si sínfisis abierta más de 1 cm.",
+      "D": "La hipovolemia es una complicación de este tipo de fracturas."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas pelvis/columna"
+    },
+    "explicacion": {
+      "correcta": "En las fracturas de pelvis en libro abierto (diástasis de sínfisis púbica), la indicación quirúrgica no se establece con una apertura de 1 cm. La cirugía (fijación externa urgente o interna diferida) se indica generalmente cuando la diástasis supera los 2,5 cm, cuando hay inestabilidad hemodinámica no controlable, o cuando existe inestabilidad pélvica significativa. Con 1 cm de apertura muchos casos se manejan de forma conservadora.",
+      "incorrectas": {
+        "A": "Es correcto: según la clasificación de Tile, la fractura en libro abierto (open book) corresponde al tipo B1, rotatoriamente inestable en rotación externa, con apertura anterior de la pelvis y ligamentos posteriores parcialmente intactos.",
+        "B": "Es correcto: la hematuria en el contexto de una fractura pélvica obliga a descartar lesiones del tracto urinario inferior, especialmente rotura uretral (más frecuente en el varón, asociada a fractura de ramas pubianas) o vesical, y debe evaluarse antes de colocar sonda vesical.",
+        "D": "Es correcto: la hipovolemia es una complicación grave y frecuente de las fracturas de pelvis, especialmente las de gran desplazamiento, ya que el plexo venoso presacro y los vasos ilíacos pueden producir hemorragias masivas en el espacio retroperitoneal."
+      }
+    }
+  },
+  {
+    "id_examen": 75,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En el tratamiento inicial del paciente agitado, señale la respuesta correcta:",
+    "opciones": {
+      "A": "La contención física es la primera opción.",
+      "B": "Las benzodiacepinas están indicadas en la abstinencia alcohólica.",
+      "C": "Los neurolépticos de primera generación son de elección en el paciente anciano.",
+      "D": "Debe evitarse la combinación de Midazolam con Haloperidol."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 92,
+      "tema": "Agitación/psicosis/delirium"
+    },
+    "explicacion": {
+      "correcta": "Las benzodiacepinas son los fármacos de primera elección en la agitación por abstinencia alcohólica, ya que actúan sobre los receptores GABA-A contrarrestando la hiperactividad noradrenérgica y colinérgica del síndrome de abstinencia. El diazepam o el lorazepam son los más utilizados en este contexto, previniendo también las convulsiones y el delirium tremens.",
+      "incorrectas": {
+        "A": "La contención física no es la primera opción en el manejo del paciente agitado. Las guías recomiendan iniciar con medidas de desescalada verbal y farmacológica. La contención física solo se utiliza como último recurso cuando existe riesgo para el paciente o el personal, y siempre acompañada de sedación farmacológica.",
+        "C": "Los neurolépticos de primera generación (haloperidol, clorpromazina) NO son de elección en el paciente anciano agitado, por su alto riesgo de efectos extrapiramidales, hipotensión ortostática y prolongación del QT. En el anciano se prefieren neurolépticos atípicos en dosis bajas o benzodiacepinas de acción corta según la causa.",
+        "D": "La combinación de Midazolam con Haloperidol es una opción válida y frecuentemente utilizada en urgencias para la sedación del paciente agitado (sedación combinada), aprovechando el efecto sinérgico y permitiendo reducir las dosis individuales de cada fármaco. No está contraindicada."
+      }
+    }
+  },
+  {
+    "id_examen": 76,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Una de estas correlaciones tóxico-antídoto es INCORRECTA:",
+    "opciones": {
+      "A": "Bloqueantes beta – Glucagón.",
+      "B": "Etilenglicol - Etanol.",
+      "C": "Organofosforados – Adrenalina.",
+      "D": "Opiáceos – Naloxona."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "El antídoto de los organofosforados (inhibidores de la acetilcolinesterasa) NO es la adrenalina. El tratamiento específico es la Atropina (antagonismo muscarínico para contrarrestar hipersecreción, broncoespasmo y bradicardia) y la Pralidoxima (reactivador de la colinesterasa si se administra precozmente). La adrenalina no tiene papel en la intoxicación por organofosforados.",
+      "incorrectas": {
+        "A": "Es una correlación correcta: el Glucagón es el antídoto de la intoxicación por betabloqueantes, ya que aumenta el AMPc intracelular por una vía independiente del receptor beta, produciendo efecto inotrópico y cronotrópico positivo.",
+        "B": "Es una correlación correcta: tanto el Etanol como el Fomepizol son antídotos para la intoxicación por etilenglicol y metanol. Compiten con la alcohol-deshidrogenasa inhibiendo la conversión del etilenglicol en sus metabolitos tóxicos (ácido oxálico, glicolato).",
+        "D": "Es una correlación correcta: la Naloxona es el antídoto de los opiáceos (morfina, heroína, fentanilo, etc.), actuando como antagonista competitivo de los receptores opioides mu, revirtiendo la depresión respiratoria, miosis y sedación."
+      }
+    }
+  },
+  {
+    "id_examen": 77,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Respecto a los factores de laboratorio de progresión grave de COVID-19, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Saturación de oxígeno < 88%.",
+      "B": "Linfocitopenia.",
+      "C": "Trombocitosis.",
+      "D": "Incremento de las troponinas séricas."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 82,
+      "tema": "Sepsis/shock séptico"
+    },
+    "explicacion": {
+      "correcta": "La trombocitosis (aumento de plaquetas) NO es un marcador de gravedad en COVID-19. Al contrario, la TROMBOCITOPENIA (disminución de plaquetas) sí se asocia a formas graves, reflejando consumo plaquetario en la coagulopatía, activación del complemento y daño endotelial difuso. La trombocitosis es un hallazgo inespecífico en inflamación crónica pero no predice progresión grave.",
+      "incorrectas": {
+        "A": "La saturación de oxígeno <88% es un criterio de gravedad en COVID-19 que indica hipoxemia significativa y es uno de los principales criterios de ingreso hospitalario o en UCI.",
+        "B": "La linfocitopenia es uno de los marcadores analíticos más consistentemente asociados a formas graves de COVID-19, reflejando el tropismo del SARS-CoV-2 por los linfocitos T y la linfodepleción característica de la enfermedad grave.",
+        "D": "El incremento de troponinas séricas es un marcador de daño miocárdico en COVID-19 grave, asociado a miocarditis viral, trombosis coronaria o daño isquémico secundario a hipoxemia, y se relaciona con mayor mortalidad."
+      }
+    }
+  },
+  {
+    "id_examen": 78,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Respecto a la colocación del collarín cervical en el paciente politraumatizado, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Se realiza antes que la valoración de la permeabilidad de la vía aérea.",
+      "B": "Es ideal que disponga de apoyo mentoniano.",
+      "C": "Es ideal que disponga de apertura para el acceso emergente de la vía aérea.",
+      "D": "Es ideal que disponga de apertura occipital que permita la valoración de la parte posterior del cuello."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "SVA politraumatizado/shock hipovolémico"
+    },
+    "explicacion": {
+      "correcta": "En la atención al politraumatizado (sistemática ABCDE), la valoración y aseguramiento de la vía aérea (A) tiene prioridad absoluta sobre cualquier otra maniobra, incluyendo la inmovilización cervical. La vía aérea permeable es imprescindible para la supervivencia. La inmovilización cervical se realiza de forma simultánea o inmediatamente después, con estabilización manual de la columna, pero nunca se retrasa el manejo de la vía aérea por colocar el collarín.",
+      "incorrectas": {
+        "B": "Es una característica deseable correcta: el apoyo mentoniano del collarín contribuye a mantener la alineación neutral de la columna cervical y evitar la flexión del cuello.",
+        "C": "Es una característica deseable correcta: la apertura anterior del collarín permite el acceso de emergencia a la vía aérea (cricotirotomía, traqueotomía) sin necesidad de retirar el dispositivo de inmovilización.",
+        "D": "Es una característica deseable correcta: la apertura occipital o posterior permite la inspección y palpación de la nuca para detectar hematomas, deformidades o crepitación sin retirar el collarín, facilitando la valoración secundaria."
+      }
+    }
+  },
+  {
+    "id_examen": 79,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En la intoxicación aguda por cáusticos, señale la respuesta correcta:",
+    "opciones": {
+      "A": "El dolor faríngeo es el síntoma más frecuente.",
+      "B": "La endoscopia digestiva alta debe realizarse en las primeras 12 horas.",
+      "C": "La administración de carbón activado está formalmente indicada.",
+      "D": "La colocación de una sonda nasogástrica está contraindicada en las quemaduras de segundo o tercer grado."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Intoxicaciones específicas"
+    },
+    "explicacion": {
+      "correcta": "El dolor orofaríngeo es el síntoma más frecuente en la intoxicación por cáusticos, presente en la mayoría de los pacientes. Refleja la quemadura química de la mucosa orofaríngea por el contacto directo con el agente corrosivo, ya sea ácido o álcali. Otros síntomas frecuentes son disfagia, odinofagia, sialorrea y vómitos.",
+      "incorrectas": {
+        "B": "La endoscopia digestiva alta debe realizarse entre las 6 y las 24 horas tras la ingesta (no en las primeras 12 horas de forma imperativa). No debe realizarse antes de 6 horas por riesgo de perforación en la fase más aguda.",
+        "C": "El carbón activado está CONTRAINDICADO en la intoxicación por cáusticos. No adsorbe ácidos ni álcalis de forma efectiva, enmascara la mucosa dificultando la endoscopia y puede aumentar el riesgo de aspiración o perforación. Tampoco deben administrarse neutralizantes ni inducirse el vómito.",
+        "D": "La colocación de sonda nasogástrica está CONTRAINDICADA en las quemaduras graves (grado 2b-3) por el riesgo de perforación esofágica o gástrica. Solo puede considerarse en casos seleccionados bajo visión endoscópica directa en unidades especializadas."
+      }
+    }
+  },
+  {
+    "id_examen": 80,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Tras alcanzar la fase de estabilidad clínica de la agudización de la EPOC, el tratamiento broncodilatador de continuación requiere la asociación de varios fármacos. Indique la combinación INCORRECTA:",
+    "opciones": {
+      "A": "Salmeterol, Olodaterol, Fluticasona.",
+      "B": "Glicopirronio, Formoterol, Budesonida.",
+      "C": "Glicopirronio, Formoterol, Beclometasona.",
+      "D": "Umeclicino, Vilanterol, Fluticasona."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 54,
+      "tema": "EPOC reagudización"
+    },
+    "explicacion": {
+      "correcta": "La combinación Salmeterol + Olodaterol + Fluticasona es incorrecta porque asocia dos agonistas beta-2 de larga duración (LABA): Salmeterol y Olodaterol son ambos LABA. No tiene sentido terapéutico combinar dos fármacos de la misma clase. El tratamiento triple en EPOC consiste en LABA + LAMA (antimuscarínico de larga duración) + ICS (corticoide inhalado). Las otras opciones sí respetan esta estructura.",
+      "incorrectas": {
+        "B": "Es una combinación correcta de triple terapia: Glicopirronio (LAMA) + Formoterol (LABA) + Budesonida (ICS). Cumple el esquema LAMA+LABA+ICS.",
+        "C": "Es una combinación correcta: Glicopirronio (LAMA) + Formoterol (LABA) + Beclometasona (ICS). Corresponde al dispositivo Trimbow®, aprobado para el tratamiento de mantenimiento de la EPOC moderada-grave.",
+        "D": "Es una combinación correcta: Umeclidinio (LAMA) + Vilanterol (LABA) + Fluticasona furoato (ICS). Corresponde al dispositivo Trelegy Ellipta®, aprobado para el tratamiento de mantenimiento de la EPOC."
+      }
+    }
+  },
+  {
+    "id_examen": 81,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Dentro de los criterios de ingreso en la UCI de un paciente con una neumonía adquirida en la comunidad (NAC), indique cuál de los siguientes NO se considera un criterio menor:",
+    "opciones": {
+      "A": "Frecuencia respiratoria superior a 30 rpm.",
+      "B": "Leucocitopenia menor 4.000/µL.",
+      "C": "Hipotermia con temperatura central inferior a 36ºC.",
+      "D": "Hipertensión arterial con necesidad de tratamiento hipotensor urgente."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 59,
+      "tema": "Neumonía"
+    },
+    "explicacion": {
+      "correcta": "La hipertensión arterial con necesidad de tratamiento hipotensor urgente NO es un criterio menor de ingreso en UCI para la NAC (criterios ATS/IDSA 2007). Los criterios menores reflejan hipoxia, infiltrados extensos, alteraciones metabólicas e inestabilidad hemodinámica por hipotensión. La hipertensión no predice gravedad de la neumonía ni necesidad de cuidados intensivos.",
+      "incorrectas": {
+        "A": "Es un criterio menor correcto según ATS/IDSA 2007: frecuencia respiratoria ≥30 rpm indica insuficiencia respiratoria que puede requerir soporte ventilatorio.",
+        "B": "Es un criterio menor correcto: la leucocitopenia (<4.000 leucocitos/µL) en NAC sin inmunosupresión refleja incapacidad de respuesta inmunitaria adecuada y se asocia a mayor mortalidad.",
+        "C": "Es un criterio menor correcto: la hipotermia (<36ºC en temperatura central) en NAC puede indicar sepsis grave o estado de shock, asociándose a peor pronóstico."
+      }
+    }
+  },
+  {
+    "id_examen": 82,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Señale la aseveración ERRÓNEA respecto la hemoptisis:",
+    "opciones": {
+      "A": "La radiografía de tórax puede ser normal en el 25-30% de los casos.",
+      "B": "Si la saturación periférica de oxígeno es inferior al 95% debe de realizarse gasometría arterial, estando indicada siempre antes de la realización de una broncoscopia.",
+      "C": "La broncoscopia es la exploración más eficaz, y tiene utilidad tanto diagnóstica como terapéutica.",
+      "D": "Los pacientes con hemoptisis, en quienes no se encuentra la causa después de realizar la broncoscopia y la tomografía computerizada de alta de resolución (TCAR) de tórax, tienen un pronóstico infausto."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 57,
+      "tema": "Hemoptisis"
+    },
+    "explicacion": {
+      "correcta": "La hemoptisis criptogénica (sin causa identificada tras broncoscopia y TC de alta resolución) tiene en realidad un pronóstico generalmente favorable. Entre el 30-50% de los pacientes con hemoptisis no tienen causa identificable, y en estos casos la evolución suele ser benigna con resolución espontánea. Afirmar que tienen un pronóstico infausto es incorrecto.",
+      "incorrectas": {
+        "A": "Es correcto: la radiografía de tórax puede ser completamente normal en el 20-30% de los pacientes con hemoptisis, especialmente en lesiones endobronquiales pequeñas, bronquitis crónica o telangiectasias. La normalidad radiológica no descarta patología significativa.",
+        "B": "Es una afirmación correcta: la gasometría arterial está indicada cuando la SpO2 es inferior al 95% para cuantificar el grado de hipoxemia e hipercapnia. Además, es recomendable realizarla antes de la broncoscopia para conocer la situación funcional basal del paciente.",
+        "C": "Es correcto: la broncoscopia (flexible o rígida) es la exploración de mayor eficacia diagnóstica en la hemoptisis, permitiendo localizar el sangrado, tomar biopsias y aplicar tratamientos hemostáticos (instilación de suero frío, adrenalina, coagulación con argón plasma, etc.)."
+      }
+    }
+  },
+  {
+    "id_examen": 83,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "En relación a los inhibidores de la P2Y12, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "El Clopidogrel es el antiagregante de primera elección para administrarlo junto con el AAS.",
+      "B": "El Ticagrelor debe de utilizarse con precaución en pacientes con EPOC y asma severos, bloqueo aurículo-ventricular y disfunción sinusal.",
+      "C": "El Prasugrel se debe de utilizar con precaución en paciente > 75 años, < 60 kg de peso, y está contraindicado en ictus o AIT previos.",
+      "D": "Tanto Prasugrel como Ticagrelor están contraindicados si existe un alto riesgo hemorrágico."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 46,
+      "tema": "SCA/código infarto"
+    },
+    "explicacion": {
+      "correcta": "En el SCA con elevación del ST y en el SCASEST de alto riesgo, el Clopidogrel ya NO es el antiagregante de primera elección en combinación con AAS. Las guías ESC actuales posicionan el Ticagrelor o el Prasugrel como fármacos de elección por su mayor potencia antiagregante y beneficio clínico demostrado sobre mortalidad cardiovascular. El Clopidogrel se reserva para cuando los otros están contraindicados o no disponibles.",
+      "incorrectas": {
+        "B": "Es una afirmación correcta: el Ticagrelor puede producir disnea (por mecanismo adenosínico) y asociarse a bradicardia/pausas sinusales, por lo que se recomienda precaución en pacientes con EPOC/asma severos, bloqueo AV de alto grado y disfunción del nodo sinusal.",
+        "C": "Es una afirmación correcta: el Prasugrel tiene mayor riesgo hemorrágico en pacientes >75 años y <60 kg (se reduce la dosis a 5 mg/día en estos casos), y está formalmente contraindicado en pacientes con ictus o AIT previos por el elevado riesgo de hemorragia intracraneal.",
+        "D": "Es una afirmación correcta: tanto Prasugrel como Ticagrelor están contraindicados cuando existe alto riesgo hemorrágico activo (hemorragia activa, antecedente de hemorragia intracraneal, etc.) dado su mayor potencia antiagregante respecto al Clopidogrel."
+      }
+    }
+  },
+  {
+    "id_examen": 84,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Un paciente en coma con presencia de respiración de Cheyne-Stokes, ¿en qué nivel situaría la lesión?",
+    "opciones": {
+      "A": "Lesión bulbar.",
+      "B": "Lesión mesencefálica o protuberancial alta.",
+      "C": "Lesión protuberancial baja.",
+      "D": "Lesión diencefálica o hemisférica bilateral de origen estructural o metabólico."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 66,
+      "tema": "Cefalea/coma"
+    },
+    "explicacion": {
+      "correcta": "La respiración de Cheyne-Stokes (ciclos de hiperpnea creciente-decreciente alternando con apneas) indica disfunción diencefálica o hemisférica bilateral, ya sea de origen estructural (lesiones bilaterales, hidrocefalia, herniación transtentorial inicial) o metabólico (encefalopatía urémica, hepática, hipóxica). Refleja la pérdida del control cortical sobre los centros respiratorios del tronco con hiperreactividad al CO2.",
+      "incorrectas": {
+        "A": "La lesión bulbar produce patrones respiratorios terminales como la respiración atáxica de Biot (completamente irregular con apneas impredecibles) o la respiración en boqueadas (gasping), no la respiración de Cheyne-Stokes.",
+        "B": "La lesión mesencefálica o protuberancial alta produce hiperventilación neurógena central (respiración rápida, profunda y regular mantenida), no el patrón periódico de Cheyne-Stokes.",
+        "C": "La lesión protuberancial baja (tegmento pontino) produce respiración apnéustica (inspiración prolongada con pausa al final) o en cluster (grupos de respiraciones rápidas seguidos de apneas), patrones distintos al Cheyne-Stokes."
+      }
+    }
+  },
+  {
+    "id_examen": 85,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Indique qué afirmación es FALSA con respecto a la fibrinólisis intravenosa en el ictus isquémico:",
+    "opciones": {
+      "A": "La principal complicación del tratamiento con rt-PA o Alteplasa es la transformación hemorrágica sintomática.",
+      "B": "El uso de rt-PA intravenoso dentro de las 3 primeras horas se recomienda con máximo nivel de evidencia, y sigue ofreciendo beneficio en las primeras 4.5 horas en pacientes seleccionados.",
+      "C": "La aparición de angioedema por rt-PA suele aparecer al final de la infusión y se resuelve en menos de 24h.",
+      "D": "La dosis de rt-PA es de 10 mg/kg hasta un máximo de 100 mg."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 68,
+      "tema": "Ictus/código ictus"
+    },
+    "explicacion": {
+      "correcta": "La dosis correcta de rt-PA (Alteplasa) en el ictus isquémico agudo es de 0,9 mg/kg (no 10 mg/kg), con un máximo de 90 mg (no 100 mg). Se administra el 10% de la dosis total en bolo IV en el primer minuto y el 90% restante en infusión continua durante 60 minutos. Una dosis de 10 mg/kg sería diez veces superior a la correcta y causaría hemorragia masiva.",
+      "incorrectas": {
+        "A": "Es correcto: la transformación hemorrágica sintomática (hemorragia intracerebral con deterioro neurológico) es la principal complicación del tratamiento fibrinolítico con rt-PA, ocurriendo en aproximadamente el 6% de los pacientes tratados.",
+        "B": "Es correcto: el nivel de evidencia máximo (IA) respalda el uso de rt-PA IV dentro de las primeras 3 horas. Existe evidencia de beneficio (nivel IB) también en la ventana de 3-4,5 horas en pacientes seleccionados sin criterios de exclusión adicionales de la ventana extendida.",
+        "C": "Es correcto: el angioedema orolingual es una complicación conocida del rt-PA que ocurre en el 1-5% de los pacientes, suele aparecer durante o al final de la infusión, es habitualmente transitorio y se resuelve en menos de 24 horas con adrenalina, antihistamínicos y corticoides."
+      }
+    }
+  },
+  {
+    "id_examen": 86,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "¿Cuál de los siguientes parámetros NO aparece en una crisis asmática de riesgo vital (Nivel I)?",
+    "opciones": {
+      "A": "Estado de conciencia confuso.",
+      "B": "Frecuencia respiratoria mayor 30 rpm.",
+      "C": "Abundantes y fuertes sibilancias.",
+      "D": "Uso de fármacos betaadrenérgicos sin respuesta."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 55,
+      "tema": "Asma bronquial agudización"
+    },
+    "explicacion": {
+      "correcta": "Las abundantes y fuertes sibilancias NO corresponden a la crisis asmática de riesgo vital (nivel I o casi fatal). Paradójicamente, en la crisis de máxima gravedad el tórax puede estar silente (ausencia de sibilancias) por flujo aéreo mínimo, lo que indica obstrucción casi total. Las sibilancias audibles e intensas son más características de las crisis graves pero no de riesgo vital.",
+      "incorrectas": {
+        "A": "El estado de conciencia confuso o alterado SÍ es un criterio de crisis asmática de riesgo vital, indicando hipercapnia severa con encefalopatía hipercápnica. Junto con la agitación o el coma, es un signo de alarma máxima que requiere intubación inmediata.",
+        "B": "La frecuencia respiratoria >30 rpm SÍ puede aparecer en la crisis de riesgo vital como expresión del esfuerzo respiratorio extremo, aunque en la fase terminal puede disminuir por agotamiento de la musculatura respiratoria.",
+        "D": "La falta de respuesta a broncodilatadores beta-adrenérgicos SÍ es un criterio de crisis de riesgo vital o casi fatal, indicando broncoespasmo refractario que puede requerir ventilación mecánica e incluso anestesia general con broncodilatadores IV."
+      }
+    }
+  },
+  {
+    "id_examen": 87,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "Ante un paciente con disnea de reposo, sibilancias fuertes, FR elevada, FC>110 lpm y SatO2 en aire ambiente <92%, ¿cómo catalogaría el grado de gravedad de esta crisis asmática?",
+    "opciones": {
+      "A": "Leve.",
+      "B": "Moderada.",
+      "C": "Grave.",
+      "D": "Riesgo vital."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 55,
+      "tema": "Asma bronquial agudización"
+    },
+    "explicacion": {
+      "correcta": "La combinación de disnea en reposo, sibilancias intensas, taquipnea, taquicardia >110 lpm y saturación de oxígeno en aire ambiente <92% define una crisis asmática GRAVE. La crisis grave se caracteriza por: disnea que impide hablar frases completas, uso de musculatura accesoria, FC>110, FR>25-30, SatO2 <92% y FEV1 o PEF <40-50% del teórico. No llega a riesgo vital porque el paciente conserva la conciencia y no hay silencio pulmonar ni hipercapnia.",
+      "incorrectas": {
+        "A": "La crisis leve cursa con síntomas durante el ejercicio o moderados en reposo, sin taquicardia significativa, con SatO2 >95% y PEF >70-80% del teórico. No corresponde al cuadro descrito.",
+        "B": "La crisis moderada tiene disnea con el habla, uso moderado de musculatura accesoria, FC 100-110, SatO2 92-95% y PEF 40-70%. El cuadro descrito (SatO2 <92%, FC>110) supera los criterios de moderada.",
+        "D": "La crisis de riesgo vital se caracteriza por silencio pulmonar, cianosis, bradicardia paradójica, alteración de conciencia, agotamiento, hipercapnia (pCO2 >45 mmHg) y SatO2 <90% con incapacidad para moverse. El cuadro descrito, aunque grave, no alcanza estos parámetros terminales."
+      }
+    }
+  },
+  {
+    "id_examen": 88,
+    "fuente": "Examen OPE Médico Familia UUH Andalucía 2023",
+    "enunciado": "La EPAP mejora la situación clínica en el fallo respiratorio agudo por todos los siguientes efectos, MENOS UNO. Márquelo.",
+    "opciones": {
+      "A": "Mejora la oxigenación (presión parcial de O2).",
+      "B": "Disminuye el trabajo respiratorio y el retraso en la inspiración en pacientes con autoPEEP.",
+      "C": "Aumento del gasto cardiaco y del retorno venoso.",
+      "D": "Disminuye la frecuencia respiratoria sin disminuir el volumen minuto."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "VMNI"
+    },
+    "explicacion": {
+      "correcta": "La EPAP (presión positiva espiratoria en la vía aérea, equivalente a la PEEP en ventilación mecánica) produce el efecto CONTRARIO al descrito en la opción C. Al aumentar la presión intratorácica, la EPAP DISMINUYE el retorno venoso (precarga) y puede REDUCIR el gasto cardíaco, especialmente en pacientes hipovolémicos. Este efecto puede ser beneficioso en el edema agudo de pulmón cardiogénico (reduce la precarga y la poscarga del ventrículo izquierdo), pero en ningún caso aumenta el gasto cardíaco ni el retorno venoso.",
+      "incorrectas": {
+        "A": "Es un efecto real y beneficioso de la EPAP: al reclutar alvéolos colapsados, aumentar la capacidad residual funcional y reducir el shunt intrapulmonar, mejora significativamente la PaO2 y la saturación de oxígeno en el fallo respiratorio hipoxémico.",
+        "B": "Es un efecto real y beneficioso en pacientes con EPOC reagudizada y autoPEEP: la EPAP externa contrarresta la PEEP intrínseca, reduciendo el umbral de disparo, disminuyendo el trabajo inspiratorio y facilitando la sincronía paciente-ventilador.",
+        "D": "Es un efecto real: la EPAP al mejorar la oxigenación y la mecánica respiratoria reduce el estímulo ventilatorio hipóxico, disminuyendo la frecuencia respiratoria. Simultáneamente, al reclutar más alvéolos mejora la eficiencia de cada respiración, manteniendo o aumentando el volumen minuto efectivo a pesar de la menor frecuencia."
+      }
+    }
+  }
+]

@@ -1,0 +1,2180 @@
+[
+ {
+  "id_examen": 1,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "El Presidente de la Gerencia Regional de Salud es:",
+  "opciones": {
+   "A": "El Director Gerente.",
+   "B": "El Consejero de Sanidad.",
+   "C": "El Secretario Gerente."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 9,
+   "tema": "Ley 14/1986 General de Sanidad. Ley 6/2002 de Salud de Aragón. Principios generales, estructura, contenidos."
+  },
+  "explicacion": {
+   "correcta": "Según la normativa reguladora de la Gerencia Regional de Salud de Castilla y León, el Consejero de Sanidad ostenta la presidencia de dicho organismo, siendo el máximo responsable político de la sanidad autonómica y ejerciendo la tutela sobre la Gerencia Regional de Salud. Esta estructura responde al modelo organizativo que sitúa al cargo político al frente de los organismos autónomos sanitarios.",
+   "incorrectas": {
+    "A": "El Director Gerente es el máximo cargo ejecutivo de la Gerencia Regional de Salud, pero ocupa la gerencia y la dirección operativa, no la presidencia.",
+    "C": "El Secretario Gerente es un cargo de apoyo administrativo y no tiene atribuida la presidencia de la Gerencia Regional de Salud."
+   }
+  }
+ },
+ {
+  "id_examen": 2,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Quién puede participar en el concurso de traslados:",
+  "opciones": {
+   "A": "Sólo el personal estatutario fijo del Servicio de Salud de Castilla y León.",
+   "B": "El personal estatutario fijo del Servicio de Salud de Castilla y León y del resto de Servicios de Salud, que participará con otros requisitos.",
+   "C": "El personal estatutario fijo del Servicio de Salud de Castilla y León y del resto de Servicios de Salud, con las mismas condiciones y requisitos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 16,
+   "tema": "Provisión de plazas, selección y promoción interna. Movilidad del personal."
+  },
+  "explicacion": {
+   "correcta": "El Estatuto Marco del personal estatutario (Ley 55/2003) establece el principio de movilidad interterritorial, por el que el personal estatutario fijo de cualquier Servicio de Salud del Sistema Nacional de Salud puede participar en los concursos de traslados de otros servicios de salud en igualdad de condiciones y requisitos, garantizando así la cohesión del sistema sanitario nacional. Este principio favorece la libre circulación del personal sanitario entre comunidades autónomas.",
+   "incorrectas": {
+    "A": "Limitar la participación únicamente al personal del propio Servicio de Salud de Castilla y León vulneraría el principio de movilidad interterritorial reconocido en el Estatuto Marco.",
+    "B": "No existe una diferenciación de requisitos entre el personal del propio servicio de salud y el de otras comunidades; ambos participan en igualdad de condiciones."
+   }
+  }
+ },
+ {
+  "id_examen": 3,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Según la Ley 2/2007, de 7 de marzo, del Estatuto Jurídico del personal estatutario del servicio de salud de Castilla y León, el personal se clasifica por el tipo de nombramiento en:",
+  "opciones": {
+   "A": "Personal estatutario sanitario y personal estatutario de gestión y servicios.",
+   "B": "Personal estatutario fijo y personal estatutario temporal.",
+   "C": "Personal estatutario sanitario y personal estatutario no sanitario."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 15,
+   "tema": "Clasificación del personal estatutario. Derechos y deberes. Adquisición y pérdida de la condición de personal estatutario."
+  },
+  "explicacion": {
+   "correcta": "La Ley 2/2007 del Estatuto Jurídico del personal estatutario de Castilla y León, siguiendo el modelo del Estatuto Marco estatal, clasifica al personal por el tipo de nombramiento en fijo (con carácter permanente, obtenido mediante superación de proceso selectivo) y temporal (interino, eventual o de sustitución), siendo esta la distinción fundamental por razón de la naturaleza del vínculo con la Administración. Esta clasificación determina derechos y garantías diferenciadas para cada grupo.",
+   "incorrectas": {
+    "A": "La clasificación en personal sanitario y de gestión y servicios corresponde a una categorización por función o grupo profesional, no por tipo de nombramiento.",
+    "C": "La distinción entre personal sanitario y no sanitario es también una clasificación funcional por la naturaleza de las tareas desempeñadas, no por la clase de nombramiento."
+   }
+  }
+ },
+ {
+  "id_examen": 4,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "La resolución del procedimiento para la valoración del puesto de trabajo por causa de salud cuando el trabajador sea apto o apto con limitaciones corresponderá:",
+  "opciones": {
+   "A": "Al Director Gerente de la Gerencia Regional de Salud.",
+   "B": "Al Comité de Seguridad y Salud de Área.",
+   "C": "Al Gerente del centro o institución sanitaria donde el trabajador preste servicios."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 15,
+   "tema": "Clasificación del personal estatutario. Derechos y deberes. Adquisición y pérdida de la condición de personal estatutario."
+  },
+  "explicacion": {
+   "correcta": "En los procedimientos de valoración del puesto de trabajo por causa de salud, cuando el resultado es de aptitud (con o sin limitaciones), la resolución compete al Gerente del centro o institución sanitaria donde el trabajador presta sus servicios, por ser el órgano más próximo al trabajador y con competencia directa sobre la gestión del personal de su centro. Esta atribución de competencia garantiza una respuesta adaptada a las necesidades organizativas concretas del centro.",
+   "incorrectas": {
+    "A": "El Director Gerente de la Gerencia Regional de Salud tiene competencias en otros ámbitos de la gestión del personal, pero la resolución de aptitud en valoraciones de puesto por causa de salud recae en el nivel del centro.",
+    "B": "El Comité de Seguridad y Salud es un órgano paritario de participación y consulta en materia preventiva, pero no tiene competencia resolutoria en los procedimientos de valoración de puesto por causa de salud."
+   }
+  }
+ },
+ {
+  "id_examen": 5,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación con los órganos de selección del personal estatutario, señale la afirmación correcta:",
+  "opciones": {
+   "A": "Sus miembros deberán ostentar la condición de personal fijo o interino de cualquier administración pública, no pudiendo participar el personal eventual.",
+   "B": "Sus miembros deberán ser empleados públicos en plaza o categoría para cuyo ingreso se requiera titulación igual o superior a la exigida a los candidatos.",
+   "C": "Sus miembros deberán pertenecer a la Administración Pública que convoca el proceso selectivo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 16,
+   "tema": "Provisión de plazas, selección y promoción interna. Movilidad del personal."
+  },
+  "explicacion": {
+   "correcta": "El Estatuto Marco (Ley 55/2003) y la normativa de función pública establecen que los miembros de los órganos de selección deben ser empleados públicos que pertenezcan a una categoría o cuerpo cuyo acceso exija igual o mayor nivel de titulación que la requerida para el puesto convocado, garantizando así que los evaluadores tengan la competencia técnica adecuada para valorar a los candidatos. Este requisito asegura la objetividad y la suficiencia técnica del tribunal.",
+   "incorrectas": {
+    "A": "No se exige que los miembros sean necesariamente fijos o interinos; lo relevante es la titulación requerida para su plaza, y la restricción a no poder participar el personal eventual no figura exactamente así en la norma.",
+    "C": "Los miembros del órgano de selección no tienen que pertenecer necesariamente a la misma Administración que convoca; pueden pertenecer a otras administraciones siempre que cumplan el requisito de titulación."
+   }
+  }
+ },
+ {
+  "id_examen": 6,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la opción incorrecta en relación con la información básica que el facultativo debe proporcionar al paciente antes de recabar su consentimiento escrito:",
+  "opciones": {
+   "A": "Las consecuencias relevantes o de importancia que la intervención origina con seguridad y las contraindicaciones.",
+   "B": "El equipo médico que va a efectuar la intervención.",
+   "C": "Los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "El artículo 10 de la Ley 41/2002 enumera la información básica que debe contener el consentimiento informado escrito: consecuencias relevantes de la intervención, riesgos relacionados con las circunstancias personales, riesgos probables según la experiencia y la ciencia, y contraindicaciones. La identificación del equipo médico concreto no está recogida en ese listado de contenido mínimo obligatorio del consentimiento, por lo que es la opción incorrecta.",
+   "incorrectas": {
+    "A": "Las consecuencias relevantes que la intervención origina con seguridad y las contraindicaciones sí forman parte del contenido mínimo exigido por la Ley 41/2002 para el consentimiento informado escrito.",
+    "C": "Los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia, también están expresamente recogidos en el artículo 10 de la Ley 41/2002 como información obligatoria."
+   }
+  }
+ },
+ {
+  "id_examen": 7,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "A los efectos del Decreto 101/2005, de 22 de diciembre, por el que se regula la historia clínica, se considera documentación pasiva:",
+  "opciones": {
+   "A": "La de los pacientes que no han tenido actividad asistencial primaria ni especializada en 3 años.",
+   "B": "La de los pacientes que no han tenido actividad asistencial en 5 años, salvo en atención especializada, en cuyo caso bastará que hayan transcurrido como mínimo 3 años sin actividad asistencial.",
+   "C": "La de los pacientes que no han tenido actividad asistencial en primaria en 3 años."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "Según el Decreto 101/2005 de Castilla y León, se considera documentación pasiva la de aquellos pacientes que no han tenido actividad asistencial durante 5 años en atención primaria, reduciéndose este plazo a 3 años en el caso de la atención especializada; esta distinción refleja la diferente frecuencia de uso esperada en cada nivel asistencial y permite una gestión racional del archivo de historias clínicas.",
+   "incorrectas": {
+    "A": "No es correcto aplicar un único plazo de 3 años sin distinguir entre atención primaria y especializada; el Decreto establece plazos diferentes para cada nivel asistencial.",
+    "C": "Establecer solo 3 años de inactividad en primaria sin mencionar el criterio específico de especializada no recoge correctamente la regulación del Decreto 101/2005, que fija 5 años para primaria."
+   }
+  }
+ },
+ {
+  "id_examen": 8,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación con las obligaciones de los trabajadores en materia de prevención de riesgos laborales, señale la afirmación incorrecta:",
+  "opciones": {
+   "A": "Deben utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste.",
+   "B": "Deben informar de inmediato a su superior jerárquico directo, acerca de cualquier situación que, a su juicio, entrañe, por motivos razonables, un riesgo para la seguridad y la salud de los trabajadores.",
+   "C": "Deben colaborar en la elaboración de las instrucciones que, en materia de seguridad en el trabajo, tiene que publicitar semestralmente el empresario."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 3,
+   "tema": "El texto refundido de la Ley del Estatuto Básico del Empleado Público (RDL 5/2015): Deberes del empleado público y código de conducta."
+  },
+  "explicacion": {
+   "correcta": "La Ley 31/1995 de Prevención de Riesgos Laborales no impone al empresario la obligación de publicitar instrucciones de seguridad de forma semestral, ni establece que los trabajadores deban colaborar en la elaboración de esas instrucciones con esa periodicidad; la periodicidad semestral y la obligación de publicidad de instrucciones de seguridad no están contempladas en los términos de la opción C, lo que la hace incorrecta.",
+   "incorrectas": {
+    "A": "El uso correcto de los equipos de protección individual proporcionados por el empresario sí es una obligación expresa de los trabajadores recogida en el artículo 29 de la Ley 31/1995.",
+    "B": "La obligación de informar de inmediato al superior jerárquico directo sobre situaciones de riesgo también está expresamente recogida en la Ley 31/1995 como deber del trabajador."
+   }
+  }
+ },
+ {
+  "id_examen": 9,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación a la Ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la verdadera:",
+  "opciones": {
+   "A": "Los titulares del derecho a la información son el paciente y los familiares directos.",
+   "B": "El consentimiento informado será por escrito por regla general.",
+   "C": "El derecho a la intimidad está recogido en su artículo 7."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "El artículo 7 de la Ley 41/2002 regula específicamente el derecho a la intimidad del paciente, estableciendo que toda persona tiene derecho a que se respete el carácter confidencial de los datos referentes a su salud y que nadie puede acceder a ellos sin previa autorización amparada por la ley. Este artículo es una de las disposiciones clave de la norma en materia de protección de la esfera privada del paciente.",
+   "incorrectas": {
+    "A": "El titular principal del derecho a la información es el propio paciente; los familiares solo recibirán información en la medida en que el paciente lo permita o en situaciones específicas previstas legalmente, no son cotitulares generales del derecho.",
+    "B": "La regla general del consentimiento informado es que sea verbal; el consentimiento por escrito es la excepción y se exige solo en intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasores y, en general, cuando se apliquen procedimientos que supongan riesgos o inconvenientes relevantes."
+   }
+  }
+ },
+ {
+  "id_examen": 10,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "La definición \"Todo dato, cualquiera que sea su forma, clase o tipo, que permite adquirir o ampliar conocimientos sobre el estado físico y la salud de una persona, o la forma de preservarla, cuidarla, mejorarla o recuperarla\", corresponde a:",
+  "opciones": {
+   "A": "Historia Clínica.",
+   "B": "Documentación Clínica.",
+   "C": "Información Clínica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 12,
+   "tema": "Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+  },
+  "explicacion": {
+   "correcta": "El artículo 3 de la Ley 41/2002 define la información clínica como todo dato, cualquiera que sea su forma, clase o tipo, que permita adquirir o ampliar conocimientos sobre el estado físico y la salud de una persona o la forma de preservarla, cuidarla, mejorarla o recuperarla; esta definición amplia engloba datos en cualquier soporte o formato y es la recogida literalmente en la ley.",
+   "incorrectas": {
+    "A": "La historia clínica se define en la Ley 41/2002 como el conjunto de documentos que contienen los datos, valoraciones e informaciones de cualquier índole sobre la situación y la evolución clínica de un paciente a lo largo del proceso asistencial, concepto distinto al enunciado.",
+    "B": "La documentación clínica es el soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial, concepto diferente al de información clínica recogido en el enunciado."
+   }
+  }
+ },
+ {
+  "id_examen": 11,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En cuanto a la evaluación del traumatizado grave, señala cuál de las siguientes opciones NO está incluida en la evaluación primaria:",
+  "opciones": {
+   "A": "Asegurar la permeabilidad de la vía aérea con control cervical.",
+   "B": "Utilización de la escala de coma de Glasgow.",
+   "C": "Exploración física detallada de cabeza a pies."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La evaluación secundaria del paciente politraumatizado, y no la primaria, es la que incluye la exploración física sistemática y detallada de cabeza a pies (head-to-toe assessment) con el objetivo de identificar todas las lesiones; la evaluación primaria según el esquema ABCDE se centra exclusivamente en identificar y tratar las amenazas vitales inmediatas.",
+   "incorrectas": {
+    "A": "Asegurar la permeabilidad de la vía aérea con control de la columna cervical corresponde a la letra A del esquema ABCDE y es el primer paso de la evaluación primaria en el politraumatizado.",
+    "B": "La valoración del nivel de conciencia mediante la escala de Glasgow se incluye en la letra D (Disability/Neurological status) de la evaluación primaria ABCDE, siendo parte obligatoria de esta fase."
+   }
+  }
+ },
+ {
+  "id_examen": 12,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante la presencia en un traumatizado grave de ingurgitación yugular, tonos cardiacos apagados, tensión arterial baja y taquicardia, debemos sospechar la presencia de:",
+  "opciones": {
+   "A": "Taponamiento cardiaco.",
+   "B": "Rotura esofágica.",
+   "C": "Lesión traumática de aorta."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La tríada de Beck (hipotensión, ingurgitación yugular y tonos cardiacos apagados) junto con taquicardia compensadora es el cuadro clínico clásico del taponamiento cardiaco, en el que la acumulación de sangre o líquido en el pericardio comprime el corazón impidiendo su llenado adecuado y reduciendo drásticamente el gasto cardiaco. En el contexto de un traumatismo grave, este diagnóstico debe descartarse de forma inmediata.",
+   "incorrectas": {
+    "B": "La rotura esofágica se manifiesta típicamente con dolor torácico intenso, disfagia y signos de mediastinitis o enfisema subcutáneo, pero no produce la tríada de Beck con ingurgitación yugular y tonos apagados.",
+    "C": "La lesión traumática de aorta suele presentarse con hipotensión y signos de hemotórax masivo, pero no da lugar a ingurgitación yugular ni a tonos cardiacos apagados, que son característicos de la compresión pericárdica."
+   }
+  }
+ },
+ {
+  "id_examen": 13,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el manejo del SCA (síndrome coronario agudo), ¿cuál de los siguientes valores aporta un riesgo de hemorragia más alto de acuerdo con la escala CRUSADE?:",
+  "opciones": {
+   "A": "Hematocrito 31-33,9%.",
+   "B": "Aclaramiento de creatinina 15-30 ml/min.",
+   "C": "Ser diabético."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "En la escala CRUSADE de riesgo hemorrágico en el SCA, el aclaramiento de creatinina en rango de 15-30 ml/min otorga una puntuación muy elevada (35 puntos), siendo uno de los factores con mayor peso en la escala, por encima de otros parámetros como el hematocrito moderadamente reducido o la diabetes mellitus. La insuficiencia renal grave impacta en la función plaquetaria, en el aclaramiento de fármacos antitrombóticos y en la capacidad hemostática global.",
+   "incorrectas": {
+    "A": "Un hematocrito entre 31 y 33,9% otorga puntuación en la escala CRUSADE, pero significativamente inferior a la que corresponde a un aclaramiento de creatinina de 15-30 ml/min.",
+    "C": "Ser diabético sí suma puntos en la escala CRUSADE, pero la puntuación asignada es bastante menor que la correspondiente a una insuficiencia renal grave con aclaramiento de 15-30 ml/min."
+   }
+  }
+ },
+ {
+  "id_examen": 14,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de los siguientes fármacos NO se utiliza para control de ritmo en la fibrilación auricular?",
+  "opciones": {
+   "A": "Digoxina.",
+   "B": "Flecainida.",
+   "C": "Amiodarona."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilación auricular, taquicardia y fibrilación ventricular."
+  },
+  "explicacion": {
+   "correcta": "La digoxina es un fármaco de control de frecuencia en la fibrilación auricular, no de control de ritmo; actúa aumentando el tono vagal y frenando la conducción a través del nodo AV para reducir la respuesta ventricular, pero no restaura ni mantiene el ritmo sinusal. Los fármacos de control de ritmo (cardioversión farmacológica y mantenimiento del ritmo sinusal) incluyen antiarrítmicos de clase IC (flecainida, propafenona) y de clase III (amiodarona, dronedarona).",
+   "incorrectas": {
+    "B": "La flecainida es un fármaco antiarrítmico de clase IC ampliamente utilizado para la cardioversión farmacológica y el mantenimiento del ritmo sinusal en la fibrilación auricular en pacientes sin cardiopatía estructural.",
+    "C": "La amiodarona es un antiarrítmico de clase III con eficacia probada tanto para la cardioversión como para el mantenimiento del ritmo sinusal en la fibrilación auricular, especialmente en pacientes con cardiopatía estructural."
+   }
+  }
+ },
+ {
+  "id_examen": 15,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En un paciente en coma, cuyos antecedentes no se conocen, ¿qué prueba de las siguientes se realizará en primer lugar?:",
+  "opciones": {
+   "A": "TAC craneal.",
+   "B": "Exploración general y neurológica reglada.",
+   "C": "Determinación de glucemia mediante tira reactiva."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "Ante un paciente en coma de causa desconocida, la determinación inmediata de glucemia capilar mediante tira reactiva es la primera prueba a realizar porque la hipoglucemia es la causa tratable más frecuente y potencialmente reversible de alteración del nivel de conciencia, y su corrección rápida puede evitar daño neurológico permanente; la regla nemotécnica AEIOU-TIPS sitúa siempre la glucemia como primera comprobación urgente.",
+   "incorrectas": {
+    "A": "El TAC craneal es una prueba fundamental en el estudio del coma, pero no es la primera a realizar; se lleva a cabo tras estabilizar al paciente y descartar causas metabólicas tratables de forma inmediata como la hipoglucemia.",
+    "B": "La exploración general y neurológica reglada es imprescindible, pero es un proceso que lleva tiempo y debe realizarse después de haber descartado y corregido las causas metabólicas urgentes como la hipoglucemia."
+   }
+  }
+ },
+ {
+  "id_examen": 16,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estos cuadros no se considera como complicación de la migraña?:",
+  "opciones": {
+   "A": "Infarto migrañoso.",
+   "B": "Crisis epiléptica desencadenada por aura migrañosa.",
+   "C": "Migraña hemipléjica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La migraña hemipléjica no es una complicación de la migraña sino un subtipo específico de migraña con aura que se caracteriza por la presencia de debilidad motora unilateral como parte del aura; según la clasificación ICHD-3, las complicaciones de la migraña son el estado migrañoso, el aura persistente sin infarto, el infarto migrañoso y la crisis epiléptica desencadenada por el aura migrañosa.",
+   "incorrectas": {
+    "A": "El infarto migrañoso es una complicación reconocida de la migraña definida por la ICHD-3 como aquel en el que uno o más síntomas de aura se asocian a una lesión isquémica cerebral confirmada por neuroimagen en el territorio correspondiente.",
+    "B": "La crisis epiléptica desencadenada por el aura migrañosa (migralepsia) está reconocida como complicación de la migraña en la clasificación ICHD-3 cuando la crisis ocurre durante o hasta una hora después del aura migrañosa."
+   }
+  }
+ },
+ {
+  "id_examen": 17,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Un paciente de 52 años, sin patologías previas, es diagnosticado en el servicio de urgencias de meningitis aguda, probablemente de origen bacteriano. En la analítica realizada se detecta una granulocitopenia de 750 leucocitos por milímetro cúbico. ¿Cuál sería el tratamiento más correcto?:",
+  "opciones": {
+   "A": "Ampicilina + Cefotaxima.",
+   "B": "Vancomicina + Ceftazidima.",
+   "C": "Vancomicina + Ceftazidima + Amikacina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 83,
+   "tema": "Infecciones en el paciente inmunodeprimido, características especiales y manejo urgente."
+  },
+  "explicacion": {
+   "correcta": "En el paciente con granulocitopenia grave (menos de 1000 leucocitos por mm3) y meningitis bacteriana, la cobertura antibiótica debe ampliarse para cubrir gérmenes oportunistas y bacilos gramnegativos resistentes, incluyendo Pseudomonas aeruginosa; la combinación de vancomicina (para cocos grampositivos resistentes), ceftazidima (para gramnegativos incluyendo Pseudomonas) y amikacina (sinergia frente a gramnegativos y cobertura ampliada) es la pauta más adecuada en este paciente inmunodeprimido.",
+   "incorrectas": {
+    "A": "Ampicilina más cefotaxima es la pauta estándar para meningitis bacteriana en adultos inmunocompetentes mayores de 50 años (cobertura de Listeria y neumococo), pero no es suficiente en el paciente granulocitopénico que requiere cobertura antipseudomónica.",
+    "B": "Vancomicina más ceftazidima ofrece buena cobertura frente a gramnegativos incluyendo Pseudomonas y frente a grampositivos resistentes, pero la triple terapia añadiendo amikacina proporciona mayor sinergia y cobertura en el contexto de inmunodepresión grave por granulocitopenia."
+   }
+  }
+ },
+ {
+  "id_examen": 18,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "De los siguientes criterios de ingreso de una crisis asmática, ¿cuál no constituye indicación de ingreso en la Unidad de Cuidados Intensivos?:",
+  "opciones": {
+   "A": "Agotamiento.",
+   "B": "Alteración del estado de conciencia.",
+   "C": "Necesidad de oxígeno suplementario para mantener una SPO2 superior al 92%."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 55,
+   "tema": "Asma bronquial. Agudización asmática. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La necesidad de oxígeno suplementario para mantener una SpO2 superior al 92% indica una agudización grave que justifica ingreso hospitalario, pero no constituye por sí sola un criterio de ingreso en UCI; los criterios de ingreso en UCI en el asma se reservan para situaciones de amenaza vital inmediata como el paro respiratorio inminente, la necesidad de ventilación mecánica, la alteración del nivel de conciencia o el agotamiento muscular.",
+   "incorrectas": {
+    "A": "El agotamiento muscular respiratorio es un criterio de ingreso en UCI en la crisis asmática grave, ya que indica fracaso inminente de la musculatura respiratoria y riesgo elevado de parada respiratoria.",
+    "B": "La alteración del estado de conciencia es un signo de gravedad extrema en la crisis asmática que indica hipoxia o hipercapnia graves y constituye una indicación clara de ingreso en UCI con posible necesidad de intubación."
+   }
+  }
+ },
+ {
+  "id_examen": 19,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "De las siguientes afirmaciones con respecto a las exploraciones realizadas en un paciente con neumonía, señale cuál es INCORRECTA:",
+  "opciones": {
+   "A": "La gasometría normal no invalida el diagnóstico.",
+   "B": "Las neumonías por aspiración suelen localizarse preferentemente en lóbulos superiores.",
+   "C": "Son datos de gravedad cifras de leucocitosis por encima de 30.000/µl o la leucocitopenia menor de 4.000/µl."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "Las neumonías por aspiración se localizan preferentemente en los segmentos posteriores de los lóbulos superiores y en los segmentos superiores de los lóbulos inferiores cuando el episodio ocurre en decúbito, y en los segmentos basales posteriores de los lóbulos inferiores cuando ocurre en bipedestación; la localización preferente en lóbulos superiores como norma general es incorrecta.",
+   "incorrectas": {
+    "A": "Una gasometría arterial normal no excluye el diagnóstico de neumonía, especialmente en fases iniciales o en formas leves donde el intercambio gaseoso puede estar compensado; esta afirmación es correcta.",
+    "C": "Tanto la leucocitosis marcada por encima de 30.000 leucocitos por microlitro como la leucocitopenia inferior a 4.000 por microlitro son indicadores de gravedad en la neumonía, recogidos en diversas escalas pronósticas como el PSI/PORT; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 20,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale la respuesta INCORRECTA con respecto al análisis del líquido pleural en urgencias:",
+  "opciones": {
+   "A": "Son característicos del empiema, el pH del líquido inferior a 7 y la glucosa es inferior a 40mg/dl.",
+   "B": "La elevación de la Adenosina desaminasa es concluyente para el diagnóstico del derrame tuberculoso.",
+   "C": "En el quilotórax los triglicéridos del líquido son superiores a 110 mg/dl."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 58,
+   "tema": "Derrame pleural. Neumotórax espontáneo. Valoración, diagnóstico y actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La adenosina desaminasa (ADA) elevada en el líquido pleural es un marcador con alta sensibilidad para el derrame tuberculoso pero no es concluyente por sí sola, ya que puede elevarse en otras patologías como el empiema bacteriano, los linfomas o la artritis reumatoide; su interpretación siempre debe realizarse en el contexto clínico y con otras pruebas diagnósticas complementarias.",
+   "incorrectas": {
+    "A": "El pH inferior a 7 y la glucosa pleural inferior a 40 mg/dl son hallazgos característicos del empiema pleural, reflejando la intensa actividad metabólica bacteriana y el consumo de glucosa; esta afirmación es correcta.",
+    "C": "Los triglicéridos en el líquido pleural superiores a 110 mg/dl son el criterio diagnóstico del quilotórax, producido por rotura o obstrucción del conducto torácico con derrame de linfa; esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 21,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Indique el tratamiento antibiótico de elección en caso de neumonía con sospecha de infección por Estafilococo aureus resistente a la meticilina:",
+  "opciones": {
+   "A": "Vancomicina 1 g/12 horas.",
+   "B": "Cefepima 2 g/12 horas.",
+   "C": "Meropenem 1 g/8 horas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 59,
+   "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "La vancomicina es el antibiótico de elección para el tratamiento de infecciones graves por Staphylococcus aureus resistente a la meticilina (MRSA), incluyendo la neumonía; actúa inhibiendo la síntesis de la pared celular bacteriana mediante un mecanismo diferente al de los betalactámicos, por lo que mantiene actividad frente a cepas MRSA. La dosis habitual en adultos es de 1 g cada 12 horas, ajustada según función renal y niveles plasmáticos.",
+   "incorrectas": {
+    "B": "La cefepima es una cefalosporina de cuarta generación con actividad frente a Pseudomonas aeruginosa y otros gramnegativos, pero carece de actividad frente a MRSA, ya que las cepas resistentes a meticilina son resistentes a todos los betalactámicos.",
+    "C": "El meropenem es un carbapenem de amplio espectro con excelente cobertura frente a gramnegativos multirresistentes, pero tampoco tiene actividad frente a MRSA, pues como todos los betalactámicos, su efecto requiere de PBP2a funcional, que en MRSA confiere resistencia de clase."
+   }
+  }
+ },
+ {
+  "id_examen": 22,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Con respecto a las causas más frecuentes de hemorragia digestiva baja según la edad, indique la opción correcta:",
+  "opciones": {
+   "A": "La causa más frecuente de hemorragia digestiva baja en adultos mayores de 60 años es la enfermedad inflamatoria intestinal crónica.",
+   "B": "Las causas más frecuentes, independientemente de la edad, son las hemorroides y las fisuras anales.",
+   "C": "En adolescentes y adultos jóvenes la causa más frecuente de hemorragia digestiva baja es la angiodisplasia colónica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "Las hemorroides y las fisuras anales constituyen la causa más frecuente de hemorragia digestiva baja en todas las franjas de edad, siendo responsables de la gran mayoría de los episodios de sangrado rectal que se presentan en urgencias; se manifiestan habitualmente como sangre roja brillante que no se mezcla con las heces y que puede aparecer en cualquier etapa de la vida.",
+   "incorrectas": {
+    "A": "En adultos mayores de 60 años la causa más frecuente de hemorragia digestiva baja significativa es la enfermedad diverticular del colon y la angiodisplasia, no la enfermedad inflamatoria intestinal crónica, que es más prevalente en pacientes jóvenes.",
+    "C": "La angiodisplasia colónica es una causa de hemorragia digestiva baja característica de los pacientes ancianos, no de adolescentes y adultos jóvenes; en este grupo etario predominan la enfermedad inflamatoria intestinal y el divertículo de Meckel."
+   }
+  }
+ },
+ {
+  "id_examen": 23,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En cual de las siguientes circunstancias esta indicada la antibioterapia en la obstruccion intestinal?",
+  "opciones": {
+   "A": "Ileo paralitico.",
+   "B": "En toda obstruccion intestinal.",
+   "C": "En la obstruccion intestinal en la que se sospeche afectacion vascular."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 64,
+   "tema": "Oclusion y suboclusion intestinal. Apendicitis aguda. Diagnostico y manejo inicial."
+  },
+  "explicacion": {
+   "correcta": "La antibioterapia esta indicada en la obstruccion intestinal con sospecha de afectacion vascular (isquemia o estrangulacion) porque existe riesgo de traslocacion bacteriana, necrosis y peritonitis. La cobertura antibiotica de amplio espectro forma parte del tratamiento preoperatorio urgente en estos casos.",
+   "incorrectas": {
+    "A": "El ileo paralitico es una obstruccion funcional sin isquemia ni estrangulacion, por lo que no requiere antibioterapia sistematica salvo que se identifique un foco infeccioso subyacente.",
+    "B": "No toda obstruccion intestinal requiere antibioticos; la indicacion se reserva para casos con sospecha de complicacion vascular, perforacion o sepsis, no de forma rutinaria en todas las obstrucciones."
+   }
+  }
+ },
+ {
+  "id_examen": 24,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Cual de las siguientes no es causa de obstruccion intestinal mecanica?",
+  "opciones": {
+   "A": "Obstruccion de la luz intestinal por calculos biliares.",
+   "B": "Isquemia intestinal de origen trombotitico.",
+   "C": "Adherencias posquirurgicas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 64,
+   "tema": "Oclusion y suboclusion intestinal. Apendicitis aguda. Diagnostico y manejo inicial."
+  },
+  "explicacion": {
+   "correcta": "La isquemia intestinal de origen trombotitico produce ileo paralitico secundario a la disfuncion de la pared intestinal, pero no constituye una obstruccion mecanica en sentido estricto (no existe una barrera fisica que ocluya la luz intestinal). Es una causa de ileo funcional, no de occlusion mecanica.",
+   "incorrectas": {
+    "A": "El ileo biliar (calculo biliar impactado en el intestino) es un ejemplo clasico de obstruccion mecanica por cuerpo extrano intraluminal.",
+    "C": "Las adherencias posquirurgicas son la causa mas frecuente de obstruccion mecanica del intestino delgado en adultos, al generar bridas que comprimen o anguillan el asa intestinal."
+   }
+  }
+ },
+ {
+  "id_examen": 25,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Indique cual de los siguientes farmacos esta indicado en la litiasis ureteral con fines expulsivos:",
+  "opciones": {
+   "A": "Desketoprofeno trometamol en dosis de 50 mg cada 8 horas.",
+   "B": "Metamizol magnesico en dosis de 2g cada 8 horas.",
+   "C": "Tamsulosina en dosis de 0,4 mg cada 24 horas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Colico nefritico. Litiasis renoureteral. Retencion aguda de orina. Uropatia obstructiva. Hematuria. Sindrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "La tamsulosina (0,4 mg/24h) es un alfabloqueante que relaja el musculo liso del ureter distal, facilitando el descenso espontaneo del calculo. Esta indicada como terapia expulsiva en calculos ureterales distales de hasta 10 mm, con evidencia solida que apoya su uso.",
+   "incorrectas": {
+    "A": "El dexketoprofeno es un AINE con efecto analgesico y antiinflamatorio util para el dolor del colico nefritico, pero no posee accion expulsiva sobre el calculo ureteral.",
+    "B": "El metamizol es un analgesico-antipiretico espasmolitico eficaz para el tratamiento del dolor en el colico nefritico, pero tampoco tiene efecto terapeutico expulsivo litiasico."
+   }
+  }
+ },
+ {
+  "id_examen": 26,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Senale de entre las siguientes exploraciones complementarias en el diagnostico de una perforacion esofagica cual esta contraindicada:",
+  "opciones": {
+   "A": "Radiografia con contraste hidrosoluble (gastrografia).",
+   "B": "Tomografia computarizada.",
+   "C": "Endoscopia digestiva alta."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnostico diferencial."
+  },
+  "explicacion": {
+   "correcta": "La endoscopia digestiva alta esta contraindicada en la perforacion esofagica porque el paso del endoscopio puede ampliar la perforacion, introducir aire a presion en el mediastino y empeorar la contaminacion mediastinica, aumentando el riesgo de mediastinitis y muerte.",
+   "incorrectas": {
+    "A": "La radiografia con contraste hidrosoluble (gastrografin) es la exploracion de eleccion inicial para confirmar la perforacion esofagica y localizar su nivel, ya que el contraste hidrosoluble es seguro en caso de extravasacion al mediastino.",
+    "B": "La TC toracoabdominal con contraste es util para valorar la extension de la contaminacion mediastinica, el derrame pleural y planificar el abordaje quirurgico, por lo que no esta contraindicada."
+   }
+  }
+ },
+ {
+  "id_examen": 27,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Cual no es causa de hiperbilirrubinemia de predominio indirecto?:",
+  "opciones": {
+   "A": "Cirrosis biliar primaria.",
+   "B": "Sepsis.",
+   "C": "Hemolisis."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La cirrosis biliar primaria (actualmente llamada colangitis biliar primaria) es una enfermedad colestatica cronica que produce hiperbilirrubinemia de predominio directo (conjugada), al alterar la excrecion biliar hepatocitaria y el flujo biliar, no la conjugacion de la bilirrubina.",
+   "incorrectas": {
+    "B": "La sepsis puede provocar hiperbilirrubinemia indirecta por hemolisis intravascular asociada, disfuncion hepatocelular y reduccion de la conjugacion de bilirrubina.",
+    "C": "La hemolisis es la causa paradigmatica de hiperbilirrubinemia indirecta: el exceso de destruccion eritrocitaria libera bilirrubina no conjugada que supera la capacidad de conjugacion hepatica."
+   }
+  }
+ },
+ {
+  "id_examen": 28,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Senale la afirmacion INCORRECTA en cuanto a las indicaciones de transfusion:",
+  "opciones": {
+   "A": "La necesidad de transfusion no depende del volumen del sangrado, del tiempo de evolucion, situacion hemodinamica y antecedentes del paciente.",
+   "B": "Hemoglobina igual o inferior a 6 gr/dl siempre requiere transfusion.",
+   "C": "En la Anemia cronica la transfusion generalmente no debe realizarse cuando la concentracion de Hb es superior a 10 gr/dl."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion es incorrecta porque la indicacion de transfusion SI depende del volumen del sangrado, el tiempo de evolucion, la situacion hemodinamica y los antecedentes del paciente; la decision transfusional es siempre individualizada y no se basa exclusivamente en el valor de hemoglobina.",
+   "incorrectas": {
+    "B": "Es una afirmacion correcta: con Hb menor o igual a 6 g/dl la mayoria de guias clinicas recomiendan transfusion independientemente de la situacion clinica.",
+    "C": "Es una afirmacion correcta: en la anemia cronica bien tolerada hemodinamicamente, la transfusion habitualmente no esta indicada cuando la Hb es superior a 10 g/dl, siguiendo criterios restrictivos."
+   }
+  }
+ },
+ {
+  "id_examen": 29,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En relacion a las Anemias, senale la afirmacion CORRECTA:",
+  "opciones": {
+   "A": "Las alteraciones neurologicas como parestesias o ataxia, sugieren deficit de Vitamina B12.",
+   "B": "El sulfato ferroso debe administrarse en la anemia ferropenica junto con inhibidores de la bomba de protones para favorecer la tolerabilidad.",
+   "C": "Las anemias moderadas con buena tolerancia deben ser ingresadas siempre para realizar el estudio etiologico."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulacion. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "El deficit de vitamina B12 (cobalamina) produce degeneracion combinada subaguda de la medula espinal, que se manifiesta con parestesias, ataxia sensorial y debilidad de extremidades inferiores, siendo estas manifestaciones neurologicas caracteristicas y a veces la presentacion predominante incluso con anemia leve.",
+   "incorrectas": {
+    "B": "Los inhibidores de la bomba de protones (IBP) elevan el pH gastrico y REDUCEN la absorcion de hierro oral, por lo que no deben administrarse junto con sulfato ferroso; el hierro se absorbe mejor en medio acido.",
+    "C": "Las anemias moderadas con buena tolerancia hemodinamica pueden estudiarse de forma ambulatoria; el ingreso hospitalario no es sistematico y se reserva para anemias graves, mal toleradas o con etiologia urgente."
+   }
+  }
+ },
+ {
+  "id_examen": 30,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Senale la respuesta INCORRECTA en relacion a la Necrolisis epidermica toxica:",
+  "opciones": {
+   "A": "Se produce por una reaccion adversa a farmacos.",
+   "B": "Las mucosas suelen afectarse.",
+   "C": "Deben utilizarse en su tratamiento los Antibioticos y corticoides por via topica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoracion y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Sindrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion es incorrecta porque en la necrolisis epidermica toxica (NET) los corticoides topicos y sistemicos son controvertidos o estan contraindicados (aumentan el riesgo de infeccion y retrasan la cicatrizacion), y los antibioticos no se usan de forma profilactica topica sistematicamente; el tratamiento se basa en cuidados de soporte en UCI de quemados, suspension del farmaco causante e inmunoglobulina iv.",
+   "incorrectas": {
+    "A": "Es correcto: la NET es casi exclusivamente causada por una reaccion adversa grave a farmacos (antiepilépticos, sulfamidas, alopurinol, AINE, entre otros).",
+    "B": "Es correcto: la afectacion de mucosas (oral, ocular, genital) es caracteristica y frecuente en la NET, diferenciandola de otras dermatosis ampollosas."
+   }
+  }
+ },
+ {
+  "id_examen": 31,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "La triada clasica de la Encefalopatia de Wernicke incluye:",
+  "opciones": {
+   "A": "Nistagmo y oftalmoplejia, incontinencia de esfinteres y ataxia.",
+   "B": "Nistagmo y oftalmoplejia, ceguera central y ataxia.",
+   "C": "Nistagmo y oftalmoplejia, cambio del estado mental y ataxia."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etilica. Psicofarmacos. Drogas de abuso. Analgesicos. Causticos. Monoxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La triada clasica de la encefalopatia de Wernicke (deficit de tiamina/B1, tipicamente por alcoholismo) esta compuesta por: alteraciones oculomotoras (nistagmo, oftalmoplejia o paralisis de la mirada conjugada), confusion o alteracion del estado mental, y ataxia de la marcha. Solo un tercio de los pacientes presenta los tres componentes.",
+   "incorrectas": {
+    "A": "La incontinencia de esfinteres no forma parte de la triada de Wernicke; puede aparecer en otras encefalopatias o en la hidrocefalia normotensiva, cuya triada incluye demencia, ataxia e incontinencia.",
+    "B": "La ceguera central no es un componente de la triada de Wernicke; las alteraciones visuales son oculomotoras (nistagmo, oftalmoplejia), no perdida de la agudeza visual central."
+   }
+  }
+ },
+ {
+  "id_examen": 32,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En el tratamiento de la intoxicacion aguda por ingestion de causticos, senale la FALSA:",
+  "opciones": {
+   "A": "El lavado gastrico y la administracion de carbon activado estan contraindicados.",
+   "B": "La terapia dilucional con agua o leche no se recomienda.",
+   "C": "No es necesario realizar Radiografia de torax y simple de abdomen."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etilica. Psicofarmacos. Drogas de abuso. Analgesicos. Causticos. Monoxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion es falsa porque la radiografia de torax y la radiografia simple de abdomen son exploraciones obligatorias en la intoxicacion por causticos para detectar complicaciones inmediatas como neumomediastino (perforacion esofagica), neumoperitoneo (perforacion gastrica) o aspiracion pulmonar.",
+   "incorrectas": {
+    "A": "Es una afirmacion verdadera: el lavado gastrico esta contraindicado (puede relesar el caustico y causar nueva lesion en el esofago) y el carbon activado tambien esta contraindicado (no adsorbe causticos y dificulta la endoscopia).",
+    "B": "Es una afirmacion verdadera: la dilucion con agua o leche no reduce el dano y puede inducir vomitos que agraven las lesiones esofagicas, por lo que no se recomienda actualmente."
+   }
+  }
+ },
+ {
+  "id_examen": 33,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Senale la respuesta CORRECTA en relacion a la Neuritis optica:",
+  "opciones": {
+   "A": "Es tipica la macula de color rojo cereza.",
+   "B": "Hay que descartar Esclerosis Multiple y arteritis de la temporal.",
+   "C": "No ocasiona perdida de vision."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 91,
+   "tema": "Exploracion oftalmologica basica. Diagnostico diferencial del ojo rojo. Perdida brusca de vision. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La neuritis optica requiere descartar esclerosis multiple (es su manifestacion oftalmologica mas frecuente, apareciendo en hasta el 25% de los casos como primer brote) y neuropatia optica isquemica anterior arteriitica por arteritis de la temporal (Horton), ya que ambas condiciones requieren tratamiento urgente especifico y diferente.",
+   "incorrectas": {
+    "A": "La macula de color rojo cereza es signo caracteristico de la oclusion de la arteria central de la retina (OACR), no de la neuritis optica; en la neuritis el fondo de ojo puede ser normal o mostrar edema de papila.",
+    "C": "La neuritis optica si produce perdida de vision, tipicamente subaguda, unilateral, con dolor al mover el ojo y defecto pupilar aferente relativo (pupila de Marcus Gunn); es una causa importante de perdida visual aguda."
+   }
+  }
+ },
+ {
+  "id_examen": 34,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Si ante una exploracion ocular encontramos signos como una importante disminucion de la agudeza visual, un descenso de la presion intraocular (PIO), una alteracion de la forma de la pupila, edema conjuntival y aplanamiento de la camara anterior, pensaremos en:",
+  "opciones": {
+   "A": "Una abrasion ocular.",
+   "B": "Una perforacion del globo ocular.",
+   "C": "Una queratoconjuntivitis actinica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 91,
+   "tema": "Exploracion oftalmologica basica. Diagnostico diferencial del ojo rojo. Perdida brusca de vision. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La perforacion del globo ocular produce exactamente este conjunto de signos: baja agudeza visual por perdida de la integridad optica, hipotonia ocular (PIO baja) por salida del humor acuoso, pupila en lagrima o irregular por hernia del iris, quemosis conjuntival y camara anterior aplanada o abolida. Es una emergencia oftalmologica.",
+   "incorrectas": {
+    "A": "La abrasion corneal produce dolor intenso, lagrimeo y fotofobia, pero la PIO es normal o alta, la forma pupilar es normal y la camara anterior no esta aplanada.",
+    "C": "La queratoconjuntivitis actinica (por radiacion UV) cursa con dolor intenso, fotofobia y blefaroespasmo, pero sin hipotonia, sin alteracion pupilar ni aplanamiento de camara anterior."
+   }
+  }
+ },
+ {
+  "id_examen": 35,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En el absceso periamigdalino, senale la CORRECTA:",
+  "opciones": {
+   "A": "Es mas frecuente en ancianos.",
+   "B": "Clinicamente presenta escaso dolor de garganta y disfagia.",
+   "C": "Presenta abombamiento unilateral de la amigdala hacia la linea media."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera subita. Procesos agudos odontologicos. Celulitis cervicofaciales. Sindrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "El absceso periamigdalino se caracteriza por el desplazamiento unilateral de la amigdala y del paladar blando hacia la linea media (abombamiento), junto con desviacion de la uvula al lado contrario, trismus y voz gangosa ('voz de papa caliente'), siendo este dato exploratorio clave para el diagnostico.",
+   "incorrectas": {
+    "A": "El absceso periamigdalino es mas frecuente en adultos jovenes (segunda y tercera decada de la vida), no en ancianos; se presenta como complicacion de amigdalitis o faringoamigdalitis.",
+    "B": "El absceso periamigdalino cursa con dolor orofaringeo muy intenso, disfagia marcada (incluso imposibilidad para tragar), odinofagia y babeo, siendo la disfagia intensa uno de sus signos cardinales."
+   }
+  }
+ },
+ {
+  "id_examen": 36,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Cual no es un vertigo periferico?",
+  "opciones": {
+   "A": "Enfermedad de Meniere.",
+   "B": "Esclerosis multiple.",
+   "C": "Sindrome de Ramsey-Hunt."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera subita. Procesos agudos odontologicos. Celulitis cervicofaciales. Sindrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "La esclerosis multiple es una enfermedad desmielinizante del sistema nervioso central que puede afectar al tronco del encefalo (nucleos vestibulares, fasciculos longitudinales), produciendo vertigo de origen central, no periferico. Su vertigo carece de las caracteristicas tipicas del periferico (sin acufenos ni hipoacusia necesariamente, con otros signos neurologicos asociados).",
+   "incorrectas": {
+    "A": "La enfermedad de Meniere es una causa clasica de vertigo periferico, caracterizada por la triada de crisis de vertigo episodico, hipoacusia fluctuante e acufenos, por hidrops endolinfatico.",
+    "C": "El sindrome de Ramsay-Hunt (herpes zoster otico) produce vertigo periferico por afectacion del ganglio geniculado y del nervio vestibulococlear, junto con paralisis facial periferica y vesiculas en el pabellon auricular."
+   }
+  }
+ },
+ {
+  "id_examen": 37,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En relacion al embarazo ectopico, senale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Suele cursar con la triada clasica de amenorrea, metrorragia y dolor.",
+   "B": "La ecografia generalmente detecta con nitidez un saco gestacional en el anejo.",
+   "C": "El tratamiento definitivo puede ser quirurgico o medico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestacion. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion es incorrecta porque en el embarazo ectopico la ecografia transvaginal NO siempre detecta con nitidez un saco gestacional en el anejo; frecuentemente solo se observa una imagen atipica o masa anexial inespecifica, ausencia de saco intrauterino y liquido libre, siendo la correlacion con la beta-hCG imprescindible para el diagnostico.",
+   "incorrectas": {
+    "A": "Es una afirmacion correcta: la triada clasica del embarazo ectopico es amenorrea (retraso menstrual), metrorragia (sangrado escaso irregular) y dolor abdominal o pelvico, presente en la mayoria de los casos.",
+    "C": "Es una afirmacion correcta: el tratamiento puede ser quirurgico (salpingectomia o salpingostomia laparoscopica) o medico conservador con metotrexato en casos seleccionados hemodinamicamente estables con criterios especificos."
+   }
+  }
+ },
+ {
+  "id_examen": 38,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Son datos clinicos indicativos de Sindrome confusional agudo de causa somatica, todos EXCEPTO:",
+  "opciones": {
+   "A": "Curso fluctuante.",
+   "B": "Alucinaciones auditivas.",
+   "C": "Alucinaciones visuales y tactiles."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitacion psicomotriz. Psicosis agudas. Sindrome confusional agudo. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las alucinaciones auditivas (escuchar voces) son mas caracteristicas de los trastornos psiquiatricos primarios (esquizofrenia, psicosis aguda), no del sindrome confusional agudo (delirium) de causa organica, donde predominan las alucinaciones visuales y tactiles.",
+   "incorrectas": {
+    "A": "El curso fluctuante con variaciones del nivel de consciencia a lo largo del dia (lucidos y confusos en distintos momentos) es una caracteristica fundamental del sindrome confusional agudo organico, segun los criterios DSM.",
+    "C": "Las alucinaciones visuales (ver cosas que no existen) y tactiles (sensacion de bichos sobre la piel, formicacion) son tipicas del delirium de causa organica, especialmente en el abstinencia alcoholica y en el delirium por farmacos."
+   }
+  }
+ },
+ {
+  "id_examen": 39,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En relacion a la anafilaxia (por picadura de himenoptero), senale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El diagnostico de anafilaxia se basa eminentemente en las pruebas complementarias.",
+   "B": "Todo paciente con anafilaxia (afectacion laringea, crisis de broncoespasmo) debe ingresar en el area de observacion de urgencias.",
+   "C": "La adrenalina no es el farmaco de primera eleccion en el tratamiento de la anafilaxia."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 102,
+   "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Los pacientes con anafilaxia grave (afectacion laringea con riesgo de obstruccion de la via aerea, broncoespasmo severo, hipotension) deben permanecer en observacion hospitalaria durante al menos 6-12 horas, dado el riesgo de reaccion bifsica (recurrencia de los sintomas varias horas despues de la mejoria inicial) que puede ser mortal.",
+   "incorrectas": {
+    "A": "El diagnostico de anafilaxia es fundamentalmente clinico, basado en la historia de exposicion al alergeno y la presencia de criterios clinicos; las pruebas complementarias (triptasa serica) son de apoyo pero no son imprescindibles para el diagnostico ni para iniciar el tratamiento.",
+    "C": "La adrenalina intramuscular (0,01 mg/kg, maximo 0,5 mg, en cara anterolateral del muslo) ES el farmaco de primera eleccion en la anafilaxia; su demora se asocia a mayor mortalidad y nunca debe sustituirse por antihistaminicos o corticoides como primer tratamiento."
+   }
+  }
+ },
+ {
+  "id_examen": 40,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Senale la FALSA respecto a las quemaduras termicas:",
+  "opciones": {
+   "A": "Para el calculo de la superficie corporal quemada total el sistema recomendado en la actualidad por su precision es la planilla de Lund y Browder.",
+   "B": "Si el estado de inmunizacion de la vacunacion antitetanica es desconocido se administrara la vacuna y ademas inmunoglobulina.",
+   "C": "Si es necesaria la relajacion muscular ademas de la sedoanalgesia, debe utilizarse, como primera eleccion la succinilcolina."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 89,
+   "tema": "Valoracion y tratamiento de las heridas. Traumatismos tendinosos, vasculares y nerviosos. Quemaduras. Sindrome de aplastamiento."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion es falsa porque la succinilcolina esta contraindicada en las quemaduras extensas (>24-48 horas tras la quemadura) por el riesgo de hiperpotasemia grave y paro cardiaco; el gran quemado desarrolla proliferacion de receptores acetilcolinicos extrajuncionales que liberan masivamente potasio al despolarizarse con la succinilcolina. Se prefieren relajantes no despolarizantes.",
+   "incorrectas": {
+    "A": "Es una afirmacion verdadera: la tabla de Lund y Browder es el metodo mas preciso para estimar la superficie corporal quemada, especialmente en ninos, al corregir las proporciones segun la edad, siendo superior a la regla de los nueves.",
+    "B": "Es una afirmacion verdadera: cuando el estado de vacunacion antitetanica es desconocido o incompleto, se debe administrar tanto la vacuna antitetanica como la inmunoglobulina antitetanica humana para asegurar proteccion inmediata y a largo plazo."
+   }
+  }
+ },
+ {
+  "id_examen": 41,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Respecto al tratamiento inicial del Shock septico, es cierto:",
+  "opciones": {
+   "A": "La Noradrenalina no es el farmaco vasopresor de eleccion en el shock septico.",
+   "B": "Se recomienda la administracion precoz de antibiotico intravenoso, dentro de la primera hora tras el diagnostico.",
+   "C": "Los coloides son de primera eleccion en la reposicion de volumen en el shock septico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "Las guias Surviving Sepsis Campaign recomiendan la administracion de antibioterapia empirica de amplio espectro por via intravenosa en la primera hora tras el diagnostico de shock septico, ya que cada hora de retraso en el inicio del antibiotico se asocia a un incremento significativo de la mortalidad.",
+   "incorrectas": {
+    "A": "La noradrenalina SI es el vasopresor de primera eleccion en el shock septico segun las guias actuales; actua sobre los receptores alfa1 aumentando las resistencias vasculares perifericas y la presion arterial media, con menor efecto cronotropo que la dopamina.",
+    "C": "Los cristaloides isotonicos (suero fisiologico 0,9% o Ringer lactato) son la primera eleccion en la reposicion de volumen en el shock septico; los coloides (albumina, almidones) no se recomiendan como primera linea por mayor costo, sin beneficio demostrado y riesgo de toxicidad renal con los almidones."
+   }
+  }
+ },
+ {
+  "id_examen": 42,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Cual de las siguientes propuestas no se considera criterio de ingreso hospitalario en el Sindrome febril?:",
+  "opciones": {
+   "A": "Paciente pluripatologico con fiebre > 38 grados.",
+   "B": "Fiebre de mas de 21 dias, aunque no presente criterios de gravedad.",
+   "C": "Sindrome febril sin foco clinico que presente criterios clinicos o analiticos de gravedad, independientemente del tiempo de evolucion."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 81,
+   "tema": "Sindrome febril del paciente adulto no inmunodeprimido. Valoracion y actuacion en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "Ser pluripatologico con fiebre mayor de 38 grados por si solo no es criterio de ingreso hospitalario; la decision de ingreso debe basarse en la gravedad clinica, los signos de alarma, la situacion hemodinamica y la sospecha de foco grave, no en la pluripatologia aislada sin otros criterios de gravedad.",
+   "incorrectas": {
+    "B": "La fiebre de mas de 21 dias (fiebre de origen desconocido) si es criterio de ingreso para estudio etiologico hospitalario completo, aun sin criterios de gravedad en ese momento.",
+    "C": "El sindrome febril sin foco con criterios clinicos o analiticos de gravedad (hipotension, taquicardia, leucopenia, leucocitosis marcada, PCR muy elevada) si es criterio de ingreso urgente independientemente del tiempo de evolucion."
+   }
+  }
+ },
+ {
+  "id_examen": 43,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "De los siguientes, cual es el germen causal mas frecuente en abscesos de cuero cabelludo, tronco y extremidades?",
+  "opciones": {
+   "A": "Staphylococcus aureus.",
+   "B": "Escherichia coli.",
+   "C": "Proteus mirabilis."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 81,
+   "tema": "Sindrome febril del paciente adulto no inmunodeprimido. Valoracion y actuacion en urgencias. Resistencia bacteriana a antimicrobianos."
+  },
+  "explicacion": {
+   "correcta": "Staphylococcus aureus es el microorganismo causal mas frecuente de los abscesos cutaneos en localidades como cuero cabelludo, tronco y extremidades, por ser un comensal habitual de la piel y anejos que coloniza foliculos pilosos y glandulas sebaceas, desencadenando infeccion piogena cuando se rompe la barrera cutanea.",
+   "incorrectas": {
+    "B": "Escherichia coli es el principal agente de infecciones del tracto urinario y de abscesos intraabdominales (relacionados con flora intestinal), pero rara vez causa abscesos cutaneos en cuero cabelludo o extremidades en pacientes no inmunodeprimidos.",
+    "C": "Proteus mirabilis participa en infecciones urinarias y heridas cronicas o contaminadas, pero no es el germen predominante en los abscesos cutaneos superficiales de localizaciones como cuero cabelludo o tronco."
+   }
+  }
+ },
+ {
+  "id_examen": 44,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Ante un paciente que ha sufrido un TCE, que abre los ojos de forma espontanea, intenta hablar, pero sin sentido y retira la mano tras un estimulo doloroso tendria una puntuacion en la Escala de Glasgow de:",
+  "opciones": {
+   "A": "9.",
+   "B": "11.",
+   "C": "14."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefalico. Traumatismo toracico. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Aplicando la Escala de Coma de Glasgow: apertura ocular espontanea = 4 puntos; respuesta verbal con palabras inapropiadas/sin sentido = 3 puntos; respuesta motora de retirada al dolor = 4 puntos. Total: 4+3+4 = 11 puntos, indicativo de TCE moderado.",
+   "incorrectas": {
+    "A": "Una puntuacion de 9 no corresponde a esta combinacion; podria corresponder, por ejemplo, a apertura ocular al dolor (2) + palabras inapropiadas (3) + retirada al dolor (4) = 9, lo que no coincide con la descripcion del caso.",
+    "C": "Una puntuacion de 14 indicaria una afectacion muy leve; para obtener 14, el paciente deberia presentar respuesta verbal casi normal (palabras confusas = 4) y mejor respuesta motora (obedece ordenes = 6), lo que no encaja con la descripcion."
+   }
+  }
+ },
+ {
+  "id_examen": 45,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "El servicio de emergencias médicas traslada a Urgencias un paciente con un trauma torácico provocado en un accidente automovilístico. Tras la valoración primaria y secundaria se objetivan los siguientes datos: TA 96/65 mmHg, FC 115 latidos por minuto, FR 24 respiraciones minuto, relleno capilar 3 segundos. Paciente consciente y orientado. Venas yugulares colapsadas. Tráquea adecuadamente centrada en línea media. Vía aérea permeable, movilidad torácica simétrica y bilateral. Ruidos respiratorios disminuidos en hemitórax izquierdo, tonos cardiacos aumentados, rítmicos y sin soplos. Abdomen, pelvis y extremidades inferiores sin alteraciones. ¿Cuál de los siguientes diagnósticos se ajusta más a los hallazgos encontrados?",
+  "opciones": {
+   "A": "Cuerpo extraño en faringe.",
+   "B": "Hemoneumotórax masivo izquierdo.",
+   "C": "Neumotórax a tensión izquierdo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El hemoneumotórax masivo izquierdo explica todos los hallazgos: ruidos respiratorios disminuidos en hemitórax izquierdo por la presencia de sangre y aire que colapsan el pulmón, hipotensión y taquicardia por la pérdida hemática, y venas yugulares colapsadas por la hipovolemia asociada. La tráquea centrada y la ausencia de ingurgitación yugular descartan el neumotórax a tensión, que cursa con desviación mediastínica y aumento de presión intratorácica.",
+   "incorrectas": {
+    "A": "El cuerpo extraño en faringe causaría obstrucción de la vía aérea superior con estridor y dificultad ventilatoria, no ruidos respiratorios asimétricos ni los signos hemodinámicos descritos.",
+    "C": "El neumotórax a tensión cursa con desviación traqueal contralateral e ingurgitación yugular por aumento de la presión intratorácica, hallazgos ausentes en este caso."
+   }
+  }
+ },
+ {
+  "id_examen": 46,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿A qué lesión se la conoce como dedo de esquiador o lesión de guardabosques?",
+  "opciones": {
+   "A": "Fractura-luxación de la base del primer metacarpiano.",
+   "B": "Fractura de Rolando.",
+   "C": "Rotura del ligamento colateral interno del primer dedo."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La rotura del ligamento colateral cubital (interno) del primer dedo se denomina 'dedo de esquiador' porque se produce al caer con el bastón en la mano generando una fuerza valguizante sobre el pulgar, y 'lesión de guardabosques' porque antiguamente los guardabosques mataban conejos torciendo el cuello con el pulgar. Es la lesión ligamentosa más frecuente de la mano y provoca inestabilidad de la articulación metacarpofalángica del primer dedo.",
+   "incorrectas": {
+    "A": "La fractura-luxación de la base del primer metacarpiano se conoce como fractura de Bennett, no como dedo de esquiador.",
+    "B": "La fractura de Rolando es una fractura conminuta intraarticular de la base del primer metacarpiano, distinta del dedo de esquiador."
+   }
+  }
+ },
+ {
+  "id_examen": 47,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En un paciente de 6 años que consulta en Urgencias por un trauma grave tras un accidente de tráfico, señale la opción correcta:",
+  "opciones": {
+   "A": "La siguiente medida, tras verificar la permeabilidad de la vía aérea, será comprobar la perfusión tisular para descartar el shock.",
+   "B": "La colocación de una vía central se reservará en los casos de no poder tener un acceso venoso periférico u óseo.",
+   "C": "Debido al metabolismo infantil, la perfusión de sueros hipotónicos (glucosalino, glucosado al 5%…), es la indicada en la reanimación de estos pacientes."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "En el trauma pediátrico grave, el acceso venoso periférico y la vía intraósea son las opciones de primera línea para el acceso vascular; la vía central se reserva únicamente cuando no se puede obtener acceso periférico u óseo, dado que su colocación en un niño es más compleja y conlleva mayor riesgo de complicaciones. Esta secuencia de prioridades está establecida en los protocolos de soporte vital avanzado pediátrico.",
+   "incorrectas": {
+    "A": "En la evaluación primaria del politraumatizado se sigue el orden A-B-C: tras la vía aérea (A) se valora la ventilación/respiración (B) y después la circulación (C), no se pasa directamente de la vía aérea a la perfusión tisular.",
+    "C": "En la reanimación del paciente traumatizado pediátrico se utilizan sueros isotónicos (suero fisiológico, Ringer lactato); los sueros hipotónicos están contraindicados porque pueden agravar el edema cerebral y la hiponatremia."
+   }
+  }
+ },
+ {
+  "id_examen": 48,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En ventilación mecánica invasiva, señale la respuesta incorrecta:",
+  "opciones": {
+   "A": "En Ventilación controlada (ciclada) por volumen (VC) se entrega un volumen corriente determinado en un determinado tiempo.",
+   "B": "Para el cálculo del volumen administrado utilizaremos el peso ideal del paciente en vez de su peso real.",
+   "C": "Pacientes con enfermedades obstructivas se benefician de tiempos espiratorios cortos para prevenir la autoPEEP."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 105,
+   "tema": "Ventilación mecánica no invasiva en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es incorrecta porque los pacientes con enfermedades obstructivas (EPOC, asma) necesitan tiempos espiratorios prolongados, no cortos, para permitir el vaciado adecuado del aire atrapado y así prevenir la autoPEEP o PEEP intrínseca. Un tiempo espiratorio corto empeoraría el atrapamiento aéreo y agravaría la hiperinsuflación dinámica.",
+   "incorrectas": {
+    "A": "Es correcta: en la ventilación ciclada por volumen (VCV) el respirador suministra un volumen corriente predeterminado, siendo la presión la variable que se adapta.",
+    "B": "Es correcta: el volumen corriente se calcula en función del peso ideal (6-8 ml/kg de peso ideal) porque el tamaño pulmonar correlaciona con el peso ideal y no con el peso real, especialmente relevante en pacientes obesos."
+   }
+  }
+ },
+ {
+  "id_examen": 49,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Entre los síntomas de alarma de un paciente con lumbalgia, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Síndrome constitucional asociado.",
+   "B": "Síntomas neurológicos asociados.",
+   "C": "Dolor que desaparece en reposo."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El dolor que desaparece en reposo es una característica de la lumbalgia mecánica benigna, no un signo de alarma ('red flag'). Los signos de alarma verdaderos en la lumbalgia son aquellos que sugieren patología grave subyacente (neoplasia, infección, fractura, síndrome de cola de caballo), como el síndrome constitucional, los síntomas neurológicos progresivos, el dolor nocturno que no cede o el dolor independiente del movimiento y la postura.",
+   "incorrectas": {
+    "A": "El síndrome constitucional (pérdida de peso, anorexia, astenia) es un signo de alarma real que obliga a descartar patología neoplásica o infecciosa subyacente.",
+    "B": "Los síntomas neurológicos asociados a la lumbalgia, como debilidad, parestesias o alteraciones esfinterianas, constituyen un signo de alarma que requiere evaluación urgente por posible compresión radicular o medular."
+   }
+  }
+ },
+ {
+  "id_examen": 50,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En una lesión medular aguda, en la búsqueda clínica del nivel lesionado, señale la respuesta CORRECTA:",
+  "opciones": {
+   "A": "El reflejo rotuliano corresponde al segmento espinal L1, L2.",
+   "B": "La lesión a nivel C5, C6 presenta una afectación motora de la flexión del antebrazo con abolición del reflejo tricipital.",
+   "C": "La pérdida de la dorsiflexión del tobillo corresponde a un nivel L4."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La dorsiflexión del tobillo está inervada principalmente por el nervio peroneo profundo, cuyas raíces son L4-L5; la pérdida de la dorsiflexión del tobillo indica lesión a nivel L4, lo que es anatómicamente correcto según la neurología estándar de localización medular.",
+   "incorrectas": {
+    "A": "El reflejo rotuliano (patelar) está mediado por L3-L4, no por L1-L2; L1-L2 corresponden a la región inguinal y la flexión de cadera.",
+    "B": "La lesión C5-C6 afecta la flexión del antebrazo (bíceps, braquiorradial) y abole el reflejo bicipital y braquiorradial, no el tricipital; el reflejo tricipital corresponde a C7."
+   }
+  }
+ },
+ {
+  "id_examen": 51,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación con las fracturas de odontoides, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Las proyecciones radiológicas habituales son AP y Lateral cervical y transoral de odontoides.",
+   "B": "Se clasifican en 3 tipos: Tipo I afecta al extremo distal, Tipo II del cuello y Tipo III de la base de la odontoides.",
+   "C": "En urgencias se presentan siempre con intensa cervicalgia y focalidad neurológica."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 88,
+   "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las fracturas de odontoides NO se presentan siempre con focalidad neurológica; muchos pacientes, especialmente con fracturas tipo I o tipo III, pueden consultar únicamente con cervicalgia sin ningún déficit neurológico. La ausencia de focalidad no descarta la fractura, por lo que siempre debe completarse el estudio radiológico en traumatismos cervicales de cierta energía.",
+   "incorrectas": {
+    "A": "Es correcto: las proyecciones radiológicas estándar para el estudio de la columna cervical incluyen AP, lateral y la proyección transoral (boca abierta) para visualizar la apófisis odontoides.",
+    "B": "Es correcto: la clasificación de Anderson y D'Alonzo divide las fracturas de odontoides en tipo I (extremo distal, estable), tipo II (cuello de la odontoides, más inestable y frecuente) y tipo III (base de la odontoides, que se extiende al cuerpo del axis)."
+   }
+  }
+ },
+ {
+  "id_examen": 52,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En las lesiones de la cintura escapular y el húmero, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "La mayoría de las fracturas subcapitales de húmero, sobre todo en las personas mayores, se tratan de forma conservadora.",
+   "B": "Las fracturas escapulares en su mayor porcentaje son por traumatismos leves y no suelen estar asociadas a otro tipo de lesiones.",
+   "C": "Las fracturas de clavícula de tercio proximal y del tercio medio de la clavícula suelen tener tratamiento ortopédico."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las fracturas de escápula son poco frecuentes y requieren traumatismos de alta energía, por lo que se asocian con gran frecuencia a otras lesiones graves: fracturas costales, hemotórax, neumotórax, lesiones vasculares y del plexo braquial. Afirmar que son por traumatismos leves y sin lesiones asociadas es falso y puede llevar a infravalorar la gravedad del paciente.",
+   "incorrectas": {
+    "A": "Es correcto: las fracturas subcapitales de húmero, especialmente las no desplazadas o con desplazamiento mínimo en ancianos, se manejan de forma conservadora con cabestrillo e inicio precoz de rehabilitación.",
+    "C": "Es correcto: las fracturas de clavícula, tanto del tercio proximal como del tercio medio (las más frecuentes), se tratan habitualmente de forma ortopédica con vendaje en ocho o cabestrillo; la cirugía se reserva para casos seleccionados con gran desplazamiento."
+   }
+  }
+ },
+ {
+  "id_examen": 53,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el taponamiento cardiaco por traumatismo torácico se pueden presentar los signos físicos de la Triada de Beck. Señale cuáles son:",
+  "opciones": {
+   "A": "Ingurgitación yugular, hipotensión y tonos cardiacos apagados.",
+   "B": "Hipotensión, tonos cardiacos apagados y bradicardia.",
+   "C": "Hipotensión, tonos cardiacos apagados y pulso paradójico."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La triada de Beck clásica del taponamiento cardiaco está compuesta por ingurgitación yugular (por aumento de la presión venosa central secundaria al obstáculo al llenado cardiaco), hipotensión arterial (por reducción del gasto cardiaco) y tonos cardiacos apagados (por el líquido pericárdico que amortigua los ruidos). Es un hallazgo clásico aunque solo se presenta completo en una minoría de casos.",
+   "incorrectas": {
+    "B": "La bradicardia no forma parte de la triada de Beck; el taponamiento cardiaco suele cursar con taquicardia compensadora como respuesta al bajo gasto cardiaco.",
+    "C": "El pulso paradójico (caída de la presión sistólica mayor de 10 mmHg en inspiración) es un signo asociado al taponamiento cardiaco, pero no forma parte de la triada de Beck clásica descrita por Claude Beck en 1935."
+   }
+  }
+ },
+ {
+  "id_examen": 54,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En relación a las fracturas costales, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "Las fracturas de las primeras costillas reflejan un traumatismo importante y se pueden asociar a lesiones de vasos principales y parénquima pulmonar.",
+   "B": "Las costillas medias (4º a 10º) son más susceptibles a sufrir lesiones por traumatismo cerrado.",
+   "C": "Para que se produzca \"el tórax inestable\" se necesita la existencia de fracturas costales en ambos hemitórax."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El tórax inestable (volet costal) se produce cuando un segmento de la pared torácica pierde la continuidad con el resto del tórax por fracturas costales en dos o más puntos de tres o más costillas contiguas en el MISMO hemitórax; no es necesario que existan fracturas en ambos hemitórax para que se produzca.",
+   "incorrectas": {
+    "A": "Es correcto: las fracturas de las costillas 1 y 2 están protegidas por la musculatura y estructuras óseas del hombro, por lo que su fractura implica un traumatismo de alta energía con riesgo de lesiones vasculares (aorta, subclavia) y pulmonares graves.",
+    "B": "Es correcto: las costillas medias (4-10) son las más expuestas biomecánicamente al traumatismo torácico cerrado y las que se fracturan con mayor frecuencia."
+   }
+  }
+ },
+ {
+  "id_examen": 55,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Paciente de 45 años que presenta traumatismo abdominal cerrado. Se le administra durante el traslado analgésicos y 2.000 cc de suero fisiológico. Constantes a la llegada al hospital: Saturación de 02 del 96%, TA de 90/60 mm Hg, y frecuencia cardiaca de 110 lpm. Señale la decisión MÁS CORRECTA:",
+  "opciones": {
+   "A": "Seguir con la reanimación iniciada en el traslado y esperar el resultado del hemograma para tomar una decisión.",
+   "B": "Seguir con la reanimación iniciada en el traslado y solicitar un TAC abdominal.",
+   "C": "Seguir con la reanimación iniciada en el traslado y solicitar un ECO FAST."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "El protocolo FAST (Focused Assessment with Sonography in Trauma) es la herramienta de primera línea en el paciente hemodinámicamente inestable con traumatismo abdominal cerrado, ya que permite detectar líquido libre intraabdominal de forma rápida (menos de 5 minutos), a pie de cama y sin necesidad de desplazar al paciente. En un paciente inestable, el TAC es peligroso porque requiere trasladar al paciente a la sala de radiología.",
+   "incorrectas": {
+    "A": "Esperar el resultado del hemograma antes de actuar es incorrecto porque el hemograma inicial puede ser normal aunque exista hemorragia masiva activa (la hemodilución tarda tiempo en producirse), y el paciente puede deteriorarse gravemente en ese intervalo.",
+    "B": "El TAC abdominal es la exploración de referencia en el trauma abdominal del paciente estable, pero en un paciente hemodinámicamente inestable (TA 90/60, FC 110) está contraindicado como primer paso porque consume tiempo valioso y puede provocar descompensación durante el traslado."
+   }
+  }
+ },
+ {
+  "id_examen": 56,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Las DIFERENCIAS entre el niño y el adulto en relación a un traumatismo son todas las siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "La pequeña cavidad oral y el relativo mayor tamaño de la lengua predisponen a la obstrucción de la vía aérea, especialmente en pacientes comatosos o semiconscientes.",
+   "B": "Los niños menores de 8 años de edad tienen la cabeza desproporcionadamente grande en relación con el resto de su cuerpo. Como resultado, el trauma en la cabeza es más frecuente después de una lesión violenta.",
+   "C": "Los niños toleran mejor la hipotermia debido a su pequeña área de superficie corporal en relación al peso."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "La afirmación es la excepción porque es incorrecta: los niños toleran PEOR la hipotermia, no mejor, ya que tienen una mayor relación superficie corporal/peso (mayor área relativa de pérdida de calor) y menor capacidad de termorregulación, lo que los hace mucho más susceptibles a la hipotermia que los adultos.",
+   "incorrectas": {
+    "A": "Es una diferencia real y correcta: la vía aérea pediátrica tiene características anatómicas (cavidad oral pequeña, lengua proporcionalmente grande, laringe más anterior y cefálica) que predisponen a la obstrucción, especialmente en estados de inconsciencia.",
+    "B": "Es una diferencia real y correcta: los niños menores de 8 años tienen la cabeza proporcionalmente más grande respecto al cuerpo, lo que hace que el traumatismo craneal sea la lesión más frecuente y grave en el politraumatismo pediátrico."
+   }
+  }
+ },
+ {
+  "id_examen": 57,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En Urgencias ante un paciente con sospecha diagnóstica de Hemorragia Digestiva Alta (HDA), ¿cuál de estas exploraciones complementarias NO debe realizarse?",
+  "opciones": {
+   "A": "Hematimetría con fórmula y recuento leucocitario.",
+   "B": "Determinación de sangre en heces mediante tiras reactivas y reacción de las heces con agua oxigenada.",
+   "C": "Endoscopia digestiva alta preferentemente en las primeras 12 horas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 61,
+   "tema": "Hemorragia digestiva alta. Hemorragia digestiva baja. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La determinación de sangre en heces mediante tiras reactivas o la reacción con agua oxigenada (prueba del guayacol) no está indicada en la HDA porque es una prueba de cribado para detectar sangre oculta en heces en el contexto de un programa de detección de cáncer colorrectal; en un paciente con HDA activa y sospecha clínica evidente (hematemesis, melenas), esta prueba no aporta información útil y no debe realizarse.",
+   "incorrectas": {
+    "A": "La hematimetría con fórmula y recuento está indicada y es imprescindible para valorar el grado de anemia, guiar la transfusión y monitorizar la evolución del sangrado.",
+    "C": "La endoscopia digestiva alta en las primeras 12 horas (o antes si hay inestabilidad hemodinámica) es la exploración de elección en la HDA, ya que permite el diagnóstico etiológico y el tratamiento hemostático."
+   }
+  }
+ },
+ {
+  "id_examen": 58,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante la sospecha de brote de una enfermedad inflamatoria intestinal (EII), ¿cuál de estas actitudes terapéuticas NO es correcta?",
+  "opciones": {
+   "A": "Ingreso hospitalario ante sospecha de EII con repercusión clínica y analítica.",
+   "B": "Dieta absoluta.",
+   "C": "La rectorragia no contraindica la anticoagulación profiláctica."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La dieta absoluta no está indicada de rutina en el brote de enfermedad inflamatoria intestinal; actualmente se recomienda el soporte nutricional enteral precoz en lugar del reposo digestivo absoluto, ya que este no ha demostrado beneficio y puede empeorar el estado nutricional del paciente. La dieta absoluta solo se contempla en casos de perforación inminente, obstrucción o preparación para cirugía.",
+   "incorrectas": {
+    "A": "Es correcto: los brotes de EII con repercusión clínica (fiebre, afectación general) y analítica (elevación de reactantes de fase aguda, anemia) requieren ingreso hospitalario para tratamiento y monitorización.",
+    "C": "Es correcto: los pacientes con EII tienen mayor riesgo tromboembólico venoso; la rectorragia por sí sola no contraindica la profilaxis antitrombótica, que debe valorarse individualmente según el riesgo-beneficio."
+   }
+  }
+ },
+ {
+  "id_examen": 59,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante un dolor abdominal agudo en urgencias, ¿cuál es la respuesta FALSA?",
+  "opciones": {
+   "A": "Una hematimetría normal no descarta por sí sola el origen quirúrgico de un dolor abdominal agudo.",
+   "B": "Ante toda epigastralgia de origen incierto debe realizarse electrocardiograma.",
+   "C": "La radiología a realizar en Urgencias UNICAMENTE es una radiografía de abdomen simple y una en bipedestación si se sospecha perforación."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "Afirmar que la radiología a realizar es ÚNICAMENTE la radiografía de abdomen simple es falso, porque en el estudio del dolor abdominal agudo en urgencias la ecografía y el TAC abdominal son herramientas radiológicas complementarias imprescindibles según la sospecha clínica; la radiografía simple tiene limitaciones diagnósticas importantes y no puede ser la única exploración radiológica disponible.",
+   "incorrectas": {
+    "A": "Es correcto: el hemograma puede ser normal en las primeras horas de un abdomen quirúrgico (apendicitis inicial, isquemia mesentérica), por lo que no puede usarse para descartar patología quirúrgica.",
+    "B": "Es correcto: la epigastralgia puede ser la manifestación de un síndrome coronario agudo (angina equivalente), por lo que el ECG es obligatorio ante toda epigastralgia de causa no clara para descartar origen cardiaco."
+   }
+  }
+ },
+ {
+  "id_examen": 60,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estos medicamentos NO está recomendado en el tratamiento de la fisura anal?",
+  "opciones": {
+   "A": "Nitroglicerina rectal pomada.",
+   "B": "Metamizol magnésico cápsulas.",
+   "C": "Enalapril comprimidos."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "El enalapril es un inhibidor de la enzima convertidora de angiotensina (IECA) indicado para el tratamiento de la hipertensión arterial y la insuficiencia cardíaca; no tiene ningún papel terapéutico en la fisura anal. Su inclusión en la lista es la opción claramente incorrecta.",
+   "incorrectas": {
+    "A": "La nitroglicerina en pomada rectal está indicada en la fisura anal porque actúa como donador de óxido nítrico, relajando el esfínter anal interno y mejorando el flujo sanguíneo local, lo que facilita la cicatrización.",
+    "B": "El metamizol magnésico está indicado como analgésico en la fisura anal para el control del dolor, siendo una opción válida dentro del arsenal terapéutico conservador de esta patología."
+   }
+  }
+ },
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estos enunciados en relación con la pancreatitis aguda es FALSO?",
+  "opciones": {
+   "A": "El dolor es el síntoma principal de la pancreatitis aguda.",
+   "B": "La hiperamilasemia es un dato patognomónico de la pancreatitis aguda.",
+   "C": "La determinación de la proteína C reactiva es útil en la evolución pronóstica de la pancreatitis aguda a partir de las 24-48 horas de evolución."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La hiperamilasemia NO es patognomónica de la pancreatitis aguda porque puede elevarse en múltiples procesos (parotiditis, perforación intestinal, isquemia mesentérica, macroamilasemia, insuficiencia renal, colecistitis, etc.). Además, la amilasa puede ser normal en hasta un 20% de los casos de pancreatitis aguda (especialmente en la pancreatitis crónica agudizada o la hipertrigliceridémica). La lipasa sérica tiene mayor especificidad diagnóstica.",
+   "incorrectas": {
+    "A": "Es correcto: el dolor abdominal, generalmente epigástrico e irradiado en cinturón hacia la espalda, es el síntoma cardinal y más frecuente de la pancreatitis aguda, presente en prácticamente todos los casos.",
+    "C": "Es correcto: la proteína C reactiva (PCR) es el marcador pronóstico más utilizado en la pancreatitis aguda; una PCR mayor de 150 mg/l a las 48 horas del inicio indica pancreatitis grave y es uno de los criterios de severidad."
+   }
+  }
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el tratamiento de la ascitis, ¿cuál de estos enunciados es VERDADERO?",
+  "opciones": {
+   "A": "En la peritonitis bacteriana espontánea está indicado la administración de aminoglucósidos.",
+   "B": "En el síndrome hepatorrenal debe suspenderse la administración de diuréticos.",
+   "C": "En ascitis a tensión cuando se realice paracentesis evacuadoras no debe superar los dos litros."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "En el síndrome hepatorrenal, los diuréticos deben suspenderse porque pueden empeorar la perfusión renal al reducir el volumen circulante efectivo; el tratamiento se basa en la expansión de volumen con albúmina y vasoconstrictores (terlipresina), además de tratar la causa desencadenante.",
+   "incorrectas": {
+    "A": "Los aminoglucósidos están contraindicados en la peritonitis bacteriana espontánea porque son nefrotóxicos y estos pacientes ya tienen un riesgo elevado de síndrome hepatorrenal; el tratamiento de elección son las cefalosporinas de tercera generación (cefotaxima) con albúmina intravenosa.",
+    "C": "En la paracentesis evacuadora por ascitis a tensión no existe un límite estricto de dos litros; habitualmente se evacúan grandes volúmenes (4-6 litros o incluso la totalidad), siempre con reposición de albúmina intravenosa (6-8 g por litro extraído) para prevenir la disfunción circulatoria postparacentesis."
+   }
+  }
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estas actitudes es INCORRECTA en el tratamiento de la hipocalcemia aguda sintomática?",
+  "opciones": {
+   "A": "Cloruro Cálcico al 10% diluido en suero glucosado al 5%.",
+   "B": "Perfusión intravenosa de Calcio y bicarbonato.",
+   "C": "Calcio por vía oral."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones del equilibrio ácido-base. Trastornos hidroelectrolíticos. Valoración, diagnóstico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La perfusión simultánea de calcio y bicarbonato es incorrecta e inaceptable porque el calcio precipita en presencia de bicarbonato, formando carbonato cálcico insoluble, lo que inutiliza la solución y puede obstruir la vía venosa o provocar embolia. Ambos fármacos deben administrarse siempre por separado si son necesarios.",
+   "incorrectas": {
+    "A": "El cloruro cálcico al 10% diluido en suero glucosado es una opción correcta para el tratamiento de la hipocalcemia aguda sintomática grave; aporta calcio elemental de forma rápida por vía intravenosa.",
+    "C": "El calcio por vía oral es una opción válida en la hipocalcemia leve-moderada o como mantenimiento tras la corrección inicial, siendo una actitud terapéutica correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "¿Cuál de estas actitudes es INCORRECTA en el tratamiento de la cetoacidosis diabética?",
+  "opciones": {
+   "A": "Si la potasemia es inferior a 3,3 meq/l debe retrasarse la perfusión de Insulina hasta que el K se sitúe por encima de este nivel.",
+   "B": "Administrar bicarbonato si el ph es igual o inferior a 7.0.",
+   "C": "Administrar bolo intravenoso de Insulina Rápida en dosis de 0,30 UI/kg (Habitualmente 20 UI en adultos)."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "En el tratamiento actual de la cetoacidosis diabética NO se recomienda el bolo intravenoso inicial de insulina; las guías actuales establecen el inicio de la insulina en perfusión continua a 0,1 UI/kg/h (sin bolo previo) o de 0,14 UI/kg/h. El bolo inicial de insulina está abandonado porque puede precipitar hipopotasemia grave y empeorar el pronóstico.",
+   "incorrectas": {
+    "A": "Es correcto: si el potasio es menor de 3,3 mEq/l, la insulina debe retrasarse hasta corregir la hipopotasemia, ya que la insulina desplaza el potasio al interior celular y podría provocar hipopotasemia grave con riesgo de arritmias.",
+    "B": "Es correcto: la administración de bicarbonato está recomendada cuando el pH es igual o inferior a 7,0 (acidosis severa), aunque su uso es controvertido y limitado a casos extremos; algunos protocolos lo indican con pH menor de 6,9."
+   }
+  }
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Paciente adulto diagnosticado de monoartritis séptica, con una tinción de Gram que nos dice que estamos ante cocos grampositivos. El tratamiento antibiótico más correcto se establecería con:",
+  "opciones": {
+   "A": "Ceftriaxona más Amikacina.",
+   "B": "Cloxacilina más Tobramicina.",
+   "C": "Ciprofloxacino."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La artritis séptica por cocos grampositivos es causada en la mayoría de los casos por Staphylococcus aureus; el tratamiento de elección en ausencia de sospecha de MRSA es la cloxacilina (antiestafilocócica de primera línea) combinada con un aminoglucósido como la tobramicina para ampliar el espectro y potenciar el efecto bactericida en el espacio articular.",
+   "incorrectas": {
+    "A": "La ceftriaxona con amikacina es una combinación adecuada para infecciones por gramnegativos (artritis gonocócica u otras), no para cocos grampositivos como Staphylococcus aureus.",
+    "C": "El ciprofloxacino es una fluoroquinolona con actividad predominante frente a gramnegativos; aunque tiene cierta actividad frente a grampositivos, no es el tratamiento de elección para la artritis séptica estafilocócica."
+   }
+  }
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Sobre la hemofilia, NO es cierto que:",
+  "opciones": {
+   "A": "El cáncer es una causa común de mortalidad en pacientes de edad avanzada con hemofilia.",
+   "B": "La mortalidad por arteriopatía coronaria es más alta en pacientes con hemofilia que en la población general de varones.",
+   "C": "La hemofilia A representa el 80% de los casos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La mortalidad por arteriopatía coronaria es MENOR en pacientes con hemofilia que en la población general masculina, no mayor; el déficit de factores de coagulación les confiere cierta protección frente a la trombosis coronaria y el infarto de miocardio, lo que ha sido documentado en estudios epidemiológicos comparativos.",
+   "incorrectas": {
+    "A": "Es cierto: el cáncer (especialmente hepatocarcinoma relacionado con la infección por VHC o VIH adquiridas por transfusiones previas) es actualmente una causa importante de mortalidad en pacientes mayores con hemofilia.",
+    "C": "Es cierto: la hemofilia A (déficit de factor VIII) representa aproximadamente el 80-85% de todos los casos de hemofilia, mientras que la hemofilia B (déficit de factor IX) supone el 15-20% restante."
+   }
+  }
+ },
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Ante un paciente con ictericia, pigmentación de la orina, esplenomegalia, descenso de la concentración de hemoglobina, incremento del número de reticulocitos y de bilirrubina, usted pensaría en:",
+  "opciones": {
+   "A": "Anemia hemolítica.",
+   "B": "Anemia por hemorragia aguda.",
+   "C": "Anemia aplásica."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La anemia hemolítica produce destrucción acelerada de hematíes que libera hemoglobina degradada a bilirrubina indirecta, causando ictericia y coluria. La médula ósea responde con reticulocitosis compensadora, y el secuestro esplénico del exceso de células provoca esplenomegalia, lo que encaja perfectamente con el cuadro descrito.",
+   "incorrectas": {
+    "B": "La hemorragia aguda produce descenso de hemoglobina y reticulocitosis reactiva tardía, pero no causa ictericia ni esplenomegalia, ya que no hay hemólisis intravascular ni extracelular.",
+    "C": "La anemia aplásica se caracteriza por pancitopenia con reticulocitopenia (no reticulocitosis), sin ictericia hemolítica ni esplenomegalia, porque la médula ósea no produce células en cantidad suficiente."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el tratamiento de la intoxicación etílica aguda de carácter grave, al administrar glucosa parenteral, debemos tomar la precaución de administrar también una determinada vitamina del grupo B, ya que, en esta situación, sus reservas se agotan rápidamente pudiendo desencadenar una Encefalopatía de Wernicke. Estamos hablando de la vitamina:",
+  "opciones": {
+   "A": "B1.",
+   "B": "B6.",
+   "C": "B12."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La vitamina B1 (tiamina) es cofactor esencial en el metabolismo de la glucosa; el alcoholismo crónico agota sus reservas y la administración de glucosa sin tiamina previa puede precipitar una Encefalopatía de Wernicke al sobrecargar una vía metabólica ya deficitaria. Por ello se recomienda administrar tiamina 100 mg IV antes o junto con la glucosa.",
+   "incorrectas": {
+    "B": "La vitamina B6 (piridoxina) no está implicada en la Encefalopatía de Wernicke; su déficit produce neuropatía periférica y convulsiones, pero no el síndrome amnésico-confusional característico del Wernicke.",
+    "C": "La vitamina B12 (cobalamina) participa en la síntesis de mielina y su déficit causa anemia megaloblástica y neuropatía, pero no se relaciona con la Encefalopatía de Wernicke ni con la administración de glucosa."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En la intoxicación aguda por setas NO está indicado administrar uno de los siguientes fármacos:",
+  "opciones": {
+   "A": "Metoclopramida.",
+   "B": "Carbón activado.",
+   "C": "Loperamida."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "La loperamida está contraindicada en la intoxicación por setas porque la diarrea es un mecanismo fisiológico de eliminación de las toxinas; inhibir el peristaltismo prolongaría la absorción de sustancias como la amanitina, empeorando el pronóstico del paciente.",
+   "incorrectas": {
+    "A": "La metoclopramida está indicada como antiemético para aliviar los vómitos persistentes que acompañan a la intoxicación por setas, mejorando el confort del paciente sin interferir en la eliminación de toxinas.",
+    "B": "El carbón activado está indicado si el paciente acude precozmente (menos de 1-2 horas tras la ingesta), ya que adsorbe las toxinas micológicas en el tubo digestivo y reduce su absorción sistémica."
+   }
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "El \"olor a almendras amargas\" es característico de la intoxicación por:",
+  "opciones": {
+   "A": "Benzodiacepinas.",
+   "B": "Antidepresivos tricíclicos.",
+   "C": "Cianuro."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "El cianuro y sus compuestos volátiles (ácido cianhídrico) emiten un olor característico a almendras amargas, dato semiológico clásico que orienta rápidamente al diagnóstico en urgencias. El cianuro bloquea la citocromo c oxidasa mitocondrial, impidiendo la respiración celular.",
+   "incorrectas": {
+    "A": "Las benzodiacepinas no producen olores característicos; su intoxicación cursa con sedación y depresión del SNC sin signos olfativos específicos.",
+    "B": "Los antidepresivos tricíclicos tampoco generan olor a almendras amargas; su intoxicación se caracteriza por síntomas anticolinérgicos, arritmias y convulsiones sin aroma típico."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Una persona que presenta fiebre y leucocitosis, exoftalmos, ojo rojo, afectación de la motilidad ocular y disminución de la agudeza visual, seguramente está sufriendo:",
+  "opciones": {
+   "A": "Glaucoma agudo.",
+   "B": "Conjuntivitis aguda.",
+   "C": "Celulitis orbitaria."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 91,
+   "tema": "Exploración oftalmológica básica. Diagnóstico diferencial del ojo rojo. Pérdida brusca de visión. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La celulitis orbitaria es una infección del tejido posterior al septo orbitario que produce el cuadro clásico de proptosis (exoftalmos), quemosis, limitación dolorosa de la motilidad ocular y disminución de agudeza visual, asociados a síndrome infeccioso sistémico con fiebre y leucocitosis. Es una emergencia oftalmológica que requiere ingreso y antibioterapia IV.",
+   "incorrectas": {
+    "A": "El glaucoma agudo de ángulo cerrado cursa con dolor ocular intenso, visión borrosa y midriasis arreactiva, pero sin fiebre ni exoftalmos, ya que no es de etiología infecciosa.",
+    "B": "La conjuntivitis aguda es superficial, produce ojo rojo con secreción, pero no causa exoftalmos, limitación de la motilidad ocular ni afectación sistémica con fiebre y leucocitosis."
+   }
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Una de las siguientes afirmaciones NO es cierta sobre la epiglotitis aguda:",
+  "opciones": {
+   "A": "La enfermedad era mucho más frecuente entre niños antes de la vacuna contra H. Influenzae.",
+   "B": "El germen causal más frecuente es el Virus Sincitial Respiratorio.",
+   "C": "En la radiografía del cuello es típico el hallazgo del \"signo de la huella digital\" o \"signo de la huella del pulgar\"."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "El germen causal más frecuente de la epiglotitis aguda es Haemophilus influenzae tipo b (bacteria), no el Virus Sincitial Respiratorio; la vacunación frente a H. influenzae tipo b ha reducido drásticamente la incidencia pediátrica de esta enfermedad. El VRS es el principal agente de la bronquiolitis en lactantes, no de la epiglotitis.",
+   "incorrectas": {
+    "A": "Es cierto que antes de la vacunación sistemática frente a H. influenzae tipo b la epiglotitis era una enfermedad predominantemente pediátrica con alta incidencia; la vacuna ha desplazado los casos hacia adultos.",
+    "C": "El signo de la huella del pulgar en la radiografía lateral de cuello es un hallazgo radiológico clásico y real de la epiglotitis aguda, producido por el engrosamiento inflamatorio de la epiglotis."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Respecto a la exploración física de un paciente con pericarditis aguda, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "El signo físico característico es la auscultación de un roce pericárdico sistólico, diastólico o mixto.",
+   "B": "El roce pericárdico no está directamente relacionado con la cantidad de líquido acumulado.",
+   "C": "El roce pericárdico se ausculta mejor con el paciente en decúbito supino."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Síndrome aórtico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periférica."
+  },
+  "explicacion": {
+   "correcta": "El roce pericárdico se ausculta mejor con el paciente sentado e inclinado hacia delante (posición de Mahomed), no en decúbito supino, ya que esta postura acerca el pericardio a la pared torácica anterior y reduce el efecto amortiguador del líquido. En decúbito supino el roce puede enmascararse.",
+   "incorrectas": {
+    "A": "Es verdad que el roce pericárdico es el hallazgo auscultatorio característico de la pericarditis aguda y puede tener componente sistólico, diastólico o ambos (trifásico), siendo patognomónico cuando está presente.",
+    "B": "Es correcto que el roce pericárdico no guarda relación directa con el volumen de derrame; paradójicamente puede desaparecer al acumularse mucho líquido porque este separa las hojas pericárdicas impidiendo su fricción."
+   }
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Respecto a los bloqueos auriculoventriculares, señale la respuesta FALSA:",
+  "opciones": {
+   "A": "En el bloqueo auriculoventricular de segundo grado (tipo Mobitz I) hay un alargamiento progresivo de los intervalos PR hasta que una onda P no conduce.",
+   "B": "En el bloqueo auriculoventricular de tercer grado existe una disociación auriculoventricular. Si el ritmo de escape es ventricular está indicada la atropina como tratamiento inicial.",
+   "C": "El bloqueo auriculoventricular de primer grado se caracteriza en el electrocardiograma por un intervalo PR superior a 0,20 s."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 48,
+   "tema": "Bradiarritmias. Bloqueos auriculoventriculares. Diagnóstico y tratamiento."
+  },
+  "explicacion": {
+   "correcta": "En el bloqueo AV de tercer grado con ritmo de escape ventricular (QRS ancho, frecuencia 20-40 lpm), la atropina no está indicada como tratamiento inicial porque actúa sobre el nodo sinusal y el nodo AV, pero el marcapasos ventricular de escape no responde a ella; el tratamiento de elección es la estimulación con marcapasos transcutáneo o transvenoso.",
+   "incorrectas": {
+    "A": "Es correcto: el bloqueo AV de segundo grado Mobitz I (Wenckebach) se define por el alargamiento progresivo del intervalo PR con posterior bloqueo de una onda P, formando ciclos repetitivos en el ECG.",
+    "C": "Es correcto: el bloqueo AV de primer grado se define por un intervalo PR mayor de 200 ms (0,20 s) con conducción de todos los impulsos; no produce síntomas y habitualmente no requiere tratamiento."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Respecto a las características de los diferentes perfiles de dolor torácico, señale la respuesta INCORRECTA.",
+  "opciones": {
+   "A": "Un dolor torácico que se agrava en decúbito supino y con la respiración profunda y se alivia con la flexión del tronco o con la respiración superficial suele indicar un origen pericárdico.",
+   "B": "Un dolor torácico que se agrava con los movimientos respiratorios profundos y se alivia con la respiración superficial o inmovilización de la zona afecta suele indicar origen pleurítico.",
+   "C": "Un dolor torácico descrito como urente o sensación de quemazón que se agrava con las maniobras de Valsalva suele indicar un origen coronario."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 45,
+   "tema": "Dolor torácico agudo. Etiología. Valoración, diagnóstico y normas de actuación en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El dolor urente o en quemazón que se agrava con las maniobras de Valsalva, la posición supina y las comidas es característico del origen esofágico o digestivo (reflujo gastroesofágico, espasmo esofágico), no coronario. El dolor coronario típico es opresivo, irradiado y se desencadena con el esfuerzo físico.",
+   "incorrectas": {
+    "A": "Es correcto que el dolor pericárdico clásicamente empeora en decúbito supino y con la inspiración profunda y mejora al sentarse inclinado hacia adelante, por variación de la tensión sobre el pericardio inflamado.",
+    "B": "Es correcto que el dolor pleurítico se agrava con la inspiración profunda y los movimientos respiratorios y se alivia con la respiración superficial o la inmovilización, por fricción entre las hojas pleurales inflamadas."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "La bacteriuria asintomática:",
+  "opciones": {
+   "A": "Deben tratarse a pacientes embarazadas únicamente en el último trimestre del embarazo.",
+   "B": "En diabéticos solo deben tratarse a los tipo I.",
+   "C": "Debe tratarse a las pacientes con sondaje intermitente por lesión medular."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 77,
+   "tema": "Infección de vías urinarias: Cistitis. Uretritis. Prostatitis. Pielonefritis aguda. Actitud diagnóstica y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las pacientes con lesión medular que realizan sondaje intermitente presentan alto riesgo de infección urinaria ascendente con complicaciones graves dado su inmunocompromiso relativo y la dificultad para percibir síntomas; por ello, la bacteriuria asintomática en este grupo sí debe tratarse con antibióticos según las guías.",
+   "incorrectas": {
+    "A": "La bacteriuria asintomática en la embarazada debe tratarse durante todo el embarazo, no solo en el último trimestre, porque en cualquier trimestre puede progresar a pielonefritis y causar parto prematuro o bajo peso neonatal.",
+    "B": "En pacientes diabéticos, la bacteriuria asintomática en general no requiere tratamiento antibiótico de rutina independientemente del tipo de diabetes; las guías actuales no distinguen entre DM tipo I y tipo II para esta indicación."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Los siguientes datos en la exploración física sugieren síndrome escrotal agudo, EXCEPTO:",
+  "opciones": {
+   "A": "El signo de Gouverneur: el testículo afectado está más bajo que el contralateral.",
+   "B": "En los casos en que la torsión afecta al cordón espermático puede palparse su engrosamiento y un anillo de torsión a dicho nivel.",
+   "C": "El signo de Prehn puede ayudarnos a diferenciar entre la torsión testicular y la orquiepididimitis aguda: en el paciente con torsión la elevación del mismo es dolorosa."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 76,
+   "tema": "Cólico nefrítico. Litiasis renoureteral. Retención aguda de orina. Uropatía obstructiva. Hematuria. Síndrome escrotal agudo."
+  },
+  "explicacion": {
+   "correcta": "El signo de Gouverneur describe que el testículo torsionado asciende (está más alto) que el contralateral por retracción del cordón espermático, no más bajo. La descripción de la opción A invierte la semiología real, por lo que es el dato incorrecto entre los ofertados.",
+   "incorrectas": {
+    "B": "Es un dato clínico real: en la torsión del cordón espermático puede palparse el engrosamiento del mismo y el nódulo o anillo de torsión por encima del testículo, lo que apoya el diagnóstico.",
+    "C": "El signo de Prehn es correcto en su descripción: en la orquiepididimitis la elevación del testículo alivia el dolor, mientras que en la torsión testicular la elevación empeora el dolor, siendo un signo diferenciador útil aunque no definitivo."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "El síndrome nefrótico se caracteriza por todo, EXCEPTO:",
+  "opciones": {
+   "A": "Proteinuria masiva (>3-3,5 g/día en adultos).",
+   "B": "Hematuria.",
+   "C": "Edemas."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La hematuria no forma parte de la tétrada característica del síndrome nefrótico (proteinuria masiva, hipoalbuminemia, edemas e hiperlipidemia/lipiduria). La hematuria es un hallazgo típico del síndrome nefrítico, que implica inflamación glomerular con rotura de la membrana basal.",
+   "incorrectas": {
+    "A": "La proteinuria masiva superior a 3-3,5 g/día en adultos es la característica definitoria del síndrome nefrótico, producida por el daño de la membrana de filtración glomerular que permite el paso de proteínas.",
+    "C": "Los edemas son una consecuencia directa del síndrome nefrótico: la pérdida de albúmina reduce la presión oncótica plasmática, favoreciendo el paso de líquido al intersticio y la retención hidrosalina."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "En el tratamiento del síndrome nefrítico está contemplado todo MENOS UNO de los siguientes:",
+  "opciones": {
+   "A": "Reposo durante la fase aguda.",
+   "B": "Dieta hiposódica con restricción hídrica y salina.",
+   "C": "Se prefieren los inhibidores de la enzima conversora de angiotensina (IECAs) para el control de la tensión arterial."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnóstico y actitud terapéutica urgente. Manejo del paciente con insuficiencia renal crónica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En el síndrome nefrítico agudo los IECAs no son el tratamiento antihipertensivo de primera elección, ya que el mecanismo principal de hipertensión es la retención hidrosalina (no la activación del sistema renina-angiotensina); además pueden empeorar la función renal en la fase aguda. Se prefieren los diuréticos y los calcioantagonistas para el control tensional.",
+   "incorrectas": {
+    "A": "El reposo en cama durante la fase aguda del síndrome nefrítico es una medida terapéutica clásica que reduce la carga renal y favorece la diuresis al mejorar la perfusión renal en posición de decúbito.",
+    "B": "La dieta hiposódica con restricción hídrica está indicada para contrarrestar la retención de sodio y agua que provoca la hipertensión y los edemas característicos del síndrome nefrítico agudo."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Paciente que acaba de sufrir un accidente de tráfico. Se encuentra consciente y en la toma de constantes presenta una presión arterial sistólica de 68 mm Hg y una frecuencia cardiaca de 43 lpm; la piel de las extremidades está caliente. ¿Cuál es la causa más probable de shock?",
+  "opciones": {
+   "A": "Shock hipovolémico.",
+   "B": "Shock neurogénico.",
+   "C": "Shock obstructivo."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 50,
+   "tema": "Shock. Concepto y etiología del shock. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El shock neurogénico se produce por lesión medular que interrumpe el tono simpático vasomotor, originando vasodilatación periférica (extremidades calientes) y bradicardia paradójica, a diferencia de otros tipos de shock donde la taquicardia es la respuesta compensadora. La hipotensión con bradicardia y piel caliente tras un traumatismo es la tríada clásica del shock neurogénico.",
+   "incorrectas": {
+    "A": "El shock hipovolémico por hemorragia produce taquicardia refleja y vasoconstricción periférica con piel fría, sudorosa y pálida, como respuesta del sistema simpático para compensar la pérdida de volumen; no cursa con bradicardia.",
+    "C": "El shock obstructivo (TEP masivo, taponamiento cardiaco) también genera taquicardia compensadora y signos de bajo gasto sin vasodilatación periférica; no explica la bradicardia ni la piel caliente observadas."
+   }
+  }
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Señale cuál NO es un efecto secundario agudo de una politrasfusión masiva (hematíes, plasma y plaquetas) en un paciente politraumatizado con shock hipovolémico por hemorragia.",
+  "opciones": {
+   "A": "Hipopotasemia.",
+   "B": "Hipocalcemia.",
+   "C": "Déficit de factores V y VII."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 74,
+   "tema": "Alteraciones de la hemostasia. Anticoagulación. Problemas trasfusionales y hemoderivados."
+  },
+  "explicacion": {
+   "correcta": "La complicación electrolítica aguda de la transfusión masiva es la hiperpotasemia (no hipopotasemia), ya que los concentrados de hematíes almacenados liberan potasio intracelular por lisis eritrocitaria. La hipopotasemia no es una complicación esperada de la transfusión masiva aguda.",
+   "incorrectas": {
+    "B": "La hipocalcemia es un efecto secundario real de la transfusión masiva: el citrato usado como anticoagulante en los hemoderivados quela el calcio ionizado plasmático, pudiendo producir hipocalcemia con alteraciones cardiacas y de la coagulación.",
+    "C": "El déficit de factores V y VIII es una complicación real de la transfusión masiva: estos factores lábiles se degradan durante el almacenamiento de los productos sanguíneos, y su dilución con grandes volúmenes favorece la coagulopatía dilucional."
+   }
+  }
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Indique la respuesta CORRECTA respecto a la Triada de Cushing en la hipertensión intracraneal.",
+  "opciones": {
+   "A": "Hipertensión arterial, bradicardia y respiración irregular.",
+   "B": "Cefalea, anisocoria y bradicardia.",
+   "C": "Anisocoria, bradicardia y bajo nivel de conciencia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La tríada de Cushing es la respuesta refleja del tronco encefálico ante la hipertensión intracraneal crítica y se compone de hipertensión arterial sistémica (reflejo de Cushing para mantener la perfusión cerebral), bradicardia refleja vagal y respiración irregular o atáxica; es un signo de herniación cerebral inminente.",
+   "incorrectas": {
+    "B": "La cefalea y la anisocoria son síntomas que pueden acompañar a la hipertensión intracraneal, pero no forman parte de la tríada de Cushing propiamente dicha; esta tríada se refiere específicamente a los cambios hemodinámicos y respiratorios.",
+    "C": "La anisocoria y el bajo nivel de conciencia son signos de herniación transtentorial, pero no integran la tríada de Cushing clásica, que se define por las alteraciones cardiovasculares y respiratorias específicas descritas en la opción A."
+   }
+  }
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Tras una punción lumbar, el líquido cefalorraquídeo (LCR) muestra: celularidad 1.500 células/µl (85% polimorfonucleares); glucosa 35 mg/dl; proteínas 110 mg/100 ml. ¿Cuál es el perfil del LCR?",
+  "opciones": {
+   "A": "Perfil purulento.",
+   "B": "Perfil mixto.",
+   "C": "Perfil linfocítico con hipoglucorraquia."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 69,
+   "tema": "Síndrome meníngeo. Encefalitis. Absceso cerebral. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El perfil purulento del LCR se define por pleocitosis con predominio de polimorfonucleares (>80%), hipoglucorraquia (glucosa <45 mg/dl o relación LCR/sangre <0,5) e hiperproteinorraquia; los valores presentados (1.500 cél/µl con 85% PMN, glucosa 35 mg/dl y proteínas 110 mg/dl) son típicos de meningitis bacteriana aguda.",
+   "incorrectas": {
+    "B": "El perfil mixto presenta células tanto polimorfonucleares como mononucleares en proporciones no tan dominantes, glucosa normal o levemente disminuida y proteínas moderadamente elevadas; no se corresponde con el predominio masivo de PMN y la hipoglucorraquia marcada del caso.",
+    "C": "El perfil linfocítico con hipoglucorraquia es típico de la meningitis tuberculosa o fúngica: predominio de linfocitos (células mononucleares), glucosa muy baja y proteínas elevadas; el caso muestra predominio de PMN, no de linfocitos."
+   }
+  }
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Dentro de las actuaciones en el Servicio de Urgencias, cuando atendemos a una víctima de violencia de género, ¿cuál de estas acciones no es necesaria?",
+  "opciones": {
+   "A": "Se debe remitir a su médico de primaria para valorar el riesgo de acuerdo a sus protocolos.",
+   "B": "Hacer el correspondiente Parte de lesiones y remitirlo al Juzgado.",
+   "C": "Prestar la correspondiente asistencia médica a la víctima."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 21,
+   "tema": "Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón: Disposiciones Generales."
+  },
+  "explicacion": {
+   "correcta": "En urgencias hospitalarias no es necesario remitir a la víctima a su médico de atención primaria para la valoración del riesgo; el propio servicio de urgencias debe realizar esa valoración de forma inmediata utilizando los protocolos específicos de violencia de género (incluida la escala VPR) y coordinar con trabajo social y los recursos de protección disponibles en el propio hospital.",
+   "incorrectas": {
+    "B": "Emitir el parte de lesiones y remitirlo al juzgado de guardia es una obligación legal del médico de urgencias que atiende a una víctima de violencia de género, independientemente de que la víctima quiera o no denunciar.",
+    "C": "La asistencia médica inmediata a la víctima es la actuación prioritaria e imprescindible en urgencias, tanto para atender las lesiones físicas como para garantizar su seguridad y bienestar durante el proceso asistencial."
+   }
+  }
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Respecto a la Isquemia mesentérica aguda, es FALSO que:",
+  "opciones": {
+   "A": "La prueba de elección es el Angio-TAC abdominal con contraste intravenoso trifásico.",
+   "B": "El tratamiento inicial incluye reposición hidroelectrolítica intensiva, tratamiento antibiótico de amplio espectro y corrección de la acidosis.",
+   "C": "Su mortalidad es baja, un 15-20% en las peores series."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnóstico diferencial."
+  },
+  "explicacion": {
+   "correcta": "La isquemia mesentérica aguda tiene una mortalidad muy elevada, superior al 60-80% en muchas series incluso con tratamiento, no del 15-20% como se afirma en la opción C. El pronóstico depende fundamentalmente del tiempo de isquemia y de la extensión del intestino afectado.",
+   "incorrectas": {
+    "A": "El Angio-TAC abdominal con contraste trifásico es efectivamente la prueba de imagen de elección para diagnosticar la isquemia mesentérica aguda, ya que permite visualizar la oclusión arterial o venosa y valorar la viabilidad intestinal con alta sensibilidad y especificidad.",
+    "B": "El tratamiento inicial con reposición hidroelectrolítica intensiva, antibioterapia de amplio espectro (para cubrir la translocación bacteriana) y corrección de la acidosis es correcto y forma parte del manejo urgente estándar mientras se prepara la revascularización."
+   }
+  }
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "Respecto a la punción lumbar, señale la respuesta FALSA.",
+  "opciones": {
+   "A": "La aguja o trocar se inserta habitualmente en el espacio subaracnoideo lumbar.",
+   "B": "Siempre se hace con el paciente en decúbito lateral.",
+   "C": "Se recomienda la espectrofotometría como método más sensible para demostrar la xantocromia en LCR en los casos de HSA."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 104,
+   "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+  },
+  "explicacion": {
+   "correcta": "La punción lumbar no siempre se realiza en decúbito lateral; también puede realizarse con el paciente sentado con el tronco flexionado hacia adelante, posición que en ocasiones facilita la apertura de los espacios interespinosos y es preferida en pacientes obesos o con dificultad para mantener el decúbito lateral.",
+   "incorrectas": {
+    "A": "Es correcto que la aguja se inserta habitualmente en el espacio subaracnoideo lumbar (entre L3-L4 o L4-L5), por debajo del cono medular, para evitar lesionar la médula espinal.",
+    "C": "Es correcto que la espectrofotometría del LCR es el método más sensible y específico para detectar xantocromia (presencia de oxihemoglobina y bilirrubina) en la hemorragia subaracnoidea, superior a la inspección visual del color del LCR."
+   }
+  }
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "La tríada clásica de amenorrea, metrorragia y dolor define clínicamente a:",
+  "opciones": {
+   "A": "El embarazo ectópico.",
+   "B": "La enfermedad trofoblástica gestacional.",
+   "C": "El desprendimiento de placenta normoinserta."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 78,
+   "tema": "Enfermedad hipertensiva grave en el embarazo. Hemorragias en la gestación. Metrorragia."
+  },
+  "explicacion": {
+   "correcta": "La tríada de amenorrea (signo de embarazo), metrorragia (sangrado vaginal oscuro escaso por caducidad decidual) y dolor abdominal o pélvico es la presentación clínica clásica del embarazo ectópico no roto; ante este cuadro se debe realizar una prueba de embarazo y ecografía transvaginal urgente para confirmar el diagnóstico.",
+   "incorrectas": {
+    "B": "La enfermedad trofoblástica gestacional (mola hidatiforme) cursa con amenorrea y sangrado vaginal, pero el útero es mayor de lo esperado para la edad gestacional, los niveles de beta-hCG son muy elevados y en ecografía aparece el patrón en tormenta de nieve; el dolor no es su signo principal.",
+    "C": "El desprendimiento de placenta normoinserta se presenta clásicamente con dolor abdominal brusco e intenso y sangrado vaginal en una gestante de tercer trimestre, no con la tríada de amenorrea-metrorragia-dolor del embarazo ectópico en el primer trimestre."
+   }
+  }
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Castilla y León 2024",
+  "enunciado": "El Delirium Tremens es una emergencia médica que, sin tratamiento, conlleva una mortalidad de hasta el 15%. ¿Cuándo suele desarrollarse este cuadro tras la supresión de la ingesta de alcohol por un alcohólico?",
+  "opciones": {
+   "A": "A las 6-8 h.",
+   "B": "Entre las 7 y las 48 h.",
+   "C": "Entre las 48 y las 96 h."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 101,
+   "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+  },
+  "explicacion": {
+   "correcta": "El delirium tremens es la complicación más grave del síndrome de abstinencia alcohólica y aparece típicamente entre las 48 y 96 horas tras la última ingesta, cuando ya han cedido los síntomas menores de abstinencia; se caracteriza por agitación, alucinaciones, hiperactividad autonómica y convulsiones, y requiere tratamiento urgente con benzodiacepinas.",
+   "incorrectas": {
+    "A": "A las 6-8 horas del cese del alcohol aparecen los síntomas iniciales y más leves del síndrome de abstinencia (temblor, sudoración, ansiedad, náuseas), no el delirium tremens, que requiere más tiempo para desarrollarse.",
+    "B": "Entre las 7 y 48 horas pueden aparecer las convulsiones por abstinencia alcohólica (crisis generalizadas), pero el delirium tremens propiamente dicho se desarrolla más tarde, habitualmente después de las 48 horas."
+   }
+  }
+ },
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Acude a la consulta un paciente con poliartritis, con un patron de afectacion asimetrico, a quien durante la exploracion clinica se encuentra la presencia de conjuntivitis, balanitis circinada y queratodermia plantar. ¿Cual seria su diagnostico?",
+  "opciones": {
+   "A": "Enfermedad de Behcet.",
+   "B": "Sindrome de Sjogren.",
+   "C": "Sindrome de Reiter."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "El Sindrome de Reiter (artritis reactiva) se caracteriza por la triada clasica de artritis asimetrica, conjuntivitis y uretritis/balanitis, acompanada en ocasiones de queratodermia blenorragica plantar. Es una artropatia inflamatoria reactiva tipicamente desencadenada por infecciones genitourinarias o enteropatogenas, y la combinacion de estos hallazgos es practicamente patognomonica de este sindrome.",
+   "incorrectas": {
+    "A": "La enfermedad de Behcet se caracteriza por ulceras orales recurrentes, ulceras genitales, uveitis y lesiones cutaneas, no por balanitis circinada ni queratodermia plantar.",
+    "B": "El sindrome de Sjogren se presenta fundamentalmente con xerostomia y xeroftalmia (ojo seco y boca seca) por afectacion de glandulas exocrinas, sin el patron de artritis asimetrica con balanitis y queratodermia descrito."
+   }
+  }
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En el tratamiento de las crisis tireotoxicas, ¿cual de estas opciones es FALSA?",
+  "opciones": {
+   "A": "El farmaco de eleccion antipiretico es el paracetamol.",
+   "B": "Los saliciliatos estan contraindicados.",
+   "C": "No se deben dar glucocorticoides."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tireotoxica. Crisis addisoniana. Crisis mixedematosa. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La afirmacion de que no se deben dar glucocorticoides es FALSA porque los corticoides (habitualmente hidrocortisona o dexametasona) son un pilar fundamental del tratamiento de la crisis tireotoxica: inhiben la conversion periferica de T4 a T3, bloquean la liberacion de hormonas tiroideas y tratan la posible insuficiencia suprarrenal relativa asociada. Su uso esta expresamente indicado en las guias de manejo de esta urgencia endocrinologica.",
+   "incorrectas": {
+    "A": "Es verdadero que el paracetamol es el antipiretico de eleccion en la crisis tireotoxica, por lo que esta opcion no es la falsa.",
+    "B": "Es verdadero que los salicilatos estan contraindicados porque desplazan las hormonas tiroideas de su union a proteinas plasmaticas, aumentando la fraccion libre y agravando la crisis, por lo que esta opcion tampoco es la falsa."
+   }
+  }
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "La Gerencia Regional de Salud de Castilla y Leon es: [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "Un organismo autonomo adscrito a la Consejeria de Sanidad.",
+   "B": "Un organismo autonomo adscrito a la Consejeria de Presidencia.",
+   "C": "Un organismo autonomo del Ministerio de Sanidad."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 24,
+   "tema": "El sistema sanitario. Niveles asistenciales. Organizacion de los servicios sanitarios en Aragon."
+  },
+  "explicacion": {
+   "correcta": "La Gerencia Regional de Salud de Castilla y Leon (SACYL) es un organismo autonomo de caracter administrativo adscrito a la Consejeria de Sanidad de la Junta de Castilla y Leon, con personalidad juridica propia y plena capacidad de obrar para el ejercicio de sus funciones de gestion de la asistencia sanitaria en dicha comunidad autonoma.",
+   "incorrectas": {
+    "B": "La Gerencia Regional de Salud depende organicamente de la Consejeria de Sanidad, no de la Consejeria de Presidencia, que tiene competencias de caracter general de gobierno pero no sanitarias.",
+    "C": "La gestion sanitaria en Castilla y Leon esta transferida a la comunidad autonoma, por lo que SACYL es un organismo autonomo de la Junta de Castilla y Leon y no del Ministerio de Sanidad estatal."
+   }
+  }
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "En cuanto al tratamiento del SCA (Sindrome Coronario Agudo), senale la respuesta INCORRECTA: [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "El acido acetil salicilico se debe administrar lo antes posible a dosis de 250mg, preferiblemente via oral masticado.",
+   "B": "La dosis inicial de ticagrelor en el SCA, es de 180mg.",
+   "C": "El acido acetil salicilico no se debe administrar si se utiliza prasugrel."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Sindrome coronario agudo. Codigo infarto en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "La opcion C es INCORRECTA porque el AAS siempre debe administrarse en el SCA independientemente del segundo antiagregante empleado (prasugrel, ticagrelor o clopidogrel); la doble antiagregacion (AAS mas un inhibidor del P2Y12) es el estandar de cuidado en el SCA, y prasugrel no contraindica el uso del AAS sino que se combina con el.",
+   "incorrectas": {
+    "A": "Es correcto que el AAS se administra precozmente a dosis de 250-300 mg masticado para una absorcion mas rapida, por lo que esta opcion es verdadera y no es la incorrecta.",
+    "B": "Es correcto que la dosis de carga de ticagrelor en el SCA es de 180 mg (dos comprimidos de 90 mg), seguida de 90 mg dos veces al dia de mantenimiento, por lo que esta opcion es verdadera y no es la incorrecta."
+   }
+  }
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Ante la confirmacion o sospecha de hipertension intracraneal, ¿cual de las siguientes respuestas es falsa? [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "La hiperventilacion mecanica manteniendo una PaCO2 de 28-35 mmHg puede ser util como primera medida ante una descompensacion aguda o previa al tratamiento quirurgico.",
+   "B": "Los corticoides intravenosos estan indicados en las primeras horas del ictus, ya sea isquemico o hemorragico.",
+   "C": "La dosis de manitol empleada es de 1g/Kg por via intravenosa administrados en 20 minutos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnostico diferencial y actitud terapeutica urgente."
+  },
+  "explicacion": {
+   "correcta": "La opcion B es FALSA porque los corticoides intravenosos NO estan indicados en el ictus isquemico ni en el hemorragico; en el ictus isquemico no han demostrado beneficio y pueden aumentar la hiperglucemia, y en el hemorragico tampoco han mostrado utilidad, quedando su uso reservado al edema cerebral por tumores o meningitis bacteriana.",
+   "incorrectas": {
+    "A": "Es verdadero que la hiperventilacion controlada (PaCO2 28-35 mmHg) puede usarse como medida transitoria para reducir la PIC en descompensaciones agudas o como puente al tratamiento definitivo, aunque no se recomienda de forma mantenida por el riesgo de isquemia cerebral.",
+    "C": "Es correcto que la dosis estandar de manitol para el tratamiento de la hipertension intracraneal es de 0.25-1 g/kg administrado en bolo rapido intravenoso (generalmente en 15-20 minutos), por lo que esta opcion es verdadera."
+   }
+  }
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Respecto a la Ascitis senale la respuesta CORRECTA: [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "La dosis de albumina recomendada al realizar una paracentesis evacuadora es de un frasco de 50 ml (10 gr) por cada 1,5L de liquido ascitico extraido.",
+   "B": "La administracion de Aminoglucosidos no esta contraindicada en la Peritonitis bacteriana espontanea.",
+   "C": "La cuantia de liquido ascitico evacuado no debe superar los 5L para evitar disfunciones hidroelectroliticas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Colico biliar. Colangitis aguda. Fracaso hepatico agudo. Encefalopatia hepatica aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La reposicion con albumina intravenosa es obligatoria en paracentesis evacuadoras de gran volumen (>5L) para prevenir la disfuncion circulatoria post-paracentesis; la dosis recomendada es de 6-8 g de albumina por litro extraido, lo que equivale aproximadamente a un frasco de 50 ml al 20% (10 g) por cada 1,5 L de liquido ascitico extraido.",
+   "incorrectas": {
+    "B": "Los aminoglucosidos estan contraindicados en la peritonitis bacteriana espontanea (y en general en el hepatopata con ascitis) por el elevado riesgo de nefrotoxicidad en estos pacientes con funcion renal comprometida; el tratamiento de eleccion son cefalosporinas de tercera generacion.",
+    "C": "No existe un limite absoluto de 5L en la paracentesis evacuadora; de hecho, las paracentesis de gran volumen (>5L) son seguras cuando se acompanan de reposicion adecuada con albumina intravenosa, y pueden evacuarse volumenes mayores sin disfunciones hidroelectroliticas significativas."
+   }
+  }
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Cual es la dosis recomendada para la profilaxis tromboembólica con enoxaparina, en una fractura del extremo proximal de femur al ingreso como norma general? [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "3500 UI/24 horas.",
+   "B": "5000 UI/24 horas.",
+   "C": "1 mg/kg/24 horas."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 87,
+   "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En la fractura de cadera (extremo proximal de femur) la profilaxis tromboembólica con enoxaparina se realiza a dosis terapeutica baja ajustada al peso de 1 mg/kg/24 horas (equivalente a 100 UI/kg/24h), dado el alto riesgo tromboembolico de esta fractura; esta pauta es superior a las dosis fijas de 3500 o 5000 UI en terminos de proteccion segun las guias clinicas especificas.",
+   "incorrectas": {
+    "A": "La dosis de 3500 UI/24h corresponde a una pauta de profilaxis de riesgo moderado (como cirugia general o ginecologica de riesgo intermedio) y es insuficiente para el alto riesgo tromboembolico asociado a la fractura de cadera.",
+    "B": "La dosis de 5000 UI/24h (equivalente a 40 mg/24h) se usa en profilaxis de alto riesgo en cirugia abdominal mayor o pacientes medicos encamados, pero en la fractura de cadera se prefiere la dosis ajustada al peso de 1 mg/kg/24h por el mayor riesgo."
+   }
+  }
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Paciente adulto que llega a urgencias sin alteracion hemodinamica ni respiratoria y con disminucion del nivel de conciencia por un traumatismo craneoencefalico (TCE). Al realizar la Glasgow Coma Scale (GCS) el paciente emite sonidos incompresibles y al estimulo doloroso abre los parpados y retira el miembro estimulado. Senale la respuesta CORRECTA: [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "GCS 6.",
+   "B": "GCS 4.",
+   "C": "GCS 8."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 86,
+   "tema": "Traumatismo craneoencefalico. Traumatismo toracico. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La puntuacion GCS se calcula sumando: apertura ocular al dolor (O2) + respuesta verbal con sonidos incompresibles (V2) + respuesta motora de retirada al dolor (M4), lo que da O2+V2+M4 = 8. Esta puntuacion indica un TCE grave (GCS 3-8) y es la correcta segun la descripcion clinica proporcionada.",
+   "incorrectas": {
+    "A": "GCS 6 no corresponde a la puntuacion obtenida: sumar O2+V2+M4 da 8 y no 6; una puntuacion de 6 se obtendria por ejemplo con O1+V1+M4 o O2+V1+M3, que no coincide con lo descrito.",
+    "B": "GCS 4 es una puntuacion muy baja que implicaria respuestas minimas en las tres categorias (por ejemplo O1+V1+M2), lo cual no corresponde a un paciente que abre ojos al dolor (O2), emite sonidos incompresibles (V2) y retira el miembro (M4)."
+   }
+  }
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "La onda de Capnografia durante una Parada Cardiorrespiratoria (PCR), es FALSO que se utilice para: [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "Verificar la colocacion del tubo endotraqueal (TET).",
+   "B": "Detectar una fibrilacion ventricular FV de pequeno voltaje, inapreciable en el monitor.",
+   "C": "Deteccion precoz del retorno de la circulacion espontanea (RCE)."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 41,
+   "tema": "Soporte vital basico y avanzado en el adulto y en el nino. Protocolos de actuacion. Desfibrilacion externa semiautomatica."
+  },
+  "explicacion": {
+   "correcta": "Es FALSO que la capnografia sirva para detectar una fibrilacion ventricular de bajo voltaje, ya que la capnografia mide el CO2 espirado como indicador de perfusion y ventilacion, no analiza el ritmo cardiaco ni la amplitud de las ondas electricas; la deteccion de FV de bajo voltaje es una funcion exclusiva del electrocardiograma y del monitor cardiaco.",
+   "incorrectas": {
+    "A": "Es verdadero que la capnografia verifica la colocacion correcta del TET: la presencia de CO2 espirado en forma de onda cuadrada confirma que el tubo esta en la traquea y no en el esofago, por lo que esta no es la afirmacion falsa.",
+    "C": "Es verdadero que la capnografia permite detectar precozmente el RCE durante la PCR, ya que la recuperacion de la circulacion produce un aumento brusco y sostenido del ETCO2 (normalmente por encima de 35-40 mmHg), por lo que esta tampoco es la afirmacion falsa."
+   }
+  }
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Llega un paciente al Servicio de Urgencias con una herida por arma blanca en epigastrio. Esta consciente pero confuso y sediento, con mala perfusion periferica, presenta ingurgitacion yugular, TA sistolica de 73 mm Hg, frecuencia cardiaca de 128 lpm. Que actitud adoptaria? [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "Fluidoterapia energica y FAST urgente a pie de cama del paciente.",
+   "B": "Fluidoterapia energica y realizar TAC toracoabdominal urgente.",
+   "C": "Fluidoterapia energica y Laparotomia urgente, pues dada su inestabilidad no hay tiempo que perder."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografia: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "En un paciente politraumatizado inestable (shock con TA 73 mmHg, FC 128 lpm), la ecografia FAST (Focused Assessment with Sonography in Trauma) a pie de cama es la tecnica de imagen de eleccion por su rapidez, disponibilidad inmediata y capacidad para detectar hemoperitoneo, hemopericardio o hemotorax sin trasladar al paciente; la ingurgitacion yugular orienta ademas a posible taponamiento cardiaco que el FAST puede confirmar de inmediato.",
+   "incorrectas": {
+    "B": "El TAC toracoabdominal requiere traslado del paciente a radiologia, lo que es peligroso en un paciente hemodinamicamente inestable como este; la ecografia FAST es mas rapida y segura como primera exploracion de imagen en este contexto.",
+    "C": "Realizar una laparotomia urgente sin confirmacion ecografica o de imagen previa seria precipitado, ya que la ingurgitacion yugular sugiere posible taponamiento cardiaco o hemotorax a tension que podrian requerir una intervencion diferente a la laparotomia; el FAST permite diferenciar estos diagnosticos antes de decidir la cirugia."
+   }
+  }
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Medico de Urgencias Hospitalarias Castilla y Leon 2024",
+  "enunciado": "Mujer de 55 anos de edad sin antecedentes de interes, que acude al servicio de urgencias por palpitaciones de 12 horas de evolucion, mostrando el electrocardiograma una fibrilacion auricular a 150 de respuesta ventricular. La actitud mas CORRECTA es: [PREGUNTA DE RESERVA]",
+  "opciones": {
+   "A": "Iniciar tratamiento para el control de la respuesta ventricular con un betabloqueante y si tras, 1 hora la frecuencia no ha disminuido asociar verapamilo.",
+   "B": "Revertir a ritmo sinusal: Realizar una cardioversion electrica sincronizada.",
+   "C": "Dado que lleva mas de 6 horas de evolucion, frenar la respuesta ventricular con 1 ampolla de digoxina intravenosa."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilacion auricular, taquicardia y fibrilacion ventricular."
+  },
+  "explicacion": {
+   "correcta": "En una FA de inicio conocido inferior a 24-48 horas (en este caso 12 horas) en una paciente sin cardiopatia estructural ni antecedentes relevantes, el objetivo es la cardioversion a ritmo sinusal; dado que la FA dura menos de 12 horas o hay certeza del inicio, la cardioversion electrica sincronizada es segura y eficaz sin necesidad de anticoagulacion previa prolongada, y es la actitud mas correcta ante una FA con respuesta ventricular rapida de inicio reciente.",
+   "incorrectas": {
+    "A": "Combinar betabloqueantes con verapamilo para control de frecuencia esta contraindicado por el riesgo de bloqueo auriculoventricular grave e hipotension; ademas, el objetivo en este caso (FA de inicio reciente sin cardiopatia) debe ser la cardioversion y no solo el control de frecuencia.",
+    "C": "La digoxina es el farmaco menos eficaz y de inicio de accion mas lento para el control de la frecuencia cardiaca en la FA aguda con respuesta ventricular rapida; ademas, el objetivo optimo en esta paciente de 12 horas de evolucion y sin antecedentes es restaurar el ritmo sinusal, no solo frenar la frecuencia."
+   }
+  }
+ }
+]

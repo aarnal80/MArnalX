@@ -1,0 +1,266 @@
+[
+ {
+  "id_examen": 89,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En una embarazada que ha tenido contacto con un caso de meningitis por Neisseria meningitidis y está indicada hacer profilaxis antibiótica, indique la opción verdadera.",
+  "opciones": {
+   "A": "Rifampicina 600 mg /12h 2 días",
+   "B": "Ciprofloxacino 750mg en dosis única",
+   "C": "Ceftriaxona 250 mg im en dosis única",
+   "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 90,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En relación a las manifestaciones de alarma de una cefalea, indique cuál de las siguientes respuestas es falsa.",
+  "opciones": {
+   "A": "Cefalea intensa de comienzo brusco.",
+   "B": "Cefalea que se desencadena con el ejercicio físico, tos, maniobra de Vasalva o con el decúbito.",
+   "C": "Cefalea crónica que cambia sus características de forma constante",
+   "D": "Cefalea hemicranea paroxistica"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 91,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En el tratamiento del cólico renoureteral, indique la falsa.",
+  "opciones": {
+   "A": "Los AINEs im o iv son el tratamiento recomendado para el control del dolor si no existe contraindicaciones para su uso.",
+   "B": "Pueden ser útiles analgésicos del tipo Metamizol iv o Paracetamol iv.",
+   "C": "Los opiáceos (clorhidrato de hidromorfina o Tramadol) no están indicados.",
+   "D": "Los espasmoliticos no están recomendados."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 92,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Señale la falsa en la pielofritis aguda en adultos que requiere ingreso.",
+  "opciones": {
+   "A": "Como tratamiento empiriro en general se puede comenzar con Ceftriaxona o Ceftazidima iv",
+   "B": "En pacientes con alergia a betalactamicos se recomienda usar aztreonam iv",
+   "C": "En pacientes con factores de riesgo de infección por enterobactarias productoras de BLEE se indicará ertapenem iv.",
+   "D": "Se cursará urocultivo y no se recomienda extraer hemocultivos."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 93,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante un paciente joven con dolor agudo testicular, con edema testicular y elevación y horizontalizacion del testículo, señale la verdadera.",
+  "opciones": {
+   "A": "Se realizará eco-doppler testicular urgente.",
+   "B": "Se realizará TAC abdomino-pelvico urgente.",
+   "C": "No está indicada prueba de imagen urgente.",
+   "D": "Ninguna es correcta."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 94,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cuál de las siguientes enfermedades de transmisión sexual no produce ulceras?",
+  "opciones": {
+   "A": "Sífilis",
+   "B": "Chancroide",
+   "C": "Herpes",
+   "D": "Gonococia"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 95,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Ante una anemia hemolítica, indique la respuesta falsa:",
+  "opciones": {
+   "A": "Recuento de reticulocitos aumentado",
+   "B": "Hiperbilirubinemia a expensas de bilirrubina indirecta",
+   "C": "LDH aumentada",
+   "D": "Aumento de la haptoglobina"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 96,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "Como factores de mal pronóstico en un golpe de calor podemos encontrar:",
+  "opciones": {
+   "A": "Coma de duración de más de 10 horas",
+   "B": "GOT> 1000 UI/l en las primeras 24 h",
+   "C": "Presencia de Coagulación Intravascular Diseminada",
+   "D": "Todas son correctas."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 97,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En relación a la eclampsia y a la preeclampsia en la embarazada indique la falsa",
+  "opciones": {
+   "A": "El labetalol no está indicado en las emergencias hipertensivas de la preeclampsia",
+   "B": "Preeclampsia es un desorden sistémico que afecta a mujeres embarazadas de mas de 20 semanas y cursa con Hipertensión arterial y proteinuria",
+   "C": "El Síndrome HELLP es una forma grave de preeclampsia que cursa con hemólisis, aumento de enzimas hepáticas y plaquetopenia.",
+   "D": "En la eclampsia está indicado el tratamiento intravenoso con sulfato de magnesio"
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 98,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En relación a los accidentes con agentes químicos, biológicos y nucleares (NBQ). Señale la verdadera",
+  "opciones": {
+   "A": "Es necesario que existan planes de emergencias extra e intrahospitalarios.",
+   "B": "Son necesarios simulacros que pongan en evidencia los problemas intrínsecos de cada unidad",
+   "C": "Se requiere formación del personal para el uso adecuado de los Equipos de protección individual (EPI) así como de las tiendas de descontaminación.",
+   "D": "Todas son verdaderas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 99,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "En la elección de un medio de transporte sanitario, intervienen muchos factores, señale la respuesta verdadera",
+  "opciones": {
+   "A": "La patología y el estado clínico del paciente",
+   "B": "Las condiciones propias del traslado (distancia y tiempo del traslado, horario, situación geográfica)",
+   "C": "Disponibilidad de recursos y adecuación de la necesidad de transporte al tipo de recurso.",
+   "D": "Todas son verdaderas"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 100,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "¿Cual de las siguientes valores no se utiliza para calcular la escala SOFA de un paciente séptico?",
+  "opciones": {
+   "A": "Bilirrubina",
+   "B": "Plaquetas",
+   "C": "Creatinina",
+   "D": "INR"
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 101,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1: Lactante de 7 meses que estando en una fiesta de cumpleaños, en una habitación junto con otros niños y cuidado por sus hermanas mayores, presenta de forma súbita dificultad respiratoria y tos. Avisan a los padres de los niños, entre los cuales hay una enfermera que encuentra al pequeño con afectación del estado general, consciente, con tos y retracción supraesternal.\n¿Cuál es su sospecha?",
+  "opciones": {
+   "A": "Laringitis aguda.",
+   "B": "Obstrucción de la vía aérea por cuerpo extraño.",
+   "C": "Crup espasmódico.",
+   "D": "Epiglotitis aguda."
+  },
+  "respuesta_correcta": "B"
+ },
+ {
+  "id_examen": 102,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): Lactante de 7 meses con dificultad respiratoria súbita y tos, consciente, con retracción supraesternal.\n¿Qué medidas iniciales debe realizar?",
+  "opciones": {
+   "A": "Mantenerlo incorporado para que siga tosiendo.",
+   "B": "Tumbarlo y buscar si tiene cuerpo extraño.",
+   "C": "Darle 5 golpes en la espalda.",
+   "D": "Darle 5 compresiones torácicas."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 103,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): Si la tos es inefectiva y el lactante continúa consciente, ¿qué medidas debería realizar?",
+  "opciones": {
+   "A": "Dar 5 compresiones torácicas en decúbito prono o dar 5 golpes en la espalda en decúbito supino hasta que el objeto sea expulsado.",
+   "B": "Dar 5 golpes en la espalda en decúbito supino o dar 5 compresiones torácicas en decúbito prono comprobando la expulsión del objeto.",
+   "C": "Dar 5 golpes en la espalda en decúbito prono o dar 5 compresiones torácicas en decúbito supino de forma secuencial o rotatoria hasta que el objeto sea expulsado.",
+   "D": "No dar golpes en la espalda para evitar la progresión del cuerpo extraño."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 104,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): Si a pesar de las medidas realizadas el lactante se torna inconsciente y cianótico, señale la respuesta correcta:",
+  "opciones": {
+   "A": "Pedir ayuda inmediatamente, comprobar si hay respiración, si no la hay abrir vía aérea con maniobra frente mentón y si no hay respuesta (movimientos de expansión del tórax, tos, respiraciones espontáneas) iniciar compresiones torácicas sin comprobar la circulación.",
+   "B": "Colocarle sobre una superficie plana, pedir ayuda, revisar la boca, si hay un cuerpo extraño evidente tratar de retirarlo con el barrido de un dedo, comprobar si hay respiración, si no la hay abrir la vía aérea con la maniobra frente mentón, realizar 5 ventilaciones de rescate, comprobando la eficacia de cada ventilación y si no hay respuesta iniciar compresiones torácicas sin comprobar la circulación.",
+   "C": "Colocarle sobre una superficie plana, pedir ayuda, revisar la boca y si hay un cuerpo extraño hay que extraerlo, comprobar si hay respiración, si no la hay abrir la vía aérea y realizar 5 ventilaciones de rescate y si no hay respuesta comprobar la circulación antes de iniciar las compresiones torácicas.",
+   "D": "Colocarle sobre el suelo, revisar la boca, si hay un cuerpo extraño evidente tratar de retirarlo con el barrido de un dedo, comprobar si hay respiración, si no la hay abrir la vía aérea con la maniobra frente mentón, realizar 5 ventilaciones de rescate, comprobando la eficacia de cada respiración y si no hay respuesta iniciar compresiones torácicas sin comprobar la circulación."
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 105,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): Llegan los servicios de emergencia, con laringoscopio visualizan un cuerpo extraño (una rueda de plástico de un cochecito de juguete) que consiguen extraer con unas pinzas de Magill, pero el lactante está en Parada Cardiorespiratoria. Señale la respuesta incorrecta respecto a las maniobras respiratorias a seguir y el material específico a utilizar para su edad:",
+  "opciones": {
+   "A": "Ventilar con bolsa de 500ml y mascarilla facial triangular.",
+   "B": "Tubos endotraqueales 3,5-4 sin balón y 3-3,5 con balón.",
+   "C": "Laringoscopio de pala recta números 0 ó 1.",
+   "D": "Proporcionar la ventilación con presión positiva a una frecuencia de 12-20 rpm."
+  },
+  "respuesta_correcta": null
+ },
+ {
+  "id_examen": 106,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): ¿Señale la respuesta incorrecta de cómo realizar el masaje cardíaco y a qué velocidad?",
+  "opciones": {
+   "A": "Si hay un solo reanimador se debe comprimir el esternón con la punta de dos de sus dedos.",
+   "B": "Si hay dos reanimadores, usar la \"técnica del abrazo\".",
+   "C": "Deprimir la parte inferior del esternón al menos 1/3 del diámetro anteroposterior del pecho del lactante, al menos 4 cm.",
+   "D": "La frecuencia debe ser > 120 por minuto."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 107,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): Respecto al acceso vascular, ¿qué cree indicado?",
+  "opciones": {
+   "A": "En este momento no tiene indicación.",
+   "B": "Se debe conseguir un acceso vascular interrumpiendo el masaje cardíaco y la ventilación.",
+   "C": "Canalizar vía periférica o central como vías de primera elección.",
+   "D": "La vía intraósea tiene todas las ventajas de un acceso venoso, pero es considerablemente más fácil y rápida de conseguir."
+  },
+  "respuesta_correcta": "D"
+ },
+ {
+  "id_examen": 108,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 1 (continuación): Si en el monitor con las palas del desfibrilador aparece asistolia, señale la respuesta correcta:",
+  "opciones": {
+   "A": "RCP durante dos minutos, evaluar el ritmo y si continúa en asistolia administrar Adrenalina a 0,1ml/kg de la solución 1:10000.",
+   "B": "RCP durante dos minutos, evaluar el ritmo y si continúa en asistolia administrar Adrenalina a 0,01ml/Kg de la solución al 1:10000.",
+   "C": "RCP durante dos minutos, evaluar el ritmo y si continúa en asistolia administrar Adrenalina a 0,1ml/Kg de la solución 1:1000.",
+   "D": "RCP durante dos minutos, evaluar el ritmo y si continúa en asistolia administrar Adrenalina a 0,01ml/Kg de la solución 1:1000."
+  },
+  "respuesta_correcta": "A"
+ },
+ {
+  "id_examen": 109,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 2: Varón de 92 años, autosuficiente, con antecedentes de FA en tratamiento con AAS e incontinencia urinaria. Llevado en ambulancia a urgencias del hospital por caída al intentar subirse a un automóvil. Ingresa con collarín cervical, algo desorientado, con tumefacción y hematomas en región fronto-temporal y palpebral derecha, rodilla, codo, muñeca y mano izquierdas y heridas incisas en 2º y 3º d de mano izquierda. TA 140/70, FC 80 y BMT 118mg/dl. Fractura de falange distal de 3º dedo. Durante su estancia en la sala de espera polivalente, la hija avisa porque está sudoroso y no responde.\nConsidere la respuesta más adecuada respecto a la actitud a seguir en este momento:",
+  "opciones": {
+   "A": "Administrar sueroterapia.",
+   "B": "Realizar un BMT.",
+   "C": "Comprobar si hay signos de vida.",
+   "D": "Tomar TA."
+  },
+  "respuesta_correcta": "C"
+ },
+ {
+  "id_examen": 110,
+  "fuente": "Examen OPE Médico de Urgencias Hospitalarias Andalucía 2018",
+  "enunciado": "CASO 2 (continuación): Presenta TA 50/30, FC 130, FR 28, SO2 94% y BMT 147 mg/dl. Estuporoso con Glasgow 8, marcada palidez mucocutánea, sudoración, frialdad, tonos cardíacos arrítmicos y rápidos, MVC, movimientos torácicos simétricos, pulsos distales ausentes, relleno capilar mayor a 3 segundos, sensación de masa en hipogastrio que impresiona de globo vesical, EKG con FA a 120 lpm con BCRD. Señale la actitud incorrecta a seguir en este momento:",
+  "opciones": {
+   "A": "Intubación traqueal.",
+   "B": "Canalización de otra vía periférica y repetir analítica, gasometría y pruebas cruzadas.",
+   "C": "Administrar suero fisiológico 0,9% 1000cc y 500cc de coloides en 20 minutos.",
+   "D": "Trasladar al servicio de radiodiagnóstico para realizar TAC craneal."
+  },
+  "respuesta_correcta": null
+ }
+]

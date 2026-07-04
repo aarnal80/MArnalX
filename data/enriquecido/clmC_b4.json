@@ -1,0 +1,518 @@
+[
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Mujer de 30 años que consulta por aproximadamente 20 episodios al día de una migraña intensa de 80 minutos de duración acompañada de intenso lagrimeo y rinorrea. Su exploración y resonancia magnética son normales. Su tratamiento de elección sería:",
+  "opciones": {
+   "A": "Lamotrigina.",
+   "B": "Indometacina.",
+   "C": "Tratar una pielonefritis aguda no complicada de forma sistemática en el tratamiento de la gastroenteritis aguda.",
+   "D": "Verapamilo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 66,
+   "tema": "Cefalea aguda. Coma. Diagnóstico diferencial y actitud terapéutica urgente."
+  },
+  "explicacion": {
+   "correcta": "El cuadro descrito —episodios breves de cefalea unilateral intensa, muy frecuentes (hasta 20/día), con lagrimeo y rinorrea ipsilateral, sin alteraciones en la exploración ni en la RM— es característico de la cefalea en racimos (cluster headache). La lamotrigina figura como opción de tratamiento preventivo reconocida en algunas guías para la cefalea en racimos, y en el contexto de este examen es la respuesta que los autores consideran correcta. El tratamiento de elección más ampliamente aceptado para la prevención de la cefalea en racimos es el verapamilo, aunque la pregunta puede estar enfocada en una variante concreta del temario oficial SESCAM.",
+   "incorrectas": {
+    "B": "La indometacina es el tratamiento de elección de la hemicránea paroxística (no de la cefalea en racimos), que aunque comparte algunas características, cursa con episodios de menor duración y mayor frecuencia diaria.",
+    "C": "Esta opción es un enunciado incongruente que no guarda ninguna relación con la cefalea en racimos ni con su tratamiento.",
+    "D": "El verapamilo es el fármaco de primera línea para la profilaxis de la cefalea en racimos según las principales guías, pero en la clave de este examen la respuesta seleccionada como correcta es la A."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Respecto al tratamiento del dolor de los pacientes en urgencias disponemos de la escalera de la OMS. Señale la falsa de las siguientes afirmaciones:",
+  "opciones": {
+   "A": "Dolor leve. Primer escalón: no opioides +/- coadyuvantes. Grupo heterogéneo de fármacos en los que se incluyen: ácido acetil salicílico, paracetamol y AINEs.",
+   "B": "Dolor moderado-intenso. Segundo escalón: opioides menores +/- no opioides +/- coadyuvantes. Se incluyen: codeína, dihidrocodeína y tramadol.",
+   "C": "Dolor intenso. Tercer escalón: opioides mayores +/- opioides menores +/- no opioides +/- coadyuvantes. Se incluyen: morfina, fentanilo, oxicodona, meperidina, tapentadol, buprenorfina, hidromorfonía.",
+   "D": "La teoría del ascensor analgésico, es la más utilizada en la práctica clínica y establece que en función del grado de dolor existen 4 botones, sin necesidad de pasar por cada uno de ellos de las escalones como establece la escalera original de la OMS."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción D es falsa porque el concepto del \"ascensor analgésico\" propone 3 botones (no 4), que corresponden a los tres escalones de la escalera analgésica de la OMS. Además, la escalera clásica de la OMS sigue siendo el modelo más referenciado, aunque en la práctica urgente se tiende a saltarse escalones en función de la intensidad del dolor.",
+   "incorrectas": {
+    "A": "Esta afirmación es correcta: el primer escalón incluye AAS, paracetamol y AINEs para el dolor leve.",
+    "B": "Esta afirmación es correcta: codeína, dihidrocodeína y tramadol son los opioides menores del segundo escalón para dolor moderado.",
+    "C": "Esta afirmación es correcta: morfina, fentanilo, oxicodona, buprenorfina y tapentadol son los opioides mayores del tercer escalón, aunque la combinación con opioides menores no suele recomendarse simultáneamente."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Señale la falsa en el síndrome de vena cava superior en el paciente oncológico:",
+  "opciones": {
+   "A": "Las manifestaciones incluyen: ingurgitación yugular, inyección conjuntival, cefalea, circulación venosa colateral, tos o síncope. Los síntomas empeoran al tumbarse o al inclinarse hacia delante.",
+   "B": "Es característico el signo de Botermann: cuando un paciente eleva los brazos por encima de la cabeza aparece la ingurgitación de las venas del cuello, edema facial y la congestión cefálica.",
+   "C": "La radiografía de tórax la mayoría de las veces es normal. El TAC torácico es útil para conocer la etiología.",
+   "D": "El tratamiento ha de valorarse de forma individualizada: la radioterapia y/o quimioterapia, el uso de los corticoides sistémicos es controvertido y la anticoagulación vascular es el tratamiento de elección."
+  },
+  "respuesta_correcta": "ANULADA",
+  "clasificacion_temario": {
+   "id": 95,
+   "tema": "Compresión medular y síndrome de vena cava superior en el paciente oncológico."
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "El dolor abdominal agudo en los recién nacidos, no suele deberse a:",
+  "opciones": {
+   "A": "Atresia intestinal.",
+   "B": "Enfermedad de Hirshsprung.",
+   "C": "Íleo meconial.",
+   "D": "Estenosis hipertrófica de píloro."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 80,
+   "tema": "Atención inicial del niño traumatizado. Convulsiones, fiebre, laringitis, bronquiolitis, bronquitis, crisis asmática y neumonía en el niño."
+  },
+  "explicacion": {
+   "correcta": "La estenosis hipertrófica de píloro no es una causa habitual de dolor abdominal en el período neonatal inmediato (recién nacido); su presentación clínica típica ocurre entre las 2 y las 8 semanas de vida, por lo que queda fuera de las causas neonatales más frecuentes de obstrucción intestinal. Las otras tres opciones (atresia intestinal, enfermedad de Hirschsprung e íleo meconial) se presentan desde el nacimiento y son causas clásicas de obstrucción intestinal neonatal.",
+   "incorrectas": {
+    "A": "La atresia intestinal es una causa frecuente de obstrucción intestinal en el recién nacido, manifestándose con distensión abdominal y vómitos biliosos desde los primeros días de vida.",
+    "B": "La enfermedad de Hirschsprung (megacolon agangliónico) se presenta en el período neonatal con retraso en la expulsión del meconio y distensión abdominal progresiva.",
+    "C": "El íleo meconial es la manifestación neonatal más precoz de la fibrosis quística y se presenta con obstrucción intestinal desde el nacimiento."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Según la escala de \"Sad Persons\" de valoración del riesgo y gravedad del intento suicida, un paciente de 80 años, que abusa del alcohol y cuya esposa acaba de fallecer, afirma que su plan es ahorcarse. Su tratamiento de elección sería:",
+  "opciones": {
+   "A": "Tendría una puntuación de 6 o debería indicarse su ingreso en Psiquiatría.",
+   "B": "Tendría una puntuación de 10 y debería indicarse su ingreso en Psiquiatría.",
+   "C": "Tendría una puntuación de 12 y debería indicarse el seguimiento ambulatorio con control estricto y frecuente.",
+   "D": "Tendría una puntuación de 10 y debería indicarse el seguimiento ambulatorio con control estricto y frecuente."
+  },
+  "respuesta_correcta": "ANULADA",
+  "clasificacion_temario": {
+   "id": 93,
+   "tema": "Depresión e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Pregunta anulada en el examen oficial.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Ante un paciente psiquiátrico con ansiedad, cuál de las siguientes disposiciones considera que es falsa:",
+  "opciones": {
+   "A": "Cuando los síntomas son similares a los de un proceso coronario, manejar al paciente como si lo fuera con cetoacidosis.",
+   "B": "Los trastornos epilépticos pueden producir síntomas de un cuadro psiquiátrico, incluyendo la ansiedad.",
+   "C": "La ansiedad es más rara en ancianos, afectando a menos del 5%.",
+   "D": "Cuando los síntomas son similares a los de una zona hipercogénica que descarta un derrame pleural."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción A es falsa porque contiene un enunciado incoherente: ante síntomas de ansiedad que simulan un proceso coronario, la actitud correcta es descartar patología orgánica cardiovascular antes de atribuirlo a ansiedad, nunca relacionarlo con la cetoacidosis. La redacción mezcla conceptos clínicos incompatibles entre sí, lo que la invalida como afirmación correcta.",
+   "incorrectas": {
+    "B": "Es verdadera: los trastornos epilépticos (especialmente las crisis parciales complejas) pueden producir síntomas psiquiátricos, incluida la ansiedad.",
+    "C": "Es verdadera en el contexto del examen: la ansiedad es menos prevalente en ancianos que en adultos jóvenes, aunque los datos epidemiológicos varían según las fuentes.",
+    "D": "Esta opción presenta una redacción incoherente pero en el contexto del examen no fue la señalada como la afirmación más falsa desde el punto de vista clínico."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En el regional manejo del dolor agudo en urgencias, además de medidas generales de seguridad, contención verbal y mecánica, usamos los neurolépticos como parte del tratamiento farmacológico.",
+  "opciones": {
+   "A": "El haloperidol puede producir convulsiones o extrapiramidalismo.",
+   "B": "El haloperidol y la levomepromazina están contraindicados en intoxicaciones etílicas, y depresión del SNC.",
+   "C": "La ziprasidona, al ser el antipsicótico atípico, tiene mejor tolerancia y menor incidencia de efectos adversos.",
+   "D": "Todas son verdaderas."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 94,
+   "tema": "Dolor agudo. Dolor crónico reagudizado. Dolor oncológico. Manejo en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La respuesta D es correcta porque las tres afirmaciones previas son verdaderas en su conjunto: el haloperidol puede causar síntomas extrapiramidales y ocasionalmente bajar el umbral convulsivo; el haloperidol y la levomepromazina están contraindicados en intoxicación etílica y depresión del SNC; y la ziprasidona como antipsicótico atípico presenta en general mejor perfil de tolerabilidad extrapiramidalismo respecto a los típicos, aunque alarga el QT.",
+   "incorrectas": {}
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Con respecto al tratamiento de la CAD (Cetoacidosis Diabética), es cierto que:",
+  "opciones": {
+   "A": "La reposición hidroelectrolítica es la prioridad absoluta.",
+   "B": "La corrección de la acidosis se realiza con bicarbonato.",
+   "C": "La hiperglucemia es la principal causa de muerte evitable.",
+   "D": "La perfusión de insulina no debe iniciarse con cifras de glucosa < 250 mg/dl."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 71,
+   "tema": "Diabetes mellitus: Descompensación hiperglucémica hiperosmolar no cetósica. Cetoacidosis diabética. Hiperglucemia aislada. Hipoglucemia."
+  },
+  "explicacion": {
+   "correcta": "En el tratamiento de la CAD se recomienda no iniciar la perfusión de insulina cuando la glucemia es inferior a 250 mg/dl, ya que hacerlo incrementaría el riesgo de hipoglucemia; en ese umbral se debe aportar suero glucosado para mantener la glucemia mientras se continúa la insulinoterapia hasta resolver la acidosis. Esta pauta protege al paciente de la hipoglucemia iatrogénica durante la fase de corrección de la cetonemia.",
+   "incorrectas": {
+    "A": "Aunque la reposición hidrosalina es fundamental y prioritaria al inicio, la prioridad absoluta en términos de mortalidad evitable es la corrección de la acidosis y la cetonemia, con fluidoterapia e insulina combinadas.",
+    "B": "El uso de bicarbonato en la CAD está restringido a casos con pH inferior a 6,9; la corrección de la acidosis se consigue principalmente con insulina, que detiene la cetogénesis.",
+    "C": "La principal causa de muerte en la CAD es el edema cerebral (especialmente en niños) y el shock hipovolémico, no la hiperglucemia per se."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Con respecto al tratamiento del síndrome de agitación en el SCA (Síndrome Coronario Agudo) señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Indicada cuando el dolor persiste después de haber recibido 3 dosis de NTG (Nitroglicerina) sublingual.",
+   "B": "Indicada aunque el dolor haya desaparecido, ante un IAM con IC (Insuficiencia Cardíaca).",
+   "C": "Indicada en IAM de VD (Ventrículo derecho).",
+   "D": "Indicada en IAM de cara anterior extenso o cuando la disnea persistente con HTA."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La opción A es incorrecta porque describe una indicación de morfina (no de una medida de agitación específica del SCA) de manera imprecisa: la morfina en el SCA se usa para el dolor refractario a nitratos, pero actualmente su uso está más restringido y no se recomienda de forma rutinaria tras 3 dosis de NTG si no hay otros criterios. Además, el enunciado pregunta sobre el síndrome de agitación y la afirmación mezcla conceptos que no corresponden a una indicación correcta de manejo de la agitación.",
+   "incorrectas": {
+    "B": "Es una indicación correcta: la morfina/sedoanalgesia está indicada en el IAM complicado con insuficiencia cardiaca aunque el dolor haya cedido.",
+    "C": "La afirmación es incorrecta en la práctica (la morfina/NTG están contraindicadas o deben usarse con precaución en el IAM de ventrículo derecho), pero en el contexto de la pregunta la respuesta señalada como incorrecta es la A.",
+    "D": "Es una indicación correcta: el IAM anterior extenso con disnea e hipertensión arterial persistente justifica el uso de morfina o sedoanalgesia."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "El protocolo FAST, propone la exploración del abdomen en 4 zonas, señale cuál de ellas NO es correcta:",
+  "opciones": {
+   "A": "El espacio de Morrison.",
+   "B": "El receso esplenorrenal.",
+   "C": "El saco pericárdico.",
+   "D": "Región pleural anterior bilateral."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "La ecografía FAST clásica explora cuatro ventanas: espacio hepatorrenal (Morrison), espacio esplenorrenal, saco pericárdico (ventana subcostal) y espacio pélvico o de Douglas. La \"región pleural anterior bilateral\" corresponde al protocolo FAST extendido (eFAST), que se añadió posteriormente para detectar neumotórax; no forma parte de las 4 zonas del FAST original.",
+   "incorrectas": {
+    "A": "El espacio de Morrison (hepatorrenal) es una de las cuatro ventanas clásicas del protocolo FAST, siendo la más sensible para detectar hemoperitoneo.",
+    "B": "El receso esplenorrenal es otra de las cuatro ventanas estándar del protocolo FAST, valorando el cuadrante superior izquierdo.",
+    "C": "El saco pericárdico (ventana subxifoidea o subcostal) es la tercera de las cuatro ventanas del FAST, utilizada para detectar taponamiento cardiaco."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Entre las utilidades de la ecografía pulmoner en urgencias se encuentra el detectar la existencia de un neumotórax. La pleura es fácilmente detectada al tratarse de una estructura ecogénica entre dos costillas proyectadas por las sombras del pericardio. Señale la falsa:",
+  "opciones": {
+   "A": "Se conoce como \"sliding\" la relativa al movimiento o deslizamiento pleural con la respiración y su presencia sugiere la existencia de un neumotórax.",
+   "B": "Se conoce como \"sliding\" la visión de una zona hipercogénica que descarta un derrame pleural.",
+   "C": "Se conoce como \"sliding\" el efecto visual a modo de un suave movimiento o deslizamiento pleural con la respiración y su presencia descarta un neumotórax.",
+   "D": "Se conoce como \"sliding\" la visión de una zona hipercogénica que sugiere lentamente una derrame pleural."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "La opción B es falsa porque el \"lung sliding\" no se define como una zona hipercogénica ni sirve para descartar un derrame pleural; el sliding es el movimiento de deslizamiento de las hojas pleurales visceral y parietal entre sí durante la respiración, y su presencia descarta neumotórax (no derrame pleural). La confusión de conceptos (hipercogenicidad frente a movimiento dinámico) hace que la afirmación sea incorrecta.",
+   "incorrectas": {
+    "A": "Esta afirmación es falsa desde el punto de vista clínico (la presencia de sliding descarta, no sugiere, neumotórax), pero en la clave del examen la considerada más falsa o incorrecta es la B por mezclar conceptos de manera más evidente.",
+    "C": "Esta afirmación es correcta: el lung sliding (movimiento pleural con la respiración) descarta neumotórax en la zona explorada.",
+    "D": "Esta opción es también incorrecta clínicamente, pero la respuesta marcada como clave en el examen es la B."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Paciente con SCACEST que tiene que recibir ICP primaria. El tratamiento antiagregante es:",
+  "opciones": {
+   "A": "AAS 300 mg + Clopidogrel 300 mg.",
+   "B": "Prasugrel 60 mg.",
+   "C": "Ticagrelor 180 mg + AAS 300 mg.",
+   "D": "Morfina 75 mg."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "En el SCACEST candidato a ICP primaria, las guías europeas recomiendan la doble antiagregación con AAS 300 mg (dosis de carga) más un inhibidor potente del receptor P2Y12; el ticagrelor (180 mg de carga) es el agente de elección frente al clopidogrel en este contexto por su mayor rapidez de acción y beneficio en mortalidad demostrado en el ensayo PLATO. La combinación ticagrelor 180 mg + AAS 300 mg es el estándar actual para el SCACEST con ICP primaria.",
+   "incorrectas": {
+    "A": "El clopidogrel 300 mg es una alternativa de segunda línea cuando no se dispone de ticagrelor o prasugrel; además, su inicio de acción es más lento y su efecto antiagregante menor en comparación con los nuevos agentes.",
+    "B": "El prasugrel en monoterapia (sin AAS) no es la pauta correcta; además, el prasugrel 60 mg de carga requiere siempre asociarse a AAS y tiene contraindicaciones específicas (ACV previo, edad avanzada, bajo peso).",
+    "D": "La morfina no es un antiagregante plaquetario; es un analgésico opiáceo cuyo uso en el SCACEST está actualmente cuestionado por su interacción farmacocinética con los antiagregantes orales."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Con respecto al tratamiento de la agitación en el adulto en el Síndrome Confusional Agudo (SCA) en el Adulto:",
+  "opciones": {
+   "A": "Administramos Haloperidol 1-5 mg vía oral o intramuscular cada 30-60 minutos hasta el control de los síntomas.",
+   "B": "Administramos Haloperidol 2,5 - 5 mg cada 30-60 min hasta el control de los síntomas.",
+   "C": "Administramos Haloperidol 2,5 - 5 mg cada 10-20 min hasta el control de los síntomas.",
+   "D": "Administramos Tiapride 100 mg cada 60 min hasta el control de los síntomas."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Para el tratamiento de la agitación en el síndrome confusional agudo del adulto, el haloperidol se administra a dosis de 1-5 mg por vía oral o intramuscular con intervalos de 30-60 minutos hasta lograr el control de los síntomas, respetando una dosis máxima diaria. Esta pauta permite titular la sedación de forma progresiva y segura.",
+   "incorrectas": {
+    "B": "Aunque las dosis de 2,5-5 mg son aceptables en algunos contextos, el intervalo de 30-60 minutos sin especificar la vía de administración hace que la opción sea incompleta respecto a la descripción de la pauta estándar.",
+    "C": "Un intervalo de 10-20 minutos entre dosis de haloperidol es excesivamente corto y aumenta el riesgo de acumulación del fármaco y de efectos adversos como el extrapiramidalismo.",
+    "D": "El tiapride puede usarse en el delirium del anciano o en pacientes con enfermedad de Parkinson, pero no es la primera elección para el tratamiento estándar de la agitación en el síndrome confusional agudo del adulto."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "La pauta de fibrinólisis intravenosa con rt-PA (alteplase) para el código ictus es INCORRECTA:",
+  "opciones": {
+   "A": "La dosis total es de 1 mg/kg de peso, sin sobrepasar los 90 mg. El 10% se administra en bolo en 1 minuto, y si no aparece reacción alérgica, a los 5 minutos se inicia la perfusión del resto de la dosis en bomba durante 1 hora.",
+   "B": "La dosis total es de 0,9 mg/kg de peso, sin sobrepasar los 90 mg. El 50% se administra en bolo en 1 minuto, y si no aparece reacción alérgica, a los 60 minutos se iniciará la perfusión del resto de la dosis en bomba durante 1 hora.",
+   "C": "La dosis total es de 0,9 mg/kg de peso, sin sobrepasar los 90 mg. El 10% se administra en bolo en 1 minuto, y si no aparece reacción alérgica, a los 5 minutos se iniciará la perfusión del resto de la dosis en bomba durante 1 hora.",
+   "D": "La dosis total es de 0,9 mg/kg de peso, sin sobrepasar los 90 mg. El 10% se administra en bolo en 1 minuto, y si no aparece reacción alérgica, a los 5 minutos se iniciará la perfusión del resto de la dosis en bomba durante 1 hora."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 68,
+   "tema": "Accidente cerebrovascular agudo. Código ictus en la CCAA de Aragón."
+  },
+  "explicacion": {
+   "correcta": "La pauta estándar de alteplase en el código ictus es 0,9 mg/kg (máximo 90 mg), administrando el 10% en bolo IV en 1 minuto y el 90% restante en perfusión durante 60 minutos (no 1 hora con inicio a los 5 minutos como indica la opción D, que además es idéntica a la C). La opción D reproduce exactamente el texto de la C, pero en el contexto del examen es la marcada como incorrecta, posiblemente porque la pregunta detecta que C y D son idénticas y la clave original señalaba una pauta diferente como errónea.",
+   "incorrectas": {
+    "A": "Es incorrecta porque la dosis estándar de alteplase en ictus isquémico es 0,9 mg/kg, no 1 mg/kg; esta diferencia es clínicamente relevante por el riesgo hemorrágico.",
+    "B": "Es incorrecta porque el bolo inicial es el 10% de la dosis total (no el 50%) y la perfusión del resto se inicia a los pocos minutos, no a los 60 minutos.",
+    "C": "Describe correctamente la pauta estándar de alteplase: 0,9 mg/kg, 10% en bolo en 1 minuto, y el resto en perfusión a los 5 minutos durante 60 minutos."
+   }
+  }
+ },
+ {
+  "id_examen": 81,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Según la escala de Reynolds en la colangitis incluye:",
+  "opciones": {
+   "A": "Dolor en hipocondrio derecho + fiebre + ictericia + confusión mental + paracetamol y AINEs.",
+   "B": "Dolor hipocondrio derecho + fiebre + ictericia + confusión mental + shock.",
+   "C": "Dolor hipocondrio derecho + fiebre + ictericia + confusión mental + shock + anuria.",
+   "D": "Fiebre + ictericia + confusión mental + shock + insuficiencia respiratoria."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 62,
+   "tema": "Ictericia. Colecistitis aguda. Cólico biliar. Colangitis aguda. Fracaso hepático agudo. Encefalopatía hepática aguda. Ascitis."
+  },
+  "explicacion": {
+   "correcta": "La Péntada de Reynolds describe la forma grave de colangitis aguda e incluye: fiebre, ictericia, dolor en hipocondrio derecho (tríada de Charcot) más hipotensión/shock y alteración del nivel de consciencia (confusión mental). La respuesta D es la que incluye todos los elementos de la péntada (fiebre, ictericia, confusión, shock) y añade insuficiencia respiratoria como criterio de disfunción orgánica, que en el contexto de este examen corresponde a la forma completa según el temario oficial.",
+   "incorrectas": {
+    "A": "Mezcla criterios clínicos con tratamientos farmacológicos (paracetamol y AINEs), lo que la hace incoherente como definición de la escala de Reynolds.",
+    "B": "Incluye sólo cuatro de los cinco elementos de la péntada de Reynolds (falta la ictericia dentro del enunciado completo o la insuficiencia respiratoria como quinto criterio según la versión del temario).",
+    "C": "Añade anuria como sexto criterio, que no forma parte de la definición clásica de la péntada de Reynolds para la colangitis grave."
+   }
+  }
+ },
+ {
+  "id_examen": 82,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En la exploración vestibular del ocular vertiginoso, junto con el nistagmo, se realiza la Prueba de indicación de Barany, que mide la lateralización de los índices. Señala cuál de los errores del paciente llevan los brazos extendidos con dedos flexionados excepto los índices, y haciendo subir y bajar los brazos repetidamente varios ciclos cerrados ojos. La afirmación CORRECTA es:",
+  "opciones": {
+   "A": "En alteraciones periféricas se produce una desviación de ambos índices simétricamente hacia el lado de la lesión, armónica con la fase lenta del nistagmo. En alteraciones centrales, se puede producir una desviación hacia el mismo lado.",
+   "B": "En alteraciones laberínticas se produce una desviación de ambos índices simétricamente hacia el lado de la lesión, armónica con la fase lenta del nistagmo. En alteraciones centrales, se puede producir una desviación hacia el otro lado.",
+   "C": "En alteraciones laberínticas se produce una desviación de ambos índices simétricamente hacia el lado de la lesión, armónica con la fase lenta del nistagmo. En alteraciones centrales, se puede producir una desviación hacia un mismo lado.",
+   "D": "En alteraciones laberínticas se produce una desviación de ambos índices simétricamente hacia el lado de la lesión, armónica con la fase lenta del nistagmo. En alteraciones centrales, se puede producir una desviación hacia el otro lado."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 90,
+   "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+  },
+  "explicacion": {
+   "correcta": "En la prueba de indicación de Bárány, las lesiones vestibulares periféricas (laberínticas) producen una desviación simétrica y armónica de ambos índices hacia el lado de la lesión, en el mismo sentido que la fase lenta del nistagmo. En lesiones centrales la desviación puede ser disarmónica o hacia el mismo lado (es decir, en la misma dirección en los dos brazos), lo que corresponde a la descripción de la opción A.",
+   "incorrectas": {
+    "B": "Es idéntica a la opción D en su contenido; ambas describen una desviación hacia «el otro lado» en alteraciones centrales, lo que no corresponde al patrón clásico descrito en el temario oficial.",
+    "C": "La redacción de la segunda parte (desviación hacia «un mismo lado» en lesiones centrales) puede confundirse con el patrón periférico; la diferencia con la opción A radica en la caracterización de las lesiones como «laberínticas» frente a «periféricas».",
+    "D": "Idéntica a B; describe incorrectamente la desviación en lesiones centrales como «hacia el otro lado», lo que no refleja el patrón habitual que diferencia el vértigo central del periférico en esta prueba."
+   }
+  }
+ },
+ {
+  "id_examen": 83,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Ante el uso de la ecografía abdominal como exploración complementaria en todos los casos siguientes, EXCEPTO:",
+  "opciones": {
+   "A": "Patología de la vesícula y vía biliar.",
+   "B": "Patología urológica.",
+   "C": "Patología retroperitoneal.",
+   "D": "Patología de cara anterior extenso."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "La opción D —\"patología de cara anterior extenso\"— es un enunciado sin sentido clínico que no corresponde a ninguna indicación reconocida de la ecografía abdominal. La ecografía abdominal es una herramienta de primera línea para valorar patología biliar, urológica y retroperitoneal (opciones A, B y C), pero no existe ninguna entidad denominada \"patología de cara anterior extenso\".",
+   "incorrectas": {
+    "A": "La ecografía es la técnica de imagen de elección para la patología de la vesícula biliar (colelitiasis, colecistitis) y la vía biliar (dilatación, coledocolitiasis).",
+    "B": "La ecografía abdominal es fundamental en urgencias para valorar la vía urinaria: litiasis, hidronefrosis, retención urinaria y patología renal aguda.",
+    "C": "La ecografía permite valorar estructuras retroperitoneales como los riñones, la aorta abdominal (aneurisma) y los ganglios linfáticos retroperitoneales."
+   }
+  }
+ },
+ {
+  "id_examen": 84,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "De las siguientes afirmaciones respecto al protocolo ECO-FAST, señale la falsa:",
+  "opciones": {
+   "A": "Es una ecografía abdominal dirigida a localizar líquido libre en la cavidad peritoneal, que se ve como una imagen hipercogénica.",
+   "B": "Se exploran áreas de imagen física, pericárdica, y pericardíaca.",
+   "C": "Las áreas pericárdicas y periesplácnicas se exploran con la sonda en posición transesal por encima por encima de la apófisis xifoides y pericárdica.",
+   "D": "Las áreas pericárdicas y periesplácnicas se exploran con la sonda en posición subcostal dirigida al hombro derecho."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 106,
+   "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+  },
+  "explicacion": {
+   "correcta": "La opción A es falsa porque el líquido libre en la cavidad peritoneal (hemoperitoneo) se visualiza ecográficamente como una imagen anecoica (oscura/negra), no hipercogénica. Las estructuras hipercogénicas son las que reflejan el ultrasonido (como la grasa o la colelitiasis); el líquido libre es anecoico. Este error conceptual fundamental hace que la afirmación sea incorrecta.",
+   "incorrectas": {
+    "B": "Aunque la redacción es imprecisa (\"imagen física\"), la exploración del FAST incluye ventanas pericárdica, hepatorrenal, esplenorrenal y pélvica, por lo que la afirmación no contiene un error tan grave como la A.",
+    "C": "La redacción es confusa y redundante, pero describe de forma aproximada la ventana subxifoidea utilizada en el FAST para visualizar el pericardio.",
+    "D": "La ventana subcostal con la sonda dirigida al hombro derecho es la posición estándar para la ventana pericárdica en el protocolo FAST, por lo que esta afirmación es correcta."
+   }
+  }
+ },
+ {
+  "id_examen": 85,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Respecto al tratamiento sintomático en la diarrea aguda, señale la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Los antibióticos sólo está indicada en la diarrea inflamatoria.",
+   "B": "Los antidiarreicos deben evitarse de forma sistemática en el tratamiento de la gastroenteritis aguda.",
+   "C": "Espasmolíticos como el bromuro de hioscina, 1 comprimido o 1 ampolla cada 6-12 horas, pueden aliviar el cuadro.",
+   "D": "En los casos agudos, combinaciones de anestésicos locales, antisépticos y corticoides tópicos."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "La opción A es incorrecta porque los antibióticos en la diarrea aguda no se indican únicamente en la diarrea inflamatoria; su uso está condicionado a la etiología específica, la gravedad clínica, la presencia de síntomas sistémicos y determinados grupos de riesgo (inmunodeprimidos, ancianos, etc.). Además, muchas diarreas inflamatorias bacterianas se resuelven sin antibioterapia.",
+   "incorrectas": {
+    "B": "Es correcta: los agentes antiperistálticos (loperamida, codeína) se usan con precaución y no se recomiendan de forma sistemática en la gastroenteritis aguda, especialmente en diarreas invasivas con fiebre o rectorragia.",
+    "C": "Es correcta: los espasmolíticos como el bromuro de hioscina pueden aliviar el dolor cólico abdominal asociado a la diarrea aguda.",
+    "D": "Es correcta en el contexto del tratamiento tópico de manifestaciones ano-rectales en la diarrea aguda grave (proctitis), donde se usan anestésicos locales, antisépticos y corticoides tópicos."
+   }
+  }
+ },
+ {
+  "id_examen": 86,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "En el tratamiento de la diarrea aguda, señala la respuesta INCORRECTA:",
+  "opciones": {
+   "A": "Alimentación rica en fibra y laxantes como lactulosa.",
+   "B": "Ayuno durante 5-7 min seguido de dieta sin grasa, comidas pequeñas, tomando agua muy fría, 2-3 veces al día y después de urgencias.",
+   "C": "Los trastornos epilépticos pueden producir síntomas de un cuadro psiquiátrico, incluyendo la ansiedad.",
+   "D": "Combinaciones de anestésicos locales, antisépticos y corticoides tópicos en los casos agudos."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 65,
+   "tema": "Síndrome diarreico agudo. Diagnóstico diferencial. Actitud terapéutica."
+  },
+  "explicacion": {
+   "correcta": "Aunque la opción D describe el uso de combinaciones de anestésicos locales, antisépticos y corticoides tópicos, en el contexto de este examen esta afirmación es la marcada como incorrecta, posiblemente porque su aplicación rutinaria en la diarrea aguda no está protocolizada como tratamiento estándar. Las opciones A, B y C contienen afirmaciones igualmente cuestionables o incoherentes, pero la clave oficial señala la D.",
+   "incorrectas": {
+    "A": "La alimentación rica en fibra y los laxantes como lactulosa son contraproducentes en la diarrea aguda; sin embargo, en la clave oficial esta opción no es la señalada como la más incorrecta.",
+    "B": "El enunciado contiene imprecisiones (\"5-7 minutos de ayuno\", \"agua muy fría\") que lo hacen clínicamente incorrecto, pero la clave oficial señala la D.",
+    "C": "Esta afirmación no guarda ninguna relación con el tratamiento de la diarrea aguda; es un texto extraído de otro contexto (ansiedad/psiquiatría), por lo que es claramente incorrecta en este marco."
+   }
+  }
+ },
+ {
+  "id_examen": 87,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "¿Qué fármaco está contraindicado para el tratamiento de una crisis tirotóxica aguda?",
+  "opciones": {
+   "A": "Crisis hipertensiva por exceso de catecolaminas, administraría fentolamina y nicardipino IV.",
+   "B": "Emergencia hipertensiva con afectación renal, administraría nitroprusiato sódico IV.",
+   "C": "Emergencia hipertensiva, administraría labetalol IV.",
+   "D": "Emergencia hipertensiva, administraría labetalol IV."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotóxica. Crisis addisoniana. Crisis mixedematosa. Valoración y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "En la crisis tirotóxica, el nitroprusiato sódico IV está contraindicado porque su potente efecto vasodilatador puede desencadenar una respuesta simpática refleja (taquicardia refleja) que agrava el estado hiperadrenérgico propio de la tormenta tiroidea. Además, su uso en el contexto de la tirotoxicosis puede producir una desestabilización hemodinámica importante. Los betabloqueantes (propranolol) son los fármacos de elección para controlar la respuesta adrenérgica en la crisis tirotóxica.",
+   "incorrectas": {
+    "A": "La fentolamina y el nicardipino IV son apropiados para el manejo de emergencias hipertensivas por exceso de catecolaminas (feocromocitoma), pero las opciones del examen no guardan coherencia con el enunciado sobre crisis tirotóxica.",
+    "C": "El labetalol IV (betabloqueante con efecto alfa) es uno de los fármacos utilizados en la crisis tirotóxica para controlar la taquicardia y la hipertensión; no está contraindicado en este contexto.",
+    "D": "Idéntica a C; el labetalol IV no está contraindicado en la crisis tirotóxica."
+   }
+  }
+ },
+ {
+  "id_examen": 88,
+  "fuente": "Examen OPE Médico Urgencia Hospitalaria CLM SESCAM Abril 2018",
+  "enunciado": "Respecto al uso del tratamiento con neurolépticos en el Síndrome confusional agudo, señale la afirmación INCORRECTA:",
+  "opciones": {
+   "A": "El haloperidol es el neuroléptico de mayor potencia antipsicótica por su elevada potencia antipsicótica.",
+   "B": "La quetiapina puede resultar el neuroléptico más útil en el manejo del delírium. Se utiliza a dosis de 25-50 mg, por vía intravenosa, pudiéndose repetir cada 2-4 horas.",
+   "C": "La quetiapina es el fármaco de elección en el delírium en la enfermedad de Parkinson por sus menores efectos extrapiramidales.",
+   "D": "Los antipsicóticos atípicos tienen menor riesgo de prolongación del espacio QT."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 92,
+   "tema": "Crisis de ansiedad. Agitación psicomotriz. Psicosis agudas. Síndrome confusional agudo. Valoración, diagnóstico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La opción B es incorrecta porque la quetiapina no dispone de formulación intravenosa; su administración es exclusivamente por vía oral (o sonda nasogástrica). Afirmar que se utiliza \"por vía intravenosa\" constituye un error farmacológico grave que invalida la afirmación.",
+   "incorrectas": {
+    "A": "Es una afirmación redundante en su redacción (\"mayor potencia antipsicótica por su elevada potencia antipsicótica\") pero el contenido esencial es correcto: el haloperidol es el antipsicótico típico de referencia con alta potencia antipsicótica y baja sedación.",
+    "C": "Es correcta: la quetiapina, por su menor afinidad por los receptores D2, produce escasos efectos extrapiramidales y es el antipsicótico de elección en el delírium del paciente con enfermedad de Parkinson.",
+    "D": "Es correcta en términos generales: los antipsicóticos atípicos tienen en conjunto menor riesgo de prolongación del QTc que los típicos, aunque algunos como la ziprasidona o la quetiapina pueden prolongarlo de forma significativa."
+   }
+  }
+ }
+]

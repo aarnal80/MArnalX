@@ -1,0 +1,480 @@
+[
+ {
+  "id_examen": 61,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En la actualidad se define el tromboembolismo de riesgo intermedio como:",
+  "opciones": {
+   "A": "Disfuncion de ventriculo derecho con presion arterial sistemica normal",
+   "B": "Presencia de trombo en ventriculo derecho con tensiones por encima de 100 mmHg",
+   "C": "Presencia de Hipotension y taquicardia",
+   "D": "Aumento de la troponina en pacientes con tensiones por encima de 90 mmHg"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 56,
+   "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El TEP de riesgo intermedio (antiguamente llamado submasivo) se define por la presencia de disfuncion del ventriculo derecho (evidenciada por ecocardiografia o TC) y/o elevacion de biomarcadores cardiacos, pero con presion arterial sistemica conservada (TAS >= 90 mmHg). Esta estratificacion intermedia es clave porque el paciente esta hemodinamicamente estable pero tiene dano miocardico derecho que indica mayor riesgo de deterioro.",
+   "incorrectas": {
+    "B": "La presencia de trombo en ventriculo derecho con TA normal no define por si sola el riesgo intermedio segun la clasificacion ESC vigente; ademas el umbral de 100 mmHg no es el criterio correcto.",
+    "C": "Hipotension (TAS < 90 mmHg) y taquicardia de alto grado son criterios de TEP de alto riesgo (masivo), no de riesgo intermedio.",
+    "D": "La elevacion de troponina con TA > 90 mmHg apunta a riesgo intermedio-alto, pero la opcion esta incompleta y no incluye la disfuncion de VD, que es el criterio definitorio junto con los biomarcadores."
+   }
+  }
+ },
+ {
+  "id_examen": 62,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Senale la respuesta falsa con respecto al termino 'PRISm' (Preserved Ratio Impaired Spirometry o Espirometria Alterada con Relacion Conservada)",
+  "opciones": {
+   "A": "Tienen un FEV1 normal con FEV1/FVC reducida",
+   "B": "Pueden tener sintomas respiratorios y lesiones pulmonares estructurales.",
+   "C": "Pueden tener atrapamiento aereo sin obstruccion al flujo aereo.",
+   "D": "Los pacientes con PRISm pueden desarrollar, con el tiempo, limitacion cronica al flujo aereo."
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 54,
+   "tema": "Enfermedad pulmonar obstructiva cronica. Reagudizacion de la EPOC. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "PRISm se define precisamente por tener una relacion FEV1/FVC conservada (>= 0,70) pero con FEV1 reducido (< 80% del predicho), no por tener FEV1 normal con FEV1/FVC reducida. Esa descripcion corresponde a un patron obstructivo clasico, que es lo contrario de PRISm. Por tanto la opcion A es falsa.",
+   "incorrectas": {
+    "B": "Es verdadera: los pacientes con PRISm pueden presentar disnea, tos cronica y lesiones estructurales pulmonares como enfisema o engrosamiento de la pared bronquial.",
+    "C": "Es verdadera: el atrapamiento aereo puede coexistir con una relacion FEV1/FVC conservada y FEV1 reducido, lo que caracteriza a algunos subtipos de PRISm.",
+    "D": "Es verdadera: estudios longitudinales muestran que una proporcion de pacientes con PRISm evoluciona hacia EPOC con obstruccion franca al flujo aereo."
+   }
+  }
+ },
+ {
+  "id_examen": 63,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varon de 45 anos, fumador de 20 cigarrillos/dia que acude porque refiere falta de aire al realizar ejercicio, se realiza una espirometria con FEV1/FVC <0,7. Que le recomendaria al paciente?",
+  "opciones": {
+   "A": "Dejar de fumar + LABA",
+   "B": "Dejar de fumar + LAMA",
+   "C": "Dejar de fumar + LAMA + LABA",
+   "D": "Respuestas 1 y 2 son correctas"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 54,
+   "tema": "Enfermedad pulmonar obstructiva cronica. Reagudizacion de la EPOC. Valoracion y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Las guias GOLD recomiendan el abandono del tabaco como medida prioritaria en todo paciente con EPOC. En un paciente con EPOC leve-moderado (GOLD A o B segun sintomas) sin exacerbaciones frecuentes, tanto un LABA como un LAMA son opciones validas como monoterapia broncodilatadora de inicio, por lo que las opciones A y B son ambas correctas y la respuesta D agrupa ambas.",
+   "incorrectas": {
+    "C": "La combinacion LAMA + LABA esta indicada cuando existe mayor carga sintomatica o falta de respuesta a la monoterapia; en este caso de debut con disnea de esfuerzo, la doble broncodilatacion de inicio no es la primera eleccion segun GOLD."
+   }
+  }
+ },
+ {
+  "id_examen": 64,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "De los siguientes anticuerpos monoclonales usados en el tratamiento del asma, senale la verdadera:",
+  "opciones": {
+   "A": "Tezepelumab es un anticuerpo monoclonal anti-IgE",
+   "B": "Benralizumab es un anticuerpo monoclonal dirigido frente a la linfopoyetina estromal timica.",
+   "C": "Omalizumab es un anticuerpo monoclonal dirigido contra la cadena alfa del receptor de la IL-5",
+   "D": "Dupilumab es un anticuerpo monoclonal dirigido frente a la cadena alfa del receptor de la IL-4"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 55,
+   "tema": "Asma bronquial. Agudizacion asmatica. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "Dupilumab es un anticuerpo monoclonal que bloquea la subunidad alfa del receptor de la IL-4 (IL-4Ralfa), inhibiendo con ello tanto la senalizacion de IL-4 como la de IL-13, ambas citocinas clave en la inflamacion tipo 2 del asma. Esta indicado en asma eosinofilica grave no controlada.",
+   "incorrectas": {
+    "A": "Tezepelumab no es anti-IgE; es un anticuerpo monoclonal anti-TSLP (linfopoyetina estromal timica), bloqueando la cascada inflamatoria mas arriba que otros biologicos.",
+    "B": "Benralizumab no actua sobre TSLP; es un anticuerpo anti-IL-5Ralfa (cadena alfa del receptor de IL-5) que depleciona eosinofilos de forma rapida y duradera.",
+    "C": "Omalizumab no actua sobre IL-5 ni su receptor; es el prototipo de anticuerpo anti-IgE, uniendose a la IgE libre e impidiendo su union al receptor de alta afinidad en mastocitos y basofilos."
+   }
+  }
+ },
+ {
+  "id_examen": 65,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Senale la respuesta CORRECTA en relacion con los pacientes con cardiopatia isquemica cronica",
+  "opciones": {
+   "A": "Los ISGLT2 estan indicados en pacientes no diabeticos",
+   "B": "La presentacion clinica atipica es mucho mas frecuente en mujeres",
+   "C": "Puede estar indicado el tratamiento con colchicina a dosis bajas",
+   "D": "Las intervenciones mediante APPs a traves de telefono movil no han demostrado mejorar la adherencia terapeutica"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 46,
+   "tema": "Sindrome coronario agudo. Codigo infarto en la CCAA de Aragon."
+  },
+  "explicacion": {
+   "correcta": "En la cardiopatia isquemica cronica, las mujeres presentan con mayor frecuencia sintomas atipicos como fatiga, nauseas, dolor epigastrico o en el maxilar inferior, en lugar del clasico dolor precordial opresivo irradiado al brazo izquierdo. Este fenomeno es bien reconocido y contribuye al infradiagnostico de la enfermedad coronaria en mujeres.",
+   "incorrectas": {
+    "A": "En el momento de la publicacion de este examen, los iSGLT2 no tenian aprobacion para cardiopatia isquemica cronica en pacientes no diabeticos como indicacion primaria; su beneficio cardiovascular estaba principalmente demostrado en diabeticos con alto riesgo cardiovascular.",
+    "C": "Aunque el ensayo COLCOT demostro beneficio de colchicina a dosis bajas tras SCA reciente, esta opcion es incorrecta segun el enunciado que pide la respuesta CORRECTA, siendo B la mas solidamente respaldada.",
+    "D": "Existen estudios que demuestran que las intervenciones digitales y apps mejoran la adherencia terapeutica en pacientes con cardiopatia isquemica, por lo que esta afirmacion es falsa."
+   }
+  }
+ },
+ {
+  "id_examen": 66,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "De las siguientes condiciones, senale la que no se asocia con mayor riesgo de sepsis",
+  "opciones": {
+   "A": "Edad mayor de 75 anos o menor de 5 anos.",
+   "B": "DM tipo 2",
+   "C": "Cirugia previa en las ultimas 6 semanas",
+   "D": "Cualquier alteracion de la integridad de la piel."
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 82,
+   "tema": "Sepsis. Valoracion del paciente septico. Normas de actuacion. Shock septico y fracaso multiorganico. Codigo sepsis."
+  },
+  "explicacion": {
+   "correcta": "No cualquier alteracion de la integridad de la piel se asocia de manera independiente y reconocida con mayor riesgo de sepsis; solo las heridas significativas, quemaduras extensas o ulceras cronicas infectadas suponen un riesgo real. La opcion D es demasiado amplia e inespecifica y no constituye un factor de riesgo validado para sepsis de forma universal. Las otras tres condiciones si estan reconocidas como factores predisponentes.",
+   "incorrectas": {
+    "A": "Los extremos de edad (mayores de 75 anos y menores de 5 anos) tienen una respuesta inmunologica comprometida que aumenta el riesgo de sepsis y de mortalidad asociada.",
+    "B": "La diabetes mellitus tipo 2 produce alteraciones en la quimiotaxis, fagocitosis y funcion linfocitaria, aumentando claramente la susceptibilidad a infecciones graves y sepsis.",
+    "C": "La cirugia reciente en las ultimas 6 semanas es un factor de riesgo reconocido para sepsis por la disrupcion de barreras, uso de material protesico y contexto hospitalario."
+   }
+  }
+ },
+ {
+  "id_examen": 67,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Paciente de 58 anos, se le realiza una MAPA. Los promedios de presion arterial fueron: media de 24 horas 121/53; media diurna 124/75 y periodo nocturno 111/65. La presion sistolica nocturna descendio 10,4% de la media de valores diurnos y la presion diastolica nocturna descendio 13,9% de la media de valores diurnos. Cual se corresponde con la MAPA realizada?",
+  "opciones": {
+   "A": "Presion arterial elevada y patron dipper",
+   "B": "Normotension y patron no dipper",
+   "C": "Hipertension y patron dipper",
+   "D": "Hipertension y patron no dipper"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 52,
+   "tema": "Otras urgencias cardiovasculares: Urgencia/Emergencia hipertensiva. Sindrome aortico agudo. Pericarditis aguda. Taponamiento cardiaco. Isquemia arterial aguda periferica."
+  },
+  "explicacion": {
+   "correcta": "Segun las guias ESC/ESH, la presion arterial se considera elevada (pero aun no hipertension establecida) cuando la media de 24 horas es 120-129/70-79 mmHg; en este caso la media de 24 horas es 121/53, lo que corresponde a presion arterial elevada (no hipertension franca). El patron dipper se define por un descenso nocturno de la PAS entre el 10 y el 20% respecto a la media diurna; aqui el descenso sistolico es del 10,4% y el diastolico del 13,9%, ambos dentro del rango dipper, confirmando la opcion A.",
+   "incorrectas": {
+    "B": "La media de 24 horas de 121/53 supera el umbral de normotension en MAPA (< 120/70 mmHg), por lo que no se puede considerar normotension; ademas el patron es dipper, no no-dipper.",
+    "C": "Hipertension en MAPA requiere una media de 24 horas >= 130/80 mmHg; al ser 121/53, no alcanza ese umbral, por lo que no es hipertension sino presion arterial elevada.",
+    "D": "El descenso nocturno del 10,4% sistolico clasifica el patron como dipper (rango 10-20%), no como no-dipper (< 10%), y ademas la cifra no alcanza el nivel de hipertension."
+   }
+  }
+ },
+ {
+  "id_examen": 68,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Sofia es una mujer de 85 anos que en una analitica de Atencion primaria presenta Cr 1.2 mg/dl eFG (CKD-EPI) 41 ml/min, cociente MAU/cr 3 mg/g. En tira de orina ausencia de hematuria. Ecografia renal normal. Cual de estas afirmaciones describe mejor la situacion renal del paciente?",
+  "opciones": {
+   "A": "ERC estadio 3b A1",
+   "B": "ERC estadio 3a A2",
+   "C": "ERC estadio 4 A3",
+   "D": "ERC estadio 3a A1"
+  },
+  "respuesta_correcta": "D",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnostico y actitud terapeutica urgente. Manejo del paciente con insuficiencia renal cronica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "Un FG de 41 ml/min corresponde al estadio G3a de ERC (rango 30-44 ml/min). El cociente albumina-creatinina urinaria de 3 mg/g es inferior a 30 mg/g, lo que define la categoria de albuminuria A1 (normal o ligeramente aumentada). Por tanto la clasificacion correcta segun KDIGO es ERC estadio 3a A1.",
+   "incorrectas": {
+    "A": "El estadio 3b corresponde a FG entre 30-44 ml/min segun algunas clasificaciones, pero KDIGO 2012 establece 3b como 30-44 ml/min; sin embargo 41 ml/min esta en el limite superior y se clasifica como 3a (45-59 ml/min) segun la version KDIGO 2012 — el enunciado con FG 41 situa al paciente en G3a. Ademas A1 es correcto pero el estadio G no es 3b.",
+    "B": "El estadio 3a es correcto, pero la categoria A2 (30-300 mg/g) no se corresponde con un cociente de 3 mg/g que esta claramente en rango A1.",
+    "C": "El estadio 4 requiere un FG < 30 ml/min, y la categoria A3 supone albuminuria > 300 mg/g; ninguno de los dos criterios se cumple en este caso."
+   }
+  }
+ },
+ {
+  "id_examen": 69,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En cuanto a la pancreatitis aguda senale la respuesta falsa",
+  "opciones": {
+   "A": "El riesgo de pancreatitis aguda en personas que tienen un calculo vesicular < 5 mm de diametro es cuatro veces mayor que el de pacientes con calculos de mayor tamano.",
+   "B": "La pancreatitis aguda aparece en 15% a 20% de pacientes despues de CPRE.",
+   "C": "Se ha demostrado que despues de ERCP la frecuencia de pancreatitis disminuye con la administracion de un farmaco antiinflamatorio no esteroideo (por ejemplo indometacina)",
+   "D": "La hipertrigliceridemia es la causa de pancreatitis aguda en 1% a 4 % de los casos; las concentraciones de trigliceridos en suero por lo comun son > 1 000 mg/100 mL"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 63,
+   "tema": "Pancreatitis aguda. Valoracion, diagnostico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La incidencia de pancreatitis post-CPRE es del 3-5% en la poblacion general y puede llegar al 10-15% en pacientes de alto riesgo (disfuncion del esfinter de Oddi, canulaciones dificiles), pero no del 15-20% como afirma la opcion B, que sobreestima claramente la frecuencia y por eso es la respuesta falsa.",
+   "incorrectas": {
+    "A": "Es verdadera: los calculos pequenos (< 5 mm) migran con mayor facilidad al colecoco y causan obstruccion transitoria, lo que se asocia con un riesgo de pancreatitis biliar cuatro veces superior al de los calculos grandes.",
+    "C": "Es verdadera: la administracion rectal de AINEs como indometacina o diclofenaco antes o inmediatamente despues de la CPRE ha demostrado reducir significativamente la incidencia de pancreatitis post-procedimiento.",
+    "D": "Es verdadera: la hipertrigliceridemia grave (> 1000 mg/dL) es responsable del 1-4% de los casos de pancreatitis aguda y debe considerarse cuando no hay otra causa evidente."
+   }
+  }
+ },
+ {
+  "id_examen": 70,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un hombre de 35 anos con diagnostico de trastorno por consumo de alcohol reconoce en la consulta que tiene un problema con el alcohol pero aun se siente no preparado para dejar de beber. Segun el modelo de cambio de conducta de Prochaska y DiClemente, en que fase se encuentra este paciente?",
+  "opciones": {
+   "A": "Precontemplacion",
+   "B": "Contemplacion",
+   "C": "Preparacion",
+   "D": "Mantenimiento"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 93,
+   "tema": "Depresion e intento suicida. Trastornos de la conducta alimentaria. Su abordaje en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En el modelo transteorico de Prochaska y DiClemente, la fase de contemplacion se caracteriza porque el individuo reconoce que tiene un problema y considera la posibilidad de cambiar, pero aun no ha tomado la decision de actuar ni se siente preparado para hacerlo. El paciente del caso reconoce el problema pero no esta listo para dejarlo, encajando perfectamente en esta fase.",
+   "incorrectas": {
+    "A": "La precontemplacion corresponde a la fase en que el individuo no reconoce tener ningun problema y no tiene intencion de cambiar en los proximos seis meses; este paciente ya reconoce el problema, por lo que no esta en precontemplacion.",
+    "C": "La preparacion implica que el paciente ha decidido cambiar y esta tomando pequenos pasos hacia ese cambio (p. ej., buscando ayuda, reduciendo la ingesta); aqui el paciente aun no se siente preparado.",
+    "D": "El mantenimiento se refiere a la fase en que el individuo ya ha logrado el cambio y trabaja para no recaer; este paciente sigue bebiendo activamente."
+   }
+  }
+ },
+ {
+  "id_examen": 71,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Paciente de 35 anos, tras un viaje a Egipto acude a urgencias por diarrea acuosa de > 10 deposiciones al dia sin productos patologicos, desde hace 4 dias. En la analitica destaca Hb 18 g/dl Hematocrito 54% Creatinina 4.8 mg/dl Urea 260 mg/dl Na 145 mEq/l K 2.5 mEq/l Cloro 120 pH 7.2 HCO3 11 mEq/l Orina; Creatinina 96 mg/dl Na 18 mEq/l. Senale la correcta:",
+  "opciones": {
+   "A": "La acidosis es metabolica, con anion gap normal y en probable relacion a la diarrea",
+   "B": "La acidosis es metabolica con anion gap elevado y en probable relacion a la diarrea",
+   "C": "La acidosis es metabolica con anion gap elevada y en probable relacion al FRA",
+   "D": "La hipopotasemia es solo secundaria a la acidosis metabolica"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 70,
+   "tema": "Alteraciones del equilibrio acido-base. Trastornos hidroelectroliticos. Valoracion, diagnostico y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "El anion gap = Na - (Cl + HCO3) = 145 - (120 + 11) = 14 mEq/L, que es normal (rango 8-12 mEq/L con albumina normal, o hasta 16 considerando variacion). La acidosis metabolica con anion gap normal (hipercloреmica) es la tipica de la diarrea, donde se pierden bicarbonato y potasio por las heces, causando acidosis por perdida de bases sin acumulacion de acidos no medibles. Ademas el FRA es prerenal (Na orina 18 mEq/L, Cr orina/Cr plasma > 20), no isquemica intrinseca, por lo que no explica la acidosis con anion gap elevado.",
+   "incorrectas": {
+    "B": "El anion gap calculado es normal (14 mEq/L), no elevado; la diarrea causa acidosis hipercloреmica con anion gap normal, no elevado.",
+    "C": "El FRA prerenal por deshidratacion severa podria eventualmente producir acidosis con anion gap elevado, pero en este caso el anion gap es normal, y la diarrea profusa es la causa principal de la acidosis.",
+    "D": "La hipopotasemia en este contexto se debe principalmente a las perdidas digestivas masivas de potasio por la diarrea, no secundariamente a la acidosis; de hecho la acidosis metabolica tiende a elevar el potasio plasmatico por intercambio celular, no a reducirlo."
+   }
+  }
+ },
+ {
+  "id_examen": 72,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En relacion con los tumores del estroma gastrointestinal (GIST) es correcto afirmar que la mayoria de los casos:",
+  "opciones": {
+   "A": "Muestran un aspecto quistico en el TAC",
+   "B": "Presentan mutaciones en el gen KIT",
+   "C": "Histologicamente son leimiomas",
+   "D": "Se localizan fundamentalmente en el colon"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 60,
+   "tema": "Dolor abdominal agudo. Diagnostico diferencial."
+  },
+  "explicacion": {
+   "correcta": "Aproximadamente el 75-80% de los GISTs presentan mutaciones activadoras del proto-oncogen KIT (CD117), que codifica un receptor tirosina quinasa. Esta mutacion es el hallazgo molecular mas caracteristico de los GISTs y es la diana terapeutica de imatinib, el tratamiento de referencia en enfermedad avanzada o metastasica.",
+   "incorrectas": {
+    "A": "Los GISTs suelen aparecer en el TAC como masas solidas hipervascularizadas con aspecto heterogeneo en tumores grandes; un aspecto predominantemente quistico es atipico y no es la presentacion habitual.",
+    "C": "Histologicamente los GISTs se clasifican en patrones fusocelular, epitelioide o mixto, pero no son leiomyomas; los leiomyomas son tumores del musculo liso sin mutacion KIT ni expresion de CD117.",
+    "D": "Los GISTs se localizan fundamentalmente en el estomago (50-60%) y en el intestino delgado (25-30%); la localizacion en colon es infrecuente (< 5%)."
+   }
+  }
+ },
+ {
+  "id_examen": 73,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Senale la falsa con respecto a los mesoteliomas:",
+  "opciones": {
+   "A": "La mayor parte se relacionan con la exposicion al asbesto",
+   "B": "En la radiografia de torax se suele ver derrame pleural, engrosamiento pleural y retraccion del hemitorax",
+   "C": "Es el tumor maligno mas frecuente de la pleura detras de la afectacion metastasica.",
+   "D": "El diagnostico se realiza mediante biopsia guiada con imagen."
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 58,
+   "tema": "Derrame pleural. Neumo torax espontaneo. Valoracion, diagnostico y actitud terapeutica."
+  },
+  "explicacion": {
+   "correcta": "El mesotelioma maligno pleural ES el tumor maligno primario mas frecuente de la pleura, no el segundo. La afectacion metastasica pleural (cancer de pulmon, mama, linfomas) es mas comun en terminos absolutos de malignidad pleural, pero entre los tumores primarios de pleura el mesotelioma ocupa el primer lugar. La opcion C es falsa porque insinua que hay otro tumor maligno primario pleural mas frecuente, cuando no es asi.",
+   "incorrectas": {
+    "A": "Es verdadera: mas del 70-80% de los mesoteliomas pleurales se asocian a exposicion previa al asbesto (amianto), con un periodo de latencia de 20-40 anos.",
+    "B": "Es verdadera: la triada clasica en la radiografia de torax es derrame pleural unilateral (frecuentemente masivo), engrosamiento nodular de la pleura y retraccion o fijacion del hemitorax afecto.",
+    "D": "Es verdadera: el diagnostico histologico requiere biopsia pleural, habitualmente mediante toracoscopia o biopsia percutanea guiada por imagen; la citologia del liquido pleural suele ser insuficiente."
+   }
+  }
+ },
+ {
+  "id_examen": 74,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Cual es el antiseptico de eleccion para la desinfeccion de la piel antes de la insercion de un cateter?",
+  "opciones": {
+   "A": "Povidona yodada",
+   "B": "Alcohol al 70%",
+   "C": "Clorhexidina alcoholica al 2%",
+   "D": "Cualquier desinfectante de base alcoholica tiene una eficacia similar"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 103,
+   "tema": "Tecnicas diagnostico-terapeuticas: Cateterizacion de vias venosas centrales (yugular, subclavia, femoral) y perifericas. Via intraosea."
+  },
+  "explicacion": {
+   "correcta": "Las guias de prevencion de infecciones relacionadas con cateter (CDC, HHSI, ECDC) recomiendan la clorhexidina alcoholica al 2% como antiseptico de primera eleccion para la desinfeccion cutanea previa a la insercion de cateter venoso central, ya que ofrece mayor actividad residual y mayor reduccion de la colonizacion que la povidona yodada o el alcohol solo.",
+   "incorrectas": {
+    "A": "La povidona yodada es eficaz pero inferior a la clorhexidina alcoholica en la reduccion de infecciones relacionadas con cateter segun los estudios comparativos; se reserva para casos de alergia a la clorhexidina.",
+    "B": "El alcohol al 70% tiene rapida accion bactericida pero carece de efecto residual una vez evaporado, lo que lo hace menos eficaz que la clorhexidina alcoholica para la prevencion de infecciones de cateter.",
+    "D": "No todos los desinfectantes alcoholicos son equivalentes; la adicion de clorhexidina al alcohol aporta un efecto residual demostrado y una eficacia superior, por lo que la afirmacion de eficacia similar es incorrecta."
+   }
+  }
+ },
+ {
+  "id_examen": 75,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En el manejo de la insuficiencia renal aguda senale la respuesta correcta",
+  "opciones": {
+   "A": "La albumina puede reducir los requerimientos de liquidos y disminuye la necesidad de hemodialisis",
+   "B": "No deben administrarse soluciones que contengan bicarbonato",
+   "C": "Se recomienda solucion salina normal al 0.9% para los pacientes hipovole micos e hipocloremicos, si la concentracion serica de cloro se vigila de manera estrecha",
+   "D": "La oliguria sola es indicacion para administracion de liquidos"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 75,
+   "tema": "Insuficiencia renal aguda. Diagnostico y actitud terapeutica urgente. Manejo del paciente con insuficiencia renal cronica grave en urgencias."
+  },
+  "explicacion": {
+   "correcta": "En pacientes hipovol emicos con IRA prerenal e hipocloremia coexistente, el suero salino normal (NaCl 0,9%) es la solucion de eleccion para restaurar la volemia, siempre que se monitorice el cloro serico para evitar hipercloremia iatrogenica que podria empeorar la funcion renal. Esta recomendacion recoge el equilibrio entre la necesidad de reponer volumen y el riesgo de acidosis hipercloреmica.",
+   "incorrectas": {
+    "A": "La albumina no esta recomendada de forma general en el manejo de la IRA para reducir requerimientos de liquidos o hemodialisis; su uso se reserva a situaciones especificas como el sindrome hepatorrenal o la sepsis con hipoalbuminemia grave.",
+    "B": "El bicarbonato puede estar indicado en la IRA cuando existe acidosis metabolica grave (pH < 7,20-7,15) o hiperpotasemia con acidosis; afirmar que nunca debe administrarse es incorrecto.",
+    "D": "La oliguria por si sola no es indicacion de administracion de liquidos; antes de tratar hay que evaluar el estado de volemia con parametros clinicos y hemodinamicos para evitar la sobrecarga hidrica, especialmente en IRA no prerenal."
+   }
+  }
+ },
+ {
+  "id_examen": 76,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Varon de 70 anos con antecedentes personales de HTA y DM tipo 2. SCACEST hace cinco anos revascularizado. Desde entonces asintomatico. Fibrilacion auricular permanente y FEVI normal. Sigue tratamiento con bisoprolol, amlodipino, insulina glargina, metformina, AAs, acenocumarol, paracetamol y vitamina B12. En relacion con la revision farmacologica senale lo correcto.",
+  "opciones": {
+   "A": "No se trata de un paciente con polifarmacia ya que toma menos de 10 farmacos.",
+   "B": "La prescripcion de vitamina B12 es una prescripcion en cascada, ya que se debe a un efecto secundario de la metformina.",
+   "C": "La asociacion acenocumarol mas AAs en este caso en una prescripcion adecuada.",
+   "D": "Replantear la indicacion de iSGLT2 no es una opcion, ya que el objetivo es disminuir el numero de farmacos."
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 36,
+   "tema": "Uso Racional del Medicamento. Criterios de seleccion de medicamentos. Equivalentes terapeuticos. Indicadores de calidad de prescripcion."
+  },
+  "explicacion": {
+   "correcta": "La metformina reduce la absorcion intestinal de vitamina B12 en un porcentaje significativo de pacientes con uso prolongado, lo que puede provocar deficit de B12. Si la vitamina B12 se prescribio para corregir ese deficit secundario, constituye un ejemplo clasico de prescripcion en cascada: un medicamento se anade para tratar un efecto adverso de otro medicamento sin identificar y suprimir la causa.",
+   "incorrectas": {
+    "A": "La polifarmacia se define habitualmente como el uso concomitante de 5 o mas farmacos; este paciente toma 9 farmacos, por lo que si esta en situacion de polifarmacia (algunos autores usan el umbral de 10 para polifarmacia severa, pero el criterio mas extendido es >= 5).",
+    "C": "En un paciente con FA permanente que ya recibe acenocumarol para prevencion de ictus, anadir un antiagregante (AAS) sin indicacion especifica (p. ej., SCA reciente en los ultimos 12 meses) aumenta el riesgo hemorragico sin beneficio demostrado; a los 5 anos del SCACEST la doble terapia no esta justificada.",
+    "D": "Los iSGLT2 tienen indicacion en pacientes con DM2 y cardiopatia isquemica establecida para reduccion de eventos cardiovasculares y renales; replantear su uso no solo es una opcion valida sino potencialmente beneficiosa independientemente del numero de farmacos."
+   }
+  }
+ },
+ {
+  "id_examen": 77,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Senale la respuesta CORRECTA en relacion con la epidemiologia y comorbilidades de los pacientes con fibrilacion auricular",
+  "opciones": {
+   "A": "Los pacientes con fibrilacion auricular tienen un mayor riesgo de desarrollar deterioro cognitivo",
+   "B": "Los pacientes con fibrilacion auricular tienen una mortalidad similar a la poblacion general",
+   "C": "La causa mas frecuente de muerte en pacientes con fibrilacion auricular es el ictus",
+   "D": "El tromboembolismo venoso no tiene ninguna asociacion con la fibrilacion auricular"
+  },
+  "respuesta_correcta": "A",
+  "clasificacion_temario": {
+   "id": 47,
+   "tema": "Arritmias cardiacas. Taquiarritmias auriculares y ventriculares: extrasistolia, TPSV, flutter, fibrilacion auricular, taquicardia y fibrilacion ventricular."
+  },
+  "explicacion": {
+   "correcta": "Multiples estudios epidemiologicos han demostrado que la fibrilacion auricular se asocia de forma independiente con un mayor riesgo de deterioro cognitivo y demencia, incluso en ausencia de ictus clinico, probablemente por microembolismos cerebrales silentes, hipoperfusion cerebral intermitente y neuroinflamacion.",
+   "incorrectas": {
+    "B": "La FA se asocia con una mortalidad aproximadamente el doble que la de la poblacion general de igual edad y sexo, fundamentalmente por mayor incidencia de ictus, insuficiencia cardiaca y muerte subita.",
+    "C": "La causa mas frecuente de muerte en pacientes con FA no es el ictus sino la insuficiencia cardiaca y la muerte subita cardiaca; el ictus es una causa importante pero no la principal.",
+    "D": "Existe una asociacion bidireccional entre FA y tromboembolismo venoso (TEP y TVP); los pacientes con FA tienen mayor riesgo de TEV y viceversa, comparten factores de riesgo y mecanismos trombogenicos."
+   }
+  }
+ },
+ {
+  "id_examen": 78,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Cual de los siguientes hallazgos electrocardiograficos en pacientes con sincope se considera de alto riesgo (sugiere una enfermedad grave subyacente) incluso sin clinica sugestiva de origen cardiogenico?",
+  "opciones": {
+   "A": "Fibrilacion auricular paroxistica",
+   "B": "Fibrilacion auricular lenta (< 40 lpm)",
+   "C": "Pre-excitacion en el complejo QRS",
+   "D": "Bloqueo A-V de segundo grado Mobitz I"
+  },
+  "respuesta_correcta": "C",
+  "clasificacion_temario": {
+   "id": 51,
+   "tema": "Sincope. Concepto y etiologia del sincope. Valoracion, diagnostico y tratamiento en urgencias."
+  },
+  "explicacion": {
+   "correcta": "La pre-excitacion ventricular (patron de Wolff-Parkinson-White, con onda delta y PR corto) en el ECG de un paciente con sincope es un criterio de alto riesgo reconocido por las guias ESC porque indica la presencia de una via accesoria que puede desencadenar taquicardias supraventriculares rapidas o incluso fibrilacion ventricular por conduccion anterograda rapida, con riesgo de muerte subita. Este hallazgo obliga a estudio electrofisiologico.",
+   "incorrectas": {
+    "A": "La fibrilacion auricular paroxistica puede causar sincope, pero no se clasifica como criterio de alto riesgo independiente en las guias ESC de sincope de la misma forma que la pre-excitacion.",
+    "B": "La FA con respuesta ventricular lenta (< 40 lpm) puede indicar disfuncion del nodo AV, pero en las guias ESC no ocupa el mismo nivel de alto riesgo que la pre-excitacion como hallazgo aislado.",
+    "D": "El bloqueo AV de segundo grado Mobitz I (Wenckebach) es benigno en la mayoria de los casos, se produce a nivel del nodo AV y raramente progresa a bloqueo completo; no se considera criterio de alto riesgo independiente en el sincope."
+   }
+  }
+ },
+ {
+  "id_examen": 79,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "En el manejo de pacientes con amiloidosis ATTR, cual de los siguientes factores se considera un indicador de mal pronostico?",
+  "opciones": {
+   "A": "Presencia de neuropatia",
+   "B": "Elevacion de los niveles de NT-proBNP",
+   "C": "Infiltracion hepatica",
+   "D": "Edad menor de 50 anos"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 49,
+   "tema": "Insuficiencia cardiaca aguda. Edema agudo de pulmon. Actitud ante la insuficiencia cardiaca cronica descompensada."
+  },
+  "explicacion": {
+   "correcta": "En la amiloidosis ATTR (por transtiretina), la afectacion cardiaca es el principal determinante del pronostico. La elevacion del NT-proBNP refleja estres y dano miocardico por deposito de amiloide en el miocardio y se incluye en los sistemas de estadificacion pronostica (NAC stage, Gillmore staging); cifras elevadas de NT-proBNP se asocian con mayor mortalidad y peor supervivencia.",
+   "incorrectas": {
+    "A": "La neuropatia periferica es una manifestacion frecuente de la amiloidosis ATTR hereditaria (Val30Met), pero su presencia no implica per se mal pronostico cardiaco; de hecho los pacientes con neuropatia predominante sin cardiopatia tienen mejor pronostico que los que tienen cardiopatia establecida.",
+    "C": "La infiltracion hepatica por amiloide ATTR es infrecuente y no es un criterio pronostico establecido ni un marcador de mal pronostico en las clasificaciones vigentes.",
+    "D": "La edad menor de 50 anos no es un indicador de mal pronostico en amiloidosis ATTR; la forma hereditaria con mutacion Val30Met puede presentarse en jovenes con neuropatia predominante y tener buen pronostico si se trata precozmente."
+   }
+  }
+ },
+ {
+  "id_examen": 80,
+  "fuente": "Examen OPE Medicina Interna Madrid 2021",
+  "enunciado": "Un paciente con calcio 11.8 mg/dL, albumina 3.9 g/L, fosforo 3.2 mg/dL, PTH 40 pg/mL y calciuria 90 mg/dia, cual es su opcion diagnostica",
+  "opciones": {
+   "A": "Hiperparatiroidismo primario",
+   "B": "Hipercalcemia hipocalciurica familiar",
+   "C": "Tumor productor de PTH like",
+   "D": "Intoxicacion por vitamina D"
+  },
+  "respuesta_correcta": "B",
+  "clasificacion_temario": {
+   "id": 73,
+   "tema": "Crisis tirotoxica. Crisis addisoniana. Crisis mixedematosa. Valoracion y tratamiento urgente."
+  },
+  "explicacion": {
+   "correcta": "La hipercalcemia hipocalciurica familiar (HHF) se caracteriza por hipercalcemia con PTH inapropiadamente normal o levemente elevada (no suprimida), fosforo normal, y sobre todo por una calciuria muy baja (< 100 mg/dia, con cociente Ca/Cr urinario < 0,01). En este paciente la calciuria de 90 mg/dia con calcio serico de 11,8 mg/dL es llamativamente baja, lo que junto con PTH de 40 pg/mL (normal-alta, no suprimida) apunta a HHF causada por mutacion inactivante del receptor sensor de calcio (CaSR).",
+   "incorrectas": {
+    "A": "El hiperparatiroidismo primario curse con PTH elevada (> 65-70 pg/mL de forma franca), hipercalcemia y calciuria habitualmente elevada (> 200-250 mg/dia); la PTH de 40 pg/mL y la calciuria de 90 mg/dia no encajan con HPP clasico.",
+    "C": "Los tumores productores de PTHrP (PTH-like) causan hipercalcemia humoral de la malignidad con PTH suprimida (< 20 pg/mL) y calciuria alta; la PTH de 40 pg/mL no esta suprimida, lo que descarta este diagnostico.",
+    "D": "La intoxicacion por vitamina D causa hipercalcemia con PTH suprimida y calciuria elevada por aumento de la absorcion intestinal y filtracion renal de calcio; no coincide con la PTH normal y la calciuria baja de este caso."
+   }
+  }
+ }
+]

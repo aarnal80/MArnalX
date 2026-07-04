@@ -1,0 +1,1838 @@
+[
+  {
+    "id_examen": 1,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "De conformidad con el Estatuto de Autonomía de Andalucía, la orientación y el impulso de la acción del Consejo de Gobierno es función que corresponde:",
+    "opciones": {
+      "A": "En todo caso al Presidente/a de la Junta de Andalucía",
+      "B": "Al propio Consejo de Gobierno",
+      "C": "A lo/as Consejero/as en sus respectivas competencias",
+      "D": "Al Parlamento de Andalucía"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 2,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El IV Plan Andaluz de Salud es el vigente en la actualidad y ha sido diseñado para el periodo:",
+    "opciones": {
+      "A": "2013-2017",
+      "B": "2013-2018",
+      "C": "2013-2019",
+      "D": "2013-2020"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 3,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El Estatuto Marco del personal estatutario no contempla entre las situaciones administrativas de los profesionales que regula, la de:",
+    "opciones": {
+      "A": "Servicios de gestión clínica",
+      "B": "Servicios bajo otro régimen jurídico",
+      "C": "Excelencia voluntaria por agrupación familiar",
+      "D": "Excedencia forzosa"
+    },
+    "respuesta_correcta": "ANULADA"
+  },
+  {
+    "id_examen": 4,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "De conformidad con la Ley 41/2002, básica reguladora de la autonomía del paciente, cuando haya que disponer el alta forzosa de un paciente porque no acepta el tratamiento prescrito, la decisión la adoptará:",
+    "opciones": {
+      "A": "El médico responsable de la asistencia",
+      "B": "La dirección del centro a propuesta del médico responsable",
+      "C": "La dirección del centro sin necesidad de propuesta alguna",
+      "D": "La autoridad judicial"
+    },
+    "respuesta_correcta": "ANULADA"
+  },
+  {
+    "id_examen": 5,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La vigilancia de la salud de los trabajadores en relación con los riesgos derivados del trabajo se realizará, dependiendo del nivel funcional de la Unidad de Prevención constituida en el ámbito, con arreglo a lo siguiente:",
+    "opciones": {
+      "A": "Trabajadores de Centros con Unidad de Prevención Nivel 1. La vigilancia de la salud será asumida directamente por el Servicio de Medicina Preventiva.",
+      "B": "Trabajadores de Centros con Unidad de Prevención Nivel 1. La vigilancia de la salud será asumida directamente por el Médico de Familia del profesional.",
+      "C": "Trabajadores de Centros con Unidad de Prevención de Nivel 2 o Nivel 3. El Servicio de Medicina Preventiva asumirá la responsabilidad de la ejecución de las actividades y funciones de vigilancia y control de la salud de los trabajadores contando para ello con la colaboración del resto de las especialidades básicas, médicas y quirúrgicas del centro.",
+      "D": "Trabajadores de Centros con Unidad de Prevención de Nivel 2. El Servicio de Medicina Preventiva asumirá la responsabilidad de la ejecución de las actividades y funciones de vigilancia y control de la salud de los trabajadores contando para ello con la colaboración del Centro de Prevención de Riesgos Laborales de su provincia."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 6,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguientes muestreos es de tipo no probabilístico?",
+    "opciones": {
+      "A": "Muestreo sistemático",
+      "B": "Muestreo estratificado",
+      "C": "Muestreo de casos consecutivos",
+      "D": "Muestreo aleatorio simple"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 7,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Para realizar un cribado en su primer momento o fase, ¿qué característica interna del test se suele priorizar?",
+    "opciones": {
+      "A": "Que sea muy sensible",
+      "B": "Que sea muy específico",
+      "C": "Que sea aplicable a muchas personas",
+      "D": "Que sea barato"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 8,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El Biobanco del Sistema Sanitario Público de Andalucía (SSPA) es una iniciativa de la Consejería de Igualdad, Salud y Políticas Sociales. Mediante un funcionamiento en red y bajo un marco ético común, una estructura organizativa única y una actividad descentralizada, el Biobanco del SSPA integra:",
+    "opciones": {
+      "A": "Solo a todos los bancos de sangre y tejidos",
+      "B": "Bancos de sangre, excepto banco de cordones, tejidos y tumores",
+      "C": "Los bancos de sangre y de tejidos, el banco de cordón umbilical, el banco de células madre, la red de bancos de tumores, el banco de ADN humano de Andalucía, y diferentes repositorios de muestras biológicas y biorrecursos.",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 9,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La agencia de calidad sanitaria de Andalucía (ACSA) tiene como principal actividad, la certificación de los servicios que las organizaciones prestan a la salud y al bienestar social de la población. La certificación de competencias tiene las siguientes fases. Señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Inicio del proceso",
+      "B": "Autoevaluación",
+      "C": "Evaluación",
+      "D": "Certificación en un nivel de desarrollo. Apto. Competente ó Extraordinario."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 10,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El sistema sanitario público de Andalucía regula y garantiza los plazos de respuesta en primeras consultas de asistencia especializada, así como en procedimientos diagnósticos y quirúrgicos. Señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "La primera consulta de asistencia especializada, un tiempo de espera máximo de 60 días.",
+      "B": "Procedimientos diagnósticos, tiempo de espera máximo 45 días.",
+      "C": "Respuesta quirúrgica, máximo 180 días.",
+      "D": "A través del servicio Salud Responde, el usuario puede conocer fecha y hora de su cita con el especialista. Así como, anular o modificar la misma."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 11,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "A propósito de DIRAYA señale la respuesta correcta:",
+    "opciones": {
+      "A": "La Base de datos de Usuarios (BDU) contiene datos administrativos del ciudadano y parte de datos clínicos comunes de relevancia",
+      "B": "El módulo centralizado de operadores (MACO) se encarga de dar cita en toda Andalucía a los ciudadanos",
+      "C": "El módulo de Estructura establece la relación entre niveles asistenciales para la ordenación de las interconsultas y la realización de pruebas diagnósticas",
+      "D": "Todas las respuestas anteriores son falsas"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 12,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "A propósito de la conciliación del tratamiento:",
+    "opciones": {
+      "A": "Al alta se le da al paciente un informe para que acuda a su médico que concilie los tratamientos que tenga.",
+      "B": "El informe farmacoterapéutico de alta se realiza en impreso específico y estandarizado, haciendo constar el tratamiento actualizado completo (dosis, forma farmacéutica y pauta de administración) y los cambios (con los motivos que lo causan) realizados en su tratamiento ambulatorio: Medicamentos iniciados en el hospital, medicamentos suspendidos y cambios de dosis.",
+      "C": "El farmacéutico colabora con el médico en la elaboración de informe farmacoterapéutico de alta",
+      "D": "b y c son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 13,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Qué principio ético requiere la solicitud de consentimiento informado del paciente para su participación en un ensayo clínico?",
+    "opciones": {
+      "A": "Autonomía",
+      "B": "No maleficencia",
+      "C": "Equidad",
+      "D": "Beneficencia"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 14,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguientes no es un modelo o una norma de calidad?",
+    "opciones": {
+      "A": "La Joint Commission on Acreditation of Healthcare Organization",
+      "B": "La European Foundation for Qualiti Management",
+      "C": "Las Normas ISO",
+      "D": "Organización Panamericana de la Salud"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 15,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El decreto 181/2007 de 19 de junio, regula la receta médica electrónica en el sistema sanitario público de Andalucía. Señale la respuesta correcta:",
+    "opciones": {
+      "A": "La ampliación de un tratamiento ya instaurado renovación del mismo solo podrá realizarse durante los 60 días anteriores a la fecha de finalización de la anterior prescripción.",
+      "B": "El plazo de validez de la receta electrónica para la primera dispensación, cuando se trate de tratamientos agudos que solo requieren un acto de dispensación, es de cinco días naturales contados a partir de la fecha de prescripción. Para el resto de tratamientos es de 40 días.",
+      "C": "El sistema informático permitirá al farmacéutico suspender cautelarmente la posibilidad de dispensación.",
+      "D": "Esta explícitamente prohibido la sustitución del medicamento o producto sanitario por el farmacéutico."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 16,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Según la Ley 2/2010, la limitación del esfuerzo terapéutico consiste en:",
+    "opciones": {
+      "A": "La retirada o no instauración de una medida de soporte vital o de cualquier otra intervención que, dado el mal pronostico, constituye, a juicio de los sanitarios implicados, algo fútil, que solo contribuye a prolongar una situación clínica carente de expectativas de mejoría.",
+      "B": "La intervención sanitaria destinada a mantener las constantes vitales de la persona, independientemente de que dicha intervención actúe o no terapéuticamente sobre la enfermedad que amenaza la vida.",
+      "C": "El inicio o mantenimiento de medidas de soporte vital u otras intervenciones carentes de utilidad clínica, que únicamente prolongan la vida en pacientes en situación terminal, sin posibilidades reales de mejora.",
+      "D": "La administración de fármacos para reducir la conciencia de la persona en situación terminal o de agonía, para aliviar adecuadamente síntomas refractarios, previo consentimiento informado en los términos establecidos en la ley."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 17,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Según el Plan Andaluz de Urgencias y Emergencias ¿cual de las siguientes opciones es cierta en cuanto a la organización y estructura de las urgencias en los hospitales públicos de Andalucía?",
+    "opciones": {
+      "A": "Las distintas áreas organizativas son: Admisión, Clasificación, Consultas, Observación",
+      "B": "Circuito es un espacio físico con recursos específicos que atiende a un grupo de pacientes que se han clasificado con unas características concretas.",
+      "C": "Los circuitos pueden atender a la clasificación (atención básica, polivalente, críticos) a la edad (circuito pediátrico) o a la patología (traumatológico, Obstétrico-Ginecológico)",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 18,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Durante una RCP, se deben interrumpir las compresiones en todas las circunstancias siguientes salvo en una. Diga en cual.",
+    "opciones": {
+      "A": "Durante el acto de desfibrilación.",
+      "B": "Después de las desfibrilaciones para comprobar ritmo y si procede pulso.",
+      "C": "Después de cada ciclo de 2 minutos de compresiones/ventilaciones (30/2) para comprobar ritmo y si procede pulso.",
+      "D": "Si se aprecia algún signo de vida como tos o movimientos."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 19,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta correcta sobre los derechos de los pacientes en situación de incapacidad recogidos en la Ley 2/2010 de 8 de abril, de Derechos y Garantías de la Dignidad de la Persona en el Proceso de la Muerte.",
+    "opciones": {
+      "A": "El médico responsable es quien debe valorar si un paciente pudiera encontrarse en una situación de incapacidad de hecho que le impida decidir por sí mismo.",
+      "B": "La situación de incapacidad de un paciente exime al médico de informarle y de hacer que participe en el proceso de toma de decisiones",
+      "C": "La sentencia judicial es el único documento que recoge el alcance y las limitaciones de la incapacidad de hecho",
+      "D": "Para la interpretación de la voluntad de los pacientes no se tendrán en cuenta los deseos expresados previamente a la situación de incapacidad."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 20,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál es el ritmo electrocardiográfico más frecuente en los niños con PCR?",
+    "opciones": {
+      "A": "Ritmo idioventricular.",
+      "B": "Fibrilación Ventricular.",
+      "C": "Bradicardia sinusal.",
+      "D": "Asistolia."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 21,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El tipo más frecuente de shock en un politraumatizado es:",
+    "opciones": {
+      "A": "Cardiogénico.",
+      "B": "Neurogénico.",
+      "C": "Neumotórax a tensión.",
+      "D": "Hipovolémico."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 22,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Entre los circuitos recomendados para la estructura funcional de las urgencias hospitalarias el PAUE no recomienda:",
+    "opciones": {
+      "A": "Circuito Traumatológico",
+      "B": "Circuito quirúrgico",
+      "C": "Circuito polivalente",
+      "D": "Circuito Obstétrico-ginecológico"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 23,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En el manejo de la obstrucción de vía aérea por cuerpo extraño (OVACE) en Pediatría, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Si puede toser anime a seguir tosiendo.",
+      "B": "Si no puede toser pero esta consciente, realice maniobras compresivas torácicas o abdominales o golpes en espalda.",
+      "C": "En lactantes es preferible compresiones abdominales.",
+      "D": "Si está inconsciente, abra la vía aérea, ventile 5 veces e inicie RCP."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 24,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En el Soporte Vital Avanzado del trauma grave, señale la respuesta falsa:",
+    "opciones": {
+      "A": "La valoración debe ser rápida y ordenada, seguir orden ABCDE (vía aérea, ventilación, estado circulatorio, valoración neurológica y exposición-protección térmica)",
+      "B": "Todas las maniobras dirigidas a control de la vía aérea se deben realizar con control manual de la columna cervical",
+      "C": "Se realizará intubación orotraqueal en pacientes con Glasgow menor de 12",
+      "D": "Se realizará intubación orotraqueal ante la imposibilidad de mantener la vía aérea permeable por otros medios."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 25,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Si a un niño en estado crítico no consigue canalizar una vía periférica en pierna en 60 segundos, ¿qué vía intentaría a continuación?",
+    "opciones": {
+      "A": "Vena subclavia derecha porque se fija mejor.",
+      "B": "Vena yugular interna derecha porque llega más directamente al corazón.",
+      "C": "Una vía intraósea en la pierna.",
+      "D": "Una vena periférica en el brazo."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 26,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante un caso clínico con el diagnóstico de sospecha de obstrucción intestinal, ¿cuál es la exploración complementaria a la que hay que recurrir para confirmar el diagnóstico?",
+    "opciones": {
+      "A": "TC de abdomen en decúbito lateral o supino.",
+      "B": "Ecografía abdominal en bipedestación y/o decúbito supino.",
+      "C": "RM de abdomen en decúbito lateral o supino.",
+      "D": "Radiografía simple de abdomen en bipedestación."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 27,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En relación al síndrome diarreico. ¿Cuál es la falsa?",
+    "opciones": {
+      "A": "En caso de diarrea con criterios de gravedad se realizarán hemocultivos y coprocultivos",
+      "B": "Se realizará detección de toxina de clostridium difficile en pacientes institucionalizados",
+      "C": "La serología es útil en caso de infección por Campilobacter.",
+      "D": "El Bacillus cereus es causante de diarrea enteroinvasiva."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 28,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Con respecto a la pancreatitis aguda, todo es cierto excepto:",
+    "opciones": {
+      "A": "Las dos causas más frecuentes son alcoholismo y enfermedad de las vías biliares.",
+      "B": "A veces presenta el signo de Cullen y el signo de Turner.",
+      "C": "Elevaciones de Amilasa sérica y urinaria ocurren en otras enfermedades.",
+      "D": "La pancreatitis aguda leve puede tratarse de forma ambulatoria, sin ingreso."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 29,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La policía trae a un detenido sospechoso de tráfico de drogas con una imagen radiológica en la que se aprecian numerosas imágenes redondeadas a lo largo de todo el tubo digestivo, desde estomago a ciego, sin apreciar otras complicaciones. ¿Cuál es la actitud más correcta?",
+    "opciones": {
+      "A": "Cirugía urgente por el riesgo de rotura.",
+      "B": "Endoscopia alta para extracción de los alojados en el estomago.",
+      "C": "Uso de catárticos.",
+      "D": "Seguimiento radiológico y cirugía si rotura o no progresión en 48 horas."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 30,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En relación a las malformaciones cardiacas, indique la falsa.",
+    "opciones": {
+      "A": "En un lactante de 4 semanas que acude a urgencias con palidez, mala perfusión, ritmo de galope, hepatomegalia y una diferencia de pulsos y TA entre los miembros superiores e inferiores, sospecharemos una coartación aórtica.",
+      "B": "La descripción anatómica de la Tetralogía de Fallot incluye, estenosis pulmonar, Comunicación interventricular, cabalgamiento aórtico e Hipertrofia de ventrículo derecho.",
+      "C": "La tetralogía de Fallot, se encuentra en la clasificación de la malformaciones cardiacas, dentro de las cardiopatías con cianosis.",
+      "D": "Dentro de las Cardiopatías que cursan con cortocircuito izquierda-derecha están la Comunicación Interventricular, la Comunicación Interauricular y la Estenosis Aortica."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 31,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguientes enunciados sobre la fisura anal es incorrecta?",
+    "opciones": {
+      "A": "En el 80% de los casos es de localización anterior.",
+      "B": "La localización lateral se asocia a enfermedad de base (EII, Tumores, etc.).",
+      "C": "El tratamiento inicial en fase aguda es médico con analgésicos, mucilagos y pomadas vasodilatadoras.",
+      "D": "La fisura crónica precisa de tratamiento quirúrgico."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 32,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La acción de la lactulosa en el tratamiento de la encefalopatía hepática es:",
+    "opciones": {
+      "A": "Realizar aporte hidrocarbonado.",
+      "B": "Reducir la absorción de amoníaco.",
+      "C": "Actuar como resina de intercambio iónico.",
+      "D": "Proteger la mucosa del esófago."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 33,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Qué fármaco no está indicado en la cardioversión farmacológica de la fibrilación auricular?",
+    "opciones": {
+      "A": "Flecainida",
+      "B": "Propafenona",
+      "C": "Digoxina",
+      "D": "VernaKalant"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 34,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta en el Edema Agudo de Pulmón:",
+    "opciones": {
+      "A": "Los fármacos inotrópicos están indicados cuando hay bajo gasto cardíaco en presencia de hipoperfusión.",
+      "B": "Si la PAS es >180mmHg persiste a pesar del tratamiento con Nitroglicerina en perfusión > a 40 ml/h debe considerarse administrar Nitroprusiato Sódico.",
+      "C": "Si la anemia es un factor precipitante obvio con Hb < 9 gr/dl no deben transfundirse concentrados de hematíes.",
+      "D": "Si hay enfermedad renal crónica debe plantearse diálisis urgente en caso de disfunción renal severa, especialmente si existen datos de síndrome urémico."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 35,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto de la hemorragia digestiva baja, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "La colitis isquémica es la causa mas frecuente en ancianos.",
+      "B": "La colonoscopia es la prueba fundamental para el diagnostico pero es necesaria la preparación previa por lo que en sangrado masivo no es recomendable.",
+      "C": "El angioTAC, la gammagrafía con hematíes marcados y la arteriografía son las pruebas indicadas en caso de sangrado masivo.",
+      "D": "La enfermedad diverticular y la angiodisplasias son las causas mas frecuentes de sangrado agudo severo en el adulto."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 36,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La escala de Wells nos da una probabilidad diagnóstica de trombosis venosa profunda. ¿Cuál de los siguientes no es un criterio de dicha escala?",
+    "opciones": {
+      "A": "Cáncer activo",
+      "B": "Varices previas",
+      "C": "Dolor en el trayecto venoso profundo",
+      "D": "Edema con fóvea"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 37,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Cual de los siguiente enunciados es falso respecto del soporte nutricional tras la fase de rehidratación inicial (3-4 horas) a un niño con cuadro diarreico agudo:",
+    "opciones": {
+      "A": "Los niños con alimentación materna deben continuar con la misma.",
+      "B": "Los niños con nutrición artificial debe continuar con la misma fórmula pero diluida.",
+      "C": "Los niños con alimentación complementaria deben hacer la misma que previamente, aconsejando reducir azucares de alta osmolaridad y reducir alimentos con alto contenido en grasas.",
+      "D": "Se reservaran las fórmulas sin lactosa para casos de intolerancia demostrada o sospechada."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 38,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál es la respuesta falsa sobre las agudizaciones de EPOC en urgencias?",
+    "opciones": {
+      "A": "Está indicado el tratamiento con corticoides iv.",
+      "B": "Los antibióticos están indicados en todos los casos de agudización",
+      "C": "Para conocer la situación de gravedad basal del paciente se recomienda usar la escala de BODE o BODEx.",
+      "D": "La escala de BODEx sustituye la prueba de la marcha en 6 minutos por el numero de exacerbaciones graves que requirieron ingreso en urgencias u hospitalización"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 39,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguientes signos o síntomas no es típico de la colangitis?",
+    "opciones": {
+      "A": "Fiebre.",
+      "B": "Ictericia.",
+      "C": "Vómitos.",
+      "D": "Dolor en hipocondrio derecho."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 40,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "De los siguientes factores ¿cuál no predice asma de riesgo vital?",
+    "opciones": {
+      "A": "Crisis asmáticas con ingresos previos en UCI",
+      "B": "Comorbilidad cardiovascular",
+      "C": "Abuso de agonistas B2 adrenérgicos de acción corta",
+      "D": "Comienzo lentamente progresivo de la crisis."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 41,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "La mejor maniobra para abrir la vía aérea en un niño de 6 meses que ha sufrido una parada cardiorrespiratoria secundaria a una infección respiratoria es:",
+    "opciones": {
+      "A": "No es necesario abrir la vía aérea, sino ventilar, ya que no hay obstrucción de vía aérea superior.",
+      "B": "Aspiración de secreciones con sonda de 8 French.",
+      "C": "Maniobra frente-mentón.",
+      "D": "Introducir dos dedos en la boca para extraer posibles cuerpos extraños."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 42,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta respecto al sulfato de magnesio:",
+    "opciones": {
+      "A": "Puede estar indicado su uso en la intoxicación digitálica.",
+      "B": "Su uso está indicado en la Torsade de Pointes.",
+      "C": "No está indicado su uso en la prevención de la eclampsia desarrollada en el parto.",
+      "D": "Está indicado su uso en la hipocalcemia refractaria que no se corrige tras 24h de tratamiento."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 43,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto a la torsión testicular señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "El reflejo cremastérico suele estar abolido.",
+      "B": "Nunca se presenta con dolor abdominal.",
+      "C": "Puede acompañarse de cortejo vegetativo.",
+      "D": "En el 95% de los casos intervenidos en las primeras 6 horas, el teste es viable."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 44,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante la sospecha de TBC en urgencias, indique la verdadera.",
+    "opciones": {
+      "A": "Se debe colocar una mascarilla adecuada al paciente hasta poder dejarlo en una habitación de aislamiento.",
+      "B": "Se realizará hemograma tiempos de coagulación Bioquímica con perfil hepático y GSA si disnea y Rx de tórax",
+      "C": "El estudio de esputo se debe realizar lo antes posible y el diagnóstico definitivo de la tuberculosis se basa en demostrar la presencia de M tuberculosis, para esto se realizará tinción de Zhiel-Neelsen y cultivo.",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 45,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En la bioquímica de la Crisis Adrenal buscamos principalmente:",
+    "opciones": {
+      "A": "Hipopotasemia.",
+      "B": "Hipoglucemia.",
+      "C": "Hipocalcemia.",
+      "D": "Hipernatremia."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 46,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguiente es un factor predisponente para la aparición de un síndrome confusional agudo?",
+    "opciones": {
+      "A": "Edad avanzada",
+      "B": "Deterioro confusional previo",
+      "C": "Enfermedad medico-quirúrgica grave",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 47,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante una sospecha de meningitis aguda, ¿cuál de las siguientes respuestas es falsa?",
+    "opciones": {
+      "A": "El inicio de tratamiento antibiótico no se debe demorar y debe realizarse en los primeros 30 minutos",
+      "B": "Se realizará TAC craneal antes de punción lumbar en pacientes con deterioro del nivel de conciencia",
+      "C": "Ante un LCR con glucorraquia 30% de la glucemia, 150 células/mm3 de predominio mononuclear y proteína 80mg/dl pensaremos como primera posibilidad en una meningitis vírica",
+      "D": "Si se detecta en LCR cocos Gram negativos sugiere como primera posibilidad Nisseria meningitidis"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 48,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "De los siguientes enunciados señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Los criterios de SRIS (Síndrome de Respuesta Inflamatoria Sistémica) incluyen: frecuencia cardíaca, frecuencia respiratoria, tensión arterial y temperatura.",
+      "B": "Se define la sepsis como la presencia de dos o más criterios de SRIS con infección confirmada o sospechada.",
+      "C": "Se define la sepsis grave como la sepsis acompañada de datos de disfunción orgánica.",
+      "D": "Se define el shock séptico como la sepsis grave con disfunción cardiovascular tras la correcta expansión de volumen."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 49,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En relación al Síndrome de Guillain-Barré, señale la falsa:",
+    "opciones": {
+      "A": "Clínica de debilidad motora de comienzo distal que va ascendiendo",
+      "B": "Hiperreflexia en la exploración de reflejos osteotendinosos.",
+      "C": "Se debe realizar punción lumbar",
+      "D": "Está indicado realizar Electromiograma-Electroneurograma."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 50,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En la cefalea tensional, ¿qué es verdadero?",
+    "opciones": {
+      "A": "Es la mas frecuente de las cefaleas",
+      "B": "En el tratamiento agudo están indicados los AINEs",
+      "C": "En cefalea tensional que se cronifica con mas de 15 días al mes con presencia de cefalea durante meses se debe usar tratamiento preventivo con amitriptilina 25-75 mg cada 24 horas.",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 51,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante un paciente que acude a Urgencias con dolor torácico, ¿cual de las siguientes no se considera medida de buena práctica clínica, según el proceso de dolor torácico?",
+    "opciones": {
+      "A": "Si síntomas de gravedad (sudoración fría y profusa, disnea intensa, cianosis) paso directamente a Box de críticos.",
+      "B": "En ausencia de síntomas de gravedad, hacer triage inmediato.",
+      "C": "EKG si procede en < 5 minutos.",
+      "D": "Lectura del EKG en menos de 20 minutos si dolor persistente."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 52,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de las siguientes no sugiere el diagnóstico de SIADH?",
+    "opciones": {
+      "A": "Hiponatremia con osmolaridad plasmática elevada",
+      "B": "Na urinario mayor de 20 mEq/l",
+      "C": "Normovolemia",
+      "D": "Osmolaridad urinaria mayor de 100 mOsm/k"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 53,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El shock neurogénico se caracteriza por:",
+    "opciones": {
+      "A": "Hipotensión, piel caliente y taquicardia.",
+      "B": "Bradicardia, hipotensión y piel caliente.",
+      "C": "Hipotensión, bradicardia y piel fría.",
+      "D": "Taquicardia, piel fría e hipotensión."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 54,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante un Cólico nefrítico. ¿Cuándo debe realizarse una ecografía abdominal?",
+    "opciones": {
+      "A": "Dolor refractario a tratamiento médico.",
+      "B": "Insuficiencia renal aguda",
+      "C": "Monorreno.",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 55,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En el fracaso renal agudo ¿qué es verdadero?",
+    "opciones": {
+      "A": "Ante una fracaso renal agudo se realizará una eco-doppler abdominal.",
+      "B": "Lo primero es descartar una causa obstructiva",
+      "C": "El análisis sistemático de orina y la obtención de índices urinarios (densidad de orina, osmolaridad de orina, Na en orina, Urea orina/urea plasma, Creatinina orina/Creatinina plasma, EFNa), son de gran utilidad para distinguir entre Fracaso renal agudo prerrenal, Necrosis tubular aguda, Nefritis intersticial aguda y fracaso renal por oclusión de la arteria renal",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 56,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿En cuál de la siguiente situaciones está indicada la pericardiocentesis?",
+    "opciones": {
+      "A": "Pericarditis recidivante.",
+      "B": "Sospecha de pericarditis purulenta.",
+      "C": "Sospecha de pericarditis neoplásica.",
+      "D": "Pericarditis asociada a HIV."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 57,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En el entorno de urgencias en relación a infección por VIH, ¿qué es falso?",
+    "opciones": {
+      "A": "En una embarazada que se presenta al parto sin ningún seguimiento previo esta indicado realizar serología VIH",
+      "B": "En paciente con fiebre y exantema con antecedentes de contacto sexual de riesgo, se debe realizar serología VIH",
+      "C": "No está indicado serología VIH en paciente que acude a urgencias por sospecha de uretritis gonocócica.",
+      "D": "En una alta sospecha de primoinfección por VIH con serología negativa se debe realizar determinación de carga viral."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 58,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante un paciente con dolor, aumento de diámetro y de temperatura de la rodilla derecha, indique la respuesta falsa.",
+    "opciones": {
+      "A": "Realizaremos radiografía simple de rodillas comparadas",
+      "B": "La ecografía es una prueba muy útil, ayuda al diagnostico y nos sirve de guía a la artrocentesis.",
+      "C": "Se debe realizar artrocentesis y examen del liquido sinovial, se debe observar el aspecto y la viscosidad, bioquímica, leucocitos, Gram y cultivo, si se sospecha infección, y detección de cristales.",
+      "D": "Si el liquido sinovial obtenido tiene aspecto transparente, viscosidad alta, leucocitos 150/mm3 y glucosa normal es sugestivo de liquido infeccioso."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 59,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En la fibrilación auricular preexcitada están contraindicados todos los siguientes fármacos, excepto:",
+    "opciones": {
+      "A": "Verapamilo.",
+      "B": "Digoxina.",
+      "C": "Amiodarona.",
+      "D": "Betabloqueantes."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 60,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En una lumbalgia, ¿Cuál de las respuestas es falsa?",
+    "opciones": {
+      "A": "Si existen signos de alarma, se realizará una RNM o un TAC",
+      "B": "Las maniobras de Lassègue y de Bragard son maniobras de provocación radicular y son muy especificas.",
+      "C": "Son signos de alarma entre otros: dolor constante, progresivo de características no mecánicas, síndrome constitucional y fiebre.",
+      "D": "L3 inerva el dorso del pie y el primer dedo. Su afectación provoca déficit de extensión del 1º dedo y de la inversión del pie."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 61,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto a la transfusión de concentrados de hematíes, señale la respuesta falsa.",
+    "opciones": {
+      "A": "La transfusión de hematíes es un tratamiento de soporte de la anemia pero no un tratamiento definitivo",
+      "B": "No se debe transfundir, si existe una alternativa satisfactoria, salvo que la situación clínica lo requiera.",
+      "C": "Antes de transfundir se debe obtener muestra para perfil férrico, Vitamina B12 y acido fólico",
+      "D": "El objetivo a alcanzar con una transfusión es conseguir una Hemoglobina y un Hematocrito dentro del rango de la normalidad"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 62,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Qué es falso en la anafilaxia?",
+    "opciones": {
+      "A": "Se debe retirar el posible alérgeno.",
+      "B": "Adrenalina im 0.3-0.5 mg en adultos y en niños 0.01 mg/kg hasta un máximo de 0.3mg es el tratamiento de elección",
+      "C": "Ante un cuadro compatible con anafilaxia el diagnostico de certeza se realizará con la determinación de Triptasa sérica.",
+      "D": "Los pacientes que son atendidos en urgencias por anafilaxia y responden de forma favorable, no requieren ningún periodo de observación."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 63,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En intoxicaciones agudas, señale la respuesta incorrecta.",
+    "opciones": {
+      "A": "En las intoxicaciones por Paracetamol, se sigue el normograma de Rumack-Mattew",
+      "B": "Si existe sospecha de intoxicación por derivados opiáceos, hay que administrar Naloxona intravenosa.",
+      "C": "Si existe sospecha de intoxicación por antidepresivos tricíclicos, hay que administrar Flumacenilo intravenosa",
+      "D": "Si existe sospecha de intoxicación por cianuro, hay que administrar Hidroxicobalamina intravenosa"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 64,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En el paciente oncológico con síndrome de vena cava superior, señale la verdadera.",
+    "opciones": {
+      "A": "El diagnostico es clínico",
+      "B": "El TAC de Tórax es útil para conocer la etiología y planificar el abordaje",
+      "C": "La flebo-cavografia es la prueba diagnostica de elección y el tratamiento actualmente indicado es la colocación de una endoprótesis vascular en el lugar de la obstrucción.",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 65,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál es la respuesta incorrecta respecto a la bronquiolitis?",
+    "opciones": {
+      "A": "El diagnóstico es fundamentalmente médico.",
+      "B": "El Virus Sincitial Respiratorio es el causante en más del 50% de los casos.",
+      "C": "No cursa con período epidémico.",
+      "D": "Es el primer episodio de sibilantes precedido o en el curso de un proceso catarral en menores de 2 años."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 66,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En la relación entre tipo de emergencia hipertensiva y tratamiento farmacológico, señale lo incorrecto:",
+    "opciones": {
+      "A": "En emergencia hipertensiva neurológica: Labetalol/urapidilo.",
+      "B": "En síndrome aórtico agudo: Nitroprusiato + labetalol.",
+      "C": "En eclampsia: Labetalol + diuréticos.",
+      "D": "En síndrome coronario agudo: nitroglicerina + betabloqueantes."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 67,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿En cual de las siguientes situaciones aparece pérdida de visión brusca monocular y transitoria?",
+    "opciones": {
+      "A": "Amaurosis fugaz",
+      "B": "Migraña clásica con aura visual",
+      "C": "Insuficiencia de la arteria vertebrobasilar",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 68,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿En cuál de los siguientes tipos de sincope es necesario completar el estudio hasta descubrir la causa?",
+    "opciones": {
+      "A": "Sincope durante el esfuerzo.",
+      "B": "Sincope tras la micción.",
+      "C": "Sincope vasovagal.",
+      "D": "Sincope ortostático."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 69,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la falsa en el manejo del TCE en urgencias:",
+    "opciones": {
+      "A": "Se debe realizar una Rx de cráneo en la valoración de todo TCE en urgencias.",
+      "B": "En pacientes anticoagulados se debe realizar tiempos de coagulación",
+      "C": "Si el TCE viene precedido de una pérdida de conciencia habrá que estudiar las causas de sincope",
+      "D": "Ante un TCE se debe evaluar el nivel de conciencia recogiendo Escala de Glasgow y realizar una exploración neurológica completa."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 70,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta correcta respecto a la dosis de r-tpa en el ictus:",
+    "opciones": {
+      "A": "0,8 mg/Kg, máximo de 80mg: 10% de la dosis total en bolo en 10 minutos y el resto a la hora.",
+      "B": "1mg/Kg, máximo de 100mg: 10% de la dosis total en bolo en 5 minutos y el resto en infusión continua en una hora.",
+      "C": "0,9mg/Kg, máximo de 100 mg: 10% de la dosis total en 5 minutos y el resto en infusión continua en una hora.",
+      "D": "0,9mg/Kg, máximo de 90 mg: 10% de la dosis total en bolo en 1 minuto y el resto en infusión continua en una hora."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 71,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante una insuficiencia respiratoria aguda, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Hay que administrar O2 alto flujo y baja FIO2 para SaO2 de 87-92% en pacientes crónicos.",
+      "B": "Hay que administrar O2 alto flujo y FIO2 necesaria para aliviar la disnea y SaO2 > 95% en pacientes no crónicos.",
+      "C": "Búsqueda y tratamiento de la causa.",
+      "D": "Utilizar gafas nasales si sospecha retención de carbónico."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 72,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante un politraumatizado con sospecha de traumatismo abdominal cerrado, ¿cuál es el método diagnostico aconsejado para una valoración inicial en urgencias?",
+    "opciones": {
+      "A": "RX simple de abdomen",
+      "B": "TAC abdomen",
+      "C": "Lavado peritoneal diagnóstico",
+      "D": "Ecografía-FAST"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 73,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto al neumotórax espontáneo señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Se divide en primario, secundario y catamenial.",
+      "B": "El primario se relaciona con el consumo de tabaco y morfología leptosómica.",
+      "C": "Es clínicamente estable cuando FR <24rpm, FC entre 60 y 120 lpm, TA en el intervalo de la normalidad, SO2 basal > 90% y el paciente es capaz de decir frases cortas entre respiraciones.",
+      "D": "El TAC torácico no es de utilidad en neumotórax espontáneo secundario recurrente o para descartar enfermedad bullosa."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 74,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Entre las medidas iniciales a realizar en la reagudización de asma están todas las siguientes, excepto:",
+    "opciones": {
+      "A": "Realización de gasometría arterial.",
+      "B": "Medición de la obstrucción al flujo aéreo (FEV1).",
+      "C": "Pulsioximetría.",
+      "D": "Identificar signos y síntomas de compromiso vital."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 75,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante un lactante con llanto, ¿cuál de los siguientes objetivos se deben plantear?",
+    "opciones": {
+      "A": "Descartar enfermedad aguda tratable",
+      "B": "Ayudar a los padres a entender la naturaleza del llanto de sus hijos",
+      "C": "Valorar posible cólico del lactante en aparición de llanto paroxístico más de 3 horas al día y más de 3 días a la semana, irritabilidad, flexión de rodillas sobre abdomen y predominio vespertino",
+      "D": "Todos los anteriores"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 76,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto de la antigenuria en el diagnóstico etiológico de la neumonía, es falso que:",
+    "opciones": {
+      "A": "La antigenuria a neumococo se debe solicitar en neumonía con criterio de ingreso.",
+      "B": "La antigenuria a neumococo posee una sensibilidad de 80 % y especificidad >95%.",
+      "C": "La antigenuria a legionella se debe solicitar cuando sospecha clínica (Rx, hiponatremia, diarrea, etc.) fallo terapéutico con betalactámicos, neumonía grave o brote epidemiológico.",
+      "D": "La antigenuria a legionella posee una sensibilidad y especificidad cercana a 80%."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 77,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta correcta respecto a los traumatismos de extremidades en un politraumatizado:",
+    "opciones": {
+      "A": "Su valoración siempre es prioritaria durante la evaluación primaria.",
+      "B": "La valoración neurovascular se debe realizar antes y después de la reducción e inmovilización.",
+      "C": "La rabdomiolisis traumática se define sólo por la afectación de la masa muscular.",
+      "D": "El síndrome de embolia grasa presenta triada clásica de Charcot."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 78,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta respecto a los signos que pueden orientar hacia la presencia de lesión medular cervical en pacientes inconscientes:",
+    "opciones": {
+      "A": "Hipotensión y bradicardia.",
+      "B": "Mueca al dolor al estimular por debajo de la clavícula.",
+      "C": "Priapismo.",
+      "D": "Arreflexia flácida."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 79,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Indique la respuesta correcta respecto a la Triada de Cushing:",
+    "opciones": {
+      "A": "Bajo nivel de conciencia, HTA y bradicardia.",
+      "B": "Anisocoria, bradicardia y bajo nivel de conciencia.",
+      "C": "Cefalea, anisocoria y bradicardia.",
+      "D": "HTA, bradicardia y respiración irregular."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 80,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿En qué situación se puede encontrar un descenso de la glucosa en liquido pleural?",
+    "opciones": {
+      "A": "Artritis reumatoide.",
+      "B": "Origen tuberculoso.",
+      "C": "Neoplásico",
+      "D": "Todos los anteriores."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 81,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿En el diagnóstico de un derrame pleural, cuál de las siguientes asociaciones es falsa?",
+    "opciones": {
+      "A": "Derrame pseudoquiloso --- TBC.",
+      "B": "Derrame quiloso --- Artritis reumatoide.",
+      "C": "Trasudado --- Insuficiencia cardiaca.",
+      "D": "Empiema --- Paraneumónico."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 82,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta correcta respecto al vértigo de origen central:",
+    "opciones": {
+      "A": "Inicio progresivo.",
+      "B": "Carácter rotatorio.",
+      "C": "Presenta hipoacusia habitual.",
+      "D": "Siempre se acompaña de síntomas vegetativos asociados."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 83,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta de la exploración neurológica cuando está alterado el nivel de conciencia:",
+    "opciones": {
+      "A": "El parpadeo espontáneo y el reflejo corneal, provocado por estimulación de la córnea con una torunda de algodón, dependen de la integridad del tronco del encéfalo y de sus conexiones con la corteza cerebral (vía trigémino-protuberancia-facial)",
+      "B": "En las lesiones hemisféricas, los ojos se desvían conjugadamente hacia el lado lesionado (lado contrario de la hemiparesia), mientras que en las lesiones talámicas y protuberanciales y en la epilepsia focal lo hacen hacia el lado contrario de la lesión (homolateral a la hemiparesia o a las contracciones, respectivamente).",
+      "C": "Los ROC (Reflejos Óculo Cefálicos) consisten en la desviación conjugada de la mirada hacia el lado de giro de la cabeza del paciente, tanto en el plano horizontal como en el vertical (ojos de muñeca).",
+      "D": "Respiración de Cheyne-Stokes: lesión diencefálica o hemisférica bilateral de origen estructural o metabólico."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 84,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto de los movimientos oculares en un paciente en coma, señale la respuesta falsa.",
+    "opciones": {
+      "A": "La presencia de movimientos erráticos lentos horizontales conjugados significa lesión del tronco de encéfalo.",
+      "B": "El Bobbing significa lesión de tronco.",
+      "C": "El reflejo corneal presente con fenómeno de Bell sugiere indemnidad del tronco.",
+      "D": "La presencia de reflejo 'en ojos de muñeca' significa indemnidad del tronco."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 85,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En la sospecha de meningitis aguda bacteriana, ¿cuál de la siguientes afirmaciones es falsa?",
+    "opciones": {
+      "A": "Debe extraerse sangre y hemocultivos previamente a la punción lumbar (PL).",
+      "B": "Iniciar antibioterapia empírica tras los hemocultivos antes de la punción lumbar.",
+      "C": "Utilizar bolo de corticoides previo o a la vez que el antibiótico.",
+      "D": "Administrar fenitoina para profilaxis de crisis convulsiva."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 86,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En el manejo de la cetoacidosis diabética son indicadores de buena practica clínica los siguientes, excepto:",
+    "opciones": {
+      "A": "Paso a insulina subcutánea cuando control glucemia < 200 mgrs./dl.",
+      "B": "Aportar suero glucosado cuando la glucemia descienda por debajo de 250 mgrs/dl.",
+      "C": "Iniciar ingesta alimentaria cuando la acidosis esté corregida y una hidratación correcta manteniendo perfusión de insulina al inicio.",
+      "D": "Administrar heparina de bajo peso molecular profiláctica."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 87,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Ante la presencia de hematuria macroscópica señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Si hay datos de infección, se inicia tratamiento antibiótico.",
+      "B": "Se procederá al sondaje si se trata de hematuria recidivante.",
+      "C": "Si se trata de un portador de sonda, se harán lavados y se valorará la recolocación de la sonda.",
+      "D": "Si anemización o inestabilidad hemodinámica, se procederá a sondaje, lavados y valorar RTU hemostática."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 88,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de las siguiente enfermedades de transmisión sexual no se manifiesta como ulceración?",
+    "opciones": {
+      "A": "Clamidia trachomatis.",
+      "B": "Linfogranuloma venéreo",
+      "C": "Herpes.",
+      "D": "Granuloma inguinal."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 89,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál de los siguiente criterios, por si solo, no justifica la toma de hemocultivos?",
+    "opciones": {
+      "A": "Fiebre de mas de 39.4ºC.",
+      "B": "Signos de mala perfusión tisular sugerente de origen infeccioso.",
+      "C": "Sospecha de endocarditis.",
+      "D": "Leucocitosis > 18.000/mm3."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 90,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Respecto del manejo de la intoxicación por cocaína, señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "La convulsiones se tratan con benzodiacepinas.",
+      "B": "La agitación se trata con midazolan o diazepan y antipsicóticos atípicos: risperidona y olanzapina.",
+      "C": "La HTA y la taquicardia se tratan con antagonistas del calcio y puede utilizarse Labetalol.",
+      "D": "La isquémica miocárdica se trata con betabloqueantes."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 91,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Indique la respuesta que no es una norma de calidad en RCP según el Consejo Europeo de Resucitación.",
+    "opciones": {
+      "A": "Asegurar compresiones torácicas de profundidad adecuada (aproximadamente 5 cm pero no más de 6 cm en el adulto medio)",
+      "B": "Frecuencia de 100-120 compresiones por minuto",
+      "C": "La relación de compresiones torácicas y ventilaciones debe ser 30:2",
+      "D": "No interrumpir las compresiones torácicas durante más de 20 segundos para administrar ventilaciones."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 92,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El shock séptico se define como:",
+    "opciones": {
+      "A": "Síndrome de respuesta inflamatoria sistémica asociada a infección.",
+      "B": "Sepsis con disfunción orgánica que condiciona acidosis láctica.",
+      "C": "Sepsis con hipotensión < 90 mmHg y disfunción orgánica.",
+      "D": "Sepsis con hipotensión y signos de hipoperfusión resistente a reposición inicial correcta de fluidos."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 93,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El enfriamiento en el golpe de calor puede requerir todas las siguientes actuaciones, excepto:",
+    "opciones": {
+      "A": "Desnudar la paciente y aplicar agua tibia junto con un ventilador en decúbito lateral.",
+      "B": "Uso de antipiréticos.",
+      "C": "Enfriamiento interno con lavado gástrico y peritoneal.",
+      "D": "Enfriamiento sanguíneo con circulación extracorpórea o hemodiálisis"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 94,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta respecto a la acatisia:",
+    "opciones": {
+      "A": "A veces se confunde con ansiedad.",
+      "B": "Habitualmente aparece en pacientes jóvenes.",
+      "C": "Habitualmente se presenta al inicio del tratamiento o al aumentar la dosis del neuroléptico.",
+      "D": "No suele asociarse a ISRS (Inhibidores Serotoninérgicos de Recaptación de Serotonina)."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 95,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Cuál sería el diagnostico más probable ante un paciente con fiebre elevada, aumento de tamaño de muslo derecho con edema indurado intenso mas allá de la zona de enrojecimiento, zonas de necrosis con ampollas hemorrágicas y con crepitación?",
+    "opciones": {
+      "A": "Celulitis.",
+      "B": "Erisipela.",
+      "C": "Fascitis necrotizante.",
+      "D": "Paniculitis."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 96,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "¿Qué sospecharía ante un paciente que tras un traumatismo torácico severo presenta enfisema subcutáneo cervical y torácico anterior progresivo y estridor?",
+    "opciones": {
+      "A": "Neumotórax a tensión.",
+      "B": "Neumomediastino.",
+      "C": "Rotura traqueal.",
+      "D": "Hematoma mediastinico con afectación de recurrentes."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 97,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "En la definición de caso de enfermedad por virus de Ébola, señale la respuesta correcta.",
+    "opciones": {
+      "A": "Se considera caso en investigación a una persona que cumpla el criterio epidemiológico.",
+      "B": "El criterio epidemiológico se cumple si ha existido una estancia en una de las áreas afectadas durante los 21 días previos al inicio de los síntomas, aunque no haya estado en contacto con ningún caso.",
+      "C": "El criterio clínico consiste en fiebre mayor o igual a 37,7 con al menos otro síntoma compatible con la enfermedad. Para valorar la fiebre se tendrá en cuenta si está tomando antitérmicos",
+      "D": "Caso descartado es aquel que cumple los criterios clínicos pero no los epidemiológicos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 98,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta correcta en relación a la donación de órganos en asistolia:",
+    "opciones": {
+      "A": "Los profesionales encargados del diagnóstico y la certificación de la muerte serán distintos de aquellos médicos que hayan de intervenir en la extracción o el trasplante, y no sujetos a las instrucciones de éstos",
+      "B": "El fallecimiento de una persona puede diagnosticarse por medio de la confirmación del cese irreversible de las funciones cardiorrespiratorias (muerte por PCR) o del cese irreversible de las funciones encefálicas (muerte encefálica)",
+      "C": "La condición de irreversibilidad también respetar un periodo de observación sin maniobras de cardiocompresión y ventilación, que en nuestro país se encuentra estipulado en 5 minutos.",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 99,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El principio de la Bioética que sustenta el deber de evitar intervenciones diagnosticas o terapéuticas que no tengan suficiente evidencia científica, que sean incorrectas o incluso contraindicadas desde el punto de vista científico-técnico y clínico, para proteger así la integridad física y la intimidad de los pacientes es:",
+    "opciones": {
+      "A": "La Justicia",
+      "B": "La Beneficencia",
+      "C": "La No-Maleficencia",
+      "D": "La autonomía"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 100,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Entre los derechos de las personas ante el proceso de la muerte recogidos en la Ley 2/2012 de Derechos y Garantías de la Dignidad de la Persona en el Proceso de la Muerte, no se encuentra:",
+    "opciones": {
+      "A": "El derecho del paciente a decidir sobre la limitación del esfuerzo terapéutico",
+      "B": "El derecho de los pacientes a la administración de sedación paliativa",
+      "C": "Derecho a la intimidad personal y familiar y a la confidencialidad",
+      "D": "Derecho de los pacientes al tratamiento del dolor"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 101,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I: Mujer 49 años, que acude a urgencias por palpitaciones. Sin antecedentes de interés. Episodio autolimitado de palpitaciones con cuadros similares en los últimos 4 meses. EO: Tonos arrítmicos a 140 sx', sin soplos. EKG: Fibrilación auricular a 140 spm. ¿Qué fármaco es el más indicado en el centro de salud?",
+    "opciones": {
+      "A": "Amiodarona",
+      "B": "Digoxina",
+      "C": "Metoprolol",
+      "D": "Nifedipino"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 102,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): ¿Puntuación EHRA (European Heart Rhythm Association) de los síntomas relacionados con la fibrilación auricular (FA)?",
+    "opciones": {
+      "A": "EHRA 1",
+      "B": "EHRA 2",
+      "C": "EHRA 3",
+      "D": "EHRA 4"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 103,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): ¿Ante qué tipo de fibrilación auricular nos encontramos?",
+    "opciones": {
+      "A": "FA silente",
+      "B": "FA paroxística",
+      "C": "FA persistente",
+      "D": "FA permanente"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 104,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): ¿Qué objetivo debemos buscar en esta paciente?",
+    "opciones": {
+      "A": "Control de Frecuencia exclusivamente",
+      "B": "Control del ritmo: Cardioversión farmacológica (CVF)",
+      "C": "Control del ritmo: Cardioversión eléctrica sincronizada (CVES)",
+      "D": "Actualmente se puede dar a elegir al paciente tanto la CVES como por la CV Farmacológica."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 105,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): Si hacemos cardioversión farmacológica. ¿Qué fármaco podemos utilizar?",
+    "opciones": {
+      "A": "Amiodarona",
+      "B": "Digoxina",
+      "C": "Atenolol",
+      "D": "Flecainida"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 106,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): Si pensamos que es un 1º episodio de FA ¿qué tratamiento de mantenimiento daríamos?",
+    "opciones": {
+      "A": "No damos tratamiento anti arrítmico",
+      "B": "Podemos dejar metoprolol",
+      "C": "Administraríamos amiodarona",
+      "D": "Dejaríamos con digoxina"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 107,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): Si pensamos que es una fibrilación auricular paroxística recurrente que ha revertido a ritmo sinusal. ¿qué tratamiento no daríamos?",
+    "opciones": {
+      "A": "Flecainida",
+      "B": "Propafenona",
+      "C": "Digoxina",
+      "D": "Dronedarona"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 108,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): Y si la FA llevara más de 48 horas ¿qué estrategia seguiríamos?",
+    "opciones": {
+      "A": "Control de frecuencia",
+      "B": "Cardioversión",
+      "C": "Control de Frecuencia y Cardioversión diferida",
+      "D": "Control de Frecuencia, Terapia antitrombótica y Cardioversión electiva"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 109,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): ¿Qué tratamiento ponemos para control de la frecuencia cardiaca (FC)?",
+    "opciones": {
+      "A": "Nifedipina",
+      "B": "Continuaríamos con Metoprolol",
+      "C": "Amiodarona",
+      "D": "Digoxina"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 110,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO I (continuación): Si la fibrilación auricular tuviera más de 48 horas de duración. ¿Cuánto tiempo debe estar anticoagulada la paciente?",
+    "opciones": {
+      "A": "3 semanas preCV y 4 semanas post cardioversión",
+      "B": "No hace falta anticoagular si se va a hacer cardioversión farmacológica",
+      "C": "Depende del CHADS2 que tenga el paciente",
+      "D": "3 semanas preCV, 4 semanas post cardioversión y posteriormente según el CHA2DS2-VASc del paciente"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 111,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II: Niña de 20 meses con 12 Kg que es llevada a urgencias del hospital por sus padres por fiebre de varios días. ¿Qué debe valorarse en primer lugar en el triaje?",
+    "opciones": {
+      "A": "Temperatura.",
+      "B": "Tensión arterial",
+      "C": "Triángulo de evaluación pediátrica.",
+      "D": "SO2"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 112,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Presenta temperatura timpánica de 39ºC, respira rápido, tiene aleteo nasal, tiende a dormirse a pesar de estimularla y la piel tiene aspecto moteado con manchitas rojas en la cara. ¿Qué nivel de prioridad tiene?",
+    "opciones": {
+      "A": "Nivel 1",
+      "B": "Nivel 2",
+      "C": "Nivel 3",
+      "D": "Nivel 4"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 113,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Presenta a los estímulos gemidos, relleno capilar > 3 seg, pulso braquial débil, petequias >2mm no limitadas al territorio de la vena cava superior y ausencia de signos meníngeos. ¿Ante qué escala clínica de valoración de riesgo nos encontramos en este momento?",
+    "opciones": {
+      "A": "YIOS > 7",
+      "B": "YALE < 16",
+      "C": "YIOS < 7",
+      "D": "YALE >16"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 114,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Con todos estos datos nos encontramos con alta sospecha de:",
+    "opciones": {
+      "A": "Sepsis.",
+      "B": "SRIS.",
+      "C": "Sepsis grave.",
+      "D": "Shock séptico."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 115,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): ¿Qué no estaría indicado realizar a continuación?",
+    "opciones": {
+      "A": "Monitorización.",
+      "B": "Activación del Código Sepsis.",
+      "C": "Iniciar tratamiento de Sepsis grave.",
+      "D": "Con estos datos no es necesario priorizar actuaciones a seguir."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 116,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Se le ha administrado O2 y está monitorizada, presentando FR 40 rpm, FC 160 lpm, TA 60/35 y SO2 92%. De la siguiente secuencia de actuaciones señale la respuesta incorrecta:",
+    "opciones": {
+      "A": "Canalizar dos vías periféricas o en su defecto una vía central.",
+      "B": "Extracción de analítica: hemocultivo, hemograma, iones, calcio, urea, creatinina, transaminasa, gasometría, lactato y coagulación.",
+      "C": "Administrar 240cc de Suero Fisiológico en 5-10 minutos, de forma repetida hasta logro de objetivos.",
+      "D": "Valorar periódicamente la necesidad de intubación según el estado de consciencia, la situación cardio-respiratoria y la respuesta al tratamiento."
+    },
+    "respuesta_correcta": "ANULADA"
+  },
+  {
+    "id_examen": 117,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Señale la incorrecta de los siguientes enunciados respecto al manejo terapéutico:",
+    "opciones": {
+      "A": "Tras la estabilización inicial se realizarán precozmente otras exploraciones complementarias o cultivos para localizar el foco.",
+      "B": "La antibioterapia debe realizarse en la primera hora y siempre tras la obtención de los cultivos.",
+      "C": "Tras la estabilización inicial se realizará Rx tórax.",
+      "D": "Corregir hipocalcemia/hipoglucemia."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 118,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): A los 15 minutos presenta FC 165lpm, FR 40 rpm, TA 65/30, SO2 95%, relleno capilar > 2 segundos. ¿Qué cree que no estaría indicado en este momento?",
+    "opciones": {
+      "A": "Seguir optimizando el aporte volumétrico.",
+      "B": "Administrar Dopamina.",
+      "C": "Administrar Adrenalina o Noradrenalina si no hay respuesta con Dopamina o Dobutamina.",
+      "D": "Administrar Hidrocortisona."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 119,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Ante todos los datos anteriores ¿qué antibioterapia empírica considera más adecuada?",
+    "opciones": {
+      "A": "Ampicilina 600mg IV.",
+      "B": "Imipenen 300mg IV + Amikacina 180mg IV +/- Vancomicina 120 mg IV.",
+      "C": "Cefotaxima 900 mg IV.",
+      "D": "Amoxicilina-Clavulánico 300mg IV."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 120,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO II (continuación): Mientras esperan la medicación en la sala de espera los padres gritan porque la niña no responde y se le mueve el cuerpo. ¿En este momento qué prioridad hay que darle?",
+    "opciones": {
+      "A": "Nivel 2.",
+      "B": "Nivel 3.",
+      "C": "Nivel 1.",
+      "D": "Nivel 4."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 121,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III: Varón de 61 años, presenta estando en reposo, dolor interescapular, irradiado a hemitórax derecho, sudoración, náuseas, vómitos y disnea de 15 minutos. Desde el centro coordinador se alerta a equipo 061. AP: DM tipo 2, HTA, AIT, Cardiopatía hipertensiva, IRC. TA 158/95 mmHg. Sat O2 90%. EKG: ascenso de ST en I AVL V2-V4. ¿Qué es lo primero que debe hacer el equipo en domicilio?",
+    "opciones": {
+      "A": "Iniciamos perfusión de drogas vasoactivas.",
+      "B": "Monitorización ECG y realizamos ECG de 12 derivaciones.",
+      "C": "Administramos AAS y Cafinitrina sublingual.",
+      "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 122,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): En EKG se objetiva ritmo sinusal con ascenso de ST en I AVL V2-V4. ¿Qué actitud tomaremos si estamos a 30 minutos del centro hospitalario útil?",
+    "opciones": {
+      "A": "Reperfusión mediante Fibrinolisis inmediata",
+      "B": "Angioplastia primaria a la llegada al hospital",
+      "C": "Doble antiagregación y esperar",
+      "D": "Traslado al hospital para curva enzimática"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 123,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): ¿Cómo podemos evitar retrasos en la reperfusión?",
+    "opciones": {
+      "A": "Solicitar helicóptero para traslado",
+      "B": "Ir directamente al hospital. No hace falta avisar al centro coordinador.",
+      "C": "Contacto y traslado directo a la sala de hemodinámica, sin pasar por Urgencias.",
+      "D": "Presionar al conductor de la ambulancia para que corra más"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 124,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): Todos los hospitales y servicios de urgencias que participen en la atención de pacientes con IAMCEST deben registrar y monitorizar el tiempo de retraso. Indique la verdadera:",
+    "opciones": {
+      "A": "Desde el primer contacto médico al primer ECG menor o igual a 10 min",
+      "B": "Tiempo para angioplastia primaria menor o igual a 90 min",
+      "C": "Tiempo para angioplastia primaria menor o igual a 60 min si el paciente se presenta en los primeros 120 min desde el inicio de los síntomas o directamente a un centro con capacidad para realizar ICP.",
+      "D": "Todas son verdaderas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 125,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): ¿Qué tratamiento antiagregante empleamos?",
+    "opciones": {
+      "A": "No podemos utilizar doble antiagregación en este paciente. Tuvo un AIT",
+      "B": "Ya tomaba AAS, así está bien.",
+      "C": "Debemos conocer el riesgo hemorrágico, mediante Escala CRUSADE.",
+      "D": "Solo importa el riesgo isquémico"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 126,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): ¿Qué fármacos utilizamos como tratamiento antiagregante?",
+    "opciones": {
+      "A": "AAS 300 mg + Clopidogrel 600 mg",
+      "B": "AAS 300 mg + Ticagrelor 180 mg",
+      "C": "AAS 300 mg + Prasugrel 10 mg",
+      "D": "AAS 300 mg"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 127,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): ¿Debemos utilizar anticoagulantes?",
+    "opciones": {
+      "A": "No hace falta, vamos a ICP.",
+      "B": "Cuando hacemos fibrinólisis solo debemos anticoagular con enoxaparina",
+      "C": "Siempre debemos anticoagular hasta la revascularización.",
+      "D": "Está indicado tratamiento anticoagulante de rutina postprocedimiento tras ICP"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 128,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): ¿Qué anticoagulantes debemos utilizar?",
+    "opciones": {
+      "A": "La enoxaparina es preferible cuando hagamos fibrinólisis",
+      "B": "Si el paciente va a ICP no se puede utilizar bivalirudina",
+      "C": "El fondaparinux es un anticoagulante preferible en ICP",
+      "D": "La HNF ya no se utiliza."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 129,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): En cuanto al tiempo de mantenimiento de la antiagregación, señale la falsa:",
+    "opciones": {
+      "A": "El AAS debemos mantenerlo de forma indefinida",
+      "B": "La doble antiagregación durante seis meses",
+      "C": "Si el paciente está anticoagulado utilizaremos clopidogrel.",
+      "D": "Actualmente se está valorando de forma individualizada, en función del riesgo isquémico y el riesgo hemorrágico del paciente"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 130,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO III (continuación): La arritmia más frecuente en el IAMCEST es:",
+    "opciones": {
+      "A": "Fibrilación Auricular",
+      "B": "Taquicardia ventricular No sostenida",
+      "C": "Bloqueo AV de alto grado",
+      "D": "Fibrilación ventricular"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 131,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV: Paciente politraumatizado en Box de Críticos tras accidente de tráfico. No ha podido canalizar vía por agitación psicomotriz intensa. Se le ha administrado 10 mgrs. de midazolan intranasal. Presenta hematoma frontal y facial, porta Collarín cervical tipo Philadelphia, no respuesta verbal, ojos cerrados sin obedecer ordenes y agitación intensa. Abundantes restos hemáticos en camisa y pantalón, moviliza los MMSS pero no los MMII. ¿Cual sería su actitud inicial mas correcta?",
+    "opciones": {
+      "A": "Contención mecánica y canalizar vía venosa para sedación química.",
+      "B": "Intentar auscultar para descartar neumotórax y tratar como causa de la agitación.",
+      "C": "Canalizar vía venosa para administración rápida de fluidos por shock.",
+      "D": "Valorar pupilas para descartar consumo de tóxicos."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 132,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): Una vez que la agitación se ha controlado, ¿cuál es el siguiente paso que daría?",
+    "opciones": {
+      "A": "Comprobar y asegurar permeabilidad de la vía aérea.",
+      "B": "Toma de TA y SaO2.",
+      "C": "Auscultar al paciente.",
+      "D": "Hacer glucemia capilar."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 133,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): El paciente ha quedado inconsciente, sin respuesta verbal ni ocular. Se ha colocado una cánula orofaringea y administrado O2 a alto flujo. Respira espontáneamente, cuello con tráquea alineada y marcada ingurgitación yugular. Se aprecia hipoventilación en hemitorax izquierdo con timpanismo. TA 70/50, Fc 125 lpm y SaO2 del 95% y glucemia capilar 158 mgr./dl. ¿Le parece correcta la actuación hasta ahora y porqué?",
+    "opciones": {
+      "A": "No, debería haberse aislado la vía respiratoria mediante IOT.",
+      "B": "Si, ya que se ha comprobado la permeabilidad de la vía aérea, respira espontáneamente y la oxigenación es buena.",
+      "C": "Si, ya que la existencia de posible neumotórax contraindica la ventilación mecánica.",
+      "D": "No, ya que se debería haber iniciado la administración de cristaloides."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 134,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): ¿Cuál sería la actitud en este momento?",
+    "opciones": {
+      "A": "Aislar la vía aérea definitivamente mediante sedorelajación e IOT.",
+      "B": "Drenaje torácico mediante Abbocath Nº 14 en 2º-3º espacio intercostal izquierdo a nivel de línea medioclavicular.",
+      "C": "Tubo endopleural de Nº 24 en 5º espacio intercostal izquierdo línea medio axilar.",
+      "D": "Pericardiocentesis por posible taponamiento."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 135,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): Tras la actuación anterior, el paciente continua hipotenso 80/40 y taquicárdico 120 lpm. ¿Cuál es el siguiente paso?",
+    "opciones": {
+      "A": "Canalizar 2 vías gruesas si no se ha hecho.",
+      "B": "Infusión rápida de cristaloides 20 cc/Kg.",
+      "C": "Compresión sobre heridas sangrantes. Alineación fracturas huesos largos.",
+      "D": "Todas ellas."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 136,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): ¿Qué haría a continuación?",
+    "opciones": {
+      "A": "Monitorizar, prevención hipotermia, solicitar Rx tórax, lateral de columna cervical y pelvis y Ecografía abdominal in situ o eco-fast.",
+      "B": "Intubación orotraqueal",
+      "C": "Colocación de tubo endopleural si no se ha hecho previamente.",
+      "D": "Solicitar TAC de cráneo."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 137,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): En la revisión secundaria, encontramos crepitación costal izquierda con enfisema subcutáneo, uretrorragia y hematoma pélvico así como deformidad en tercio medio de pierna izquierda. El paciente comienza a despertarse con cierta inquietud, TA 80/50, SaO2 del 90%. ¿Qué haría?",
+    "opciones": {
+      "A": "Sedorelajación y aislamiento vía respiratoria si no estaba aislada.",
+      "B": "Tubo endopleural.",
+      "C": "Cierre pélvico con sabana o correa.",
+      "D": "Todas las anteriores."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 138,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): Tras las actuaciones anteriores, el paciente presenta TA 80/50, FC 110 lpm, SaO2 del 99%. Rx pelvis con fractura compleja. Ecografía abdominal: Moderada cantidad de liquido libre en Douglas y pelvis menor. Vísceras macizas normales integras. ¿Cuál sería la actitud a seguir?",
+    "opciones": {
+      "A": "Asociar drogas vasoactivas para tratamiento de shock medular.",
+      "B": "Avisar a Cirujano para laparotomía.",
+      "C": "Administración de sangre y avisar a traumatólogo.",
+      "D": "Solicitar TAC de tórax."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 139,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): Tras las actuaciones anteriores, el paciente presenta TA 120/70, SaO2 del 98%, FC 90 lpm, analítica con Hb 10, pH 7.32. No hay camas en UCI y el paciente queda en Observación. ¿Qué actitud seguiría?",
+    "opciones": {
+      "A": "Solicitar ecocardiograma.",
+      "B": "Solicitar TAC de cráneo, Macizo facial y Body-TAC.",
+      "C": "Seguimiento clínico y analítico.",
+      "D": "Colocar sonda nasogástrica."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "id_examen": 140,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO IV (continuación): Body-TAC: Fractura de cuerpo de T3 con afectación de muro posterior, Neumotórax izquierdo pequeño residual, focos contusivos pulmonares, gran hematoma pélvico. El paciente tras estabilización inicial, comienza de nuevo a las 2 horas con descenso de Hb y Ht, hipotensión y taquicardia sin signos externos de sangrado. ¿Cuál sería su actitud?",
+    "opciones": {
+      "A": "Solicitar nueva ecografía abdominal.",
+      "B": "Solicitar nueva Body-TAC.",
+      "C": "Asociar drogas vasoactivas para sospecha de shock medular.",
+      "D": "Consultar con Radiología para arteriografía y embolización de arteria hipogástrica."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 141,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V: Paciente de 72 años remitida a Urgencias por DCCU por presentar cuadro brusco de caída al suelo hace 40 minutos. Se encuentra con los ojos abiertos sin responder a preguntas, apreciando asimetría de comisura bucal y debilidad hemicuerpo derecho. Previamente era independiente para las necesidades de la vida diaria. ¿Qué nivel de prioridad le daría a la llegada al hospital?",
+    "opciones": {
+      "A": "Nivel I.",
+      "B": "Nivel II.",
+      "C": "Nivel III.",
+      "D": "Nivel IV."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 142,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): Una vez en el Hospital, se aprecia TA 180/100, FC 80 lpm arrítmico, afebril, ojos abiertos con mirada desviada y conjugada a la izquierda, afasia motora, facial derecho con disartria moderada, obedece ordenes y hemiparesia grado II de MSD y grado III de MID, babinski derecho. Sensibilidad conservada. ¿Qué medidas iniciales indicaría?",
+    "opciones": {
+      "A": "Canalizar vía venosa y comenzar sueroterapia con solución salina.",
+      "B": "Asegurar vía aérea, ventilación, circulación.",
+      "C": "Hacer glucemia capilar.",
+      "D": "Todas las anteriores."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 143,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): La glucemia capilar es de 140 mgrs/dl y la SaO2 del 98%. Ha solicitado analítica. ¿Qué medidas adoptaría en estos momentos?",
+    "opciones": {
+      "A": "Administrar O2.",
+      "B": "Iniciar perfusión de insulina.",
+      "C": "Aplicar escala NIH.",
+      "D": "Labetalol para control de la TA."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "id_examen": 144,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): Usted aplica la escala NIH y obtiene 15 puntos. ¿Qué actuaciones son necesarias?",
+    "opciones": {
+      "A": "Avisar a radiólogo para TAC urgente notificando como Código Ictus.",
+      "B": "Hacer historia completa a familia en busca de contraindicaciones para fibrinolisis y riesgo de sangrado.",
+      "C": "Informar sobre la posibilidad de tratamiento neurofibrinolítico y necesidad de consentimiento informado para ello.",
+      "D": "Todas las anteriores son ciertas."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 145,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): La historia clínica revela HTA controlada con tratamiento y toma de IECA. Peso 80 kgrs. El paciente regresa del TAC que se informa como normal. Analítica no contraindica la neurofibrinolisis. EKG: FA a 80 lpm. TA 190/110. ¿Qué haría en este momento?",
+    "opciones": {
+      "A": "Administrar Labetalol 20 mgrs en 1-2 minutos y repetir a los 15 minutos si necesario.",
+      "B": "Aspirina 200 mgrs.",
+      "C": "HBPM a dosis profilácticas.",
+      "D": "Espera y tomar TA a los 10 minutos."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 146,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): A los 10 minutos el paciente presenta TA160/90, se aplica la escala NIH y hay ligera mejoría con puntuación de 13. Llevamos 60 minutos desde la recepción en el hospital. ¿Qué haría?",
+    "opciones": {
+      "A": "Neurofibrinolisis con rt-PA 0.9 mgrs/kg., 10% en 3-5 minutos y resto en perfusión y durante 1 hora.",
+      "B": "Neurofibrinolisis con Tecneteplase 7000 UI en 15 segundos.",
+      "C": "Neurofibrinolisis con rt-PA 1 mgrs/kg., 10% en 3-5 minutos y resto en perfusión durante 1 hora.",
+      "D": "Neurofibrinolisis con rt-PA igual que en IAMEST pauta acelerada."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 147,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): Una vez realizado el tratamiento neurofibrinolítico, ¿qué medidas realizaría?",
+    "opciones": {
+      "A": "Toma de constantes cada 15 minutos durante 2 horas, después cada 30 minutos 6 horas y cada hora hasta 24 horas.",
+      "B": "Reposo en cama a 0º.",
+      "C": "Colocar sonda vesical.",
+      "D": "Asociar aspirina 200 mgrs. tras la neurofibrinolisis."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 148,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): A las 2 horas la situación neurológica ha mejorado (NIH 8) pero a las 12 horas el paciente presenta deterioro del nivel de conciencia con estupor, aumento de la hemiparesia y vómitos, con TA 190/110. TAC aprecia gran hematoma (PH2) a nivel hemisférico izquierdo. ¿Qué haría?",
+    "opciones": {
+      "A": "Administrar Oxigeno con gafas a 3 l/minuto.",
+      "B": "Asegurar la vía aérea.",
+      "C": "Administrar labetalol 20 mgrs IV.",
+      "D": "Las respuestas b y c son ciertas"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 149,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): ¿Qué haría para evitar la progresión del sangrado?",
+    "opciones": {
+      "A": "Administrar crioprecipitados + plaquetas + fibrinógeno si nivel sangre < 100 mgrs./dl.",
+      "B": "Plasma fresco y plaquetas.",
+      "C": "Administrar crioprecipitados y fibrinógeno 2-4 gramos IV.",
+      "D": "Administrar fibrinógeno 2-4 gramos IV."
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "id_examen": 150,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "CASO V (continuación): El paciente ha precisado intubación orotraqueal previa sedorelajación para asegurar la vía aérea. Ahora TA 130/70, SaO2 del 100%, Fc 80 lpm. ¿Qué haría a continuación?",
+    "opciones": {
+      "A": "Manitol 20% 200 cc en 20 minutos.",
+      "B": "Hiperventilación.",
+      "C": "Avisar a Neurocirujano para descompresión neuroquirúrgica.",
+      "D": "Todas las anteriores."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 151,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "El tratamiento básico de la insuficiencia cardiaca con disfunción sistólica comprende todo lo siguiente, excepto:",
+    "opciones": {
+      "A": "IECAS (ARA II si contraindicaciones)",
+      "B": "Diuréticos en los grados II-IV.",
+      "C": "Betabloqueantes.",
+      "D": "Digoxina."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "id_examen": 152,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta de las recomendaciones para tomar la tensión arterial:",
+    "opciones": {
+      "A": "El paciente debe estar al menos 5 minutos en reposo.",
+      "B": "Descartar las causas más frecuentes de pseudohipertensión arterial.",
+      "C": "El manguito debe ser el apropiado al tamaño del perímetro de la extremidad.",
+      "D": "Tomar la TA en ambos brazos, siendo al menos 2 tomas y preferentemente 3."
+    },
+    "respuesta_correcta": "ANULADA"
+  },
+  {
+    "id_examen": 153,
+    "fuente": "Examen OPE Médico de Familia en UUH Andalucía",
+    "enunciado": "Señale la respuesta incorrecta respecto a los criterios diagnósticos de preeclampsia grave:",
+    "opciones": {
+      "A": "Presión arterial sistólica mayor o igual a 160mm de Hg y/o Presión arterial diastólica mayor o igual a 110 mm de Hg en dos determinaciones separadas al menos 6 horas, estando en reposo en cama.",
+      "B": "Proteinuria mayor o igual a 2 gr en orina de 24 horas.",
+      "C": "Creatinina sérica mayor de 1,2 mg/dl.",
+      "D": "Trombocitosis mayor de 100.000."
+    },
+    "respuesta_correcta": "D"
+  }
+]

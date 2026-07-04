@@ -1,0 +1,530 @@
+[
+  {
+    "id_examen": 45,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "La ecografía a pie de cama realizada por emergenciólogos ha adquirido relevancia en estos últimos años. Entre los principios físicos básicos de esta técnica, señale la afirmación FALSA",
+    "opciones": {
+      "A": "Las sondas de alta frecuencia (más de 5 Mhz) tienen gran penetración, aunque la resolución sea menos nítida",
+      "B": "El \"refuerzo acústico posterior\" consiste en falso aumento de ecogenidad más allá de las estructuras anecoicas (llenas de líquido).",
+      "C": "La reverberación o artefactos en cola de cometa se puede producir tras el paso de los ultrasonidos por estructuras de doble pared, altamente reflectantes como la pleura o peritoneo.",
+      "D": "La utilidad del modo M es valorar situaciones clínicas en las que haga falta una demostración de movimiento."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 106,
+      "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+    },
+    "explicacion": {
+      "correcta": "A es FALSA (y por tanto la respuesta correcta a la pregunta). Las sondas de ALTA frecuencia (>5 MHz) ofrecen mayor resolución pero MENOR penetración, no mayor. Son útiles para estructuras superficiales. Las sondas de baja frecuencia (<5 MHz) son las que logran mayor penetración para estructuras profundas.",
+      "incorrectas": {
+        "B": "B es una afirmación VERDADERA: el refuerzo acústico posterior es el incremento artefactual de ecogenicidad que aparece profundamente a las estructuras anecogénicas (llenas de líquido), porque el ultrasonido atraviesa el líquido con poca atenuación.",
+        "C": "C es una afirmación VERDADERA: los artefactos de reverberación (cola de cometa, ring-down) se producen cuando los ultrasonidos rebotan repetidamente entre estructuras de doble pared muy reflectantes como la pleura o el peritoneo.",
+        "D": "D es una afirmación VERDADERA: el modo M (motion mode) representa el movimiento de estructuras a lo largo del tiempo y es especialmente útil para demostrar movimiento, como el deslizamiento pleural o la movilidad cardiaca."
+      }
+    }
+  },
+  {
+    "id_examen": 46,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la ecografía pulmonar en la sala de Urgencias, señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "La ausencia de deslizamiento pleural descarta el neumotórax",
+      "B": "La presencia de líquido en un derrame pleural hace que el diagrama sea más ecogénico",
+      "C": "La exploración en Modo M ayuda a confirmar la existencia de neumotórax (signo de la estratosfera)",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 106,
+      "tema": "Medicina urgente y ecografía: Protocolo FAST. Punciones vasculares ecodirigidas."
+    },
+    "explicacion": {
+      "correcta": "C es correcta. En modo M, el neumotórax se confirma con el signo de la estratosfera (o signo del código de barras): la ausencia de deslizamiento pleural genera un patrón de líneas horizontales paralelas en todo el trazado, en contraste con el patrón normal de orilla de playa (seashore sign) donde hay granulado por debajo de la línea pleural.",
+      "incorrectas": {
+        "A": "Falsa. La AUSENCIA de deslizamiento pleural NO descarta el neumotórax; al contrario, es uno de los signos principales que lo SUGIERE. La presencia del signo del punto pulmonar y la ausencia de lung sliding apoyan el diagnóstico de neumotórax.",
+        "B": "Falsa. El líquido pleural es anecoico (negro) en ecografía, no ecogénico. La presencia de líquido hace que el espacio pleural sea hipoecoico o anecogénico, no más ecogénico.",
+        "D": "Falsa. La opción C es correcta, por lo que no es verdad que todas sean falsas."
+      }
+    }
+  },
+  {
+    "id_examen": 47,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la escala pronostica de neumonía PSI (Pneumonia Severity Index) o escala de FINE, ¿Qué parámetros suman + 30 puntos?",
+    "opciones": {
+      "A": "pH < 7'35",
+      "B": "Frecuencia respiratoria FR > 30 rpm",
+      "C": "Tensión Arterial Sistólica TAS < 90 mmHg",
+      "D": "Todos"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 59,
+      "tema": "Neumonía adquirida en la comunidad. Neumonía nosocomial. Valoración, diagnóstico y tratamiento."
+    },
+    "explicacion": {
+      "correcta": "A es correcta. En la escala PSI/FINE, el pH arterial < 7,35 suma +30 puntos, siendo uno de los parámetros con mayor peso pronóstico en esta escala que estratifica el riesgo de mortalidad en la neumonía adquirida en la comunidad.",
+      "incorrectas": {
+        "B": "Falsa. La frecuencia respiratoria > 30 rpm suma únicamente +20 puntos en la escala PSI/FINE, no +30 puntos.",
+        "C": "Falsa. La tensión arterial sistólica < 90 mmHg suma +20 puntos en la escala PSI/FINE, no +30 puntos.",
+        "D": "Falsa. Solo el pH < 7,35 suma +30 puntos. La FR > 30 rpm y TAS < 90 mmHg suman +20 puntos cada uno, por lo que no todos suman +30 puntos."
+      }
+    }
+  },
+  {
+    "id_examen": 48,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la Ventilación Mecánica No Invasiva (VMNI), la IPAP",
+    "opciones": {
+      "A": "Mejora la ventilación alveolar al aumentar el volumen corriente y reduce la PaCO2",
+      "B": "Contrarresta la autoPEEP del paciente obstructivo",
+      "C": "Es una presión positiva mantenida durante todo el ciclo respiratorio sobre la que el paciente respira espontáneamente",
+      "D": "Las respuestas a y c son correctas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "A es correcta. La IPAP (Inspiratory Positive Airway Pressure) es la presión positiva aplicada durante la inspiración en la modalidad BiPAP. Al incrementar el gradiente de presión durante la inspiración, aumenta el volumen corriente (Vt), mejora la ventilación alveolar y reduce la PaCO2 al facilitar la eliminación de CO2.",
+      "incorrectas": {
+        "B": "Falsa. La que contrarresta la autoPEEP en el paciente obstructivo es la EPAP (o PEEP extrínseca), no la IPAP. La EPAP crea una presión umbral que equilibra la autoPEEP, facilitando el trigger inspiratorio del paciente.",
+        "C": "Falsa. La descripción de presión positiva mantenida durante todo el ciclo respiratorio corresponde a la CPAP (Continuous Positive Airway Pressure), no a la IPAP. La IPAP solo se aplica durante la fase inspiratoria.",
+        "D": "Falsa. Solo la opción A es correcta. La opción C describe la CPAP, no la IPAP, por lo que la combinación A+C no es válida."
+      }
+    }
+  },
+  {
+    "id_examen": 49,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En Ventilación Mecánica No Invasiva (VMNI), indique la respuesta CORRECTA:",
+    "opciones": {
+      "A": "Son necesarios dos niveles de presión BiPAP (Bilevel positive Airway Pressure) para reclutar alveolos colapsados, no siendo suficiente el empleo de CPAP",
+      "B": "La CPAP disminuye la capacidad residual funcional (CRF)",
+      "C": "La CPAP disminuye el grado de shunt",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 105,
+      "tema": "Ventilación mecánica no invasiva en urgencias."
+    },
+    "explicacion": {
+      "correcta": "C es correcta. La CPAP genera una presión positiva continua que mantiene los alvéolos abiertos al final de la espiración, reclutando unidades alveolares colapsadas y mejorando la relación ventilación-perfusión. Esto reduce el shunt intrapulmonar (paso de sangre por alvéolos no ventilados), mejorando la oxigenación.",
+      "incorrectas": {
+        "A": "Falsa. La CPAP es suficiente para reclutar alvéolos colapsados en condiciones de fallo hipoxémico como el edema agudo de pulmón cardiogénico. No siempre se necesita BiPAP para el reclutamiento alveolar.",
+        "B": "Falsa. La CPAP AUMENTA la capacidad residual funcional (CRF), no la disminuye. Al mantener una presión positiva al final de la espiración, evita el colapso alveolar y aumenta el volumen pulmonar al final de la espiración.",
+        "D": "Falsa. La opción C es correcta, por lo que no es cierto que ninguna sea correcta."
+      }
+    }
+  },
+  {
+    "id_examen": 50,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la exploración del manguito de rotadores del hombro doloroso, la maniobra de Gerber explora la afectación tendinosa del músculo:",
+    "opciones": {
+      "A": "Subescapular",
+      "B": "Supraespinoso",
+      "C": "Infraespinoso",
+      "D": "Redondo menor"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "A es correcta. La maniobra de Gerber (lift-off test o prueba de despegue) explora la integridad del músculo subescapular. El paciente coloca la mano en la espalda y trata de separarla de ella contra resistencia. Si no puede realizar o mantener ese movimiento, el test es positivo e indica lesión del subescapular.",
+      "incorrectas": {
+        "B": "Falsa. El tendón del supraespinoso se explora principalmente con el test de Jobe (empty can test) y el arco doloroso entre 60-120° de abducción, no con la maniobra de Gerber.",
+        "C": "Falsa. El infraespinoso se explora con el test de la rotación externa resistida (con el codo en 90° de flexión) y el test de Patte, no con la maniobra de Gerber.",
+        "D": "Falsa. El redondo menor se valora también en el contexto de la rotación externa, frecuentemente junto al infraespinoso. La maniobra de Gerber no evalúa el redondo menor."
+      }
+    }
+  },
+  {
+    "id_examen": 51,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En las radiculopatías lumbares, un trastorno sensitivo en región antero lateral de pierna, un déficit motor en el extensor del 1er dedo del pie y conservación de los reflejos osteotendinosos, sugiere afectación de la raíz",
+    "opciones": {
+      "A": "L4",
+      "B": "L5",
+      "C": "S1",
+      "D": "Ninguna de ellas por ser incongruente"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "B es correcta. La raíz L5 inerva sensitivamente la cara anterolateral de la pierna y el dorso del pie. Motrizmente controla la dorsiflexión del tobillo y la extensión del hallux (extensor del primer dedo, EHL). El reflejo osteotendinoso de L5 es inconstante (tibial posterior), por lo que habitualmente se conservan los reflejos en las lesiones L5.",
+      "incorrectas": {
+        "A": "Falsa. La raíz L4 produce alteración sensitiva en la cara anterior del muslo y cara interna de la pierna, déficit motor en el cuádriceps y tibial anterior (extensión de rodilla, dorsiflexión del pie) y disminución del reflejo rotuliano.",
+        "C": "Falsa. La raíz S1 afecta sensitivamente a la cara posterior del muslo y pierna, la planta y el borde externo del pie. El déficit motor afecta a la flexión plantar del pie y los peroneos. El reflejo aquíleo (S1) está disminuido o abolido.",
+        "D": "Falsa. El cuadro descrito es completamente congruente con la afectación de la raíz L5, por lo que no aplica esta opción."
+      }
+    }
+  },
+  {
+    "id_examen": 52,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En el manejo en Urgencias de una artritis de rodilla",
+    "opciones": {
+      "A": "En el caso de hacerse artrocentesis se solicitará perfil bioquímico, recuento celular, visualización microscópica de cristales, tinción GRAM urgente y cultivo.",
+      "B": "En el caso de obtenerse un recuento celular por encima de 40.000 leucocitos /mm3 y hemartros, hay que ingresar por estar muy probablemente ante una artritis séptica",
+      "C": "Si no hay fiebre, de entrada, es preferible evitar la artrocentesis para no convertir una posible artritis inflamatoria en una artritis séptica",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 104,
+      "tema": "Marcapasos transcutáneo. Cricotiroidotomía. Toracocentesis. Drenaje pleural. Paracentesis. Punción lumbar. Artrocentesis. Cardioversión eléctrica."
+    },
+    "explicacion": {
+      "correcta": "A es correcta. Ante una artritis de rodilla que requiere artrocentesis, el análisis del líquido sinovial debe incluir: bioquímica (glucosa, proteínas, LDH), recuento y fórmula leucocitaria, visualización microscópica de cristales con luz polarizada, tinción de Gram urgente y cultivo microbiológico. Este estudio completo permite diferenciar artritis séptica, por cristales e inflamatoria.",
+      "incorrectas": {
+        "B": "Falsa. Un recuento leucocitario > 40.000/mm3 es muy sugestivo de artritis séptica y obliga a ingresar, pero el hemartros (sangre en articulación) no es un hallazgo típico de artritis séptica; sugiere más bien traumatismo, coagulopatía o artropatía hemofílica. La combinación con hemartros haría el diagnóstico de artritis séptica menos probable, no más.",
+        "C": "Falsa. La artrocentesis diagnóstica en urgencias ante sospecha de artritis es una técnica estéril que raramente convierte una artritis inflamatoria en séptica. Además, si hay sospecha de artritis séptica (aunque sea sin fiebre), la artrocentesis es imprescindible para el diagnóstico y tratamiento. No debe evitarse.",
+        "D": "Falsa. Solo la opción A es correcta. B y C contienen afirmaciones erróneas."
+      }
+    }
+  },
+  {
+    "id_examen": 53,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En relación al vértigo posicional paroxístico benigno",
+    "opciones": {
+      "A": "La ubicación más frecuente de la canalolitiasis es el canal semicircular anterior",
+      "B": "El test de Dix-Hallpike es positivo si reproduce la clínica y desencadena el nistagmus posicional",
+      "C": "La fase lenta del nistagmus es hacia el lado sano",
+      "D": "Son ciertas la b y la c"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 90,
+      "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+    },
+    "explicacion": {
+      "correcta": "B es correcta. El test de Dix-Hallpike se considera positivo cuando, al llevar al paciente desde la posición sentada a decúbito supino con la cabeza girada hacia el lado explorado y extendida 30°, se reproduce el vértigo del paciente y se desencadena un nistagmus posicional de latencia corta (2-5 s), agotable y con componente rotatorio hacia el oído afecto.",
+      "incorrectas": {
+        "A": "Falsa. El canal semicircular más frecuentemente afectado en el VPPB es el POSTERIOR, que representa el 85-90% de los casos. El canal semicircular anterior es el menos frecuentemente afectado (menos del 2% de los casos).",
+        "C": "Falsa. En el nistagmus del VPPB por afectación del canal posterior, la fase LENTA del movimiento ocular es hacia el lado AFECTO, mientras que la fase rápida (que da nombre a la dirección del nistagmus) es hacia el lado sano. No es al revés.",
+        "D": "Falsa. Solo la opción B es correcta. La opción C contiene una afirmación errónea sobre la dirección de la fase lenta del nistagmus."
+      }
+    }
+  },
+  {
+    "id_examen": 54,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En relación a la parálisis facial periférica",
+    "opciones": {
+      "A": "El síndrome de Ramsay Hunt es la segunda causa más frecuente, pudiendo asociar vesículas en CAE e hipoacusia neurosensorial",
+      "B": "La escala de House Brackmann se usa para describir el grado de severidad de la disfunción",
+      "C": "Entre las causas de parálisis periférica se encuentra la enfermedad de Lyme",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 90,
+      "tema": "Sinusitis. Faringoamigdalitis. Laringitis. Otitis. Epistaxis. Sordera súbita. Procesos agudos odontológicos. Celulitis cervicofaciales. Síndrome vertiginoso."
+    },
+    "explicacion": {
+      "correcta": "D es correcta. Las tres afirmaciones son verdaderas: el síndrome de Ramsay Hunt (herpes zóster ótico) es la segunda causa de parálisis facial periférica tras la parálisis de Bell, caracterizándose por la tríada de parálisis facial, vesículas en el conducto auditivo externo e hipoacusia neurosensorial; la escala de House-Brackmann clasifica la disfunción del nervio facial en 6 grados (I=normal, VI=parálisis total); y la enfermedad de Lyme (Borrelia burgdorferi) es una causa infecciosa reconocida de parálisis facial periférica, que puede ser bilateral.",
+      "incorrectas": {
+        "A": "Es una afirmación verdadera de forma individual, incluida en la opción D.",
+        "B": "Es una afirmación verdadera de forma individual, incluida en la opción D.",
+        "C": "Es una afirmación verdadera de forma individual, incluida en la opción D."
+      }
+    }
+  },
+  {
+    "id_examen": 55,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En el paciente con Traumatismo Cráneo Encefálico, señale la respuesta FALSA",
+    "opciones": {
+      "A": "Una midriasis arreactiva unilateral inmediata tras el traumatismo nos hace sospechar el inicio del desarrollo de una herniación del uncus temporal aunque el paciente no esté en coma",
+      "B": "Una equimosis gradual sobre la mastoides es un signo de fractura de base de cráneo",
+      "C": "La presión intracraneal se puede tratar con suero salino hipertónico al 7'5%",
+      "D": "Son falsas la A y la C"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 86,
+      "tema": "Traumatismo craneoencefálico. Traumatismo torácico. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "A es FALSA (y por tanto la respuesta correcta a la pregunta). Una midriasis arreactiva unilateral INMEDIATA tras el traumatismo NO indica herniación del uncus, sino más bien una lesión directa del nervio oculomotor (III par craneal) por el propio traumatismo. La herniación del uncus temporal produce midriasis progresiva asociada a deterioro del nivel de consciencia, no de aparición inmediata. La midriasis inmediata postraumática también puede deberse a lesión ocular directa.",
+      "incorrectas": {
+        "B": "Verdadera. La equimosis retroauricular (signo de Battle) es un signo tardío pero clásico de fractura de la base del cráneo en su fosa posterior. Su aparición gradual es precisamente una de sus características.",
+        "C": "Verdadera. El suero salino hipertónico al 7,5% es un tratamiento osmótico válido para la hipertensión intracraneal. Comparte indicación con el manitol y puede ser superior en pacientes hipovolémicos.",
+        "D": "Falsa. Solo la opción A es falsa; la opción C es verdadera, por lo que la afirmación de que son falsas la A y la C es incorrecta."
+      }
+    }
+  },
+  {
+    "id_examen": 56,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Respecto a la clasificación de Tile de las fracturas de pelvis, una fractura con inestabilidad rotacional y con estabilidad vertical, sería del tipo:",
+    "opciones": {
+      "A": "Tipo A",
+      "B": "Tipo B",
+      "C": "Tipo C",
+      "D": "Tipo D"
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "B es correcta. La clasificación de Tile organiza las fracturas de pelvis según su inestabilidad: Tipo A (estables, sin rotura del anillo pélvico o con mínima implicación), Tipo B (inestabilidad ROTACIONAL pero ESTABILIDAD VERTICAL, con rotura parcial del complejo posterior, incluyendo mecanismos de libro abierto y compresión lateral) y Tipo C (inestabilidad tanto rotacional como vertical, con rotura completa del complejo ligamentoso posterior).",
+      "incorrectas": {
+        "A": "Falsa. El Tipo A de Tile corresponde a fracturas estables, donde el anillo pélvico posterior está intacto o con lesiones mínimas. No presentan inestabilidad rotacional significativa.",
+        "C": "Falsa. El Tipo C de Tile corresponde a fracturas con inestabilidad tanto rotacional COMO vertical. Son las más graves, con rotura completa del complejo ligamentoso sacroilíaco posterior.",
+        "D": "Falsa. No existe el Tipo D en la clasificación de Tile. La clasificación original comprende únicamente los tipos A, B y C."
+      }
+    }
+  },
+  {
+    "id_examen": 57,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En relación a los traumatismos del Raquis cervical, señale la respuesta CORRECTA",
+    "opciones": {
+      "A": "La fractura del atlas (fractura de Jefferson) se suele producir por compresión axial. Las lesiones medulares asociadas son muy frecuentes",
+      "B": "La fractura de la base de odontoides se considera estable salvo que afecte al cuerpo del axis",
+      "C": "La fractura \"en lagrima\" de los cuerpos vertebrales de columna cervical inferior se producen por hiperextensión forzada.",
+      "D": "Todas son falsas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 88,
+      "tema": "Fracturas y luxaciones de pelvis y columna vertebral. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "D es correcta. Las tres afirmaciones previas son falsas: la fractura de Jefferson se produce por compresión axial (correcto), pero las lesiones medulares NO son frecuentes porque la fractura estalla el anillo del atlas hacia fuera, ampliando el canal raquídeo; la fractura de la base de odontoides (tipo II) es la MÁS INESTABLE y con mayor tasa de pseudoartrosis, no la más estable; las fracturas en lágrima de columna cervical inferior se producen por HIPERFLEXIÓN forzada, no hiperextensión.",
+      "incorrectas": {
+        "A": "Falsa. Aunque el mecanismo es correcto (compresión axial), las lesiones medulares en la fractura de Jefferson son infrecuentes, ya que el patrón de fractura con expansión lateral del atlas suele aumentar el diámetro del canal cervical.",
+        "B": "Falsa. La fractura de la odontoides tipo II (a nivel de la base) es precisamente la más INESTABLE de las fracturas del odontoides, con elevado riesgo de no unión y compresión medular.",
+        "C": "Falsa. La fractura en lágrima (teardrop fracture) cervical inferior es consecuencia de un mecanismo de HIPERFLEXIÓN más compresión axial, no de hiperextensión. Es una lesión extremadamente inestable con alta incidencia de tetraplejia."
+      }
+    }
+  },
+  {
+    "id_examen": 58,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En relación al angioedema",
+    "opciones": {
+      "A": "Ante un ataque agudo de un angioedema hereditario, si no se dispone de C1 inhibidor, se puede utilizar acetato de Icatibant",
+      "B": "El angioedema de bradicinergico cursa sin urticaria y con buena respuesta a corticoides",
+      "C": "Los IECAs son fármacos que con frecuencia están implicados en el angioedema histaminérgico",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 102,
+      "tema": "Mordeduras. Picaduras. Urticaria. Angioedema. Anafilaxia. Valoración y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "A es correcta. El icatibant (Firazyr) es un antagonista del receptor B2 de la bradicinina, aprobado como tratamiento de rescate del angioedema hereditario (AEH) cuando no se dispone de concentrado de C1 inhibidor. Actúa bloqueando el efecto vasodilatador de la bradicinina, que es el mediador central del AEH.",
+      "incorrectas": {
+        "B": "Falsa. El angioedema bradicinérgico cursa SIN urticaria (correcto en eso), pero tiene MALA respuesta a corticoides, antihistamínicos y adrenalina, precisamente porque no está mediado por histamina sino por bradicinina. Esta distinción es clínicamente crucial.",
+        "C": "Falsa. Los IECAs están implicados en el angioedema BRADICINÉRGICO (no histaminérgico), ya que inhiben la enzima de conversión de angiotensina, que también degrada la bradicinina. Al reducir su degradación, aumentan sus niveles y pueden provocar angioedema.",
+        "D": "Falsa. Solo la opción A es correcta. Las opciones B y C contienen afirmaciones erróneas."
+      }
+    }
+  },
+  {
+    "id_examen": 59,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Ante un paciente politraumatizado en la fase de Reanimación",
+    "opciones": {
+      "A": "Pensaremos que estamos ante una posible hemorragia masiva si se requiere más de 4 Concentrados de hematíes la primera hora",
+      "B": "En la reanimación avanzada, el tromboeslatograma aporta información dinámica valiosa sobre la formación, estabilidad y disolución del coagulo.",
+      "C": "La administración IV de Fibrinógeno como fármaco hemostático se recomienda con niveles fibrinógeno en sangre por debajo de 100 mg/dl.",
+      "D": "Todas son ciertas."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 42,
+      "tema": "Soporte vital avanzado en el paciente politraumatizado. Shock hipovolémico."
+    },
+    "explicacion": {
+      "correcta": "D es correcta. Las tres afirmaciones son verdaderas: la necesidad de más de 4 concentrados de hematíes en la primera hora es uno de los criterios para activar el protocolo de transfusión masiva; la tromboelastografía (TEG) y tromboelastometría rotacional (ROTEM) analizan de forma dinámica la formación, amplitud y lisis del coágulo, siendo muy útiles en la coagulopatía traumática; las guías europeas de politrauma recomiendan administrar fibrinógeno concentrado cuando los niveles están por debajo de 150-200 mg/dl (algunos protocolos usan el umbral de 100 mg/dl como indicación inequívoca).",
+      "incorrectas": {
+        "A": "Es una afirmación verdadera de forma individual, incluida en la opción D.",
+        "B": "Es una afirmación verdadera de forma individual, incluida en la opción D.",
+        "C": "Es una afirmación verdadera de forma individual, incluida en la opción D."
+      }
+    }
+  },
+  {
+    "id_examen": 60,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En la luxación escapulo humeral del hombro",
+    "opciones": {
+      "A": "La más frecuente es la anterior",
+      "B": "La secuencia de la maniobra de reducción de Kocher es aducción -rotación externa – aproximación – rotación interna",
+      "C": "La complicación más relevante es la parálisis del nervio circunflejo",
+      "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 87,
+      "tema": "Fracturas, luxaciones y esguinces de extremidades. Valoración, diagnóstico y tratamiento en urgencias."
+    },
+    "explicacion": {
+      "correcta": "D es correcta. Las tres afirmaciones son verdaderas: la luxación anterior glenohumeral es la más frecuente (más del 95% de los casos), siendo el subtipo subcoracoidea la más habitual; la maniobra de Kocher clásica sigue la secuencia de aducción del brazo hacia el cuerpo, rotación externa progresiva, aproximación/elevación del codo hacia el tórax y finalmente rotación interna; el nervio axilar (circunflejo) es la estructura neurológica más frecuentemente lesionada en la luxación anterior de hombro, con déficit sensitivo en el área del sargento y debilidad del deltoides.",
+      "incorrectas": {
+        "A": "Es una afirmación verdadera de forma individual, incluida en la opción D.",
+        "B": "Es una afirmación verdadera de forma individual, incluida en la opción D.",
+        "C": "Es una afirmación verdadera de forma individual, incluida en la opción D."
+      }
+    }
+  },
+  {
+    "id_examen": 61,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "¿Cuál se considera el principal factor pronóstico en un paciente con tromboembolismo pulmonar?",
+    "opciones": {
+      "A": "Presencia de un trombo en el ventrículo derecho.",
+      "B": "Edad mayor de 65 años.",
+      "C": "La elevación de los niveles de lactato en la gasometría arterial temprana.",
+      "D": "La inestabilidad hemodinámica"
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 56,
+      "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "D es correcta. Según las guías ESC de TEP, la inestabilidad hemodinámica (definida como parada cardiaca, shock obstructivo con TAS < 90 mmHg o caída > 40 mmHg durante más de 15 minutos) es el principal factor pronóstico del TEP agudo. Determina la clasificación de alto riesgo, la indicación de reperfusión urgente (trombólisis sistémica) y se asocia a mortalidad precoz superior al 15%.",
+      "incorrectas": {
+        "A": "Falsa. La presencia de trombo en el ventrículo derecho es un hallazgo ecocardiográfico que se asocia a peor pronóstico, pero no es el PRINCIPAL factor pronóstico. La disfunción ventricular derecha en conjunto tiene más peso que el trombo aislado en VD.",
+        "B": "Falsa. La edad > 65 años es un factor de riesgo incluido en algunas escalas pronósticas (PESI simplificado), pero no es el principal factor pronóstico. El estado hemodinámico supera a la edad en la estratificación del riesgo.",
+        "C": "Falsa. La elevación del lactato indica hipoperfusión y se asocia a peor pronóstico, pero no es el factor pronóstico principal ni el que determina la estrategia terapéutica. La inestabilidad hemodinámica engloba y supera este marcador."
+      }
+    }
+  },
+  {
+    "id_examen": 62,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "La clínica que presentan los pacientes intoxicados por pesticidas organofosforados se debe:",
+    "opciones": {
+      "A": "Al bloqueo selectivo del citocromo P-450 a nivel hepático.",
+      "B": "A la inhibición de la respiración celular por bloqueo mitocondrial.",
+      "C": "A la inhibición de la acetilcolinesterasa.",
+      "D": "A la producción de metahemoglobinemia."
+    },
+    "respuesta_correcta": "C",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "C es correcta. Los organofosforados (paratión, malatión, etc.) ejercen su toxicidad mediante la inhibición irreversible de la acetilcolinesterasa (AChE), la enzima que degrada la acetilcolina en las sinapsis. La acumulación de acetilcolina produce el síndrome colinérgico: bradicardia, miosis, broncospasmo, hipersecreción, vómitos, diarrea (efectos muscarínicos) y fasciculaciones, parálisis muscular (efectos nicotínicos). El tratamiento incluye atropina y pralidoxima.",
+      "incorrectas": {
+        "A": "Falsa. El bloqueo del citocromo P-450 hepático no es el mecanismo de toxicidad de los organofosforados. Su toxicidad no deriva de bloquear esta enzima.",
+        "B": "Falsa. La inhibición de la respiración celular por bloqueo mitocondrial es el mecanismo del cianuro y del monóxido de carbono, no de los organofosforados.",
+        "D": "Falsa. La metahemoglobinemia es producida por agentes oxidantes como nitritos, dapsona, prilocaína o anilinas, no por organofosforados."
+      }
+    }
+  },
+  {
+    "id_examen": 63,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Varón con antecedente de cirrosis hepática y con SCACEST (Síndrome Coronario Agudo Con Elevación del segmento ST). Cuál de las siguientes NO sería una medida terapéutica indicada:",
+    "opciones": {
+      "A": "Acetilsalicilato de lisina 450mg endovenosos.",
+      "B": "Ticagrelor 180mg vía oral.",
+      "C": "TNK-Tpa (tenecteplase) 8000UI en bolo endovenoso.",
+      "D": "Heparina no fraccionada 60mg/kg en bolo endovenoso."
+    },
+    "respuesta_correcta": "B",
+    "clasificacion_temario": {
+      "id": 46,
+      "tema": "Síndrome coronario agudo. Código infarto en la CCAA de Aragón."
+    },
+    "explicacion": {
+      "correcta": "B es la respuesta correcta (medida NO indicada). El ticagrelor está contraindicado en pacientes con insuficiencia hepática grave (Child-Pugh C, frecuente en cirrosis avanzada) porque se metaboliza extensamente en el hígado (CYP3A4) y su uso aumenta el riesgo de sangrado de forma imprevisible. En pacientes con cirrosis grave y SCACEST que requieren doble antiagregación, se prefiere el clopidogrel. La dosis de ticagrelor en el SCACEST es 180 mg de carga, pero está contraindicado en este contexto.",
+      "incorrectas": {
+        "A": "Sí está indicado. El AAS IV (lisina acetilsalicilato 450 mg) es el antiagregante de primera línea en el SCACEST independientemente de la función hepática, salvo alergia o sangrado activo.",
+        "C": "Sí está indicada si no se puede realizar ICP primaria en tiempo aceptable. La tenecteplase (TNK-tPA) a dosis ajustada al peso es el fibrinolítico de elección. La cirrosis hepática sin coagulopatía grave no contraindica per se la fibrinólisis.",
+        "D": "Sí está indicada. La heparina no fraccionada (HNF) en bolo IV a 60 UI/kg (máximo 4000 UI) es parte del tratamiento estándar del SCACEST, tanto como coadyuvante de la fibrinólisis como en la estrategia invasiva."
+      }
+    }
+  },
+  {
+    "id_examen": 64,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "¿En qué situación podemos encontrar una elevación del valor de dímero D en plasma? Indica la respuesta CORRECTA.",
+    "opciones": {
+      "A": "Trombosis venosa profunda.",
+      "B": "Gestación.",
+      "C": "Edad avanzada.",
+      "D": "Cualquiera de las situaciones anteriores puede elevar el dímero D en plasma."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 56,
+      "tema": "Tromboembolismo pulmonar. Trombosis venosa profunda. Valoración y tratamiento urgente."
+    },
+    "explicacion": {
+      "correcta": "D es correcta. El dímero D es un marcador de fibrinólisis con alta sensibilidad pero baja especificidad. Se eleva en múltiples situaciones además de la TVP/TEP: gestación (fisiológicamente elevado desde el primer trimestre, con valores que pueden cuadruplicarse al término), edad avanzada (el punto de corte ajustado por edad es edad x 10 µg/L en mayores de 50 años), infecciones, neoplasias, cirugía reciente, IAM, ictus, insuficiencia cardiaca y otros estados proinflamatorios o protrombóticos.",
+      "incorrectas": {
+        "A": "Es verdadera, pero incompleta. La TVP eleva el dímero D, pero también lo hacen B y C, por lo que la respuesta más completa y correcta es D.",
+        "B": "Es verdadera, pero incompleta. La gestación eleva fisiológicamente el dímero D, pero también lo hacen A y C, por lo que la respuesta más completa es D.",
+        "C": "Es verdadera, pero incompleta. La edad avanzada se asocia a valores basales más elevados de dímero D, pero también lo hacen A y B, por lo que la respuesta más completa es D."
+      }
+    }
+  },
+  {
+    "id_examen": 65,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "En relación a la intoxicación por gases, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "La intoxicación por monóxido de carbono provoca un bloqueo de la respiración celular por unión a la enzima citocromo-oxidasa a3 a nivel mitocondrial.",
+      "B": "Niveles de ácido láctico superiores a 10 mmol/l nos deben hacer sospechar una intoxicación por cianuro, si el paciente ha sido rescatado de un incendio.",
+      "C": "Ante la sospecha de intoxicación por cianuro, administraremos hidroxicobalamina de forma precoz como antídoto de elección, a dosis de 5 gramos vía endovenosa.",
+      "D": "La intoxicación por monóxido de carbono debe tratarse con oxígeno y precozmente administrar vitamina C, vía oral, a dosis de 1-2 mg/kg de peso."
+    },
+    "respuesta_correcta": "D",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "D es INCORRECTA (y por tanto la respuesta correcta a la pregunta). El tratamiento de la intoxicación por monóxido de carbono (CO) es el oxígeno al 100% (mascarilla con reservorio o intubación), y en casos graves, oxígeno hiperbárico. La vitamina C NO tiene ningún papel en el tratamiento de la intoxicación por CO.",
+      "incorrectas": {
+        "A": "Verdadera. El CO también inhibe la citocromo-oxidasa (complejo IV de la cadena respiratoria mitocondrial), bloqueando la respiración celular. Aunque el mecanismo principal clásico es la unión a la hemoglobina formando carboxihemoglobina, la unión al citocromo a3 explica la toxicidad celular directa y la gravedad del cuadro.",
+        "B": "Verdadera. En víctimas de incendios, un lactato > 10 mmol/L sugiere fuertemente intoxicación concomitante por cianuro (liberado en la combustión de materiales sintéticos), ya que el cianuro bloquea la cadena respiratoria mitocondrial generando acidosis láctica severa.",
+        "C": "Verdadera. La hidroxicobalamina (Cyanokit) 5 g IV es el antídoto de elección para la intoxicación por cianuro. Se une al cianuro formando cianocobalamina no tóxica que se elimina por orina."
+      }
+    }
+  },
+  {
+    "id_examen": 66,
+    "fuente": "Examen Médico de Urgencias Navarra",
+    "enunciado": "Indique qué medida terapéutica de las siguientes NO ha demostrado su utilidad en el tratamiento del síndrome de la hiperémesis cannabinoide:",
+    "opciones": {
+      "A": "Administración endovenosa de metoclopramida para control de las náuseas y vómitos.",
+      "B": "Aplicación de capsaicina tópica a nivel abdominal para control del dolor y los vómitos.",
+      "C": "Administración endovenosa de haloperidol para control de las náuseas y vómitos.",
+      "D": "Administración endovenosa de morfina para control del dolor abdominal."
+    },
+    "respuesta_correcta": "A",
+    "clasificacion_temario": {
+      "id": 101,
+      "tema": "Principales intoxicaciones: Etílica. Psicofármacos. Drogas de abuso. Analgésicos. Caústicos. Monóxido de carbono. Insecticidas. Setas. Otras."
+    },
+    "explicacion": {
+      "correcta": "A es correcta (medida que NO ha demostrado utilidad). El síndrome de hiperémesis cannabinoide (SHC) es un cuadro de náuseas, vómitos cíclicos y dolor abdominal en consumidores crónicos de cannabis. Los antieméticos convencionales como la metoclopramida (antagonista dopaminérgico D2) han mostrado escasa o nula eficacia en el SHC, a diferencia de las náuseas y vómitos comunes. El SHC responde paradójicamente al cannabis en fases iniciales y al baño caliente. Los tratamientos con evidencia en urgencias incluyen haloperidol IV y capsaicina tópica.",
+      "incorrectas": {
+        "B": "Sí ha demostrado utilidad. La capsaicina tópica aplicada en el abdomen reduce los vómitos y el dolor en el SHC, posiblemente por activación de receptores TRPV1 que modulan las vías cannabinoides y reducen la transmisión del dolor.",
+        "C": "Sí ha demostrado utilidad. El haloperidol IV ha mostrado ser eficaz para el control de las náuseas y vómitos en el SHC, con múltiples series de casos y estudios que lo posicionan como una de las opciones más efectivas en urgencias.",
+        "D": "La morfina IV puede utilizarse para el control del dolor abdominal intenso en el SHC cuando otros analgésicos son insuficientes. Aunque la evidencia específica en SHC es limitada, el control del dolor es parte del manejo sintomático y no está contraindicada."
+      }
+    }
+  }
+]
