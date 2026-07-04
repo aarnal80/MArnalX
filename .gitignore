@@ -26,3 +26,9 @@ Desktop.ini
 # Análisis de calidad: lotes de trabajo y backups (regenerables)
 batches/
 *.bak
+
+# Mazo AnKing original (contenido de terceros, no se versiona; ver PLAN_ANKING_STEP1.md)
+Anki/
+# Ficheros intermedios de extracción del mazo (regenerables)
+data/anking/_raw_*.json
+data/anking/_used_ids.json

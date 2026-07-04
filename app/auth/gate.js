@@ -4,7 +4,18 @@
  * quién entra a usar la interfaz. */
 "use strict";
 
+// TEMP: gate disabled during the AnKing/Step 1 testing period so testers can
+// go straight in without logging in. Set back to false to re-enable the login
+// wall before any real deployment.
+const GATE_DISABLED_FOR_TESTING = true;
+
 (function () {
+  if (GATE_DISABLED_FOR_TESTING) {
+    const gate = document.getElementById("auth-gate");
+    if (gate) gate.classList.add("hidden");
+    return;
+  }
+
   const LS_STATUS_KEY = "opeurg_auth_status_cache";
 
   let supa;
@@ -13,8 +24,8 @@
   } catch (e) {
     const loading = document.getElementById("auth-view-loading");
     if (loading) loading.innerHTML =
-      '<p class="mini">Falta configurar la autenticación (app/config.js). ' +
-      'Revisa PLAN_AUTENTICACION.md.</p>';
+      '<p class="mini">Authentication isn\'t configured yet (app/config.js). ' +
+      'Check PLAN_AUTENTICACION.md.</p>';
     return;
   }
   window.SUPA_CLIENT = supa;
@@ -49,7 +60,7 @@
 
   function ocultarGate(email) {
     el.gate.classList.add("hidden");
-    if (el.cuentaEmail && email) el.cuentaEmail.textContent = "Sesión iniciada como " + email;
+    if (el.cuentaEmail && email) el.cuentaEmail.textContent = "Logged in as " + email;
   }
 
   function mostrarError(msg) {
@@ -88,7 +99,7 @@
     mostrarError("");
     const email = el.email.value.trim();
     const password = el.password.value;
-    if (!email || !password) return mostrarError("Escribe email y contraseña.");
+    if (!email || !password) return mostrarError("Enter your email and password.");
     const { error } = await supa.auth.signInWithPassword({ email, password });
     if (error) mostrarError(traducirError(error));
   });
@@ -97,11 +108,11 @@
     mostrarError("");
     const email = el.email.value.trim();
     const password = el.password.value;
-    if (!email || !password) return mostrarError("Escribe email y contraseña.");
-    if (password.length < 6) return mostrarError("La contraseña debe tener al menos 6 caracteres.");
+    if (!email || !password) return mostrarError("Enter your email and password.");
+    if (password.length < 6) return mostrarError("Password must be at least 6 characters.");
     const { error } = await supa.auth.signUp({ email, password });
     if (error) return mostrarError(traducirError(error));
-    mostrarError("Cuenta creada. Revisa tu correo para confirmarla y vuelve a entrar.");
+    mostrarError("Account created. Check your email to confirm it, then log in again.");
   });
 
   el.btnGoogle?.addEventListener("click", async () => {
@@ -116,12 +127,12 @@
   el.btnForgot?.addEventListener("click", async () => {
     mostrarError("");
     const email = el.email.value.trim();
-    if (!email) return mostrarError("Escribe tu email arriba y pulsa de nuevo.");
+    if (!email) return mostrarError("Enter your email above and click again.");
     const { error } = await supa.auth.resetPasswordForEmail(email, {
       redirectTo: window.location.origin + window.location.pathname,
     });
     if (error) return mostrarError(traducirError(error));
-    mostrarError("Te hemos enviado un email para restablecer la contraseña.");
+    mostrarError("We've sent you an email to reset your password.");
   });
 
   el.btnLogoutPending?.addEventListener("click", () => supa.auth.signOut());
@@ -130,10 +141,10 @@
 
   function traducirError(error) {
     const msg = String(error?.message || "");
-    if (/invalid login credentials/i.test(msg)) return "Email o contraseña incorrectos.";
-    if (/user already registered/i.test(msg)) return "Ya existe una cuenta con ese email.";
-    if (/email not confirmed/i.test(msg)) return "Confirma tu email antes de entrar (revisa tu bandeja).";
-    return msg || "Ha ocurrido un error. Inténtalo de nuevo.";
+    if (/invalid login credentials/i.test(msg)) return "Incorrect email or password.";
+    if (/user already registered/i.test(msg)) return "There's already an account with that email.";
+    if (/email not confirmed/i.test(msg)) return "Confirm your email before logging in (check your inbox).";
+    return msg || "Something went wrong. Please try again.";
   }
 
   supa.auth.onAuthStateChange((_event, session) => {

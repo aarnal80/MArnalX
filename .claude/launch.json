@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "app",
-      "runtimeExecutable": ".python-portable\\python.exe",
-      "runtimeArgs": ["-m", "http.server", "8741", "--bind", "127.0.0.1", "--directory", "app"],
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["tools/static_server.js"],
       "port": 8741
     }
   ]

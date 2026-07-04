@@ -5,26 +5,14 @@
  *     así un cambio de BD invalida el caché y fuerza una única re-descarga.
  *   - resto del shell (html/css/js/iconos): NETWORK-FIRST. Con conexión sirve
  *     siempre lo último (y lo cachea); sin conexión, cae a la versión cacheada. */
-const DB_HASH = "778f246b"; // build_db.py lo mantiene sincronizado con data/db.js
-const SHELL_VER = "v50";     // súbelo al cambiar html/css/js para invalidar la caché del shell
-const CACHE = "opeurg-" + DB_HASH + "-" + SHELL_VER;
+const DB_HASH = "anking-poc1"; // bump when data/db.js content changes
+const SHELL_VER = "v1";     // bump when html/css/js changes to invalidate the shell cache
+const CACHE = "usmle1-" + DB_HASH + "-" + SHELL_VER;
 const FICHEROS = [
   "./", "./index.html", "./styles.css", "./app.js", "./data/db.js",
   "./config.js", "./vendor/supabase.js", "./auth/gate.js",
   "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/favicon.ico",
   "./fonts/nunito-latin.woff2", "./fonts/nunito-latin-ext.woff2",
-  "./img/andalucia-2023-027.png",
-  "./img/andalucia-2023-113.png",
-  "./img/andalucia-2023-139.png",
-  "./img/andalucia-2023-148.png",
-  "./img/andalucia-2023-149.png",
-  "./img/andalucia-2023b-107.png",
-  "./img/andalucia-2023b-109.png",
-  "./img/andalucia-2023b-146.png",
-  "./img/andalucia-2023b-148.png",
-  "./img/clm-2021-010.png",
-  "./img/clm-2021-020.png",
-  "./img/clm-2024-024.png",
 ];
 
 self.addEventListener("install", e => {

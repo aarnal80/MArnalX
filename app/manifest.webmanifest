@@ -1,8 +1,8 @@
 {
-  "name": "OPE Urgencias · Estudio",
-  "short_name": "OPE Urgencias",
-  "description": "Preparación de la oposición de Médico de Urgencia Hospitalaria (Aragón y otras comunidades)",
-  "lang": "es",
+  "name": "USMLE Step 1 · Study",
+  "short_name": "USMLE Step 1",
+  "description": "USMLE Step 1 question bank practice, built from the AnKing Overhaul deck.",
+  "lang": "en",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

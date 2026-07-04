@@ -1,58 +1,58 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#58CC02">
-<title>OPE Urgencias · Estudio</title>
+<title>USMLE Step 1 · Study</title>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
 <link rel="icon" type="image/x-icon" href="icons/favicon.ico">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="stylesheet" href="styles.css?v=23">
+<link rel="stylesheet" href="styles.css?v=24">
 </head>
 <body>
 <div id="auth-gate">
   <div class="auth-gate-card">
-    <div class="auth-gate-brand"><span class="brand-badge">✚</span> Médico de Urgencias</div>
+    <div class="auth-gate-brand"><span class="brand-badge">✚</span> USMLE Step 1</div>
 
     <div id="auth-view-loading" class="auth-view">
-      <p class="mini">Comprobando tu sesión…</p>
+      <p class="mini">Checking your session…</p>
     </div>
 
     <div id="auth-view-login" class="auth-view hidden">
-      <h3>Entrar</h3>
+      <h3>Log in</h3>
       <p id="auth-login-error" class="auth-error hidden"></p>
       <label class="lbl">Email</label>
       <input type="email" id="auth-email" class="input-fecha" autocomplete="email">
-      <label class="lbl">Contraseña</label>
+      <label class="lbl">Password</label>
       <input type="password" id="auth-password" class="input-fecha" autocomplete="current-password">
-      <button class="btn primary" id="auth-btn-login">Entrar</button>
-      <button class="btn" id="auth-btn-signup">Crear cuenta</button>
-      <button class="btn" id="auth-btn-google">Continuar con Google</button>
-      <a href="#" id="auth-btn-forgot" class="mini">¿Has olvidado tu contraseña?</a>
+      <button class="btn primary" id="auth-btn-login">Log in</button>
+      <button class="btn" id="auth-btn-signup">Sign up</button>
+      <button class="btn" id="auth-btn-google">Continue with Google</button>
+      <a href="#" id="auth-btn-forgot" class="mini">Forgot your password?</a>
     </div>
 
     <div id="auth-view-pending" class="auth-view hidden">
-      <h3>Cuenta pendiente de aprobación</h3>
-      <p class="mini">Tu cuenta está registrada pero aún no ha sido aprobada. Te avisaremos en cuanto puedas entrar.</p>
-      <button class="btn" id="auth-btn-logout-pending">Cerrar sesión</button>
+      <h3>Account pending approval</h3>
+      <p class="mini">Your account has been registered but hasn't been approved yet. We'll let you know as soon as you can log in.</p>
+      <button class="btn" id="auth-btn-logout-pending">Log out</button>
     </div>
 
     <div id="auth-view-blocked" class="auth-view hidden">
-      <h3>Acceso no disponible</h3>
-      <p class="mini">Esta cuenta no tiene acceso a la aplicación.</p>
-      <button class="btn" id="auth-btn-logout-blocked">Cerrar sesión</button>
+      <h3>Access unavailable</h3>
+      <p class="mini">This account doesn't have access to the app.</p>
+      <button class="btn" id="auth-btn-logout-blocked">Log out</button>
     </div>
   </div>
 </div>
 
 <header id="topbar">
-  <div class="brand"><span class="brand-badge">✚</span> Médico de Urgencias</div>
+  <div class="brand"><span class="brand-badge">✚</span> USMLE Step 1</div>
   <div class="topbar-right">
-    <button id="btn-buscar" class="topbar-btn" aria-label="Buscar preguntas" title="Buscar preguntas">
+    <button id="btn-buscar" class="topbar-btn" aria-label="Search questions" title="Search questions">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="10.5" cy="10.5" r="6.5"/><path d="M20 20 L15.5 15.5"/>
       </svg>
@@ -63,54 +63,47 @@
 
 <main id="main">
 
-  <!-- ===================== INICIO ===================== -->
+  <!-- ===================== HOME ===================== -->
   <section id="view-inicio" class="view">
     <div style="margin:10px 4px 12px;">
       <div style="display:flex;align-items:center;gap:9px;">
-        <h2 style="margin:0;" id="inicio-saludo">Inicio</h2>
-        <span id="inicio-bandera" style="display:flex;"></span>
+        <h2 style="margin:0;" id="inicio-saludo">Home</h2>
       </div>
       <div class="mini" style="margin:2px 0 0;" id="inicio-fecha"></div>
     </div>
     <div id="inicio-setup" class="card hidden">
-      <h3>📍 Configura tu oposición</h3>
-      <p class="mini">Elige tu comunidad y la fecha del examen. Personaliza la parte común y los filtros del temario.</p>
-      <label class="lbl">Comunidad autónoma</label>
-      <select id="setup-comunidad" class="input-sel"></select>
-      <label class="lbl">Fecha del examen</label>
+      <h3>📅 Set your exam date</h3>
+      <p class="mini">Pick your target Step 1 exam date to see a countdown and a daily pace on Home.</p>
+      <label class="lbl">Exam date</label>
       <input type="date" id="setup-fecha" class="input-fecha">
-      <button class="btn primary" id="setup-guardar">Guardar</button>
+      <button class="btn primary" id="setup-guardar">Save</button>
     </div>
     <div id="inicio-objetivo" class="card hero-objetivo"></div>
     <div id="inicio-continuar" class="inicio-continuar hidden"></div>
     <div class="stat-grid" id="inicio-stats-grid" style="margin-bottom:18px;"></div>
     <div id="inicio-guardadas" class="guardadas-card hidden"></div>
     <div class="card" id="inicio-temas-card">
-      <h3>Temas más flojos</h3>
+      <h3>Weakest topics</h3>
       <div id="inicio-temas"></div>
     </div>
     <div class="card hidden" id="inicio-sims-card">
-      <h3>Evolución de simulacros</h3>
+      <h3>Test block score trend</h3>
       <div id="inicio-sims"></div>
     </div>
     <div id="inicio-prevision" class="card prevision-card hidden"></div>
     <div id="inicio-countdown" class="countdown-card hidden"></div>
   </section>
 
-  <!-- ===================== TEMARIO (camino en acordeón) ===================== -->
+  <!-- ===================== SUBJECTS (accordion path) ===================== -->
   <section id="view-practica" class="view hidden">
-    <h2>Temario</h2>
-    <p class="hint" id="temario-sub">Toca una unidad para desplegar su camino de temas y elige por dónde empezar.</p>
-    <div class="seg" id="seg-temario" style="margin-bottom:16px;">
-      <button id="tg-comun" class="on">Común</button>
-      <button id="tg-esp">Específico</button>
-    </div>
+    <h2>Subjects</h2>
+    <p class="hint" id="temario-sub">Tap a unit to open its path of topics and pick where to start.</p>
     <div id="temario-units"></div>
   </section>
 
-  <!-- ===================== CONFIGURAR TEMA ===================== -->
+  <!-- ===================== TOPIC SETUP ===================== -->
   <section id="view-temaConfig" class="view hidden">
-    <button class="btn ghost" id="tc-back" style="margin:0 0 8px;">← Temario</button>
+    <button class="btn ghost" id="tc-back" style="margin:0 0 8px;">← Subjects</button>
     <div id="tc-hero" class="tc-hero">
       <div class="tc-hero-ico" id="tc-hero-ico">📘</div>
       <div class="tc-hero-body">
@@ -122,241 +115,172 @@
     <div id="tc-stats" class="tc-stats"></div>
 
     <div class="card">
-      <label class="lbl">¿De qué comunidades?</label>
+      <label class="lbl">Which sources?</label>
       <div class="tc-quick" id="tc-com-quick">
-        <button id="tc-todas">Todas</button>
-        <button id="tc-aragon">Solo Aragón</button>
+        <button id="tc-todas">All sources</button>
       </div>
       <div id="tc-comunidades" class="chips"></div>
       <div class="mini" id="tc-pool-info"></div>
 
-      <label class="lbl">Número de preguntas</label>
+      <label class="lbl">Number of questions</label>
       <div class="seg" id="tc-n">
         <button data-v="10">10</button>
         <button data-v="25" class="on">25</button>
         <button data-v="50">50</button>
-        <button data-v="0">Todas</button>
+        <button data-v="0">All</button>
       </div>
 
       <details>
-        <summary>Opciones avanzadas</summary>
-        <label class="chk"><input type="checkbox" id="tc-falladas"> Solo preguntas falladas</label>
-        <label class="chk"><input type="checkbox" id="tc-marcadas"> Solo preguntas marcadas 🚩</label>
-        <label class="chk"><input type="checkbox" id="tc-nuevas"> Solo preguntas nunca vistas</label>
-        <label class="chk"><input type="checkbox" id="tc-comun-otras"> Incluir parte común de otras comunidades</label>
-        <label class="chk"><input type="checkbox" id="tc-dups"> Incluir preguntas duplicadas</label>
-        <label class="chk"><input type="checkbox" id="tc-anuladas"> Incluir preguntas anuladas</label>
-        <label class="chk"><input type="checkbox" id="tc-barajar" checked> Barajar el orden de las preguntas</label>
+        <summary>Advanced options</summary>
+        <label class="chk"><input type="checkbox" id="tc-falladas"> Only incorrect questions</label>
+        <label class="chk"><input type="checkbox" id="tc-marcadas"> Only flagged questions 🚩</label>
+        <label class="chk"><input type="checkbox" id="tc-nuevas"> Only questions never seen</label>
+        <label class="chk"><input type="checkbox" id="tc-barajar" checked> Shuffle question order</label>
       </details>
     </div>
 
-    <button class="btn primary big" id="tc-empezar">Empezar</button>
+    <button class="btn primary big" id="tc-empezar">Start</button>
   </section>
 
-  <!-- ===================== SIMULACRO: CONFIG ===================== -->
+  <!-- ===================== TEST BLOCK: SETUP ===================== -->
   <section id="view-simulacro" class="view hidden">
-    <h2>Simulacro de examen</h2>
-    <p class="hint">Formato tipo examen: 110 preguntas, 120 minutos, los errores restan ⅓. Sin corrección hasta el final.</p>
+    <h2>Test block</h2>
+    <p class="hint">Timed practice, exam-style: a fixed number of questions and a time limit. No corrections shown until you finish.</p>
 
     <div class="card">
-      <label class="lbl">Tipo de simulacro</label>
-      <div class="seg" id="sim-modo">
-        <button data-v="aleatorio" class="on">Aleatorio</button>
-        <button data-v="real">Examen real</button>
+      <label class="lbl">Questions</label>
+      <div class="seg" id="sim-n">
+        <button data-v="40" class="on">40 (block)</button>
+        <button data-v="20">20 (medium)</button>
+        <button data-v="10">10 (quick)</button>
       </div>
+      <label class="lbl">Sources</label>
+      <div class="chips" id="sim-fuentes-chips"></div>
+      <label class="chk"><input type="checkbox" id="sim-norepetir" checked> Avoid questions from previous test blocks</label>
 
-      <!-- ALEATORIO -->
-      <div id="sim-aleatorio">
-        <label class="lbl">Preguntas</label>
-        <div class="seg" id="sim-n">
-          <button data-v="110" class="on">110 (real)</button>
-          <button data-v="55">55 (media)</button>
-          <button data-v="25">25 (rápido)</button>
-        </div>
-        <label class="lbl">Origen de las preguntas</label>
-        <div class="seg" id="sim-fuente">
-          <button data-v="aragon" class="on">Solo Aragón</button>
-          <button data-v="mixto">Común Aragón + específico de todas</button>
-          <button data-v="todas">Todas</button>
-        </div>
-        <label class="chk"><input type="checkbox" id="sim-norepetir" checked> Evitar preguntas de simulacros anteriores</label>
-      </div>
-
-      <!-- EXAMEN REAL -->
-      <div id="sim-real" class="hidden">
-        <label class="lbl">Comunidad</label>
-        <div class="chips" id="simr-com-chips"></div>
-        <label class="lbl">Examen</label>
-        <div class="chips" id="simr-ex-chips"></div>
-        <div class="mini" id="simr-ex-hint" style="margin:6px 2px 0;"></div>
-        <label class="lbl">Cantidad</label>
-        <div class="seg" id="simr-n">
-          <button data-v="0" class="on">Completo</button>
-          <button data-v="55">Media (55)</button>
-          <button data-v="25">Rápido (25)</button>
-        </div>
-      </div>
-
-      <label class="lbl">Tiempo</label>
+      <label class="lbl">Time</label>
       <div class="seg" id="sim-t">
-        <button data-v="120" class="on">120 min</button>
-        <button data-v="60">60 min</button>
+        <button data-v="60" class="on">60 min</button>
         <button data-v="30">30 min</button>
-        <button data-v="0">Sin límite</button>
+        <button data-v="15">15 min</button>
+        <button data-v="0">No limit</button>
       </div>
       <div class="mini" id="sim-pool-info"></div>
-      <button class="btn primary big" id="btn-start-simulacro">Empezar simulacro</button>
+      <button class="btn primary big" id="btn-start-simulacro">Start test block</button>
     </div>
 
     <div class="card" id="sim-historial-card">
-      <h3>Historial de simulacros</h3>
+      <h3>Test block history</h3>
       <div id="sim-historial"></div>
     </div>
   </section>
 
-  <!-- ===================== QUIZ (práctica y simulacro) ===================== -->
+  <!-- ===================== QUIZ (practice and test block) ===================== -->
   <section id="view-quiz" class="view hidden">
     <div id="quiz-head">
-      <button class="btn ghost" id="btn-quiz-salir" title="Salir">✕</button>
+      <button class="btn ghost" id="btn-quiz-salir" title="Exit">✕</button>
       <div id="quiz-progreso" role="progressbar"><div id="quiz-bar"></div></div>
       <div id="quiz-count"></div>
-      <button class="btn ghost" id="btn-q-marcar" title="Marcar pregunta para repasar (M)" aria-pressed="false">🏳️</button>
+      <button class="btn ghost" id="btn-q-marcar" title="Flag question to review (M)" aria-pressed="false">🏳️</button>
       <div id="quiz-timer" class="hidden"></div>
     </div>
     <details id="quiz-mapa" class="hidden">
-      <summary id="quiz-mapa-sum">🗺️ Mapa de preguntas</summary>
+      <summary id="quiz-mapa-sum">🗺️ Question map</summary>
       <div id="quiz-grid"></div>
     </details>
     <div class="card" id="quiz-card">
       <div id="q-meta" class="mini"></div>
-      <div id="q-caso" class="hidden"></div>
       <div id="q-enunciado"></div>
       <div id="q-imagen" class="hidden"></div>
       <div id="q-opciones"></div>
       <div id="q-explicacion" class="hidden" aria-live="polite"></div>
       <div id="q-nav">
-        <button class="btn ghost hidden" id="btn-q-prev">← Anterior</button>
-        <button class="btn ghost hidden" id="btn-q-blanco">Dejar en blanco</button>
-        <button class="btn primary hidden" id="btn-q-next">Siguiente →</button>
-        <button class="btn primary hidden" id="btn-q-fin">Finalizar</button>
+        <button class="btn ghost hidden" id="btn-q-prev">← Previous</button>
+        <button class="btn ghost hidden" id="btn-q-blanco">Leave blank</button>
+        <button class="btn primary hidden" id="btn-q-next">Next →</button>
+        <button class="btn primary hidden" id="btn-q-fin">Finish</button>
       </div>
     </div>
   </section>
 
-  <!-- ===================== RESULTADO SIMULACRO ===================== -->
+  <!-- ===================== RESULT ===================== -->
   <section id="view-resultado" class="view hidden">
     <div id="resultado-hero"></div>
     <div class="card" id="resultado-resumen"></div>
     <div id="resultado-revision"></div>
-    <button class="btn primary big" id="btn-resultado-volver">Volver al inicio</button>
+    <button class="btn primary big" id="btn-resultado-volver">Back to home</button>
   </section>
 
-  <!-- ===================== ESTADÍSTICAS ===================== -->
+  <!-- ===================== STATISTICS ===================== -->
   <section id="view-stats" class="view hidden">
-    <h2>Estadísticas</h2>
+    <h2>Statistics</h2>
     <div id="stats-content"></div>
   </section>
 
-  <!-- ===================== AJUSTES ===================== -->
+  <!-- ===================== SETTINGS ===================== -->
   <section id="view-ajustes" class="view hidden">
-    <h2>Ajustes</h2>
+    <h2>Settings</h2>
     <div class="card">
-      <h3>Cuenta</h3>
+      <h3>Account</h3>
       <div id="ajustes-cuenta-email" class="mini"></div>
-      <button class="btn danger" id="btn-logout-ajustes">Cerrar sesión</button>
+      <button class="btn danger" id="btn-logout-ajustes">Log out</button>
     </div>
     <div class="card">
-      <h3>Comunidad autónoma</h3>
-      <p class="mini">La comunidad de tu oposición. Afecta a la parte común y a los filtros del temario y simulacro.</p>
-      <div id="ajustes-comunidad" class="com-flags"></div>
-    </div>
-    <div class="card">
-      <h3>Progreso</h3>
-      <button class="btn" id="btn-export">⬇️ Exportar progreso (JSON)</button>
-      <button class="btn" id="btn-import">⬆️ Importar progreso</button>
+      <h3>Progress</h3>
+      <button class="btn" id="btn-export">⬇️ Export progress (JSON)</button>
+      <button class="btn" id="btn-import">⬆️ Import progress</button>
       <input type="file" id="file-import" accept=".json" class="hidden">
-      <button class="btn danger" id="btn-reset">🗑️ Borrar todo el progreso</button>
+      <button class="btn danger" id="btn-reset">🗑️ Erase all progress</button>
     </div>
     <div class="card">
-      <h3>Base de datos</h3>
+      <h3>Question bank</h3>
       <div id="db-info" class="mini"></div>
     </div>
     <div class="card">
-      <h3>Simulacros</h3>
+      <h3>Test blocks</h3>
       <div id="sim-ciclo-info" class="mini"></div>
-      <button class="btn" id="btn-reiniciar-ciclo">🔄 Reiniciar ciclo de simulacros</button>
+      <button class="btn" id="btn-reiniciar-ciclo">🔄 Reset test-block cycle</button>
     </div>
     <div class="card">
-      <h3>Fecha del examen</h3>
-      <p class="mini">Configura la fecha para ver la cuenta atrás en la pantalla de Inicio.</p>
+      <h3>Exam date</h3>
+      <p class="mini">Set the date to see the countdown on the Home screen.</p>
       <input type="date" id="fecha-examen" class="input-fecha">
     </div>
     <div class="card">
-      <h3>Instalar en el móvil</h3>
-      <p class="mini">Abre esta página en el navegador del móvil y usa «Añadir a pantalla de inicio» (Compartir → Añadir a inicio en iOS; menú ⋮ → Instalar aplicación en Android). Funciona sin conexión una vez instalada.</p>
+      <h3>Install on mobile</h3>
+      <p class="mini">Open this page in your phone's browser and use "Add to Home Screen" (Share → Add to Home Screen on iOS; ⋮ menu → Install app on Android). Works offline once installed.</p>
     </div>
   </section>
 
-  <!-- ===================== BUSCAR ===================== -->
+  <!-- ===================== SEARCH ===================== -->
   <section id="view-buscar" class="view hidden">
-    <h2>Buscar preguntas</h2>
-    <div class="seg" id="buscar-modo" style="margin-bottom:16px;">
-      <button data-v="texto" class="on">Por texto</button>
-      <button data-v="id">Por número de examen</button>
-    </div>
-
-    <!-- MODO TEXTO + FILTROS -->
-    <div id="buscar-texto-panel">
-      <div class="card">
-        <input type="search" id="buscar-q" class="buscar-input" placeholder="🔎 Palabra del enunciado…">
-        <label class="lbl">Parte del temario</label>
-        <div class="seg" id="buscar-grupo">
-          <button data-v="todo" class="on">Todo</button>
-          <button data-v="comun">Común</button>
-          <button data-v="especifico">Específico</button>
-        </div>
-        <label class="lbl">Comunidad</label>
-        <div class="chips" id="buscar-com-chips"></div>
-        <label class="lbl">Examen</label>
-        <div class="chips" id="buscar-ex-chips"></div>
-        <div class="mini" id="buscar-ex-hint" style="margin:6px 2px 0;"></div>
-        <label class="lbl">Tema</label>
-        <div class="tema-picker">
-          <input type="search" id="buscar-tema-q" placeholder="Filtra por número o nombre del tema…">
-          <div class="tema-list" id="buscar-tema-list"></div>
-        </div>
-        <details>
-          <summary>Más filtros</summary>
-          <label class="chk"><input type="checkbox" id="buscar-falladas"> Solo preguntas falladas</label>
-          <label class="chk"><input type="checkbox" id="buscar-guardadas"> Solo preguntas guardadas 🚩</label>
-        </details>
+    <h2>Search questions</h2>
+    <div class="card">
+      <input type="search" id="buscar-q" class="buscar-input" placeholder="🔎 Word from the question…">
+      <label class="lbl">Sources</label>
+      <div class="chips" id="buscar-com-chips"></div>
+      <label class="lbl">Topic</label>
+      <div class="tema-picker">
+        <input type="search" id="buscar-tema-q" placeholder="Filter by topic name…">
+        <div class="tema-list" id="buscar-tema-list"></div>
       </div>
-    </div>
-
-    <!-- MODO POR ID (3 pasos: comunidad → examen → número) -->
-    <div id="buscar-id-panel" class="hidden">
-      <div class="card">
-        <label class="lbl">1 · Comunidad</label>
-        <div class="chips" id="bid-com-chips"></div>
-        <label class="lbl">2 · Año / examen</label>
-        <div class="chips" id="bid-ex-chips"></div>
-        <div class="mini" id="bid-ex-hint" style="margin:6px 2px 0;"></div>
-        <label class="lbl">3 · Número de pregunta</label>
-        <input type="number" id="bid-numero" class="input-fecha" min="1" inputmode="numeric" placeholder="Ej. 12" disabled>
-        <div class="mini" id="bid-num-hint" style="margin:8px 0 0;"></div>
-      </div>
+      <details>
+        <summary>More filters</summary>
+        <label class="chk"><input type="checkbox" id="buscar-falladas"> Only incorrect questions</label>
+        <label class="chk"><input type="checkbox" id="buscar-guardadas"> Only flagged questions 🚩</label>
+      </details>
     </div>
 
     <div class="mini" id="buscar-info" style="margin:2px 4px 12px;"></div>
-    <button class="btn primary" id="buscar-practicar" style="display:none;">🎲 Practicar estos resultados</button>
+    <button class="btn primary" id="buscar-practicar" style="display:none;">🎲 Practice these results</button>
     <div id="buscar-resultados"></div>
   </section>
 
 </main>
 
 <div id="update-banner" class="hidden">
-  <span>🎉 Hay una versión nueva</span>
-  <button id="btn-update">Actualizar</button>
+  <span>🎉 A new version is available</span>
+  <button id="btn-update">Update</button>
 </div>
 
 <nav id="tabbar">
@@ -364,20 +288,20 @@
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
       <path d="M4 12 L12 4.5 L20 12"/><path d="M6 10.8 V19.5 H18 V10.8"/><path d="M10 19.5 V14.5 H14 V19.5"/>
     </svg>
-    <span>Inicio</span>
+    <span>Home</span>
   </button>
   <button data-view="practica">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
       <path d="M12 6.6 C9.6 5 6.6 5 4 5.6 V18.4 C6.6 17.8 9.6 17.8 12 19.4"/>
       <path d="M12 6.6 C14.4 5 17.4 5 20 5.6 V18.4 C17.4 17.8 14.4 17.8 12 19.4"/>
     </svg>
-    <span>Temario</span>
+    <span>Subjects</span>
   </button>
   <button data-view="simulacro">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
       <circle cx="12" cy="13" r="7.3"/><path d="M12 9.5 V13 L14.5 14.8"/><path d="M9.5 3.5 H14.5"/>
     </svg>
-    <span>Simulacro</span>
+    <span>Test block</span>
   </button>
   <button data-view="stats">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
@@ -390,19 +314,19 @@
       <path d="M5 8 H19"/><path d="M5 16 H19"/>
       <circle cx="9" cy="8" r="2.3" fill="var(--tarjeta)"/><circle cx="15" cy="16" r="2.3" fill="var(--tarjeta)"/>
     </svg>
-    <span>Ajustes</span>
+    <span>Settings</span>
   </button>
 </nav>
 
-<div id="lightbox" class="hidden" role="dialog" aria-modal="true" aria-label="Imagen ampliada">
-  <button id="lightbox-close" aria-label="Cerrar imagen">✕</button>
-  <img id="lightbox-img" alt="Imagen de la pregunta ampliada">
+<div id="lightbox" class="hidden" role="dialog" aria-modal="true" aria-label="Enlarged image">
+  <button id="lightbox-close" aria-label="Close image">✕</button>
+  <img id="lightbox-img" alt="Enlarged question image">
 </div>
 
 <script src="config.js"></script>
 <script src="vendor/supabase.js"></script>
 <script src="auth/gate.js"></script>
 <script src="data/db.js"></script>
-<script src="app.js?v=23"></script>
+<script src="app.js?v=24"></script>
 </body>
 </html>
