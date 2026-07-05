@@ -8,9 +8,17 @@ export const meta = {
 }
 
 const BASE = 'C:/Users/arnal/Desktop/Documentos/IA/USMLE-Step-1/data/anking'
-const START_BATCH = (args && args.startBatch) || 0
-const N_BATCHES = (args && args.nBatches) || 45
-const QA_GROUP = 9
+// NOTE: reading these from `args` proved unreliable in this environment
+// (reproduced twice: the run silently used the function defaults instead
+// of the passed args, re-processing already-done batches). Hardcode the
+// values for each run directly here instead, and double-check the very
+// first agent's actual prompt/transcript before letting a run continue.
+const START_BATCH = 0
+const N_BATCHES = 21
+const QA_GROUP = 7
+const IN_DIR = '_batches_in_v2'
+const OUT_DIR = '_batches_out_v2'
+const GEN_EFFORT = 'high'
 
 const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
 2. Histamine & Antihistamines [Respiratory Pharmacology]
@@ -106,6 +114,20 @@ const EXAMPLES = `[
     "D": "Projection is a defense mechanism where one's own unacceptable feelings are attributed to another person, distinct from the therapeutic relationship dynamic of transference."
    }
   }
+ },
+ {
+  "id": "anking-cardiovascular-pharmacology-114",
+  "q": "A patient taking a non-dihydropyridine calcium channel blocker for rate control is started on a second agent that also slows AV nodal conduction. Which combination poses the greatest risk of complete heart block?",
+  "o": {"A": "Verapamil + metoprolol", "B": "Amlodipine + metoprolol", "C": "Verapamil + hydralazine", "D": "Amlodipine + furosemide"},
+  "r": "A",
+  "e": {
+   "correcta": "Verapamil (a non-dihydropyridine CCB) and metoprolol (a beta-blocker) both slow conduction through the AV node — verapamil by blocking L-type calcium channels that drive the slow upstroke of the AV nodal action potential, and metoprolol by reducing sympathetic drive to the same node. Given together, their AV-nodal-suppressing effects are additive rather than complementary, so the combination carries a real risk of pushing a patient into complete heart block, especially in someone who already has borderline conduction disease.",
+   "incorrectas": {
+    "B": "Amlodipine is a dihydropyridine CCB — it acts mainly on vascular smooth muscle calcium channels and has little effect on the AV node, so pairing it with metoprolol does not meaningfully add to nodal blockade the way verapamil would.",
+    "C": "Hydralazine is a direct arteriolar vasodilator with no effect on AV nodal conduction, so this combination doesn't compound conduction slowing the way a second nodal-blocking drug would.",
+    "D": "Furosemide is a loop diuretic that affects volume status, not cardiac conduction, so it does not add to the AV-nodal-suppressing burden the way combining two nodal blockers would."
+   }
+  }
  }
 ]`
 
@@ -140,7 +162,11 @@ REQUIREMENTS — this app's whole value is the explanations, where the student a
 1. The correct answer comes from {{c1::...}} in "stem". Rephrase the surrounding sentence as a proper question (a direct question, "Which of the following...", or a short clinical-vignette stem) — no literal blanks or cloze braces left in "q".
 2. Write 3 distractors of the SAME CATEGORY as the correct answer (e.g. if the answer is a receptor, distractors are other receptors; if it's a pathway step, distractors are other steps/similar pathways). Clearly wrong to someone who knows the concept, but plausible enough to require real understanding to rule out — never a random unrelated term.
 3. Vary which letter (A-D) holds the correct answer across the batch — do not always put it at A.
-4. Every explanation (correct AND all 3 incorrect) must be substantive and pedagogical: explain the actual mechanism/fact, not just "this is correct/incorrect". Mine the "extra" field for real content when present.
+4. Every explanation (correct AND all 3 incorrect) must be substantive and pedagogical, NOT a one-clause restatement of the fact. This is the single most important part of the task — the explanation is where the student actually learns, so take real care and don't default to the shortest possible sentence:
+   - For the correct answer: don't just name the concept — explain the underlying mechanism/pathway/reasoning that makes it correct, and where useful, add why it matters clinically or how to remember it. Aim for roughly 2-4 sentences of real teaching content, not a single flat clause.
+   - For each incorrect option: don't just say "this is wrong" or "this is a different thing" — say what that option actually IS/does, and specifically why it fails to satisfy what the question asks, ideally contrasting the mechanism with the correct answer. A distractor from the SAME category (per point 2) makes this natural: explain the real distinguishing feature between it and the correct answer, not a generic dismissal.
+   - Avoid filler phrases that sound substantive but say nothing new (e.g. "this option does not fit the scenario described" without saying what it actually is or why). Every explanation should teach the reader something true and specific about the wrong option itself.
+   - Mine the "extra" field for real content when present, but don't copy it verbatim — synthesize it into your own teaching explanation.
 5. "tema_nombre": reuse one of the EXISTING topic names below when the card clearly belongs there; only invent a new name (specific, First-Aid-style, 2-5 words) if none fit — don't invent near-duplicates of an existing name.
 6. Output a JSON array with exactly one object per input element, same order, no omissions.
 
@@ -163,11 +189,12 @@ ${outFiles.join('\n')}
 
 For each question, check for genuine problems:
 - Is there exactly ONE clearly correct option? (flag if a "wrong" option is actually also correct, or "r" is arguably not the best answer)
-- Do the "incorrectas" explanations actually match their own letter (not swapped/contradictory), and are they substantive (not a one-clause filler)?
+- Do the "incorrectas" explanations actually match their own letter (not swapped/contradictory)?
+- Is any explanation (correct or incorrect) too shallow to teach anything — a single flat clause, a generic "this is wrong" with no actual content about what the option is or why, or just restating the option text back? These should be flagged just as much as factual errors — depth matters as much as correctness for this app.
 - Is the question stem still leaking cloze artifacts like "{{c1::" or "::}}"?
 - Are all 4 options present, non-empty, and genuinely distinct from each other?
 
-Be selective: only flag REAL problems a question-writer would want fixed, not stylistic nitpicks. Most questions should pass with no issues.
+Be selective: only flag REAL problems (factual errors, letter mismatches, or explanations with essentially no teaching content), not stylistic nitpicks. Most questions should pass with no issues.
 
 Return the "anki" id and a one-sentence reason for every question you flag. If none, return an empty array.`
 }
@@ -188,14 +215,16 @@ const FLAG_SCHEMA = {
 }
 
 const pad = (n) => String(n).padStart(4, '0')
-const batchFiles = Array.from({ length: N_BATCHES }, (_, i) => `${BASE}/_batches_in/batch_${pad(START_BATCH + i)}.json`)
-const outFiles = batchFiles.map((f) => f.replace('_batches_in', '_batches_out'))
+const batchFiles = Array.from({ length: N_BATCHES }, (_, i) => `${BASE}/${IN_DIR}/batch_${pad(START_BATCH + i)}.json`)
+const outFiles = batchFiles.map((f) => f.replace(IN_DIR, OUT_DIR))
+
+log(`Config: ${N_BATCHES} batches starting at ${START_BATCH}, reading from ${IN_DIR}/, writing to ${OUT_DIR}/. First batch file: ${batchFiles[0]}`)
 
 phase('Generate')
 const genResults = await pipeline(
   batchFiles,
   (batchFile, _item, i) =>
-    agent(genPrompt(batchFile, outFiles[i]), { label: `gen:${i}`, phase: 'Generate' })
+    agent(genPrompt(batchFile, outFiles[i]), { label: `gen:${i}`, phase: 'Generate', effort: GEN_EFFORT })
       .then(() => outFiles[i])
       .catch(() => null)
 )
@@ -208,7 +237,7 @@ for (let i = 0; i < outFiles.length; i += QA_GROUP) groups.push(outFiles.slice(i
 
 const qaResults = await pipeline(
   groups,
-  (group, _item, i) => agent(qaPrompt(group), { label: `qa:${i}`, phase: 'QA', schema: FLAG_SCHEMA }).catch(() => null)
+  (group, _item, i) => agent(qaPrompt(group), { label: `qa:${i}`, phase: 'QA', schema: FLAG_SCHEMA, effort: 'high' }).catch(() => null)
 )
 
 const flagged = qaResults.filter(Boolean).flatMap((r) => r.flagged || [])

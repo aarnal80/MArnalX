@@ -34,7 +34,7 @@ Anking_Step-1.apkg
 # tools/anki_extract.py + tools/anking_convert.workflow.js, ver PLAN_ANKING_STEP1.md)
 data/anking/_raw_*.json
 data/anking/_used_ids.json
-data/anking/_batches_in/
-data/anking/_batches_out/
+data/anking/_batches_in*/
+data/anking/_batches_out*/
 data/anking/_flagged_*.json
 data/anking/_rejected_report.json

@@ -6,6 +6,7 @@ nuevos al final cuando no).
 
 Uso:
     python tools/merge_anking_batches.py [--flagged flagged.json] [--dry-run]
+                                          [--base otro_dataset.json] [--glob "data/anking/_batches_out_v2/*.json"]
 
 Salida (si no es --dry-run):
     - data/anking/step1_dataset_full.json  (dataset fusionado completo)
@@ -73,19 +74,22 @@ def main():
     dry_run = "--dry-run" in sys.argv
     if "--flagged" in sys.argv:
         flagged_path = sys.argv[sys.argv.index("--flagged") + 1]
+    base_path = sys.argv[sys.argv.index("--base") + 1] if "--base" in sys.argv else CURRENT_DATASET
+    glob_pattern = sys.argv[sys.argv.index("--glob") + 1] if "--glob" in sys.argv else BATCHES_OUT_GLOB
 
     flagged_ids = set()
     if flagged_path and os.path.exists(flagged_path):
         flagged_ids = set(x["anki"] for x in json.load(open(flagged_path, encoding="utf-8")))
 
-    current = json.load(open(CURRENT_DATASET, encoding="utf-8"))
+    current = json.load(open(base_path, encoding="utf-8"))
     temas = current["temas"]
     name_to_id = {t["nombre"].strip().lower(): t["id"] for t in temas}
     next_tema_id = max(t["id"] for t in temas) + 1
     seen_anki = set(q["anki"] for q in current["preguntas"])
 
-    batch_files = sorted(glob.glob(BATCHES_OUT_GLOB))
-    print(f"Encontrados {len(batch_files)} ficheros de lote de salida")
+    batch_files = sorted(glob.glob(glob_pattern))
+    print(f"Base: {base_path} ({len(current['preguntas'])} preguntas ya dentro)")
+    print(f"Encontrados {len(batch_files)} ficheros de lote de salida ({glob_pattern})")
 
     accepted, rejected = [], []
     for bf in batch_files:

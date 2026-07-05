@@ -1,6 +1,6 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 2.693 preguntas**.
+> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 3.211 preguntas**.
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -207,48 +207,74 @@ Los números de la cabecera de este documento (26.844 / 25.700 / 6.500 / 1.300) 
 
 ### 10.3 Progreso de conversión
 
-- **Convertidas y en producción:** 2.693 preguntas / 65 temas (`data/anking/step1_dataset_2693q.json`, cargado en `app/data/db.js`).
+- **Convertidas y en producción:** 3.211 preguntas / 65 temas (`data/anking/step1_dataset_3211q.json`, cargado en `app/data/db.js`).
   - 1.130 de la primera fase (documentada en el resto de este plan).
-  - +1.563 de una tanda de hiperloop de agentes (2026-07-05, ver §10.5), sobre los lotes `batch_0000`–`batch_0044` (35 tarjetas/lote): 1.567 generadas, 5 descartadas tras QA + validación estructural.
-- **Quedan por convertir: ~15.500** tarjetas del universo limpio (18.189 − 2.696 ids únicos usados, incluyendo los 3 descartados que se recuperaron al regenerarse — ver aviso de §10.5).
-- Ya hay **488 lotes de 35 tarjetas pre-cortados** en `data/anking/_batches_in/batch_0000.json`…`batch_0487.json` (el extractor ya se ejecutó y los cortó todos). **Los lotes `0000`–`0044` ya están procesados**; quedan `0045`–`0487` (443 lotes) listos para lanzar sin más preparación — **pero ojo:** esta carpeta está en `.gitignore` (son datos regenerables, no se suben a GitHub), así que si trabajas desde otra máquina/clon del repo no van a estar ahí — hay que regenerarlos (§10.4, paso 1).
-- ⚠️ **Cuidado al lanzar una tanda nueva con `args.startBatch`:** el 2026-07-05 se lanzó una segunda tanda con `{startBatch:45, nBatches:45}` esperando que atacara `batch_0045`-`batch_0089`, pero sus agentes reales pidieron `batch_0000`-`batch_0031` — **reprocesó lotes ya hechos en vez de nuevos** (causa no confirmada: posible problema de cómo se resolvió `args` en esa invocación de `Workflow`, no reproducido a fondo). Se perdió ~1h de tokens en trabajo redundante antes de pararla con `TaskStop`. **Antes de dar por bueno un rango nuevo, comprueba el prompt real del primer agente lanzado** (mira su transcript en `subagents/workflows/<runId>/agent-*.jsonl`, busca la ruta `batch_NNNN.json` que de verdad pidió leer) **en vez de asumir que el `args` pasado se aplicó.**
+  - +1.563 de la 1ª tanda de hiperloop (2026-07-05, lotes de 35 tarjetas): 1.567 generadas, 5 descartadas tras QA + validación estructural (más 3 recuperadas de una tanda redundante, ver más abajo).
+  - +518 de la 2ª tanda de hiperloop (2026-07-05, lotes de 25 tarjetas, esfuerzo alto y prompt reforzado para explicaciones más profundas — ver §10.5): 520 generadas, 2 descartadas.
+- **Quedan por convertir: ~14.980** tarjetas del universo limpio (18.189 − ids únicos ya usados).
+- **Sobre los lotes pre-cortados en disco (`_batches_in/`, `_batches_in_v2/`):** están en `.gitignore` (regenerables, no se suben a GitHub) y a estas alturas están parcialmente desincronizados entre sí (se cortaron en momentos distintos, con tamaños de lote distintos, sobre "lo que quedaba" en cada momento). **No merece la pena intentar llevar la cuenta de qué sub-rango de qué carpeta está ya usado.** Para la próxima tanda, simplemente: recalcula "lo que falta" restando los `anki` ids del dataset de producción actual del universo limpio (`_raw_all.json`), y vuelve a cortar en lotes frescos en una carpeta nueva (p. ej. `_batches_in_v3`) — es un script de Python local, no cuesta tokens (ver receta en §10.4).
+- ⚠️ **`args` de `Workflow` no fiable en este entorno — usar valores fijos en el script, no `args`:** se intentó dos veces pasar el rango de lotes vía `args: {startBatch, nBatches, ...}` a `Workflow({scriptPath, args})` sin `resumeFromRunId`, y **las dos veces el script ejecutó con los valores por defecto de las constantes, ignorando el `args` pasado** — reprocesando lotes ya hechos en vez de los nuevos indicados. Causa no confirmada (posible peculiaridad de cómo esta build de `Workflow` resuelve `args` en scripts con `scriptPath` ya usado antes). **Solución adoptada:** en `tools/anking_convert.workflow.js`, `START_BATCH`/`N_BATCHES`/`IN_DIR`/`OUT_DIR`/`QA_GROUP`/`GEN_EFFORT` son ahora **constantes hardcodeadas al principio del fichero** (no leen `args`) — edítalas a mano para cada tanda nueva. **Además, verifica siempre el primer agente real antes de dejar correr el resto:** espera ~20s tras lanzar, lee el primer mensaje de `subagents/workflows/<runId>/agent-*.jsonl` y confirma que la ruta `batch_NNNN.json` que pide leer es la que esperabas — si no, para con `TaskStop` inmediatamente (así se hizo la segunda vez: solo se gastaron 2 agentes en el error, no 32).
 
 ### 10.4 Receta exacta para continuar
 
-1. **(Solo si `data/anking/_batches_in/` no existe o está vacía)** Regenerar la extracción cruda y los lotes:
+1. **Recalcular qué falta y cortar lotes frescos** (no reutilices las carpetas `_batches_in*` antiguas, ver aviso de §10.3):
+   ```python
+   import json, os
+   raw = json.load(open('data/anking/_raw_all.json', encoding='utf-8'))          # si no existe: tools/anki_extract.py "<ruta al .apkg>" data/anking/_raw_all.json
+   done = json.load(open('data/anking/step1_dataset_3211q.json', encoding='utf-8'))  # usa siempre el fichero de dataset MÁS RECIENTE
+   done_ids = set(q['anki'] for q in done['preguntas'])
+   remaining = [r for r in raw if r['anki'] not in done_ids]
+   BATCH = 25   # tamaño de lote; más pequeño = más atención por pregunta del agente
+   os.makedirs('data/anking/_batches_in_v3', exist_ok=True)   # sube el sufijo _vN cada vez, para no pisar carpetas anteriores
+   chunks = [remaining[i:i+BATCH] for i in range(0, len(remaining), BATCH)]
+   NEEDED = 20  # cuantos lotes quieras lanzar esta vez
+   for i in range(NEEDED):
+       json.dump(chunks[i], open(f'data/anking/_batches_in_v3/batch_{i:04d}.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
    ```
-   "/c/Python313/python.exe" tools/anki_extract.py "<ruta al .apkg>" data/anking/_raw_all.json
-   ```
-   y luego re-cortar en lotes de 35 excluyendo los `anki` ids ya presentes en `data/anking/step1_dataset_2690q.json` (mismo patrón que se usó la primera vez; no hay un script dedicado para el recorte, se hizo con un one-liner de Python — ver el historial de este chat o reescribirlo, es trivial: `raw` menos `done_ids`, en trozos de 35, escritos a `_batches_in/batch_NNNN.json`).
 
-2. **Lanzar el workflow** (ya soporta rango parametrizado, no relanza lo ya hecho):
+2. **Editar las constantes al principio de `tools/anking_convert.workflow.js`** (NO uses `args` de `Workflow` — ver aviso de §10.3, no es fiable en este entorno):
+   ```js
+   const START_BATCH = 0
+   const N_BATCHES = 20          // = NEEDED de arriba
+   const QA_GROUP = 7            // 1 agente de QA cada N lotes
+   const IN_DIR = '_batches_in_v3'
+   const OUT_DIR = '_batches_out_v3'
+   const GEN_EFFORT = 'high'
    ```
-   Workflow({ scriptPath: "tools/anking_convert.workflow.js", args: { startBatch: 45, nBatches: N } })
-   ```
-   Sube `N` según cuánto presupuesto de tokens haya. Cada agente de generación convierte 1 lote (35 preguntas); cada 9 lotes se lanza 1 agente de QA. Total agentes ≈ `N + ceil(N/9)`.
+   Total agentes ≈ `N_BATCHES + ceil(N_BATCHES / QA_GROUP)`.
 
    **Importante — concurrencia real:** el tope es `min(16, núcleos de CPU de esta máquina - 2)`. Esta máquina tiene 4 núcleos → **solo 2 agentes a la vez**, no 16. Calcula el tiempo/coste con eso en mente, no con el máximo teórico.
 
-3. **Si hay que cortar por presupuesto de tokens a mitad de una tanda:** usar `TaskStop` con el `task_id` que devuelve `Workflow` al lanzarlo. Los lotes que ya hayan escrito su fichero de salida en `data/anking/_batches_out/` son válidos y se pueden fusionar igualmente — no se pierde el trabajo ya hecho.
-
-4. **Fusionar y reconstruir la base de datos:**
+3. **Lanzar y verificar INMEDIATAMENTE:**
    ```
-   "/c/Python313/python.exe" tools/merge_anking_batches.py --flagged <fichero-de-flagged-si-lo-hay>.json
+   Workflow({ scriptPath: "tools/anking_convert.workflow.js" })
    ```
-   Esto valida estructuralmente cada pregunta (opciones A-D distintas y no vacías, `r` válido, `incorrectas` con las 3 claves correctas y explicaciones no vacías/no "N/A", sin artefactos `{{c1::` filtrados), asigna/reutiliza el id de `tema` por nombre, y escribe `data/anking/step1_dataset_<N>q.json` + `app/data/db.js` directamente (no hay paso de build separado, se sustituye `window.DB = {...}` tal cual, igual que en las tandas anteriores). Recuerda **renombrar** el fichero de salida (`step1_dataset_full.json` → `step1_dataset_<total>q.json`) para mantener la convención de nombres.
+   A los ~20s, lee el primer mensaje de `subagents/workflows/<runId>/agent-*.jsonl` (el `runId`/`Transcript dir` que devuelve la llamada) y confirma que la ruta `batch_NNNN.json` que pide leer es la de la carpeta nueva (`IN_DIR`) y el número esperado (`0000`, no algo ya hecho). Si no coincide, `TaskStop` inmediatamente — así se limita el desperdicio a 1-2 agentes en vez de una tanda entera.
 
-5. **Bump `DB_HASH` en `app/sw.js`** cada vez que cambie el contenido de `app/data/db.js`. El service worker cachea la BD *cache-first* por ese hash; si no se sube, los usuarios que ya tengan la app instalada se quedan con los datos viejos indefinidamente (este bug llevaba desde la POC sin corregirse — el comentario del fichero decía que `build_db.py` lo reescribía solo, pero el pipeline de AnKing nunca ha usado `build_db.py`, así que nadie lo estaba subiendo).
-6. **Commit + push:** `app/data/db.js`, el nuevo `data/anking/step1_dataset_<N>q.json`, `app/sw.js` (DB_HASH), y esta actualización del plan. Vercel redespliega solo al hacer push a `main`.
+4. **Si hay que cortar por presupuesto de tokens a mitad de una tanda:** usar `TaskStop` con el `task_id` que devuelve `Workflow` al lanzarlo. Los lotes que ya hayan escrito su fichero de salida en `OUT_DIR` son válidos y se pueden fusionar igualmente — no se pierde el trabajo ya hecho.
 
-### 10.5 Calidad observada en la primera tanda de hiperloop
+5. **Fusionar y reconstruir la base de datos** (usa siempre el dataset más reciente como `--base`):
+   ```
+   "/c/Python313/python.exe" tools/merge_anking_batches.py --base data/anking/step1_dataset_3211q.json --glob "data/anking/_batches_out_v3/*.json" --flagged <fichero-de-flagged-si-lo-hay>.json
+   ```
+   Esto valida estructuralmente cada pregunta (opciones A-D distintas y no vacías, `r` válido, `incorrectas` con las 3 claves correctas y explicaciones no vacías/no "N/A", sin artefactos `{{c1::` filtrados), asigna/reutiliza el id de `tema` por nombre, y escribe `data/anking/step1_dataset_full.json` + `app/data/db.js` directamente (no hay paso de build separado, se sustituye `window.DB = {...}` tal cual). Recuerda **renombrar** el fichero de salida (`step1_dataset_full.json` → `step1_dataset_<total>q.json`) para mantener la convención de nombres, y borrar el `step1_dataset_<N>q.json` anterior de git (`git rm --cached`) si lo reemplazas.
 
-De 1.567 preguntas generadas (lotes 0-44), el agente de QA marcó **8** (0,5%) con un patrón consistente: **claves de letra desalineadas** en `e.incorrectas` (la explicación de una opción aparece bajo la letra equivocada, o falta la de una opción y sobra una con la propia letra de la respuesta correcta). El validador estructural de `tools/merge_anking_batches.py` detecta este mismo patrón automáticamente (comprueba que las claves de `incorrectas` sean exactamente las 3 letras que no son `r`). **Mantén la etapa de QA del workflow** — es barata (1 agente cada 9 lotes) y es la que atrapa este fallo de forma fiable.
+6. **Bump `DB_HASH` en `app/sw.js`** cada vez que cambie el contenido de `app/data/db.js`. El service worker cachea la BD *cache-first* por ese hash; si no se sube, los usuarios que ya tengan la app instalada se quedan con los datos viejos indefinidamente (este bug llevaba desde la POC sin corregirse — el comentario del fichero decía que `build_db.py` lo reescribía solo, pero el pipeline de AnKing nunca ha usado `build_db.py`, así que nadie lo estaba subiendo).
+7. **Verifica en el preview** (limpiar service worker/caches con `caches.keys()`+`unregister()` antes de comprobar `window.DB.preguntas.length`, si no puede seguir sirviendo la versión cacheada vieja).
+8. **Commit + push:** `app/data/db.js`, el nuevo `data/anking/step1_dataset_<N>q.json`, `app/sw.js` (DB_HASH), y esta actualización del plan. Vercel redespliega solo al hacer push a `main`.
 
-Nota: de esas 8, **3 se recuperaron** — la tanda accidentalmente redundante de §10.3 regeneró de cero los lotes `0010`, `0023` y (parcialmente) otros, y por azar esas 3 preguntas concretas salieron bien formadas la segunda vez, así que se readmitieron al fusionar. Las otras 5 (lotes `0036`, `0037`, `0039`, no tocados por la tanda redundante) siguen descartadas.
+### 10.5 Calidad observada en las tandas de hiperloop
+
+**1ª tanda** (2026-07-05, lotes de 35 tarjetas, prompt original): de 1.567 preguntas generadas, el agente de QA marcó **8** (0,5%) con un patrón consistente: **claves de letra desalineadas** en `e.incorrectas` (la explicación de una opción aparece bajo la letra equivocada, o falta la de una opción y sobra una con la propia letra de la respuesta correcta). El validador estructural de `tools/merge_anking_batches.py` detecta este mismo patrón automáticamente (comprueba que las claves de `incorrectas` sean exactamente las 3 letras que no son `r`).
+
+Nota: de esas 8, **3 se recuperaron** — una tanda accidentalmente redundante (ver aviso de §10.3) regeneró de cero los lotes `0010`, `0023` y otros, y por azar esas 3 preguntas concretas salieron bien formadas la segunda vez, así que se readmitieron al fusionar. Las otras 5 (lotes `0036`, `0037`, `0039`) siguen descartadas.
+
+**2ª tanda** (2026-07-05, lotes de 25 tarjetas, `effort: 'high'`, prompt reforzado explícitamente contra explicaciones superficiales — ver el requisito #4 y el ejemplo de estilo cardiovascular en `tools/anking_convert.workflow.js`): de 520 preguntas generadas, solo **2** (0,4%) marcadas, con explicaciones sensiblemente más largas y con más contenido de mecanismo/razonamiento que la 1ª tanda (verificado leyendo muestras reales, no solo el ratio de descarte). **Si se hacen más tandas, usar el prompt de la 2ª tanda (ya es el que queda en el repo) y no el original.**
+
+**Mantén siempre la etapa de QA del workflow** — es barata (1 agente cada 7-9 lotes) y es la que atrapa estos fallos de forma fiable; el validador estructural por sí solo no detecta explicaciones superficiales pero sí correctas, solo la letra-desalineación.
 
 ### 10.6 Scripts que quedan en el repo para esto
 
 - [`tools/anki_extract.py`](tools/anki_extract.py) — extrae del `.apkg` el universo limpio Step 1 (maneja esquema legacy y moderno de Anki, zstd, filtra Step 2/3 y multi-cloze/imagen).
-- [`tools/anking_convert.workflow.js`](tools/anking_convert.workflow.js) — workflow de conversión por lotes (generación + QA), parametrizado por `args.startBatch`/`args.nBatches`.
-- [`tools/merge_anking_batches.py`](tools/merge_anking_batches.py) — valida y fusiona los lotes de salida en el dataset de producción + reconstruye `app/data/db.js`.
+- [`tools/anking_convert.workflow.js`](tools/anking_convert.workflow.js) — workflow de conversión por lotes (generación + QA). Parámetros de la tanda como **constantes hardcodeadas al principio del fichero** (`START_BATCH`/`N_BATCHES`/`IN_DIR`/`OUT_DIR`/`QA_GROUP`/`GEN_EFFORT`) — edítalas a mano, no uses `args` de `Workflow` (no fiable, ver §10.3).
+- [`tools/merge_anking_batches.py`](tools/merge_anking_batches.py) — valida y fusiona los lotes de salida en el dataset de producción + reconstruye `app/data/db.js`. Acepta `--base <dataset.json>` y `--glob "<patrón de lotes>"` para no tener que editar el script en cada tanda.
