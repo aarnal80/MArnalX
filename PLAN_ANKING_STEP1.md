@@ -1,6 +1,6 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 3.211 preguntas**.
+> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 3.728 preguntas**.
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -207,12 +207,13 @@ Los números de la cabecera de este documento (26.844 / 25.700 / 6.500 / 1.300) 
 
 ### 10.3 Progreso de conversión
 
-- **Convertidas y en producción:** 3.211 preguntas / 65 temas (`data/anking/step1_dataset_3211q.json`, cargado en `app/data/db.js`).
+- **Convertidas y en producción:** 3.728 preguntas / 65 temas (`data/anking/step1_dataset_3728q.json`, cargado en `app/data/db.js`).
   - 1.130 de la primera fase (documentada en el resto de este plan).
   - +1.563 de la 1ª tanda de hiperloop (2026-07-05, lotes de 35 tarjetas): 1.567 generadas, 5 descartadas tras QA + validación estructural (más 3 recuperadas de una tanda redundante, ver más abajo).
   - +518 de la 2ª tanda de hiperloop (2026-07-05, lotes de 25 tarjetas, esfuerzo alto y prompt reforzado para explicaciones más profundas — ver §10.5): 520 generadas, 2 descartadas.
-- **Quedan por convertir: ~14.980** tarjetas del universo limpio (18.189 − ids únicos ya usados).
-- **Sobre los lotes pre-cortados en disco (`_batches_in/`, `_batches_in_v2/`):** están en `.gitignore` (regenerables, no se suben a GitHub) y a estas alturas están parcialmente desincronizados entre sí (se cortaron en momentos distintos, con tamaños de lote distintos, sobre "lo que quedaba" en cada momento). **No merece la pena intentar llevar la cuenta de qué sub-rango de qué carpeta está ya usado.** Para la próxima tanda, simplemente: recalcula "lo que falta" restando los `anki` ids del dataset de producción actual del universo limpio (`_raw_all.json`), y vuelve a cortar en lotes frescos en una carpeta nueva (p. ej. `_batches_in_v3`) — es un script de Python local, no cuesta tokens (ver receta en §10.4).
+  - +517 de la 3ª tanda de hiperloop (2026-07-05, mismo prompt/config que la 2ª): 525 generadas, 7 descartadas (ratio más alto, 1,3% — ver nota de clustering en §10.5).
+- **Quedan por convertir: ~14.460** tarjetas del universo limpio (18.189 − ids únicos ya usados).
+- **Sobre los lotes pre-cortados en disco (`_batches_in/`, `_batches_in_v2/`, `_batches_in_v3/`):** están en `.gitignore` (regenerables, no se suben a GitHub) y a estas alturas están parcialmente desincronizados entre sí (se cortaron en momentos distintos, con tamaños de lote distintos, sobre "lo que quedaba" en cada momento). **No merece la pena intentar llevar la cuenta de qué sub-rango de qué carpeta está ya usado.** Para la próxima tanda, simplemente: recalcula "lo que falta" restando los `anki` ids del dataset de producción actual del universo limpio (`_raw_all.json`), y vuelve a cortar en lotes frescos en una carpeta nueva (p. ej. `_batches_in_v4`) — es un script de Python local, no cuesta tokens (ver receta en §10.4).
 - ⚠️ **`args` de `Workflow` no fiable en este entorno — usar valores fijos en el script, no `args`:** se intentó dos veces pasar el rango de lotes vía `args: {startBatch, nBatches, ...}` a `Workflow({scriptPath, args})` sin `resumeFromRunId`, y **las dos veces el script ejecutó con los valores por defecto de las constantes, ignorando el `args` pasado** — reprocesando lotes ya hechos en vez de los nuevos indicados. Causa no confirmada (posible peculiaridad de cómo esta build de `Workflow` resuelve `args` en scripts con `scriptPath` ya usado antes). **Solución adoptada:** en `tools/anking_convert.workflow.js`, `START_BATCH`/`N_BATCHES`/`IN_DIR`/`OUT_DIR`/`QA_GROUP`/`GEN_EFFORT` son ahora **constantes hardcodeadas al principio del fichero** (no leen `args`) — edítalas a mano para cada tanda nueva. **Además, verifica siempre el primer agente real antes de dejar correr el resto:** espera ~20s tras lanzar, lee el primer mensaje de `subagents/workflows/<runId>/agent-*.jsonl` y confirma que la ruta `batch_NNNN.json` que pide leer es la que esperabas — si no, para con `TaskStop` inmediatamente (así se hizo la segunda vez: solo se gastaron 2 agentes en el error, no 32).
 
 ### 10.4 Receta exacta para continuar
@@ -269,9 +270,11 @@ Los números de la cabecera de este documento (26.844 / 25.700 / 6.500 / 1.300) 
 
 Nota: de esas 8, **3 se recuperaron** — una tanda accidentalmente redundante (ver aviso de §10.3) regeneró de cero los lotes `0010`, `0023` y otros, y por azar esas 3 preguntas concretas salieron bien formadas la segunda vez, así que se readmitieron al fusionar. Las otras 5 (lotes `0036`, `0037`, `0039`) siguen descartadas.
 
-**2ª tanda** (2026-07-05, lotes de 25 tarjetas, `effort: 'high'`, prompt reforzado explícitamente contra explicaciones superficiales — ver el requisito #4 y el ejemplo de estilo cardiovascular en `tools/anking_convert.workflow.js`): de 520 preguntas generadas, solo **2** (0,4%) marcadas, con explicaciones sensiblemente más largas y con más contenido de mecanismo/razonamiento que la 1ª tanda (verificado leyendo muestras reales, no solo el ratio de descarte). **Si se hacen más tandas, usar el prompt de la 2ª tanda (ya es el que queda en el repo) y no el original.**
+**2ª tanda** (2026-07-05, lotes de 25 tarjetas, `effort: 'high'`, prompt reforzado explícitamente contra explicaciones superficiales — ver el requisito #4 y el ejemplo de estilo cardiovascular en `tools/anking_convert.workflow.js`): de 520 preguntas generadas, solo **2** (0,4%) marcadas, con explicaciones sensiblemente más largas y con más contenido de mecanismo/razonamiento que la 1ª tanda (verificado leyendo muestras reales, no solo el ratio de descarte). **Si se hacen más tandas, usar este prompt (ya es el que queda en el repo) y no el original.**
 
-**Mantén siempre la etapa de QA del workflow** — es barata (1 agente cada 7-9 lotes) y es la que atrapa estos fallos de forma fiable; el validador estructural por sí solo no detecta explicaciones superficiales pero sí correctas, solo la letra-desalineación.
+**3ª tanda** (2026-07-05, misma config exacta que la 2ª): de 525 preguntas generadas, **7** marcadas (1,3% — más que la 2ª). Importante: **5 de las 7 venían del mismo lote** (`batch_0019`), todas con el mismo patrón de letra desalineada — es decir, no es un 1,3% de error uniforme por pregunta, es más bien "la mayoría de los agentes salen limpios, pero de vez en cuando un agente entero se desalinea en varias preguntas seguidas". Si un grupo de QA marca ≥3 preguntas del mismo fichero de lote, probablemente valga la pena relanzar ese lote entero en vez de solo descartar las marcadas (no se hizo esta vez por ser pocas preguntas, pero considéralo si vuelve a pasar con más volumen).
+
+**Mantén siempre la etapa de QA del workflow** — es barata (1 agente cada 7-9 lotes) y es la que atrapa estos fallos de forma fiable; el validador estructural por sí solo no detecta explicaciones superficiales pero sí correctas, solo la letra-desalineación. El bug de `args` (§10.3) no ha vuelto a aparecer usando constantes hardcodeadas — confirmado limpio en 2 tandas seguidas (2ª y 3ª).
 
 ### 10.6 Scripts que quedan en el repo para esto
 

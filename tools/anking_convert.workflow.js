@@ -16,8 +16,8 @@ const BASE = 'C:/Users/arnal/Desktop/Documentos/IA/USMLE-Step-1/data/anking'
 const START_BATCH = 0
 const N_BATCHES = 21
 const QA_GROUP = 7
-const IN_DIR = '_batches_in_v2'
-const OUT_DIR = '_batches_out_v2'
+const IN_DIR = '_batches_in_v3'
+const OUT_DIR = '_batches_out_v3'
 const GEN_EFFORT = 'high'
 
 const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
