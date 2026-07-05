@@ -1,5 +1,4 @@
 {
-  "buildCommand": false,
   "outputDirectory": "app",
   "cleanUrls": true,
   "trailingSlash": false
