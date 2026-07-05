@@ -29,6 +29,12 @@ batches/
 
 # Mazo AnKing original (contenido de terceros, no se versiona; ver PLAN_ANKING_STEP1.md)
 Anki/
-# Ficheros intermedios de extracción del mazo (regenerables)
+Anking_Step-1.apkg
+# Ficheros intermedios de extracción/conversión del mazo (regenerables con
+# tools/anki_extract.py + tools/anking_convert.workflow.js, ver PLAN_ANKING_STEP1.md)
 data/anking/_raw_*.json
 data/anking/_used_ids.json
+data/anking/_batches_in/
+data/anking/_batches_out/
+data/anking/_flagged_*.json
+data/anking/_rejected_report.json

@@ -5,8 +5,8 @@
  *     así un cambio de BD invalida el caché y fuerza una única re-descarga.
  *   - resto del shell (html/css/js/iconos): NETWORK-FIRST. Con conexión sirve
  *     siempre lo último (y lo cachea); sin conexión, cae a la versión cacheada. */
-const DB_HASH = "anking-poc1"; // bump when data/db.js content changes
-const SHELL_VER = "v1";     // bump when html/css/js changes to invalidate the shell cache
+const DB_HASH = "anking-2690q"; // bump when data/db.js content changes
+const SHELL_VER = "v2";     // bump when html/css/js changes to invalidate the shell cache
 const CACHE = "usmle1-" + DB_HASH + "-" + SHELL_VER;
 const FICHEROS = [
   "./", "./index.html", "./styles.css", "./app.js", "./data/db.js",
