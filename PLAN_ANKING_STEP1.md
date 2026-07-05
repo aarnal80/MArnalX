@@ -1,10 +1,11 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado:** v1 en marcha. App migrada, traducida al inglés y funcionando en local con **19 temas / 320 preguntas** (2026-07-05).
+> **Estado:** v1 en marcha. App migrada, traducida al inglés y funcionando en local con **65 temas / 1.130 preguntas** (2026-07-05).
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
-> **Datos en producción (`app/data/db.js`):** [`data/anking/step1_dataset_320q.json`](data/anking/step1_dataset_320q.json) — 19 temas (los 16 sistemas de First Aid + los 3 de la POC inicial), 320 preguntas generadas por un workflow de 16 agentes en paralelo (uno por sistema) a partir de tarjetas cloze de AnKing. 0 preguntas descartadas por malformadas.
+> **Datos en producción (`app/data/db.js`):** [`data/anking/step1_dataset_1130q.json`](data/anking/step1_dataset_1130q.json) — 65 temas (16 sistemas de First Aid × ~4 subtemas cada uno de media), 1.130 preguntas generadas en dos tandas de workflow (16 + 46 agentes en paralelo) a partir de tarjetas cloze "normales" de AnKing (limpias, un solo hueco). 0 preguntas descartadas por malformadas en ninguna tanda.
+> Universo de tarjetas "normales" convertibles con el pipeline actual: 26.844. Quedan ~25.700 sin convertir dentro de ese universo (más ~6.500 multi-hueco y ~1.300 con imagen/audio, aparcadas para v2 — ver §7).
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
-> Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset de 320).
+> Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
 
 ---
 
