@@ -1,6 +1,6 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 2.690 preguntas**.
+> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 2.693 preguntas**.
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -207,11 +207,12 @@ Los números de la cabecera de este documento (26.844 / 25.700 / 6.500 / 1.300) 
 
 ### 10.3 Progreso de conversión
 
-- **Convertidas y en producción:** 2.690 preguntas / 65 temas (`data/anking/step1_dataset_2690q.json`, cargado en `app/data/db.js`).
+- **Convertidas y en producción:** 2.693 preguntas / 65 temas (`data/anking/step1_dataset_2693q.json`, cargado en `app/data/db.js`).
   - 1.130 de la primera fase (documentada en el resto de este plan).
-  - +1.560 de una tanda de hiperloop de agentes (2026-07-05, ver §10.5), sobre los lotes `batch_0000`–`batch_0044` (35 tarjetas/lote).
-- **Quedan por convertir: 15.500** tarjetas del universo limpio (18.189 − 2.689 ids únicos ya usados).
+  - +1.563 de una tanda de hiperloop de agentes (2026-07-05, ver §10.5), sobre los lotes `batch_0000`–`batch_0044` (35 tarjetas/lote): 1.567 generadas, 5 descartadas tras QA + validación estructural.
+- **Quedan por convertir: ~15.500** tarjetas del universo limpio (18.189 − 2.696 ids únicos usados, incluyendo los 3 descartados que se recuperaron al regenerarse — ver aviso de §10.5).
 - Ya hay **488 lotes de 35 tarjetas pre-cortados** en `data/anking/_batches_in/batch_0000.json`…`batch_0487.json` (el extractor ya se ejecutó y los cortó todos). **Los lotes `0000`–`0044` ya están procesados**; quedan `0045`–`0487` (443 lotes) listos para lanzar sin más preparación — **pero ojo:** esta carpeta está en `.gitignore` (son datos regenerables, no se suben a GitHub), así que si trabajas desde otra máquina/clon del repo no van a estar ahí — hay que regenerarlos (§10.4, paso 1).
+- ⚠️ **Cuidado al lanzar una tanda nueva con `args.startBatch`:** el 2026-07-05 se lanzó una segunda tanda con `{startBatch:45, nBatches:45}` esperando que atacara `batch_0045`-`batch_0089`, pero sus agentes reales pidieron `batch_0000`-`batch_0031` — **reprocesó lotes ya hechos en vez de nuevos** (causa no confirmada: posible problema de cómo se resolvió `args` en esa invocación de `Workflow`, no reproducido a fondo). Se perdió ~1h de tokens en trabajo redundante antes de pararla con `TaskStop`. **Antes de dar por bueno un rango nuevo, comprueba el prompt real del primer agente lanzado** (mira su transcript en `subagents/workflows/<runId>/agent-*.jsonl`, busca la ruta `batch_NNNN.json` que de verdad pidió leer) **en vez de asumir que el `args` pasado se aplicó.**
 
 ### 10.4 Receta exacta para continuar
 
@@ -243,6 +244,8 @@ Los números de la cabecera de este documento (26.844 / 25.700 / 6.500 / 1.300) 
 ### 10.5 Calidad observada en la primera tanda de hiperloop
 
 De 1.567 preguntas generadas (lotes 0-44), el agente de QA marcó **8** (0,5%) con un patrón consistente: **claves de letra desalineadas** en `e.incorrectas` (la explicación de una opción aparece bajo la letra equivocada, o falta la de una opción y sobra una con la propia letra de la respuesta correcta). El validador estructural de `tools/merge_anking_batches.py` detecta este mismo patrón automáticamente (comprueba que las claves de `incorrectas` sean exactamente las 3 letras que no son `r`). **Mantén la etapa de QA del workflow** — es barata (1 agente cada 9 lotes) y es la que atrapa este fallo de forma fiable.
+
+Nota: de esas 8, **3 se recuperaron** — la tanda accidentalmente redundante de §10.3 regeneró de cero los lotes `0010`, `0023` y (parcialmente) otros, y por azar esas 3 preguntas concretas salieron bien formadas la segunda vez, así que se readmitieron al fusionar. Las otras 5 (lotes `0036`, `0037`, `0039`, no tocados por la tanda redundante) siguen descartadas.
 
 ### 10.6 Scripts que quedan en el repo para esto
 
