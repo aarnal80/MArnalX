@@ -1,0 +1,14 @@
+# Only app/ is deployed. Everything below is source/build-time material
+# (raw datasets, source PDFs, planning docs, pipeline scripts) that the
+# static site does not need at runtime — excluded to keep deploys small.
+data/
+Examenes/
+Temario comun examenes/
+tools/
+*.md
+*.docx
+sub.json
+temas_observados.txt
+fix_grupoB.js
+split_batches.js
+.claude/

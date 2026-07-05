@@ -1,7 +1,8 @@
 /* ===================================================================
-   OPE Urgencias · Tema visual estilo Duolingo
-   Se conservan los nombres de clases y variables del original para no
-   tocar la lógica de app.js; solo cambian valores y reglas visuales.
+   USMLE Step 1 · Tema visual estilo Duolingo
+   Se conservan los nombres de clases y variables del original (heredado
+   de la app OPE Urgencias) para no tocar la lógica de app.js; solo
+   cambian valores y reglas visuales.
    =================================================================== */
 
 /* Nunito embebida (fuente variable, pesos 400–900) — 100% local/offline */
@@ -23,9 +24,9 @@
 }
 
 :root {
-  /* Verde Duolingo = color primario / marca / acciones */
-  --azul: #58CC02;        /* "primary" (verde feather) */
-  --azul-osc: #46A302;    /* sombra 3D / pulsado */
+  /* Rojo = color primario / marca / acciones */
+  --azul: #E0201E;        /* "primary" (rojo marca) */
+  --azul-osc: #B01513;    /* sombra 3D / pulsado */
   --azul-claro: #1CB0F6;  /* azul Duo (acentos secundarios) */
   --azul-claro-osc: #1899D6;
 
