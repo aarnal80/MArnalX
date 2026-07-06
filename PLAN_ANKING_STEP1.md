@@ -1,6 +1,6 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-05, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 3.728 preguntas**.
+> **Estado (2026-07-06, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 3.728 preguntas**. Explicaciones de la cohorte antigua (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7.
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -281,3 +281,24 @@ Nota: de esas 8, **3 se recuperaron** — una tanda accidentalmente redundante (
 - [`tools/anki_extract.py`](tools/anki_extract.py) — extrae del `.apkg` el universo limpio Step 1 (maneja esquema legacy y moderno de Anki, zstd, filtra Step 2/3 y multi-cloze/imagen).
 - [`tools/anking_convert.workflow.js`](tools/anking_convert.workflow.js) — workflow de conversión por lotes (generación + QA). Parámetros de la tanda como **constantes hardcodeadas al principio del fichero** (`START_BATCH`/`N_BATCHES`/`IN_DIR`/`OUT_DIR`/`QA_GROUP`/`GEN_EFFORT`) — edítalas a mano, no uses `args` de `Workflow` (no fiable, ver §10.3).
 - [`tools/merge_anking_batches.py`](tools/merge_anking_batches.py) — valida y fusiona los lotes de salida en el dataset de producción + reconstruye `app/data/db.js`. Acepta `--base <dataset.json>` y `--glob "<patrón de lotes>"` para no tener que editar el script en cada tanda.
+
+### 10.7 Corrección retroactiva de explicaciones flojas (2026-07-06)
+
+Con las 3.728 preguntas ya en producción, se detectó que la cohorte convertida con el **prompt antiguo** (fase 1 + 1ª tanda hiperloop = **2.693 preguntas**) tenía explicaciones sensiblemente más flojas que las de la 2ª/3ª tanda (prompt reforzado, **1.035 preguntas**) — media de 680 caracteres de explicación frente a 1.185 (~74% más cortas). Se hizo una pasada de **corrección retroactiva** que reescribe solo el campo `e` (no toca `q`/`o`/`r`), reutilizando el mismo pipeline de agentes en paralelo.
+
+**Herramientas nuevas** (paralelas a las de conversión, mismo patrón):
+- [`tools/anking_fix_explanations.workflow.js`](tools/anking_fix_explanations.workflow.js) — workflow de reescritura de explicaciones (fases Rewrite + QA). Mismas constantes hardcodeadas (`N_BATCHES`/`IN_DIR`/`OUT_DIR`) que `anking_convert.workflow.js`, mismo motivo (no fiar `args` de `Workflow`).
+- [`tools/merge_explanation_fixes.py`](tools/merge_explanation_fixes.py) — fusiona `e` in-place por `id`/`anki` (no añade preguntas nuevas). *Nota: en la sesión real se ejecutó una versión Node equivalente porque esta máquina no tenía Python instalado; el script `.py` queda en el repo como referencia para máquinas que sí lo tengan.*
+- [`tools/repair_batch_json.mjs`](tools/repair_batch_json.mjs) — repara un bug recurrente de los agentes: comillas literales sin escapar dentro de una explicación (p. ej. `la "luteal-placental shift"`), que rompen el JSON del lote entero si no se arreglan.
+
+**Selección de candidatos:** en vez de identificar por procedencia de lote (imposible, los datasets intermedios no se guardaron), se puntuó cada pregunta por longitud total de `e.correcta` + las 3 `e.incorrectas` — proxy que correlaciona bien con la cohorte (corte en las 500 más flojas cayó en 436 caracteres, muy por debajo de la mediana global de 828).
+
+**Resultado, en 3 tandas sucesivas (500 + 1.000 + 1.198 = 2.693, toda la cohorte vieja):**
+- Tanda 1 (500 objetivo): 500 fusionadas, 0 perdidas.
+- Tanda 2 (1.000 objetivo): 995 fusionadas; 5 perdidas (letra desalineada / contenido contradictorio marcado por QA) — se reintentaron en la tanda 3 junto con el resto.
+- Tanda 3 (1.198 objetivo = todo lo que quedaba, incluidas las 5 anteriores): 1.188 fusionadas, 10 perdidas definitivamente (9 por letra desalineada, 1 por calidad de contenido).
+- **Total: 2.683 / 2.693 corregidas (99,6%)**; 10 preguntas se quedan con su explicación original (mismo criterio de descarte que en las tandas de conversión — no merece la pena perseguir el último 0,4%).
+
+**Bug nuevo detectado en esta pasada (no documentado antes):** en la tanda 3, 17 preguntas salieron con el campo `anki` de eco **desplazado al vecino** dentro del mismo lote (el contenido de `e` era correcto para su `id`, pero el `anki` echoed pertenecía a la pregunta anterior o siguiente del lote) — se verificó caso por caso que el contenido sí correspondía al `id` declarado, y se corrigió confiando en `id` (más fiable, es la clave de búsqueda) y resincronizando `anki` contra el dataset base antes de fusionar. Si vuelve a pasar, `merge_explanation_fixes.py`/su equivalente Node ya lo detecta solo (compara `anki` esperado vs recibido) — solo falta automatizar la resincronización en vez de hacerla a mano.
+
+Tras cada tanda: `DB_HASH` en `app/sw.js` se bumpeó (`fix1` → `fix2` → `fix3`) y se verificó en preview limpiando `caches`/`serviceWorker` antes de comprobar `window.DB.preguntas.length`.
