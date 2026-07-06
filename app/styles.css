@@ -231,7 +231,10 @@ details summary { cursor: pointer; font-weight: 900; font-size: .85rem; text-tra
 .unit-banner .unit-meta { flex: 1; min-width: 0; display: flex; flex-direction: column; }
 .unit-banner .unit-label { font-size: .68rem; font-weight: 900; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,.82); }
 .unit-banner .unit-title { font-size: 1rem; font-weight: 900; }
-.unit-banner .unit-chevron { font-size: 1rem; font-weight: 900; opacity: .9; }
+.unit-banner .unit-chevron {
+  font-size: 1rem; font-weight: 900; opacity: .9;
+  padding: 10px 6px 10px 14px; margin: -10px -6px -10px 0; flex-shrink: 0;
+}
 .unit-path {
   display: flex; flex-direction: column; align-items: center; gap: 18px;
   padding: 20px 0 8px; animation: fbUp .2s ease;

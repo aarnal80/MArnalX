@@ -109,6 +109,7 @@ $$(".seg").forEach(seg => seg.addEventListener("click", ev => {
 const PF = {
   fuentes: new Set(FUENTES),
   temas: new Set(),                     // topic(s) to practice
+  unidad: null,                         // set when practicing a whole subject
   n: 25,
   falladas: false, marcadas: false, nuevas: false,
   barajar: true,
@@ -187,9 +188,8 @@ function pregPorTema() {
   }
   return _pregPorTema;
 }
-// Real stats for a topic based on history.
-function statsTema(n) {
-  const ids = pregPorTema()[n] || [];
+// Stats from a raw list of question ids (history-based).
+function statsDeIds(ids) {
   let vistas = 0, intentosTot = 0, aciertos = 0, falladas = 0;
   ids.forEach(id => {
     const a = intentos(id);
@@ -202,6 +202,17 @@ function statsTema(n) {
   const cobertura = ids.length ? vistas / ids.length : 0;
   const dominado = ids.length > 0 && cobertura >= 0.5 && acc != null && acc >= 0.7;
   return { total: ids.length, vistas, intentos: intentosTot, aciertos, falladas, acc, cobertura, dominado };
+}
+// Real stats for a topic based on history.
+function statsTema(n) {
+  return statsDeIds(pregPorTema()[n] || []);
+}
+// Aggregated stats across several topics (whole-subject practice).
+function statsConjunto(ns) {
+  const idx = pregPorTema();
+  const ids = [];
+  ns.forEach(n => (idx[n] || []).forEach(id => ids.push(id)));
+  return statsDeIds(ids);
 }
 // Color of a topic node: green if mastered, its unit color if seen, gray if unseen.
 function colorNodoTema(n) {
@@ -235,16 +246,20 @@ function pintarTemario() {
     banner.className = "unit-banner" + (abierta ? " open" : "");
     banner.style.background = pal.c;
     banner.style.boxShadow = "0 4px 0 " + pal.d;
+    // Open: left side (icon/title) launches the whole subject, chevron collapses.
+    const labelTxt = abierta ? `tap to practice all ${temasU.length} topics` : `${domU}/${temasU.length} mastered`;
     banner.innerHTML = `<span class="unit-ico">${u.icon}</span>
       <span class="unit-meta">
-        <span class="unit-label">${domU}/${temasU.length} mastered</span>
+        <span class="unit-label">${labelTxt}</span>
         <span class="unit-title">${u.title}</span>
         <span class="unit-bar"><span style="width:${pctU}%"></span></span>
       </span>
-      <span class="unit-chevron">${abierta ? "▾" : "▸"}</span>`;
-    banner.onclick = () => {
-      abierta ? PF.expandidas.delete(uid) : PF.expandidas.add(uid);
-      pintarTemario();
+      <span class="unit-chevron" role="button" aria-label="Collapse">${abierta ? "▾" : "▸"}</span>`;
+    banner.onclick = (e) => {
+      if (!abierta) { PF.expandidas.add(uid); pintarTemario(); return; }
+      // Already open: chevron collapses, anywhere else starts the whole subject.
+      if (e.target.closest(".unit-chevron")) { PF.expandidas.delete(uid); pintarTemario(); }
+      else openUnidadConfig(u);
     };
     cont.appendChild(banner);
     if (!abierta) return;
@@ -272,19 +287,35 @@ function pintarTemario() {
 // --- Topic setup screen ---
 function openTemaConfig(n) {
   PF.temas = new Set([n]);
+  PF.unidad = null;
+  verVista("temaConfig");
+}
+// Whole-subject setup: load every topic of the unit into the same screen.
+function openUnidadConfig(u) {
+  const conP = temasConPreguntas();
+  const ids = u.temas.map(t => t.n).filter(id => conP.has(id));
+  if (!ids.length) return;
+  PF.temas = new Set(ids);
+  PF.unidad = u;
   verVista("temaConfig");
 }
 function pintarTemaConfig() {
+  const enUnidad = !!PF.unidad;
   const n = [...PF.temas][0];
   const tema = TEMA[n];
-  const u = unidadDeTema(n);
+  const u = enUnidad ? PF.unidad : unidadDeTema(n);
   const pal = u ? PAL[u.color] : PAL.green;
   const hero = $("#tc-hero");
   hero.style.background = pal.c;
   hero.style.boxShadow = "0 4px 0 " + pal.d;
   $("#tc-hero-ico").textContent = u ? u.icon : "📘";
-  $("#tc-hero-label").textContent = u ? u.title : "Topic";
-  $("#tc-hero-title").textContent = tema ? tema.nombre : "";
+  if (enUnidad) {
+    $("#tc-hero-label").textContent = `Whole subject · ${PF.temas.size} topics`;
+    $("#tc-hero-title").textContent = u.title;
+  } else {
+    $("#tc-hero-label").textContent = u ? u.title : "Topic";
+    $("#tc-hero-title").textContent = tema ? tema.nombre : "";
+  }
   // source chips
   const cont = $("#tc-comunidades");
   cont.innerHTML = "";
@@ -306,7 +337,7 @@ function pintarTemaConfig() {
   $("#tc-nuevas").checked = PF.nuevas;
   $("#tc-barajar").checked = PF.barajar;
   // topic mini-stats
-  const s = statsTema(n);
+  const s = enUnidad ? statsConjunto(PF.temas) : statsTema(n);
   const accTxt = s.acc != null ? Math.round(s.acc * 100) + "%" : "—";
   const accCol = s.acc == null ? "var(--texto-suave)" : s.acc >= 0.7 ? "var(--ok)" : s.acc >= 0.5 ? "var(--aviso)" : "var(--mal)";
   $("#tc-stats").innerHTML =
