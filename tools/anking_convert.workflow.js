@@ -7,17 +7,17 @@ export const meta = {
   ],
 }
 
-const BASE = 'C:/Users/ca-urgencias/Desktop/Arnal Config/Documentos IA/USMLE_step_1/data/anking'
+const BASE = 'C:/Users/arnal/Desktop/Documentos/IA/USMLE-Step-1/data/anking'
 // NOTE: reading these from `args` proved unreliable in this environment
 // (reproduced twice: the run silently used the function defaults instead
 // of the passed args, re-processing already-done batches). Hardcode the
 // values for each run directly here instead, and double-check the very
 // first agent's actual prompt/transcript before letting a run continue.
 const START_BATCH = 0
-const N_BATCHES = 20
-const QA_GROUP = 7
-const IN_DIR = '_batches_in_v5'
-const OUT_DIR = '_batches_out_v5'
+const N_BATCHES = 10
+const QA_GROUP = 5
+const IN_DIR = '_batches_in_v6'
+const OUT_DIR = '_batches_out_v6'
 const GEN_EFFORT = 'high'
 
 const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
@@ -84,7 +84,9 @@ const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
 62. Psychology [Psychiatry]
 63. Healthcare Delivery [Public Health & Ethics]
 64. Quality & Safety [Public Health & Ethics]
-65. Communication Skills [Public Health & Ethics]`
+65. Communication Skills [Public Health & Ethics]
+66. Respiratory Pharmacology [Respiratory]
+67. Congenital Lung Malformations [Respiratory]`
 
 const EXAMPLES = `[
  {
