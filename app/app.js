@@ -315,10 +315,15 @@ function pintarTemaConfig() {
   const n = [...PF.temas][0];
   const tema = TEMA[n];
   const u = enUnidad ? PF.unidad : unidadDeTema(n);
-  const pal = PF.todo ? PAL.blue : (u ? PAL[u.color] : PAL.green);
+  const pal = u ? PAL[u.color] : PAL.green;
   const hero = $("#tc-hero");
-  hero.style.background = pal.c;
-  hero.style.boxShadow = "0 4px 0 " + pal.d;
+  if (PF.todo) {
+    hero.style.background = "var(--azul)";
+    hero.style.boxShadow = "0 4px 0 var(--azul-osc)";
+  } else {
+    hero.style.background = pal.c;
+    hero.style.boxShadow = "0 4px 0 " + pal.d;
+  }
   if (PF.todo) {
     $("#tc-hero-ico").textContent = "📚";
     $("#tc-hero-label").textContent = "Whole question bank";
