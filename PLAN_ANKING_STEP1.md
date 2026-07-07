@@ -1,6 +1,6 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-07, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **107 temas / 3.847 preguntas / 2 fuentes** (AnKing + cuadernillo oficial NBME/FSMB). Explicaciones de la cohorte antigua de AnKing (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7. Esquema ampliado para soportar opciones de longitud variable (hasta G) e imágenes en el enunciado — ver §11.
+> **Estado (2026-07-07, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **107 temas / 4.841 preguntas / 2 fuentes** (AnKing + cuadernillo oficial NBME/FSMB). Explicaciones de la cohorte antigua de AnKing (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7. Esquema ampliado para soportar opciones de longitud variable (hasta G) e imágenes en el enunciado — ver §11. Nuevas features de práctica: "Practice all subjects" (sin filtro de tema) y filtro "solo preguntas con imagen" en Advanced Options — ver §12. Quedan **~13.468** tarjetas limpias de AnKing por convertir (18.189 − 4.721 ya usadas).
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -350,3 +350,29 @@ Probado en preview con datos reales (no sintéticos): pregunta con 7 opciones + 
 - [`data/anking/_official_items_final.json`](data/anking/_official_items_final.json) — checkpoint verificado de la extracción (119 ítems con stem/opciones/respuesta/imagen ya correctos tras las correcciones manuales). Se conserva en el repo porque regenerarlo exige repetir la verificación visual manual de las 21 imágenes.
 - [`tools/nbme_official_convert.workflow.js`](tools/nbme_official_convert.workflow.js) — workflow de generación de explicaciones + clasificación de tema.
 - `app/img/official/` — las 21 imágenes de preguntas, con nombre `official-NNN.ext`.
+
+---
+
+## 12. Cuarta tanda de conversión AnKing (1.000 preguntas) + mejoras de práctica (2026-07-07)
+
+### 12.1 Conversión
+
+Misma receta de siempre (§10.4): recalculado lo que faltaba sobre `_raw_all.json` (18.189 universo limpio) menos los `anki` ya usados en el dataset de producción, cortado en `_batches_in_v4` (40 lotes de 25), lanzado `tools/anking_convert.workflow.js` (BASE actualizado a la ruta de esta máquina, ya no la de casa).
+
+- **40/40 lotes generados**, pero **1 lote (`batch_0027`) se perdió por el mismo error transitorio de la API** (`Overloaded`) que ya pasó con la tanda NBME — el workflow reportó éxito pero el fichero no existía en disco. Ya es un patrón recurrente: **verificar siempre con un script que los ficheros de `_batches_out*` existen de verdad y parsean, no fiarse del resumen que devuelve `Workflow`.** Se regeneró con un agente suelto.
+- Fusión: **994 / 997 aceptadas** (3 rechazadas: 2 por texto de opción duplicado, 1 por desalineación de letras en `incorrectas` — mismo perfil de error de siempre, se descartan sin más).
+- **Total tras esta tanda: 4.841 preguntas / 107 temas.** Quedan **~13.468** tarjetas limpias de AnKing por convertir.
+- **Bug de entorno nuevo (no relacionado con el contenido):** `Workflow({scriptPath})` falló dos veces seguidas con `"script contains control characters that would be hidden in the approval dialog"` al intentar lanzar `anking_convert.workflow.js`. Causa: el fichero tenía finales de línea **CRLF** (`\r\n`) — el diálogo de aprobación del harness trata el `\r` suelto como carácter de control oculto y rechaza el script. **Solución: normalizar el fichero a LF** (`content.replace(/\r\n/g, '\n')`) antes de lanzar `Workflow`. Si un workflow se edita en Windows y vuelve a fallar con este mismo mensaje, es casi seguro esto.
+
+### 12.2 Nuevas features de práctica (sin relación con el pipeline de datos)
+
+A petición del usuario, dos añadidos a la pantalla de configuración de práctica (`pintarTemaConfig()` / estado `PF` en `app.js`):
+
+- **"📚 Practice all subjects"** — botón nuevo en la pantalla "Subjects" (`#btn-practicar-todo`), abre la misma pantalla de configuración (selector de fuentes, número de preguntas, opciones avanzadas) pero con `PF.temas` vacío (sin filtro de tema) y un flag nuevo `PF.todo = true` que cambia la cabecera a "Whole question bank / All subjects". `poolPractica()` ya soportaba de forma nativa "sin filtro de tema" cuando `PF.temas.size === 0`, así que no hizo falta tocar la función de filtrado para esto.
+- **Filtro "Only questions with an image"** — nuevo checkbox en "Advanced options" (`#tc-solo-imagen` → `PF.soloImagen`), añadido a `poolPractica()` como una línea más de filtro (`if (opts.soloImagen && !q.img) return false;`). Nota: este filtro y el modo "Test block" (`SIMF`/`poolSimulacro()`) usan estado y funciones de pool **separadas** de `PF`/`poolPractica()` — si se quiere el mismo filtro ahí, hay que duplicarlo.
+- Ambas verificadas en preview con datos reales (no sintéticos): "Practice all subjects" mostró "2 sources · 3847 questions available" (antes de la tanda de conversión); el filtro de imagen redujo el pool exactamente a 21 (las mismas 21 preguntas con imagen del cuadernillo NBME).
+
+### 12.3 Otros cambios pequeños de esta sesión
+
+- **Nombres de fuentes acortados** para que quepan mejor en los chips de la UI: "AnKing Overhaul — Step 1 (v11)" → **"AnKing"**, "USMLE Step 1 Sample Test Questions (NBME/FSMB)" → **"USMLE Sample 2026"**. Solo cambia `fuentes[].nombre`; `descripcion`/`licencia` se conservan con el detalle completo.
+- **Mensaje final de práctica escalonado por nota** (antes siempre "Nice work!" si ≥60%, "Keep going!" si no): ahora ≥70% → 🎉 "Nice work!" (verde), 50-69% → 📚 "Keep studying!" (naranja), &lt;50% → 💪 "That was a tough one" (rojo). Ver `pintarResultado()` en `app.js`.

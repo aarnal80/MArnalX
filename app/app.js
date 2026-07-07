@@ -110,8 +110,9 @@ const PF = {
   fuentes: new Set(FUENTES),
   temas: new Set(),                     // topic(s) to practice
   unidad: null,                         // set when practicing a whole subject
+  todo: false,                          // set when practicing across every subject
   n: 25,
-  falladas: false, marcadas: false, nuevas: false,
+  falladas: false, marcadas: false, nuevas: false, soloImagen: false,
   barajar: true,
   expandidas: new Set()                 // expanded units (accordion)
 };
@@ -172,6 +173,7 @@ function poolPractica(opts = PF) {
     if (opts.falladas && !fallada(q.id)) return false;
     if (opts.marcadas && !estaMarcada(q.id)) return false;
     if (opts.nuevas && vista(q.id)) return false;
+    if (opts.soloImagen && !q.img) return false;
     return true;
   });
 }
@@ -288,6 +290,7 @@ function pintarTemario() {
 function openTemaConfig(n) {
   PF.temas = new Set([n]);
   PF.unidad = null;
+  PF.todo = false;
   verVista("temaConfig");
 }
 // Whole-subject setup: load every topic of the unit into the same screen.
@@ -297,6 +300,14 @@ function openUnidadConfig(u) {
   if (!ids.length) return;
   PF.temas = new Set(ids);
   PF.unidad = u;
+  PF.todo = false;
+  verVista("temaConfig");
+}
+// All-subjects setup: no topic filter at all, every source available.
+function openTodoConfig() {
+  PF.temas = new Set();
+  PF.unidad = null;
+  PF.todo = true;
   verVista("temaConfig");
 }
 function pintarTemaConfig() {
@@ -304,17 +315,23 @@ function pintarTemaConfig() {
   const n = [...PF.temas][0];
   const tema = TEMA[n];
   const u = enUnidad ? PF.unidad : unidadDeTema(n);
-  const pal = u ? PAL[u.color] : PAL.green;
+  const pal = PF.todo ? PAL.blue : (u ? PAL[u.color] : PAL.green);
   const hero = $("#tc-hero");
   hero.style.background = pal.c;
   hero.style.boxShadow = "0 4px 0 " + pal.d;
-  $("#tc-hero-ico").textContent = u ? u.icon : "📘";
-  if (enUnidad) {
-    $("#tc-hero-label").textContent = `Whole subject · ${PF.temas.size} topics`;
-    $("#tc-hero-title").textContent = u.title;
+  if (PF.todo) {
+    $("#tc-hero-ico").textContent = "📚";
+    $("#tc-hero-label").textContent = "Whole question bank";
+    $("#tc-hero-title").textContent = "All subjects";
   } else {
-    $("#tc-hero-label").textContent = u ? u.title : "Topic";
-    $("#tc-hero-title").textContent = tema ? tema.nombre : "";
+    $("#tc-hero-ico").textContent = u ? u.icon : "📘";
+    if (enUnidad) {
+      $("#tc-hero-label").textContent = `Whole subject · ${PF.temas.size} topics`;
+      $("#tc-hero-title").textContent = u.title;
+    } else {
+      $("#tc-hero-label").textContent = u ? u.title : "Topic";
+      $("#tc-hero-title").textContent = tema ? tema.nombre : "";
+    }
   }
   // source chips
   const cont = $("#tc-comunidades");
@@ -334,10 +351,10 @@ function pintarTemaConfig() {
   $$("#tc-n button").forEach(b => b.classList.toggle("on", parseInt(b.dataset.v) === PF.n));
   // advanced options reflect state
   $("#tc-falladas").checked = PF.falladas; $("#tc-marcadas").checked = PF.marcadas;
-  $("#tc-nuevas").checked = PF.nuevas;
+  $("#tc-nuevas").checked = PF.nuevas; $("#tc-solo-imagen").checked = PF.soloImagen;
   $("#tc-barajar").checked = PF.barajar;
   // topic mini-stats
-  const s = enUnidad ? statsConjunto(PF.temas) : statsTema(n);
+  const s = PF.todo ? statsDeIds(DB.preguntas.map(q => q.id)) : (enUnidad ? statsConjunto(PF.temas) : statsTema(n));
   const accTxt = s.acc != null ? Math.round(s.acc * 100) + "%" : "—";
   const accCol = s.acc == null ? "var(--texto-suave)" : s.acc >= 0.7 ? "var(--ok)" : s.acc >= 0.5 ? "var(--aviso)" : "var(--mal)";
   $("#tc-stats").innerHTML =
@@ -354,13 +371,14 @@ function actualizarTCPool() {
 }
 function initTemaConfig() {
   $("#tc-back").onclick = () => verVista("practica");
+  $("#btn-practicar-todo").onclick = openTodoConfig;
   $("#tc-todas").onclick = () => { PF.fuentes = new Set(FUENTES); pintarTemaConfig(); };
   $$("#tc-n button").forEach(b => b.onclick = () => {
     PF.n = parseInt(b.dataset.v);
     $$("#tc-n button").forEach(x => x.classList.remove("on"));
     b.classList.add("on"); actualizarTCPool();
   });
-  const map = { "tc-falladas": "falladas", "tc-marcadas": "marcadas", "tc-nuevas": "nuevas", "tc-barajar": "barajar" };
+  const map = { "tc-falladas": "falladas", "tc-marcadas": "marcadas", "tc-nuevas": "nuevas", "tc-solo-imagen": "soloImagen", "tc-barajar": "barajar" };
   Object.keys(map).forEach(id => $("#" + id).addEventListener("change", e => {
     PF[map[id]] = e.target.checked; actualizarTCPool();
   }));
@@ -702,15 +720,21 @@ let _resultadoVolver = "inicio";
 function pintarResultado(r) {
   const soloRev = !!r.soloRevision;
   _resultadoVolver = r.volver || (QUIZ.modo === "simulacro" ? "simulacro" : "practica");
-  // Celebratory header (not in review-only mode)
-  const aprobado = r.nota == null || r.nota >= 60;
+  // Celebratory / encouraging header (not in review-only mode), tiered by score
+  const nota = r.nota;
+  let emoji = "🎉", titulo = "Nice work!", color = "var(--ok)";
+  if (nota != null) {
+    if (nota >= 70) { emoji = "🎉"; titulo = "Nice work!"; color = "var(--ok)"; }
+    else if (nota >= 50) { emoji = "📚"; titulo = "Keep studying!"; color = "var(--aviso)"; }
+    else { emoji = "💪"; titulo = "That was a tough one"; color = "var(--mal)"; }
+  }
   const hero = $("#resultado-hero");
   if (hero) {
     if (soloRev) { hero.classList.add("hidden"); hero.innerHTML = ""; }
     else {
       hero.classList.remove("hidden");
-      hero.innerHTML = `<div class="res-emoji">${aprobado ? "🎉" : "💪"}</div>
-        <div class="res-titulo" style="color:${aprobado ? "var(--aviso)" : "var(--azul-claro)"}">${aprobado ? "Nice work!" : "Keep going!"}</div>
+      hero.innerHTML = `<div class="res-emoji">${emoji}</div>
+        <div class="res-titulo" style="color:${color}">${titulo}</div>
         <div class="res-sub">You got ${r.aciertos} of ${r.n} questions right</div>`;
     }
   }
