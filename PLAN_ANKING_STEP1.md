@@ -1,6 +1,7 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-07, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **114 temas / 5.332 preguntas / 2 fuentes** (AnKing + cuadernillo oficial NBME/FSMB). Explicaciones de la cohorte antigua de AnKing (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7. Esquema ampliado para soportar opciones de longitud variable (hasta G) e imágenes en el enunciado — ver §11. Nuevas features de práctica: "Practice all subjects" (sin filtro de tema) y filtro "solo preguntas con imagen" en Advanced Options — ver §12. Quedan **~12.977** tarjetas limpias de AnKing por convertir (18.189 − 5.212 ya usadas).
+> **Estado (2026-07-07, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **114 temas / 5.382 preguntas / 2 fuentes** (AnKing + cuadernillo oficial NBME/FSMB), de las cuales **71 llevan imagen** (21 del cuadernillo NBME + 50 de una tanda piloto de AnKing "con imagen" — ver §13). Explicaciones de la cohorte antigua de AnKing (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7. Esquema ampliado para soportar opciones de longitud variable (hasta G) e imágenes en el enunciado — ver §11. Nuevas features de práctica: "Practice all subjects" (sin filtro de tema) y filtro "solo preguntas con imagen" en Advanced Options — ver §12. Quedan **~12.977** tarjetas limpias de AnKing (universo de solo texto) por convertir (18.189 − 5.212 ya usadas), más el universo de imagen/audio tratado en §13.
+> ⚠️ **El `.apkg` usado a partir del 2026-07-07 NO es el mismo fichero que el documentado en §10.1-10.2.** Ver §13.1 — notetype distinto (`Cloze-AnKingMaster` en vez de `AnKingOverhaul`), tags sin `_v11`/`#FirstAid::`, y **menos notas en total** (22.878 vs 34.638). Los números de §10.2 corresponden al `.apkg` viejo; no se han vuelto a verificar sobre el nuevo.
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -381,3 +382,55 @@ A petición del usuario, dos añadidos a la pantalla de configuración de práct
 ### 12.4 Quinta tanda de conversión AnKing (500 preguntas, 2026-07-07)
 
 Misma receta de §12.1: **491 / 498 aceptadas** (7 rechazadas: 3+2 por desalineación de letras en `incorrectas`, 2 por texto de opción duplicado). Total: **5.332 preguntas / 114 temas**. Quedan **~12.977** tarjetas limpias de AnKing por convertir. Sin incidencias nuevas de pipeline (los 20 lotes se escribieron y parsearon a la primera).
+
+---
+
+## 13. Tanda piloto "con imagen/audio" (2026-07-07)
+
+Primer intento de atacar el universo de tarjetas AnKing que llevan imagen o audio en el enunciado (aparcado desde §2/§4 como "1.312 notas, pospuesto a v2"). Se hizo como **prueba piloto de 64 preguntas** antes de comprometerse a una tanda completa, a petición del usuario ("para ver cómo quedan").
+
+### 13.1 El `.apkg` de esta sesión no es el de §10.1
+
+El usuario añadió un `Anking_Step-1.apkg` nuevo a la raíz del repo (250 MB — se renombró desde `ANKIng_.apkg` para que coincidiera con el patrón ya excluido en `.gitignore`). Al inspeccionarlo con `tools/anki_extract_media.py` resultó ser **una exportación distinta** del mazo AnKing a la documentada en §10.1-10.2:
+
+| | `.apkg` viejo (§10.1) | `.apkg` de esta sesión |
+|---|---|---|
+| Notetype | `AnKingOverhaul` | `Cloze-AnKingMaster` |
+| Notas totales | 34.638 | 22.878 |
+| Esquema de tags | `#AK_Step1_v11::#FirstAid::NN_Sistema::NN_Subtema` | `#AK_Step1::Sistema::Subtema` (sin versión, sin capa `#FirstAid::`) |
+
+El usuario confirmó que cree que es el mazo correcto ("yo creo que es la misma"), así que se adaptó la extracción al nuevo esquema de tags en vez de bloquear. **Si se retoma el universo de solo-texto de §10 con este fichero, los números de §10.2 (34.638/25.949/24.177/18.189...) no aplican** — habría que re-extraer y re-contar desde cero con el nuevo esquema de tags (`tools/anki_extract.py` también necesitaría el mismo ajuste que se le hizo a `anki_extract_media.py`, ver más abajo).
+
+### 13.2 Extracción: bug de multimedia faltante en el export
+
+`tools/anki_extract_media.py` (nuevo, variante de `anki_extract.py` para el subconjunto con imagen/audio) extrae notas cloze de un solo hueco **con** `<img>`/`[sound:]` en el campo `Text`, y copia el fichero multimedia referenciado resolviendo el manifiesto `media` del `.apkg` (índice numérico → nombre real).
+
+Hallazgo importante: de los candidatos con imagen/audio + un solo cloze + tag `#AK_Step1` (~428), **solo 66 tenían su fichero multimedia realmente presente** en el paquete `media` de este `.apkg` — el resto (362, incluidas **las 23 notas de audio de sonidos cardíacos "University of Michigan Heart Sound and Murmur Library" y su imagen genérica compartida**) referencian ficheros que faltan por completo en el export. **No se pudo generar ninguna pregunta de audio en esta pasada** — si se quiere ese contenido, hay que conseguir un `.apkg`/paquete de medios que sí incluya esos ficheros (probablemente un export con "incluir media" mal configurado, o un add-on de audio distribuido aparte).
+
+De las 66 con imagen resuelta, se descartaron 2 más por ser tarjetas "resumen visual" sin respuesta real (cloze relleno con un emoji `:)`, ej. "Actions of Thyroid Hormone Summary: No answer") — quedaron **64 utilizables**. Un sub-caso interesante detectado: **5 notas tienen la respuesta correcta *dentro* de la imagen** (`{{c1::<img src="...">}}`, ej. "According to Fick's law... {{c1::}}" con la fórmula solo en la imagen) — el extractor las marca con `_answer_in_image: true` para que el agente generador sepa que debe leer la imagen para determinar la respuesta, no solo para dar contexto.
+
+### 13.3 Generación: agentes con lectura real de imagen
+
+A diferencia del pipeline de solo texto, aquí cada agente generador tuvo que **leer de verdad el fichero de imagen** (herramienta `Read`, que soporta imágenes) antes de escribir la pregunta — el enunciado, la respuesta correcta y los distractores dependen de lo que la imagen muestra realmente (foto de pieza quirúrgica, ECG, corte histológico, diagrama anatómico etiquetado, angiografía...). Se lanzaron 8 agentes en paralelo (lotes de 8, vía `Agent` normal — **no** se usó la herramienta `Workflow`, al no haber opt-in explícito del usuario para orquestación multiagente) más una segunda ronda de 4 agentes de QA que también releen cada imagen para verificar que la pregunta encaja con lo mostrado.
+
+**Bug de formato nuevo detectado:** un lote (8/64 preguntas) escribió `e.B`/`e.C`/`e.D` como claves sueltas dentro de `e` en vez de anidarlas en `e.incorrectas.{letra}` — el propio agente reportó en su resumen final que "incorrectas cubre las otras 3 letras" cuando en realidad 7 de sus 8 preguntas no lo hacían. **Lección reforzada:** no fiarse del resumen que da el agente, validar siempre la estructura del JSON de salida por código (igual que ya advertía §11.4/§12.1 sobre no fiarse del recuento de `Workflow`). Se corrigió con un script de 10 líneas moviendo las claves sueltas a `incorrectas` — el contenido en sí era correcto, solo la forma del JSON estaba mal.
+
+### 13.4 QA: tasa de descarte mucho más alta que en texto
+
+**14 de 64 marcadas por QA (22%)**, muy por encima del ~0,5-1,5% típico de las tandas de solo texto (§10.5). Patrones de fallo reales, más allá del bug de formato de §13.3:
+
+- **2 preguntas** sobre una imagen que en realidad era solo un fragmento de texto recortado (sin contenido visual real) — falso positivo del filtro "tiene `<img>`" del extractor.
+- **5 preguntas** construidas sobre un diagrama base compartido por varias tarjetas (cortes de tronco encefálico, mapa de la corteza cerebral) donde una flechita genérica "ID" señala una posición entre varias estructuras densamente agrupadas — el agente generador no pudo determinar con fiabilidad a cuál de las estructuras cercanas apunta cada tarjeta individual, y en al menos 2 casos dos tarjetas "hermanas" sobre el mismo dibujo dieron respuestas mutuamente excluyentes.
+- **1 pregunta** con las explicaciones de dos opciones intercambiadas entre sí (bug de contenido, no de formato).
+- **1 pregunta** de fórmula (`_answer_in_image`) donde la imagen no reflejaba fielmente lo que pedía el enunciado.
+- Resto: dudas puntuales de correspondencia imagen↔respuesta.
+
+**Conclusión para retomar esto:** antes de lanzar una tanda grande, el extractor debería (a) descartar imágenes por debajo de un tamaño mínimo (los casos de "solo texto recortado" eran de ~20-60px de alto) y (b) detectar y agrupar notas que comparten el mismo fichero de imagen base, para poder decidir explícitamente si generarlas todas juntas (dándole al agente las N preguntas hermanas a la vez, no una por una) o descartar el patrón entero.
+
+### 13.5 Fusión a producción
+
+Las 50 preguntas limpias se fusionaron con `tools/merge_anking_batches.py` (parcheado para conservar el campo `img` en el objeto final — antes solo lo llevaban las preguntas del cuadernillo NBME, añadidas a mano). Total tras esta pasada: **5.382 preguntas / 114 temas / 71 con imagen**. `DB_HASH` bumpeado a `step1-5382q-img-trial`. Verificado en preview: `window.DB.preguntas.length === 5382`, el filtro "Only questions with an image" + "All sources" muestra "71 questions available", y una pregunta real (Fick's law, `_answer_in_image`) renderiza su imagen y corrige correctamente.
+
+Ficheros de esta pasada conservados en el repo como checkpoint (el resto — lotes crudos, QA — está en `.gitignore`, regenerable repitiendo el proceso): [`data/anking/_media_trial_clean_50q.json`](data/anking/_media_trial_clean_50q.json), [`data/anking/_media_trial_dropped_14q.json`](data/anking/_media_trial_dropped_14q.json) (las 14 descartadas, con motivo de QA — útil para no repetir los mismos errores), [`data/anking/_media_trial_merged_64q.json`](data/anking/_media_trial_merged_64q.json) (las 64 antes de filtrar). Script nuevo: [`tools/anki_extract_media.py`](tools/anki_extract_media.py).
+
+**Pendiente si se continúa (siguiente paso acordado con el usuario):** refinar el extractor con los dos filtros de §13.4 (tamaño mínimo de imagen, agrupación de diagramas compartidos) y repetir sobre el universo completo de imagen, con el objetivo de que **todas** las tarjetas candidatas acaben saliendo (no conformarse con el 78% de aprobación de esta prueba). El problema del audio (§13.2) sigue sin resolver — requiere localizar los ficheros de media que faltan en el `.apkg` actual.

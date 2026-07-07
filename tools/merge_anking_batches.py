@@ -67,6 +67,10 @@ def validate(q, seen_anki):
     stem = q.get("q", "")
     if "{{c" in stem or "}}" in stem:
         errs.append("cloze artifact leaked into q")
+    if q.get("img"):
+        img_path = os.path.join(ROOT, "app", q["img"])
+        if not os.path.exists(img_path):
+            errs.append(f"img file not found: {q['img']}")
     return errs
 
 def main():
@@ -85,7 +89,7 @@ def main():
     temas = current["temas"]
     name_to_id = {t["nombre"].strip().lower(): t["id"] for t in temas}
     next_tema_id = max(t["id"] for t in temas) + 1
-    seen_anki = set(q["anki"] for q in current["preguntas"])
+    seen_anki = set(q["anki"] for q in current["preguntas"] if q.get("anki"))
 
     batch_files = sorted(glob.glob(glob_pattern))
     print(f"Base: {base_path} ({len(current['preguntas'])} preguntas ya dentro)")
@@ -127,7 +131,7 @@ def main():
 
             idx = len(current["preguntas"]) + len(accepted) + 1
             slug = re.sub(r"[^a-z0-9]+", "-", tema_nombre.lower()).strip("-")
-            accepted.append({
+            item = {
                 "id": f"anking-{slug}-{idx:04d}",
                 "fuente": "anking",
                 "tema": tema_id,
@@ -136,7 +140,10 @@ def main():
                 "o": q["o"],
                 "r": q["r"],
                 "e": q["e"],
-            })
+            }
+            if q.get("img"):
+                item["img"] = q["img"]
+            accepted.append(item)
 
     print(f"Aceptadas: {len(accepted)}")
     print(f"Rechazadas: {len(rejected)}")

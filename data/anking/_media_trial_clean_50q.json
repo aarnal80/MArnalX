@@ -1,0 +1,1102 @@
+[
+ {
+  "anki": "1463339998840",
+  "tema_nombre": "Reproductive System Pathology",
+  "q": "A 28-year-old man undergoes orchiectomy for a testicular mass. The cut surface of the resected testis is shown in the image, revealing a homogeneous, fleshy, tan-white mass with no grossly visible hemorrhage or necrosis. Which testicular germ cell tumor is most consistent with this gross appearance?",
+  "o": {
+   "A": "Embryonal carcinoma",
+   "B": "Choriocarcinoma",
+   "C": "Seminoma",
+   "D": "Yolk sac tumor"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0001.jpg",
+  "e": {
+   "correcta": "Seminoma is the most common testicular germ cell tumor and classically presents grossly as a well-circumscribed, homogeneous, lobulated, tan-to-cream colored mass, exactly as depicted in the image, without the hemorrhage or necrosis typically seen in other germ cell tumors. Histologically it is composed of sheets of large cells with clear cytoplasm and central nuclei, resembling primordial germ cells, and it is exquisitely radiosensitive with an excellent prognosis. The lack of hemorrhagic or necrotic change reflects its relatively slow, uniform growth pattern compared to non-seminomatous tumors.",
+   "incorrectas": {
+    "A": "Embryonal carcinoma is typically a more aggressive, poorly marginated mass with prominent areas of hemorrhage and necrosis on gross examination, reflecting its rapid growth and tendency for early hematogenous spread, which contrasts with the clean, homogeneous cut surface shown here.",
+    "B": "Choriocarcinoma is notorious for extensive hemorrhage and necrosis grossly because the malignant syncytiotrophoblasts invade vessels early, causing widespread bleeding within the tumor; this is inconsistent with the bland, uniform appearance in the image.",
+    "D": "Yolk sac tumor (the most common testicular tumor in infants and young children) often shows a variegated, mucinous, and sometimes hemorrhagic cut surface with cystic spaces, unlike the homogeneous mass depicted."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1472147826598",
+  "tema_nombre": "Cardiovascular Physiology",
+  "q": "The ECG tracing shown demonstrates an irregularly irregular rhythm with variable RR intervals and an undulating baseline without discrete P waves. Which arrhythmia does this represent?",
+  "o": {
+   "A": "Atrial flutter",
+   "B": "Atrial fibrillation",
+   "C": "Multifocal atrial tachycardia",
+   "D": "Ventricular fibrillation"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0004.jpg",
+  "e": {
+   "correcta": "Atrial fibrillation results from chaotic, disorganized re-entrant electrical activity throughout the atria, producing a fibrillating baseline with no organized P waves and an irregularly irregular ventricular response because the AV node conducts impulses unpredictably. This matches the image, which explicitly shows unequal RR intervals (RR1 ≠ RR2 ≠ RR3 ≠ RR4) and an irregular baseline with absent P waves. It is the most common sustained arrhythmia and carries a significant stroke risk from atrial thrombus formation, particularly in the left atrial appendage.",
+   "incorrectas": {
+    "A": "Atrial flutter produces a regular, organized \"sawtooth\" pattern of flutter waves from a single re-entrant circuit (typically in the right atrium), with a regular or fixed-ratio ventricular response, unlike the irregularly irregular pattern and absent organized waves shown here.",
+    "C": "Multifocal atrial tachycardia shows an irregular rhythm but with visible P waves of at least three different morphologies (reflecting multiple ectopic atrial pacemakers), which is distinct from the absent P waves and fibrillatory baseline seen in this tracing.",
+    "D": "Ventricular fibrillation shows a completely chaotic waveform with no identifiable QRS complexes at all, representing a pulseless, life-threatening rhythm; this tracing still shows discernible (if irregular) QRS complexes, indicating organized ventricular depolarization is occurring."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1472147847318",
+  "tema_nombre": "Cardiovascular Physiology",
+  "q": "An ECG obtained from a pulseless, unresponsive patient shows a completely chaotic waveform with no discernible QRS complexes, P waves, or organized rhythm, as depicted in the tracing. What is this rhythm?",
+  "o": {
+   "A": "Torsades de pointes",
+   "B": "Pulseless electrical activity",
+   "C": "Ventricular fibrillation",
+   "D": "Asystole"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0005.jpg",
+  "e": {
+   "correcta": "Ventricular fibrillation occurs when the ventricles depolarize in a completely disorganized, chaotic fashion from multiple simultaneous re-entrant wavelets, producing an erratic, irregular waveform with no identifiable QRS complexes, as shown in the image labeled \"no discernible rhythm.\" This rhythm generates no effective cardiac output and is immediately life-threatening, requiring emergent defibrillation to terminate the chaotic electrical activity and allow a coordinated rhythm to resume.",
+   "incorrectas": {
+    "A": "Torsades de pointes is a form of polymorphic ventricular tachycardia with a characteristic sinusoidal \"twisting\" QRS axis around the baseline, typically associated with QT prolongation; it retains an organized, undulating pattern rather than the totally chaotic tracing shown here.",
+    "B": "Pulseless electrical activity refers to organized, recognizable electrical activity (a QRS complex is present on the monitor) without a corresponding palpable pulse or mechanical contraction, which is different from having no organized electrical waveform at all.",
+    "D": "Asystole appears as a flat line with no electrical activity whatsoever, essentially the absence of any waveform, which is the opposite of the chaotic, high-amplitude erratic tracing depicted in this image."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1473368940054",
+  "tema_nombre": "Respiratory Physiology",
+  "q": "According to Fick's law of diffusion, the rate of diffusion of a gas across the alveolar-capillary membrane (V̇gas) is proportional to which of the following relationships, as depicted in the image?",
+  "o": {
+   "A": "V̇gas = (A x ΔP) / (D x Δx)",
+   "B": "V̇gas = (D x A x ΔP) / Δx",
+   "C": "V̇gas = (D x Δx) / (A x ΔP)",
+   "D": "V̇gas = (D x ΔP) / (A x Δx)"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0006.jpg",
+  "e": {
+   "correcta": "The image shows Fick's law of diffusion for gas exchange: V̇x = (D x A x ΔP) / Δx, where D is the diffusion coefficient of the gas, A is the surface area available for diffusion, ΔP is the partial pressure gradient driving diffusion, and Δx is the thickness of the diffusion barrier (e.g., the alveolar-capillary membrane). This relationship explains why diseases that reduce surface area (emphysema) or increase membrane thickness (pulmonary fibrosis, pulmonary edema) impair gas exchange, while a larger pressure gradient or higher diffusing capacity increases the rate of gas transfer.",
+   "incorrectas": {
+    "A": "Placing D and Δx in the denominator while A and ΔP are in the numerator inverts the correct relationship — a thicker membrane (larger Δx) should decrease diffusion, and a higher diffusion coefficient (D) should increase it, but this formula implies the opposite for both.",
+    "C": "This option puts the entire correct numerator and denominator terms on the wrong sides, implying that increasing surface area or pressure gradient would decrease diffusion, which contradicts the physiology of gas exchange.",
+    "D": "Omitting surface area (A) from the numerator misrepresents Fick's law; a larger alveolar surface area (as is lost in emphysema) is a critical determinant of diffusing capacity and must appear multiplying D and ΔP, not be left out."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1479267369344",
+  "tema_nombre": "Hematology & Oncology Anatomy",
+  "q": "The peripheral blood smear shown demonstrates a leukocyte with a multilobed (3-5 lobe) nucleus connected by thin chromatin strands and pale, finely granular cytoplasm. Which cell type is depicted?",
+  "o": {
+   "A": "Eosinophil",
+   "B": "Band cell",
+   "C": "Monocyte",
+   "D": "Neutrophil"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0007.jpg",
+  "e": {
+   "correcta": "The neutrophil is the most abundant circulating leukocyte and is identified by its characteristic multilobed (typically 3-5 lobes) nucleus joined by thin chromatin filaments, along with pale cytoplasm containing fine, neutral-staining (neither strongly acidophilic nor basophilic) specific granules, exactly as seen in the image. Neutrophils are the first responders in acute inflammation and bacterial infection, migrating to sites of tissue damage via chemotaxis and performing phagocytosis.",
+   "incorrectas": {
+    "A": "Eosinophils have a characteristic bilobed nucleus and cytoplasm packed with large, uniform, bright red-orange (eosinophilic) granules, which would give the cell a much redder, coarser granular appearance than the pale cytoplasm and multilobed nucleus shown here.",
+    "B": "A band cell (immature neutrophil) has a horseshoe-shaped or curved, unsegmented nucleus without the distinct lobulation seen in this image, reflecting its earlier stage of maturation before the nucleus fully segments.",
+    "C": "Monocytes are larger cells with an abundant gray-blue cytoplasm and a single kidney bean-shaped or folded (not multilobed) nucleus, lacking the segmented, multilobed nuclear morphology characteristic of the mature neutrophil shown."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480549863644",
+  "tema_nombre": "Neurology & Special Senses Pathology",
+  "q": "The cross-sectional spinal cord diagram shown highlights bilateral involvement of the anterior (ventral) horns. A viral infection with tropism for the motor neurons in this region, causing flaccid asymmetric paralysis, is most consistent with which pathogen?",
+  "o": {
+   "A": "Poliovirus",
+   "B": "Varicella-zoster virus",
+   "C": "Herpes simplex virus",
+   "D": "Rabies virus"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0008.jpg",
+  "e": {
+   "correcta": "Poliovirus is a picornavirus that selectively infects and destroys the lower motor neurons (anterior horn cells) of the spinal cord, exactly the region highlighted bilaterally in the image, producing asymmetric flaccid paralysis with muscle atrophy, hyporeflexia, and fasciculations but preserved sensation since only motor neurons are affected. This selective anterior horn destruction is the pathologic hallmark of poliomyelitis and distinguishes it from disorders affecting other spinal cord tracts.",
+   "incorrectas": {
+    "B": "Varicella-zoster virus reactivates from dorsal root ganglia, producing a painful dermatomal vesicular rash (shingles) due to sensory nerve involvement, not destruction of the anterior motor horns.",
+    "C": "Herpes simplex virus classically causes temporal lobe encephalitis (HSV-1) or neonatal/genital infections (HSV-2), not a selective anterior horn myelitis; its neurotropism is directed at cortical and limbic structures via the trigeminal or olfactory pathways.",
+    "D": "Rabies virus travels retrogradely along peripheral nerves to reach the brain, causing a diffuse encephalitis (with classic Negri bodies in neurons, especially hippocampal and Purkinje cells), rather than a localized process confined to the spinal anterior horns."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480549936604",
+  "tema_nombre": "Neurology & Special Senses Pathology",
+  "q": "A newborn presents with severe hypotonia ('floppy baby'), tongue fasciculations, and absent deep tendon reflexes, and dies within the first year of life. Autopsy of the spinal cord shows degeneration of the structures highlighted in red in the image. Which congenital disorder is responsible for this finding?",
+  "o": {
+   "A": "Werdnig-Hoffmann disease (Spinal Muscular Atrophy type 1)",
+   "B": "Friedreich ataxia",
+   "C": "Tabes dorsalis",
+   "D": "Poliomyelitis"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0009.jpg",
+  "e": {
+   "correcta": "The image highlights the anterior (ventral) horns of the spinal cord gray matter, which house the lower motor neurons. Werdnig-Hoffmann disease is an autosomal recessive congenital degeneration of these anterior horn cells caused by mutation of the SMN1 gene, leading to a pure lower motor neuron syndrome: flaccid paralysis, tongue fasciculations, hypotonia, and areflexia in infancy, typically fatal by age 2 due to respiratory failure. It is the most common inherited cause of infant mortality after cystic fibrosis.",
+   "incorrectas": {
+    "B": "Friedreich ataxia is an autosomal recessive trinucleotide repeat disease (GAA repeat in the frataxin gene) that degenerates the dorsal columns, spinocerebellar tracts, and lateral corticospinal tracts, not the anterior horns — it presents in childhood/adolescence with ataxia and loss of vibration/proprioception, not the pure LMN floppy-baby picture shown here.",
+    "C": "Tabes dorsalis is a late complication of tertiary syphilis that demyelinates the dorsal columns and dorsal roots, causing loss of proprioception and vibration sense with a sensory ataxia — it affects adults, not neonates, and does not target the anterior horns.",
+    "D": "Poliomyelitis also destroys anterior horn motor neurons and can cause a similar flaccid paralysis, but it is an acquired viral infection (poliovirus) transmitted via fecal-oral route, not a congenital/inherited disorder, so it does not fit the vignette's description of a congenital disease."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480874794975",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "A brainstem cross-section at the level shown in the image (rostral midbrain, at the level of the superior colliculus) reveals bilateral paramedian tracts connecting the abducens nuclei to the contralateral oculomotor nuclei, coordinating conjugate horizontal gaze. Damage to this tract classically produces internuclear ophthalmoplegia. What is this structure?",
+  "o": {
+   "A": "Corticospinal tract",
+   "B": "Spinothalamic tract",
+   "C": "Substantia nigra",
+   "D": "Medial longitudinal fasciculus"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0013.jpg",
+  "e": {
+   "correcta": "The medial longitudinal fasciculus (MLF) is a heavily myelinated paramedian white matter tract that runs the length of the brainstem, linking the abducens nucleus on one side to the medial rectus subnucleus of the contralateral oculomotor nucleus, allowing synchronized horizontal conjugate eye movements. Lesions of the MLF, classically from multiple sclerosis, cause internuclear ophthalmoplegia: failure of adduction of the ipsilateral eye on attempted lateral gaze with nystagmus of the contralateral abducting eye.",
+   "incorrectas": {
+    "A": "The corticospinal tract descends through the cerebral peduncles at this level and carries voluntary motor commands to the spinal cord — it does not connect the eye-movement nuclei and its damage causes contralateral hemiparesis, not ophthalmoplegia.",
+    "B": "The spinothalamic tract carries ascending pain and temperature information from the spinal cord to the thalamus and runs more laterally in the brainstem tegmentum — it has no role in coordinating eye movements.",
+    "C": "The substantia nigra is the dark, dopaminergic crescent-shaped nucleus between the cerebral peduncle and tegmentum at this level; it modulates the basal ganglia motor circuit and its loss causes Parkinsonism, but it is not the tract responsible for conjugate gaze coordination."
+   }
+  },
+  "review_note": "The stem's cloze answer (MLF) and the visual 'ID' marker position in this particular diagram do not perfectly align (the arrow in the image points toward the substantia nigra region rather than the small paramedian structures near the aqueduct); the question was written to be correct per the original card's stated answer (MLF), but a human reviewer may want to confirm the intended labeled structure against the original AnKing card."
+ },
+ {
+  "anki": "1480874882023",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "The image shows a cross-section through the caudal midbrain at the level of the inferior colliculus. A small paired nucleus sits just ventral to the cerebral aqueduct/periaqueductal gray at this level and gives rise to a cranial nerve that immediately decussates before exiting dorsally, making it the only cranial nerve to exit the brainstem posteriorly. Which nucleus is this?",
+  "o": {
+   "A": "Trochlear nucleus",
+   "B": "Oculomotor nucleus",
+   "C": "Abducens nucleus",
+   "D": "Facial nucleus"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0014.jpg",
+  "e": {
+   "correcta": "The trochlear nucleus is located in the caudal midbrain tegmentum, just ventral to the periaqueductal gray at the level of the inferior colliculus. Its axons take an unusual course: they cross the midline within the superior medullary velum before exiting dorsally, making CN IV (trochlear) the only cranial nerve to emerge from the dorsal brainstem and the only one whose nucleus innervates the contralateral muscle (superior oblique).",
+   "incorrectas": {
+    "B": "The oculomotor nucleus lies at the rostral midbrain level (at the level of the superior colliculus), not the caudal midbrain/inferior colliculus level shown here, and CN III exits ventrally from the interpeduncular fossa, not dorsally.",
+    "C": "The abducens nucleus is located in the caudal pons, at the level of the facial colliculus, well caudal to the midbrain section depicted in this image, and CN VI exits ventrally at the pontomedullary junction.",
+    "D": "The facial nucleus is also a pontine structure, situated in the caudal pons ventral to the abducens nucleus — it is unrelated to this midbrain cross-section and its nerve exits ventrolaterally, not dorsally."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480875097452",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "The image shows a schematic cross-section of the rostral medulla. The 'ID' box marks a nerve rootlet arising from a dark blue nucleus positioned just inferior to a large pale-blue oval nucleus, near the inferior cerebellar peduncle. This rootlet carries special sensory information for hearing and balance. Which cranial nerve is it?",
+  "o": {
+   "A": "Trigeminal nerve (CN V)",
+   "B": "Facial nerve (CN VII)",
+   "C": "Vestibulocochlear nerve (CN VIII)",
+   "D": "Glossopharyngeal nerve (CN IX)"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0015.jpg",
+  "e": {
+   "correcta": "CN VIII (vestibulocochlear) arises from the vestibular and cochlear nuclei situated at the rostral medulla/pontomedullary junction, immediately adjacent to the inferior cerebellar peduncle. It is a purely special sensory nerve carrying auditory information from the cochlear nucleus and vestibular/balance information from the vestibular nucleus, both of which are depicted as the large nuclei this rootlet emerges near.",
+   "incorrectas": {
+    "A": "CN V (trigeminal) has its spinal nucleus extending down through the medulla, but its main sensory and motor roots exit from the mid-pons, not the rostral medulla, and it does not run adjacent to the inferior cerebellar peduncle in the way shown.",
+    "B": "CN VII (facial) also exits near the pontomedullary junction close to CN VIII, but arises from the facial motor nucleus (located in the pons) and carries mixed motor, taste, and parasympathetic fibers, not the pure auditory/vestibular sensory function suggested by the vestibular/cochlear nuclei drawn here.",
+    "D": "CN IX (glossopharyngeal) exits more caudally in the medulla from the postolivary sulcus and relays taste, visceral sensory, and parotid parasympathetic information — it has no vestibular or cochlear connection."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480875879269",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "The image shows a schematic cross-section of the rostral medulla. The 'ID' box marks a rootlet whose fibers trace back to a small pink/salmon-colored nucleus positioned near the spinal trigeminal nucleus and spinothalamic tract, carrying taste and visceral sensation from the posterior third of the tongue and pharynx, plus motor input to the stylopharyngeus and parasympathetics to the parotid gland. Which cranial nerve is it?",
+  "o": {
+   "A": "Vagus nerve (CN X)",
+   "B": "Facial nerve (CN VII)",
+   "C": "Hypoglossal nerve (CN XII)",
+   "D": "Glossopharyngeal nerve (CN IX)"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0016.jpg",
+  "e": {
+   "correcta": "CN IX (glossopharyngeal) is a mixed nerve that carries taste and general sensation from the posterior third of the tongue, visceral sensory input from the carotid body/sinus, motor innervation to the stylopharyngeus muscle, and parasympathetic secretomotor fibers to the parotid gland via the otic ganglion. Its nucleus and rootlet sit in the rostral medulla near the nucleus ambiguus and spinal trigeminal nucleus, consistent with the structure marked here.",
+   "incorrectas": {
+    "A": "CN X (vagus) exits the medulla just caudal to CN IX from the same postolivary sulcus and shares the nucleus ambiguus and nucleus solitarius, but it supplies the pharynx, larynx, and thoracoabdominal viscera rather than the parotid gland and stylopharyngeus, which are specific to CN IX.",
+    "B": "CN VII (facial) carries taste from the anterior two-thirds of the tongue (via chorda tympani) and parasympathetics to the submandibular/sublingual glands and lacrimal gland, not the parotid gland or posterior tongue taste attributed to the nerve in this vignette.",
+    "C": "CN XII (hypoglossal) is a pure motor nerve to the intrinsic and extrinsic muscles of the tongue; it carries no taste, visceral sensory, or parasympathetic fibers, so it cannot match the mixed sensory-motor-autonomic description given."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480875908774",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this rostral medulla cross-section, the labeled structure is located just lateral to the inferior cerebellar peduncle, at the point where cranial nerve VIII fibers enter the brainstem. Which structure is this?",
+  "o": {
+   "A": "Nucleus ambiguus",
+   "B": "Spinal trigeminal nucleus",
+   "C": "Cochlear nucleus",
+   "D": "Vestibular nucleus"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0018.jpg",
+  "e": {
+   "correcta": "The cochlear nuclei (dorsal and ventral) sit on the dorsolateral surface of the rostral medulla, immediately lateral to the inferior cerebellar peduncle, exactly where the incoming CN VIII (vestibulocochlear) fibers arrive — matching the labeled position at the very lateral edge next to the CN VIII root. They receive auditory input from the cochlea and relay it onward via the trapezoid body and lateral lemniscus toward the inferior colliculus.",
+   "incorrectas": {
+    "B": "The spinal trigeminal nucleus lies more medial and ventral to this exact lateral point, forming a column that continues down into the spinal cord, and it carries facial pain/temperature information rather than audition.",
+    "A": "The nucleus ambiguus is a deep, ventrally-placed motor nucleus in the reticular formation supplying pharyngeal and laryngeal muscles via CN IX/X/XI; it is not found at the superficial lateral surface next to the peduncle.",
+    "D": "Vestibular nuclei are also related to CN VIII but are classically depicted more medially near the floor of the fourth ventricle in pontomedullary sections, not at the extreme lateral edge immediately beside the inferior cerebellar peduncle as shown here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480875947490",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "In this cross-section of the rostral medulla, the labeled structure lies deep within the lateral reticular formation, near the emerging rootlets of cranial nerves IX and X. Which nucleus is being identified?",
+  "o": {
+   "A": "Hypoglossal nucleus",
+   "B": "Inferior olivary complex",
+   "C": "Nucleus ambiguus",
+   "D": "Dorsal motor nucleus of the vagus"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0019.jpg",
+  "e": {
+   "correcta": "The nucleus ambiguus is a column of motor neurons buried within the lateral medullary reticular formation, positioned near where CN IX and X exit the brainstem, consistent with the labeled location in this image. It supplies special visceral efferent fibers to the striated muscles of the pharynx, larynx, and soft palate via cranial nerves IX, X, and the cranial root of XI, and its ischemic injury (as in Wallenberg syndrome from PICA occlusion) produces dysphagia, dysarthria, and hoarseness.",
+   "incorrectas": {
+    "A": "The hypoglossal nucleus sits near the midline, just beneath the floor of the fourth ventricle, and controls tongue musculature via CN XII — its position is medial and dorsal, not lateral like the labeled structure.",
+    "B": "The inferior olivary complex is the large, distinctly wavy-outlined oval structure occupying the ventral medulla, a much larger and more ventral/medial landmark that is easy to distinguish visually from the smaller nucleus ambiguus.",
+    "D": "The dorsal motor nucleus of the vagus is a parasympathetic (general visceral efferent) nucleus located near the midline beneath the vestibular area, medial to the labeled lateral position, and it innervates smooth muscle and glands of the gut rather than pharyngeal/laryngeal striated muscle."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480876380495",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this spinal cord cross-section, the labeled structure is a thin zone at the tip of the dorsal horn, just superficial to the substantia gelatinosa, through which incoming dorsal root fibers pass before synapsing. Which structure is this?",
+  "o": {
+   "A": "Fasciculus gracilis",
+   "B": "Lissauer's tract",
+   "C": "Lateral spinothalamic tract",
+   "D": "Dorsal spinocerebellar tract"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0020.jpg",
+  "e": {
+   "correcta": "Lissauer's tract (the dorsolateral fasciculus) is a small bundle located at the very tip of the dorsal horn, immediately superficial to the substantia gelatinosa, matching the labeled position in this cross-section. It carries incoming pain and temperature afferents one or two segments up or down before they synapse on second-order neurons in the substantia gelatinosa and give rise to the spinothalamic tract, which is why a small, focal lesion here or in the adjacent gray matter (as in syringomyelia) causes segmental loss of pain and temperature with preserved touch.",
+   "incorrectas": {
+    "A": "The fasciculus gracilis is a large ascending white matter column in the dorsal funiculus (medially, adjacent to the midline septum), carrying proprioceptive and vibratory information from the lower body — it is much larger and positioned medially, not as the thin dorsolateral cap shown here.",
+    "C": "The lateral spinothalamic tract is located in the anterolateral white matter, well ventral and lateral to the dorsal horn tip, and represents already-crossed second-order pain/temperature fibers ascending toward the thalamus, not the entry zone for primary afferents.",
+    "D": "The dorsal spinocerebellar tract runs in the lateral funiculus, posterior to the spinocerebellar/spinothalamic tracts near the surface of the cord, and carries unconscious proprioceptive information to the cerebellum rather than pain fibers entering the dorsal horn."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481244214726",
+  "tema_nombre": "Ophthalmology",
+  "q": "On this cross-sectional diagram of the eye, the labeled layer forms the innermost coat lining the posterior four-fifths of the globe and gives rise to the optic nerve fibers seen converging posteriorly. Which structure is labeled?",
+  "o": {
+   "A": "Choroid",
+   "B": "Sclera",
+   "C": "Retina",
+   "D": "Vitreous body"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0021.jpg",
+  "e": {
+   "correcta": "The retina is the innermost neural layer of the posterior segment, lining the back four-fifths of the globe, exactly where the label sits closest to the vitreous cavity in the posterior wall of the eye. It contains the photoreceptors (rods and cones) and relay neurons whose axons converge to form the optic nerve, visible exiting posteriorly alongside the central retinal vessels shown in the image.",
+   "incorrectas": {
+    "A": "The choroid is the vascular, pigmented middle layer sandwiched between the retina and sclera; it supplies blood to the outer retina but sits external to the labeled innermost layer, not at the vitreous-facing surface shown.",
+    "B": "The sclera is the tough, outermost fibrous coat that gives the eye its shape and is continuous with the cornea anteriorly — it is the outer white layer in the diagram, clearly external to the layer being asked about.",
+    "D": "The vitreous body is the clear gel filling the posterior segment cavity itself, not a layer of the globe's wall — it is the space the labeled structure lines, not the structure itself."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481244233552",
+  "tema_nombre": "Ophthalmology",
+  "q": "On this cross-sectional diagram of the eye, the labeled space lies within the anterior segment, situated behind the iris and in front of the lens (and lens zonules). Which chamber is being identified?",
+  "o": {
+   "A": "Vitreous chamber",
+   "B": "Anterior chamber",
+   "C": "Posterior chamber",
+   "D": "Suprachoroidal space"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0022.jpg",
+  "e": {
+   "correcta": "The posterior chamber is the narrow, fluid-filled space within the anterior segment that lies behind the iris and in front of the lens and ciliary zonules, matching the lower labeled 'chamber' near the lens/pupil region in this diagram. Aqueous humor is secreted by the ciliary body into this space and then flows forward through the pupil into the anterior chamber before draining at the trabecular meshwork/canal of Schlemm.",
+   "incorrectas": {
+    "A": "The vitreous chamber is the much larger posterior segment cavity behind the lens, filled with vitreous gel rather than aqueous humor, and is not part of the anterior segment where this label is found.",
+    "B": "The anterior chamber lies in front of the iris, between the iris and the cornea — it is the other 'chamber' labeled higher up near the pupil in the same diagram, distinct from the space behind the iris being asked about here.",
+    "D": "The suprachoroidal space is a potential space between the choroid and sclera in the posterior globe wall, unrelated to the fluid chambers of the anterior segment depicted here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481244246340",
+  "tema_nombre": "Ophthalmology",
+  "q": "On this cross-sectional diagram of the eye, the labeled structure lies in the anterior segment just posterior to the iris root, giving rise to the zonular fibers that suspend the lens and secreting the fluid that fills the adjacent chamber. Which structure is labeled?",
+  "o": {
+   "A": "Ciliary body",
+   "B": "Cornea",
+   "C": "Iris",
+   "D": "Conjunctiva"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0023.jpg",
+  "e": {
+   "correcta": "The ciliary body sits just behind the iris root in the anterior segment, at the position marked by the uppermost label in this diagram, and contains both the ciliary muscle (which alters lens shape for accommodation) and the ciliary epithelium (which secretes aqueous humor into the posterior chamber). Its zonular fibers extend inward to suspend and anchor the lens.",
+   "incorrectas": {
+    "B": "The cornea is the clear, avascular anterior window of the eye that sits external and anterior to the structures labeled here, providing most of the eye's refractive power but playing no role in aqueous secretion or lens suspension.",
+    "C": "The iris is the pigmented diaphragm with the central pupillary opening, positioned anterior to the labeled structure, and its main function is to regulate pupil size via the sphincter and dilator muscles rather than to secrete fluid or suspend the lens.",
+    "D": "The conjunctiva is a thin mucous membrane covering the sclera and inner eyelids, entirely external to the globe's internal anterior segment structures shown in this cutaway diagram."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481331004185",
+  "tema_nombre": "Hematology & Oncology Pathology",
+  "q": "A peripheral blood smear from a patient with essential thrombocythemia is shown, with the arrow highlighting a markedly increased population of platelets that are large and abnormally formed. Which underlying mechanism best explains this finding?",
+  "o": {
+   "A": "A JAK2, CALR, or MPL mutation driving clonal megakaryocyte proliferation",
+   "B": "Autoantibody-mediated destruction of circulating platelets",
+   "C": "Reactive thrombocytosis secondary to acute blood loss",
+   "D": "Bone marrow fibrosis replacing normal hematopoietic elements"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0025.jpg",
+  "e": {
+   "correcta": "Essential thrombocythemia is a chronic myeloproliferative neoplasm driven by an acquired mutation in JAK2 (most common), CALR, or MPL in a hematopoietic stem cell, leading to clonal, cytokine-independent proliferation of megakaryocytes and massive, sustained overproduction of platelets. The smear reflects this directly: platelets are not only numerous but also large and morphologically bizarre because they are being churned out by an abnormally proliferative megakaryocytic clone rather than through normal, regulated thrombopoiesis. Patients are paradoxically at risk for both thrombosis and bleeding because the platelets, despite their numbers, can be functionally defective.",
+   "incorrectas": {
+    "B": "Antibody-mediated platelet destruction describes immune thrombocytopenia (ITP), which causes a low platelet count, not the marked thrombocytosis with giant, abnormal platelets seen here — the mechanisms and clinical pictures are essentially opposite.",
+    "C": "Reactive (secondary) thrombocytosis from blood loss, infection, or inflammation is driven by elevated thrombopoietin and inflammatory cytokines acting on a normal, polyclonal marrow, and it typically produces a more modest platelet elevation with more uniform platelet morphology rather than the giant, dysplastic forms of a clonal process.",
+    "D": "Marrow fibrosis replacing hematopoietic tissue describes primary myelofibrosis, which classically presents with cytopenias, teardrop cells (dacrocytes), and a leukoerythroblastic smear — not the isolated marked thrombocytosis depicted here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481596966830",
+  "tema_nombre": "Cardiovascular Anatomy",
+  "q": "A lateral cerebral angiogram performed via left internal carotid artery injection is shown. The labeled vascular territory ('ID') demonstrates the dense, branching 'candelabra' pattern typical of which artery?",
+  "o": {
+   "A": "Anterior cerebral artery",
+   "B": "Posterior cerebral artery",
+   "C": "Ophthalmic artery",
+   "D": "Middle cerebral artery"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0027.jpg",
+  "e": {
+   "correcta": "On a lateral view of an internal carotid injection, the middle cerebral artery fills the sylvian fissure and gives off numerous cortical branches that fan out over the lateral hemisphere, producing the dense, tangled 'candelabra' vascular blush seen in the image. The MCA is the direct continuation of the ICA and supplies the majority of the lateral cerebral cortex, including the primary motor and sensory cortex for the face and upper limb, making it the classic territory highlighted in this type of angiographic teaching image.",
+   "incorrectas": {
+    "A": "The anterior cerebral artery courses along the medial surface of the hemisphere toward the interhemispheric fissure and would appear as a vessel curving anteriorly and superiorly along the midline on a lateral film, not as the dense lateral candelabra pattern shown here.",
+    "B": "The posterior cerebral artery arises from the vertebrobasilar system (not the carotid injection shown) and supplies the occipital and inferior temporal lobes; it would not appear as a carotid-filled anterior/mid-hemisphere branching pattern like the one marked.",
+    "C": "The ophthalmic artery is a small, early branch of the ICA that supplies the orbit; it would appear as a thin vessel projecting toward the eye, not as a large branching cortical territory."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481857771452",
+  "tema_nombre": "Neurology & Special Senses Pathology",
+  "q": "A silver-stained (or H&E) section of cerebral cortex from a patient with Alzheimer disease is shown, with the boxed structure highlighting a flame-shaped, basophilic intracytoplasmic/perinuclear structure within a neuron. What is this finding?",
+  "o": {
+   "A": "Neuritic (senile) plaque",
+   "B": "Lewy body",
+   "C": "Neurofibrillary tangle",
+   "D": "Hirano body"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0030.jpg",
+  "e": {
+   "correcta": "Neurofibrillary tangles are intracellular, flame-shaped or triangular aggregates of hyperphosphorylated tau protein that accumulate within the neuronal cytoplasm, exactly as depicted in the boxed structure. Hyperphosphorylation causes tau to dissociate from microtubules and self-assemble into paired helical filaments, disrupting axonal transport; the number of tangles correlates more closely with the degree of cognitive decline in Alzheimer disease than plaque burden does, and tangles persist as 'ghost tangles' even after the neuron dies.",
+   "incorrectas": {
+    "B": "Neuritic plaques are extracellular deposits of beta-amyloid surrounded by dystrophic neurites, forming rounded structures outside neurons rather than the intracellular, flame-shaped structure boxed in the image.",
+    "A": "Lewy bodies are eosinophilic, round intracytoplasmic inclusions composed of aggregated alpha-synuclein, classically seen in Parkinson disease and dementia with Lewy bodies — they have a smooth, concentric appearance rather than the fibrillary, flame-shaped morphology shown here.",
+    "D": "Hirano bodies are eosinophilic, rod-shaped intracytoplasmic inclusions composed of actin found in the hippocampus in Alzheimer disease, but they are distinct rod-like paracrystalline structures rather than tangled fibrillary networks like the one highlighted."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1484188906330",
+  "tema_nombre": "Neurology & Special Senses Pathology",
+  "q": "A patient with von Hippel-Lindau disease has a spinal MRI (right panel) showing multiple enhancing intramedullary lesions (arrows), and a biopsy of one lesion (left panel) shows a densely cellular tumor with numerous thin-walled capillaries admixed with large vacuolated stromal cells. What is this CNS lesion?",
+  "o": {
+   "A": "Ependymoma",
+   "B": "Hemangioblastoma",
+   "C": "Pilocytic astrocytoma",
+   "D": "Metastatic renal cell carcinoma"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0031.jpg",
+  "e": {
+   "correcta": "Hemangioblastoma is the classic CNS tumor of von Hippel-Lindau disease, arising from biallelic loss of the VHL tumor suppressor gene, which leads to constitutive HIF-alpha activity and unchecked expression of angiogenic factors like VEGF. Histologically this produces exactly what is shown: a highly vascular proliferation of thin, capillary-sized vessels intermixed with large, lipid-laden ('vacuolated') stromal cells, and these tumors are frequently multiple and can occur in the cerebellum, brainstem, retina, and spinal cord, matching the multiple enhancing spinal lesions on MRI.",
+   "incorrectas": {
+    "A": "Ependymomas arise from ependymal cells lining the ventricles or central canal and classically show perivascular pseudorosettes, a distinct histologic pattern from the capillary-rich, vacuolated-cell appearance of hemangioblastoma, and are not the tumor associated with VHL disease.",
+    "C": "Pilocytic astrocytoma is a low-grade glial tumor of children showing Rosenthal fibers and biphasic compact/loose architecture; it is associated with neurofibromatosis type 1, not VHL, and lacks the dense capillary network with vacuolated stromal cells seen here.",
+    "D": "While VHL predisposes to clear cell renal cell carcinoma, and RCC can metastasize to the CNS, the multiplicity, associated syndrome, and the specific capillary-rich/vacuolated stromal histology are the hallmark of a primary hemangioblastoma rather than a metastatic epithelial tumor."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1484603426313",
+  "tema_nombre": "Ophthalmology",
+  "q": "On this fundoscopic photograph, several structures near the optic disc are labeled with blank boxes for review, and the arrow marked 'ID' points to one of a pair of vessels emerging from the inferior disc margin that appears darker and slightly wider than its neighboring paired vessel. Which structure is indicated?",
+  "o": {
+   "A": "Retinal artery",
+   "B": "Retinal vein",
+   "C": "Posterior ciliary artery",
+   "D": "Optic disc margin"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0032.jpg",
+  "e": {
+   "correcta": "Retinal veins are paired with retinal arteries at the optic disc but are classically darker red and slightly wider/more tortuous than their companion arteries, reflecting deoxygenated blood and lower intraluminal pressure. On fundoscopy, distinguishing the vein from the adjacent artery at each arcade is a key skill, since findings like venous engorgement (papilledema, central retinal vein occlusion) or arteriovenous nicking (hypertensive retinopathy) depend on correctly identifying which vessel is which.",
+   "incorrectas": {
+    "A": "Retinal arteries branch alongside the veins from the disc but appear brighter red, narrower, and straighter, reflecting oxygenated blood under higher pressure; the vessel marked here has the darker, wider appearance characteristic of the vein rather than the artery.",
+    "C": "The posterior ciliary arteries supply the choroid and optic nerve head directly from the ophthalmic artery but are not visualized as a distinct branching vessel on the retinal surface in a standard fundus photo, unlike the clearly traceable retinal vessels shown.",
+    "D": "The optic disc margin refers to the pale, circular boundary of the nerve head itself, not to a branching vascular structure extending out into the retina, so it would not be the structure indicated by a leader line pointing to a vessel well away from the disc."
+   }
+  },
+  "review_note": "The retinal image has several structures originally labeled but redacted with blank white boxes, leaving only the 'ID' arrow visible; the specific vessel identity (artery vs. vein) was inferred from relative color/caliber and position rather than a fully legible label, so a human reviewer may want to confirm against the original AnKing card image."
+ },
+ {
+  "anki": "1486776257809",
+  "tema_nombre": "Gastrointestinal Anatomy",
+  "q": "On a histologic cross-section of the liver stained to highlight the classic hexagonal lobular architecture (as shown in the image, with two adjacent hexagonal lobules), what structure is located at the corners where hexagons meet (marked by asterisks)?",
+  "o": {
+   "A": "Central vein",
+   "B": "Portal triad",
+   "C": "Kupffer cell aggregate",
+   "D": "Space of Disse"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0033.jpg",
+  "e": {
+   "correcta": "The classic liver lobule model is drawn as a hexagon with a central vein at its center and a portal triad at each of the six corners. Each portal triad contains a branch of the portal vein, a branch of the hepatic artery, and a bile ductule, and because adjacent lobules share corners, a single triad serves multiple neighboring hexagons — exactly what the asterisks are marking in the image. Blood flows from the portal triads at the periphery toward the central vein, while bile flows in the opposite direction toward the bile ductules.",
+   "incorrectas": {
+    "A": "The central vein sits at the middle of each hexagonal lobule, not at its corners — it is the point toward which sinusoidal blood drains, the opposite location from what the asterisks indicate.",
+    "C": "Kupffer cells are resident macrophages found lining the sinusoids throughout the lobule, not concentrated as a discrete corner structure visible on routine architecture diagrams.",
+    "D": "The space of Disse is the perisinusoidal space between hepatocytes and the sinusoidal endothelium where stellate cells reside; it is a microscopic space along the sinusoids, not a landmark visible as a corner structure on this scale of section."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1488247965036",
+  "tema_nombre": "Musculoskeletal Pathology",
+  "q": "A patient with long-standing rheumatoid arthritis has the finger deformity shown in the image, with flexion of the proximal interphalangeal (PIP) joint and hyperextension of the distal interphalangeal (DIP) joint. What is this deformity called?",
+  "o": {
+   "A": "Swan neck deformity",
+   "B": "Boutonniere deformity",
+   "C": "Heberden node",
+   "D": "Dupuytren contracture"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0034.jpg",
+  "e": {
+   "correcta": "Boutonniere deformity results from disruption of the central slip of the extensor tendon at the PIP joint, often from chronic synovitis in rheumatoid arthritis. Loss of central slip function allows the PIP joint to flex while the lateral bands slip volarly and hyperextend the DIP joint, producing the characteristic flexed-PIP/hyperextended-DIP posture seen in the photograph. It is one of the classic hand deformities of RA, alongside ulnar deviation and swan neck deformity.",
+   "incorrectas": {
+    "A": "Swan neck deformity is the opposite pattern — hyperextension of the PIP joint with flexion of the DIP joint — caused by different tendon imbalances, also seen in RA but not what is pictured here.",
+    "C": "Heberden nodes are bony osteophytes at the DIP joints seen in osteoarthritis, not a tendon-mediated flexion/extension deformity, and they present as firm nodules rather than the joint malalignment shown.",
+    "D": "Dupuytren contracture is a fibroproliferative disorder of the palmar fascia causing flexion contracture of the fingers (classically the ring and small fingers) at the metacarpophalangeal and PIP joints, not an extensor tendon problem localized to the PIP-DIP relationship."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514451796998",
+  "tema_nombre": "Antimicrobials",
+  "q": "In the diagram of antifungal drug targets shown in the image, echinocandins (e.g., caspofungin, micafungin, anidulafungin) act by inhibiting which labeled step?",
+  "o": {
+   "A": "Step A (cell wall synthesis)",
+   "B": "Step B (cell membrane integrity/ergosterol)",
+   "C": "Step C (nucleic acid synthesis)",
+   "D": "Step D (ergosterol synthesis via 14-alpha-demethylase)"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0037.jpg",
+  "e": {
+   "correcta": "Echinocandins inhibit beta-(1,3)-D-glucan synthase, blocking synthesis of beta-glucan, an essential structural component of the fungal cell wall — this corresponds to step A, labeled 'cell wall synthesis' in the diagram, which uniquely targets the fungal cell wall rather than the membrane. Because human cells lack a cell wall entirely, this mechanism gives echinocandins a favorable selectivity profile, and they are frequently used against Candida and Aspergillus, including azole-resistant strains.",
+   "incorrectas": {
+    "B": "Step B, cell membrane integrity, is the site of action of the polyenes (amphotericin B, nystatin), which bind ergosterol directly in the membrane — a completely different target from the glucan synthase inhibited by echinocandins.",
+    "C": "Step C, nucleic acid synthesis, is where flucytosine acts, by being converted to 5-fluorouracil intracellularly and interfering with fungal DNA/RNA synthesis; echinocandins have no effect on nucleic acid metabolism.",
+    "D": "Step D, ergosterol synthesis via 14-alpha-demethylase, is blocked by the azole antifungals; echinocandins do not affect the ergosterol synthesis pathway at all, which is why they can be used synergistically with azoles."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514577409259",
+  "tema_nombre": "Antimicrobials",
+  "q": "Flucytosine exerts its antifungal effect by inhibiting thymidylate synthase and disrupting nucleic acid synthesis. In the antifungal mechanism diagram shown in the image, which labeled step corresponds to this action?",
+  "o": {
+   "A": "Step A (cell wall synthesis)",
+   "B": "Step E (lanosterol synthesis)",
+   "C": "Step C (nucleic acid synthesis)",
+   "D": "Step D (ergosterol synthesis)"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0038.jpg",
+  "e": {
+   "correcta": "Flucytosine is taken up by fungal cells via cytosine permease and converted by cytosine deaminase to 5-fluorouracil, which is then metabolized to 5-fluorodeoxyuridine monophosphate, a potent inhibitor of thymidylate synthase. This blocks synthesis of thymidine and thus DNA/RNA production, corresponding to step C ('nucleic acid synthesis') in the diagram — a mechanism entirely independent of the ergosterol pathway targeted by azoles and polyenes.",
+   "incorrectas": {
+    "A": "Step A, cell wall synthesis, is the target of the echinocandins (via beta-glucan synthase inhibition), not flucytosine, which acts intracellularly on pyrimidine metabolism rather than the fungal cell wall.",
+    "B": "Step E, lanosterol synthesis, refers to inhibition of squalene epoxidase, the mechanism of the allylamines (e.g., terbinafine), not flucytosine.",
+    "D": "Step D, ergosterol synthesis, is where azoles act by inhibiting 14-alpha-demethylase; flucytosine does not interfere with sterol synthesis at all, which is why it is often combined with amphotericin B for synergy against a different pathway."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514578565465",
+  "tema_nombre": "Antimicrobials",
+  "q": "Polyene antifungals such as amphotericin B and nystatin act by binding ergosterol in the fungal cell membrane and creating pores. In the labeled antifungal mechanism diagram shown in the image, which step does this correspond to?",
+  "o": {
+   "A": "Step D (ergosterol synthesis)",
+   "B": "Step B (cell membrane integrity)",
+   "C": "Step A (cell wall synthesis)",
+   "D": "Step E (lanosterol synthesis)"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0039.jpg",
+  "e": {
+   "correcta": "Polyenes do not block a synthesis pathway at all — instead they directly bind ergosterol that is already embedded in the fungal cell membrane, forming transmembrane pores that allow leakage of potassium and other electrolytes, leading to fungal cell death. This action on the finished membrane structure corresponds to step B, 'cell membrane integrity,' distinguishing polyenes mechanistically from the azoles and allylamines, which instead inhibit enzymes earlier in the ergosterol synthetic pathway (steps D and E).",
+   "incorrectas": {
+    "A": "Step D, ergosterol synthesis (14-alpha-demethylase inhibition), is the azole mechanism — azoles prevent ergosterol from being made, whereas polyenes act on ergosterol that is already present in the membrane.",
+    "C": "Step A, cell wall synthesis, is targeted by the echinocandins via beta-glucan synthase inhibition; polyenes have no effect on the fungal cell wall, only the membrane.",
+    "D": "Step E, lanosterol synthesis (squalene epoxidase inhibition), is the mechanism of the allylamines like terbinafine, an upstream step in the same pathway that ultimately produces ergosterol, but distinct from directly binding the finished sterol as polyenes do."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514578761759",
+  "tema_nombre": "Antimicrobials",
+  "q": "As shown in the zoomed inset of the fungal cell membrane, polyene antifungals disrupt membrane stability by binding directly to which membrane component, forming pores that cause electrolyte leakage?",
+  "o": {
+   "A": "Beta-glucan",
+   "B": "Phosphatidylcholine",
+   "C": "Ergosterol",
+   "D": "Cholesterol"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0040.jpg",
+  "e": {
+   "correcta": "The inset image shows polyene molecules (the yellow ovals) binding to ergosterol (labeled) within the lipid bilayer, and multiple polyene-ergosterol complexes aggregate to form a pore that allows leakage of potassium and other electrolytes, ultimately killing the fungal cell. Ergosterol is the fungal analog of mammalian cholesterol and is the key structural sterol that makes fungal membranes a selective drug target, though amphotericin B also has some affinity for cholesterol, which underlies its characteristic nephrotoxicity and infusion-related toxicities (\"amphoterrible\").",
+   "incorrectas": {
+    "A": "Beta-glucan is a cell wall polysaccharide targeted by the echinocandins, not a membrane sterol, and polyenes have no effect on the fungal cell wall.",
+    "B": "Phosphatidylcholine is a common membrane phospholipid found in both fungal and mammalian membranes, but it is not the specific binding target of polyenes; the selectivity of polyenes comes from their preferential affinity for ergosterol.",
+    "D": "Cholesterol is the analogous sterol in mammalian cell membranes; while amphotericin B does bind cholesterol to a lesser degree (explaining its toxicity), the diagram specifically labels ergosterol as the intended fungal target, not cholesterol."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514582716438",
+  "tema_nombre": "Antimicrobials",
+  "q": "The image shows a diagram of the fungal ergosterol synthesis pathway and antifungal drug targets (steps A-E). Terbinafine impairs fungal cell membrane synthesis by inhibiting which labeled step?",
+  "o": {
+   "A": "Step A (cell wall synthesis)",
+   "B": "Step B (cell membrane integrity)",
+   "C": "Step E (squalene epoxidase)",
+   "D": "Step D (14-alpha-demethylase)"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0041.jpg",
+  "e": {
+   "correcta": "In the diagram, step E blocks the conversion of squalene to squalene epoxide, which is the reaction catalyzed by squalene epoxidase. Terbinafine inhibits this enzyme, preventing the formation of squalene epoxide and, downstream, lanosterol and ergosterol. Because ergosterol is the main sterol that stabilizes the fungal cell membrane, this depletion is fungicidal, and the accumulation of toxic squalene contributes further to fungal cell death.",
+   "incorrectas": {
+    "A": "Step A corresponds to cell wall synthesis, which is the target of the echinocandins (e.g., caspofungin) that inhibit beta-1,3-glucan synthase, not terbinafine.",
+    "B": "Step B represents disruption of cell membrane integrity by binding preformed ergosterol, which is the mechanism of polyenes like amphotericin B and nystatin, not terbinafine.",
+    "D": "Step D is 14-alpha-demethylase, the enzyme that converts lanosterol to ergosterol precursors; this is the target of the azole antifungals, which act further downstream in the pathway than terbinafine."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514583362638",
+  "tema_nombre": "Antimicrobials",
+  "q": "The image shows a diagram of the fungal ergosterol synthesis pathway and antifungal drug targets (steps A-E). Azole antifungals act by inhibiting which labeled step?",
+  "o": {
+   "A": "Step D (14-alpha-demethylase)",
+   "B": "Step E (squalene epoxidase)",
+   "C": "Step A (cell wall synthesis)",
+   "D": "Step B (cell membrane integrity)"
+  },
+  "r": "A",
+  "img": "img/anking/anking-0042.jpg",
+  "e": {
+   "correcta": "Step D in the diagram represents 14-alpha-demethylase, the cytochrome P450 enzyme that converts lanosterol into ergosterol precursors. Azoles (e.g., fluconazole, itraconazole, ketoconazole) inhibit this fungal cytochrome P450 enzyme, blocking ergosterol synthesis and leading to accumulation of toxic methylated sterol intermediates in the membrane. Because azoles have some affinity for human P450 enzymes as well, they carry a risk of drug interactions and endocrine side effects (e.g., ketoconazole inhibiting steroidogenesis).",
+   "incorrectas": {
+    "B": "Step E is squalene epoxidase, an earlier enzyme in the pathway that converts squalene to squalene epoxide; this is the target of terbinafine, not azoles.",
+    "C": "Step A represents cell wall synthesis, which is targeted by the echinocandins via inhibition of beta-1,3-glucan synthase, a mechanism unrelated to the ergosterol pathway that azoles act on.",
+    "D": "Step B represents binding to preformed ergosterol to disrupt membrane integrity, which is how polyene antifungals like amphotericin B work, whereas azoles act upstream by blocking ergosterol synthesis rather than binding the finished sterol."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514659435421",
+  "tema_nombre": "Virology",
+  "q": "The image shows the structure of the HIV virion with its envelope glycoproteins labeled. Maraviroc, a CCR5 antagonist, prevents HIV entry by blocking the interaction of the host coreceptor with which labeled glycoprotein?",
+  "o": {
+   "A": "p24 capsid protein",
+   "B": "gp41 transmembrane glycoprotein",
+   "C": "p17 matrix protein",
+   "D": "gp120 docking glycoprotein"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0043.jpg",
+  "e": {
+   "correcta": "As labeled in the diagram, gp120 is the docking glycoprotein displayed on the outer surface of the HIV envelope. It first binds CD4 on host T cells and then must engage a coreceptor, typically CCR5 (or CXCR4), to trigger the conformational change needed for viral entry. Maraviroc is a CCR5 antagonist that blocks this coreceptor interaction, preventing gp120 from completing its docking function and thereby blocking HIV entry into the cell.",
+   "incorrectas": {
+    "A": "p24 is the internal capsid protein that surrounds the viral RNA and enzymes; it is not exposed on the surface and plays no role in coreceptor binding, though it is clinically useful as an early serologic marker of acute HIV infection.",
+    "B": "gp41 is the transmembrane glycoprotein that mediates membrane fusion after gp120 has already engaged CD4 and the coreceptor; it is the target of fusion inhibitors like enfuvirtide, not maraviroc.",
+    "C": "p17 is the matrix protein lying beneath the viral envelope that helps maintain virion structure; it is not involved in surface receptor binding or coreceptor engagement."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514661846196",
+  "tema_nombre": "Virology",
+  "q": "The image shows the structure of the HIV virion with its envelope glycoproteins labeled. Enfuvirtide inhibits HIV entry by binding which labeled glycoprotein?",
+  "o": {
+   "A": "gp120 docking glycoprotein",
+   "B": "gp41 transmembrane glycoprotein",
+   "C": "p24 capsid protein",
+   "D": "p17 matrix protein"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0044.jpg",
+  "e": {
+   "correcta": "As shown in the diagram, gp41 is the transmembrane glycoprotein anchored in the viral lipid envelope. After gp120 binds CD4 and a coreceptor, gp41 undergoes a conformational change that drives fusion of the viral envelope with the host cell membrane. Enfuvirtide is a fusion inhibitor that binds gp41 and prevents this conformational change, blocking viral entry at the final fusion step, which is why it is used only in heavily treatment-experienced patients as a subcutaneous injection.",
+   "incorrectas": {
+    "A": "gp120 is the docking glycoprotein responsible for the initial binding to CD4 and coreceptors such as CCR5; this earlier step is instead targeted by CCR5 antagonists like maraviroc, not enfuvirtide.",
+    "C": "p24 is the internal capsid protein enclosing the viral genome and enzymes; it is not surface-exposed and is not a target for entry inhibitors.",
+    "D": "p17 is the matrix protein located beneath the envelope, providing structural support to the virion; it does not participate in the fusion process that enfuvirtide blocks."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514665411921",
+  "tema_nombre": "Toxicities & Side Effects",
+  "q": "Among the NRTIs shown in the image (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zidovudine), which three are particularly associated with peripheral neuropathy, especially when combined with one another?",
+  "o": {
+   "A": "Abacavir, tenofovir, zidovudine",
+   "B": "Emtricitabine, tenofovir, abacavir",
+   "C": "Didanosine, lamivudine, stavudine",
+   "D": "Zidovudine, stavudine, tenofovir"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0046.jpg",
+  "e": {
+   "correcta": "Didanosine (ddI), lamivudine (3TC), and stavudine (d4T) are the NRTIs most classically linked to peripheral neuropathy, thought to relate to mitochondrial toxicity from inhibition of mitochondrial DNA polymerase-gamma in peripheral nerve cells. Because their neurotoxic effects can be additive, these three agents are generally avoided in combination with each other to reduce the risk of clinically significant neuropathy.",
+   "incorrectas": {
+    "A": "Abacavir is notorious for a hypersensitivity reaction linked to HLA-B*57:01, and zidovudine is best known for bone marrow suppression; neither is a classic cause of peripheral neuropathy like the didanosine/lamivudine/stavudine group.",
+    "B": "Emtricitabine and tenofovir are generally well tolerated, with tenofovir more associated with renal toxicity and decreased bone density rather than peripheral neuropathy, making this combination an inaccurate answer.",
+    "D": "Zidovudine's dose-limiting toxicity is bone marrow suppression (anemia, neutropenia) rather than neuropathy, and tenofovir's main concerns are nephrotoxicity and bone density loss, so this combination does not represent the classic neuropathy-associated triad."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514670434695",
+  "tema_nombre": "Toxicities & Side Effects",
+  "q": "The image lists several HIV protease inhibitors sharing the \"-navir\" suffix. Which one of these drugs is especially associated with nephropathy/nephrolithiasis, hematuria, and thrombocytopenia?",
+  "o": {
+   "A": "Ritonavir",
+   "B": "Atazanavir",
+   "C": "Saquinavir",
+   "D": "Indinavir"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0047.jpg",
+  "e": {
+   "correcta": "Indinavir is a protease inhibitor from the list shown that is classically associated with the formation of indinavir crystals in the renal tubules and collecting system, leading to nephrolithiasis, crystalluria, hematuria, and interstitial nephritis, along with an associated risk of thrombocytopenia. Patients on indinavir are counseled to maintain high fluid intake to reduce crystal formation and stone risk.",
+   "incorrectas": {
+    "A": "Ritonavir is best known as a potent CYP3A4 inhibitor used at low doses to \"boost\" other protease inhibitors, and for causing significant GI upset and metabolic effects (dyslipidemia, insulin resistance) rather than the renal stone/hematuria picture typical of indinavir.",
+    "B": "Atazanavir is more distinctly associated with indirect hyperbilirubinemia and jaundice (via UGT1A1 inhibition, similar to Gilbert syndrome) rather than nephrolithiasis and hematuria.",
+    "C": "Saquinavir's hallmark adverse effects are GI intolerance (nausea, diarrhea) related to its poor oral bioavailability, not the renal stone and hematologic picture characteristic of indinavir."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514670570704",
+  "tema_nombre": "Toxicities & Side Effects",
+  "q": "The image lists several HIV protease inhibitors sharing the \"-navir\" suffix. Which one of these drugs is especially associated with GI intolerance (nausea, diarrhea) due to poor oral bioavailability?",
+  "o": {
+   "A": "Indinavir",
+   "B": "Darunavir",
+   "C": "Saquinavir",
+   "D": "Lopinavir"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0048.jpg",
+  "e": {
+   "correcta": "Saquinavir, shown in the drug list, has notably poor and erratic oral bioavailability due to extensive first-pass hepatic metabolism, which historically required it to be combined with ritonavir or taken with a high-fat meal to improve absorption. This poor absorption profile is associated with prominent GI intolerance, particularly nausea and diarrhea, more so than most other agents in its class, although GI upset can occur with protease inhibitors generally.",
+   "incorrectas": {
+    "A": "Indinavir's signature toxicity is nephrolithiasis, crystalluria, and hematuria from drug crystal deposition in the renal tract, not the poor-bioavailability-driven GI intolerance that characterizes saquinavir.",
+    "B": "Darunavir is a newer-generation protease inhibitor generally better tolerated with fewer GI complaints and is more notable for a sulfonamide moiety that raises concern in sulfa-allergic patients, rather than being classically tied to poor bioavailability and GI upset.",
+    "D": "Lopinavir is typically co-formulated with ritonavir (lopinavir/ritonavir) specifically to boost its otherwise low bioavailability via CYP3A4 inhibition, but it is not the prototype drug associated with the GI intolerance emphasized for saquinavir."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1514672518972",
+  "tema_nombre": "Antimicrobials",
+  "q": "A group of antiretroviral drugs is shown in the image, including dolutegravir, elvitegravir, and raltegravir, all of which share the infix '-tegra-'. To which class of antiretrovirals do these drugs belong?",
+  "o": {
+   "A": "Fusion inhibitors",
+   "B": "Integrase inhibitors",
+   "C": "Protease inhibitors",
+   "D": "Nucleoside reverse transcriptase inhibitors"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0049.jpg",
+  "e": {
+   "correcta": "Dolutegravir, elvitegravir, and raltegravir are integrase strand transfer inhibitors (INSTIs), recognizable by the shared '-tegra-' infix. They block HIV integrase, the viral enzyme that inserts reverse-transcribed proviral DNA into the host cell genome, thereby preventing establishment of a stable HIV provirus and halting the replication cycle at a step downstream of reverse transcription.",
+   "incorrectas": {
+    "A": "Fusion inhibitors such as enfuvirtide block gp41-mediated fusion of the viral envelope with the host CD4+ T-cell membrane, acting at viral entry rather than at genome integration, and they do not share the '-tegra-' naming convention.",
+    "C": "Protease inhibitors (the '-navir' drugs, e.g., ritonavir, atazanavir) block the HIV protease enzyme that cleaves the gag-pol polyprotein into mature structural and enzymatic proteins, a late step in the viral life cycle, not integration.",
+    "D": "Nucleoside reverse transcriptase inhibitors (e.g., zidovudine, tenofovir) are incorporated into the growing viral DNA chain by reverse transcriptase and cause chain termination, acting earlier in the cycle at the reverse transcription step rather than at integration."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1515559898214",
+  "tema_nombre": "Antimicrobials",
+  "q": "Among the NRTIs shown in the image (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zidovudine), which two are most classically associated with causing lipodystrophy?",
+  "o": {
+   "A": "Tenofovir (TDF) and emtricitabine (FTC)",
+   "B": "Abacavir (ABC) and lamivudine (3TC)",
+   "C": "Zidovudine (ZDV) and stavudine (d4T)",
+   "D": "Didanosine (ddI) and tenofovir (TDF)"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0050.jpg",
+  "e": {
+   "correcta": "Zidovudine (ZDV) and stavudine (d4T) are the NRTIs most strongly linked to lipodystrophy (peripheral fat wasting with central/visceral fat accumulation) because they cause the greatest mitochondrial DNA polymerase-gamma inhibition among the thymidine analogs, leading to mitochondrial toxicity in adipocytes. This mitochondrial toxicity also underlies their other characteristic side effects, such as ZDV-induced bone marrow suppression and d4T-induced peripheral neuropathy and pancreatitis.",
+   "incorrectas": {
+    "A": "Tenofovir and emtricitabine are among the better-tolerated NRTIs regarding fat redistribution; tenofovir's main toxicities are nephrotoxicity and decreased bone density, not classic lipodystrophy.",
+    "B": "Abacavir is best known for a potentially fatal hypersensitivity reaction linked to HLA-B*57:01, and lamivudine is one of the safest NRTIs overall; neither is the classic cause of lipodystrophy.",
+    "D": "Didanosine can cause pancreatitis and peripheral neuropathy, and tenofovir causes renal toxicity, but the combination most classically tied to mitochondrial-toxicity-driven lipodystrophy is zidovudine plus stavudine, not this pair."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1516061108309",
+  "tema_nombre": "Hematology & Oncology Physiology",
+  "q": "The image shows a labeled red blood cell diagram representing a blood type. Which ABO blood type has no A or B group antigens on the RBC surface, making it the universal red cell donor?",
+  "o": {
+   "A": "Type A",
+   "B": "Type AB",
+   "C": "Type B",
+   "D": "Type O"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0051.jpg",
+  "e": {
+   "correcta": "Type O red blood cells express only the unmodified H antigen and lack both the A-transferase (which adds N-acetylgalactosamine) and B-transferase (which adds galactose) enzymes needed to convert H antigen into the immunogenic A or B antigens. Because there are no A or B antigens for a recipient's anti-A or anti-B antibodies to attack, type O RBCs can be transfused into recipients of any ABO type, making type O the universal RBC donor.",
+   "incorrectas": {
+    "A": "Type A red cells express the A antigen, formed by adding N-acetylgalactosamine onto the H antigen via the A-transferase enzyme, so they would trigger a hemolytic reaction in a type B or type O recipient who carries anti-A antibodies.",
+    "B": "Type AB red cells express both A and B antigens simultaneously (making AB individuals universal plasma recipients, not RBC donors), so transfusing AB blood into a non-AB recipient would provoke an antibody-mediated reaction against whichever antigen the recipient lacks.",
+    "C": "Type B red cells express the B antigen, created by adding galactose onto the H antigen via the B-transferase enzyme, and would be attacked by anti-B antibodies present in type A or type O recipients."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1516061255284",
+  "tema_nombre": "Hematology & Oncology Physiology",
+  "q": "The image depicts the antibodies found in the plasma of a particular ABO blood type, showing their names and immunoglobulin isotypes. Which blood type has these unique plasma antibodies, allowing its plasma to be given to any recipient?",
+  "o": {
+   "A": "Type AB",
+   "B": "Type O",
+   "C": "Type A",
+   "D": "Type B"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0052.jpg",
+  "e": {
+   "correcta": "Type O individuals lack both A and B antigens on their RBCs, so their immune system is never tolerized to either antigen and they uniquely produce both anti-A and anti-B antibodies, existing as a mix of naturally occurring IgM (elicited by similar carbohydrate epitopes on gut flora) and IgG. This is the opposite situation from AB individuals, who express both antigens and therefore make neither antibody, which is why AB (not O) plasma is actually the universal plasma donor despite O being the universal RBC donor.",
+   "incorrectas": {
+    "A": "Type AB individuals express both A and B antigens on their RBCs, so their immune system is tolerant to both and they produce neither anti-A nor anti-B antibodies, which is why AB plasma (lacking these antibodies) is the universal plasma donor.",
+    "C": "Type A individuals are tolerant to the A antigen but not B, so they produce only anti-B antibodies, not both anti-A and anti-B.",
+    "D": "Type B individuals are tolerant to the B antigen but not A, so they produce only anti-A antibodies, not both anti-A and anti-B."
+   }
+  },
+  "review_note": "The original flashcard's premise that O plasma can be given to any recipient is a common oversimplification (O plasma actually still carries anti-A/anti-B antibodies); the question and explanation instead focus on the verifiable fact tested by the image — that O is the unique blood type producing both anti-A and anti-B antibodies — and note that AB, not O, is the true universal plasma donor."
+ },
+ {
+  "anki": "1516475827100",
+  "tema_nombre": "Virology",
+  "q": "A biopsy shows cells with large nuclear eosinophilic inclusions surrounded by a clear halo, as indicated by the arrow in the image. Which viral family characteristically produces this type of intranuclear inclusion, known as a Cowdry body?",
+  "o": {
+   "A": "Poxvirus",
+   "B": "Herpesvirus",
+   "C": "Rhabdovirus",
+   "D": "Adenovirus"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0053.jpg",
+  "e": {
+   "correcta": "Herpesviruses (HSV-1, HSV-2, VZV, CMV) replicate in the nucleus and produce Cowdry type A bodies: eosinophilic intranuclear inclusions surrounded by a halo of marginated chromatin, exactly as shown by the arrow in the image. This nuclear location reflects the fact that herpesvirus DNA replication and capsid assembly occur within the nucleus, in contrast to viruses that replicate entirely in the cytoplasm.",
+   "incorrectas": {
+    "A": "Poxviruses, such as molluscum contagiosum virus, replicate entirely in the cytoplasm (they carry their own DNA-dependent RNA polymerase) and produce cytoplasmic eosinophilic inclusions called Henderson-Patterson bodies, not nuclear inclusions.",
+    "C": "Rhabdovirus (rabies virus) is a negative-sense RNA virus that replicates in the cytoplasm and produces cytoplasmic eosinophilic inclusions called Negri bodies, classically seen in Purkinje cells and hippocampal neurons, not nuclear inclusions.",
+    "D": "Adenovirus produces intranuclear inclusions as well, but these are classically basophilic 'smudge cells' rather than the eosinophilic Cowdry-type inclusions with a surrounding halo that are characteristic of herpesviruses."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1517723060119",
+  "tema_nombre": "Neoplasia",
+  "q": "The image ranks prostate, lung, and colon/rectum cancers as the top three most common cancers (excluding skin cancer) for one demographic. Which demographic does this ranking apply to?",
+  "o": {
+   "A": "Women",
+   "B": "Children (age 0-14)",
+   "C": "Men",
+   "D": "Elderly patients over age 80"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0054.jpg",
+  "e": {
+   "correcta": "In men, excluding skin cancer, prostate cancer is the most common malignancy, followed by lung and then colorectal cancer, reflecting the high prevalence of prostate adenocarcinoma detected via PSA screening and biopsy in aging men. This contrasts with women, whose top three by incidence are breast, lung, and colorectal cancer, since breast tissue replaces prostate as the leading site.",
+   "incorrectas": {
+    "A": "In women, breast cancer is the most common cancer by incidence, not prostate cancer (which does not exist in women), followed by lung and colorectal cancer — so this ranking with prostate at #1 does not apply to women.",
+    "B": "Childhood cancers (age 0-14) are dominated by leukemias (especially ALL), CNS tumors, and neuroblastoma/lymphomas — epithelial cancers like prostate, lung, and colorectal cancer are exceedingly rare in this age group.",
+    "D": "While elderly patients do have high rates of these cancers, the standard epidemiologic ranking used on Step 1 is stratified by sex (men vs. women), not by age bracket in adults, so 'elderly patients' is not the demographic being described by this classic top-3 list."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1517723579788",
+  "tema_nombre": "Neoplasia",
+  "q": "The image ranks lung, breast, and colon/rectum cancers as the top three causes of cancer mortality for one demographic in the United States. Which demographic does this ranking apply to?",
+  "o": {
+   "A": "Children (age 0-14)",
+   "B": "Men",
+   "C": "Women",
+   "D": "Elderly patients over age 80"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0055.jpg",
+  "e": {
+   "correcta": "In women, lung cancer is the leading cause of cancer death, followed by breast cancer and then colorectal cancer. Lung cancer tops mortality rankings in both sexes despite not always being the most common cancer, because there is no adequate population-wide screening test to catch it early, so it is often diagnosed at an advanced, less curable stage.",
+   "incorrectas": {
+    "A": "Childhood cancer mortality is dominated by leukemia, CNS tumors, and neuroblastoma, not lung, breast, or colorectal cancer, which are essentially absent in this age group.",
+    "B": "In men, the top three cancer killers are lung, prostate, and colorectal cancer — breast cancer is not a leading cause of cancer death in men, so this specific ranking (with breast at #2) corresponds to women, not men.",
+    "D": "Cancer mortality statistics on Step 1 are conventionally broken down by sex rather than by elderly age bracket, and the lung/breast/colorectal ranking specifically reflects the female population across all adult ages, not an elderly-only cohort."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1518989140396",
+  "tema_nombre": "Hematology & Oncology Pathology",
+  "q": "The image contrasts two categories of lymphoid/myeloid neoplasms. Which of these two terms describes a neoplasm with widespread involvement of the bone marrow, with tumor cells typically also found circulating in the peripheral blood?",
+  "o": {
+   "A": "Lymphoma",
+   "B": "Myelodysplastic syndrome",
+   "C": "Leukemia",
+   "D": "Multiple myeloma"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0056.jpg",
+  "e": {
+   "correcta": "Leukemia is defined by diffuse infiltration of the bone marrow by neoplastic hematopoietic cells, which typically spill over into the peripheral blood and can be detected on a routine CBC and peripheral smear. This widespread marrow involvement distinguishes leukemia from more localized lymphoid neoplasms and explains why patients often present with cytopenias (anemia, thrombocytopenia, neutropenia) as the malignant clone crowds out normal hematopoiesis.",
+   "incorrectas": {
+    "A": "Lymphoma classically presents as a discrete solid mass of neoplastic lymphocytes within lymph nodes or extranodal tissue rather than diffuse bone marrow replacement, although some lymphomas can secondarily involve the marrow or 'spill over' into blood late in disease.",
+    "B": "Myelodysplastic syndrome involves dysplastic, ineffective hematopoiesis in the marrow with peripheral cytopenias, but it is defined by abnormal maturation and low blast counts rather than the widespread clonal marrow replacement and blood involvement that defines leukemia.",
+    "D": "Multiple myeloma is a neoplasm of plasma cells that classically forms focal lytic bone lesions and marrow infiltrates with a monoclonal protein spike, but it is not primarily categorized alongside leukemia/lymphoma in this classic dichotomy of diffuse marrow disease versus solid nodal disease."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1518989205267",
+  "tema_nombre": "Hematology & Oncology Pathology",
+  "q": "A 60-year-old man is found to have a discrete, palpable, painless mass arising from a cervical lymph node on biopsy, showing a monoclonal population of malignant lymphocytes confined mostly to nodal architecture. Which of the following terms best describes this malignancy, as opposed to a lymphoid malignancy that primarily circulates in the blood and bone marrow?",
+  "o": {
+   "A": "Leukemia",
+   "B": "Multiple myeloma",
+   "C": "Lymphoma",
+   "D": "Myelodysplastic syndrome"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0057.jpg",
+  "e": {
+   "correcta": "Lymphoma is defined as a malignancy of lymphocytes (B or T cells) that classically forms a discrete tumor mass, most often arising within a lymph node, though extranodal presentations (skin, GI tract) also occur. Patients typically present with painless lymphadenopathy, often with accompanying B symptoms (fever, night sweats, weight loss). This is distinct from leukemia, where the same lineage of malignant lymphoid or myeloid cells proliferates diffusely in the bone marrow and spills into the peripheral blood rather than forming a solid mass.",
+   "incorrectas": {
+    "A": "Leukemia refers to malignant hematopoietic cells that predominantly infiltrate the bone marrow and circulate in the peripheral blood, producing cytopenias and a high circulating blast/lymphocyte count rather than a discrete nodal mass — the opposite pattern from what is described here.",
+    "B": "Multiple myeloma is a malignancy of plasma cells that infiltrates the bone marrow diffusely, causing lytic bone lesions, hypercalcemia, renal failure, and anemia; it does not classically present as a discrete lymph node mass.",
+    "D": "Myelodysplastic syndrome is a clonal disorder of hematopoietic stem cells causing ineffective, dysplastic blood cell production and cytopenias, with risk of progression to acute myeloid leukemia — it is a marrow disease, not a nodal tumor."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1519858800572",
+  "tema_nombre": "Respiratory Physiology",
+  "q": "A patient with inspiratory stridor undergoes spirometry, producing the flow-volume loop shown, with a normal expiratory limb but a flattened inspiratory limb. Which type of airway lesion best explains this pattern?",
+  "o": {
+   "A": "Fixed upper airway obstruction",
+   "B": "Variable extrathoracic obstruction",
+   "C": "Variable intrathoracic obstruction",
+   "D": "Diffuse intrathoracic obstruction (asthma)"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0058.jpg",
+  "e": {
+   "correcta": "In a variable extrathoracic obstruction (e.g., vocal cord paralysis, tracheal lesion above the thoracic inlet), the pressure outside the airway is atmospheric while the pressure inside the lumen falls below atmospheric during forced inspiration, causing the lesion to be sucked inward and flattening the inspiratory loop, which produces inspiratory stridor as shown. During forced expiration, the intraluminal pressure rises above atmospheric and pushes the obstruction outward, so the expiratory limb remains essentially normal, matching the loop depicted.",
+   "incorrectas": {
+    "A": "A fixed obstruction (e.g., tracheal stenosis from a rigid mass or scar) flattens BOTH the inspiratory and expiratory limbs equally because the airway caliber cannot change with the respiratory cycle, unlike the isolated inspiratory flattening seen here.",
+    "C": "A variable intrathoracic obstruction (e.g., a tracheal tumor below the thoracic inlet) is compressed during forced expiration when intrathoracic pressure exceeds intraluminal pressure, flattening the expiratory limb while sparing inspiration — the reverse of the pattern shown.",
+    "D": "Diffuse intrathoracic (small airway) obstruction as in asthma produces a characteristic scooped-out, concave expiratory limb due to widespread small airway collapse, not an isolated flattened inspiratory limb with a normal expiratory limb."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1520714481780",
+  "tema_nombre": "Gastrointestinal Anatomy",
+  "q": "An axial abdominal CT image is shown with the celiac trunk emerging from the aorta, the portal vein visible medial to the right hepatic lobe and anterior to the IVC, and the splenic vein identified coursing toward the spleen. At which vertebral level was this CT slice most likely obtained?",
+  "o": {
+   "A": "T10",
+   "B": "T12/L1",
+   "C": "L2",
+   "D": "L3/L4"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0059.jpg",
+  "e": {
+   "correcta": "The celiac trunk is the first major ventral branch of the abdominal aorta, arising at approximately the T12/L1 vertebral level, so its visualization on an axial CT slice — together with the portal vein confluence and splenic vein that form near this level — localizes the image to T12/L1. This level is a key anatomic landmark because it also marks the approximate location of the pylorus and the origin of the three celiac trunk branches (left gastric, splenic, common hepatic arteries).",
+   "incorrectas": {
+    "C": "L2 is roughly the level of the superior mesenteric artery origin (about one vertebral body below the celiac trunk) and the renal hila, not where the celiac trunk itself emerges, so a slice showing the celiac trunk clearly is more cephalad than L2.",
+    "A": "T10 is too high — at this level the aorta has not yet given off the celiac trunk, and structures seen would be more consistent with the lower thoracic esophagus and diaphragmatic hiatus rather than the celiac trunk and portal/splenic veins.",
+    "D": "L3/L4 corresponds to the level of the aortic bifurcation and inferior mesenteric artery origin, well below the celiac trunk and portal venous confluence depicted in this image."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1520723775776",
+  "tema_nombre": "Cardiovascular Pharmacology",
+  "q": "A 45-year-old woman with hypertension and a history of asthma is currently on an ACE inhibitor and a nonselective beta-blocker. To avoid respiratory complications, which adjustment to her regimen is most appropriate?",
+  "o": {
+   "A": "Switch to a nondihydropyridine calcium channel blocker only, discontinuing all other agents",
+   "B": "Add a loop diuretic and continue both existing agents unchanged",
+   "C": "Replace the ACE inhibitor with an ARB and the nonselective beta-blocker with a cardioselective beta-blocker",
+   "D": "Increase the dose of the nonselective beta-blocker to better control heart rate"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0061.jpg",
+  "e": {
+   "correcta": "In patients with obstructive lung disease such as asthma or COPD, ACE inhibitors should be avoided because the dry cough they can cause may be confused with a respiratory exacerbation, so switching to an ARB (which does not increase bradykinin and rarely causes cough) is preferred. Likewise, nonselective beta-blockers should be replaced with cardioselective (beta-1 selective) agents to minimize beta-2 receptor blockade in the airways, which would otherwise promote bronchoconstriction; calcium channel blockers and thiazide diuretics remain safe options in these patients as well.",
+   "incorrectas": {
+    "A": "While calcium channel blockers are indeed safe in obstructive lung disease, abruptly discontinuing all other antihypertensive therapy is unnecessary and could worsen blood pressure control; the goal is substitution of the problematic agents, not blanket discontinuation.",
+    "B": "Continuing the ACE inhibitor and nonselective beta-blocker unchanged leaves the patient at risk for ACE-inhibitor cough (confounding respiratory symptoms) and beta-2-mediated bronchoconstriction from the nonselective beta-blocker; simply adding a diuretic does not address either risk.",
+    "D": "Increasing a nonselective beta-blocker dose in a patient with asthma would worsen beta-2 blockade and increase the risk of bronchospasm, which is the opposite of the desired management."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1520726299596",
+  "tema_nombre": "Gastrointestinal Anatomy",
+  "q": "The image shows a cross-section of the posterior abdominal wall depicting the retroperitoneal organs (kidneys, aorta, IVC, duodenum, ascending/descending colon, pancreas) sitting against the psoas and paraspinal muscles. Blunt trauma disrupting these structures classically causes accumulation of blood or gas in which anatomic compartment?",
+  "o": {
+   "A": "Peritoneal cavity",
+   "B": "Retroperitoneal space",
+   "C": "Lesser sac",
+   "D": "Pleural cavity"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0062.jpg",
+  "e": {
+   "correcta": "The structures highlighted in the diagram — kidneys, aorta, IVC, duodenum (except the first part), ascending and descending colon, and pancreas — are classic SAD PUCKER retroperitoneal organs that lie posterior to the parietal peritoneum against the posterior abdominal wall. Injury to these structures (e.g., from blunt trauma or a penetrating injury) causes blood or gas to accumulate in the retroperitoneal space rather than the peritoneal cavity, producing a retroperitoneal hematoma that presents with hemodynamic instability, a drop in hemoglobin, and ipsilateral flank pain (Grey Turner sign in some cases).",
+   "incorrectas": {
+    "A": "The peritoneal cavity is the space enclosing intraperitoneal organs (e.g., stomach, jejunum, ileum, transverse colon, spleen, liver); injury to the retroperitoneal structures shown does not primarily bleed into this compartment because the parietal peritoneum separates the two spaces.",
+    "C": "The lesser sac is a specific peritoneal recess posterior to the stomach and lesser omentum, communicating with the greater sac via the epiploic foramen — it is an intraperitoneal space, not the compartment where retroperitoneal organ injuries collect fluid.",
+    "D": "The pleural cavity surrounds the lungs within the thorax and is anatomically separate from the abdominal retroperitoneum; it would not be the site of accumulation from injury to abdominal retroperitoneal organs."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1556238858660",
+  "tema_nombre": "Virology",
+  "q": "A silver or Giemsa-stained cytology specimen from a patient with suspected fungal infection shows macrophages packed with numerous small, uniform, oval yeast forms (as indicated by the arrow), each measuring only about 2-4 micrometers. Which fungus is shown?",
+  "o": {
+   "A": "Blastomyces dermatitidis",
+   "B": "Histoplasma capsulatum",
+   "C": "Cryptococcus neoformans",
+   "D": "Coccidioides immitis"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0063.jpg",
+  "e": {
+   "correcta": "Histoplasma capsulatum is a dimorphic fungus that, in its yeast form at body temperature, appears as small (2-4 micrometer) oval yeasts that are classically found clustered within macrophages, exactly as depicted by the arrow in this image — this intracellular macrophage-parasitizing pattern is a key distinguishing feature. Histoplasmosis is endemic to the Ohio and Mississippi River valleys and is acquired by inhaling spores from soil contaminated with bird or bat droppings.",
+   "incorrectas": {
+    "A": "Blastomyces dermatitidis yeast forms are much larger (8-15 micrometers), thick-walled, and show broad-based budding, and they are typically extracellular rather than packed inside macrophages as shown here.",
+    "C": "Cryptococcus neoformans yeasts have a thick polysaccharide capsule best visualized with India ink or mucicarmine stain, producing a halo around the yeast, and they are not classically found clustered within macrophages in this small uniform pattern.",
+    "D": "Coccidioides immitis in tissue forms large spherules (30-60 micrometers) packed with endospores, a dramatically different and much larger morphology than the tiny yeast forms seen intracellularly here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1556238897815",
+  "tema_nombre": "Clinical Bacteriology",
+  "q": "A KOH preparation of a skin scraping from a patient with hypopigmented, scaly patches on the trunk is shown, demonstrating short hyphae admixed with clusters of round yeast forms, described as a \"spaghetti and meatballs\" pattern. Which organism is responsible for this presentation?",
+  "o": {
+   "A": "Trichophyton rubrum",
+   "B": "Candida albicans",
+   "C": "Malassezia furfur",
+   "D": "Sporothrix schenckii"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0064.jpg",
+  "e": {
+   "correcta": "Malassezia furfur (formerly Pityrosporum) is a dimorphic, lipophilic fungus that is part of normal skin flora but can cause tinea (pityriasis) versicolor, producing hypopigmented or hyperpigmented scaly patches, classically on the trunk. On KOH prep it shows the pathognomonic combination of short curved hyphae (\"spaghetti\") along with round yeast clusters (\"meatballs\"), exactly as depicted in this image.",
+   "incorrectas": {
+    "A": "Trichophyton rubrum is a dermatophyte causing tinea corporis, pedis, and onychomycosis; on KOH it shows septate hyphae without the yeast-cell clusters, lacking the \"meatballs\" component of the pattern shown.",
+    "B": "Candida albicans forms pseudohyphae and budding yeast but does not produce the discrete short curved hyphae with round yeast clusters characteristic of the spaghetti-and-meatballs appearance, and it more classically causes mucocutaneous or vaginal infections rather than trunk hypopigmentation.",
+    "D": "Sporothrix schenckii is a dimorphic fungus causing sporotrichosis (\"rose gardener's disease\") with cigar-shaped yeast forms and nodular lymphocutaneous lesions following a traumatic inoculation, an entirely different clinical and morphologic picture."
+   }
+  },
+  "review_note": null
+ }
+]

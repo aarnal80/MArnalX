@@ -52,3 +52,9 @@ data/anking/_official_answer_key.json
 data/anking/_official_image_log.json
 data/anking/_official_batches_in*/
 data/anking/_official_batches_out*/
+# Ficheros intermedios de la tanda piloto "con imagen/audio" (ver §13 del plan;
+# se conservan _media_trial_clean/_dropped/_merged como checkpoints, el resto
+# es regenerable volviendo a extraer del .apkg con tools/anki_extract_media.py)
+data/anking/_media_trial_batches_in*/
+data/anking/_media_trial_batches_out*/
+data/anking/_media_trial_qa_out_*.json
