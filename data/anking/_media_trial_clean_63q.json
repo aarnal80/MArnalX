@@ -22,6 +22,48 @@
   "review_note": null
  },
  {
+  "anki": "1468101697168",
+  "tema_nombre": "Cellular Injury",
+  "q": "Neurons, skeletal muscle, cardiac muscle, and red blood cells are classic examples of which category of cell based on regenerative capacity?",
+  "o": {
+   "A": "Labile cells",
+   "B": "Stable (quiescent) cells",
+   "C": "Permanent cells",
+   "D": "Pluripotent stem cells"
+  },
+  "r": "C",
+  "e": {
+   "correcta": "Permanent cells are terminally differentiated and have exited the cell cycle (remaining in G0), so they cannot regenerate after injury; lost tissue is instead replaced by fibrosis or scar. Neurons and cardiac/skeletal myocytes lack the machinery to re-enter mitosis, and mature RBCs are anucleate and cannot divide at all, which is why myocardial infarction and neuronal injury heal with scar tissue rather than functional tissue regrowth.",
+   "incorrectas": {
+    "A": "Labile cells (e.g., epidermis, GI epithelium, bone marrow hematopoietic cells) continuously cycle and regenerate rapidly throughout life, the opposite of the non-dividing tissues listed here.",
+    "B": "Stable (quiescent) cells, like hepatocytes and proximal tubule cells, normally sit in G0 but retain the capacity to re-enter the cell cycle and proliferate when needed (e.g., liver regeneration); neurons and cardiac myocytes lack this reserve capacity.",
+    "D": "Pluripotent stem cells can differentiate into any cell type and self-renew indefinitely; mature neurons, myocytes, and RBCs are fully differentiated end cells, not stem cells."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1468101717082",
+  "tema_nombre": "Cellular Injury",
+  "q": "Hepatocytes, lymphocytes, proximal convoluted tubule (PCT) cells, and periosteal cells are classic examples of which category of cell based on regenerative capacity?",
+  "o": {
+   "A": "Permanent cells",
+   "B": "Labile cells",
+   "C": "Stable (quiescent) cells",
+   "D": "Terminally differentiated cells"
+  },
+  "r": "C",
+  "e": {
+   "correcta": "Stable (quiescent) cells normally reside in the G0 phase of the cell cycle but retain the ability to re-enter G1 and proliferate in response to injury or loss of tissue mass. Hepatocytes exemplify this well, as the liver can regenerate substantially after partial resection, and PCT cells can proliferate to repair the tubule after acute tubular necrosis. This intermediate regenerative capacity distinguishes them from constantly dividing labile cells and from non-dividing permanent cells.",
+   "incorrectas": {
+    "A": "Permanent cells (neurons, cardiac and skeletal muscle) are terminally differentiated and cannot re-enter the cell cycle at all, whereas hepatocytes and PCT cells clearly can proliferate when stimulated.",
+    "B": "Labile cells divide continuously and rapidly throughout life (e.g., bone marrow, gut epithelium, epidermis) to maintain normal turnover, unlike hepatocytes and PCT cells which are normally quiescent and only proliferate on demand.",
+    "D": "\"Terminally differentiated\" describes permanent cells that have permanently lost proliferative capacity, which is the opposite of stable cells that can still divide when needed."
+   }
+  },
+  "review_note": null
+ },
+ {
   "anki": "1472147826598",
   "tema_nombre": "Cardiovascular Physiology",
   "q": "The ECG tracing shown demonstrates an irregularly irregular rhythm with variable RR intervals and an undulating baseline without discrete P waves. Which arrhythmia does this represent?",
@@ -369,6 +411,28 @@
     "B": "The cornea is the clear, avascular anterior window of the eye that sits external and anterior to the structures labeled here, providing most of the eye's refractive power but playing no role in aqueous secretion or lens suspension.",
     "C": "The iris is the pigmented diaphragm with the central pupillary opening, positioned anterior to the labeled structure, and its main function is to regulate pupil size via the sphincter and dilator muscles rather than to secrete fluid or suspend the lens.",
     "D": "The conjunctiva is a thin mucous membrane covering the sclera and inner eyelids, entirely external to the globe's internal anterior segment structures shown in this cutaway diagram."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481244255546",
+  "tema_nombre": "Ophthalmology",
+  "q": "On this cross-sectional diagram of the eye, the labeled structure is the site in the posterior pole where retinal ganglion cell axons converge and exit the globe alongside the central retinal artery and vein. Which structure is labeled?",
+  "o": {
+   "A": "Fovea",
+   "B": "Ora serrata",
+   "C": "Macula",
+   "D": "Optic disc"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0024.jpg",
+  "e": {
+   "correcta": "The optic disc is the point on the posterior retina where axons from retinal ganglion cells bundle together to form the optic nerve and exit the eye, and it is also where the central retinal artery and vein enter/exit the globe — exactly the region highlighted in the diagram just anterior to the optic nerve. Because it contains no photoreceptors, it corresponds to the physiologic blind spot on visual field testing, and it can appear swollen (papilledema) with raised intracranial pressure.",
+   "incorrectas": {
+    "B": "The ora serrata is the scalloped junction between the retina and the ciliary body found at the periphery of the retina anteriorly, far from the posterior pole region labeled in this image.",
+    "A": "The fovea is a small pit within the macula, temporal to the optic disc, packed densely with cones and responsible for the sharpest visual acuity — it is a distinct retinal landmark, not the location where the nerve and vessels exit.",
+    "C": "The macula is the broader region of the central retina surrounding the fovea, responsible for central and color vision, but it is a retinal area for photoreceptor-based vision, not the exit point for the optic nerve and central retinal vessels."
    }
   },
   "review_note": null
@@ -1012,6 +1076,27 @@
   "review_note": null
  },
  {
+  "anki": "1520723735061",
+  "tema_nombre": "Cardiovascular Pharmacology",
+  "q": "A 58-year-old man with essential hypertension is newly diagnosed with type 2 diabetes mellitus. In light of this new comorbidity, which class of antihypertensive should now be favored as first-line therapy?",
+  "o": {
+   "A": "Thiazide diuretics",
+   "B": "ACE inhibitors / ARBs",
+   "C": "Non-dihydropyridine calcium channel blockers",
+   "D": "Beta-blockers"
+  },
+  "r": "B",
+  "e": {
+   "correcta": "ACE inhibitors and ARBs are preferred first-line agents in hypertensive patients with diabetes mellitus because, beyond lowering blood pressure, they dilate the efferent glomerular arteriole and reduce intraglomerular pressure, which is specifically renoprotective and slows the progression of diabetic nephropathy. This dual benefit (BP control plus nephroprotection) is why guidelines favor them over other classes once diabetes is present.",
+   "incorrectas": {
+    "A": "Thiazide diuretics are a reasonable general antihypertensive but have no specific renoprotective effect in diabetic nephropathy and can worsen glucose tolerance and dyslipidemia, making them a less ideal first choice once diabetes is diagnosed.",
+    "C": "Non-dihydropyridine calcium channel blockers (e.g., verapamil, diltiazem) lower blood pressure but lack the efferent-arteriolar dilating, antiproteinuric effect of ACE-I/ARBs, so they are not the preferred renoprotective choice in diabetic hypertensive patients.",
+    "D": "Beta-blockers are useful antihypertensives with other indications (e.g., post-MI, heart failure) but do not provide the specific protection against diabetic nephropathy that ACE-I/ARBs do, and they can mask hypoglycemic symptoms in diabetic patients."
+   }
+  },
+  "review_note": null
+ },
+ {
   "anki": "1520723775776",
   "tema_nombre": "Cardiovascular Pharmacology",
   "q": "A 45-year-old woman with hypertension and a history of asthma is currently on an ACE inhibitor and a nonselective beta-blocker. To avoid respiratory complications, which adjustment to her regimen is most appropriate?",
@@ -1098,5 +1183,202 @@
    }
   },
   "review_note": null
+ },
+ {
+  "anki": "1480612648687",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this ventral view of the brainstem, a dense fan of cranial nerve rootlets is shown emerging along the lateral medulla and pontomedullary junction. The boxed 'ID' label marks a rootlet exiting laterally right at the junction between the pons and the upper medulla, at the level where the diagram groups nerves V, VI, VII, and VIII. Which cranial nerve is this?",
+  "o": {
+   "A": "Facial nerve (CN VII)",
+   "B": "Vestibulocochlear nerve (CN VIII)",
+   "C": "Glossopharyngeal nerve (CN IX)",
+   "D": "Trigeminal nerve (CN V)"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0010.jpg",
+  "e": {
+   "correcta": "CN VIII (vestibulocochlear) emerges from the brainstem at the pontomedullary junction, at the cerebellopontine angle, immediately adjacent to CN VII. It carries special sensory fibers for hearing (cochlear division) and balance (vestibular division), and this exit point is clinically important because tumors here (vestibular schwannomas) classically compress both CN VII and CN VIII together, producing progressive unilateral hearing loss, tinnitus, and imbalance.",
+   "incorrectas": {
+    "A": "CN VII (facial) exits right next to CN VIII at the same pontomedullary junction, but it runs slightly more medially/anteriorly toward the internal acoustic meatus and carries motor fibers to the muscles of facial expression rather than the special sensory fibers marked by the more posterolateral vestibulocochlear root shown here.",
+    "C": "CN IX (glossopharyngeal) exits from the medulla more caudally, below the pontomedullary junction, as part of a series of rootlets alongside CN X and XI along the postolivary sulcus — its exit point is distinctly lower than the level marked in this image.",
+    "D": "CN V (trigeminal) exits from the mid-pons as a large single root, well rostral to the pontomedullary junction — its position is clearly more superior than the rootlet marked here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480612655080",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this ventral view of the brainstem, the boxed 'ID' label sits over the smooth, oval surface bulge on the lateral medulla, just below the pontomedullary junction and lateral to the corticospinal tract (pyramid) that runs down the midline. Which structure produces this surface elevation?",
+  "o": {
+   "A": "Cerebral peduncle",
+   "B": "Facial colliculus",
+   "C": "Olive (inferior olivary nucleus)",
+   "D": "Gracile tubercle"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0011.jpg",
+  "e": {
+   "correcta": "The olive is the oval prominence on the ventrolateral medulla, produced by the underlying inferior olivary nucleus, which sits just lateral to the pyramid, posterior to the hypoglossal (CN XII) rootlets, and medial to the line of CN IX, X, and XI rootlets. The inferior olivary nucleus relays proprioceptive and motor-error signals to the contralateral cerebellum via the inferior cerebellar peduncle (climbing fibers), playing a key role in motor learning and coordination.",
+   "incorrectas": {
+    "A": "The cerebral peduncle is a midbrain structure carrying descending corticospinal and corticobulbar fibers on the ventral midbrain surface — it lies far rostral to the medulla, near the level labeled 'Midbrain III, IV' in this diagram, not at the medullary level marked here.",
+    "B": "The facial colliculus is a small elevation on the dorsal (not ventral) surface of the pons, caused by the abducens nucleus and the looping facial nerve fibers around it — it is not visible on this ventral view and is unrelated to the lateral medullary bulge shown.",
+    "D": "The gracile tubercle is a small dorsal medullary elevation overlying the nucleus gracilis, part of the dorsal column pathway — it belongs on the posterior surface of the brainstem, not the ventrolateral bulge highlighted here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480612660494",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this ventral view of the brainstem, the boxed 'ID' label marks a line of rootlets that arises along the lateral medulla and extends further caudally than the other rootlets shown, continuing down toward the upper cervical spinal cord near where the corticospinal tract (pyramid) descends. Which cranial nerve is this?",
+  "o": {
+   "A": "Hypoglossal nerve (CN XII)",
+   "B": "Vagus nerve (CN X)",
+   "C": "Glossopharyngeal nerve (CN IX)",
+   "D": "Accessory nerve (CN XI)"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0012.jpg",
+  "e": {
+   "correcta": "The accessory nerve (CN XI) has a unique dual origin: cranial rootlets from the caudal medulla and, more prominently, spinal rootlets that arise from the upper cervical spinal cord (roughly C1-C5) and ascend through the foramen magnum before joining the cranial root and exiting the skull via the jugular foramen. This is why its rootlets are seen extending down past the medulla into the cervical cord region, distinguishing it from the purely medullary cranial nerves positioned above it.",
+   "incorrectas": {
+    "A": "CN XII (hypoglossal) exits from the ventral medulla via the preolivary sulcus, medial to the olive and between the olive and the pyramid, not from the more lateral, caudally-extending line of rootlets marked here — its position is medial and its rootlets do not extend down into the spinal cord.",
+    "B": "CN X (vagus) does exit from the lateral medulla along the postolivary sulcus, but its rootlets sit rostral to CN XI's, immediately below CN IX and confined to the medulla — the rootlets marked in this image extend caudal to that position, down toward the spinal cord, which is characteristic of CN XI rather than CN X.",
+    "C": "CN IX (glossopharyngeal) is the most rostral of the postolivary sulcus rootlets, exiting just below the pontomedullary junction — it is positioned well above the rootlets marked here, which extend down into the upper cervical region."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1480875895840",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this rostral medulla cross-section, the labeled (ID) structure is the large oval region at the dorsal surface, medial to the inferior cerebellar peduncle and the entering CN VIII fibers, and just lateral/superior to the hypoglossal nucleus. Which structure is this?",
+  "o": {
+   "A": "Cochlear nucleus",
+   "B": "Spinal trigeminal nucleus",
+   "C": "Nucleus ambiguus",
+   "D": "Inferior olivary nucleus"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0017.jpg",
+  "e": {
+   "correcta": "The spinal trigeminal nucleus forms a long column running through the dorsolateral medulla, extending from the pons down to the upper cervical spinal cord, and at the rostral medulla it lies medial to the inferior cerebellar peduncle near the dorsal surface, adjacent to the hypoglossal nucleus. It receives pain and temperature fibers from the ipsilateral face via cranial nerves V, VII, IX, and X, mediating facial pain/temperature sensation analogous to the spinothalamic tract in the body; infarction here (e.g., lateral medullary/Wallenberg syndrome) causes loss of ipsilateral facial pain and temperature sensation.",
+   "incorrectas": {
+    "A": "The cochlear nucleus sits more laterally, right at the point where CN VIII fibers enter the brainstem alongside the inferior cerebellar peduncle, not medially near the hypoglossal nucleus as depicted here.",
+    "C": "The nucleus ambiguus lies more ventrolaterally, near the origin of CN IX and X rootlets, and gives rise to motor fibers for the pharynx and larynx, not this dorsomedial position.",
+    "D": "The inferior olivary nucleus is a large, ventrally located structure in the medulla (the prominent yellow oval in this diagram), quite distinct in both shape and position from the dorsally placed structure indicated here."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481596972539",
+  "tema_nombre": "Neurology & Special Senses Anatomy & Physiology",
+  "q": "On this lateral diagram of the cerebral cortex, the 'ID' label marks a band in the frontal lobe that sits immediately anterior to the primary motor strip bordering the central sulcus (Rolando) — that is, caudal to the frontal eye field but rostral to the precentral gyrus. Damage to this band impairs the planning, sequencing, and coordination of complex, learned voluntary movements even though raw strength is preserved. Which cortical area is marked?",
+  "o": {
+   "A": "Frontal eye field (Brodmann area 8)",
+   "B": "Prefrontal association cortex",
+   "C": "Premotor cortex (Brodmann area 6)",
+   "D": "Primary somatosensory cortex (Brodmann areas 3, 1, 2)"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0029.jpg",
+  "e": {
+   "correcta": "The premotor cortex (Brodmann area 6) forms a band on the lateral frontal lobe directly anterior to the primary motor cortex/central sulcus and caudal to the frontal eye field. It participates in planning and coordinating learned, sequential motor programs (often cued by external stimuli) before primary motor cortex executes them, and lesions here produce apraxia-like deficits in skilled movement despite intact strength.",
+   "incorrectas": {
+    "A": "The frontal eye field (area 8) lies rostral to the premotor band, closer to the middle frontal gyrus, and its main function is generating contralateral saccadic eye movements rather than coordinating limb motor programs.",
+    "B": "Prefrontal association cortex occupies the anterior-most frontal lobe, well rostral to both the frontal eye field and the premotor band, and mediates executive function, judgment, and personality rather than movement planning.",
+    "D": "Primary somatosensory cortex (areas 3, 1, 2) lies on the postcentral gyrus, posterior to the central sulcus in the parietal lobe, and processes touch, proprioception, and vibration rather than motor planning."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1481596947946",
+  "tema_nombre": "Cardiovascular Anatomy",
+  "q": "On this inferior view of the brain showing the circle of Willis and its branches, the labeled vessel ('ID') is seen arising laterally from the rostral basilar trunk, just below the internal carotid/posterior communicating artery junction, and coursing over the upper pons toward the cerebellar surface. Which artery is indicated?",
+  "o": {
+   "A": "Posterior cerebral artery",
+   "B": "Anterior inferior cerebellar artery (AICA)",
+   "C": "Superior cerebellar artery",
+   "D": "Posterior inferior cerebellar artery (PICA)"
+  },
+  "r": "C",
+  "img": "img/anking/anking-0026.jpg",
+  "e": {
+   "correcta": "The superior cerebellar artery (SCA) arises from the tip of the basilar artery just before it bifurcates into the two posterior cerebral arteries, making it sit immediately adjacent to the ICA/PCom/PCA junction seen in this figure — the exact reason its label is so easily mistaken for the PCA. From there it courses posterolaterally around the midbrain, just below the oculomotor nerve and above the trigeminal nerve root, to supply the superior surface of the cerebellum and part of the midbrain.",
+   "incorrectas": {
+    "A": "The posterior cerebral artery continues from the basilar bifurcation around the midbrain to supply the occipital and inferior temporal lobes; in this diagram it is the vessel that curves up and over into the temporal lobe from the ICA/PCom loop, one level above and separate from the vessel actually indicated here.",
+    "B": "AICA arises from the proximal-to-mid basilar trunk, below the level of the SCA, and loops laterally near the cerebellopontine angle (near CN VII/VIII) — it sits lower on the trunk than the vessel labeled here, which branches right at the top of the basilar near the ICA/PCom junction.",
+    "D": "PICA arises from the vertebral artery near the medulla, the most caudal of the three cerebellar arteries — on this figure it would be labeled much lower, near the medullary/vertebral segment, not at the upper pons-midbrain junction beside the internal carotid loop."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1490066159100",
+  "tema_nombre": "Pharmacokinetics & Pharmacodynamics",
+  "q": "Which formula, shown in the image, is used to estimate the volume of distribution (Vd) of a drug?",
+  "o": {
+   "A": "Vd = clearance / elimination rate constant",
+   "B": "Vd = (bioavailability x dose) / plasma concentration at time zero",
+   "C": "Vd = half-life x 0.693",
+   "D": "Vd = maintenance dose / clearance"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0035.jpg",
+  "e": {
+   "correcta": "The image depicts the standard equation Vd = amount of drug in the body / plasma drug concentration, which in practice is estimated as Vd = (F x dose) / Cp0, where F is bioavailability and Cp0 is the extrapolated plasma concentration at time zero. This formula conceptually asks how large a volume the drug would need to occupy, at the concentration measured in plasma, to account for the entire dose administered — a low Vd implies the drug stays mostly in the vasculature, while a high Vd implies extensive tissue distribution.",
+   "incorrectas": {
+    "A": "Clearance / elimination rate constant (CL/ke) is actually an alternative, mathematically equivalent way to calculate Vd, but it is not the formula shown in this image, which specifically depicts the dose-and-concentration-based definition.",
+    "C": "Half-life is related to Vd and clearance by t1/2 = 0.693 x Vd / CL, but this expression calculates half-life, not volume of distribution itself, and does not match the equation pictured.",
+    "D": "Maintenance dose / clearance describes how to calculate a steady-state plasma concentration or dosing rate, not the volume of distribution."
+   }
+  },
+  "review_note": null
+ },
+ {
+  "anki": "1510276903576",
+  "tema_nombre": "Parasitology",
+  "q": "A patient returning from a trip to sub-Saharan Africa presents with cyclical fevers, chills, and malaise. A thin blood smear is obtained (image shown). The infected red blood cell is markedly enlarged and contains a dense, irregularly lobulated purple mass whose chromatin appears clumped into multiple segments, rather than a single delicate ring or one smooth ameboid form. Which Plasmodium life-cycle stage is shown?",
+  "o": {
+   "A": "Ring-form trophozoite",
+   "B": "Schizont (with merozoites)",
+   "C": "Gametocyte",
+   "D": "Early (ameboid) trophozoite"
+  },
+  "r": "B",
+  "img": "img/anking/anking-0036.jpg",
+  "e": {
+   "correcta": "This is a schizont: the infected RBC is enlarged and packed with a lobulated, segmented mass of dark purple chromatin representing multiple merozoite nuclei produced by asexual nuclear division of the parasite, rather than a single ring or solid ameboid blob. This stage is clinically important because the mature schizont ruptures the RBC, releasing merozoites that go on to invade new erythrocytes, driving the cyclical hemolysis and fever seen in malaria. Schizogony (this repeated cycle of merozoite release and reinvasion) underlies the periodic fever pattern used to help distinguish Plasmodium species.",
+   "incorrectas": {
+    "A": "A ring-form trophozoite appears as a thin, delicate loop of blue-purple cytoplasm with a single small chromatin dot, resembling a signet ring — it lacks the dense, multi-segmented chromatin mass seen here.",
+    "C": "A gametocyte, especially in P. falciparum, has a distinctive elongated, crescent (banana) shape; the parasite in this image instead nearly fills a rounded, unruptured RBC with clumped internal segments, which does not fit a gametocyte's morphology.",
+    "D": "An early (ameboid) trophozoite shows irregular, amoeba-like cytoplasmic extensions with a single nucleus and no division into discrete chromatin clumps, whereas this parasite already shows evidence of nuclear segmentation into multiple merozoite-forming units."
+   }
+  },
+  "review_note": "The merozoites appear as a clumped, lobulated mass rather than cleanly separated individual dots, so an exact merozoite count cannot be confidently read off this image; the description above reflects the overall segmented, multi-nucleated appearance actually observed rather than a precise count."
+ },
+ {
+  "anki": "1514662177557",
+  "tema_nombre": "Antimicrobials",
+  "q": "The image lists a group of anti-HIV drugs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zidovudine). Most of these agents do not share a single common name suffix (only lamivudine, stavudine, and zidovudine end in \"-vudine\"), but all of them require intracellular phosphorylation before competing with natural nucleotides for incorporation into viral DNA. Which drug class do they belong to?",
+  "o": {
+   "A": "Non-nucleoside reverse transcriptase inhibitor (NNRTI)",
+   "B": "Integrase strand transfer inhibitor",
+   "C": "Protease inhibitor",
+   "D": "Nucleoside reverse transcriptase inhibitor (NRTI)"
+  },
+  "r": "D",
+  "img": "img/anking/anking-0045.jpg",
+  "e": {
+   "correcta": "All seven drugs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zidovudine) are nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs). They are synthetic nucleoside (or nucleotide) analogs that must be phosphorylated intracellularly to their active triphosphate forms before competing with endogenous nucleotides for incorporation by HIV reverse transcriptase, acting as chain terminators because they lack the 3'-OH group needed to form the next phosphodiester bond. Unlike most drug classes, NRTIs do not have one universal naming suffix: \"-vudine\" identifies only lamivudine, stavudine, and zidovudine, while abacavir, didanosine, emtricitabine, and tenofovir are naming outliers that must simply be memorized as belonging to this class.",
+   "incorrectas": {
+    "A": "NNRTIs (e.g., efavirenz, nevirapine) also inhibit reverse transcriptase, but they bind an allosteric site on the enzyme directly rather than acting as nucleoside/nucleotide analogs, so they do not require intracellular phosphorylation and are structurally unrelated to the drugs listed here.",
+    "B": "Integrase strand transfer inhibitors (e.g., raltegravir, dolutegravir, bictegravir) block the integrase enzyme from inserting proviral DNA into the host genome, a later step in the HIV life cycle that has nothing to do with reverse transcriptase or nucleotide competition.",
+    "C": "Protease inhibitors (e.g., ritonavir, indinavir, saquinavir, atazanavir) inhibit the HIV protease enzyme responsible for cleaving polyprotein precursors into mature structural and enzymatic proteins, acting at a much later stage of viral maturation than reverse transcription."
+   }
+  }
  }
 ]
