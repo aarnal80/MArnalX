@@ -218,6 +218,7 @@ details summary { cursor: pointer; font-weight: 900; font-size: .85rem; text-tra
   background: transparent; border: none; color: var(--texto-suave); font-weight: 900;
 }
 .btn.danger { color: var(--mal); border-color: var(--borde); }
+.btn-todo-subjects { margin-bottom: 14px; }
 .btn:disabled { background: var(--borde); border: none; color: var(--texto-suave); box-shadow: none; cursor: default; transform: none; }
 
 /* ---------- Temario (acordeón + camino de nodos) ---------- */
