@@ -1,6 +1,6 @@
 # Plan: reconversión de la app a USMLE Step 1 (fuente AnKing)
 
-> **Estado (2026-07-06, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **65 temas / 3.728 preguntas**. Explicaciones de la cohorte antigua (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7.
+> **Estado (2026-07-07, actualizado):** v1 en marcha. App migrada, traducida al inglés, tema visual rojo, icono propio, desplegada en Vercel. Datos en producción (`app/data/db.js`): **107 temas / 3.847 preguntas / 2 fuentes** (AnKing + cuadernillo oficial NBME/FSMB). Explicaciones de la cohorte antigua de AnKing (fase 1 + 1ª tanda hiperloop, prompt sin reforzar) ya corregidas casi al completo — ver §10.7. Esquema ampliado para soportar opciones de longitud variable (hasta G) e imágenes en el enunciado — ver §11.
 > **Autor del plan:** Opus (2026-07-04). Implementación: Sonnet.
 > Login desactivado temporalmente (`GATE_DISABLED_FOR_TESTING` en `app/auth/gate.js`) mientras dura la fase de pruebas.
 > Prueba de concepto original: [`data/anking/muestra_step1.json`](data/anking/muestra_step1.json) — 3 temas, 33 preguntas (ya incluidos en el dataset actual).
@@ -302,3 +302,51 @@ Con las 3.728 preguntas ya en producción, se detectó que la cohorte convertida
 **Bug nuevo detectado en esta pasada (no documentado antes):** en la tanda 3, 17 preguntas salieron con el campo `anki` de eco **desplazado al vecino** dentro del mismo lote (el contenido de `e` era correcto para su `id`, pero el `anki` echoed pertenecía a la pregunta anterior o siguiente del lote) — se verificó caso por caso que el contenido sí correspondía al `id` declarado, y se corrigió confiando en `id` (más fiable, es la clave de búsqueda) y resincronizando `anki` contra el dataset base antes de fusionar. Si vuelve a pasar, `merge_explanation_fixes.py`/su equivalente Node ya lo detecta solo (compara `anki` esperado vs recibido) — solo falta automatizar la resincronización en vez de hacerla a mano.
 
 Tras cada tanda: `DB_HASH` en `app/sw.js` se bumpeó (`fix1` → `fix2` → `fix3`) y se verificó en preview limpiando `caches`/`serviceWorker` antes de comprobar `window.DB.preguntas.length`.
+
+---
+
+## 11. Segunda fuente: cuadernillo oficial NBME/FSMB (2026-07-07)
+
+Se añadió la **primera fuente distinta de AnKing**, validando por fin el diseño "fuentes" del §3 (hasta ahora solo había una). Origen: `Step_1_Sample_Items.pdf` (el cuadernillo gratuito **"USMLE Step 1 Sample Test Questions"**, de dominio público — "For Public Release" en la portada —, publicado conjuntamente por la FSMB y la NBME). No es contenido de terceros con licencia restringida como el mazo AnKing; es el material oficial de práctica que la propia NBME distribuye a los candidatos.
+
+### 11.1 Qué tiene el documento
+
+- 119 preguntas reales, 6 bloques, con clave de respuestas al final (sin explicaciones — las escribe la IA, igual que con AnKing).
+- **Opciones de longitud variable:** no siempre 4. Distribución real: 12 con 4, 91 con 5, 13 con 6, 3 con 7 (letras hasta G).
+- **21 preguntas con imagen** (fotos clínicas, cortes anatómicos, ECG, histología, radiografías, pedigrí, gráficas).
+- El PDF de origen vive fuera del repo (`C:\Users\ca-urgencias\Desktop\Step_1_Sample_Items.pdf` en esta máquina) — no se versiona, igual que el `.apkg` de AnKing.
+
+### 11.2 Extracción (sin librerías dedicadas de PDF — no había `pypdf`/`pdfplumber` instalados)
+
+Se encontró un Python portable ya instalado en esta máquina (`C:\Users\ca-urgencias\tools\python\python.exe`, con **PyMuPDF/`fitz`** disponible) — usarlo si se retoma esto en esta misma máquina. Extracción hecha con scripts ad-hoc (no quedaron como `tools/`, fueron exploratorios):
+1. Texto completo por página con `fitz`, detectando límites de cada ítem 1-119 con una regex secuencial (`\d+\.\s`) — **cuidado**: hacerlo sobre un blob concatenado de todas las páginas desplaza el número de página si el corte del blob no incluye el primer marcador de página completo (bug real que apareció y se corrigió cortando desde el marcador de la página 11, no desde el texto "BLOCK 1, ITEMS").
+2. Clave de respuestas parseada programáticamente de la página de respuestas (no a mano — transcribir a mano un layout en columnas es un riesgo real de error, aunque en este caso la transcripción manual coincidió).
+3. **Imágenes:** extraídas por página con `page.get_images()` + `doc.extract_image(xref)`. El emparejamiento imagen↔pregunta **no es fiable por heurística** (ni por palabras clave en el enunciado tipo "shown"/"photograph", ni por posición vertical del bbox vs. el marcador "N." de cada ítem — se probaron ambos métodos y los dos fallaron en varios casos, incluida una imagen que evidentemente correspondía a un ítem distinto del asignado). **Lo que funcionó: inspección visual directa de cada una de las 21 imágenes** (leerlas con la herramienta de lectura de imágenes) contrastando el contenido real contra el enunciado de los ítems candidatos de esa página. Si se añaden más documentos con imágenes en el futuro, no fiarse de heurísticas automáticas de emparejamiento — verificar cada imagen a ojo, son pocas.
+4. **2 preguntas con opciones en tabla** (#15: curvas cimetidina/omeprazol; #87: fremitus/percusión/ruidos respiratorios; también aplica a #90: tensión de O2/osmolalidad) — la regex de opciones `\(([A-G])\)\s*([^\n]+)` solo capturaba la primera celda de cada fila de la tabla, no la fila completa. Se detectan buscando valores de opción duplicados entre letras (`new Set(valores).size < valores.length`) y se reconstruyen a mano leyendo el texto crudo de la página.
+5. **1 pregunta no convertible sin más** (#43): en el examen real es una imagen con regiones etiquetadas A-E directamente (el estudiante hace clic en la imagen), sin texto de opciones independiente. Se resolvió preguntando al usuario qué estructura anatómica correspondía a cada letra (él conocía la respuesta) en vez de inventarlo — **no adivinar contenido médico sin confirmación cuando no hay forma de verificarlo por texto**.
+
+### 11.3 Esquema: cambios mínimos, sin refactor
+
+- **Opciones variables:** el renderizado de `app.js` ya iteraba con un guard `if (!(letra in q.o)) return`, tolerando menos de 4 opciones — el único bloqueo real era que el array de letras estaba hardcodeado a `["A","B","C","D"]` en 3 sitios. Se amplió a `["A","B","C","D","E","F","G"]` en [`app/app.js:523`](app/app.js) (render del quiz), [`app/app.js:830`](app/app.js) (tarjeta de revisión) y [`app/app.js:1615`](app/app.js) (atajo de teclado). Sin cambios de CSS (las opciones ya usaban `flex` en columna, no `grid` de 4 columnas).
+- **Imagen en el enunciado:** **ya estaba implementado end-to-end** desde antes (función `pintarImagen(q)`, contenedor `#q-imagen`, lightbox), sin usarse por ninguna pregunta existente. Solo hizo falta añadir `img: "img/official/official-NNN.ext"` a las preguntas nuevas — cero cambios de código.
+- **Nueva fuente:** `{id: "nbme-official", nombre: "USMLE Step 1 Sample Test Questions (NBME/FSMB)", ...}` añadida a `fuentes[]`. Los `temas[]` nuevos (43 al principio, 42 tras fusionar un duplicado, ver más abajo) llevan `fuente: "nbme-official"` — mismo patrón que AnKing, cada tema pertenece a una única fuente aunque el nombre se reutilice entre fuentes (p. ej. "Cardiovascular Pathology" existe como tema separado para AnKing y para NBME).
+- **Bug propio cometido y corregido en esta pasada:** al crear los `temas[]` nuevos se puso `sistema: nombre` (en vez del sistema padre real, p. ej. "Cardiovascular" para "Cardiovascular Pathology") — esto rompía el agrupamiento por sistema en la pantalla "Subjects" (cada tema de NBME aparecía como su propio "sistema" de un solo tema, en vez de agruparse junto con los de AnKing). Se corrigió mapeando cada nombre contra la tabla `Nombre → [Sistema]` de la taxonomía (la misma que ya se le da a la IA en el prompt). **Si se añade otra fuente en el futuro, no usar el nombre del tema como `sistema` — mapear siempre contra la taxonomía real.**
+- También se fusionó un tema casi-duplicado: la corrección manual del ítem #43 había clasificado en "Pulmonary Pathology" en vez de reutilizar "Respiratory Pathology" (ya existente en la taxonomía) — reasignado y el tema sobrante eliminado.
+
+### 11.4 Pipeline de generación (solo explicaciones, no distractores)
+
+A diferencia de AnKing (donde había que inventar 3 distractores por cloze), aquí el enunciado/opciones/respuesta ya son oficiales y finales — el único trabajo de IA es **escribir la explicación** + **clasificar el tema** (reutilizando la taxonomía de 65 nombres cuando encaja). Nuevo workflow: [`tools/nbme_official_convert.workflow.js`](tools/nbme_official_convert.workflow.js) (6 lotes de ~20 preguntas + 2 de QA, mismo patrón de constantes hardcodeadas que los otros workflows).
+
+- 6/6 lotes generados; **1 lote (`batch_0005`, ítems 101-119) se perdió por un error transitorio de la API** (`Overloaded`) — el workflow reportó `batchesWritten: 6` pero el fichero de salida no existía realmente en disco. **Lección: no fiarse solo del recuento que devuelve el `Workflow`, comprobar que los ficheros de salida existen de verdad en disco antes de dar por buena una tanda.** Se relanzó ese lote con un agente suelto.
+- QA marcó 1 pregunta (#87) por explicaciones circulares/placeholder — causa raíz: las opciones de esa pregunta estaban rotas por el bug de tabla del §11.2 (arregladas después de lanzar la generación). La #90 tenía el mismo bug de tabla pero QA no la marcó — **el validador estructural no detecta "opciones duplicadas / sin sentido semántico", solo lo detecta el escaneo de duplicados exactos hecho a mano.** Ambas se regeneraron con un agente suelto tras arreglar las opciones.
+- Fusión final: **119/119 preguntas** pasan la validación estructural (letra de respuesta presente, claves de `incorrectas` exactas, tema válido, fichero de imagen existente) — 0 rechazadas.
+
+### 11.5 Verificación
+
+Probado en preview con datos reales (no sintéticos): pregunta con 7 opciones + imagen (`official-060`, respuesta G) renderiza y se corrige bien; pregunta de 4 opciones de AnKing sigue funcionando sin regresión; la pantalla "Subjects" agrupa ahora los temas de ambas fuentes bajo el mismo sistema (p. ej. "Respiratory" muestra "2 sources · 81 questions available" con el selector de fuente listando AnKing y NBME). `DB_HASH` bumpeado a `step1-3847q-nbme`.
+
+### 11.6 Ficheros de esta pasada
+
+- [`data/anking/_official_items_final.json`](data/anking/_official_items_final.json) — checkpoint verificado de la extracción (119 ítems con stem/opciones/respuesta/imagen ya correctos tras las correcciones manuales). Se conserva en el repo porque regenerarlo exige repetir la verificación visual manual de las 21 imágenes.
+- [`tools/nbme_official_convert.workflow.js`](tools/nbme_official_convert.workflow.js) — workflow de generación de explicaciones + clasificación de tema.
+- `app/img/official/` — las 21 imágenes de preguntas, con nombre `official-NNN.ext`.

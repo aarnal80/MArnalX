@@ -45,3 +45,10 @@ data/anking/_fix_batches_in*/
 data/anking/_fix_batches_out*/
 data/anking/_fix_flagged_*.json
 data/anking/_fix_rejected_report*.json
+# Ficheros intermedios de la extracción del cuadernillo oficial NBME/FSMB
+# (ver sección nueva de PLAN_ANKING_STEP1.md; se conserva _official_items_final.json
+# como checkpoint verificado, el resto es regenerable desde el PDF)
+data/anking/_official_answer_key.json
+data/anking/_official_image_log.json
+data/anking/_official_batches_in*/
+data/anking/_official_batches_out*/

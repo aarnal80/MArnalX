@@ -520,7 +520,7 @@ function pintarPregunta() {
   const cont = $("#q-opciones");
   cont.innerHTML = "";
   const sel = QUIZ.respuestas[q.id];
-  ["A", "B", "C", "D"].forEach(letra => {
+  ["A", "B", "C", "D", "E", "F", "G"].forEach(letra => {
     if (!(letra in q.o)) return;
     const b = document.createElement("button");
     b.className = "opcion";
@@ -827,7 +827,7 @@ function tarjetaPregunta(q, idx, opts = {}) {
   pintarFlag();
   flag.onclick = () => { toggleMarcada(q.id); pintarFlag(); };
   const ops = div.querySelector(".rev-opciones");
-  ["A", "B", "C", "D"].forEach(letra => {
+  ["A", "B", "C", "D", "E", "F", "G"].forEach(letra => {
     if (!q.o || !(letra in q.o)) return;
     const esCorrecta = letra === q.r;
     const esElegida = letra === tuRespuesta;
@@ -1612,7 +1612,7 @@ document.addEventListener("keydown", ev => {
   if (ev.target instanceof Element && ev.target.matches("input, textarea, select")) return;
   const k = ev.key;
   const letra = k.length === 1 ? k.toUpperCase() : "";
-  if (["A", "B", "C", "D"].includes(letra)) {
+  if (["A", "B", "C", "D", "E", "F", "G"].includes(letra)) {
     const b = $$("#q-opciones .opcion").find(x => x.querySelector(".letra").textContent === letra);
     if (b && !b.disabled) { b.click(); ev.preventDefault(); }
   } else if (letra === "M") {
