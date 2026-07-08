@@ -141,15 +141,28 @@ function iconoSistema(nombre) {
 }
 
 // Builds the unit list dynamically from DB.temas, grouped by "sistema".
+// Different sources sometimes reuse the same topic name within a system
+// (e.g. AnKing + NBME both have "Cardiovascular Pathology") — these are
+// merged into a single node (`ns`: all underlying tema ids); the existing
+// per-source filter in the practice setup screen already lets the user
+// pick which source(s) to draw from within that one topic.
 let _unidades = null;
 function unidadesActuales() {
   if (_unidades) return _unidades;
   const orden = [];
   const porSistema = {};
+  const grupos = {};
   DB.temas.forEach(t => {
     const key = t.sistema || "General";
     if (!porSistema[key]) { porSistema[key] = []; orden.push(key); }
-    porSistema[key].push({ n: t.id, short: t.nombre.length > 40 ? t.nombre.slice(0, 38) + "…" : t.nombre });
+    const gkey = key + "||" + t.nombre;
+    let nodo = grupos[gkey];
+    if (!nodo) {
+      nodo = { ns: [], short: t.nombre.length > 40 ? t.nombre.slice(0, 38) + "…" : t.nombre };
+      grupos[gkey] = nodo;
+      porSistema[key].push(nodo);
+    }
+    nodo.ns.push(t.id);
   });
   _unidades = orden.map((title, i) => ({
     title, icon: iconoSistema(title), color: PAL_ORDER[i % PAL_ORDER.length], temas: porSistema[title]
@@ -157,7 +170,7 @@ function unidadesActuales() {
   return _unidades;
 }
 function unidadDeTema(n) {
-  for (const u of unidadesActuales()) if (u.temas.some(t => t.n === n)) return u;
+  for (const u of unidadesActuales()) if (u.temas.some(t => t.ns.includes(n))) return u;
   return null;
 }
 let _conPreguntas = null;
@@ -231,18 +244,18 @@ function pintarTemario() {
   cont.innerHTML = "";
   const conP = temasConPreguntas();
   const units = unidadesActuales();
-  const stMap = {};
-  units.forEach(u => u.temas.forEach(t => { if (conP.has(t.n)) stMap[t.n] = statsTema(t.n); }));
+  const stMap = new Map();
+  units.forEach(u => u.temas.forEach(t => { if (t.ns.some(id => conP.has(id))) stMap.set(t, statsConjunto(t.ns)); }));
   let domin = 0, totalTemas = 0;
-  Object.values(stMap).forEach(st => { totalTemas++; if (st.dominado) domin++; });
+  stMap.forEach(st => { totalTemas++; if (st.dominado) domin++; });
   const sub = $("#temario-sub");
   if (sub) sub.textContent = `${domin}/${totalTemas} topics mastered · tap a unit to see its path`;
   units.forEach((u, ui) => {
     const pal = PAL[u.color];
     const uid = "u" + ui;
     const abierta = PF.expandidas.has(uid);
-    const temasU = u.temas.filter(t => conP.has(t.n));
-    const domU = temasU.filter(t => stMap[t.n].dominado).length;
+    const temasU = u.temas.filter(t => stMap.has(t));
+    const domU = temasU.filter(t => stMap.get(t).dominado).length;
     const pctU = temasU.length ? Math.round(domU / temasU.length * 100) : 0;
     const banner = document.createElement("button");
     banner.className = "unit-banner" + (abierta ? " open" : "");
@@ -268,8 +281,8 @@ function pintarTemario() {
     const path = document.createElement("div");
     path.className = "unit-path";
     u.temas.forEach((t, i) => {
-      if (!conP.has(t.n)) return;
-      const st = stMap[t.n];
+      if (!stMap.has(t)) return;
+      const st = stMap.get(t);
       let bg, sh, icon, off = "";
       if (st.dominado) { bg = "#58CC02"; sh = "#46A302"; icon = "✓"; }
       else if (st.vistas > 0) { bg = pal.c; sh = pal.d; icon = "•"; }
@@ -279,7 +292,7 @@ function pintarTemario() {
       wrap.style.transform = `translateX(${Math.round(Math.sin(i * 0.9) * 36)}px)`;
       wrap.innerHTML = `<button class="node-circle${off}" style="background:${bg};box-shadow:0 5px 0 ${sh}">${icon}</button>
         <span class="node-label${off}">${t.short}</span>`;
-      wrap.querySelector("button").onclick = () => openTemaConfig(t.n);
+      wrap.querySelector("button").onclick = () => openTemaConfig(t.ns);
       path.appendChild(wrap);
     });
     cont.appendChild(path);
@@ -287,8 +300,10 @@ function pintarTemario() {
 }
 
 // --- Topic setup screen ---
-function openTemaConfig(n) {
-  PF.temas = new Set([n]);
+// `ns` is normally a single tema id, but a merged same-name-topic node (see
+// unidadesActuales) passes an array covering every underlying source's id.
+function openTemaConfig(ns) {
+  PF.temas = new Set(Array.isArray(ns) ? ns : [ns]);
   PF.unidad = null;
   PF.todo = false;
   verVista("temaConfig");
@@ -296,7 +311,7 @@ function openTemaConfig(n) {
 // Whole-subject setup: load every topic of the unit into the same screen.
 function openUnidadConfig(u) {
   const conP = temasConPreguntas();
-  const ids = u.temas.map(t => t.n).filter(id => conP.has(id));
+  const ids = u.temas.flatMap(t => t.ns).filter(id => conP.has(id));
   if (!ids.length) return;
   PF.temas = new Set(ids);
   PF.unidad = u;
@@ -359,7 +374,7 @@ function pintarTemaConfig() {
   $("#tc-nuevas").checked = PF.nuevas; $("#tc-solo-imagen").checked = PF.soloImagen;
   $("#tc-barajar").checked = PF.barajar;
   // topic mini-stats
-  const s = PF.todo ? statsDeIds(DB.preguntas.map(q => q.id)) : (enUnidad ? statsConjunto(PF.temas) : statsTema(n));
+  const s = PF.todo ? statsDeIds(DB.preguntas.map(q => q.id)) : statsConjunto(PF.temas);
   const accTxt = s.acc != null ? Math.round(s.acc * 100) + "%" : "—";
   const accCol = s.acc == null ? "var(--texto-suave)" : s.acc >= 0.7 ? "var(--ok)" : s.acc >= 0.5 ? "var(--aviso)" : "var(--mal)";
   $("#tc-stats").innerHTML =
