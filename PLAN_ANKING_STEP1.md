@@ -465,6 +465,26 @@ Misma receta de siempre (§10.4), retomando el universo de **solo texto** (no el
 
 ---
 
+## 16. Octava tanda de conversión AnKing de texto (500 preguntas, 2026-07-09)
+
+Misma receta de §10.4. El usuario pidió 500 preguntas. Se recalculó lo que faltaba sobre `data/anking/_raw_all.json` (18.189 universo limpio) menos los `anki` ya usados en producción (7.495) → **10.757 restantes**; se cortaron 20 lotes de 25 en `_batches_in_v7`. `BASE` del workflow actualizado a la ruta de esta máquina (`C:/Users/ca-urgencias/Desktop/Arnal Config/Documentos IA/USMLE_step_1/data/anking`), taxonomía ampliada con el tema `Neurology & Special Senses Embryology` (id 68 en la lista, ya existía en producción como id 117 pero no en la lista hardcodeada), y **reforzada la instrucción de `tema_nombre`** en `genPrompt()` para que sea SOLO el nombre (sin `"45. "` ni `"[System]"`) — la lección pendiente de §15.2. Mismo bug de CRLF que §12.1, normalizado a LF antes de lanzar.
+
+### 16.1 El bug de "batchesWritten miente" volvió a pasar — y se resolvió con resume
+
+- Primera ejecución del `Workflow`: **el agente `gen:5` (batch_0005) murió con "API Error: Server error mid-response"** a mitad de generación (mismo tipo de error transitorio que §15.1). El workflow reportó `batchesWritten: 20` y listó `batch_0005.json` en `outFiles`, **pero el fichero NO existía en disco** — exactamente el patrón de §11.4/§12.1. La verificación con script (contar ficheros + parsear) lo detectó: 19 ficheros reales, no 20. **Refuerzo de la lección: no fiarse jamás del recuento ni de la lista `outFiles` del `Workflow`; contar y parsear los ficheros en disco.**
+- **Solución nueva y limpia: reanudar el workflow con `resumeFromRunId`** (`Workflow({scriptPath, resumeFromRunId: 'wf_...'})`). Los 19 lotes buenos + los agentes de QA replicaron de caché al instante (0 coste), y solo se re-ejecutó el `gen:5` fallido con el prompt idéntico. Segunda pasada: 0 errores, batch_0005 escrito. **Esta es mejor vía que regenerar con un `Agent` suelto** (que era lo que decían §11.4/§12.1) — es más fiel (mismo prompt exacto) y más barato (el resto va de caché). Anótalo como la forma preferida de recuperar un lote perdido a partir de ahora.
+- Nota sobre QA en el resume: el resumen final solo mostró 1 flagged, pero **ambas flagged (de las dos ejecuciones) están en `journal.jsonl`** — recógelas de ahí con `grep -o '"anki":"[0-9]*"'` sobre el journal, no solo del resultado final del `Workflow`.
+
+### 16.2 Fusión y resultado
+
+- 20/20 lotes verificados en disco (500 preguntas, todas 25 salvo batch_0018 con 24 — un agente soltó una). Flagged por QA: 2 (anki `1481513305585` A/B intercambiadas; `1481944681612` orden de frecuencia de metástasis cerebrales factualmente erróneo con próstata). Fichero de flagged en `data/anking/_flagged_v7.json`.
+- Fusión con `merge_anking_batches.py` (`--base step1_dataset_7615q.json --glob "_batches_out_v7/*.json" --flagged _flagged_v7.json`): **496 aceptadas / 4 rechazadas** (2 texto de opción duplicado + 2 flagged). Total: **7.615 → 8.111 preguntas, 110 temas** (sin temas nuevos — la ampliación de la taxonomía + la instrucción reforzada de `tema_nombre` evitaron duplicados). 81 con imagen (sin cambio).
+- **Auditoría de `temas[]` tras la fusión (recordatorio de §15.2): limpia** — 0 nombres duplicados por fuente, 0 nombres corruptos con corchete/número (la instrucción reforzada funcionó), sistemas consistentes. El único "Respiratory Pharmacology" como *sistema* sigue siendo el defecto histórico del tema id=2 (preexistente, fuera de alcance).
+- `DB_HASH` → `step1-8111q`. Verificado en preview (cachés/SW limpiados): `window.DB.preguntas.length === 8111`, `temas === 110`, app arranca sin errores de consola. Commit `94dfffa` pusheado a `main`.
+- **Quedan ~10.257 tarjetas limpias de AnKing (texto) por convertir** (10.757 − 500). Para la próxima tanda: cortar `_batches_in_v8` recalculando sobre `step1_dataset_8111q.json`.
+
+---
+
 ## 15. Séptima tanda de conversión AnKing de texto (2.000 preguntas pedidas, 2026-07-07/08)
 
 Misma receta de §10.4. El usuario pidió 2.000 preguntas; dado que ya había 30 lotes cortados sin usar en `_batches_in_v6` (índices 10-39, 750 preguntas), solo hizo falta cortar **50 lotes nuevos** (índices 40-89) para llegar a 80 lotes = 2.000 preguntas. Se pidió confirmación explícita antes de usar `Workflow` (igual que en §14) — el usuario confirmó el alcance (~96 agentes, 1-2h en esta máquina de 4 núcleos/2 agentes concurrentes).
