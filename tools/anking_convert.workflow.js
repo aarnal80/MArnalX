@@ -16,8 +16,8 @@ const BASE = 'C:/Users/ca-urgencias/Desktop/Arnal Config/Documentos IA/USMLE_ste
 const START_BATCH = 0
 const N_BATCHES = 20
 const QA_GROUP = 7
-const IN_DIR = '_batches_in_v7'
-const OUT_DIR = '_batches_out_v7'
+const IN_DIR = '_batches_in_v8'
+const OUT_DIR = '_batches_out_v8'
 const GEN_EFFORT = 'high'
 
 const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]

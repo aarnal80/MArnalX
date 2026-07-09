@@ -485,6 +485,19 @@ Misma receta de §10.4. El usuario pidió 500 preguntas. Se recalculó lo que fa
 
 ---
 
+## 17. Novena tanda de conversión AnKing de texto (500 preguntas, 2026-07-09)
+
+Misma receta de §10.4, sin incidencias nuevas. `python.exe` ya no está en `C:/Python313/` en esta máquina — la ruta real ahora es `C:/Users/ca-urgencias/tools/python/python.exe` (anotado por si vuelve a pasar).
+
+- Recalculado sobre `_raw_all.json` menos los `anki` ya usados en `step1_dataset_8111q.json` (7.995) → **10.261 restantes**; se cortaron 20 lotes de 25 en `_batches_in_v8`.
+- **20/20 lotes verificados en disco** (500 preguntas, todos completos). QA marcó 4 preguntas (mezcla de estadística en Warthin tumor, discrepancia SCC-vs-both en achalasia, CagA/VacA con roles de citotoxina invertidos, y una distinción intestinal-vs-difuso de nódulos de Sister Mary Joseph no respaldada) — las 4 en `data/anking/_flagged_v8.json`.
+- Fusión (`--base step1_dataset_8111q.json --glob "_batches_out_v8/*.json" --flagged _flagged_v8.json`): **496 aceptadas / 4 rechazadas** (todas por QA, sin rechazos estructurales esta vez). Total: **8.111 → 8.607 preguntas, 111 temas** (1 tema nuevo: `Gastrointestinal Embryology`).
+- Auditoría de `temas[]`: los ~41 nombres "duplicados" son homónimos legítimos entre `fuente: "anking"` y `fuente: "nbme-official"` (mismo patrón que la base, no un bug nuevo); 0 nombres corruptos con corchete/número.
+- `DB_HASH` → `step1-8607q`. Verificado en preview (cachés/SW limpiados): `window.DB.preguntas.length === 8607`, `temas === 111`, sin errores de consola.
+- **Quedan ~9.757 tarjetas limpias de AnKing (texto) por convertir** (10.257 − 500). Para la próxima tanda: cortar `_batches_in_v9` recalculando sobre `step1_dataset_8607q.json`.
+
+---
+
 ## 15. Séptima tanda de conversión AnKing de texto (2.000 preguntas pedidas, 2026-07-07/08)
 
 Misma receta de §10.4. El usuario pidió 2.000 preguntas; dado que ya había 30 lotes cortados sin usar en `_batches_in_v6` (índices 10-39, 750 preguntas), solo hizo falta cortar **50 lotes nuevos** (índices 40-89) para llegar a 80 lotes = 2.000 preguntas. Se pidió confirmación explícita antes de usar `Workflow` (igual que en §14) — el usuario confirmó el alcance (~96 agentes, 1-2h en esta máquina de 4 núcleos/2 agentes concurrentes).
