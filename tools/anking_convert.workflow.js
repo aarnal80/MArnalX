@@ -7,17 +7,17 @@ export const meta = {
   ],
 }
 
-const BASE = 'C:/Users/arnal/Desktop/Documentos/IA/USMLE-Step-1/data/anking'
+const BASE = 'C:/Users/ca-urgencias/Desktop/Arnal Config/Documentos IA/USMLE_step_1/data/anking'
 // NOTE: reading these from `args` proved unreliable in this environment
 // (reproduced twice: the run silently used the function defaults instead
 // of the passed args, re-processing already-done batches). Hardcode the
 // values for each run directly here instead, and double-check the very
 // first agent's actual prompt/transcript before letting a run continue.
-const START_BATCH = 10
-const N_BATCHES = 80
-const QA_GROUP = 5
-const IN_DIR = '_batches_in_v6'
-const OUT_DIR = '_batches_out_v6'
+const START_BATCH = 0
+const N_BATCHES = 20
+const QA_GROUP = 7
+const IN_DIR = '_batches_in_v7'
+const OUT_DIR = '_batches_out_v7'
 const GEN_EFFORT = 'high'
 
 const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
@@ -86,7 +86,8 @@ const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
 64. Quality & Safety [Public Health & Ethics]
 65. Communication Skills [Public Health & Ethics]
 66. Respiratory Pharmacology [Respiratory]
-67. Congenital Lung Malformations [Respiratory]`
+67. Congenital Lung Malformations [Respiratory]
+68. Neurology & Special Senses Embryology [Neurology & Special Senses]`
 
 const EXAMPLES = `[
  {
@@ -169,7 +170,7 @@ REQUIREMENTS — this app's whole value is the explanations, where the student a
    - For each incorrect option: don't just say "this is wrong" or "this is a different thing" — say what that option actually IS/does, and specifically why it fails to satisfy what the question asks, ideally contrasting the mechanism with the correct answer. A distractor from the SAME category (per point 2) makes this natural: explain the real distinguishing feature between it and the correct answer, not a generic dismissal.
    - Avoid filler phrases that sound substantive but say nothing new (e.g. "this option does not fit the scenario described" without saying what it actually is or why). Every explanation should teach the reader something true and specific about the wrong option itself.
    - Mine the "extra" field for real content when present, but don't copy it verbatim — synthesize it into your own teaching explanation.
-5. "tema_nombre": reuse one of the EXISTING topic names below when the card clearly belongs there; only invent a new name (specific, First-Aid-style, 2-5 words) if none fit — don't invent near-duplicates of an existing name.
+5. "tema_nombre": reuse one of the EXISTING topic names below when the card clearly belongs there; only invent a new name (specific, First-Aid-style, 2-5 words) if none fit — don't invent near-duplicates of an existing name. IMPORTANT: "tema_nombre" must be ONLY the bare topic name — never the full taxonomy line. Do not include the leading number ("45. ") or the bracketed system ("[Biochemistry]"). Correct: "Genetics". Wrong: "45. Genetics [Biochemistry]" or "Genetics [Biochemistry]".
 6. Output a JSON array with exactly one object per input element, same order, no omissions.
 
 EXISTING TOPIC TAXONOMY (format "id. Name [System]" — reuse a Name when it fits):
