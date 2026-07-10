@@ -14,10 +14,10 @@ const BASE = 'C:/Users/arnal/Desktop/Documentos/IA/USMLE-Step-1/data/anking'
 // values for each run directly here instead, and double-check the very
 // first agent's actual prompt/transcript before letting a run continue.
 const START_BATCH = 0
-const N_BATCHES = 20
+const N_BATCHES = 40
 const QA_GROUP = 5
-const IN_DIR = '_batches_in_v11'
-const OUT_DIR = '_batches_out_v11'
+const IN_DIR = '_batches_in_v12'
+const OUT_DIR = '_batches_out_v12'
 const GEN_EFFORT = 'high'
 
 const TAXONOMY = `1. Medical Ethics [Public Health & Ethics]
