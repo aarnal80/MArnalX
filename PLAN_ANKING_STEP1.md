@@ -498,6 +498,20 @@ Misma receta de §10.4, sin incidencias nuevas. `python.exe` ya no está en `C:/
 
 ---
 
+## 18. Décima tanda de conversión AnKing de texto — solo Microbiology (1.000 preguntas pedidas, 2026-07-09)
+
+El usuario pidió esta vez 1.000 preguntas **filtradas a un solo sistema** (Microbiology, el que más tarjetas pendientes tenía: 2.854 de las 9.765 restantes). Misma receta de §10.4, con un único cambio: el corte de lotes filtra `_raw_all.json` por `r.sistema === 'Microbiology'` antes de trocear, en vez de tomar el remanente completo en orden. `N_BATCHES` a 40 (40×25=1.000) en vez del habitual 20.
+
+- Recalculado sobre `_raw_all.json` menos los `anki` ya usados en `step1_dataset_8607q.json`, filtrado a Microbiology → 2.854 restantes de ese sistema; se cortaron 40 lotes de 25 en `_batches_in_v9` (quedan 75 lotes de Microbiology sin cortar para el futuro).
+- **40/40 lotes verificados en disco** (998 preguntas, no 1.000 — 2 agentes soltaron 1 pregunta cada uno, `batch_0012` y `batch_0024` con 24). QA marcó 3 (EMB agar con opciones que no responden lo que pregunta el enunciado; localización pulmonar de TB primaria invertida con la de reactivación, contradiciendo otra tarjeta del mismo lote; mecanismo de resistencia a ampicilina en *Enterococcus* con PBP5 alterada vs. β-lactamasa invertidos) — en `data/anking/_flagged_v9.json`. El validador estructural rechazó 1 más por claves de `incorrectas` desalineadas (`anki` 1503183498029).
+- Fusión (`--base step1_dataset_8607q.json --glob "_batches_out_v9/*.json" --flagged _flagged_v9.json`): **994 aceptadas / 4 rechazadas**. Total bruto: **8.607 → 9.601 preguntas, 115 temas** (4 temas nuevos: `Mycology`, `Basic Microbiology`, `Bacterial Growth & Genetics`, `Bacterial Genetics`).
+- **Corrección manual post-fusión**: `Bacterial Growth & Genetics` (12 preguntas, curva de crecimiento bacteriano) y `Bacterial Genetics` (12 preguntas, transferencia de genes — transducción/conjugación) tenían contenido genuinamente distinto pero nombres casi idénticos que habrían fragmentado la pantalla "Subjects" sin razón (mismo criterio que §15.2). Se fusionaron a mano en un solo tema (`Bacterial Growth & Genetics`, id conservado), reasignando las 12 preguntas del tema descartado. **Nota para el pipeline**: `merge_anking_batches.py` no hace esta clase de detección de near-duplicados semánticos entre sistemas ya existentes en la misma tanda — sigue siendo necesario auditar `temas[]` a mano tras cada fusión grande (ver §15.2/§16.2). Tras la corrección: **114 temas, 9.601 preguntas**, `app/data/db.js` y `data/anking/step1_dataset_full.json` regenerados a mano con el mismo formato que escribe el script Python (incluyendo el campo `version`).
+- Auditoría final de `temas[]`: 0 nombres corruptos con corchete/número, 0 duplicados reales por `fuente`+`nombre`, 0 temas huérfanos sin preguntas.
+- `DB_HASH` → `step1-9601q`. Verificado en preview (cachés/SW limpiados): `window.DB.preguntas.length === 9601`, `temas === 114`, sin errores de consola.
+- **Quedan ~1.856 tarjetas de Microbiology sin convertir** (2.854 − 998) y **~8.767 en total** de todos los sistemas. Para la próxima tanda de Microbiology: cortar `_batches_in_v10` recalculando (con el mismo filtro `sistema === 'Microbiology'`) sobre `step1_dataset_9601q.json`.
+
+---
+
 ## 15. Séptima tanda de conversión AnKing de texto (2.000 preguntas pedidas, 2026-07-07/08)
 
 Misma receta de §10.4. El usuario pidió 2.000 preguntas; dado que ya había 30 lotes cortados sin usar en `_batches_in_v6` (índices 10-39, 750 preguntas), solo hizo falta cortar **50 lotes nuevos** (índices 40-89) para llegar a 80 lotes = 2.000 preguntas. Se pidió confirmación explícita antes de usar `Workflow` (igual que en §14) — el usuario confirmó el alcance (~96 agentes, 1-2h en esta máquina de 4 núcleos/2 agentes concurrentes).
