@@ -5,13 +5,14 @@
  *     así un cambio de BD invalida el caché y fuerza una única re-descarga.
  *   - resto del shell (html/css/js/iconos): NETWORK-FIRST. Con conexión sirve
  *     siempre lo último (y lo cachea); sin conexión, cae a la versión cacheada. */
+<<<<<<< HEAD
 const DB_HASH = "estudios-fyq-v1"; // bump when data/db.js content changes
-const SHELL_VER = "v4";     // bump when html/css/js changes to invalidate the shell cache
-const CACHE = "estudios-" + DB_HASH + "-" + SHELL_VER;
+const SHELL_VER = "v5";     // bump when html/css/js/icon URLs change to invalidate the shell cache
+const CACHE = "bachillerato1-" + DB_HASH + "-" + SHELL_VER;
 const FICHEROS = [
   "./", "./index.html", "./styles.css", "./app.js", "./data/db.js",
   "./config.js", "./vendor/supabase.js", "./auth/gate.js",
-  "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/favicon.ico",
+  "./manifest.webmanifest", "./icons/icon-192.png?v=26", "./icons/icon-512.png?v=26", "./icons/favicon.ico?v=26",
   "./fonts/nunito-latin.woff2", "./fonts/nunito-latin-ext.woff2",
 ];
 

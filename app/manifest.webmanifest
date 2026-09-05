@@ -1,15 +1,15 @@
 {
-  "name": "Estudios · Aprende cada día",
-  "short_name": "Estudios",
-  "description": "Aplicación de estudio con práctica guiada y repaso espaciado.",
+  "name": "1.º Bachillerato · Estudios",
+  "short_name": "1.º Bachillerato",
+  "description": "Aplicación de estudio para 1.º de Bachillerato con práctica guiada y repaso espaciado.",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#E0201E",
+  "background_color": "#F8FBFF",
+  "theme_color": "#2563EB",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "icons/icon-192.png?v=26", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png?v=26", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
