@@ -1,9 +1,10 @@
-# Estudios
+# 1.º Bachillerato · Estudios
 
 PWA (HTML + CSS + JS, sin dependencias) para estudiar con sesiones cortas,
 práctica tipo test, explicaciones, simulacros, repaso espaciado, preguntas
 guardadas y estadísticas. El banco de contenidos está vacío en esta primera
-versión: incorporaremos primero el módulo de 1.º de ESO y después sus preguntas.
+versión: incorporaremos primero el módulo de 1.º de Bachillerato y después sus
+preguntas.
 Funciona sin conexión una vez instalada.
 
 ## Uso

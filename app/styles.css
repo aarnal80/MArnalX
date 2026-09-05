@@ -1,5 +1,5 @@
 /* ===================================================================
-   Estudios · Tema visual estilo Duolingo
+   1.º Bachillerato · Tema visual estilo Duolingo
    Se conservan los nombres de clases y variables del motor original para
    mantener la lógica estable mientras construimos el producto educativo.
    =================================================================== */
@@ -23,19 +23,19 @@
 }
 
 :root {
-  /* Rojo = color primario / marca / acciones */
-  --azul: #E0201E;        /* "primary" (rojo marca) */
-  --azul-osc: #B01513;    /* sombra 3D / pulsado */
-  --azul-claro: #1CB0F6;  /* azul Duo (acentos secundarios) */
-  --azul-claro-osc: #1899D6;
+  /* Azul = color primario / marca / acciones */
+  --azul: #2563EB;        /* azul royal de marca */
+  --azul-osc: #1D4ED8;    /* sombra 3D / pulsado */
+  --azul-claro: #38BDF8;  /* azul cielo para acentos */
+  --azul-claro-osc: #0284C7;
 
-  --fondo: #FFFFFF;
-  --fondo-suave: #F7F7F7;
+  --fondo: #F8FBFF;
+  --fondo-suave: #EFF6FF;
   --tarjeta: #FFFFFF;
   --texto: #3C3C3C;
   --texto-suave: #AFAFAF;
-  --borde: #E5E5E5;
-  --borde-3d: #E5E5E5;
+  --borde: #DCE7F5;
+  --borde-3d: #DCE7F5;
 
   --ok: #58CC02;
   --ok-osc: #46A302;
@@ -82,7 +82,7 @@ body {
   background: var(--tarjeta); color: var(--texto);
   display: flex; justify-content: space-between; align-items: center;
   padding: 10px 18px; padding-top: calc(10px + env(safe-area-inset-top));
-  border-bottom: 2px solid #F2F2F2;
+  border-bottom: 2px solid #E6EEF8;
 }
 #topbar .brand {
   display: flex; align-items: center; gap: 9px;
@@ -170,7 +170,7 @@ h3 { margin: 4px 0 12px; font-weight: 900; font-size: 1.05rem; }
 .tema-list { max-height: 230px; overflow-y: auto; border: 2px solid var(--borde); border-radius: 14px; }
 .tema-list label {
   display: flex; gap: 10px; align-items: flex-start; padding: 11px 12px;
-  border-bottom: 2px solid #F2F2F2; font-size: .86rem; font-weight: 700; cursor: pointer;
+  border-bottom: 2px solid #E6EEF8; font-size: .86rem; font-weight: 700; cursor: pointer;
 }
 .tema-list label:last-child { border-bottom: none; }
 .tema-list input { margin-top: 2px; flex-shrink: 0; width: 18px; height: 18px; accent-color: var(--azul); }
@@ -178,7 +178,7 @@ h3 { margin: 4px 0 12px; font-weight: 900; font-size: 1.05rem; }
 /* Filas de tema como botones (buscador) */
 .tema-opt {
   display: block; width: 100%; text-align: left; cursor: pointer;
-  background: none; border: none; border-bottom: 2px solid #F2F2F2;
+  background: none; border: none; border-bottom: 2px solid #E6EEF8;
   padding: 11px 12px; font-family: inherit; font-size: .86rem; font-weight: 700;
   color: var(--texto); line-height: 1.3;
 }
@@ -283,7 +283,7 @@ details summary { cursor: pointer; font-weight: 900; font-size: .85rem; text-tra
 #quiz-head { display: flex; align-items: center; gap: 12px; margin: 8px 0 16px; }
 #btn-quiz-salir { font-size: 1.5rem; color: var(--texto-suave); padding: 2px 6px; }
 #quiz-progreso {
-  flex: 1; height: 16px; background: #E5E5E5; border-radius: 10px; overflow: hidden;
+  flex: 1; height: 16px; background: #DCE7F5; border-radius: 10px; overflow: hidden;
 }
 #quiz-bar {
   height: 100%; width: 0; background: var(--azul); border-radius: 10px;
@@ -295,7 +295,7 @@ details summary { cursor: pointer; font-weight: 900; font-size: .85rem; text-tra
 }
 #quiz-timer {
   font-variant-numeric: tabular-nums; font-weight: 900; color: var(--azul-claro);
-  background: #DDF4FF; border: none; border-radius: 12px; padding: 8px 12px;
+  background: #E0F2FE; border: none; border-radius: 12px; padding: 8px 12px;
 }
 #quiz-timer.rojo { color: var(--mal); background: var(--mal-bg); }
 #btn-q-marcar { font-size: 1.15rem; line-height: 1; padding: 7px 10px; border: 2px solid var(--borde); border-radius: 12px; background: var(--tarjeta); }
@@ -359,8 +359,8 @@ details summary { cursor: pointer; font-weight: 900; font-size: .85rem; text-tra
   background: var(--tarjeta); border: 2px solid var(--borde); color: var(--texto-suave); font-size: .9rem;
 }
 .opcion .txt { flex: 1; }
-.opcion.sel { border-color: #84D8FF; background: #DDF4FF; color: var(--azul-claro-osc); }
-.opcion.sel .letra { border-color: #84D8FF; color: var(--azul-claro); }
+.opcion.sel { border-color: #7DD3FC; background: #E0F2FE; color: var(--azul-claro-osc); }
+.opcion.sel .letra { border-color: #7DD3FC; color: var(--azul-claro); }
 .opcion.correcta { border-color: #A5ED6E; background: var(--ok-bg); color: var(--ok-txt); }
 .opcion.correcta .letra { background: var(--ok); border-color: var(--ok); color: #fff; }
 .opcion.incorrecta { border-color: #FFB3B3; background: var(--mal-bg); color: var(--mal-osc); }
@@ -441,7 +441,7 @@ table.stats-tabla td:last-child, table.stats-tabla th:last-child { text-align: r
 /* ---------- Tabbar ---------- */
 #tabbar {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 10;
-  display: flex; background: var(--tarjeta); border-top: 2px solid #F2F2F2;
+  display: flex; background: var(--tarjeta); border-top: 2px solid #E6EEF8;
   padding-bottom: env(safe-area-inset-bottom);
 }
 #tabbar button {
@@ -487,8 +487,8 @@ table.stats-tabla td:last-child, table.stats-tabla th:last-child { text-align: r
 .obj-body .btn { margin-top: 0; font-size: .82rem; padding: 13px 10px; }
 
 .inicio-continuar {
-  border: 2px solid #CDEBFF; border-bottom-width: 4px; border-radius: var(--radio-card);
-  background: #F4FAFF; padding: 16px 18px; margin-bottom: 16px;
+  border: 2px solid #C7E2FF; border-bottom-width: 4px; border-radius: var(--radio-card);
+  background: #F0F7FF; padding: 16px 18px; margin-bottom: 16px;
   display: flex; align-items: center; gap: 14px;
 }
 .inicio-continuar b { color: var(--azul-claro-osc); font-size: 1rem; }

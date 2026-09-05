@@ -7,7 +7,7 @@
  *     siempre lo último (y lo cachea); sin conexión, cae a la versión cacheada. */
 const DB_HASH = "estudios-v0"; // bump when data/db.js content changes
 const SHELL_VER = "v4";     // bump when html/css/js changes to invalidate the shell cache
-const CACHE = "estudios-" + DB_HASH + "-" + SHELL_VER;
+const CACHE = "bachillerato1-" + DB_HASH + "-" + SHELL_VER;
 const FICHEROS = [
   "./", "./index.html", "./styles.css", "./app.js", "./data/db.js",
   "./config.js", "./vendor/supabase.js", "./auth/gate.js",

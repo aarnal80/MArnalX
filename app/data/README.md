@@ -11,5 +11,5 @@ correcta y `e` para la explicación (`correcta` e `incorrectas`). `img` es
 opcional y contiene la ruta de una imagen local.
 
 La aplicación arranca con las tres colecciones vacías. El primer contenido que
-añadiremos será el módulo de 1.º de ESO; cada lote debe revisarse antes de
-publicarlo.
+añadiremos será el módulo de 1.º de Bachillerato; cada lote debe revisarse antes
+de publicarlo.

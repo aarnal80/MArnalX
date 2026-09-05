@@ -1,4 +1,4 @@
-/* Estudios · app de aprendizaje
+/* 1.º Bachillerato · app de aprendizaje
  * Data: window.DB (data/db.js). Progress: localStorage. */
 "use strict";
 
@@ -119,7 +119,7 @@ const PF = {
 
 // 3D color palette (same Duolingo-style design).
 const PAL = {
-  blue:   { c: "#1CB0F6", d: "#1899D6" }, green:  { c: "#58CC02", d: "#46A302" },
+  blue:   { c: "#2563EB", d: "#1D4ED8" }, green:  { c: "#58CC02", d: "#46A302" },
   purple: { c: "#CE82FF", d: "#A560E8" }, orange: { c: "#FF9600", d: "#E58600" },
   red:    { c: "#FF4B4B", d: "#EA2B2B" }, teal:   { c: "#1DD3B0", d: "#13B697" }
 };
@@ -244,7 +244,7 @@ function pintarTemario() {
   const units = unidadesActuales();
   if (!units.length) {
     const sub = $("#temario-sub");
-    if (sub) sub.textContent = "Todavía no hay asignaturas. Añadiremos el módulo de 1.º de ESO en el siguiente paso.";
+    if (sub) sub.textContent = "Todavía no hay asignaturas. Añadiremos el módulo de 1.º de Bachillerato en el siguiente paso.";
     cont.innerHTML = `<div class="card"><h3>📚 Contenido pendiente</h3><p class="mini">Cuando incorporemos los libros y las primeras preguntas aparecerán aquí las asignaturas, los temas y el camino de estudio.</p></div>`;
     return;
   }
@@ -1160,7 +1160,7 @@ $("#btn-export").onclick = () => {
   const blob = new Blob([JSON.stringify(ST, null, 1)], { type: "application/json" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
-  a.download = `estudios-progreso-${new Date().toISOString().slice(0, 10)}.json`;
+  a.download = `bachillerato-1-progreso-${new Date().toISOString().slice(0, 10)}.json`;
   a.click();
 };
 $("#btn-import").onclick = () => $("#file-import").click();
@@ -1202,7 +1202,7 @@ function pintarDbInfo() {
   const nAnul = DB.preguntas.filter(q => !q.r).length;
   $("#db-info").innerHTML = `Versión del contenido: <b>${DB.version}</b><br>
     ${nQ} preguntas · ${DB.temas.length} temas · ${DB.fuentes.length} material${DB.fuentes.length !== 1 ? "es" : ""}<br>
-    ${nQ ? `${nAnul} sin respuesta correcta` : "Aún no hay preguntas. Añadiremos el módulo de 1.º de ESO."}`;
+    ${nQ ? `${nAnul} sin respuesta correcta` : "Aún no hay preguntas. Añadiremos el módulo de 1.º de Bachillerato."}`;
   $("#topbar-info").innerHTML = `🔥 <span>${calcularRacha()}</span>`;
   const cicloEl = $("#sim-ciclo-info");
   if (cicloEl) cicloEl.textContent = `${ST.simUsadas.length} preguntas ya usadas en simulacros anteriores`;
