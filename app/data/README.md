@@ -10,6 +10,5 @@ Una pregunta usa `o` para sus opciones (`A`, `B`, `C`…), `r` para la opción
 correcta y `e` para la explicación (`correcta` e `incorrectas`). `img` es
 opcional y contiene la ruta de una imagen local.
 
-La aplicación arranca con las tres colecciones vacías. El primer contenido que
-añadiremos será el módulo de 1.º de ESO; cada lote debe revisarse antes de
-publicarlo.
+La aplicación incluye el primer lote de Física y Química de 1.º de Bachillerato
+(temas 0, 1 y 2). Cada lote debe revisarse antes de publicarlo.

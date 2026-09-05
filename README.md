@@ -4,10 +4,9 @@ MarnalX es una PWA de estudio con una experiencia inspirada en Duolingo:
 sesiones cortas, práctica guiada, repasos espaciados, simulacros y progreso
 visible.
 
-La primera versión conserva el motor de práctica de la aplicación original,
-pero ya no contiene preguntas ni materiales médicos. El banco está preparado
-para incorporar el módulo de 1.º de ESO a partir de los libros que se procesen
-y revisen.
+La primera versión conserva el motor de práctica de la aplicación original y
+ya incluye un banco inicial de Física y Química de 1.º de Bachillerato, con los
+temas 0, 1 y 2 a partir del libro procesado y revisado.
 
 ## Ejecutar en local
 

@@ -129,6 +129,7 @@ const PAL_ORDER = ["blue", "green", "purple", "orange", "red", "teal"];
 function iconoSistema(nombre) {
   const n = (nombre || "").toLowerCase();
   const map = [
+    [/f[ií]sica|qu[ií]mica/, "🧪"],
     [/cardio/, "❤️"], [/respirat|pulmon/, "🫁"], [/renal|kidney/, "🫘"],
     [/gastro|digest/, "🩺"], [/neuro/, "🧠"], [/endocrin/, "🦋"],
     [/hemat|oncol/, "🩸"], [/repro/, "🤰"], [/immun/, "🛡️"],
