@@ -3,7 +3,7 @@
 PWA (HTML + CSS + JS, sin dependencias) para estudiar con sesiones cortas,
 práctica tipo test, explicaciones, simulacros, repaso espaciado, preguntas
 guardadas y estadísticas. El banco incluye el primer lote de Física y Química
-de 1.º de Bachillerato: los temas 0, 1 y 2, con preguntas tipo test y explicaciones.
+de 1.º de Bachillerato: los temas 0 al 12 y el anexo de formulación y tablas, con preguntas tipo test y explicaciones desarrolladas.
 Funciona sin conexión una vez instalada.
 
 ## Uso

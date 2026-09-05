@@ -12,4 +12,4 @@ opcional y contiene la ruta de una imagen local.
 
 <<<<<<< HEAD
 La aplicación incluye el primer lote de Física y Química de 1.º de Bachillerato
-(temas 0, 1 y 2). Cada lote debe revisarse antes de publicarlo.
+(temas 0 al 12 y el anexo de formulación y tablas). Cada lote debe revisarse antes de publicarlo.

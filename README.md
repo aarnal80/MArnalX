@@ -6,7 +6,7 @@ visible.
 
 La primera versión conserva el motor de práctica de la aplicación original y
 ya incluye un banco inicial de Física y Química de 1.º de Bachillerato, con los
-temas 0, 1 y 2 a partir del libro procesado y revisado.
+temas 0 al 12 y el anexo de formulación y tablas a partir del libro procesado y revisado.
 
 ## Ejecutar en local
 
