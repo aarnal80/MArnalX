@@ -1,8 +1,8 @@
 {
-  "name": "USMLE Step 1 · Study",
-  "short_name": "USMLE Step 1",
-  "description": "USMLE Step 1 question bank practice, built from the AnKing Overhaul deck.",
-  "lang": "en",
+  "name": "Estudios · Aprende cada día",
+  "short_name": "Estudios",
+  "description": "Aplicación de estudio con práctica guiada y repaso espaciado.",
+  "lang": "es",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

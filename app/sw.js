@@ -1,13 +1,13 @@
 /* Service worker: app disponible sin conexión.
  * Estrategia:
- *   - data/db.js (~4,8 MB): CACHE-FIRST. Solo se descarga cuando cambia la BD;
+ *   - data/db.js: CACHE-FIRST. Solo se descarga cuando cambia la BD;
  *     el nombre de caché lleva el hash del contenido (lo reescribe build_db.py),
  *     así un cambio de BD invalida el caché y fuerza una única re-descarga.
  *   - resto del shell (html/css/js/iconos): NETWORK-FIRST. Con conexión sirve
  *     siempre lo último (y lo cachea); sin conexión, cae a la versión cacheada. */
-const DB_HASH = "step1-11338q"; // bump when data/db.js content changes
-const SHELL_VER = "v3";     // bump when html/css/js changes to invalidate the shell cache
-const CACHE = "usmle1-" + DB_HASH + "-" + SHELL_VER;
+const DB_HASH = "estudios-v0"; // bump when data/db.js content changes
+const SHELL_VER = "v4";     // bump when html/css/js changes to invalidate the shell cache
+const CACHE = "estudios-" + DB_HASH + "-" + SHELL_VER;
 const FICHEROS = [
   "./", "./index.html", "./styles.css", "./app.js", "./data/db.js",
   "./config.js", "./vendor/supabase.js", "./auth/gate.js",

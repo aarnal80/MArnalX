@@ -1,9 +1,9 @@
-/* USMLE Step 1 · Study app
+/* Estudios · app de aprendizaje
  * Data: window.DB (data/db.js). Progress: localStorage. */
 "use strict";
 
 const DB = window.DB;
-const LS_KEY = "usmle_step1_v1";
+const LS_KEY = "estudios_v1";
 
 /* ============ State / persistence ============ */
 function cargarEstado() {
@@ -61,12 +61,12 @@ function verVista(nombre) {
   window.scrollTo(0, 0);
 }
 $("#btn-buscar").onclick = () => {
-  if (QUIZ.activo && !confirm("Exit the test? Your progress will be saved and you can resume it from Home.")) return;
+  if (QUIZ.activo && !confirm("¿Salir de la sesión? Tu progreso se guardará y podrás continuar desde Inicio.")) return;
   if (QUIZ.activo) { guardarQuizEnCurso(); QUIZ.activo = false; pararTimer(); }
   verVista("buscar");
 };
 $$("#tabbar button").forEach(b => b.onclick = () => {
-  if (QUIZ.activo && !confirm("Exit the test? Your progress will be saved and you can resume it from Home.")) return;
+  if (QUIZ.activo && !confirm("¿Salir de la sesión? Tu progreso se guardará y podrás continuar desde Inicio.")) return;
   if (QUIZ.activo) { guardarQuizEnCurso(); QUIZ.activo = false; pararTimer(); }
   verVista(b.dataset.view);
 });
@@ -141,11 +141,9 @@ function iconoSistema(nombre) {
 }
 
 // Builds the unit list dynamically from DB.temas, grouped by "sistema".
-// Different sources sometimes reuse the same topic name within a system
-// (e.g. AnKing + NBME both have "Cardiovascular Pathology") — these are
-// merged into a single node (`ns`: all underlying tema ids); the existing
-// per-source filter in the practice setup screen already lets the user
-// pick which source(s) to draw from within that one topic.
+// Different materials may reuse the same topic name within an assignment —
+// these are merged into a single node (`ns`: all underlying topic ids). The
+// material filter still lets the learner choose which content to practise.
 let _unidades = null;
 function unidadesActuales() {
   if (_unidades) return _unidades;
@@ -244,12 +242,18 @@ function pintarTemario() {
   cont.innerHTML = "";
   const conP = temasConPreguntas();
   const units = unidadesActuales();
+  if (!units.length) {
+    const sub = $("#temario-sub");
+    if (sub) sub.textContent = "Todavía no hay asignaturas. Añadiremos el módulo de 1.º de ESO en el siguiente paso.";
+    cont.innerHTML = `<div class="card"><h3>📚 Contenido pendiente</h3><p class="mini">Cuando incorporemos los libros y las primeras preguntas aparecerán aquí las asignaturas, los temas y el camino de estudio.</p></div>`;
+    return;
+  }
   const stMap = new Map();
   units.forEach(u => u.temas.forEach(t => { if (t.ns.some(id => conP.has(id))) stMap.set(t, statsConjunto(t.ns)); }));
   let domin = 0, totalTemas = 0;
   stMap.forEach(st => { totalTemas++; if (st.dominado) domin++; });
   const sub = $("#temario-sub");
-  if (sub) sub.textContent = `${domin}/${totalTemas} topics mastered · tap a unit to see its path`;
+  if (sub) sub.textContent = `${domin}/${totalTemas} temas dominados · toca una asignatura para ver su recorrido`;
   units.forEach((u, ui) => {
     const pal = PAL[u.color];
     const uid = "u" + ui;
@@ -262,7 +266,7 @@ function pintarTemario() {
     banner.style.background = pal.c;
     banner.style.boxShadow = "0 4px 0 " + pal.d;
     // Open: left side (icon/title) launches the whole subject, chevron collapses.
-    const labelTxt = abierta ? `tap to practice all ${temasU.length} topics` : `${domU}/${temasU.length} mastered`;
+    const labelTxt = abierta ? `toca para practicar sus ${temasU.length} temas` : `${domU}/${temasU.length} dominados`;
     banner.innerHTML = `<span class="unit-ico">${u.icon}</span>
       <span class="unit-meta">
         <span class="unit-label">${labelTxt}</span>
@@ -341,15 +345,15 @@ function pintarTemaConfig() {
   }
   if (PF.todo) {
     $("#tc-hero-ico").textContent = "📚";
-    $("#tc-hero-label").textContent = "Whole question bank";
-    $("#tc-hero-title").textContent = "All subjects";
+    $("#tc-hero-label").textContent = "Todo el contenido";
+    $("#tc-hero-title").textContent = "Todas las asignaturas";
   } else {
     $("#tc-hero-ico").textContent = u ? u.icon : "📘";
     if (enUnidad) {
-      $("#tc-hero-label").textContent = `Whole subject · ${PF.temas.size} topics`;
+      $("#tc-hero-label").textContent = `Asignatura completa · ${PF.temas.size} temas`;
       $("#tc-hero-title").textContent = u.title;
     } else {
-      $("#tc-hero-label").textContent = u ? u.title : "Topic";
+      $("#tc-hero-label").textContent = u ? u.title : "Tema";
       $("#tc-hero-title").textContent = tema ? tema.nombre : "";
     }
   }
@@ -386,7 +390,7 @@ function pintarTemaConfig() {
 function actualizarTCPool() {
   const nF = PF.fuentes.size;
   const disp = poolPractica().length;
-  $("#tc-pool-info").textContent = `${nF} source${nF !== 1 ? "s" : ""} · ${disp} questions available`;
+  $("#tc-pool-info").textContent = `${nF} material${nF !== 1 ? "es" : ""} · ${disp} preguntas disponibles`;
   $("#tc-empezar").disabled = disp === 0;
 }
 function initTemaConfig() {
@@ -406,7 +410,7 @@ function initTemaConfig() {
 }
 function startPracticaTema() {
   let pool = poolPractica();
-  if (!pool.length) { alert("No questions match those filters."); return; }
+  if (!pool.length) { alert("No hay preguntas que coincidan con esos filtros."); return; }
   pool = construirLista(pool, PF.barajar, PF.n);
   QUIZ.activo = true; QUIZ.modo = "practica"; QUIZ.lista = pool;
   QUIZ.i = 0; QUIZ.respuestas = {};
@@ -473,10 +477,10 @@ $("#btn-start-simulacro").onclick = () => {
   const n = parseInt(segValor("sim-n"));
   const pool = poolSimulacro();
   if (pool.length < n) {
-    if (!confirm(`Only ${pool.length} questions are available (you asked for ${n}). Start anyway?`)) return;
+    if (!confirm(`Solo hay ${pool.length} preguntas disponibles (has pedido ${n}). ¿Empezar de todos modos?`)) return;
   }
   const lista = barajar(pool).slice(0, Math.min(n, pool.length));
-  if (!lista.length) { alert("No questions available."); return; }
+  if (!lista.length) { alert("Todavía no hay preguntas disponibles."); return; }
   lanzarSimulacro(lista);
 };
 
@@ -492,14 +496,14 @@ function actualizarPoolSim() {
   if ($("#view-simulacro").classList.contains("hidden")) return;
   const info = $("#sim-pool-info");
   const btn = $("#btn-start-simulacro");
-  info.textContent = `${poolSimulacro().length} questions available`;
-  if (btn) btn.textContent = "Start test block";
+  info.textContent = `${poolSimulacro().length} preguntas disponibles`;
+  if (btn) btn.textContent = "Empezar simulacro";
 }
 $("#sim-norepetir").addEventListener("change", actualizarPoolSim);
 
 function tickTimer() {
   const ms = QUIZ.fin - Date.now();
-  if (ms <= 0) { pararTimer(); alert("⏱️ Time's up. Grading the test block."); finalizarSimulacro(); return; }
+  if (ms <= 0) { pararTimer(); alert("⏱️ Se acabó el tiempo. Se corregirá el simulacro."); finalizarSimulacro(); return; }
   const m = Math.floor(ms / 60000), s = Math.floor((ms % 60000) / 1000);
   const el = $("#quiz-timer");
   el.textContent = `${m}:${String(s).padStart(2, "0")}`;
@@ -508,7 +512,7 @@ function tickTimer() {
 function pararTimer() { if (QUIZ.timerInt) { clearInterval(QUIZ.timerInt); QUIZ.timerInt = null; } }
 
 $("#btn-quiz-salir").onclick = () => {
-  if (!confirm("Exit the test? Your progress will be saved and you can resume it from Home.")) return;
+  if (!confirm("¿Salir del simulacro? Tu progreso se guardará y podrás continuar desde Inicio.")) return;
   guardarQuizEnCurso(); QUIZ.activo = false; pararTimer();
   verVista("inicio");
 };
@@ -537,7 +541,7 @@ function refrescarGrid() {
     b.classList.toggle("actual", idx === QUIZ.i);
   });
   const sum = $("#quiz-mapa-sum");
-  if (sum) sum.textContent = `🗺️ Question map · ${resp}/${QUIZ.lista.length} answered`;
+  if (sum) sum.textContent = `🗺️ Mapa · ${resp}/${QUIZ.lista.length} contestadas`;
 }
 
 function pintarPregunta() {
@@ -549,7 +553,7 @@ function pintarPregunta() {
   if (barEl) barEl.style.width = pct + "%";
   const cEl = $("#quiz-count");
   if (cEl) cEl.textContent = `${QUIZ.i + 1}/${total}`;
-  $("#quiz-progreso").setAttribute("aria-label", `Question ${QUIZ.i + 1} of ${total}`);
+  $("#quiz-progreso").setAttribute("aria-label", `Pregunta ${QUIZ.i + 1} de ${total}`);
   const tema = q.tema && TEMA[q.tema] ? ` · ${TEMA[q.tema].nombre}` : "";
   const fuenteNombre = q.fuente && FUENTE[q.fuente] ? FUENTE[q.fuente].nombre : "";
   $("#q-meta").textContent = `${fuenteNombre}${QUIZ.modo === "practica" ? tema : ""}`;
@@ -580,7 +584,7 @@ function pintarPregunta() {
   $("#btn-q-blanco").classList.toggle("hidden", !esSim);
   $("#btn-q-next").classList.add("hidden");
   $("#btn-q-fin").classList.toggle("hidden", !esSim);
-  if (esSim) $("#btn-q-fin").textContent = `Finish (${Object.keys(QUIZ.respuestas).length}/${QUIZ.lista.length})`;
+  if (esSim) $("#btn-q-fin").textContent = `Terminar (${Object.keys(QUIZ.respuestas).length}/${QUIZ.lista.length})`;
   // Practice: if the question was already answered (e.g. resuming mid-way),
   // show its state and the Next button so it doesn't stay blocked.
   if (!esSim && QUIZ.respuestas[q.id] !== undefined) mostrarRespuestaPractica(q);
@@ -595,12 +599,12 @@ function pintarImagen(q) {
     cont.innerHTML = "";
     const img = document.createElement("img");
     img.src = q.img;
-    img.alt = "Question image";
+    img.alt = "Imagen de la pregunta";
     img.loading = "lazy";
     img.onclick = () => abrirLightbox(q.img);
     const hint = document.createElement("div");
     hint.className = "img-hint";
-    hint.textContent = "🔍 Tap the image to enlarge it";
+    hint.textContent = "🔍 Toca la imagen para ampliarla";
     cont.appendChild(img);
     cont.appendChild(hint);
     cont.classList.remove("hidden");
@@ -658,14 +662,14 @@ function mostrarRespuestaPractica(q) {
   box.innerHTML = "";
   const div = document.createElement("div");
   div.className = "exp-box" + (ok ? "" : " mal");
-  const titulo = ok ? "✅ Correct!" : `❌ Incorrect. The correct answer is ${q.r ?? "—"}.`;
-  const cuerpo = (q.e && q.e.correcta) || "No explanation available yet for this question.";
+  const titulo = ok ? "✅ ¡Correcto!" : `❌ Incorrecto. La respuesta correcta es ${q.r ?? "—"}.`;
+  const cuerpo = (q.e && q.e.correcta) || "Todavía no hay explicación para esta pregunta.";
   div.innerHTML = `<div class="titulo"></div><div class="cuerpo"></div>`;
   div.querySelector(".titulo").textContent = titulo;
   div.querySelector(".cuerpo").textContent = cuerpo;
   box.appendChild(div);
   if (QUIZ.i < QUIZ.lista.length - 1) $("#btn-q-next").classList.remove("hidden");
-  else { $("#btn-q-fin").classList.remove("hidden"); $("#btn-q-fin").textContent = "See summary"; }
+  else { $("#btn-q-fin").classList.remove("hidden"); $("#btn-q-fin").textContent = "Ver resumen"; }
 }
 
 function actualizarBotonMarcar(qid) {
@@ -691,7 +695,7 @@ $("#btn-q-blanco").onclick = () => { delete QUIZ.respuestas[QUIZ.lista[QUIZ.i].i
 $("#btn-q-fin").onclick = () => {
   if (QUIZ.modo === "simulacro") {
     const sinResp = QUIZ.lista.length - Object.keys(QUIZ.respuestas).length;
-    if (sinResp > 0 && !confirm(`You have ${sinResp} unanswered questions (they'll be left blank). Finish?`)) return;
+    if (sinResp > 0 && !confirm(`Hay ${sinResp} preguntas sin responder (quedarán en blanco). ¿Terminar?`)) return;
     finalizarSimulacro();
   } else {
     finalizarPractica();
@@ -710,7 +714,7 @@ function finalizarPractica() {
     else rev.push({ q, r, estado: "mal" });
   });
   pintarResultado({
-    titulo: "Practice finished",
+    titulo: "Práctica terminada",
     aciertos: ok, errores: tot - ok, blancos: QUIZ.lista.length - tot,
     n: QUIZ.lista.length, nota: null, revision: rev,
   });
@@ -732,7 +736,7 @@ function finalizarSimulacro() {
   const nota = n ? (ok / n) * 100 : 0;
   ST.simulacros.push({ ts: Date.now(), n, ok, mal, blanco, nota: +nota.toFixed(1) });
   guardar();
-  pintarResultado({ titulo: "Test block graded", aciertos: ok, errores: mal, blancos: blanco, n, nota, revision: rev });
+  pintarResultado({ titulo: "Simulacro corregido", aciertos: ok, errores: mal, blancos: blanco, n, nota, revision: rev });
   verVista("resultado");
 }
 
@@ -742,11 +746,11 @@ function pintarResultado(r) {
   _resultadoVolver = r.volver || (QUIZ.modo === "simulacro" ? "simulacro" : "practica");
   // Celebratory / encouraging header (not in review-only mode), tiered by score
   const nota = r.nota;
-  let emoji = "🎉", titulo = "Nice work!", color = "var(--ok)";
+  let emoji = "🎉", titulo = "¡Buen trabajo!", color = "var(--ok)";
   if (nota != null) {
-    if (nota >= 70) { emoji = "🎉"; titulo = "Nice work!"; color = "var(--ok)"; }
-    else if (nota >= 50) { emoji = "📚"; titulo = "Keep studying!"; color = "var(--aviso)"; }
-    else { emoji = "💪"; titulo = "That was a tough one"; color = "var(--mal)"; }
+    if (nota >= 70) { emoji = "🎉"; titulo = "¡Buen trabajo!"; color = "var(--ok)"; }
+    else if (nota >= 50) { emoji = "📚"; titulo = "¡Sigue estudiando!"; color = "var(--aviso)"; }
+    else { emoji = "💪"; titulo = "Esta costaba un poco"; color = "var(--mal)"; }
   }
   const hero = $("#resultado-hero");
   if (hero) {
@@ -755,7 +759,7 @@ function pintarResultado(r) {
       hero.classList.remove("hidden");
       hero.innerHTML = `<div class="res-emoji">${emoji}</div>
         <div class="res-titulo" style="color:${color}">${titulo}</div>
-        <div class="res-sub">You got ${r.aciertos} of ${r.n} questions right</div>`;
+        <div class="res-sub">Has acertado ${r.aciertos} de ${r.n} preguntas</div>`;
     }
   }
   const res = $("#resultado-resumen");
@@ -763,11 +767,11 @@ function pintarResultado(r) {
   const h = document.createElement("h3"); h.textContent = r.titulo; res.appendChild(h);
   if (soloRev) {
     const mini = document.createElement("div"); mini.className = "mini";
-    mini.textContent = `${r.n} question${r.n !== 1 ? "s" : ""} · tap 🏳️ to remove one from your flagged list`;
+    mini.textContent = `${r.n} pregunta${r.n !== 1 ? "s" : ""} · toca 🏳️ para quitarla de guardadas`;
     res.appendChild(mini);
     const inp = document.createElement("input");
     inp.type = "search"; inp.className = "guard-buscar";
-    inp.placeholder = "🔎 Search a question…";
+    inp.placeholder = "🔎 Buscar una pregunta…";
     inp.oninput = () => {
       const term = inp.value.trim().toLowerCase();
       let visibles = 0;
@@ -788,15 +792,15 @@ function pintarResultado(r) {
       nd.style.color = r.nota >= 60 ? "var(--ok)" : "var(--mal)";
       res.appendChild(nd);
       const mini = document.createElement("div"); mini.className = "mini"; mini.style.textAlign = "center";
-      mini.textContent = "Percent correct";
+      mini.textContent = "Porcentaje de aciertos";
       res.appendChild(mini);
     }
     const det = document.createElement("div");
     det.className = "res-detalle";
-    det.innerHTML = `<div><b>${r.aciertos}</b><span class="mini">correct</span></div>
-      <div><b>${r.errores}</b><span class="mini">incorrect</span></div>
-      <div><b>${r.blancos}</b><span class="mini">blank</span></div>
-      <div><b>${r.n}</b><span class="mini">questions</span></div>`;
+    det.innerHTML = `<div><b>${r.aciertos}</b><span class="mini">aciertos</span></div>
+      <div><b>${r.errores}</b><span class="mini">errores</span></div>
+      <div><b>${r.blancos}</b><span class="mini">en blanco</span></div>
+      <div><b>${r.n}</b><span class="mini">preguntas</span></div>`;
     res.appendChild(det);
   }
 
@@ -816,12 +820,12 @@ function pintarResultado(r) {
     });
     const peores = Object.entries(fallosSistema).sort((a, b) => b[1] - a[1]).slice(0, 5);
     if (peores.length) {
-      let desg = `<div class="card"><h3>Test block breakdown</h3>
-        <div class="mini" style="font-weight:700;text-transform:uppercase;font-size:.72rem;">Subjects with most misses</div>`;
+      let desg = `<div class="card"><h3>Desglose del simulacro</h3>
+        <div class="mini" style="font-weight:700;text-transform:uppercase;font-size:.72rem;">Asignaturas con más errores</div>`;
       peores.forEach(([sistema, nf]) => {
         desg += `<div class="tema-flojo-row"><div style="flex:1;min-width:0;font-size:.84rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">
           <b>${sistema}</b></div>
-          <span style="color:var(--mal);font-weight:700;flex-shrink:0;">${nf} miss${nf !== 1 ? "es" : ""}</span></div>`;
+          <span style="color:var(--mal);font-weight:700;flex-shrink:0;">${nf} error${nf !== 1 ? "es" : ""}</span></div>`;
       });
       cont.innerHTML = desg + `</div>`;
     }
@@ -829,11 +833,11 @@ function pintarResultado(r) {
 
   if (r.revision) {
     const card = document.createElement("div"); card.className = "card";
-    const t = document.createElement("h3"); t.textContent = soloRev ? "Your flagged questions" : "Review"; card.appendChild(t);
+    const t = document.createElement("h3"); t.textContent = soloRev ? "Preguntas guardadas" : "Repaso"; card.appendChild(t);
     if (soloRev) {
       const vac = document.createElement("div");
       vac.id = "rev-sin-resultados"; vac.className = "mini hidden";
-      vac.textContent = "No question matches your search.";
+      vac.textContent = "Ninguna pregunta coincide con la búsqueda.";
       card.appendChild(vac);
     }
     r.revision.forEach((item, idx) => {
@@ -853,10 +857,10 @@ function tarjetaPregunta(q, idx, opts = {}) {
   const est = estado === "ok" ? "✓" : estado === "mal" ? "✗" : "—";
   const estHTML = soloLectura ? "" : `<span class="estado">${est}</span> `;
   const respHTML = soloLectura
-    ? `<div class="mini rev-resp">Correct: ${q.r ?? "—"} · <span class="ver-exp">see explanation</span></div>`
-    : `<div class="mini rev-resp">Your answer: ${tuRespuesta ?? "blank"} · Correct: ${q.r ?? "—"} · <span class="ver-exp">see explanation</span></div>`;
+    ? `<div class="mini rev-resp">Correcta: ${q.r ?? "—"} · <span class="ver-exp">ver explicación</span></div>`
+    : `<div class="mini rev-resp">Tu respuesta: ${tuRespuesta ?? "en blanco"} · Correcta: ${q.r ?? "—"} · <span class="ver-exp">ver explicación</span></div>`;
   div.innerHTML = `<div class="rev-cab">${estHTML}<b>${idx + 1}.</b> <span class="enun"></span>
-    <button class="rev-flag" title="Save question" aria-label="Save question"></button></div>
+    <button class="rev-flag" title="Guardar pregunta" aria-label="Guardar pregunta"></button></div>
     <div class="rev-opciones"></div>
     ${respHTML}
     <div class="exp hidden"></div>`;
@@ -886,7 +890,7 @@ function tarjetaPregunta(q, idx, opts = {}) {
     const e = div.querySelector(".exp");
     if (e.classList.contains("hidden")) {
       e.classList.remove("hidden");
-      const txt = (q.e && q.e.correcta) || "No explanation available.";
+      const txt = (q.e && q.e.correcta) || "No hay explicación disponible.";
       e.innerHTML = `<div class="exp-box"><div class="cuerpo"></div></div>`;
       e.querySelector(".cuerpo").textContent = txt;
     } else e.classList.add("hidden");
@@ -901,7 +905,7 @@ function verRevisionGuardadas(lista) {
   if (!guardadas.length) { verVista("inicio"); return; }
   const rev = guardadas.map(q => ({ q, r: null, estado: "blanco" }));
   pintarResultado({
-    titulo: "Flagged questions",
+    titulo: "Preguntas guardadas",
     aciertos: 0, errores: 0, blancos: guardadas.length, n: guardadas.length,
     nota: null, revision: rev, soloRevision: true, volver: "inicio",
   });
@@ -950,7 +954,7 @@ function construirChipsFuente() {
     };
     return b;
   };
-  cont.appendChild(mk("", "All"));
+  cont.appendChild(mk("", "Todos"));
   FUENTES.forEach(f => cont.appendChild(mk(f, FUENTE[f] ? FUENTE[f].nombre : f)));
 }
 
@@ -972,7 +976,7 @@ function construirListaTemas() {
     };
     return b;
   };
-  cont.appendChild(mk("", `<b>All topics</b>`));
+  cont.appendChild(mk("", `<b>Todos los temas</b>`));
   temas.forEach(t => {
     const row = mk(t.id, `<span class="tnom"></span>`);
     row.querySelector(".tnom").textContent = t.nombre;
@@ -989,7 +993,7 @@ function buscarPorTexto() {
   const hayFiltro = q || fuentes.size || temaId != null || soloFall || soloGuard;
 
   if (!hayFiltro) {
-    renderResultadosBuscar([], "Type a word or use the filters to search across the " + DB.preguntas.length + " questions.");
+    renderResultadosBuscar([], "Escribe una palabra o usa los filtros para buscar entre las " + DB.preguntas.length + " preguntas.");
     return;
   }
   const res = DB.preguntas.filter(p => {
@@ -1014,17 +1018,17 @@ function renderResultadosBuscar(lista, mensajeVacio) {
   const btn = $("#buscar-practicar");
   cont.innerHTML = "";
   if (!lista.length) {
-    info.textContent = mensajeVacio || "No results.";
+    info.textContent = mensajeVacio || "No hay resultados.";
     btn.style.display = "none";
     return;
   }
   const total = lista.length;
   const mostrados = lista.slice(0, BUSCAR.MAX);
   info.textContent = total > BUSCAR.MAX
-    ? `${total} results · showing ${BUSCAR.MAX} (refine your search)`
-    : `${total} result${total !== 1 ? "s" : ""}`;
+    ? `${total} resultados · mostrando ${BUSCAR.MAX} (afina la búsqueda)`
+    : `${total} resultado${total !== 1 ? "s" : ""}`;
   btn.style.display = "block";
-  btn.textContent = `🎲 Practice ${total} result${total !== 1 ? "s" : ""}`;
+  btn.textContent = `🎲 Practicar ${total} resultado${total !== 1 ? "s" : ""}`;
   const card = document.createElement("div"); card.className = "card";
   mostrados.forEach((q, idx) => card.appendChild(tarjetaPregunta(q, idx, { soloLectura: true })));
   cont.appendChild(card);
@@ -1035,10 +1039,10 @@ function pintarHistorialSim() {
   if (!_simFuentesInit) initSimFuentes();
   actualizarPoolSim();
   const cont = $("#sim-historial");
-  if (!ST.simulacros.length) { cont.innerHTML = '<div class="mini">You haven\'t done a test block yet.</div>'; return; }
-  let html = '<table class="stats-tabla"><tr><th>Date</th><th>Q.</th><th>✓</th><th>✗</th><th>Score</th></tr>';
+  if (!ST.simulacros.length) { cont.innerHTML = '<div class="mini">Todavía no has hecho ningún simulacro.</div>'; return; }
+  let html = '<table class="stats-tabla"><tr><th>Fecha</th><th>Preg.</th><th>✓</th><th>✗</th><th>Nota</th></tr>';
   [...ST.simulacros].reverse().forEach(s => {
-    const f = new Date(s.ts).toLocaleDateString("en-US", { day: "2-digit", month: "short" });
+    const f = new Date(s.ts).toLocaleDateString("es-ES", { day: "2-digit", month: "short" });
     html += `<tr><td>${f}</td><td>${s.n}</td><td>${s.ok}</td><td>${s.mal}</td><td><b>${Math.round(s.nota)}%</b></td></tr>`;
   });
   cont.innerHTML = html + "</table>";
@@ -1068,7 +1072,7 @@ function pintarStats() {
   });
 
   if (!tot) {
-    cont.innerHTML = '<div class="card"><p>You haven\'t answered any questions yet. Start a practice session!</p></div>';
+    cont.innerHTML = '<div class="card"><p>Todavía no has respondido ninguna pregunta. Cuando añadamos el primer módulo podrás empezar a practicar.</p></div>';
     return;
   }
 
@@ -1077,30 +1081,30 @@ function pintarStats() {
   const totalDisponibles = DB.preguntas.filter(q => q.r).length;
   const vistas = qids.filter(id => PREGUNTA[id]).length;
 
-  let html = `<div class="card"><h3>Summary</h3><div class="stat-grid">
-    <div class="stat-box"><b>${tot}</b><span>answers given</span></div>
-    <div class="stat-box"><b>${pct(ok / tot)}%</b><span>overall accuracy</span></div>
-    <div class="stat-box"><b>${vistas}/${totalDisponibles}</b><span>questions seen</span></div>
-    <div class="stat-box"><b>${nFalladas}</b><span>pending review</span></div>
+  let html = `<div class="card"><h3>Resumen</h3><div class="stat-grid">
+    <div class="stat-box"><b>${tot}</b><span>respuestas</span></div>
+    <div class="stat-box"><b>${pct(ok / tot)}%</b><span>aciertos totales</span></div>
+    <div class="stat-box"><b>${vistas}/${totalDisponibles}</b><span>preguntas vistas</span></div>
+    <div class="stat-box"><b>${nFalladas}</b><span>pendientes de repaso</span></div>
   </div>
-  <button class="btn primary" id="btn-repasar" ${nFalladas ? "" : "disabled"}>🔁 Review the ${nFalladas} missed</button>
+  <button class="btn primary" id="btn-repasar" ${nFalladas ? "" : "disabled"}>🔁 Repasar las ${nFalladas} falladas</button>
   </div>`;
 
   // Recent activity (last 14 days)
   const dias = Object.keys(porDia).sort().slice(-14);
-  html += `<div class="card"><h3>Recent activity</h3>`;
+  html += `<div class="card"><h3>Actividad reciente</h3>`;
   const maxDia = Math.max(...dias.map(d => porDia[d][0]));
   dias.forEach(d => {
     const [n, a] = porDia[d];
-    const fecha = new Date(d + "T12:00").toLocaleDateString("en-US", { weekday: "short", day: "2-digit", month: "short" });
-    html += `<div class="tema-stat"><div class="fila"><span>${fecha} — ${n} questions</span>
+    const fecha = new Date(d + "T12:00").toLocaleDateString("es-ES", { weekday: "short", day: "2-digit", month: "short" });
+    html += `<div class="tema-stat"><div class="fila"><span>${fecha} — ${n} preguntas</span>
       <span class="pct">${pct(a / n)}%</span></div>
       <div class="barra"><div style="width:${pct(n / maxDia)}%;background:var(--azul)"></div></div></div>`;
   });
   html += `</div>`;
 
   // By source
-  html += `<div class="card"><h3>By source</h3>`;
+  html += `<div class="card"><h3>Por material</h3>`;
   Object.entries(porFuente).sort((a, b) => b[1][0] - a[1][0]).forEach(([f, [n, a]]) => {
     const p = a / n;
     const col = p >= .7 ? "var(--ok)" : p >= .5 ? "var(--aviso)" : "var(--mal)";
@@ -1108,19 +1112,19 @@ function pintarStats() {
     html += `<div class="tema-stat"><div class="fila" style="align-items:center;gap:10px;">
         <span class="com-stat-nombre"><b>${nombre}</b></span>
         <span class="pct" style="color:${col}">${pct(p)}%</span></div>
-      <div class="mini">${n} answer${n !== 1 ? "s" : ""}</div>
+      <div class="mini">${n} respuesta${n !== 1 ? "s" : ""}</div>
       <div class="barra"><div style="width:${pct(p)}%;background:${col}"></div></div></div>`;
   });
   html += `</div>`;
 
   // Accuracy by subject (system)
-  html += `<div class="card"><h3>Accuracy by subject</h3>${htmlPorSistema()}</div>`;
+  html += `<div class="card"><h3>Aciertos por asignatura</h3>${htmlPorSistema()}</div>`;
 
   // By topic (weakest first)
   const temasOrd = Object.entries(porTema)
     .map(([t, [n, a]]) => ({ t: +t, n, p: a / n }))
     .sort((x, y) => x.p - y.p || y.n - x.n);
-  html += `<div class="card"><h3>By topic (weakest first)</h3>`;
+  html += `<div class="card"><h3>Por tema (más difíciles primero)</h3>`;
   temasOrd.forEach(({ t, n, p }) => {
     const tema = TEMA[t];
     const col = p >= .7 ? "var(--ok)" : p >= .5 ? "var(--aviso)" : "var(--mal)";
@@ -1129,11 +1133,11 @@ function pintarStats() {
         <div class="fila">
           <span>${tema ? tema.nombre.slice(0, 90) : "?"}</span>
           <span class="pct" style="color:${col}">${pct(p)}%</span></div>
-        <div class="mini">${n} answers</div>
+        <div class="mini">${n} respuestas</div>
         <div class="barra"><div style="width:${pct(p)}%;background:${col}"></div></div>
       </div>
       <button class="btn btn-practicar-tema" data-tema="${t}"
-        style="width:auto;margin:0;font-size:.78rem;padding:6px 10px;flex-shrink:0;">Practice</button>
+        style="width:auto;margin:0;font-size:.78rem;padding:6px 10px;flex-shrink:0;">Practicar</button>
     </div></div>`;
   });
   html += `</div>`;
@@ -1156,7 +1160,7 @@ $("#btn-export").onclick = () => {
   const blob = new Blob([JSON.stringify(ST, null, 1)], { type: "application/json" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
-  a.download = `usmle-step1-progress-${new Date().toISOString().slice(0, 10)}.json`;
+  a.download = `estudios-progreso-${new Date().toISOString().slice(0, 10)}.json`;
   a.click();
 };
 $("#btn-import").onclick = () => $("#file-import").click();
@@ -1182,34 +1186,34 @@ $("#file-import").onchange = ev => {
       ST.marcadas = [...mSet];
       if (data.examenFecha) ST.examenFecha = data.examenFecha;
       guardar();
-      alert("Progress imported successfully.");
+      alert("Progreso importado correctamente.");
       pintarStats();
-    } catch { alert("That file doesn't look like a valid progress export."); }
+    } catch { alert("Ese archivo no parece una exportación de progreso válida."); }
   });
 };
 $("#btn-reset").onclick = () => {
-  if (!confirm("Are you sure? This will erase ALL your history of correct/incorrect answers and test blocks.")) return;
+  if (!confirm("¿Seguro? Se borrará todo el historial de aciertos, errores y simulacros.")) return;
   ST.attempts = {}; ST.simulacros = []; ST.simUsadas = []; ST.marcadas = [];
-  guardar(); borrarQuizGuardado(); alert("Progress erased.");
+  guardar(); borrarQuizGuardado(); alert("Progreso borrado.");
 };
 
 function pintarDbInfo() {
   const nQ = DB.preguntas.length;
   const nAnul = DB.preguntas.filter(q => !q.r).length;
-  $("#db-info").innerHTML = `Question bank version: <b>${DB.version}</b><br>
-    ${nQ} questions · ${DB.temas.length} topics · ${DB.fuentes.length} source${DB.fuentes.length !== 1 ? "s" : ""}<br>
-    ${nAnul} without an answer key`;
+  $("#db-info").innerHTML = `Versión del contenido: <b>${DB.version}</b><br>
+    ${nQ} preguntas · ${DB.temas.length} temas · ${DB.fuentes.length} material${DB.fuentes.length !== 1 ? "es" : ""}<br>
+    ${nQ ? `${nAnul} sin respuesta correcta` : "Aún no hay preguntas. Añadiremos el módulo de 1.º de ESO."}`;
   $("#topbar-info").innerHTML = `🔥 <span>${calcularRacha()}</span>`;
   const cicloEl = $("#sim-ciclo-info");
-  if (cicloEl) cicloEl.textContent = `${ST.simUsadas.length} questions already used in past test blocks`;
+  if (cicloEl) cicloEl.textContent = `${ST.simUsadas.length} preguntas ya usadas en simulacros anteriores`;
 }
 
 /* ============ Test blocks — reset cycle and exam date ============ */
 $("#btn-reiniciar-ciclo").onclick = () => {
-  if (!confirm(`Reset the cycle? The ${ST.simUsadas.length} questions already used will become available again in test blocks.`)) return;
+  if (!confirm(`¿Reiniciar el ciclo? Las ${ST.simUsadas.length} preguntas usadas volverán a estar disponibles en los simulacros.`)) return;
   ST.simUsadas = []; guardar(); pintarDbInfo();
   actualizarPoolSim();
-  alert("Test-block cycle reset.");
+  alert("Ciclo de simulacros reiniciado.");
 };
 
 $("#fecha-examen").addEventListener("change", () => {
@@ -1282,7 +1286,9 @@ function planDiario() {
   // Goal = pace to see everything + reviews due today, with a MINIMUM of 30/day
   // (the idea isn't just to see them, it's to learn them through repetition).
   const RITMO_MINIMO = 30;
-  const meta = Math.max(RITMO_MINIMO, Math.min(80, nuevasPorDia + due.length));
+  const meta = universo.length
+    ? Math.max(RITMO_MINIMO, Math.min(80, nuevasPorDia + due.length))
+    : 0;
   return {
     universo, total: universo.length, vistas: universo.length - nuevas.length,
     nuevas, due, dias, nuevasPorDia, meta, hechoHoy: preguntasHechasHoy()
@@ -1338,15 +1344,15 @@ function pronostico(plan) {
   const diasCubrir = ritmoNuevas > 0 ? Math.ceil(restantes / ritmoNuevas) : Infinity;
   const margen = p.dias - diasCubrir;
   let estado, tono;
-  if (restantes === 0) { estado = "You've seen the whole question bank! Now consolidate it with review."; tono = "ok"; }
-  else if (ritmoNuevas <= 0) { estado = `No measurable pace yet. At ${p.nuevasPorDia}/day new questions you'll have seen everything by exam day.`; tono = "info"; }
-  else if (margen >= 0) { estado = `Good pace: at this rate you'll finish the bank ~${margen} day${margen !== 1 ? "s" : ""} before the exam. ✅`; tono = "ok"; }
-  else { const faltan = Math.max(0, restantes - Math.floor(ritmoNuevas * p.dias)); estado = `Cutting it close: at this rate ~${faltan} questions would go unseen. Bump it up to ${p.nuevasPorDia}/day. ⚠️`; tono = "warn"; }
+  if (restantes === 0) { estado = "Has visto todo el contenido. Ahora consolídalo con repasos."; tono = "ok"; }
+  else if (ritmoNuevas <= 0) { estado = `Todavía no hay ritmo medible. Con ${p.nuevasPorDia} preguntas nuevas al día llegarás preparado.`; tono = "info"; }
+  else if (margen >= 0) { estado = `Buen ritmo: terminarás el banco unos ${margen} día${margen !== 1 ? "s" : ""} antes de la fecha objetivo. ✅`; tono = "ok"; }
+  else { const faltan = Math.max(0, restantes - Math.floor(ritmoNuevas * p.dias)); estado = `Vas justo: quedarían unas ${faltan} preguntas sin ver. Sube el ritmo a ${p.nuevasPorDia} al día. ⚠️`; tono = "warn"; }
   return { coberturaPct, dominioPct, ritmoNuevas, estado, tono };
 }
 
 /* ============ Quiz autosave ============ */
-const LS_QUIZ_KEY = "usmle_step1_quiz_v1";
+const LS_QUIZ_KEY = "estudios_quiz_v1";
 
 function guardarQuizEnCurso() {
   if (!QUIZ.activo) return;
@@ -1425,7 +1431,7 @@ function htmlPorSistema() {
     return `<div class="cap-row"><div class="cap-head"><span><b>${label}</b></span>
       <span class="cap-pct" style="color:${col}">${p}%</span></div>
       <div class="barra"><div style="width:${p}%;background:${col};height:100%;border-radius:4px;"></div></div>
-      <div class="mini">${n} answers · ${ok} correct</div></div>`;
+      <div class="mini">${n} respuestas · ${ok} aciertos</div></div>`;
   };
   return entries.sort((a, b) => (a[1][1] / a[1][0]) - (b[1][1] / b[1][0]))
     .map(([label, [n, ok]]) => row(label, n, ok)).join("");
@@ -1445,12 +1451,12 @@ function svgSimulacros(sims) {
     const aprob = s.nota >= 60;
     const fill = aprob ? "#5DCAA5" : "#F09595";
     const txt = aprob ? "var(--ok)" : "var(--mal)";
-    const f = new Date(s.ts).toLocaleDateString("en-US", { day: "2-digit", month: "short" });
+    const f = new Date(s.ts).toLocaleDateString("es-ES", { day: "2-digit", month: "short" });
     bars += `<rect x="${(cx - barW / 2).toFixed(1)}" y="${y.toFixed(1)}" width="${barW.toFixed(1)}" height="${h.toFixed(1)}" rx="4" fill="${fill}"/>
       <text x="${cx.toFixed(1)}" y="${(y - 6).toFixed(1)}" font-size="13" text-anchor="middle" font-weight="700" style="fill:${txt}">${Math.round(s.nota)}%</text>
       <text x="${cx.toFixed(1)}" y="${(base + 17).toFixed(1)}" font-size="11" text-anchor="middle" style="fill:var(--texto-suave)">${f}</text>`;
   });
-  return `<svg viewBox="0 0 ${W} 135" width="100%" role="img" aria-label="Test block score trend, with a pass line at 60%">
+  return `<svg viewBox="0 0 ${W} 135" width="100%" role="img" aria-label="Evolución de simulacros, con línea de aprobado al 60%">
     <line x1="0" y1="${y60}" x2="${W}" y2="${y60}" stroke-width="1" stroke-dasharray="5 5" style="stroke:var(--texto-suave)"/>
     ${bars}
   </svg>`;
@@ -1469,11 +1475,11 @@ function pintarInicio() {
   const hora = new Date().getHours();
   const racha = calcularRacha();
   $("#inicio-saludo").textContent =
-    hora < 7 ? "Good evening! 👋" : hora < 14 ? "Good morning! 👋" : hora < 21 ? "Good afternoon! 👋" : "Good evening! 👋";
-  const fechaTxt = new Date().toLocaleDateString("en-US", { weekday: "long", day: "numeric", month: "long" });
+    hora < 7 ? "Buenas noches 👋" : hora < 14 ? "Buenos días 👋" : hora < 21 ? "Buenas tardes 👋" : "Buenas noches 👋";
+  const fechaTxt = new Date().toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long" });
   $("#inicio-fecha").textContent = racha > 0
-    ? `${fechaTxt} · keep your ${racha}-day streak going`
-    : `${fechaTxt} · start your streak today`;
+    ? `${fechaTxt} · llevas ${racha} día${racha !== 1 ? "s" : ""} seguido${racha !== 1 ? "s" : ""}`
+    : `${fechaTxt} · empieza tu racha hoy`;
   $("#topbar-info").innerHTML = `🔥 <span>${racha}</span>`;
 
   // Initial setup card (exam date). Hidden once set.
@@ -1493,8 +1499,8 @@ function pintarInicio() {
     if (ST.examenFecha && dias > 0) {
       cdEl.innerHTML = `<div class="cd-ico">📅</div>
         <div>
-          <div class="cd-num">${dias} day${dias !== 1 ? "s" : ""} left</div>
-          <div class="cd-sub">Pace: ${plan.meta} questions/day to be ready for exam day</div>
+          <div class="cd-num">${dias} día${dias !== 1 ? "s" : ""} restante${dias !== 1 ? "s" : ""}</div>
+          <div class="cd-sub">Ritmo: ${plan.meta} preguntas al día para llegar preparado</div>
         </div>`;
       cdEl.classList.remove("hidden");
     } else cdEl.classList.add("hidden");
@@ -1512,17 +1518,22 @@ function pintarInicio() {
   const ultSim = ST.simulacros.length ? ST.simulacros[ST.simulacros.length - 1] : null;
 
   const META = plan.meta;
-  const hechoHoy = Math.min(pregHoy, META);
+  const hechoHoy = META ? Math.min(pregHoy, META) : 0;
   const R = 34, C = 2 * Math.PI * R;
-  const off = C * (1 - hechoHoy / META);
+  const off = META ? C * (1 - hechoHoy / META) : C;
   const faltan = Math.max(0, META - pregHoy);
-  const objTxt = faltan > 0
-    ? `${faltan} question${faltan !== 1 ? "s" : ""} to reach today's goal`
-    : "Today's goal complete! ✓";
+  const objTxt = !META
+    ? "Añade el primer módulo para empezar"
+    : faltan > 0
+      ? `${faltan} pregunta${faltan !== 1 ? "s" : ""} para alcanzar el objetivo de hoy`
+      : "¡Objetivo de hoy completado! ✓";
   const sesion = sesionDiaria(plan);
   const nuevasEnSesion = sesion.filter(q => !vista(q.id)).length;
   const repasoEnSesion = sesion.length - nuevasEnSesion;
-  const desglose = `${nuevasEnSesion} new + ${repasoEnSesion} review · ${plan.nuevas.length} left to see`;
+  const desglose = META
+    ? `${nuevasEnSesion} nuevas + ${repasoEnSesion} de repaso · ${plan.nuevas.length} pendientes`
+    : "El contenido de estudio aparecerá aquí";
+  const accion = sesion.length ? (faltan > 0 ? "Estudiar ahora" : "Repaso extra") : "Próximamente";
   $("#inicio-objetivo").innerHTML = `
     <div class="obj-ring">
       <svg width="92" height="92" viewBox="0 0 92 92">
@@ -1533,10 +1544,10 @@ function pintarInicio() {
       <div class="obj-ring-txt"><b>${pregHoy}</b><span>/ ${META}</span></div>
     </div>
     <div class="obj-body">
-      <div class="obj-label">Today's goal</div>
+      <div class="obj-label">Objetivo de hoy</div>
       <div class="obj-meta">${objTxt}</div>
       <div class="obj-desglose">${desglose}</div>
-      <button class="btn primary" id="btn-repaso-dia">${faltan > 0 ? "Study now" : "Extra review"} · ${sesion.length} q.</button>
+      <button class="btn primary" id="btn-repaso-dia" ${sesion.length ? "" : "disabled"}>${accion}${sesion.length ? ` · ${sesion.length} preguntas` : ""}</button>
     </div>`;
   $("#btn-repaso-dia").onclick = () => iniciarSesion(sesion);
 
@@ -1545,11 +1556,11 @@ function pintarInicio() {
     if (plan.vistas > 0) {
       const pr = pronostico(plan);
       prevEl.innerHTML = `
-        <div class="prev-titulo">📈 Exam forecast</div>
+        <div class="prev-titulo">📈 Previsión</div>
         <div class="prev-estado prev-${pr.tono}">${pr.estado}</div>
         <div class="prev-barras">
-          <div class="prev-b"><div class="prev-b-top"><span>Bank seen</span><b>${pr.coberturaPct}%</b></div><div class="barra"><div style="width:${pr.coberturaPct}%;background:var(--azul-claro)"></div></div></div>
-          <div class="prev-b"><div class="prev-b-top"><span>Learned</span><b>${pr.dominioPct}%</b></div><div class="barra"><div style="width:${pr.dominioPct}%;background:var(--ok)"></div></div></div>
+          <div class="prev-b"><div class="prev-b-top"><span>Contenido visto</span><b>${pr.coberturaPct}%</b></div><div class="barra"><div style="width:${pr.coberturaPct}%;background:var(--azul-claro)"></div></div></div>
+          <div class="prev-b"><div class="prev-b-top"><span>Contenido aprendido</span><b>${pr.dominioPct}%</b></div><div class="barra"><div style="width:${pr.dominioPct}%;background:var(--ok)"></div></div></div>
         </div>`;
       prevEl.classList.remove("hidden");
     } else prevEl.classList.add("hidden");
@@ -1559,10 +1570,10 @@ function pintarInicio() {
   const contEl = $("#inicio-continuar");
   if (saved && saved.lista && saved.lista.length) {
     const restante = saved.fin ? Math.max(0, saved.fin - Date.now()) : null;
-    const minText = restante ? ` · ${Math.ceil(restante / 60000)} min left` : "";
-    contEl.innerHTML = `<div style="flex:1"><b>${saved.modo === "simulacro" ? "Test block" : "Practice"} in progress</b>
-      <div class="mini">Question ${saved.i + 1} of ${saved.lista.length}${minText}</div></div>
-      <button class="btn primary" id="btn-reanudar" style="width:auto;margin:0;">Continue</button>`;
+    const minText = restante ? ` · ${Math.ceil(restante / 60000)} min restantes` : "";
+    contEl.innerHTML = `<div style="flex:1"><b>${saved.modo === "simulacro" ? "Simulacro" : "Práctica"} en curso</b>
+      <div class="mini">Pregunta ${saved.i + 1} de ${saved.lista.length}${minText}</div></div>
+      <button class="btn primary" id="btn-reanudar" style="width:auto;margin:0;">Continuar</button>`;
     contEl.classList.remove("hidden");
     $("#btn-reanudar").onclick = reanudarQuiz;
   } else contEl.classList.add("hidden");
@@ -1571,10 +1582,10 @@ function pintarInicio() {
     `<div class="stat-box"><div class="stat-top"><span class="stat-ico">${ico}</span>` +
     `<b style="color:${color}">${val}</b></div><span>${label}</span></div>`;
   $("#inicio-stats-grid").innerHTML =
-    chip("🔥", racha, racha === 1 ? "Day streak" : "Day streak", "var(--aviso)") +
-    chip("✅", pregHoy, "Questions today", "var(--ok)") +
-    chip("🎯", tot7 ? Math.round(100 * ok7 / tot7) + "%" : "—", "7-day accuracy", "var(--azul-claro)") +
-    chip("🏆", ultSim ? Math.round(ultSim.nota) + "%" : "—", "Last test block", "var(--morado)");
+    chip("🔥", racha, "Días seguidos", "var(--aviso)") +
+    chip("✅", pregHoy, "Preguntas hoy", "var(--ok)") +
+    chip("🎯", tot7 ? Math.round(100 * ok7 / tot7) + "%" : "—", "Aciertos en 7 días", "var(--azul-claro)") +
+    chip("🏆", ultSim ? Math.round(ultSim.nota) + "%" : "—", "Último simulacro", "var(--morado)");
 
   const guardEl = $("#inicio-guardadas");
   if (guardEl) {
@@ -1584,13 +1595,13 @@ function pintarInicio() {
       guardEl.innerHTML = `<div class="guard-head">
           <div class="guard-ico">🚩</div>
           <div style="flex:1;min-width:0;">
-            <b>${ng} question${ng !== 1 ? "s" : ""} flagged</b>
-            <div class="mini" style="margin:2px 0 0;">Tap to review or practice</div>
+            <b>${ng} pregunta${ng !== 1 ? "s" : ""} guardada${ng !== 1 ? "s" : ""}</b>
+            <div class="mini" style="margin:2px 0 0;">Toca para repasarlas o practicarlas</div>
           </div>
         </div>
         <div class="guard-actions hidden">
-          <button class="btn" id="btn-guard-revisar">📖 Review</button>
-          <button class="btn" id="btn-guard-practicar">🎲 Practice</button>
+          <button class="btn" id="btn-guard-revisar">📖 Repasar</button>
+          <button class="btn" id="btn-guard-practicar">🎲 Practicar</button>
         </div>`;
       const gHead = guardEl.querySelector(".guard-head");
       const gActions = guardEl.querySelector(".guard-actions");
@@ -1631,9 +1642,9 @@ function pintarInicio() {
         <div class="barra"><div style="width:${pct}%;background:${color}"></div></div>
         <div class="flojo-foot">
           <span class="mini" style="margin:0;">${n} answer${n !== 1 ? "s" : ""}</span>
-          <button class="btn flojo-btn">Practice →</button>
+          <button class="btn flojo-btn">Practicar →</button>
         </div>`;
-      row.querySelector(".flojo-nombre").textContent = tema ? tema.nombre : "Topic " + t;
+      row.querySelector(".flojo-nombre").textContent = tema ? tema.nombre : "Tema " + t;
       row.querySelector("button").onclick = () => openTemaConfig(t);
       temasEl.appendChild(row);
     });
@@ -1644,7 +1655,7 @@ function pintarInicio() {
   const sims = ST.simulacros.slice(-6);
   if (sims.length >= 2) {
     $("#inicio-sims").innerHTML = svgSimulacros(sims) +
-      `<div class="mini" style="margin-top:6px">Last ${sims.length} test blocks · percent correct · dashed line = pass (60%)</div>`;
+      `<div class="mini" style="margin-top:6px">Últimos ${sims.length} simulacros · porcentaje de aciertos · línea discontinua = aprobado (60%)</div>`;
     simsCard.classList.remove("hidden");
   } else simsCard.classList.add("hidden");
 }

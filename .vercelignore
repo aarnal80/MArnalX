@@ -1,6 +1,6 @@
-# Only app/ is deployed. Everything below is source/build-time material
-# (raw datasets, source PDFs, planning docs, pipeline scripts) that the
-# static site does not need at runtime — excluded to keep deploys small.
+# Only app/ is deployed. Personal books and project documentation stay out of
+# the static deployment.
+/Libros/
 /data/
 /Examenes/
 /Temario comun examenes/

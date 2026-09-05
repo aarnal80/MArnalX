@@ -1,7 +1,8 @@
-# Python portable (runtime local, no versionar)
-.python-portable/
+# Materiales personales y libros escaneados
+Libros/
 
-# Python
+# Python y herramientas locales
+.python-portable/
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -9,52 +10,16 @@ __pycache__/
 venv/
 env/
 
-# Sistema operativo
+# Sistema operativo y editores
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
-
-# Editores
 .vscode/
 .idea/
 *.swp
 
-# Logs
+# Logs y archivos temporales
 *.log
-
-# Análisis de calidad: lotes de trabajo y backups (regenerables)
-batches/
 *.bak
-
-# Mazo AnKing original (contenido de terceros, no se versiona; ver PLAN_ANKING_STEP1.md)
-Anki/
-Anking_Step-1.apkg
-# Ficheros intermedios de extracción/conversión del mazo (regenerables con
-# tools/anki_extract.py + tools/anking_convert.workflow.js, ver PLAN_ANKING_STEP1.md)
-data/anking/_raw_*.json
-data/anking/_used_ids.json
-data/anking/_batches_in*/
-data/anking/_batches_out*/
-data/anking/_flagged_*.json
-data/anking/_rejected_report.json
-# Ficheros intermedios de la pasada de corrección de explicaciones (ver §10.7
-# de PLAN_ANKING_STEP1.md; regenerables con tools/anking_fix_explanations.workflow.js)
-data/anking/_weakest_*.json
-data/anking/_fix_batches_in*/
-data/anking/_fix_batches_out*/
-data/anking/_fix_flagged_*.json
-data/anking/_fix_rejected_report*.json
-# Ficheros intermedios de la extracción del cuadernillo oficial NBME/FSMB
-# (ver sección nueva de PLAN_ANKING_STEP1.md; se conserva _official_items_final.json
-# como checkpoint verificado, el resto es regenerable desde el PDF)
-data/anking/_official_answer_key.json
-data/anking/_official_image_log.json
-data/anking/_official_batches_in*/
-data/anking/_official_batches_out*/
-# Ficheros intermedios de la tanda piloto "con imagen/audio" (ver §13 del plan;
-# se conservan _media_trial_clean/_dropped/_merged como checkpoints, el resto
-# es regenerable volviendo a extraer del .apkg con tools/anki_extract_media.py)
-data/anking/_media_trial_batches_in*/
-data/anking/_media_trial_batches_out*/
-data/anking/_media_trial_qa_out_*.json
+batches/

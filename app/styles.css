@@ -1,8 +1,7 @@
 /* ===================================================================
-   USMLE Step 1 · Tema visual estilo Duolingo
-   Se conservan los nombres de clases y variables del original (heredado
-   de la app OPE Urgencias) para no tocar la lógica de app.js; solo
-   cambian valores y reglas visuales.
+   Estudios · Tema visual estilo Duolingo
+   Se conservan los nombres de clases y variables del motor original para
+   mantener la lógica estable mientras construimos el producto educativo.
    =================================================================== */
 
 /* Nunito embebida (fuente variable, pesos 400–900) — 100% local/offline */
